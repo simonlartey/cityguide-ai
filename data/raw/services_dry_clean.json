@@ -1,0 +1,1337 @@
+{
+  "search_metadata": {
+    "id": "6a4e683a50849c436cd470c6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/h_lCjo6EAv3a8Puwpkh5iQ/6a4e683a50849c436cd470c6.json",
+    "created_at": "2026-07-08 15:09:46 UTC",
+    "processed_at": "2026-07-08 15:09:46 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/dry+cleaning+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/h_lCjo6EAv3a8Puwpkh5iQ/6a4e683a50849c436cd470c6.html",
+    "prettify_html_file": "https://serpapi.com/searches/h_lCjo6EAv3a8Puwpkh5iQ/6a4e683a50849c436cd470c6.prettify",
+    "total_time_taken": 0.96
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "dry cleaning in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "dry cleaning in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland Dry Cleaners",
+      "place_id": "ChIJUZTuvw6bskwRgzbz4RVpqyE",
+      "data_id": "0x4cb29b0ebfee9451:0x21ab6915e1f33683",
+      "data_cid": "2426148366975186563",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b0ebfee9451%3A0x21ab6915e1f33683&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b0ebfee9451%3A0x21ab6915e1f33683&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6896036,
+        "longitude": -70.29377509999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUZTuvw6bskwRgzbz4RVpqyE",
+      "provider_id": "/g/1tf4dmvw",
+      "rating": 4.4,
+      "reviews": 35,
+      "unclaimed_listing": true,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner"
+      ],
+      "address": "28 Allen Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 878-3830",
+      "website": "http://www.portlanddrycleaners.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"I took my suit there to be dry cleaned and was happy with the result.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8tZItdqYVh_4qf9e95ZWIF7bh6xuG9wfI5opxAy8R_35B8eL3smX2rYPbCIFuZMjZC9e04cngn0CgndlNfXLiIFadZx7M3UUR8yjtkB4Ekh73ICp_T22iLXJbdOIvkgL_yceF8g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/k5pUjXicHcTbboIwAADQL0IqBSlLfAAyZg1eow77QkYpLRdbtGXCJ_oJ-5slnofz9xLG9PrDtjsBZ1wp3rFBswdV0jBpZlTdbN5ri2pL2-F-e2jDFTIEm_J-vYjcvVcBCzzyjRO_EItx-AqeFfZUP4YTOubQixBLob5lzuO6L2KcDGTTkDhgwKWSSxBzWXbbKktrnPyUZPQ38Hw-oqkxbeR-tsKHOO7zk-PUabYuyh3-bXmaT5QliC-fcwCAJd5TS_4DwLpE2Q"
+    },
+    {
+      "position": 2,
+      "title": "Pratt Abbott",
+      "place_id": "ChIJmUIeWO6bskwR592Ax2F3Its",
+      "data_id": "0x4cb29bee581e4299:0xdb227761c780dde7",
+      "data_cid": "15790314505357024743",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bee581e4299%3A0xdb227761c780dde7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bee581e4299%3A0xdb227761c780dde7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6580823,
+        "longitude": -70.29701229999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmUIeWO6bskwR592Ax2F3Its",
+      "provider_id": "/g/1thk8bpf",
+      "rating": 4.3,
+      "reviews": 95,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner",
+        "Clothing alteration service",
+        "Custom tailor",
+        "Laundromat",
+        "Laundry",
+        "Linens store",
+        "Tailor",
+        "Uniform store"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner",
+        "clothing_alteration_service",
+        "custom_tailor",
+        "laundromat",
+        "laundry",
+        "linens_store",
+        "tailor",
+        "uniform_store"
+      ],
+      "address": "1364 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20137\u202fPM",
+        "thursday": "7\u202fAM\u20137\u202fPM",
+        "friday": "7\u202fAM\u20137\u202fPM",
+        "saturday": "7\u202fAM\u20137\u202fPM",
+        "sunday": "7\u202fAM\u20137\u202fPM",
+        "monday": "7\u202fAM\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 774-6611",
+      "website": "https://prattabbott.com/locations/westgate/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"My drapes and comforter were cleaned perfectly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7azDoMGoOG5NwDGIDwlaa65G0zg9TGG_GDuUKe9lXkaAbOU74ZG1IetCtvE383ga-BulOGAA2EdTFatB706Zcl4n8eKSoc3GCper1-ES0eit9qbqk7A5jYnADd2e-VwuAVLs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MmgdUXicHcTdDsEwGADQJ6p1ZmYSF6XzRfyM-AlupOpLx6od7SzxgN7B20ici_P9FN5Xrh8EuohaylqlsXb4lNZ4NL4l7T1QlSPSERew5WJVsnEi3tzOweYQLxoOE95oIbox0LdKNwAn4PV2iqnel4Kd823SOUI4QT_yryzqRUqQYa1zYKydXTZj4YcJ7R6l7pgeTtdWRjCq8BmSbE3x6tPH-VEmLL4dDOOXNpJdU7PdzA2akFJKiv-SmB9YR0Il"
+    },
+    {
+      "position": 3,
+      "title": "Pratt Abbott",
+      "place_id": "ChIJWdnnlwqbskwRZypOWxinjT4",
+      "data_id": "0x4cb29b0a97e7d959:0x3e8da7185b4e2a67",
+      "data_cid": "4507442525120637543",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b0a97e7d959%3A0x3e8da7185b4e2a67&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b0a97e7d959%3A0x3e8da7185b4e2a67&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6839704,
+        "longitude": -70.2906173
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWdnnlwqbskwRZypOWxinjT4",
+      "provider_id": "/g/1tj2hhc5",
+      "rating": 4.4,
+      "reviews": 79,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner",
+        "Laundromat",
+        "Laundry"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner",
+        "laundromat",
+        "laundry"
+      ],
+      "address": "1065 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 797-7911",
+      "website": "https://prattabbott.com/locations/forest-ave",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"It came back a week early and looked brand new!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGY6ocIdDAF9UxC2R6-5ngg2SjhykTWAreFsgE6vJBv1d8CA-guITZydWxk1mCALBYgTmuoG69UZCPtk5MvihkmqVk6ZJzpYygHl1v4FWhyqQoLdiGVFc47Fci2T3Z0zgnfC7x9=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3HJMJXicHcRNjoIwGADQE1V-1Coms6jVosaZ6AgS2Bb8ioUWbUHwgp7B25j4Fu_9EtY2ZuE4lRiPQGuoitYUd66VLZQdcV070BjEDTIOOfwdJQlTrPk2XxEWxD31_zGaKgD_dBWDjBJyL5iBNe52y87L55QgaLdRNuRJL72akv0yhahudYiDOKMHK6e_XSlkfTtLnO2eTTrApvK6CUvEcDvqfV6GZ8YnM8ZLPxpn7hPUhc764Ofhua6LxHeO1Ac5uUSV"
+    },
+    {
+      "position": 4,
+      "title": "Pratt Abbott",
+      "place_id": "ChIJ--tVeYGeskwRSeq5ViEX5Ww",
+      "data_id": "0x4cb29e817955ebfb:0x6ce5172156b9ea49",
+      "data_cid": "7846703357719341641",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e817955ebfb%3A0x6ce5172156b9ea49&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e817955ebfb%3A0x6ce5172156b9ea49&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6359072,
+        "longitude": -70.2488501
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ--tVeYGeskwRSeq5ViEX5Ww",
+      "provider_id": "/g/1vvyxpd7",
+      "rating": 4.4,
+      "reviews": 79,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner",
+        "Laundry"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner",
+        "laundry"
+      ],
+      "address": "109 Cottage Rd, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 799-2960",
+      "website": "https://prattabbott.com/locations",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Did a great job with my uniform with a reasonable turn around time\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1z1HGQZFUZrYQ3HsRI77p1Ag4UlGy4O5CobvcbkBDnkXUO_pqj7ZsI7-jcneU1KRJESqnJA2Qe4KgeBU_nv8Q8563hHhtHjKZNEyd2ViOdZIRdsxctYP7wOnApUlSZjW9III=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8IEN7HicHcTbbsIgAADQL8IWW4cu8QGvYBMrNXjhxURKYG0HKKjTD9w_-DdLdh7O-9fE6MNnknQm62nndKduQV2ls1HZ2JPuO9E-ABlASPBmzVpM4AuSJRMLLq5HlpFQUYQ8xDrn3fKZl4OpO9_luZ3MbHvg5clfGiQCRaCRVnFYVKv59mJXuM9UXmg14Sd7H7Lh4CMzxETSFGI9f9b93VdZC1rV4UfG4wY9Sos977ai2Y8opeMHTNMUmP8lsH-pSEOC"
+    },
+    {
+      "position": 5,
+      "title": "Liliana's Laundry",
+      "place_id": "ChIJVT1SVF2cskwRmkPVAqkDHMk",
+      "data_id": "0x4cb29c5d54523d55:0xc91c03a902d5439a",
+      "data_cid": "14491461725403300762",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c5d54523d55%3A0xc91c03a902d5439a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c5d54523d55%3A0xc91c03a902d5439a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6663162,
+        "longitude": -70.2477546
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVT1SVF2cskwRmkPVAqkDHMk",
+      "provider_id": "/g/1tcykn1p",
+      "rating": 4.2,
+      "reviews": 52,
+      "unclaimed_listing": true,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner",
+        "Laundromat"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner",
+        "laundromat"
+      ],
+      "address": "111 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20136\u202fPM",
+        "thursday": "7\u202fAM\u20136\u202fPM",
+        "friday": "7\u202fAM\u20136\u202fPM",
+        "saturday": "7\u202fAM\u20135\u202fPM",
+        "sunday": "8\u202fAM\u20135\u202fPM",
+        "monday": "7\u202fAM\u20136\u202fPM",
+        "tuesday": "7\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 772-3444",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Do stop in for a friendly chat with the owner while getting some stains out!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHK6sw2f2cJqsA35onTe8TSYXLg1D6eTSQMz_tWlOH9rz5SqrVsL5RHkDw574ksPDO5bG-wiR28Jv6ULmAsXudyw3zLSbHh6se1Bz1wQcB_fVv3RkBWVsJLPqW8jBW2Xxy-tTU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/e6lduHicHcRLDoIwFADAE1V-FtHEBYREglX5CbgioRZQkAqvWuWA3sHbmDiL-X4aIe6wUpSuMWY153XHHsBGynvBejGj_KbUd0AUECh2sA9b29uaIPVKp_4AtoF5nzAriU85qTXXZEkc7qZCZN3BW44TjocxBYIjr3UlXsxbCNwDLjdIXiLd8p_mkdxsyB_ntzQmEpdeYwLTnEmTIXWKKn0aUetkKfgkGDLr6mR6_nojkRzXUlNVFTX_Kep_4pRD8A"
+    },
+    {
+      "position": 6,
+      "title": "Lookin Good Laundromat",
+      "place_id": "ChIJoycuP2qcskwRbZ7lyKw5Xns",
+      "data_id": "0x4cb29c6a3f2e27a3:0x7b5e39acc8e59e6d",
+      "data_cid": "8889606128743587437",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a3f2e27a3%3A0x7b5e39acc8e59e6d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a3f2e27a3%3A0x7b5e39acc8e59e6d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.661038,
+        "longitude": -70.252456
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoycuP2qcskwRbZ7lyKw5Xns",
+      "provider_id": "/g/1td0y1vb",
+      "rating": 4.4,
+      "reviews": 125,
+      "type": "Laundromat",
+      "types": [
+        "Laundromat"
+      ],
+      "type_id": "laundromat",
+      "type_ids": [
+        "laundromat"
+      ],
+      "address": "292 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20137\u202fPM",
+        "sunday": "9\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 772-6676",
+      "website": "https://www.lookingoodlaundry.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://cleancloudapp.com/s3/9423?orderFlow=true&showAddress=true&order_type=pickup&rwg_token=AE37R_ggmhQOiTJoDiFbFYvTr0aRabz3aURLdQlBmd8KsqA8U8j5Xs-HbnX_5CTBB_jc_7edJSnAGXJzmJj6ZJLGdB3h9XF9Ng%3D%3D",
+      "user_review": "\"The machines were clean, efficient, and fast\u2014perfect for a quick load.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxg22BcDHXPAwLUk_3h57guOOA1JxOf_WieSGJE2h_W6vmWh3bPyGiruHkjKrlZZDumcoImvpevu2XDUv77L2Z_9Sneps-DuoIHoKXt1DRWbVz__qsblKNAAyk3pBcS5oOHmqh8Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D5Gwx3icHc1dDoIgAADgE5mKK6utBxqVpUvLlc4XNhlBKaIC9nPDjtBtar18r9_nzbVu1dy2a-6NmJSspkbRnshG00aPiBQ2a5VFlKVsmOwPFVw_GABLgoI8gffoVGGPj31m4hi6u0d8wdmVppvdCnCcTQaRca9Mnptrb4LqFvZ1USAjiNyKoaWDATk6Db4fgQLP0ob-ImTkNpBhrl10zMrzC-NOlXW4h_BZee2SpGMZB6Lj08Pi7jqOY_G_xGq-GgNGSw"
+    },
+    {
+      "position": 7,
+      "title": "Lighthouse Laundry at Union Station",
+      "place_id": "ChIJg1aNngicskwR8-2jOSZbK0Y",
+      "data_id": "0x4cb29c089e8d5683:0x462b5b2639a3edf3",
+      "data_cid": "5056235226387443187",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c089e8d5683%3A0x462b5b2639a3edf3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c089e8d5683%3A0x462b5b2639a3edf3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653047699999995,
+        "longitude": -70.2803799
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg1aNngicskwR8-2jOSZbK0Y",
+      "provider_id": "/g/1tfk40nx",
+      "rating": 3.8,
+      "reviews": 72,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner",
+        "Laundromat",
+        "Laundry",
+        "Laundry service"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner",
+        "laundromat",
+        "laundry",
+        "laundry_service"
+      ],
+      "address": "290 St John St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20139\u202fPM",
+        "thursday": "6\u202fAM\u20139\u202fPM",
+        "friday": "6\u202fAM\u20139\u202fPM",
+        "saturday": "6\u202fAM\u20139\u202fPM",
+        "sunday": "6\u202fAM\u20139\u202fPM",
+        "monday": "6\u202fAM\u20139\u202fPM",
+        "tuesday": "6\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 761-2025",
+      "website": "https://lighthouselaundry.co/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"She does an outstanding job and is very friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0Bq5WMUwGQKDToxTxDS38-VfHQl5A8CpPrbr6WUoMaa3-ljjtOrFBj5NVRy76JZEYudA6GGISmQHjsjW5pBVkX0PZLMjpu5yWY1xZYx1MlHUrzTkrcRGEFVGTFvRDm6F-gfVs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EnfcAnicHcRRboIwAADQE1VKSNGY-AEiZXM4QCjCn1aElEJrWyZ6wZ3B2yzZ-3jv384YqdeWxTtn0QrR8mbSjaJiNM1oFlQMVis1oBpoy0sOae9F0L-jMi4eON0HuZjzOTg6K0BuUcqRt9rKRF2UWxYiPp8dwBkz3yr0GTqQ7Ll0P-tdNV09F-OP45BGTLMSSZ_0J5jUXzGTE3qWlT3X1WzHPCrUK-8VzfAuJDgPf7JgcEPQ3ojePGwIIej-p2D8A_lFQ-0"
+    },
+    {
+      "position": 8,
+      "title": "Soap Bubble Laundromat",
+      "place_id": "ChIJYT0KfhqcskwRsdYdZv2dM9w",
+      "data_id": "0x4cb29c1a7e0a3d61:0xdc339dfd661dd6b1",
+      "data_cid": "15867199623821907633",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1a7e0a3d61%3A0xdc339dfd661dd6b1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1a7e0a3d61%3A0xdc339dfd661dd6b1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6506982,
+        "longitude": -70.2687344
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYT0KfhqcskwRsdYdZv2dM9w",
+      "provider_id": "/g/1w04jq31",
+      "rating": 4.3,
+      "reviews": 178,
+      "type": "Laundromat",
+      "types": [
+        "Laundromat"
+      ],
+      "type_id": "laundromat",
+      "type_ids": [
+        "laundromat"
+      ],
+      "address": "68 Pine St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 772-4288",
+      "website": "https://www.soapbubblelaundry.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"... for the neighborhood and always happy with their dry cleaning\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG5LXsTgrAiD8tNx2XE1UvmwxZVcCL8PvsIMimNznloBNOXrmWN-3uU8Lr4JaIq18x-EJqbha6vanA56Akoz6oJ7-MhC6mC_Hy02s8ma85XO8Tbc3kZ4CpdlyCnztU6uXog5CnJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UZQqrnicHcRRDoIgAADQE5GaSqytD6JWOaPaslg_zchBU8AEzbxgZ-g2bb2P9_1I52o79bxKhiNhjKiK1hYNN9oV2o24UZ6oLeAWWA_v6aHEqzhl9iga_FggR_sxWwZZp1795cRJivad3Wwfig66MnO6Y406UxC2GUqbKMk3zwD1YJk8bzKHXa5xDHFpBmiSCdhKAhW5rt_-2CKVo5jt0PHGw_ISkfpevYkeXAZbZkRMdDJ7Bb7vA_mfA_0DVb5EWA"
+    },
+    {
+      "position": 9,
+      "title": "Pratt Abbott",
+      "place_id": "ChIJm4aJqGmaskwRFBnUWGripXU",
+      "data_id": "0x4cb29a69a889869b:0x75a5e26a58d41914",
+      "data_cid": "8477430819979532564",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a69a889869b%3A0x75a5e26a58d41914&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a69a889869b%3A0x75a5e26a58d41914&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6810489,
+        "longitude": -70.3487035
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJm4aJqGmaskwRFBnUWGripXU",
+      "provider_id": "/g/1tk678pm",
+      "rating": 4.5,
+      "reviews": 150,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner",
+        "Clothing alteration service",
+        "Custom tailor",
+        "Tailor"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner",
+        "clothing_alteration_service",
+        "custom_tailor",
+        "tailor"
+      ],
+      "address": "434 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20137\u202fPM",
+        "thursday": "7\u202fAM\u20137\u202fPM",
+        "friday": "7\u202fAM\u20137\u202fPM",
+        "saturday": "7\u202fAM\u20137\u202fPM",
+        "sunday": "7\u202fAM\u20137\u202fPM",
+        "monday": "7\u202fAM\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 854-5881",
+      "website": "https://prattabbott.com/locations/westbrook",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"My favorite place for dry cleaning\nQuick returns and friendly staff\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEshhuauHCz0l8gtTY8QoLmkb25d7cZ3DvtWZ6jSUfHmIve3U1aVNS6txPSSBshagPxXVS71IYingjYJFPtb84re8qSupuXdyFS1jLL6wXvRIv5goMMvdjLI7YvYikvHJKgGL_cZg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cs9phXicHcRbcoIwFADQFSFQKjCd6YfWB9DgYFMs4cfBEG94hpqH1h12Cd2NMz0f5--XKzXJF9vuuTcDIaBnWrILFaNio5pRMdgwSYtKS9qLbLfvFmvJua509HZ3-hDUJwn3Ag3d6WleB7T0VkZ9lX6L83M0xIZ5uVsddthXtwzjpeQVZLfigAM3Js0ILUk2mTqFzxcWfmM96aL-2WC3Rci_FuYjNnMQaWrqFsUBMaTpTJS8wxYdaQmvV9dxHIv_T63xAVVnRq0"
+    },
+    {
+      "position": 10,
+      "title": "Cleaners Joy",
+      "place_id": "ChIJ4Yr2-zjDKmIRlhyfUAf9ADQ",
+      "data_id": "0x622ac338fbf68ae1:0x3400fd07509f1c96",
+      "data_cid": "3747273097831455894",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x622ac338fbf68ae1%3A0x3400fd07509f1c96&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x622ac338fbf68ae1%3A0x3400fd07509f1c96&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.661701,
+        "longitude": -70.2511774
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4Yr2-zjDKmIRlhyfUAf9ADQ",
+      "provider_id": "/g/11sh4qs_rj",
+      "rating": 4.8,
+      "reviews": 403,
+      "type": "House cleaning service",
+      "types": [
+        "House cleaning service"
+      ],
+      "type_id": "house_cleaning_service",
+      "type_ids": [
+        "house_cleaning_service"
+      ],
+      "address": "63 Federal St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 687-1705",
+      "website": "https://cleanersjoy.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online estimates",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_estimates": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Lexi my cleaner did an amazing job and my home smelled so good after!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFe-n0PCMic12C7DSMk6MCfNxKh_iE6MJv4Soq2rGlt8ZgwBGWx2UoZw5a5WwBfsomzvafAxvmZzNj3jsfbJTMMyEo87EZ2dYzAGXH-26jIwOlMEc30p2TB7YwmFsRLLZAsBvd3_Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ADhP33icHcRJDoIwFADQE1VqUTAmLgoiTsU5ajdGK4MIFP2VIjf0CN7GxLd430-iVAl9w8gSsxVLGWfhC8KnkIUKC9USMjfiEpAABAZdBqs7HYWowEuX3USbuPZww-4Wc6OgniWnm2exadXZyAd5-pnq8Vg7_r4mO8l199zdaycCmTfVOaJ1lfMmSM0Uost0y9jbkz3b4-R6bKh_GCNipRO9yJgnTFySrWMfdT6C9XzOKTjV1TytBrqNMUbJf4GKH7wFROE"
+    },
+    {
+      "position": 11,
+      "title": "Pratt Abbott",
+      "place_id": "ChIJmdopWliDskwRmzCBtT8Tqbw",
+      "data_id": "0x4cb283585a29da99:0xbca9133fb581309b",
+      "data_cid": "13594418114543562907",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb283585a29da99%3A0xbca9133fb581309b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb283585a29da99%3A0xbca9133fb581309b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.723541999999995,
+        "longitude": -70.2329185
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmdopWliDskwRmzCBtT8Tqbw",
+      "provider_id": "/g/1hhl10sfk",
+      "rating": 4.5,
+      "reviews": 139,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner",
+        "Clothing alteration service",
+        "Custom tailor",
+        "Laundry service",
+        "Tailor"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner",
+        "clothing_alteration_service",
+        "custom_tailor",
+        "laundry_service",
+        "tailor"
+      ],
+      "address": "240 US-1, Falmouth, ME 04105",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "8\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 781-2485",
+      "website": "http://prattabbott.com/locations/falmouth",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"First time I have had anything dry-cleaned in a long time.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmFIGrZPRLecmijD5314Ha9pvowB10ago4iWy8od8yrQRIlBNYTleRO1nN8ciyytCoAVH9t6l8sePIpKzl8edBZL6H2F8kXQOyZQbeCYMT3LeXhZsYa9NYM8qV7dWZ6R8wmx8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NJ6M0XicHcTdckNAGADQJxKU6KczvSB_TBFMhtg7Wd-gllW7rW4fsO-Qt8lMzsW5_3dSzuJN11lnbVrOW4bfAhfKJ4mT3FA-6u0sNCo0oXtpkg3eYTyGp4WkeYR07D_3W8u0g9qdf_jqm0bdcrsvFfAG1JLlIfOT6sIwP5tTArRXSu64VwSudBgITMP5448BNj6JnODlCMM1OyuS3XBXxRcrwmtHRFW7SRXDV_HalMTJYR1_4X01DcPQuudUmx4HhkQA"
+    },
+    {
+      "position": 12,
+      "title": "Oak Hill Dry Cleaners",
+      "place_id": "ChIJaah9xLOYskwRdR7GQkrt1VY",
+      "data_id": "0x4cb298b3c47da869:0x56d5ed4a42c61e75",
+      "data_cid": "6257168160504815221",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb298b3c47da869%3A0x56d5ed4a42c61e75&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb298b3c47da869%3A0x56d5ed4a42c61e75&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5912736,
+        "longitude": -70.3333573
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaah9xLOYskwRdR7GQkrt1VY",
+      "provider_id": "/g/1thx_dhw",
+      "rating": 4.6,
+      "reviews": 64,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner"
+      ],
+      "address": "27 Gorham Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20131\u202fPM",
+        "thursday": "8\u202fAM\u20131\u202fPM",
+        "friday": "8\u202fAM\u20131\u202fPM",
+        "saturday": "9\u202fAM\u201312\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20131\u202fPM",
+        "tuesday": "8\u202fAM\u20131\u202fPM"
+      },
+      "phone": "(207) 883-9188",
+      "website": "http://www.oakhilldrycleaner.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Online estimates",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_estimates": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Dry cleaning was done right and done quickly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgS2tr8Vj1SmIJD9U1Cm22pkEaW7GXkXGp0Fd7GzeoAi6CLu06G-0gFWiQ5UM7zJM7Yo4nQi4_F8NwD6kJM3qFkKskTgMtHjsMJOlOqM9pIFiHOIwHl4QpTmKpW_3knXNLB_33=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vGnlUXicHcRdDoIgAADgE5EoptXWg_2AWmjOSntyzRwaChQ0ty7YGbpNW9_D9_20xii9sKy-RRMmJeubl26etRSmEWZSy8FiSoNaA20FhyTjAWG5Y56z893OhyjezE_2enAcxbfXwiclL4mC-OaTdyODzlvvX9AjADJcdNn0RP13TP2LdEXWuRWeJePG4zFFD8x3mh8ZNeFd0zjt0wedqwh3YRqNYe9m6jjsVFEhLspkv6oQWo42hBC0_2sgfpJUQqo"
+    },
+    {
+      "position": 13,
+      "title": "Moonlight Cleaners",
+      "place_id": "ChIJr3-cPQ2askwR1g-4Gsl4BIE",
+      "data_id": "0x4cb29a0d3d9c7faf:0x810478c91ab80fd6",
+      "data_cid": "9296688335931576278",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a0d3d9c7faf%3A0x810478c91ab80fd6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a0d3d9c7faf%3A0x810478c91ab80fd6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6764752,
+        "longitude": -70.3648728
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr3-cPQ2askwR1g-4Gsl4BIE",
+      "provider_id": "/g/1vn183ml",
+      "rating": 4.1,
+      "reviews": 98,
+      "type": "Laundromat",
+      "types": [
+        "Laundromat"
+      ],
+      "type_id": "laundromat",
+      "type_ids": [
+        "laundromat"
+      ],
+      "address": "823 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 591-5044",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"It looks brand new and just a bit over $20 for next day service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEG7qiFYvrPfNKjcfxHoR7FELaUvAqr_NmdOrDiEKwoPBo0wns7c8TVxBtKtE9I8NsHK6XUATLKhEtyUPCEX5qOPm7fkYtGUi7DUlajWgNhiiPzejF8Du3lE2fcCb2cHYZgtHo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QoBV5nicHcTbboIwGADgJ-IwjZaZeIFSxNTUauwG3hjXQVtOFfor6gP6Dr7Nkn0X3_ulAC525nm1GrvSGFnnV5v3wrSQt-AK03jyYh1hHeuFjO6qEK9Qp-Ps1rOCklIU98TsUYw3Z34Lu_5Em99tH2lMBsMWxh9ai0Rw-LovgAD-XAfUJmSa8vCwIQrDg7MlTifdljWoqDJYcY0iXp_Lb0mV1uyZl3EQXcc1HhVi-TMSSXaUkJj58OH7vqP-F077B2ObRQo"
+    },
+    {
+      "position": 14,
+      "title": "West End Laundry",
+      "place_id": "ChIJ94fLShacskwRPIqx3TD_7Gc",
+      "data_id": "0x4cb29c164acb87f7:0x67ecff30ddb18a3c",
+      "data_cid": "7488640865753205308",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c164acb87f7%3A0x67ecff30ddb18a3c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c164acb87f7%3A0x67ecff30ddb18a3c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6518265,
+        "longitude": -70.259754
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ94fLShacskwRPIqx3TD_7Gc",
+      "provider_id": "/g/1tgpmmpl",
+      "rating": 2.8,
+      "reviews": 42,
+      "type": "Laundromat",
+      "types": [
+        "Laundromat"
+      ],
+      "type_id": "laundromat",
+      "type_ids": [
+        "laundromat"
+      ],
+      "address": "88 Danforth St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 772-4288",
+      "website": "https://www.facebook.com/CoinsLaundromat/",
+      "user_review": "\"The machines always work great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXFQR1hLhiO7p8GXumL8HbrVEcvUlMmyTF7nSZmZ2NaFIFmdKjyIUNUOuRVOQPWj8CuhO-A94CFn_M_pGTyyq-HDj0y63u7rRaCTw1Oce3VhjpuAN5cl6aQHipCVwM4HZTErqN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/f4rKAnicHcRRDoIgAADQE5GaldbWh7PQVkKaWvOnGTnJBEkkxwk7Q7dp632874cOg5Arw2ipPam7rm4rJauedHyo-DAhHTNqIQGRQBreEcVPL7jAOLHogT6wI9zgotjBDW99viXvrI2YTqHDTwUrpqiEO8ju-0bvMpRhleQ4Pp4b11cUA2858yG_RlcRpFq_QLhpTL2wldMnpZ-OFiaVndNGKA_NSbso4_Ah_HyMZmGRbvsXWo-WaZqA_ieA_wA9zERE"
+    },
+    {
+      "position": 15,
+      "title": "EZ Wash",
+      "place_id": "ChIJ__-PULObskwRlntCXiQc2BY",
+      "data_id": "0x4cb29bb3508fffff:0x16d81c245e427b96",
+      "data_cid": "1646096606329731990",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bb3508fffff%3A0x16d81c245e427b96&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bb3508fffff%3A0x16d81c245e427b96&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.675065499999995,
+        "longitude": -70.3220699
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ__-PULObskwRlntCXiQc2BY",
+      "provider_id": "/g/11f4lq94kk",
+      "rating": 3,
+      "reviews": 73,
+      "unclaimed_listing": true,
+      "type": "Laundromat",
+      "types": [
+        "Laundromat"
+      ],
+      "type_id": "laundromat",
+      "type_ids": [
+        "laundromat"
+      ],
+      "address": "1041 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201311\u202fPM",
+        "thursday": "7\u202fAM\u201311\u202fPM",
+        "friday": "7\u202fAM\u201311\u202fPM",
+        "saturday": "7\u202fAM\u201311\u202fPM",
+        "sunday": "7\u202fAM\u201311\u202fPM",
+        "monday": "7\u202fAM\u201311\u202fPM",
+        "tuesday": "7\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 859-0158",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"25min wash, 30 dry.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzmlhnCn3LbbXYDmCFcVwwix650KSEY1M3O_gLUK6ROPAbAOoo7aPyv8lWHfx6yzQSsjKHxkaHJv2JGYkMvgyBTdiZD2ZTUVXcj-7hE7xkW9twpmVRLbTrK5JIaXHPZTR0AjKKRQ5yAeaN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZQ1o8XicHcTJcoIwAADQL4pEGaA600PqRgnKIiJwcSBiIkvCmJTFn_Tcv-lM3-H9vplSnVxpWsP0GRWCNuWPLJ9EcFVyNSOi1WgnAZFAasg_BjXavdqG8TXX3aJI0k273pF4GB6jaUB82qbzg-5dqXvGZuj5qECeEFbuT_1Hc7Hvozm9gpOssD3Wue30C2ef1oeeTl_R7ZFtFll0jhNSAYttrbG-LNXQtXHoFtETG853nth-FoUQVRiHgTGhMj9-DnMIIWD_E8D_AMSlR3c"
+    },
+    {
+      "position": 16,
+      "title": "Laundry Depot",
+      "place_id": "ChIJt1J80I-bskwRG70ZMbazhdg",
+      "data_id": "0x4cb29b8fd07c52b7:0xd885b3b63119bd1b",
+      "data_cid": "15602074079184141595",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8fd07c52b7%3A0xd885b3b63119bd1b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8fd07c52b7%3A0xd885b3b63119bd1b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.671062,
+        "longitude": -70.284791
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt1J80I-bskwRG70ZMbazhdg",
+      "provider_id": "/g/1v8k_65z",
+      "rating": 3.9,
+      "reviews": 101,
+      "type": "Dry cleaner",
+      "types": [
+        "Dry cleaner",
+        "Laundromat",
+        "Tanning salon"
+      ],
+      "type_id": "dry_cleaner",
+      "type_ids": [
+        "dry_cleaner",
+        "laundromat",
+        "tanning_studio"
+      ],
+      "address": "660 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "8\u202fAM\u20137\u202fPM",
+        "sunday": "8\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 773-6455",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Great, affordable and clean!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIZruTykeyyDDTmgdXzItiHcZyuSKHl-grk1HnTZA6xqDEbO5xNMcc4VayTK4xBdD_uW7Yq5NZPM1sbFcJb35793k0o3lOSisUpOW6gcIakPMxV_yCyxrzPvOsKNAHJsQ_koPm=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J4L-R3icHcTRboIwFADQL6pAEM2W-ICypUiAGlA3XohcSTEFitziWn5w3-DfmHgezvO_UWrAT8tqG3fBpeRtPWE9guxV3asFyM7iAxJAgpbPkoPwaViMU25EbUwQ5B2__syhulEozJRFtCV8FA7t88Jf6XvwVaWeTmKA5eli8mipt9egnM7r37uXFCx2sPqGfeV66w9X2NJt0-yGxyE9rziEF8FifSrNzuhxZo8Uo8SnezyUQrJu8-fYtk2a90D6F-xXRh8"
+    },
+    {
+      "position": 17,
+      "title": "Wash Tub II",
+      "place_id": "ChIJv9G7I4qbskwReo8HmPozZyo",
+      "data_id": "0x4cb29b8a23bbd1bf:0x2a6733fa98078f7a",
+      "data_cid": "3055468023579643770",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8a23bbd1bf%3A0x2a6733fa98078f7a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8a23bbd1bf%3A0x2a6733fa98078f7a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.666413,
+        "longitude": -70.2760966
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv9G7I4qbskwReo8HmPozZyo",
+      "provider_id": "/g/1tscnlw2",
+      "rating": 3.8,
+      "reviews": 72,
+      "type": "Laundromat",
+      "types": [
+        "Laundromat"
+      ],
+      "type_id": "laundromat",
+      "type_ids": [
+        "laundromat"
+      ],
+      "address": "449 Forest Park # B, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20137\u202fPM",
+        "thursday": "7\u202fAM\u20137\u202fPM",
+        "friday": "7\u202fAM\u20137\u202fPM",
+        "saturday": "7\u202fAM\u20137\u202fPM",
+        "sunday": "7\u202fAM\u20137\u202fPM",
+        "monday": "7\u202fAM\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 370-1051",
+      "website": "http://washtub2.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Very clean, quiet, efficient machines and don\u2019t require cash/change.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAjc1WvfFcPWfK5HqX9XfiPGwllMOoHjVqyjKi5_TPSo2UbzYk6cZyMa_Ojz1rfQKDmGKHk2bVGbSOHhN70h9HWVeTo3sqYAClBReJV2Ff5Vk4su6rrzffdDd9MCou1P1nNQ4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8ub2K3icHcRdDoIgAADgE5liWbOtB6spy6nYD1YvLgkkJUnRnB6wO3Sbtr6H7_vhbftSS10XfDrJpcwF7RRtiKxaWrUTIp96_lIaUZrSHRTGpQOdgoDkzVyCEuZbsD7bZ_ZAXi9EEElY4Hoo_IeVHtFBmqdsvJRzch2CWxoVI2hY7G-fng9LM8NedoggDxcGt2GC6VFOVX1xNmK9pztsuszC5Ux186YZGbtv73awkR1AoArj2aoHhmFo_D_Rqh9MoER4"
+    },
+    {
+      "position": 18,
+      "title": "Clean Quarters Laundromat",
+      "place_id": "ChIJ-3n2uRebskwRKwRt5k2q4UM",
+      "data_id": "0x4cb29b17b9f679fb:0x43e1aa4de66d042b",
+      "data_cid": "4891377921856177195",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b17b9f679fb%3A0x43e1aa4de66d042b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b17b9f679fb%3A0x43e1aa4de66d042b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.700055299999995,
+        "longitude": -70.2887714
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-3n2uRebskwRKwRt5k2q4UM",
+      "provider_id": "/g/1wd3vngn",
+      "rating": 3,
+      "reviews": 72,
+      "unclaimed_listing": true,
+      "type": "Laundromat",
+      "types": [
+        "Laundromat",
+        "Laundry"
+      ],
+      "type_id": "laundromat",
+      "type_ids": [
+        "laundromat",
+        "laundry"
+      ],
+      "address": "1400 Washington Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 12\u202fAM",
+      "hours": "Open \u00b7 Closes 12\u202fAM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u201312\u202fAM",
+        "thursday": "5\u202fAM\u201312\u202fAM",
+        "friday": "5\u202fAM\u201312\u202fAM",
+        "saturday": "5\u202fAM\u201312\u202fAM",
+        "sunday": "5\u202fAM\u201312\u202fAM",
+        "monday": "5\u202fAM\u201312\u202fAM",
+        "tuesday": "5\u202fAM\u201312\u202fAM"
+      },
+      "phone": "(207) 878-2100",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Great washers and dryers very efficient and clean place!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkVteNIrodlqUy_sxcyJE1bd7y0SnLiV-K3A9-9MP27RuP5Yg1YYILVv9TgQwBxlggF70Qd7SR6fuz3qN4u4QGQt7Ny37ZKVpTzBmfdSDtkCZA_2p6m5C7RJ1JZISVbecNU8sy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XWM_J3icHcTbDoIgAADQLyIxM7KtB7tOKyZqbPrSJhI2L1hgRT_YN_Q3bZ2H8_1UWvdqbllN5YyElKLhg-J3JjvNOz1isrVErwBTQFl-hEnt72qqOQ7usmxuJ3NWL2bCjV2UyMCkO1wp2Du-B7xjNEbxELmZsLMsONCHlwryXL4aIbYIkhIl8fQyvJ0bngwTsiMaYeOgfE_79L1sL2Wy1vUq98_jftq6KxSHdpgHCS04w6eZMounDSEE1X8Guh87e0O9"
+    },
+    {
+      "position": 19,
+      "title": "Bone Dry Carpet Cleaning & Water Damage Restoration",
+      "place_id": "ChIJx7-az4ybskwRrrB_RGLG0Vc",
+      "data_id": "0x4cb29b8ccf9abfc7:0x57d1c662447fb0ae",
+      "data_cid": "6328057076790571182",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8ccf9abfc7%3A0x57d1c662447fb0ae&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8ccf9abfc7%3A0x57d1c662447fb0ae&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6479286,
+        "longitude": -70.27884089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx7-az4ybskwRrrB_RGLG0Vc",
+      "provider_id": "/g/12ht300gs",
+      "rating": 4.9,
+      "reviews": 119,
+      "type": "Carpet cleaning service",
+      "types": [
+        "Carpet cleaning service",
+        "Cleaners",
+        "Upholstery cleaning service",
+        "Water damage restoration service"
+      ],
+      "type_id": "carpet_cleaning_service",
+      "type_ids": [
+        "carpet_cleaning_service",
+        "cleaners",
+        "upholstery_cleaning_service",
+        "water_damage_restoration_service"
+      ],
+      "address": "150 St John St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 383-7881",
+      "website": "https://bonedrycarpet.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Online estimates",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_estimates": true,
+        "onsite_services": true
+      },
+      "book_online": "https://clienthub.getjobber.com/hubs/66661c6f-1fd0-4784-8ec8-6c4716e0b51c/public/requests/1250232/new?rwg_token=AE37R_h6ZeP8C1ql_viJ2mNnICTIo1BwcT4clx09JFTXY42t1G6UZfPlEjaBw_5aLgKGXTOUuGV4K4M8nL9fBizhKu5BfdC2Yg%3D%3D",
+      "user_review": "\"Noah did a fantastic job, best price and extremely professional.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3pxlRIQhrPBczjb1iBgtkkxxaPlID_CJGFefA2lPy-zVaPcileOXPjfaSv8FdVgJp-j5iCJSTs3OzFB8k-Y9Tpcs-NJeq9UODkYdjE-eSHeQIdbkfyDfkFxFGOQVbh-Ytx4o=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XkGJX3icHc1BcoIwFADQE33BojPqTBcgBmEhoVimrBwIIYFEEk3aRg7YO_Q2dbp52_f7w63VZud5kgcLphST9NPQO1GTpZNdEHX1mDZADBgvxKdChCjQTr6lBb_jiMxjuxwiZoVwrsEyjS_7LEG0D18kfsBcNZgMkuYfeOyb8muDuoplGsb1sM_KswnyGUUbAfX2rJ_DKaO37Xsei7obD0DLIy3SrhX9I-4FcijJi6rlUFu3Uq_fS9_3gf9LYPoDgc5FNw"
+    },
+    {
+      "position": 20,
+      "title": "The Neighborhood Laundromat",
+      "place_id": "ChIJI2GfWpqeskwRTvyLKGUr-XM",
+      "data_id": "0x4cb29e9a5a9f6123:0x73f92b65288bfc4e",
+      "data_cid": "8356758297034619982",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e9a5a9f6123%3A0x73f92b65288bfc4e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e9a5a9f6123%3A0x73f92b65288bfc4e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.632605,
+        "longitude": -70.2622146
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI2GfWpqeskwRTvyLKGUr-XM",
+      "provider_id": "/g/11bztyyt14",
+      "rating": 4.6,
+      "reviews": 98,
+      "type": "Laundromat",
+      "types": [
+        "Laundromat"
+      ],
+      "type_id": "laundromat",
+      "type_ids": [
+        "laundromat"
+      ],
+      "address": "766 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 318-8957",
+      "website": "https://neighborhoodlaundromat.net/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Clean and with always plenty of working machines.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWFMYLL-saJChYXWQaPbjlF65OCzoUIN3jquMnSLn7j9_bKpfqyXxdsMl6sFfq2XvlzZmkw4w_ocgp_frCF664uyO9zdWx9wAGggOubgekZhEzzyNbQZQsnP1o86woAKaoooIM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gCNEGnicHcTdboIwGADQJ6rgdN0w2QUhYpz8xiwgNwQqtIHaD_xglb7gnmFvY-K5OP9_YpoG3FmWFJsVB-CymbG5M1BTo6YVg5vFByQMCVpuEqW9e8j88BIEBKtvT1zyLK2SupM-fY89Az_HaNONc6jOgfronLI-De245I8rhpKi345v-a80xa3XW10C40PZ3j2f0u28xI65Zg9HuwfO47nmTV-IvTFLVKdFiipZwyfV4J4qADiGX3pt2zYRrxlRT_yGRyg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=dry+cleaning+in+Portland%2C+ME&start=20&type=search"
+  }
+}

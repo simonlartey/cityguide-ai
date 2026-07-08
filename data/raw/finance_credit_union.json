@@ -1,0 +1,1352 @@
+{
+  "search_metadata": {
+    "id": "6a4e68766561a6d1032ff851",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uUKpFuOW1_W6K_VuVVTDKA/6a4e68766561a6d1032ff851.json",
+    "created_at": "2026-07-08 15:10:46 UTC",
+    "processed_at": "2026-07-08 15:10:46 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/credit+unions+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/uUKpFuOW1_W6K_VuVVTDKA/6a4e68766561a6d1032ff851.html",
+    "prettify_html_file": "https://serpapi.com/searches/uUKpFuOW1_W6K_VuVVTDKA/6a4e68766561a6d1032ff851.prettify",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "credit unions in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "credit unions in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "University Credit Union - Portland",
+      "place_id": "ChIJucqLUFCbskwRFDFOGRmNYFA",
+      "data_id": "0x4cb29b50508bcab9:0x50608d19194e3114",
+      "data_cid": "5791784259736711444",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b50508bcab9%3A0x50608d19194e3114&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b50508bcab9%3A0x50608d19194e3114&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658184,
+        "longitude": -70.2972305
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJucqLUFCbskwRFDFOGRmNYFA",
+      "provider_id": "/g/11zg9wwr5r",
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "Financial institution"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "financial_institution"
+      ],
+      "address": "1390 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20134\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20134\u202fPM",
+        "tuesday": "9\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(800) 696-8628",
+      "website": "https://www.ucumaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELCgpLknVllT0g5uhDNhkWRJoTEs1DRzUc5dTWnOzbET_nXQRYoL--H0b3h0rNH4VG8RBzYhlxFLYU1v0aF1m9wSj27bN1TzPw5QFSbsVHi992nQsYzVhyAEUL8tGb_swHmy_COBB-mtKd=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RD2bqnicHcTBboIwGADgJ6q0OjJZsgMoSLYGBQuOE1kraTdKS_zr0L6k573Nkn2H7_ehnJvgJQi0Wi2ktVL3V-gvwhrXG7cQdgzkBEgAgiA-FOUQp3QjJzqYRmuGZXhV20INp-rNshTItvK1CM_sZPaep6wzH2XVWopQjvlK4UuRPzW7dZX4VulbRtua_ODPjIzRfPxePvOCMH-YwzI7cmjyryhamhJa36h7nNZ07Xa8gzkf791mnyRodO_n15lgjJH6XyDzB366Ru4"
+    },
+    {
+      "position": 2,
+      "title": "cPort Credit Union",
+      "place_id": "ChIJ12h_0MKdskwRHWgNZM8hlX4",
+      "data_id": "0x4cb29dc2d07f68d7:0x7e9521cf640d681d",
+      "data_cid": "9121233794929354781",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dc2d07f68d7%3A0x7e9521cf640d681d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dc2d07f68d7%3A0x7e9521cf640d681d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6603304,
+        "longitude": -70.2501906
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ12h_0MKdskwRHWgNZM8hlX4",
+      "provider_id": "/g/11gychfn2n",
+      "rating": 4.8,
+      "reviews": 80,
+      "type": "Financial institution",
+      "types": [
+        "Financial institution",
+        "Credit union"
+      ],
+      "type_id": "financial_institution",
+      "type_ids": [
+        "financial_institution",
+        "credit_union"
+      ],
+      "address": "35 Middle St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 464-0253",
+      "website": "https://www.cportcu.org/",
+      "description": "Membership-owned financial institution providing services such as business loans and money-market accounts.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "book_online": "https://cportcreditunion.coconutcalendar.com/?location=14958&rwg_token=AE37R_iwB_muEJ4kzIFUdAkMstfrLi5vVK12x7cqCcG0L_YQWpdVAPnsrbgsl6FMk1X4ZoMJv7SyukFYcoYQmIhDVxd1H2xm_w%3D%3D",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFl_V4RHNucrDK7jouMCQFqXI7baTKax8Z6OLyFFgt3g_6OixAEGZSFGtKDSefY4BsP-onFvyUd3pRnE6VaXb_H9nj5dtzqRAHAeUF3pSHLYLoEi02o151XBa-sSLVFtQj1Mr0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vABFq3icHcRJDoIwAADAF1WKKC6JhypUDKgsQtALgVqLiC3S4vZA_-BvTJzDfD-lUo2calpdGj0mBKtpJ2lLBFeUqx4RV401EhAJpIb8TXBBuM6SQehsOtJa7qgS3XoR4Fu6GhX5zs2f44O59V4YM2WwzNyen8heHiK8VK4V0dN-MJc-EBzfX_HRaEJum0meFpkz4dXwqN63EDmIxthoIsfbe8I-w77Qh3o6z4GMvASroNLXLZw9dAghKP8TwH_lZkM1"
+    },
+    {
+      "position": 3,
+      "title": "cPort Credit Union",
+      "place_id": "ChIJU4pLhHScskwRSVunJk0_xx8",
+      "data_id": "0x4cb29c74844b8a53:0x1fc73f4d26a75b49",
+      "data_cid": "2289868536134720329",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c74844b8a53%3A0x1fc73f4d26a75b49&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c74844b8a53%3A0x1fc73f4d26a75b49&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.662759199999996,
+        "longitude": -70.271011
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU4pLhHScskwRSVunJk0_xx8",
+      "provider_id": "/g/1hf4jqngb",
+      "rating": 4.6,
+      "reviews": 222,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Mortgage lender"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "mortgage_lender"
+      ],
+      "address": "285 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 464-0253",
+      "website": "https://www.cportcu.org/",
+      "description": "Member-owned organization, with several convenient locations, offering banking services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Cash advance"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "book_online": "https://cportcreditunion.coconutcalendar.com/?location=14957&rwg_token=AE37R_jZ5VEoF8OmsPzQ1rUQHo6HnsWq-_YrelRoCmJneabOQVJb3B3gbNzS7_uy7w7H8tKAtXQLR_4DjuiiwDSeGM9qGh6UxQ%3D%3D",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuW2WD6cUVZ_lD_vHRO1b2uklABm30GjG0ySXZb_04J8gxe8t0dcURxgWhil8lkiiOH7S5QWmYVZJsak_x06xfegG5DCOrQh9RhlOhNvoX9UoDhH1Ms54pXRIMl64l6WZaJLMgIg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/t-ikO3icHcTBDYIwFADQiZCigGjiASUBiYhgoMiFaK0t8qHEFsURHcFtTHyH9_1wpXq51HXgswkTggEdJH0Q0SnaqQkRrc56qRGpSd097JPGDQY8xZ5NsryswKueQRobl-nQgLtuZ8i_--h9LMpLhczQYSN1FLqSLB0Z5jU40NR1HMyPVoLbU16G8txUI7LHG2W-5W3iR8IXKYeY75-iWGTC44ERScvsi3QbgW2CjctzuIvYlq1eBkJI4_-J1v0AvehExA"
+    },
+    {
+      "position": 4,
+      "title": "Evergreen Credit Union",
+      "place_id": "ChIJi_302VCaskwRv5bM4pp0jcU",
+      "data_id": "0x4cb29a50d9f4fd8b:0xc58d749ae2cc96bf",
+      "data_cid": "14235162205766850239",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a50d9f4fd8b%3A0xc58d749ae2cc96bf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a50d9f4fd8b%3A0xc58d749ae2cc96bf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.684222899999995,
+        "longitude": -70.3269143
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi_302VCaskwRv5bM4pp0jcU",
+      "provider_id": "/g/1thvgjrn",
+      "rating": 4,
+      "reviews": 55,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Bank",
+        "Business banking service",
+        "Car finance and loan company",
+        "Check cashing service",
+        "Loan agency",
+        "Money order service",
+        "Money transfer service",
+        "Mortgage lender"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "bank",
+        "business_banking_service",
+        "car_finance_and_loan_company",
+        "check_cashing_service",
+        "loan_agency",
+        "money_order_service",
+        "money_transfer_service",
+        "mortgage_lender"
+      ],
+      "address": "225 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "8:30\u202fAM\u201312:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 221-5000",
+      "website": "https://www.egcu.org/",
+      "description": "Credit union serving individuals, families, and businesses in the Maine counties of Cumberland, York, Oxford, Androscoggin, Sagadahoc, and Lincoln.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBXMZb2oFWYCgGPjAl749Wa9cqkEiU-hUyH-upIToksZo8V93Hrmz8rqkMPHv6QsqUD_UojxHm4sUGYosBK6k1XlCb1xR3gj_-J-Rn34bblEAjQMYxDpJ-grxZXZBle1umhktM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kjdoT3icHcRbToNAFADQFd0CQmox6Qe0tFiDgcaRxw-RCZmRGbjAHRTdoGvobpp4Ps7tTxoz0pNlaeluBKLQ7ULtzHEw7WA2HHtLjAScgKwgfc1UcAqLpGoe8JSXB3FOu0A_en7-4fNJRZ8MJPuJYRmf31BRhbt3343n_nc3TypJ469tRhM71gy7Ne49YucSKXzZKqfQh8ZZr67oarjAdXC9ptFR0GVJuR7HC4h5rYoq1K2z9FKZZP_t2LYN8n8Owx1WrkT7"
+    },
+    {
+      "position": 5,
+      "title": "Maine Savings Federal Credit Union",
+      "place_id": "ChIJR0zgLGSbskwRKnfs6S_dQBc",
+      "data_id": "0x4cb29b642ce04c47:0x1740dd2fe9ec772a",
+      "data_cid": "1675582259239614250",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b642ce04c47%3A0x1740dd2fe9ec772a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b642ce04c47%3A0x1740dd2fe9ec772a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.677811399999996,
+        "longitude": -70.2876694
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR0zgLGSbskwRKnfs6S_dQBc",
+      "provider_id": "/g/11h27znldn",
+      "rating": 4.8,
+      "reviews": 124,
+      "type": "Credit union",
+      "types": [
+        "Credit union"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union"
+      ],
+      "address": "883 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 273-6700",
+      "website": "https://www.mainesavings.com/",
+      "description": "Credit union offering personal and car loans, along with other financial services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-Oyzx97ZawR2M01NiYkHw0IwrsTWXCdaLRe3qielyXPc3rDFXJ5RmpfgvVdqzMr5zJAZZczmo_q13v48HR7Vwlv-yCirDHea_2--BIyard8eHwYVVStYjaw2ZWldYVDJBXIs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8XWKT3icHcRJDoIwAADAF1UKaFwSDyhRIK5oynIxTamAFgptpcID_YO_MXEO8_0USjVyYRissEc55zmjL0kF4bWitRoRXhl5IwGRQBrO6XB-Oltw7If3fJpiHVp7aB7K5Olp6Gshr1G8zvAupHZbUtbHJ2ILdxMHk7Bq7nmHsnbYi8kQOGlKhorfWtPuxjMvnCLNOtCvS-F6FN8sAFZ-j0U2o55OELqo5IG1lUYsS5AbrGJfLrUJIQTFfwLqH2LRRUA"
+    },
+    {
+      "position": 6,
+      "title": "Atlantic Federal Credit Union",
+      "place_id": "ChIJtbFgbsybskwRJJYYWY39Cfo",
+      "data_id": "0x4cb29bcc6e60b1b5:0xfa09fd8d59189624",
+      "data_cid": "18017210567799379492",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bcc6e60b1b5%3A0xfa09fd8d59189624&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bcc6e60b1b5%3A0xfa09fd8d59189624&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6800462,
+        "longitude": -70.3296782
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtbFgbsybskwRJJYYWY39Cfo",
+      "provider_id": "/g/11ty74rv1s",
+      "rating": 4.8,
+      "reviews": 24,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "Federal credit union"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "federal_credit_union"
+      ],
+      "address": "90 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20134\u202fPM",
+        "thursday": "8:30\u202fAM\u20134\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 771-1150",
+      "website": "https://www.atlanticfcu.com/about/contact/location-details.html?id=13035&title=westbrook-branch&location-information=westbrook-branch-90-riverside-street-at-exit-48,-kohl%27s-plaza-westbrook-portland-me-04103",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIXSx-5re8v7ACsdUh8MYrxSITPiad936K6atfza1lstm7aVfhIhtSMiXZeytwyBjd3B1nnbEpvr_qVAM1noVt7At-i38v9fDKnVWP1o34UTFLWwsuBnGYxAe1OOIjFPNces2s=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ca6qW3icHcRbjoIwFADQFVXoVAVN5qP4CnFQJig-fgyWQlFskXsFnA3OGtyNiefjvP4VYgVjyyoV6-XG5KV8gKyF0Sg19oS5WXkFRAABi4er3ytf-PuoI4Nauo3DJ5BulRsc6i7yN2GRpCM2XA4TzP4SWgLenCTOlK8wCor9UT6xfXqXlHlU6_OsaurTPeYB1SZGhyMpmNuMsulSx7uQGtbfbuY_uxYenl4cOi7peu1f5uFKSPiC75batk3UZ0H0G56vRU4"
+    },
+    {
+      "position": 7,
+      "title": "Evergreen Credit Union",
+      "place_id": "ChIJmZxqQJqeskwR1tUE4ZyhdHA",
+      "data_id": "0x4cb29e9a406a9c99:0x7074a19ce104d5d6",
+      "data_cid": "8103279324708525526",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e9a406a9c99%3A0x7074a19ce104d5d6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e9a406a9c99%3A0x7074a19ce104d5d6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6325992,
+        "longitude": -70.26396249999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmZxqQJqeskwR1tUE4ZyhdHA",
+      "provider_id": "/g/1tgps6pl",
+      "rating": 4.2,
+      "reviews": 33,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Bank",
+        "Business banking service",
+        "Car finance and loan company",
+        "Check cashing service",
+        "Loan agency",
+        "Money order service",
+        "Money transfer service",
+        "Mortgage lender"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "bank",
+        "business_banking_service",
+        "car_finance_and_loan_company",
+        "check_cashing_service",
+        "loan_agency",
+        "money_order_service",
+        "money_transfer_service",
+        "mortgage_lender"
+      ],
+      "address": "799 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 221-5000",
+      "website": "https://www.egcu.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_JBzmyPAyFCKV0shRYx_ZYkPtXMRTcOUItGBbouh4Xi0Rm0hRiCQ3W2WsW6am_xSj1ALyU5iFij4K64Hhy9iftz2gkYXZIh6v57fZ4fwnLUJcI6T4VJx3_HNK1PhJwohIy-A7_A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cdiYynicHcTbboIwGADgJyoUqRiX7KKaMA4ekIkcbprZAH9FqLF1UN_QR_Btluy7-N4v0PqmPmz7Cq7VStle64eq71wOuh60xWVvtzeFuELKpsnu0FGfRatnbxJq_HV8wgrScmJV2SW62KZHvs9C_bU6yweQQuC0x5CK9cHNZ7nKvZ-eTd8Xh25MNhe-uJDYIwGYpWj0c9Z2ZVGF4P3OF01FmnHYZBEPvSM5RZPLgl3sJBCNEkKD6ILRz9HBGCP4n6PhD_6lROg"
+    },
+    {
+      "position": 8,
+      "title": "Ancorum Credit Union",
+      "place_id": "ChIJZf_E-0CcskwRL7PO-DiJyJ0",
+      "data_id": "0x4cb29c40fbc4ff65:0x9dc88938f8ceb32f",
+      "data_cid": "11369488137082286895",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c40fbc4ff65%3A0x9dc88938f8ceb32f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c40fbc4ff65%3A0x9dc88938f8ceb32f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6589744,
+        "longitude": -70.2493029
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZf_E-0CcskwRL7PO-DiJyJ0",
+      "provider_id": "/g/12xqsl_kq",
+      "rating": 4,
+      "reviews": 20,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Financial planner",
+        "Non-profit organization"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "financial_planner",
+        "non_profit_organization"
+      ],
+      "address": "19 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 750-0959",
+      "website": "http://www.ancorumcu.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Cash advance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT2mvZw7QsW28tgOq8xwCv8DXclCOJMjw76o0-_NAiljNHkvFkoGxryLPvvObdv1aTXncjxxVBI9ujE9cS-iFaC1ayIA2hpHBPH5-5177hMfUINkIXRPfZEAGNhEaRs4WReHUlwvKXT0GT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FRzf4nicHcRLjoIwAADQE1UKfsBJXFTk56cgohI3BitSoVLG1hZP6XpuM4lv8f4-VMpO_BgGo8NBxXnFypcon4S3smzlgPCHUXUCEAGEgRK8bZCfWQ910vZWHC1HVvGv02tXOYucMDdebmptTzgEZ4zurMZho_yGB_3zvU6Uii9XZRZZ3pK67w_zaPqqvSnZgbtfuGbxjpBFu3CehGMwNm2bbm77CDdRnia3k4cCTL0iFaNjWoZ7ptUqz2CQzbQJIQT0OwHtP7e2RvI"
+    },
+    {
+      "position": 9,
+      "title": "Empeople Credit Union",
+      "place_id": "ChIJDYaJdnScskwRH9mGbv1s-To",
+      "data_id": "0x4cb29c747689860d:0x3af96cfd6e86d91f",
+      "data_cid": "4249547559137630495",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c747689860d%3A0x3af96cfd6e86d91f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c747689860d%3A0x3af96cfd6e86d91f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.663838399999996,
+        "longitude": -70.2707689
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDYaJdnScskwRH9mGbv1s-To",
+      "provider_id": "/g/11fx8zqh3g",
+      "rating": 4,
+      "reviews": 30,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Bank",
+        "Financial institution",
+        "Mortgage lender"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "bank",
+        "financial_institution",
+        "mortgage_lender"
+      ],
+      "address": "29 Baxter Blvd, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 338-6739",
+      "website": "https://empeople.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8kb5W14zV7UIsqpw7ieb7x1RSi79pp6UmEJMi0HcmoAE6OwzT_cuclnm6jN_Ezo6-kI0QYPqxVwYtqQZZ-mKQeioJTcFfRgao1yGGK6bSq23nVHFvidOCxoUHO8M3D-Ve6ugG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mGopp3icHcRRboIwGADgE1WKbEWX7IFMBDWKqGD0xYxaS4X2L7YMxgV3Bm-zxO_he_6V1mrz4Th16Y04AK9Za9iDgrJM2REF6XBtEDXIOMF2k1ZBNKmK96P7NuR-tjCN7nzBCr93d3vhT7UmmQyXa4FjKiEISdINhwttaa0kuW8u4QAEVQucnrZNn3cn26TnM5KrlAlYHuj8tuPf4P5G0YoU-2bsqTye_4hr8tVDFieTtTdDOSMtjz47F2OMytcUqX9ur0Sy"
+    },
+    {
+      "position": 10,
+      "title": "TruChoice Federal Credit Union",
+      "place_id": "ChIJIXpVGgmcskwRomBbN1vEWjk",
+      "data_id": "0x4cb29c091a557a21:0x395ac45b375b60a2",
+      "data_cid": "4132831504115654818",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c091a557a21%3A0x395ac45b375b60a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c091a557a21%3A0x395ac45b375b60a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6555126,
+        "longitude": -70.2781552
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIXpVGgmcskwRomBbN1vEWjk",
+      "provider_id": "/g/1wt3m_y7",
+      "rating": 4.2,
+      "reviews": 72,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Federal credit union"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "federal_credit_union"
+      ],
+      "address": "272 Park Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 772-0808",
+      "website": "http://www.trufcu.com/",
+      "description": "Credit union and financial services firm providing checking accounts, loans and car-loan options.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUUqeisasdM-dM_v8pErwu0QqYRUoKuE9-M9WB3qnqxy8OSjie7XMJeAq-9bf_vWJ0bqn70Mccqppof5ZQsrPqntruQpKSE5kOeJPZF7RgEW8x3FS18W-WGGU_7nD01wab6Y4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CPpxHXicHcRJDoIwAADAF1VKEAETDxhBA6mChFS4EKgVcOlCi-gH_YO_MXEO8_10Wgu1NIx7Z81azts7HRUdCGeaMj0j_GG0QgGigDL8ZJ_e_F2eS9qrWp0ROKPq6YpgmEaYyuKY83gMPIA8vLYkk6-3e8iuPXVOKKK-BF5zqZ44go1kDkSESCH4xS5TNSSS6WFMRZwF9u1Ao6QMnWMbYPdlhZnpYoC327xy2AaaU90sivlqMiGEoPtPAPsBbBJEQQ"
+    },
+    {
+      "position": 11,
+      "title": "cPort Credit Union",
+      "place_id": "ChIJ93zOO-SaskwRWCxd-ChRqBs",
+      "data_id": "0x4cb29ae43bce7cf7:0x1ba85128f85d2c58",
+      "data_cid": "1992932071518841944",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ae43bce7cf7%3A0x1ba85128f85d2c58&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ae43bce7cf7%3A0x1ba85128f85d2c58&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.700988699999996,
+        "longitude": -70.3139119
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ93zOO-SaskwRWCxd-ChRqBs",
+      "provider_id": "/g/1hc4kscv0",
+      "rating": 4.1,
+      "reviews": 118,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Mortgage lender"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "mortgage_lender"
+      ],
+      "address": "50 Riverside Industrial Pkwy, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 464-0253",
+      "website": "https://www.cportcu.org/",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Cash advance"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "book_online": "https://cportcreditunion.coconutcalendar.com/?location=14954&rwg_token=AE37R_iRqaxzAXn-VRfZbSA7BLNfSYa5UNs0Q1ANzDYyT6N8j8whk_EUBlo-iKb_j-NAA5UEkW2lxJhSGRV_BuckH_BE7VvFIg%3D%3D",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEK5UpSfoFwDXPivUJFCdtPUGkJyVMWPDGnfbI1odGeU5qLHvRgXCYlHoJSA5LSXBrHqguDndT-wXngEzYL9XxLjwVhpXxZowu_TWrDlK1QNZUMRMTLutUK6ZSObxqg3A4PaGqq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hYnaHHicHcThEoEwAADgJ5rqyB13fkSUWowa0x9HZSFba8viBT2Dt3Hn-_F9P6VStRwbRlX2e5RzWhWtLJqMM1Uw1cv4w6C1BJkE0nDQanN35qGN6_jCF9ol6PrEwWKWK4S9e_DaRXvkeuxyXlo89wpsC-g_t5TMDpXPg9ixYUymjS9o67I8AZowOn8f4Ih08KZ3ZU26lOv2mOwbtwqtzSrF0TZKYKtwOEzj9bkTtO8M0MkTYqIt0zRB-T8D7Ae0YUXb"
+    },
+    {
+      "position": 12,
+      "title": "Cumberland County Federal Credit Union",
+      "place_id": "ChIJM4D4WBabskwRSk8vpPDLlYU",
+      "data_id": "0x4cb29b1658f88033:0x8595cbf0a42f4f4a",
+      "data_cid": "9625824012981456714",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b1658f88033%3A0x8595cbf0a42f4f4a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b1658f88033%3A0x8595cbf0a42f4f4a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6987781,
+        "longitude": -70.2866976
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM4D4WBabskwRSk8vpPDLlYU",
+      "provider_id": "/g/1tfg785b",
+      "rating": 4.1,
+      "reviews": 9,
+      "type": "Federal credit union",
+      "types": [
+        "Federal credit union",
+        "ATM",
+        "Loan agency"
+      ],
+      "type_id": "federal_credit_union",
+      "type_ids": [
+        "federal_credit_union",
+        "atm",
+        "loan_agency"
+      ],
+      "address": "1345 Washington Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+        "thursday": "8:30\u202fAM\u20135:30\u202fPM",
+        "friday": "8:30\u202fAM\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 797-6492",
+      "website": "https://www.myccfcu.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Cash advance"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0VgRoeToFUoe0PrrHoe3bGun9UZ3REsxbLt2m--RaQdEUXyyrm98xn2Y70bapqppyT5zUisnxOnHtRJ_1UHEfdqa28wYkFvNB8JJQ9en3UMqqRdmw0WS4YPLg0aIAGeyZBNdu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8UjviHicHcRdDoIgAADgE5GotbStB9tMc2ZKUdlL84ewlYCCqV2wM3Sbtr6H7_uplBJyoWnPypxQzumTdJK0BWeKMDUpeK1RIUEhgdScOEoejgePFHFy4GvMCYzb1ufEzL2O2fhiIlcOeaiMGgCUJaWLz-PY1rY1MCOdwzwTjRDjYfbGd8mGHfMVCq469t1b2WSG1aeP9StaWUGQ2ISZeNs0qKx7eNpP0zikMNs4Hhkvq6jslr0OIQTV_wKwH7NqRWs"
+    },
+    {
+      "position": 13,
+      "title": "Town and Country Federal Credit Union",
+      "place_id": "ChIJdY_bjXWcskwRSBQej9iL3QY",
+      "data_id": "0x4cb29c758ddb8f75:0x6dd8bd88f1e1448",
+      "data_cid": "494705296310932552",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c758ddb8f75%3A0x6dd8bd88f1e1448&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c758ddb8f75%3A0x6dd8bd88f1e1448&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6654385,
+        "longitude": -70.27618369999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdY_bjXWcskwRSBQej9iL3QY",
+      "provider_id": "/g/1tgfw6yf",
+      "rating": 3.4,
+      "reviews": 38,
+      "type": "Federal credit union",
+      "types": [
+        "Federal credit union",
+        "ATM",
+        "Credit union",
+        "Financial institution"
+      ],
+      "type_id": "federal_credit_union",
+      "type_ids": [
+        "federal_credit_union",
+        "atm",
+        "credit_union",
+        "financial_institution"
+      ],
+      "address": "426 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134\u202fPM",
+        "thursday": "8:30\u202fAM\u20136\u202fPM",
+        "friday": "8:30\u202fAM\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 347-2386",
+      "website": "https://www.tcfcu.com/",
+      "description": "Not-for-profit financial cooperative offering savings accounts and other services for its members.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "book_online": "https://appointments.tcfcu.com/?location=6681&rwg_token=AE37R_hIhgdZUfLC8GiFtcHqUSZEJ40SKedUO54arrd1h53-kio4z63uHcIv5sJA-TIIxe4rOQm84TXIdWy5GLJVkOv714SCUw%3D%3D",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM58Be0WfG7e6RxoT0nmbPhfYknPMOT0TygYsrgXzABse1iADm5BS1SVM6eTXGB8oL3qBvlK0RmCewKCre-8wjoNmoGAvmBQVcw9SRryuk779rbCLWbrc7Ir0bHykFqCg2QWJmryfWiajH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZvmXgHicHcRLDoIwFADAE1WKRkETFy1G8IPyi-hSmkdRaKstinhJ197GxFnM91O17c3MLKupRgOuFG_gYUAzJVuQ7YApYfGbQcwgY5FoF9ckCMcuBZyXvgOT5KUyLEURVeWpllG4z3DW85PR_Pgm1IB9IQsxpqmdHsIJZEefumo7utNns8GJ8KDbeBqQ213VTiifPAWND6ybponuH7XjTHXhbfNCM2elcRH09fLu8WGcr4Xuy_xyvgbzzsYYo-o_Q_IHg8dHsw"
+    },
+    {
+      "position": 14,
+      "title": "Coast Line Credit Union",
+      "place_id": "ChIJR4WBaX-eskwRXZDtlQ9tNzI",
+      "data_id": "0x4cb29e7f69818547:0x32376d0f95ed905d",
+      "data_cid": "3618480739322794077",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e7f69818547%3A0x32376d0f95ed905d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e7f69818547%3A0x32376d0f95ed905d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6351906,
+        "longitude": -70.23809899999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR4WBaX-eskwRXZDtlQ9tNzI",
+      "provider_id": "/g/1tlzzsgq",
+      "rating": 4.6,
+      "reviews": 10,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm"
+      ],
+      "address": "333 Cottage Rd, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "8:30\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 799-7245",
+      "website": "https://www.coastlinecu.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wsy6M5hlPAxO26bFOWC7CA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=225.9742&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tzSe3XicHc1RDoIgGADg2_AWIEvNtn_NufXW7M3HhkjAhsCERE_TubpNrQt83-etUwrxTEhMi5RpNTIHs0kbD4Fj5b2ykgcTsfAzWQuS9GseHTf2ErjzZoIh7tWt1Pbebj2rxms_dHXXIjE-hDXSJYiSL0JjlX_i4iesQkQZThRpaBjaeQbGStzUR4aCSUIDRf_k6VcoKP0CEEs4sQ"
+    },
+    {
+      "position": 15,
+      "title": "Trademark Federal Credit Union",
+      "place_id": "ChIJ9U4AOr6fskwRAfdOg_OTWbY",
+      "data_id": "0x4cb29fbe3a004ef5:0xb65993f3834ef701",
+      "data_cid": "13139696061919459073",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29fbe3a004ef5%3A0xb65993f3834ef701&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29fbe3a004ef5%3A0xb65993f3834ef701&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.629167699999996,
+        "longitude": -70.29301889999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9U4AOr6fskwRAfdOg_OTWbY",
+      "provider_id": "/g/11mxpt69wr",
+      "rating": 4.9,
+      "reviews": 12,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "Bank",
+        "Federal credit union",
+        "Loan agency",
+        "Mortgage lender",
+        "Savings bank"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "bank",
+        "federal_credit_union",
+        "loan_agency",
+        "mortgage_lender",
+        "savings_bank"
+      ],
+      "address": "340 Main St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+        "thursday": "8:30\u202fAM\u20134:30\u202fPM",
+        "friday": "8:30\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(800) 696-1146",
+      "website": "http://www.trademarkfcu.org/",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFufCJIbRmOFASDxsuoOa-S__35MD5oBffHX2308eP8_I37mMnHRbytsjh6ruV-L2yCwgrBN0snAXojAqbcT6ZIJ_LkHHV4W4pZ88IYRI83Hiqx2TOxMNfb6FzeomKDQy4CkG6D0Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GP5kLXicHcRRboIwAADQE1U6CqxZ4keFYOsEBI1z_BBpCkykRVoieMMdwduY-D7e878xptdflnVt0KJWqr6KUYuBK2mENAuuOqvuNeAaaIvs4rQl4Vj5G1ZmXRKSfTDpUSVnsC8K5EaBq1ZVRU82gljscMHQZxdJmpWz0ZfGG8Yj2Nqzf6-HVQy1JCd1IbeSH7ycbYptS-nR-XH6HGP2mzGM6N9tsg_JFMVV6YUPobrvIJ0dv117AUyX9w8IIWjecyBfgY1D2Q"
+    },
+    {
+      "position": 16,
+      "title": "Casco Federal Credit Union",
+      "place_id": "ChIJ3WiE5AWTskwRT9KBdivLxnQ",
+      "data_id": "0x4cb29305e48468dd:0x74c6cb2b7681d24f",
+      "data_cid": "8414636341320602191",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29305e48468dd%3A0x74c6cb2b7681d24f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29305e48468dd%3A0x74c6cb2b7681d24f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7141403,
+        "longitude": -70.517865
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3WiE5AWTskwRT9KBdivLxnQ",
+      "provider_id": "/g/1tp1ydsf",
+      "rating": 4.9,
+      "reviews": 77,
+      "type": "Federal credit union",
+      "types": [
+        "Federal credit union",
+        "ATM"
+      ],
+      "type_id": "federal_credit_union",
+      "type_ids": [
+        "federal_credit_union",
+        "atm"
+      ],
+      "address": "393 Ossipee Trl E, Gorham, ME 04038",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 839-5588",
+      "website": "https://www.cascofcu.com/",
+      "description": "Credit union owned by its members and focused on community services such as loans.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Cash advance"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECNqWe0EDI9LhS-2xk2l6A2fTXgwKJqnKZLQN-uP3TfzBGRxnPJT7RDs3MBIa9wxW0WOAKMXOSDi_5HlGnWPlNznNVNR-IsoE11MfCZu0iyw0w1wj29zG8X7j3JjhxMjgRzdprkUbkcrjg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/X2oiPXicHcRLjoIwAADQE1UKxA-TzAKFICAVEYW4MVqhtdQWKaQMl5z13MZk3uL9_dK-b9WXYXBqz4iUhFeDqjosRV-JfoblyyCtAlgBZbgpOjSuv0HvooK-Fzo7egTW2Fh84Vp1XhIdR28RX3YHBIbUzutpHWSjSKN8mXnKTtbhzdFjAYu9Gyfl_ug9r_MtD0SRcjQJdEYZCJX0TTOpN5cBPn801KZmljMFq3LJ7IjRMWEkmx5t15zuDe4Y-dYmhBDQ_zEQHwQSRsw"
+    },
+    {
+      "position": 17,
+      "title": "Atlantic Federal Credit Union",
+      "place_id": "ChIJXY19EimZskwRt9wahcznusc",
+      "data_id": "0x4cb29929127d8d5d:0xc7bae7cc851adcb7",
+      "data_cid": "14392070424808316087",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29929127d8d5d%3A0xc7bae7cc851adcb7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29929127d8d5d%3A0xc7bae7cc851adcb7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.604134599999995,
+        "longitude": -70.3664831
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXY19EimZskwRt9wahcznusc",
+      "provider_id": "/g/11x767vq20",
+      "rating": 4.6,
+      "reviews": 11,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "Federal credit union"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "federal_credit_union"
+      ],
+      "address": "2 Ginn Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20134\u202fPM",
+        "thursday": "8:30\u202fAM\u20134\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 503-4473",
+      "website": "https://www.atlanticfcu.com/about/contact/locations-hours.html",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5E-nE5AazIxJ5kt1Xm_OFjL6kSRjMuwzPo9G2nmudBSEkACoB1i6niXpbsfdE7LiVtkT4Mo-V3FBo_xWgqPu-uWc6qmjOEPtPq2AS9wJ2rmMqmeQcwOKuwqUX7o-TAgnpkBpAQ0kGTdx0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/p8xvyXicHcTNboIwAADgJ6oUHBiX7FCW6uZklMGUm9HCCtT-2TYlvuTOexuTfYfv73dwTtvnKLoOywVTil17b_sbVdL10i2oEhHTFlALbITIZ8XRW4qBxCk639_nXcpd3IpTuZn2Ga-_psKHO1HrbSKF7_Iac_Sq8njM5Njqi_3p8Go_HhxvngoFDstNrk7zkRnigT_SzIipxMQRk6B6HXbJTRRG9BUN5YcP5rtdKdAgJjXPNaog3zbdDF9CDCEEw_8UyAe5I0gP"
+    },
+    {
+      "position": 18,
+      "title": "Casco Federal Credit Union",
+      "place_id": "ChIJB5GiNd6QskwRSfkkvsx9p1o",
+      "data_id": "0x4cb290de35a29107:0x5aa77dccbe24f949",
+      "data_cid": "6532328102841088329",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb290de35a29107%3A0x5aa77dccbe24f949&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb290de35a29107%3A0x5aa77dccbe24f949&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.686254399999996,
+        "longitude": -70.4196674
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB5GiNd6QskwRSfkkvsx9p1o",
+      "provider_id": "/g/1tfg7877",
+      "rating": 4.3,
+      "reviews": 16,
+      "type": "Federal credit union",
+      "types": [
+        "Federal credit union"
+      ],
+      "type_id": "federal_credit_union",
+      "type_ids": [
+        "federal_credit_union"
+      ],
+      "address": "375 Main St, Gorham, ME 04038",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20134\u202fPM",
+        "thursday": "7\u202fAM\u20134\u202fPM",
+        "friday": "7\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20134\u202fPM",
+        "tuesday": "7\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 839-5588",
+      "website": "http://www.cascofcu.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGOxX0G1smSopqieSbfJ4E5usLNXSuuxejOAF8TwKsWLlRKrkyns9ZKkQNXzEpZ50-TEQlt5ghcCapRrlup9jBwouL7nA9c39jMX2PITwj8BTiJ9EEis1wvw7lEbbiTGmgwdgpoA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fhoR9XicHcTdTsMgGADQJ2KlzmbDxAtmWONau3UlsdmdRaQ_FLAfyPQNfQTfxmTn4vz99t47eEgS3a9XylqlZQC5CGu8NH4l7JwoB0gAgoSeqnqi-_x4bXGewtxY9znIpvs43LMsQFm1TQhXOR7pfstjAa-lPhfL9G2AXIqprtof5i4ZRpzV2meqF09v7rzo4Mi4izaUG0OJWJPxpb07PfM4bnd8OBDGBkjjV9xo1nUDz2cV35Wz9DGmGGPU3xbI_ANlhEbN"
+    },
+    {
+      "position": 19,
+      "title": "Empeople Credit Union",
+      "place_id": "ChIJBewjh0WaskwRjcYSFV2D73w",
+      "data_id": "0x4cb29a458723ec05:0x7cef835d1512c68d",
+      "data_cid": "9002558615945660045",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a458723ec05%3A0x7cef835d1512c68d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a458723ec05%3A0x7cef835d1512c68d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6817145,
+        "longitude": -70.3315468
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBewjh0WaskwRjcYSFV2D73w",
+      "provider_id": "/g/1tdgpfbh",
+      "rating": 3.2,
+      "reviews": 61,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Bank",
+        "Financial institution",
+        "Mortgage lender"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "bank",
+        "financial_institution",
+        "mortgage_lender"
+      ],
+      "address": "202 Larrabee Rd, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 338-6739",
+      "website": "https://empeople.com/",
+      "description": "Credit union offering savings and checking accounts, loans, and mortgages, plus online banking.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Cash advance"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkOyTHkvaEFecU90mMF30WBc_jYsTC5_7zqusmMIVR8yIq8rK7Vg87d_JwKy2WVRsUGWx457IwOG1OjeWvs7Al6gbg8ckj-HNA_cHLlYbm1E6Z1zkNM2mjdMOSC1lvGAgP6rbr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eGaNSHicHcRNjoIwGADQE1VaHSmauOgYBVTAX4izIUNtSmgLyocgXtAzeBsT3-K9X3nTXGFqWTofDWRVSS3uIGpelY0omwGvjCWvgDggsNg23Cnmqqg_eqr9XywFP02wCZYjnPzytDjDcT5O6fN2BxP48d7p_ZtTr2ksHXpJV926HybxHk5u8vgZU7-LXBIVImmBMm3LTDpcFcgLWcq9jT5nhizsP_JUYTA0xSWIDnOiW5fJrV1n9awjGGOUf-eo_AA2EkQK"
+    },
+    {
+      "position": 20,
+      "title": "cPort Credit Union",
+      "place_id": "ChIJX6uBB3SiskwRfrvmNqK_9dI",
+      "data_id": "0x4cb2a2740781ab5f:0xd2f5bfa236e6bb7e",
+      "data_cid": "15201266820685675390",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a2740781ab5f%3A0xd2f5bfa236e6bb7e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a2740781ab5f%3A0xd2f5bfa236e6bb7e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5885002,
+        "longitude": -70.3479302
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX6uBB3SiskwRfrvmNqK_9dI",
+      "provider_id": "/g/1tfrrj20",
+      "rating": 4.7,
+      "reviews": 75,
+      "type": "Credit union",
+      "types": [
+        "Credit union",
+        "ATM",
+        "Loan agency",
+        "Mortgage lender"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union",
+        "atm",
+        "loan_agency",
+        "mortgage_lender"
+      ],
+      "address": "313 US-1, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 464-0253",
+      "website": "https://www.cportcu.org/",
+      "description": "Loan provider with a personal approach and friendly service.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "book_online": "https://cportcreditunion.coconutcalendar.com/?location=14956&rwg_token=AE37R_jhQ2EVvUbbzdVGWPimVnsdYCp2RR8uXml8Zn2R_UK4NSBcYO6wMLifMw-tJROqC_WSCI95B-AOBC6O6uQIQwsl19c_4g%3D%3D",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlcHbtBmwhms_SM7Xh67C5p6am0L81CqRhR3U1BlVqQoa4fhjZqLk4gbr5ODiDzHTofWQ-j_yfcbg8F-V6PA11Kfx1HgOa4RLWEqJZrtvVCtrvBOgJn1G9LxsRRw2WhnM-t4M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/h41c_HicHcRdEoFAAADgE61aKjHjoR80lGpRphdTO7WL2q12CQd0B7cx43v4vh8qZSvmilLTyYhwTuryLsoecyZLJkeYNwppBcACCMWKdvHN8mrsFdJuBtqI8z6YnqgxdfTWyBvVN6HTIYomR2jXSRfzXKvoNev8m0aKXg_di_v2DrxKY3A9vypcEHMFEiOyINxWT-iRMNeQny67TdbLR-LI_mGHZMPgeuY_BULDOKUsAFILFgNUVRXQ_xiwH_wkQ-U"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=credit+unions+in+Portland%2C+ME&start=20&type=search"
+  }
+}

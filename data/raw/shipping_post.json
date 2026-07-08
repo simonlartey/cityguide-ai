@@ -1,0 +1,482 @@
+{
+  "search_metadata": {
+    "id": "6a4e687b99d5f4e75742bb88",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Wcfh3ICJ7ArZbh-5I83jdQ/6a4e687b99d5f4e75742bb88.json",
+    "created_at": "2026-07-08 15:10:51 UTC",
+    "processed_at": "2026-07-08 15:10:51 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/post+office+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/Wcfh3ICJ7ArZbh-5I83jdQ/6a4e687b99d5f4e75742bb88.html",
+    "prettify_html_file": "https://serpapi.com/searches/Wcfh3ICJ7ArZbh-5I83jdQ/6a4e687b99d5f4e75742bb88.prettify",
+    "total_time_taken": 5.7
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "post office in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "post office in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "United States Postal Service",
+      "place_id": "ChIJsfxyLmucskwRlGU6lFfYktE",
+      "data_id": "0x4cb29c6b2e72fcb1:0xd192d857943a6594",
+      "data_cid": "15101370371187303828",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b2e72fcb1%3A0xd192d857943a6594&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b2e72fcb1%3A0xd192d857943a6594&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658357099999996,
+        "longitude": -70.2576857
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsfxyLmucskwRlGU6lFfYktE",
+      "provider_id": "/g/1tfzlynz",
+      "rating": 3.4,
+      "reviews": 35,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "400 Congress St Ste 9998, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135:30\u202fPM",
+        "thursday": "8:30\u202fAM\u20135:30\u202fPM",
+        "friday": "8:30\u202fAM\u20135:30\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135:30\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1361208?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Part of the United States Postal Service, this facility provides mailing and money order services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyjHNcwgZAv5qzesuOhvBqEj7NVAzq3DAlc2lLIAgtTqpko17a95rVjGrHJvf5nY0c4qsJMkPvFrnPdxUNW_aJN3Nsv5umHx-a_dM8VTBx3dTBQK7FUMBjVprqKbwE7IwIeoqM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/z8HvjXicHcRLToQwAADQE5WPDEFNXJQMCIxUSBiMbgiWWsKnpR8KckHP4G0mmbd4_3-91ot6tu2p9yzKOZ3IqojEnGnCtIX5bNNFAayAsmGByhHGv0OC8Ea_oPHFQdT63ptQREOAangI7wwn_DC9pZDqSiwjd4P2yZf18CqTzPz47NPBJ6GyfCxMLFnR7Vf00bQZ8pAy_jonO2ibLn-sq3D3uiosL0F8zcOhXqS4fG9RkG4p4SJ_2VzHcUB_HwN2A-4yRfE"
+    },
+    {
+      "position": 2,
+      "title": "United States Postal Service",
+      "place_id": "ChIJXaFwjxKcskwRwO4xjLIgttQ",
+      "data_id": "0x4cb29c128f70a15d:0xd4b620b28c31eec0",
+      "data_cid": "15327474333030411968",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c128f70a15d%3A0xd4b620b28c31eec0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c128f70a15d%3A0xd4b620b28c31eec0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658760099999995,
+        "longitude": -70.2663297
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXaFwjxKcskwRwO4xjLIgttQ",
+      "provider_id": "/g/1vcl3c7x",
+      "rating": 2.5,
+      "reviews": 156,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "125 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1434511?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Part of a nationwide chain, this branch offers mail and package delivery, as well as shipping and money order services.",
+      "extensions": [
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkvJpob1r0jjnHgV5BC1sncZ9IwydoBkNGfiz8HeozZbQQ8vv7iMcEz7lgC77vJk8i3-V_-fOxOuVRZ6twgG-KSbIdn7pKnC-Sp_-ThFq3Xws7ak5YTfiTEOtCL7AG5N7jRlIO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HvdcEXicHcRLDoIwFADAEz2BECyauECCiB8QJUTZGKlQoNhWW0G5oGfwNibOYr6fSikhp5rWVuaIcE7a4imLB-ZMFUyNML9pREjAEqTm7MKYOj7tVoLnxkNvGrYkqTV3DclwNgn695XPaeiX9WAvCz5keRzbXYfqLfYG1BIXoW5F7dqE9Axl9Iqe6T4bq574sD7kwZUhsWYuHMQZkmpxN4-9RBdqnZKyTrxIuRvk-FaImn0bRLPe0HUdqv8Y2A-dy0SZ"
+    },
+    {
+      "position": 3,
+      "title": "United States Postal Service",
+      "place_id": "ChIJKw7vNhGcskwRsdmAJuBUrds",
+      "data_id": "0x4cb29c1136ef0e2b:0xdbad54e02680d9b1",
+      "data_cid": "15829401586972547505",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1136ef0e2b%3A0xdbad54e02680d9b1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1136ef0e2b%3A0xdbad54e02680d9b1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6534252,
+        "longitude": -70.26408339999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKw7vNhGcskwRsdmAJuBUrds",
+      "provider_id": "/g/1tdj3tl1",
+      "rating": 2.8,
+      "reviews": 31,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "622 Congress St Ste 9998, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u201312\u202fPM",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1383436?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCaE3dSBDojSnGyQrMKoU1QbupUDyPj-aUp7RkvZXUr9UikRgvtyd8Cscifc682zRPhkxePiRHogn1POZftBV2olKVnLbJZIwYK4dgDavgR5-r_rqsnhGL_ig2YL-3Udd0NBGw8w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Mc9v23icHcTbboIwAADQLyrXTdmSPYgsoDBXSmomLwZbbLmsZW2F4R_6Cf6Niefh3G_cmEG_23bPfYtJyfr6omtFpDC1MBaRvzYbNCAaaHsFd3m3StbVp0-LMJJtIeI5V1-pxG5-ugw4mmELKjwsUTeWP1i94aZDbDQzDdaaNGeyCLwrgrz7r2GDEsmEC7_Lswn3nuzTvchO23IzHdIXyqJqZOgVqKP604LH2bFh3iEDPqbU2YXxFEwfk-s4DuDPCRAPbcJGlA"
+    },
+    {
+      "position": 4,
+      "title": "United States Postal Service",
+      "place_id": "ChIJCd3YSMOdskwRNL4SvcnaTmM",
+      "data_id": "0x4cb29dc348d8dd09:0x634edac9bd12be34",
+      "data_cid": "7155897417933700660",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dc348d8dd09%3A0x634edac9bd12be34&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dc348d8dd09%3A0x634edac9bd12be34&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6583547,
+        "longitude": -70.2660088
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCd3YSMOdskwRNL4SvcnaTmM",
+      "provider_id": "/g/11vrxn6wy7",
+      "rating": 3.7,
+      "reviews": 19,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Passport office",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "passport_office",
+        "shipping_and_mailing_service"
+      ],
+      "address": "151 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20137\u202fPM",
+        "thursday": "7:30\u202fAM\u20137\u202fPM",
+        "friday": "7:30\u202fAM\u20137\u202fPM",
+        "saturday": "7:30\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20137\u202fPM",
+        "tuesday": "7:30\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1582837?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqXv9G12S43MWB8MAsdjIywp8lYhuz1q2D-fvtYgFx6KcD2lvMg6iHPUGylR2ZItxHKmelvJ017bOyTIylrEWuV5jht8iWU_Ldk2t17fE8qkyOTEFs9tm9bWmEiL3f4JSNi0kn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9J3_lHicHcRbjoIwFADQFVXa4ihMMh8YqqKiji8GfyaxQouUl72gdYOuwd2YeD7O6ykBav1tWUraPVFVQiWtTq68KiEpocerwhK1RlwjbXnr5W_useavcyeEbvt2GI2c0NPnS2ButaNi2T5IQ32UdhCL8X0w5z5VXSgG2XS9nxi1occA7tN5kahuhsnwtDK7wKgri9rD10WCk0X7_8U5p0CGKXOa3Kx2bKxdKNxTVLBsYaf92XaZ4bz8uRGMMZKfOSrfUe1Erw"
+    },
+    {
+      "position": 5,
+      "title": "United States Postal Service",
+      "place_id": "ChIJSefdw_8JlVQR5cDPvCXxiiA",
+      "data_id": "0x549509ffc3dde749:0x208af125bccfc0e5",
+      "data_cid": "2344951700383580389",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509ffc3dde749%3A0x208af125bccfc0e5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509ffc3dde749%3A0x208af125bccfc0e5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5275761,
+        "longitude": -122.67918499999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSefdw_8JlVQR5cDPvCXxiiA",
+      "provider_id": "/g/1jlk0bwgv",
+      "rating": 3.3,
+      "reviews": 258,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Passport office",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "passport_office",
+        "shipping_and_mailing_service"
+      ],
+      "address": "745 NW Hoyt St, Portland, OR 97208",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:30\u202fPM",
+      "hours": "Open \u00b7 Closes 6:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136:30\u202fPM",
+        "thursday": "8\u202fAM\u20136:30\u202fPM",
+        "friday": "8\u202fAM\u20136:30\u202fPM",
+        "saturday": "8:15\u202fAM\u20135:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136:30\u202fPM",
+        "tuesday": "8\u202fAM\u20136:30\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1439949?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Post office offering passport services, along with shipping and package handling.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEz4m9-ii8UqGxs-Gns4dczCCYtpWY01mWnw04LeSg9TZY0_DmRER4gW4vmbuOY0H11mlSAnOgobzDPysh1VOcgUmMVLSZZd_53ALJs-E9E7PCIvF2PXY5eTmbBbzmreNSUIb7Z=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oPh-F3icHcTRboIwFADQL6q0WqOY7AGRORcmTEQsLyatTTFyW-atuvGD-wb_xsTzcB7_jfcdzoKgbUYD45xp9RX1RTnrtfUD5SAwHRKFBIMoX3-fo6TnEJLTaVr-LH-RLC3yo-rjWPiuEpRBZe-Up7ow4bYW9LCATbLhpuI3kNdM0A_GoC0imxkn-0X-hw3bZcqU8LVLi7o-HsajKP1EkoTJJI9Xt_dhvhdjvQU5lz1c9LooV3JSv90ZpZQ0rxWxTy5BQ98"
+    },
+    {
+      "position": 6,
+      "title": "United States Postal Service",
+      "place_id": "ChIJe3chkoKeskwRG6-LKziV1fg",
+      "data_id": "0x4cb29e829221777b:0xf8d595382b8baf1b",
+      "data_cid": "17930401559926779675",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e829221777b%3A0xf8d595382b8baf1b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e829221777b%3A0xf8d595382b8baf1b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6375825,
+        "longitude": -70.25215279999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe3chkoKeskwRG6-LKziV1fg",
+      "provider_id": "/g/1tgp9wnm",
+      "rating": 2.5,
+      "reviews": 69,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "15 Cottage Rd, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "8\u202fAM\u201312\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1434522?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Local branch of the federal agency providing mail delivery and shipping services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRq6_gYHOwA6jnL97aDJYMlcDrdq2UhL_Xj8MugYjzGazmAXmqo9LsrupLnm2W_Nquq39hn98E_tlMcQvn0BGJgvpDHHfrrlylvVXnhr3meE7BusNL1OZnOIELyHSHgJHG6-x6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/964jSHicHcTdboIwGADQJ6qgJChLdoGBUEmBOaOD3RDTYRvWfqV_OH1Bn8G3Mdm5OM8Hd26yb0EgeLRgSjExeDsYqsAN4BZUyYBNFlGLbJB-1PvfFH_quGcdbq5pPAJJ1ues7CpBM_OjV0dO-nbcVJ51470432XaSq0SYo2fCMjVV19rr6OEQ7LJeycqup8h3BYlm6cM44sx4ibmUwvcRHLI11tva7JsvqHZ5eSGD5iVuIjRX_x-XYZhiPj_FMEL4l1F5g"
+    }
+  ]
+}

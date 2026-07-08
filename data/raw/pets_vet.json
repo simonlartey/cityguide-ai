@@ -1,0 +1,1500 @@
+{
+  "search_metadata": {
+    "id": "6a4e686088aca451e6855327",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0XYglgAp3YDVtmJK4ODbBQ/6a4e686088aca451e6855327.json",
+    "created_at": "2026-07-08 15:10:24 UTC",
+    "processed_at": "2026-07-08 15:10:24 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/veterinary+clinics+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/0XYglgAp3YDVtmJK4ODbBQ/6a4e686088aca451e6855327.html",
+    "prettify_html_file": "https://serpapi.com/searches/0XYglgAp3YDVtmJK4ODbBQ/6a4e686088aca451e6855327.prettify",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "veterinary clinics in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "veterinary clinics in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Back Cove Animal Hospital",
+      "place_id": "ChIJVe40WAGdskwRm4CjW2aLJc4",
+      "data_id": "0x4cb29d015834ee55:0xce258b665ba3809b",
+      "data_cid": "14854432217691816091",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d015834ee55%3A0xce258b665ba3809b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d015834ee55%3A0xce258b665ba3809b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6647483,
+        "longitude": -70.27044459999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVe40WAGdskwRm4CjW2aLJc4",
+      "provider_id": "/g/11h1djydcd",
+      "rating": 4.9,
+      "reviews": 645,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Pet groomer"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "pet_groomer"
+      ],
+      "address": "55 Baxter Blvd, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u201312\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 253-1780",
+      "website": "https://www.backcoveanimalhospital.com/?y_source=1_OTQ0MTg3MDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I felt my pet was in knowledgeable, caring and helpful hands.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYdwIKdPZTT0f97GlLHPRkd7VZITfxGjPMOtCG3hKlJTWBNVJ8wDL_mUOfL7pp9vamMPnIznZZDWX0-8kWeqKh6qZ2UnGGIZZIGsxu0IMWtGvM-C_5WfUT313u2aXh_Mu3M4W0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FNAnpnicHcRdDsEwAADgE9VKMSQesKRqKyWd0pdl2V9jWzfambigM7iNxPfwfT_K2tYsHKdSaFA0TVFlnckeSaNtpu0gaWqnaA1IDDDOiu2P5Qpf0574KZOcw3zu4irYslOZumdJeP7CN0YPdoOR8qsdF-v9eTfrvSCqw0MeuG07f8Y1ZZq8tZSeuEAwK0V299X0LkehxphISbB5dZBQYfGTgk00EXnI0RB1o_iiItohOhZw2Q8hhED9T4D-AQtBQ0I"
+    },
+    {
+      "position": 2,
+      "title": "Portland Veterinary Emergency and Specialty Care",
+      "place_id": "ChIJVyKNklmaskwRSIz4hhz5KEA",
+      "data_id": "0x4cb29a59928d2257:0x4028f91c86f88c48",
+      "data_cid": "4623218918414650440",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a59928d2257%3A0x4028f91c86f88c48&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a59928d2257%3A0x4028f91c86f88c48&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6868741,
+        "longitude": -70.3308402
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVyKNklmaskwRSIz4hhz5KEA",
+      "provider_id": "/g/1tdmpngx",
+      "rating": 4.4,
+      "reviews": 1041,
+      "type": "Emergency veterinarian service",
+      "types": [
+        "Emergency veterinarian service",
+        "Animal hospital",
+        "Veterinarian",
+        "Veterinary pharmacy"
+      ],
+      "type_id": "emergency_veterinarian_service",
+      "type_ids": [
+        "emergency_veterinarian_service",
+        "animal_hospital",
+        "veterinarian",
+        "veterinary_pharmacy"
+      ],
+      "address": "739 Warren Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 878-3121",
+      "website": "http://www.pvesc.com/?utm_campaign=gmb",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The team was very gentle with my cat & I and very thorough in explanations.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFk0wEKCFDcc4MJS159P8Jwh8GuIYE4YeQsK7JbQp7XP7LEFzAC7MOMT_jPetN9T4eEY1VQunL6NMg3QraseyLXtK_CS78MeoADsUh9zSqF1ounXz4Gt4k_mYkF__6DH5Cd8pX8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A_y16HicHcRRDoIgAADQE5m6KLCtD6dSqZjMavrFipgsCyxwLi_YGbpNW-_jfT_S2t6sXPcu57NW6_YuBiNeXCsrlJ1x_XDb3jjcOMYNy4J2Ie68MckiHHMOSFr5i6BE6SjRZtg1CWgENRlML7SHdQnzBE9hBMmeHNitFLYIDkAkjX-ig8qXBWnn9HU24p3XNmNRBREROozNUQZT9cS-HlQ9gY0FHXs0HWZsGW8X0RX1NVqPvud5jvzPHfUDhaFCvA"
+    },
+    {
+      "position": 3,
+      "title": "Portland PetMedic Urgent Care Vet Clinic",
+      "place_id": "ChIJu2_ldFKdskwRYTm6FVgFXo0",
+      "data_id": "0x4cb29d5274e56fbb:0x8d5e055815ba3961",
+      "data_cid": "10186585283038427489",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d5274e56fbb%3A0x8d5e055815ba3961&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d5274e56fbb%3A0x8d5e055815ba3961&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.664156299999995,
+        "longitude": -70.260963
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu2_ldFKdskwRYTm6FVgFXo0",
+      "provider_id": "/g/11rbtznky7",
+      "rating": 4.8,
+      "reviews": 759,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian"
+      ],
+      "address": "191 Marginal Way Ste B, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20139\u202fPM",
+        "thursday": "12\u20139\u202fPM",
+        "friday": "10\u202fAM\u20139\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "10\u202fAM\u20139\u202fPM",
+        "tuesday": "10\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 813-4777",
+      "website": "http://www.petmedicurgentcare.com/locations/portland-me/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They asked questions and did a thorough exam without traumatizing my cat.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2EjAthVShLRhdzZkikommzMh2deTc99P0IRWn9XF_Y81b9VqAjENik8eCZ_l78joj_z-LzKk9Iqwp-GMMJipvnTr5Nm-v0EoCAb61EmLmVJ6Q0dv7z7qEQB-B6jsVi5LInMycSg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MTdFCHicHcThjoIgAADgJyKxWypt_aBGNzt1Wc2r_riFTAQBDbLFG_YIvc1t9_34Pm_u3GCXQdDzr1lrTNuzh2V3arRj2s2oUUE7WEAtsAHeF6XE2zkR2PHqyLMDb_xVdtIo5XM-b9iJIrSH6eFXo_O2viThDVUjFqToZMI217qPE2FE7UHmfyRKx-cAvvN81w2TPt0XhQITJGaDb1FIVKaqXVTCZop9PJJyDdaRsFW3yFKdv-ixXT1DCCHg_1Og_wD5WET5"
+    },
+    {
+      "position": 4,
+      "title": "Casco Bay Veterinary Hospital",
+      "place_id": "ChIJVYh4WLObskwRiQcedchuVOQ",
+      "data_id": "0x4cb29bb358788855:0xe4546ec8751e0789",
+      "data_cid": "16452897145928681353",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bb358788855%3A0xe4546ec8751e0789&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bb358788855%3A0xe4546ec8751e0789&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.674236099999995,
+        "longitude": -70.3227697
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVYh4WLObskwRiQcedchuVOQ",
+      "provider_id": "/g/1tl4cmnw",
+      "rating": 4.8,
+      "reviews": 275,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian"
+      ],
+      "address": "1052 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 761-8033",
+      "website": "https://cascobayvet.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://us.vetstoria.com/booking/681cff0188cde?r=8&rwg_token=AE37R_ggIE_cQy0_Cnff0ZiduzWNFky90KcqR9CdfGdDa-bdf8V8opl14HyT0oLByPR31hvmmMiOXKssOHkYELB_w9UJuUD_GQ%3D%3D",
+      "user_review": "\"The veterinarian and techs are kind, professional, and very knowledgeable.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcL4co4Bcu989KN-Rh8gOuyATYvuwFOGc0xdt31Sdw8Q1f_431qij07m9or3YP08brDQw2xXLaKpbHKenUJvNiKCICk9eOKy7kRmMLcawMvb1zGWxjCzY6bEAUBqeZynGUb975=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Lji-2nicHcRBUoMwFADQE6UkgkKccUHRooZCaWUUN07zG6GlJJQEAr2gZ_A2zvgW7_enNqbT945zrt1FpVR1FoMWPShphDQLUK1TdRqBRtoJN2nehCtIPFDeEgYaUJaibR1U2TCHb-U42FUWA54OxiW7gw1y8v3lueRyPGG_pap3yw0OeP-Y25vpI9mzjj8zIYvXMT2y6CVqqMjY7Dfbdp3A3q5HTq7x-3SKruUdfwqL5UV8zjIuOPVvHyzBGKP6f0DyDwVZQ_0"
+    },
+    {
+      "position": 5,
+      "title": "Brackett Street Veterinary Clinic",
+      "place_id": "ChIJjxO7nBCcskwRTJAMoY8qKGU",
+      "data_id": "0x4cb29c109cbb138f:0x65282a8fa10c904c",
+      "data_cid": "7289122793269792844",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c109cbb138f%3A0x65282a8fa10c904c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c109cbb138f%3A0x65282a8fa10c904c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6511262,
+        "longitude": -70.2680452
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjxO7nBCcskwRTJAMoY8qKGU",
+      "provider_id": "/g/1tlbt9wd",
+      "rating": 4.7,
+      "reviews": 302,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital"
+      ],
+      "address": "192 Brackett St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 772-3385",
+      "website": "http://brackettstveterinaryclinic.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "book_online": "https://us.vetstoria.com/booking/6596efada32fe?r=8&rwg_token=AE37R_jC_Qs8R38ufPdI3MoHlUYkEgqQfLKSuXF4tGbmACGO1RPYxqGbnVmcrlCsAWIznXNusDiMWkAVq1EzFSMCmBTPEWBoEw%3D%3D",
+      "user_review": "\"From the vets to the staff  they all very friendly,caring and competent.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHlGDwKupkShuvjRA6KS2G4zslGfMmANqa0dYkXaS0BaX7Qyp_XaF-qI9yZl6-rMrO2UHF_63wslRuJg4FwkozXa4eZugx097AZ6Nwjblg9m5VRFv-FlTGAK4w9tN35g96ksrY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ew4phnicHcTRroIgAADQLyIpjUZbD7QG3VxWWs18aVyvFxcoJhDVD_YN_U1b5-G8X7W1nZkGgarDgdBaqMqZqi91a6vWDkrdBKIzoDTABGSb7CRhS8UWPnadzGp3u6QExdmIRU-j2P-6IcmVw7-TzHkG5zyf7B7dOecUXH_wo1AI9Ot-Mzos6RmF3qjUrUREvdTPnEdV4cQd4gkpUOIvv0rgZnxM6Q1QtWckjjy2STgWGEnTn2Z-CCEE9fcStB91VkR2"
+    },
+    {
+      "position": 6,
+      "title": "Portland Veterinary Emergency and Specialty Care (Dermatology Only)",
+      "place_id": "ChIJhQiz032ZskwR2d9qHCvJQ30",
+      "data_id": "0x4cb2997dd3b30885:0x7d43c92b1c6adfd9",
+      "data_cid": "9026279265178148825",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2997dd3b30885%3A0x7d43c92b1c6adfd9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2997dd3b30885%3A0x7d43c92b1c6adfd9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6514715,
+        "longitude": -70.33211949999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhQiz032ZskwR2d9qHCvJQ30",
+      "provider_id": "/g/1vn183mh",
+      "rating": 4.8,
+      "reviews": 139,
+      "type": "Animal hospital",
+      "types": [
+        "Animal hospital"
+      ],
+      "type_id": "animal_hospital",
+      "type_ids": [
+        "animal_hospital"
+      ],
+      "address": "2255 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 878-3121",
+      "website": "http://www.pvesc.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"They took the time to listen to my concerns and provide great care.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHndyo_DQmpjndCtKqskJlgS6SqaSkpaadEJu4NKjbe_K9zesJp_tc2-WplF5rJHPFsNW9aBN4M8upmmls0FvaUcSiTQet4jVtJXcxb5-aF93XX5xu5W00GUnaKmZmXMPpSA04RPw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RlK9FXicHcTbboIwGADgJ6p0CstY4gVTmSmRgNVBvCGlNDDoSf_i6Q19BN_GxO_iez465yx8e57sZpPWmFaKEcSJG-2EdhNulNdaQBwQeFGW5kO01s3NVMtc2V43C5ccYSCypZ_0yOhgGWtWZPTTpK9FlYR3AcRWjk9RYWUcnMg6iyEtQvaT-puv0SolAcdntuf0f5cL5_d_jpT8WgeIxeGsLIPrGBQY_-41S9RBlZvM0gj72-wyv3xgjFH3niP9AqmTRmM"
+    },
+    {
+      "position": 7,
+      "title": "Cape Veterinary Clinic",
+      "place_id": "ChIJe4rwp3ieskwRE7mq-s0k2EM",
+      "data_id": "0x4cb29e78a7f08a7b:0x43d824cdfaaab913",
+      "data_cid": "4888697862603061523",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e78a7f08a7b%3A0x43d824cdfaaab913&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e78a7f08a7b%3A0x43d824cdfaaab913&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6400984,
+        "longitude": -70.2543848
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe4rwp3ieskwRE7mq-s0k2EM",
+      "provider_id": "/g/1tdwk2x9",
+      "rating": 4.7,
+      "reviews": 509,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital",
+        "Veterinary pharmacy"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital",
+        "veterinary_pharmacy"
+      ],
+      "address": "51 Ocean St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 12:30\u202fPM \u00b7 Reopens 1:30\u202fPM",
+      "hours": "Open \u00b7 Closes 12:30\u202fPM \u00b7 Reopens 1:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20136\u202fPM",
+        "thursday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20136\u202fPM",
+        "friday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u201312:30\u202fPM, 1:30\u20136\u202fPM"
+      },
+      "phone": "(207) 799-2188",
+      "website": "https://capevetclinic.com/?utm_source=gmb&utm_medium=organic",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://us.vetstoria.com/booking/63be5e011881b?r=8&rwg_token=AE37R_jjgHPOQlD9rxSrULnfXm37N8aYPVlUJKttUk3d8iDUXsQ7il0l4EMzr1nGpN7Iohz4LbGQh8c4viUIYEekHwA0il7c7g%3D%3D",
+      "user_review": "\"They got us right in and offered options and great care for our sick pup.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEL5ep3Y7TktoqfKqGawH3ESBO9rlN1xKDXuu5Zj3X6oV5cDpCsXckW8H87FF-C2wVScDEHSF6EsyEGOA9_98kAjl6xrWXF6ldGFNr21rlSBovLtsbfM5cQVD9yl2vhOQc1eDiB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F-7Qn3icHcTdboIwGADQJyq_AWHJLsC2kKgwggHczaLfCkwqxbaIPqHPsLcx8Vyc_2ev9aQ-TJP3rtEJ0XE2KyZBjJqN2gBxMbtJIVBImdFXVgwR2Xpscg-r_aDFtd1ck-OSuqSM81DyzL5vcDPP3vfZbXxReYCntWpgqIM0WFGK1s5SlYBJWlKfqAdJ8ij8CYMhOnP_LuuG-vw3oZl0bMnLWNy2Wp3anQdFhcMHd259XoDN8F_8udiWZaH-PaDxBecWQ1E"
+    },
+    {
+      "position": 8,
+      "title": "South Portland Veterinary Hospital",
+      "place_id": "ChIJ_5wBqbGeskwRCYr9naiXkQE",
+      "data_id": "0x4cb29eb1a9019cff:0x19197a89dfd8a09",
+      "data_cid": "113038216121911817",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29eb1a9019cff%3A0x19197a89dfd8a09&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29eb1a9019cff%3A0x19197a89dfd8a09&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.633876199999996,
+        "longitude": -70.2890518
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_5wBqbGeskwRCYr9naiXkQE",
+      "provider_id": "/g/1tjgzzd2",
+      "rating": 4.6,
+      "reviews": 133,
+      "unclaimed_listing": true,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital"
+      ],
+      "address": "177 Main St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 767-7784",
+      "website": "http://spvh.net/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"Thoughtful, competent and very reasonable veterinary care here.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOiacx8jT0OcBFROZKA7F5Bq7OnI440TGi2WgrMnz9x8A_VIPzPUschtDh1kh35YQzURsCVucgvvXJ9e_lRpJVD4YRhtph5Xg-l79kWvZo5t5w0cshGxIWOXCQMRlFMTtY6Ndo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/t-WAW3icHcTdboIwGADQJ6rUSYcs2QVqcLhgoUF-vDHmk_RzdC2zFQkvuGfwbZbsXJznLzrX2zfPU7iYSWOkau-2vYHRrtVuBubbk70lYIn1omyfd9EHv55hXH4VlMMqFvz4GQUxW_0EXCe-T4vt9aWSt1RP4biMTmWSTdnBAroNzjtcsCafDsKuyzvIYah3YXtSot-VG78R6HpktSQqCLtqOBrm2IOCxe2YVLxe56lQcVq45nV_Me-POaWU4P9A9B8dnkRy"
+    },
+    {
+      "position": 9,
+      "title": "Maine Veterinary Medical Center",
+      "place_id": "ChIJiam_SL2YskwRuFNSa9TtSBg",
+      "data_id": "0x4cb298bd48bfa989:0x1848edd46b5253b8",
+      "data_cid": "1749909951822844856",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb298bd48bfa989%3A0x1848edd46b5253b8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb298bd48bfa989%3A0x1848edd46b5253b8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5937838,
+        "longitude": -70.35412459999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiam_SL2YskwRuFNSa9TtSBg",
+      "provider_id": "/g/1tfpjd_z",
+      "rating": 4.3,
+      "reviews": 1224,
+      "type": "Emergency veterinarian service",
+      "types": [
+        "Emergency veterinarian service"
+      ],
+      "type_id": "emergency_veterinarian_service",
+      "type_ids": [
+        "emergency_veterinarian_service"
+      ],
+      "address": "1500 Technology Way, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 885-1290",
+      "website": "https://mvmc.vet/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Our dog received thorough medical care and has made a full recovery.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtC1CY5oYFPVNEVllyLoOWqbNsCNNteCZnUFZa0apAdMa3Cf2_-zGq8yBnFOpSUd1W8xsFBeVccoD8-mOkplqKD9nJr3nQGCoSDspisdoxpWGkWrR7JLbQRxECE00_p9MjbWcSRjvgxiw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oC6YrXicHcTbboIwGADgJ6oUyTJcsgssh8RDEYg0emOgVFBqW_ir4h5y977Nkn0X3_u3s9bAl-PIzpu1WrdS3EGMXCsrlJ1xfXNaA4gDAifY0awPIktccvjQh3hX0qiU8rXRKRtqCoRSK8hR7eNjhSsTNNvKI-f5Cf0kg_9aqjg1xb5xmT9BvBQl5zr00S3tjRzW4UKtRk9lCdFFCOYCjZ4MS3o25p-rTZ3lU0QijE9msb3WjBf59dFOl-f308UYo-5_jtQfbl1H3Q"
+    },
+    {
+      "position": 10,
+      "title": "North Deering Veterinary Hospital",
+      "place_id": "ChIJ2x_MlCmbskwRlwWU8LQaSFc",
+      "data_id": "0x4cb29b2994cc1fdb:0x57481ab4f0940597",
+      "data_cid": "6289306244055565719",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b2994cc1fdb%3A0x57481ab4f0940597&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b2994cc1fdb%3A0x57481ab4f0940597&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.716053699999996,
+        "longitude": -70.2926816
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2x_MlCmbskwRlwWU8LQaSFc",
+      "provider_id": "/g/1td7brqc",
+      "rating": 4.7,
+      "reviews": 153,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital"
+      ],
+      "address": "456 Auburn St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 797-4855",
+      "website": "http://www.northdeeringvet.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"All staff friendly , great doctors, made me and pets feel appreciated.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGAotw0VnGUsT6SH_TtXZ8DJ895vZrjg_mWmFZGpf3apQUwQs7A_bmsD-IOKGatqJImX0c0XDxOApypDbRRiRLq-qYv6FMhWEF6YyysWx2qaxV2EIlQjHLx_QeobN21hZMfDC2r=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/epzCU3icHcRbjoIwFADQFVUqRnRM5qOxgvguPkB-CDRIVUoLtyOwQtcwuzHxfJz_tzBGw8yySjEaFEoVZf4HecNVZfLKDLiSVqEBcUBgkcOOPYlHlGnxpfLOcHKOy-RkonhKV9Of8StuHkUiQ-nGnr6NUs3OLYMJSTIJFPn7tZeaeuXLCHMc0W5PdK9pFgT3YFOj-vpy3K0IF65z7XsIO7tOu4u98Ev2WG66hOUq29lDEW9vdG43v-0QY4zEd46qD4VJRQk"
+    },
+    {
+      "position": 11,
+      "title": "Portland Vet",
+      "place_id": "ChIJF2X-u86ZskwRf-2jHb3yZb8",
+      "data_id": "0x4cb299cebbfe6517:0xbf65f2bd1da3ed7f",
+      "data_cid": "13791696327952035199",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299cebbfe6517%3A0xbf65f2bd1da3ed7f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299cebbfe6517%3A0xbf65f2bd1da3ed7f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6514715,
+        "longitude": -70.33211949999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF2X-u86ZskwRf-2jHb3yZb8",
+      "provider_id": "/g/11xtk8ztyy",
+      "rating": 5,
+      "reviews": 3,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian"
+      ],
+      "address": "2255 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 253-2509",
+      "website": "https://portlandvet.pet/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"Dr.Zeb and his team were amazing with our new puppy.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QEr-LNSYpsAbL8DyJSpK9w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=353.5269&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IYugb3icHc1RCsIgGADg2_g2dRuLLZAI6qVGEHvqKZwzFZz-qM12ms7VbYou8H2ft04J4paQmIKUaTEyg3lJGwvgWHmvrORgIhZ-JktJkn7Oo-PG7oA7byZ2PYaivww3iPuxbw_raYBzl5EY78Ia6RKLkgehsco_MfgJK4gos5YizboKrTyzuqlxU206BCYJzSj6Jw-_sJLSLy8jOSI"
+    },
+    {
+      "position": 12,
+      "title": "Portland Veterinary Specialist: Stuer Gary DVM",
+      "place_id": "ChIJaQaz032ZskwRgZtH2zM0-jI",
+      "data_id": "0x4cb2997dd3b30669:0x32fa3433db479b81",
+      "data_cid": "3673305843400940417",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2997dd3b30669%3A0x32fa3433db479b81&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2997dd3b30669%3A0x32fa3433db479b81&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6514715,
+        "longitude": -70.33211949999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaQaz032ZskwRgZtH2zM0-jI",
+      "provider_id": "/g/1th6dfw6",
+      "rating": 5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian"
+      ],
+      "address": "2255 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 780-0271",
+      "website": "https://www.pvesc.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"Mickey can have surgery for his collapsing Trachea.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QEr-LNSYpsAbL8DyJSpK9w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=353.5269&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IYugb3icHc1RCsIgGADg2_g2dRuLLZAI6qVGEHvqKZwzFZz-qM12ms7VbYou8H2ft04J4paQmIKUaTEyg3lJGwvgWHmvrORgIhZ-JktJkn7Oo-PG7oA7byZ2PYaivww3iPuxbw_raYBzl5EY78Ia6RKLkgehsco_MfgJK4gos5YizboKrTyzuqlxU206BCYJzSj6Jw-_sJLSLy8jOSI"
+    },
+    {
+      "position": 13,
+      "title": "Falmouth Veterinary Hospital",
+      "place_id": "ChIJlSqmCVSDskwRRYullwAFpR4",
+      "data_id": "0x4cb2835409a62a95:0x1ea5050097a58b45",
+      "data_cid": "2208176692397443909",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2835409a62a95%3A0x1ea5050097a58b45&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2835409a62a95%3A0x1ea5050097a58b45&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7141684,
+        "longitude": -70.2343104
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlSqmCVSDskwRRYullwAFpR4",
+      "provider_id": "/g/1w664_qz",
+      "rating": 4.9,
+      "reviews": 549,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital"
+      ],
+      "address": "174 US-1, Falmouth, ME 04105",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 781-4028",
+      "website": "http://falmouthvet.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://us.vetstoria.com/booking/67e593d7787f8?r=8&rwg_token=AE37R_i2anv67f_p2hEb_r6pvu7fZbafqvMihXYo5LzUBzdQ6y8Lw8oL4BoJOdvxpWKCazKVZx6Uk3-GaJr0U_G-AZdUodzq5Q%3D%3D",
+      "user_review": "\"Friendly staff, knowledgeable vets, clear information, reasonable prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdy660DYtL2EhzugicvqEE7ix1el3I1oAPtDXvVilKOYo4h-ejd0NIh_3gh9gdlUdPgM0_4oBUJaS3vGQH8x-Wk9siXeiqFrOZJM16x3qhwj-f90lrK1jWn4GhX3CC6BH6r8Y=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rMPr3nicHcRNjoIwGADQE1XaKakyiQtUFP8xExXcGFNqv2KlQiuiB_QOcxsT3-L9v8G5m_31PA20I42RWtytqLkpnShdh5urJ28WcYusFyarzSWM8ydjeJS5xU8Er7tUvKmiqKtaIjSdEhMmbpQ2O6Xn68z4gESR49UUjlRCIHO9zRO5xEffDLaz0x9tJpu416L9JbAqFaoa1-vDbElYSyt4FOgcYF3PSbEv_QmkdDhkg5jVvaz_IBhjBN85Kj_6C0NV"
+    },
+    {
+      "position": 14,
+      "title": "Veterinary and Rehabilitation Center of Cape Elizabeth",
+      "place_id": "ChIJ40zoKjSeskwRnIyjmxRJeEs",
+      "data_id": "0x4cb29e342ae84ce3:0x4b7849149ba38c9c",
+      "data_cid": "5438176902909234332",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e342ae84ce3%3A0x4b7849149ba38c9c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e342ae84ce3%3A0x4b7849149ba38c9c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6029416,
+        "longitude": -70.2351231
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ40zoKjSeskwRnIyjmxRJeEs",
+      "provider_id": "/g/1tkv9cbd",
+      "rating": 3.9,
+      "reviews": 43,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital",
+        "Pet trainer",
+        "Rehabilitation center"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital",
+        "pet_trainer",
+        "rehabilitation_center"
+      ],
+      "address": "207 Ocean House Rd, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20131\u202fPM, 2\u20136\u202fPM"
+      },
+      "phone": "(207) 799-6952",
+      "website": "http://www.vrcce.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": false
+      },
+      "user_review": "\"The Veterinarians were kind and gentle with my cats.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwPfucut-j1szmD3a8zQkWdL-_HLYPXekEtDHRpqr-NbYDW3Hh3TyLJqgMUBQxDrfqP_j_vkr5rtZjVosyf-OKXWJ7VyHq0P_fdGfYIHB2iszMoWKRaDm2LG122DSQM-NbgsyGbw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K_H9GXicHcxNjoIwGADQE1X-YjQmLjQ1VAUtOiPghmilRRAK_cog3NAjeJsxbt7yvV-Z1jXMDOOROSMhpXikLaSKyUqnlR4xWRqiBsQAgbGgu6BYuB3lLWs1yi0YSuxcpkNQhDcPJcSLaZQWK43JoW4U2l1jHDokc356b9MI_3cZPLHiDU3y5K9QY6XP-UlCz9F-G4WbyaknjUkTfnN5vCZL-w6DL8Pt4YJL23Mt28bHwP-sAnr32s07yzRNlH1lqPoHYRRGKg"
+    },
+    {
+      "position": 15,
+      "title": "The Cat Doctor",
+      "place_id": "ChIJQ3yxs4ybskwRu13Wcagp_I4",
+      "data_id": "0x4cb29b8cb3b17c43:0x8efc29a871d65dbb",
+      "data_cid": "10303155850957970875",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8cb3b17c43%3A0x8efc29a871d65dbb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8cb3b17c43%3A0x8efc29a871d65dbb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.663643199999996,
+        "longitude": -70.2848738
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ3yxs4ybskwRu13Wcagp_I4",
+      "provider_id": "/g/1tj96074",
+      "rating": 4.7,
+      "reviews": 229,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital"
+      ],
+      "address": "183 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 874-2287",
+      "website": "http://catdocmaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://us.vetstoria.com/booking/65c402ffadb84?r=8&rwg_token=AE37R_hRX0lObSPCGHysuea1X5Us-zBK4oRL4a42JICmM8VhfdVf9kn4uROBP1E8YvW5M3FFeQo8Wj044DDqUZM7wq04A1QbJw%3D%3D",
+      "user_review": "\"I called the Cat Doctor and they were able to get him in the very next day.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFNqEXugO7dJcCy92Uik_sLPl9RByVKL5GMPfzL6QS0zRydQqTEFqzuDqUPln5ov87-BkvMcyKcmIBFsx6tuckTIo0xdzRAethaR4FOQkSHD82Eog-5RmivFyKYpVT9ZTOqGZA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/L9VyQnicHcTbDoIgAADQLyLpYmVbD1rSRUslbdVLa2jYUJFACz-wf-hv2joP5_vJlarlzDCKfNijnNMia2T2JLxSWaV6hJcGrSUgEkjDDvcRs9FeuKeGBpN0SxbaGiQPdpV-WFjY0UfPN1e78N754-gAO6zTSMQuEl2zFElYVCZvpxPgsHZHtEfKjYPke6wawuINh--0w3am8hseoSBih_VyOnA5BSYuHy3S3rk-xtYlDsTqYs9ffQghyP8TUP0ASDZEzg"
+    },
+    {
+      "position": 16,
+      "title": "Westbrook Animal Hospital",
+      "place_id": "ChIJt6qscpeaskwRcZ6_UtgGBYM",
+      "data_id": "0x4cb29a9772acaab7:0x830506d852bf9e71",
+      "data_cid": "9440959720023105137",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a9772acaab7%3A0x830506d852bf9e71&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a9772acaab7%3A0x830506d852bf9e71&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7075019,
+        "longitude": -70.3377376
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt6qscpeaskwRcZ6_UtgGBYM",
+      "provider_id": "/g/1tgx1mfq",
+      "rating": 4.5,
+      "reviews": 237,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital"
+      ],
+      "address": "189 Pride St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "8\u202fAM\u201312\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 797-4747",
+      "website": "http://www.westbrookanimalhospital.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"Our cat CoCo was sick and was seen by a great caring vet.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPsMJ343Zuv4x_6_6bMc1J98LmlF-qOpKenpiKPxUgmjESyMTWB-2pycyd-JHoAnvGKbBvWMW5l3TRUwqYTwjGP9u4Blvtva-YpFptC0nww7wkuxmVEjmzMGgaiHBXUQqXYReb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zvV043icHcRdboIwAADgExVQmJsmPoBBDKwOHQzxxUjXFLB_rKWFXXBn2G2W7Hv4fn9araXauC5tfYcIQSgeFf5CgmvMtYMEc4lUACmg3DA_nh5hnCuY-oF_HU0w3Va3VQPRIl2_vDK6B8ObzDCXXZZPJWF9_D7DoorAUs5o_gTpQYTcJFkTmQpWT9QvzqUd6sL2Sb4eg4gabe6glnupdx639tk-xol9xD37hgm5d4foUp6GS33GzdYuPM8D7f8I8D94Q0Xp"
+    },
+    {
+      "position": 17,
+      "title": "Tender Touch Veterinary Hospital",
+      "place_id": "ChIJdQMaL7KZskwRGjU2x3yzKhI",
+      "data_id": "0x4cb299b22f1a0375:0x122ab37cc736351a",
+      "data_cid": "1309055990204085530",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299b22f1a0375%3A0x122ab37cc736351a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299b22f1a0375%3A0x122ab37cc736351a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6262408,
+        "longitude": -70.37317159999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdQMaL7KZskwRGjU2x3yzKhI",
+      "provider_id": "/g/1thff0xx",
+      "rating": 4.5,
+      "reviews": 332,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital"
+      ],
+      "address": "336 Gorham Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135:30\u202fPM",
+        "thursday": "8\u202fAM\u20135:30\u202fPM",
+        "friday": "8\u202fAM\u20135:30\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "8\u202fAM\u20135:30\u202fPM",
+        "tuesday": "8\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 839-7456",
+      "website": "http://tendertouchvet.net/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://us.vetstoria.com/booking/65c68fc5663cd?r=8&rwg_token=AE37R_i-E7L2UPBZQPVV2fUpfeyCjSjZbzJNb6N09CQMDIMCjJcs7EgzexE_G0SsKbc-O2BIHRMM-6Q5xwrAtqOKxOWxy5Ax5w%3D%3D",
+      "user_review": "\"Knowledgeable veterinarians, compassionate care, great staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSh3W-Dzu8ckEdO6_eRaU-7utv516Xx3Gva3q3KmtJbhJ8hW95g0sm6Ai8zmjKQN5AFSH5vDgvlJwFGgPTVnJINrb_fZgC3LAUk6NCsEpdK2Zkbq-N0KkMgMSisvA1uj1lfMO4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/unTDF3icHcxJDoIwAADAF1WKFUQTD43iAlIX3MLFSIUWyqYt1fhB3-BvNF7mOJ83V6qRQ8MoOOqwumZF0srkTutKJZXq0Lo0WCMBlUAaeE02Ak9Djo5g8modKtzryj4n28se9FulLdM-PdFMX9AN-aXyYu45_DiwGJSljTPnVeb-hli_YW7pCdOF95jO2Hp3qLwFucfnNGJjtMR7YZOxdJur341EfAME-iJgQZhJjc02N4s0WPVGDxNCCPhfCqov-TpDmg"
+    },
+    {
+      "position": 18,
+      "title": "Scarborough Animal Hospital",
+      "place_id": "ChIJRwtyEC2fskwRS1Qbn4Qa4pk",
+      "data_id": "0x4cb29f2d10720b47:0x99e21a849f1b544b",
+      "data_cid": "11088454389446956107",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29f2d10720b47%3A0x99e21a849f1b544b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29f2d10720b47%3A0x99e21a849f1b544b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6000936,
+        "longitude": -70.3219293
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRwtyEC2fskwRS1Qbn4Qa4pk",
+      "provider_id": "/g/1vd3vd8_",
+      "rating": 4.8,
+      "reviews": 554,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian",
+        "Animal hospital",
+        "Veterinary pharmacy"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian",
+        "animal_hospital",
+        "veterinary_pharmacy"
+      ],
+      "address": "29 1st St, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Closes soon \u00b7 12\u202fPM \u00b7 Reopens 1\u202fPM",
+      "hours": "Closes soon \u00b7 12\u202fPM \u00b7 Reopens 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201312\u202fPM, 1\u20136\u202fPM",
+        "thursday": "8\u202fAM\u201312\u202fPM, 1\u20136\u202fPM",
+        "friday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+        "saturday": "8\u202fAM\u201312\u202fPM, 1\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u201312\u202fPM, 1\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u201312\u202fPM, 1\u20136\u202fPM"
+      },
+      "phone": "(207) 883-4412",
+      "website": "https://scarboroughanimalhospital.com/?utm_source=gmb&utm_medium=organic",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://us.vetstoria.com/booking/63bee18751215?r=8&rwg_token=AE37R_jF9b_2PS01WrOCQPHqC8D-utfBYR7sZBXO78sFbhXRAg3sAbTRW3xA4FfQ2JZEeeo8omAumUlhzkBl1ih73HlMaoyKdA%3D%3D",
+      "user_review": "\"I had to bring my dog for surgery and they did such an amazing job.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoY-UgV-giFsKRU9sqR1JeNGdDZCkkU1YCkPTmmvSBJjG2vX4VPbekRi1A2gzaWN0dDcyt1rA19ptWGYldU9ZwM5c-JcnFkZo-lbQP728MYVakMsu3ZZQ8JQm7NqHl9HpwpPHY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/j9kizXicHcRdDoIgAADgE5FitbKtB_tRZ9OhpQVviQwLFArK1QU7Q7dp63v4vp_WWm0WjiPb8YgrxSV7GHanqrestyOqOodrA6gBxglQlotgqzAoeQX4JTS7ovTNrYAJy6JmQ9ZClBCvBTp03XO_Sq6R9zxNKlQzUVxg4PH3-Zi5zYa-LLwH0Nf2GGHZlD4Z0ikFCe1DQRSQdY5m3jzF1Vmk5jEmJJ8neTfLbrH0Yz1oFOPlAF3XBe1_CvofJ2BEBA"
+    },
+    {
+      "position": 19,
+      "title": "Animal Hospital of South Gorham",
+      "place_id": "ChIJvfpQdm-XskwRIwq6QtnTxog",
+      "data_id": "0x4cb2976f7650fabd:0x88c6d3d942ba0a23",
+      "data_cid": "9855797764627761699",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2976f7650fabd%3A0x88c6d3d942ba0a23&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2976f7650fabd%3A0x88c6d3d942ba0a23&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6413869,
+        "longitude": -70.41536169999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvfpQdm-XskwRIwq6QtnTxog",
+      "provider_id": "/g/1tk1mlj2",
+      "rating": 4.4,
+      "reviews": 136,
+      "type": "Veterinarian",
+      "types": [
+        "Veterinarian"
+      ],
+      "type_id": "veterinarian",
+      "type_ids": [
+        "veterinarian"
+      ],
+      "address": "47 County Rd, Gorham, ME 04038",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 839-8158",
+      "website": "http://www.southgorhamvets.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "user_review": "\"Dr. Linda was thorough and kind and answered all our questions.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpQiMi78JEgM67BKETFHJ3FUyxfC6WQxwPADTl8xujT_7r0UbFELZIAkvKyctZwO7cYe6Hpz-juOkC6TTOwAqt-IWSUVvkuHcYqkbPg0LWH5MUmJk8bQQ4V2fj-i8HoyUBvkc-Pg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/M2ewnnicHcRLjoIwAADQE1U66gAxcVEcSEURGluJbiahwQJFirb8vKFH8DYmvsV7vwpjWr2yrLpYzIRSos47nT-4akzemBlXN0u0GnANtIWSA5EIt6SMSscNfRHZjrfzaYDDRcCm8bqxUzIOCfqjtTt2Ff13HpBlgb-_bJHsdxM3lyF2-Dm3cfsEVRfLjU1pPKC7Adv0yE697DA_32WWCLhP8W_EbqF0M0KWp_m1AqWL1cS8XnKQiPXwAyEExXcOmg-pAUTi"
+    },
+    {
+      "position": 20,
+      "title": "Brackett Street",
+      "place_id": "ChIJnaLJR72dskwRiZ2eYxpegHQ",
+      "data_id": "0x4cb29dbd47c9a29d:0x74805e1a639e9d89",
+      "data_cid": "8394813172852104585",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dbd47c9a29d%3A0x74805e1a639e9d89&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dbd47c9a29d%3A0x74805e1a639e9d89&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6517274,
+        "longitude": -70.2678207
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnaLJR72dskwRiZ2eYxpegHQ",
+      "provider_id": "/g/11h6t7m923",
+      "rating": 4,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Low income housing program",
+      "types": [
+        "Low income housing program"
+      ],
+      "type_id": "low_income_housing_program",
+      "type_ids": [
+        "low_income_housing_program"
+      ],
+      "address": "232 Brackett St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open now",
+      "website": "https://brackettstveterinaryclinic.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Very flexible and compassionate!\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jn_S4QSLzzUwsYjo2VnxfQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=105.50038&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F-LLDnicHc3BCsIgHIDxt_GWutVgBdI9uoxR0Gk459RwKvpvrj1Nr9XbNDp_8Pu-Hw0Q0omQBFFKmI3MwSzSpl3gWHmvrOTBJCz8ROaCgH5NvePGngN33gzs4rr20LTXdb3l9Hj68u6WsUGi74Q10gFLkkehscqbGP2AVUgos5oizY4levPMClrhitJ9jYIBoRlF_8vo5y3RH6mHOhY"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=veterinary+clinics+in+Portland%2C+ME&start=20&type=search"
+  }
+}

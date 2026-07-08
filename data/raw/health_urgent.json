@@ -1,0 +1,1263 @@
+{
+  "search_metadata": {
+    "id": "6a4e682904e10a6097b5cd8a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8wjoVRaabs8TUENDWIDPRw/6a4e682904e10a6097b5cd8a.json",
+    "created_at": "2026-07-08 15:09:29 UTC",
+    "processed_at": "2026-07-08 15:09:29 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/urgent+care+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/8wjoVRaabs8TUENDWIDPRw/6a4e682904e10a6097b5cd8a.html",
+    "prettify_html_file": "https://serpapi.com/searches/8wjoVRaabs8TUENDWIDPRw/6a4e682904e10a6097b5cd8a.prettify",
+    "total_time_taken": 1.25
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "urgent care in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "urgent care in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "ConvenientMD Urgent Care Portland",
+      "place_id": "ChIJQ0w-c26cskwR31PjsGjOKOk",
+      "data_id": "0x4cb29c6e733e4c43:0xe928ce68b0e353df",
+      "data_cid": "16800905358945244127",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6e733e4c43%3A0xe928ce68b0e353df&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6e733e4c43%3A0xe928ce68b0e353df&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6641234,
+        "longitude": -70.261062
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ0w-c26cskwR31PjsGjOKOk",
+      "provider_id": "/g/11hb6b9drd",
+      "rating": 4.4,
+      "reviews": 1047,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Doctor",
+        "Emergency care physician",
+        "Family practice physician",
+        "Medical Center",
+        "Medical clinic",
+        "Occupational health service",
+        "Occupational medical physician",
+        "Walk-in clinic",
+        "X-ray lab"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "doctor",
+        "emergency_care_physician",
+        "family_practice_physician",
+        "medical_center",
+        "medical_clinic",
+        "occupational_health_service",
+        "occupational_medical_physician",
+        "walk_in_clinic",
+        "x_ray_lab"
+      ],
+      "address": "191 Marginal Way Ste a, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 517-3838",
+      "website": "https://convenientmd.com/locations/portland-me-urgent-care/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "IV therapy",
+            "Pediatric care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/convenientmd-portland-me-A6P13g?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-wpkRRQ&rwg_token=AE37R_g6g5Mu9Ayxn2zog6VTuhi2W5W3lQUJxCRYNeEzBHwZPGj6fmLO6QrkZlAcObD2aQs2vvf1r8G_OfBrAL08kapwgUckFg%3D%3D",
+      "user_review": "\"In and out with a diagnosis in 30 minutes and everyone was so kind.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFIYnyHY1QhW8gMqhCDde9tnz3nNJsAjU-0-PF5qpYEWr8uZedMOozcJNfdd8tni_5Jq6CVN3hNjINjcaAblg6P2B52NJ-jskYPI-ZvrPg7lNRWGGwPM54IUa_v-Z8Dt0xXDkK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sQQe-HicHcRRboIwGADgE_1SRRwu8QFlKBi6YqIIL8aV2g5YC7SI84KewduY-D18z4cwptGfllULe8SV4jXrNeuokoZJM6Lqz-KNBqpBWx7BSeUFQZjJ_002TkTq8rgVK79gcyPvtsSR9so9ICCB0zbZV9q5fc6K-FvdaYQvReEa-Xtyona2OmBb4DLEJT17PzWfkcnSmeAISl1lJIT82hH-UeNdul4PJHam4f58ukLu-gbdjn61XQxjhBCI9xTkCzFOQ7c"
+    },
+    {
+      "position": 2,
+      "title": "MaineHealth Urgent Care Plus - Brighton Ave - Portland",
+      "place_id": "ChIJaX5-IJObskwRgSCJljVFLLQ",
+      "data_id": "0x4cb29b93207e7e69:0xb42c453596892081",
+      "data_cid": "12982827922263449729",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b93207e7e69%3A0xb42c453596892081&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b93207e7e69%3A0xb42c453596892081&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6663674,
+        "longitude": -70.2920925
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaX5-IJObskwRgSCJljVFLLQ",
+      "provider_id": "/g/1tykt_1c",
+      "rating": 2.9,
+      "reviews": 135,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Emergency care physician",
+        "Emergency care service",
+        "Rehabilitation center"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "emergency_care_physician",
+        "emergency_care_service",
+        "rehabilitation_center"
+      ],
+      "address": "335 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20138\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "9\u202fAM\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 662-8111",
+      "website": "https://mainehealth.org/maine-medical-center/services/emergency-department/urgent-care-plus?utm_source=google&utm_medium=local",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"They were seen quickly and the staff was caring, compassionate and thorough.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4mQJJOE9SS6oKz3MbiWFXbxOyk6ygH9V0o8T5831vZ7yR5Fzc2p5SKHsWYBznanB26pExZJB_BNcHyGbEZIfDNwnqVz71fkVpdCJgP0dssfpvezUOBc-4zT8Z5xooO-Dnin4K=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/V8bFeHicHcRdEoFAAADgE622XzHjoSVSoyKKXoxWbSZ2lw21F3QGtzHje_i-n7ptuRgryrXWB4Qxci2fonxgRtuStgPMbgrhAmABhOLE4bpxFsZt7fuRO0oSiwVSXxWXbL4vuqhvrJ54oxQye2vauvrKh_3GnEuscTMJPJEdkKQnijSLu13uoyMKsdcvCjdfVrPwTe-pHKpVk_Lz1CcxPAtR8VcpdxHCwJBbOzc7xiIwoxdqBJO3CiEE9X8M6A8Ca0Qp"
+    },
+    {
+      "position": 3,
+      "title": "AFC Urgent Care South Portland",
+      "place_id": "ChIJYaLkxpqfskwRIEboAbUSnco",
+      "data_id": "0x4cb29f9ac6e4a261:0xca9d12b501e84620",
+      "data_cid": "14599846135635396128",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29f9ac6e4a261%3A0xca9d12b501e84620&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29f9ac6e4a261%3A0xca9d12b501e84620&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.635177399999996,
+        "longitude": -70.2555194
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYaLkxpqfskwRIEboAbUSnco",
+      "provider_id": "/g/11hyldwzt4",
+      "rating": 4.8,
+      "reviews": 1316,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Drug testing service",
+        "Medical Center",
+        "Medical laboratory",
+        "Physical examination center",
+        "STD testing service",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "drug_testing_service",
+        "medical_center",
+        "medical_lab",
+        "physical_examination_center",
+        "std_testing_service",
+        "walk_in_clinic"
+      ],
+      "address": "230 Waterman Dr, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20135\u202fPM",
+        "sunday": "8\u202fAM\u20135\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 358-3188",
+      "website": "https://www.afcurgentcare.com/south-portland/?utm_source=gmb&utm_medium=organic&utm_campaign=afc-south-portland-gbp",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "Pediatric care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"We were seen surprisingly quickly, diagnosed, and on our way within an hour.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERG1oVYl4eWclG8ac-_TGkjWdchhJxUSF1jiNSRGU8p2xf25irVSgaJdlN-zqRCDmMvdk0iCiFblBsQb1GVxmz1K8-ElQq7cWAThaXwOgZAykRAQp6PG_6E-HK8Z3Fyiz5VSk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TGTN6nicHcTbDoIgAADQLyKlq2vrgUpptSwvafniDA0IFAsr8wP7h_6mrfNwvh_WNLWeGoZkgx5VisrioYs7UVVTVE2PqNKgtQZEA22gvesJZPsYqugkh0VMJLYyAtIQi2ucE8bW7SFw4JW7gY8PVt1vL_0Rv0cBzda5dEF38xfLcvvMhckX3DnLufbOEEdt2cGNBWzp3SYkRiHLjq8dTdBb-Mirx3ucjm2w2ljJwHnzbhQFYvaCpmkC9p-A6gcO0UPs"
+    },
+    {
+      "position": 4,
+      "title": "ConvenientMD Primary Care",
+      "place_id": "ChIJCwGO-OSZskwRFD_LuChRA48",
+      "data_id": "0x4cb299e4f88e010b:0x8f035128b8cb3f14",
+      "data_cid": "10305169607694696212",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299e4f88e010b%3A0x8f035128b8cb3f14&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299e4f88e010b%3A0x8f035128b8cb3f14&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.664703499999995,
+        "longitude": -70.2600531
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCwGO-OSZskwRFD_LuChRA48",
+      "provider_id": "/g/11tp3vbds8",
+      "rating": 4.3,
+      "reviews": 53,
+      "type": "General practitioner",
+      "types": [
+        "General practitioner"
+      ],
+      "type_id": "general_practitioner",
+      "type_ids": [
+        "general_practitioner"
+      ],
+      "address": "211 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "8\u202fAM\u20135\u202fPM",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 544-9355",
+      "website": "https://convenientmd.com/primary-care/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Short wait time, very attentive nurse and doctors.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsvjM5ZfNdgm1BuZJtMZ8D2hK3PLe3CO56N0IXkK3G30cpTp3MxiMVzUDU4hXjWPH3gKSqP0Zv681-3HO93QgyEzBDXetZcfMa0lwPjVquzkr-Xtr9xyviYb6FUFAPwEpiqlZQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eBwZE3icHcRNcoIwGADQE0VCv8poZ7rAImppMEyLYnZtjAk_QiABlAt6ht6mM32L9_tQ1mrz4jiVgplsGlmJ3oiON7UVtZ3x5upIbRA3yDg-jZPSD81QkDm7xGd5dVc9e7eELYInFQH9EPC2n3sx3mVlBBvAXH9pILecHKY0SJ9VVhzpFmT02VLMBm_hItjul5DI-3paBZmwjF_IN65GWhzafio7lNluebsP-enHC9PQp-Na523FktfRxRgj9T9H9R_SBUP4"
+    },
+    {
+      "position": 5,
+      "title": "OrthoAccess Orthopaedic Walk-in Clinic",
+      "place_id": "ChIJAREoi_CbskwR2x_TT33hGZs",
+      "data_id": "0x4cb29bf08b281101:0x9b19e17d4fd31fdb",
+      "data_cid": "11176211878622994395",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf08b281101%3A0x9b19e17d4fd31fdb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf08b281101%3A0x9b19e17d4fd31fdb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6562506,
+        "longitude": -70.2917263
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAREoi_CbskwR2x_TT33hGZs",
+      "provider_id": "/g/11cmsl8wp9",
+      "rating": 4.8,
+      "reviews": 222,
+      "type": "Orthopedic clinic",
+      "types": [
+        "Orthopedic clinic",
+        "Urgent care center",
+        "Walk-in clinic"
+      ],
+      "type_id": "orthopedic_clinic",
+      "type_ids": [
+        "orthopedic_clinic",
+        "urgent_care_center",
+        "walk_in_clinic"
+      ],
+      "address": "33 Sewall St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134:30\u202fPM",
+        "thursday": "8\u202fAM\u20134:30\u202fPM",
+        "friday": "8\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 825-2829",
+      "website": "https://www.orthoassociates.com/services/orthoaccess-walk-in-clinics?utm_source=GMBSocialClimb&utm_medium=OrthoAccessOrthopaedicWalk-inClinic",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as veteran-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The care was timely, including X-rays and expert evaluation of my injury.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpK8DFBAI4NxRaVX31DprS_COMyitge_j2Co0e9fJe84x9LaC0B6i93U9dNjsNWtLWMI39Yn2tD9wMIpGjCzTLCfenMuVn4L1_PPMrBoQ5B6bEun1Pg563yPweSeGOF5WRxvT5zg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dbFxlXicHcTdboIwGADQJ0KKBWKXeAFlGDaK9WeiV8SxzyJzbUOLoG_oI_g2JjsX5_lorNXmzXUvDZ4IpcQFegNdraQFaSe1-nOFNk5tHONGvFj9Rqn-nCVpHGV-Ma6Puz32Et1tKrpkt7MVULVTqhCQ0wfM_JHkR4ri8EzwF_kpWlOUNi9ZhslBTm1CBpbpRUvv25yeQLJ-J_3cqzhnXaxWQRx-v_fS4yII8Y0PsIHFMg3K9XjdBncxHzyEkNP8XzvyBTWeQ5Q"
+    },
+    {
+      "position": 6,
+      "title": "ClearChoiceMD Urgent Care | Scarborough",
+      "place_id": "ChIJN_ZEzoyYskwRC7FnGiAjKyY",
+      "data_id": "0x4cb2988cce44f637:0x262b23201a67b10b",
+      "data_cid": "2750330618228748555",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2988cce44f637%3A0x262b23201a67b10b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2988cce44f637%3A0x262b23201a67b10b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.602377999999995,
+        "longitude": -70.366215
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN_ZEzoyYskwRC7FnGiAjKyY",
+      "provider_id": "/g/11b6sk8z38",
+      "rating": 4.8,
+      "reviews": 1448,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "X-ray lab"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "x_ray_lab"
+      ],
+      "address": "273 Payne Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 618-9355",
+      "website": "https://ccmdcenters.com/locations/scarborough-me",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "IV therapy",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://clockwisemd.com/hospitals/5243/visits/new?rwg_token=AE37R_jpKi7UDn56ikHJ1Cmx_iYc_oUZNhoSwsbOiSoE6KOarZx-2buSAqdPGdB1bJYkYExm5oeI8P2gv4YFiBugFQZyunv8-g%3D%3D",
+      "user_review": "\"The provider saw me promptly and quickly confirmed diagnosis and next steps.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC9F04geujX0x7IxqFDQYILrKqaFmhoHdWHoXfNDCAMAWVnT9pxf0A7BUqIaJ981dnjLFXQrIj7PXdcuF5BIKP6XMjh7ZEX7g0RkYvDphxcbOH9rkv7cHUHUGuNIiQa7mbzKp6hQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zSrMLHicHcRRboIwAADQEyE1TjtM_KhibYciNTKrf1iwHUhbKDiyG3oEb2Oy9_FeT9V11s19_64mI2mMvBe9K1phdFfobiRM7UvrPOE856MkZhUiqwCDD1n0JQcDpEODQ3am2zZqMlwrQ_ITMfwWhyu0Q6dvfQzscAMILtOGZl_B5zjX5RZz1tISJjwXPZ4uaZTM-K5U8LLmUIJDdX6EVg3iuidBWz2gIClJN31Mf1gG6-tfZGeKLX7HAABP_S88_QaOcUSV"
+    },
+    {
+      "position": 7,
+      "title": "MaineHealth Maine Medical Center Portland Emergency Department",
+      "place_id": "ChIJAQAARA-cskwRGLBWdqbqAtU",
+      "data_id": "0x4cb29c0f44000001:0xd502eaa67656b018",
+      "data_cid": "15349088480702935064",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0f44000001%3A0xd502eaa67656b018&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0f44000001%3A0xd502eaa67656b018&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6536696,
+        "longitude": -70.2759681
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAQAARA-cskwRGLBWdqbqAtU",
+      "provider_id": "/g/11dxs08_4z",
+      "rating": 2.6,
+      "reviews": 96,
+      "type": "Emergency room",
+      "types": [
+        "Emergency room",
+        "Emergency care service"
+      ],
+      "type_id": "emergency_room",
+      "type_ids": [
+        "emergency_room",
+        "emergency_care_service"
+      ],
+      "address": "22 Bramhall St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 662-0111",
+      "website": "https://mainehealth.org/maine-medical-center/services/emergency-department?utm_source=google&utm_medium=local",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Great staff and efficient operation of a very busy emergency department.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEEtCAdVWcbU3e7iv2exa3x_Rv6dXMtqf99pkHhKlPRrPVZKqiewRVoIBvIWWf8pGfz3lwWlnBsJbYuhaZGII39xIESJYCSd9sISsxYFNAhDwdNoLTAiDP_eqbRRufSrPN8abqX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Qbb1U3icHcTbDoIgAADQLzIttsq2Hiit6OIIS7OXpojiIlHBy_rBvqG_aes8nO-Ha12phWkKDka5lLlgrWINlaVmpR5R-TLzShlUGcqE2Ds_oevqNUyDkCZXwGZFN2FDDIYH6abp7aTrzLar544fBCYNDu6HumA9CSRadSgMs3m1zd5A9KEoV2qfRC2P71uEgD0g199Haz-1FfLVEG08yJ0-9eTxAgsHP1idENJmfoO9eZzUt2U_tizL4P-pUf4A2YZGKg"
+    },
+    {
+      "position": 8,
+      "title": "Northern Light Mercy Walk-In Care",
+      "place_id": "ChIJVztqG6KNskwR8AVtdWniejM",
+      "data_id": "0x4cb28da21b6a3b57:0x337ae269756d05f0",
+      "data_cid": "3709526185662547440",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb28da21b6a3b57%3A0x337ae269756d05f0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb28da21b6a3b57%3A0x337ae269756d05f0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.8020498,
+        "longitude": -70.4042522
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVztqG6KNskwR8AVtdWniejM",
+      "provider_id": "/g/11nl7hx4vr",
+      "rating": 3,
+      "reviews": 105,
+      "type": "Medical clinic",
+      "types": [
+        "Medical clinic",
+        "Urgent care center",
+        "Walk-in clinic"
+      ],
+      "type_id": "medical_clinic",
+      "type_ids": [
+        "medical_clinic",
+        "urgent_care_center",
+        "walk_in_clinic"
+      ],
+      "address": "409 Roosevelt Trail, Windham, ME 04062",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 400-8600",
+      "website": "https://northernlighthealth.org/Our-System/Mercy-Hospital/Locations/Walk-in-Care-Windham",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I was seen an treated in less than an hour.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEymc8q9R5fNumSzUpsID1e8JlxTTfAFTJYcD0qYLPw2-_BfpCzujMb1NXeA1R2rEdZXnKVJJ7dJ8S1ibIpMWmUYsXPW6ozL2KSttaNQkLj2kjjO2DbkRz14IGKxiC34BX1cWXs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_wEI0XicHc1LcoIwAADQE0VItJZ2pgsQdQifUsASunEkhj8kmDBaLtgzeBudbt723f8qpYR817SuWi5KzsuOTZJdKB8UG9SC8l4rhQRUAqmZYfDVmtvfnhrjW_RSBFMfzwchHRsyA3e3JCnMXYIzautj5oVXBI5WITbz1Pg5DAgzYYQu2_MPGdxvjF_P2IhhnTvCT_tDJkmYrvnsITdW6vSMvAa1TfOJ7LyNZrhy9u6t3ixXFoE0JfLjCnVdB9W_FAwPSTdEBA"
+    },
+    {
+      "position": 9,
+      "title": "Concentra Urgent Care",
+      "place_id": "ChIJP9I-6MKbskwRZBPjC2QWYIs",
+      "data_id": "0x4cb29bc2e83ed23f:0x8b6016640be31364",
+      "data_cid": "10043051787988177764",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bc2e83ed23f%3A0x8b6016640be31364&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bc2e83ed23f%3A0x8b6016640be31364&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6350152,
+        "longitude": -70.3171267
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP9I-6MKbskwRZBPjC2QWYIs",
+      "provider_id": "/g/11gdtqbyw2",
+      "rating": 4.3,
+      "reviews": 1043,
+      "type": "Occupational health service",
+      "types": [
+        "Occupational health service",
+        "Medical clinic",
+        "Physical therapist",
+        "Urgent care center"
+      ],
+      "type_id": "occupational_health_service",
+      "type_ids": [
+        "occupational_health_service",
+        "medical_clinic",
+        "physiotherapist",
+        "urgent_care_center"
+      ],
+      "address": "85 Western Ave Unit 6, 7, 8, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 774-7751",
+      "website": "http://www.concentra.com/?utm_source=Yext&utm_medium=Organic&utm_campaign=Homepage%20Link",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Went in for a work drug screen and was in and out in under 20 minutes.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGntW0mV1aLlV7DiQorWRcEj4GQ0V8JBDruNet0LdBF1C3CO0jigIcA4d8mybTAPKJrJ_XoBsw_I9Y9iF7fUvFtAjKrLDjucCpKjfKW41OQxYVnlNNzGtpVgEq3peTa5nEwS4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZFQvdHicHcRLjoIwAADQEyElYPwkLso3AkFxtAwrorUWKrS1LcPoAecO3sZk3uK9_1pjpF7bdt-6MyoE7cmoicKCG8LNDIvBplJbWFvahvuivMM44aYCA3LOeY8WYVcKVR1wxLykBGiZ-qEaC2JAfvVjJ3CDHWAd3WLoXZfD83KE-yxVafMtfD0121W96uLF7fQTG8gylYdsxIHM2C2rPGdX_taI90XxSoxENHq4khzPcx5NX95mcgAAVvs_tvgHvkJD1g"
+    },
+    {
+      "position": 10,
+      "title": "ConvenientMD Urgent Care Westbrook",
+      "place_id": "ChIJ4WhrEguaskwRcOkLKcnftW8",
+      "data_id": "0x4cb29a0b126b68e1:0x6fb5dfc9290be970",
+      "data_cid": "8049585964064696688",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a0b126b68e1%3A0x6fb5dfc9290be970&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a0b126b68e1%3A0x6fb5dfc9290be970&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6767101,
+        "longitude": -70.3706438
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4WhrEguaskwRcOkLKcnftW8",
+      "provider_id": "/g/11f2xcws6n",
+      "rating": 4.5,
+      "reviews": 919,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Doctor",
+        "Medical Center",
+        "Medical clinic",
+        "Medical diagnostic imaging center",
+        "Occupational health service",
+        "Occupational medical physician",
+        "Walk-in clinic",
+        "X-ray lab"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "doctor",
+        "medical_center",
+        "medical_clinic",
+        "medical_diagnostic_imaging_center",
+        "occupational_health_service",
+        "occupational_medical_physician",
+        "walk_in_clinic",
+        "x_ray_lab"
+      ],
+      "address": "950 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 517-3800",
+      "website": "https://convenientmd.com/locations/westbrook-me-urgent-care/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "IV therapy",
+            "Pediatric care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/convenientmd-westbrook-me-0xzN9p?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-wpkRRQ&rwg_token=AE37R_j5bUcUE07QrLhn51aQAF8EGr9JPuqEsSq7UBc4AcKXglgk3yZ-rS0O7eAkNhKPO6jDSfOUqg2DpQFTFXsZXl9k0BMMMw%3D%3D",
+      "user_review": "\"I was seen quickly and all In all was there less than an hr.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-PiPlOFw0UAjjdjqHEw7BqAMN_spzDzhnkGtPp1ns79AUuzwlhg7_J9qJaOmBh6l7Ot_PRBXVqa5o8UbnZdu8w4T9Hk8GKSxKf6K6e5S8Qt6r2snDZ5qY79e_uXnyrzwaR_Cs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vuGF3nicHcRRboIwGADgE1VQBwUTH8rcMBKl6licLw3Djg5qS_lLqlzQM3ibJfsevudDWNvBwvOkmE9qrWvJB-B9pZXlyk4qffXqDlAFCDxCd_uWpIj-Upm_O78gTXNpzPrN4cSQ7Y5BN65GodrU0m6qAMekGEYnRY3ZJjabMr8mIpQ4t4wektOnKQMdFd_qfBki9_IRr9sozY637CfMQh4co70N-xmo1TkwXzjmbDipez-68sBeYemmvu8j8X-F1B-pnkWM"
+    },
+    {
+      "position": 11,
+      "title": "InterMed Urgent Care - By Appointment Only",
+      "place_id": "ChIJFwMysWuZskwRVCbP5aruF7E",
+      "data_id": "0x4cb2996bb1320317:0xb117eeaae5cf2654",
+      "data_cid": "12760930486944998996",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2996bb1320317%3A0xb117eeaae5cf2654&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2996bb1320317%3A0xb117eeaae5cf2654&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6383599,
+        "longitude": -70.3250145
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFwMysWuZskwRVCbP5aruF7E",
+      "provider_id": "/g/11crydysv1",
+      "rating": 3.3,
+      "reviews": 41,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center"
+      ],
+      "address": "50 Foden Rd, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:30\u202fPM",
+      "hours": "Open \u00b7 Closes 6:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136:30\u202fPM",
+        "thursday": "8\u202fAM\u20136:30\u202fPM",
+        "friday": "8\u202fAM\u20136:30\u202fPM",
+        "saturday": "8:30\u202fAM\u20135\u202fPM",
+        "sunday": "8:30\u202fAM\u20135\u202fPM",
+        "monday": "8\u202fAM\u20136:30\u202fPM",
+        "tuesday": "8\u202fAM\u20136:30\u202fPM"
+      },
+      "phone": "(207) 523-3700",
+      "website": "https://www.intermed.com/practices-and-services/specialties/urgent-care/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "user_review": "\"Within an hour they had called in a prescription for paxlovid for me.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbyIp0VlF9dQa8XE8sAKvIxSteeo3XPEBZ54bYg3OEY8tlZPgk6_iHtXbH9XR2AfZnBwW--mAo71zNYEfBUUUAR1f6FHtNT4P_fh1bCBhY2T4b-AiXkbFQa5AgfogK6jvtzGedSQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/he6DT3icHcRLDoIwFADAE1VAENHERTEgxgRBRQsbQ6EfBSmxz-8NPYK3MXEW8_1IgF5PDaOV9kAoJVp20-xaqQ5YB4NKXQzRa1RppA2cxGmDF_S17M19G07qtPRI4Gm8ui-fW2BM2SQJ_GLk0FzY6yD3oC0S0bjHUwSERhOyGWJedP7jgNAFq7H1jvOA-1mW4Y3F3TCCeOckRy4tOvdlPtw5FOETaWiYliMsuBIr93yH94LV23T2sEzTRPJ_hbofdKVD-g"
+    },
+    {
+      "position": 12,
+      "title": "MaineHealth - Brighton Campus",
+      "place_id": "ChIJaX5-IJObskwRTljFDEIjeh8",
+      "data_id": "0x4cb29b93207e7e69:0x1f7a23420cc5584e",
+      "data_cid": "2268164128923539534",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b93207e7e69%3A0x1f7a23420cc5584e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b93207e7e69%3A0x1f7a23420cc5584e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6660584,
+        "longitude": -70.2924625
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaX5-IJObskwRTljFDEIjeh8",
+      "provider_id": "/g/1tmxw5qz",
+      "rating": 3.4,
+      "reviews": 46,
+      "type": "Medical Center",
+      "types": [
+        "Medical Center"
+      ],
+      "type_id": "medical_center",
+      "type_ids": [
+        "medical_center"
+      ],
+      "address": "335 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20138\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "9\u202fAM\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 662-8000",
+      "website": "https://mainehealth.org/maine-medical-center/locations/brighton-campus?utm_source=google&utm_medium=local",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Were there for approximately 2 hours and had X-rays done quickly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOiHaBDNjtiyrPfUQ-9oEAzZZ0QVO-IMwgoAM80N50XQo0OaS2YkEd9EtK8d0v6fT72EpEarnsdic0kdxD9CFB0eVX83p5LV0NKkN87GIXtd56Fy0d7hN5Cx_nzqh1XuQ5X3H9MA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VPM1QHicHcTbboIwGADgJ6r8SiqwZBcV6yFKsZkjnTcLaZEi2iKt8_CGPoJvY7Lv4ns9tfed-wiCow4HtbX1sbq4qpfW-Mr4gbSnoO4ckg65gGwYb8k8bxblZMoOvrn3m_03R4ml5LHbAS9ytMyutSVZDAyD4Bby8mv001KVUL-KFfyN99toRDta9sapRkKrbtMknU2gKkQcdnhdAFu1LI7mS-EVHs_uoCLNcHr7NY-zHooLxyJcJBn5vA4BAOn_JTJvLpNCtA"
+    },
+    {
+      "position": 13,
+      "title": "Convenientmd Portland",
+      "place_id": "ChIJC5U-c26cskwR_04y90GPfHc",
+      "data_id": "0x4cb29c6e733e950b:0x777c8f41f7324eff",
+      "data_cid": "8609914101108461311",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6e733e950b%3A0x777c8f41f7324eff&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6e733e950b%3A0x777c8f41f7324eff&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.664111899999995,
+        "longitude": -70.2610827
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC5U-c26cskwR_04y90GPfHc",
+      "provider_id": "/g/11s34qjxtl",
+      "rating": 3,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "address": "191 Marginal Way Ste C, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(833) 263-0131",
+      "website": "https://convenientmd.com/locations/portland-me-urgent-care/",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RsOdEcJpksc6mdDzxKBFnQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=138.7268&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I5JdNXicHc3BDcIgFADQbbgJtCa1mhATox70YHQBQwGBSOGnH0t1GedyG40LvPd5u5wBV4xhHozJozcF_GQCzkBSm5INRoJHqlLPxopl9-i7KH1Yg4zJa3HBk96pA9xRNb3evqbjZh_PRHVXFbyJWaCRg3LUlp84JE0tICmi5cSJZU2esohq3tJF3bQEfFZOcPJPbmkUFedfZy05xA"
+    },
+    {
+      "position": 14,
+      "title": "Northern Light Mercy Walk-In Care",
+      "place_id": "ChIJjzMTpuqXskwRtMX0d-wKdnY",
+      "data_id": "0x4cb297eaa613338f:0x76760aec77f4c5b4",
+      "data_cid": "8536022154468443572",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb297eaa613338f%3A0x76760aec77f4c5b4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb297eaa613338f%3A0x76760aec77f4c5b4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6392787,
+        "longitude": -70.4212273
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjzMTpuqXskwRtMX0d-wKdnY",
+      "provider_id": "/g/11v0n7v92d",
+      "rating": 3.5,
+      "reviews": 12,
+      "type": "Medical clinic",
+      "types": [
+        "Medical clinic",
+        "Urgent care center",
+        "Walk-in clinic"
+      ],
+      "type_id": "medical_clinic",
+      "type_ids": [
+        "medical_clinic",
+        "urgent_care_center",
+        "walk_in_clinic"
+      ],
+      "address": "19 S Gorham Crossing Rd, Gorham, ME 04038",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 535-1400",
+      "website": "https://northernlighthealth.org/Our-System/Mercy-Hospital/Locations/Walk-in-Care-Gorham",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Friendly staff and pretty quick.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwQq3tH2QLVKv-DP1M42zI1ctNcqNmyvZGgui7lwYdKMYyQsW-bK4tyv5tHPwMIzl8wk7B3YTjqhsaK-gn5DpW3fRhEREUbtf02trYpGVovuosDxGQAv7dhAfjxNFsKaUaSY-ocg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7cmPd3icHcTdboIwGADQJ6r8SViWeMGCQ1MhVKemu8MCrYoU_D5a8Q33CHsbE8_F-f9TiD18Ok6rgpnUWrb1CPVd6A7rDmdC3xzZAxFAwImLnF3j1LIhwJXPNgdqSFJ42dx_rj2BuRjy22R-Uzmeo9byimZ8YnAkJzrHyYS4Kmy2frYf9hp9BfznMigoKZFdmPTHoNmq5Xa5P2Hj-njnfXrQZtSQPFIWm6hScXN55N9Ay32540QLubCe67pEvRekewE0q0av"
+    },
+    {
+      "position": 15,
+      "title": "Concentra Urgent Care",
+      "place_id": "ChIJS-SCphyZskwRx4JV2e7dj-s",
+      "data_id": "0x4cb2991ca682e44b:0xeb8fddeed95582c7",
+      "data_cid": "16974029538500903623",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2991ca682e44b%3A0xeb8fddeed95582c7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2991ca682e44b%3A0xeb8fddeed95582c7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.627844599999996,
+        "longitude": -70.33576719999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS-SCphyZskwRx4JV2e7dj-s",
+      "provider_id": "/g/1tq4qpn3",
+      "rating": 4.3,
+      "reviews": 370,
+      "type": "Occupational health service",
+      "types": [
+        "Occupational health service",
+        "Medical clinic",
+        "Physical therapist",
+        "Urgent care center"
+      ],
+      "type_id": "occupational_health_service",
+      "type_ids": [
+        "occupational_health_service",
+        "medical_clinic",
+        "physiotherapist",
+        "urgent_care_center"
+      ],
+      "address": "400 Southborough Dr Suite 1, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 761-1100",
+      "website": "http://www.concentra.com/?utm_source=Yext&utm_medium=Organic&utm_campaign=Homepage%20Link",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The nurses were very kind and helpfull, and I was in and out in no time.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCGgEsdgfxYXiqEDGAXlenOg8Nrp2AuqrazfXsOTn8NG4dFVOFKxV1TJHO1hr9N6XnRhEMiMy_YBq9uloRtMHJ6zDgOL49vWF4mNO4H94gdpwDDR6FbW0miBf0dQp-theXwqKl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/H9dZ7nicHcRRboIwAADQE1XK1hBZsg8UCtHRKjFav5YJpSWWttAizgvuDLuNie_j_f9J7637CAIl3xfCGKH45PhYG-259ova9IGwDtQOuCDZkf01wetcZK4R7f3MuiFL84QprqlYktG-JdMw_jxa5uhBL0mOGnykeHs_hodNQUM5xiRiupJZ2ZW_3-fVEE_KVL4sNtEjFfQLxbcTRj2hqIiRaOycplWELyfYd6sWNnsLvORsHrbqcw4hhEC-roF-An6IRLA"
+    }
+  ]
+}

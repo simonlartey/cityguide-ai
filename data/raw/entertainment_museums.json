@@ -1,30 +1,898 @@
 {
   "search_metadata": {
-    "id": "6a4e58771a29feae39ccdd7c",
+    "id": "6a4e680ea204abc00f925d57",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/oJ9BtmRVpFj1L2fW1T4Qeg/6a4e58771a29feae39ccdd7c.json",
-    "created_at": "2026-07-08 14:02:31 UTC",
-    "processed_at": "2026-07-08 14:02:31 UTC",
-    "google_maps_url": "https://www.google.com/maps/search/best+museums+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
-    "raw_html_file": "https://serpapi.com/searches/oJ9BtmRVpFj1L2fW1T4Qeg/6a4e58771a29feae39ccdd7c.html",
-    "prettify_html_file": "https://serpapi.com/searches/oJ9BtmRVpFj1L2fW1T4Qeg/6a4e58771a29feae39ccdd7c.prettify",
-    "total_time_taken": 2.98
+    "json_endpoint": "https://serpapi.com/searches/LNsmLTSJnNNITRpWFC-ISg/6a4e680ea204abc00f925d57.json",
+    "created_at": "2026-07-08 15:09:02 UTC",
+    "processed_at": "2026-07-08 15:09:02 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/museums+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/LNsmLTSJnNNITRpWFC-ISg/6a4e680ea204abc00f925d57.html",
+    "prettify_html_file": "https://serpapi.com/searches/LNsmLTSJnNNITRpWFC-ISg/6a4e680ea204abc00f925d57.prettify",
+    "total_time_taken": 1.11
   },
   "search_parameters": {
     "engine": "google_maps",
     "type": "search",
-    "q": "best museums Portland, OR",
+    "q": "museums in Portland, ME",
     "google_domain": "google.com",
     "hl": "en",
     "gl": "us"
   },
   "search_information": {
     "local_results_state": "Results for exact spelling",
-    "query_displayed": "best museums Portland, OR"
+    "query_displayed": "museums in Portland, ME"
   },
   "local_results": [
     {
       "position": 1,
+      "title": "Portland Museum of Art",
+      "place_id": "ChIJW53LkxacskwR8RXiPHK07Cc",
+      "data_id": "0x4cb29c1693cb9d5b:0x27ecb4723ce215f1",
+      "data_cid": "2876872664723625457",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1693cb9d5b%3A0x27ecb4723ce215f1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1693cb9d5b%3A0x27ecb4723ce215f1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6539824,
+        "longitude": -70.2626157
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW53LkxacskwR8RXiPHK07Cc",
+      "provider_id": "/m/09cmz_",
+      "rating": 4.6,
+      "reviews": 2270,
+      "type": "Art museum",
+      "types": [
+        "Art museum",
+        "Cultural center",
+        "Movie theater",
+        "Museum",
+        "Tourist attraction"
+      ],
+      "type_id": "art_museum",
+      "type_ids": [
+        "art_museum",
+        "cultural_center",
+        "movie_theater",
+        "museum",
+        "tourist_attraction"
+      ],
+      "address": "7 Congress Sq, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20138\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 775-6148",
+      "website": "http://www.portlandmuseum.org/",
+      "description": "Portland's premiere art museum. I.M. Pei-designed museum known for its paintings by Winslow Homer, Andrew Wyeth & Edward Hopper.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Active military discounts",
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop",
+            "Theater"
+          ]
+        },
+        {
+          "amenities": [
+            "Cafe",
+            "Offers tours",
+            "Restaurant",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
+          ]
+        },
+        {
+          "children": [
+            "Discounts for kids",
+            "Good for kids",
+            "Has changing table(s)",
+            "Kid-friendly activities"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGmfrXQqeoqFwIvg30b1j-F5pGtQQJNAxMymKgIT-jYiWuMEYi_PdffBgiNNn5M2aYxiKppqrcrdSIpAMa-66rvWvbtL6uQwD7Nb8urr6ooNKZs6MgNOJbmUdliQW-15tBDr79Rw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UL6Oh3icHcTbDoIgAADQLyK1Jl22HmxlM4Oiy8xeWqIipYKAWp_YJ_Q3bZ2H8_0Uxkg9s6yyGA2YEKzMWp0pKmqT1WZARWUxqQHVQFveHpOn56-rXF1Ik4nG74OOjezEeQDflWtDyAZ7L_SuQhacwCPmUYtWMb_t0zxfMI5x7aLhPX7xUMpGUZUeA-mhO4BQdVGXmC1sSb8c42TSKgWFwOFVQ8TwbpNU57TkJAKOaxZLNZ4e-nnv2LYNiv8U1D9cikZM"
+    },
+    {
+      "position": 2,
+      "title": "Children's Museum & Theatre of Maine",
+      "place_id": "ChIJ2QRUrxacskwRSyN7GjPbbd4",
+      "data_id": "0x4cb29c16af5404d9:0xde6ddb331a7b234b",
+      "data_cid": "16027707661415555915",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c16af5404d9%3A0xde6ddb331a7b234b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c16af5404d9%3A0xde6ddb331a7b234b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.650709899999995,
+        "longitude": -70.2907879
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2QRUrxacskwRSyN7GjPbbd4",
+      "provider_id": "/m/05pc96m",
+      "rating": 4.5,
+      "reviews": 1501,
+      "type": "Children's museum",
+      "types": [
+        "Children's museum",
+        "Aquarium",
+        "Cultural center",
+        "Performing arts theater",
+        "Science museum"
+      ],
+      "type_id": "childrens_museum",
+      "type_ids": [
+        "childrens_museum",
+        "aquarium",
+        "cultural_center",
+        "performing_arts_theater",
+        "science_museum"
+      ],
+      "address": "250 Thompsons Point Rd, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20134\u202fPM",
+        "thursday": "9\u202fAM\u20134\u202fPM",
+        "friday": "9\u202fAM\u20134\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20134\u202fPM",
+        "monday": "9\u202fAM\u20134\u202fPM",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 828-1234",
+      "website": "http://www.kitetails.org/",
+      "description": "Hands-on learning for kids. Interactive kids' museum known for its camera obscura, also with science & job-related activities.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Active military discounts",
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop",
+            "Theater"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Offers tours",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Has changing table(s)",
+            "Nursing room",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCUn7Un1mR0kgPpD9phMLXg_yzyWnd6HpSTg1V9CByLhHYWTi5YjxdRqwlV151XrdjxSU6m0CpZgckVlVs0gOsMN1uKnSpcD1r9D9uepaQ3dYdtnzG8hVkehUUDH-bQ7zpXcqq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ef6kOHicHcTdDoIgGADQJyJhrR_buijdcuvXDNJuWgGDUvFTcKUv2DP0Nm2di_P9aOfAzjyv0MOBqipVyNbKhlfGSeMGvCo9BRZxi6y3OOzifBEF1EyoIeUR5-oAoQ96u0nVteu7sxHjCJKTIswPlt1GR9n59Bhlz7c41q-CkRFJG_F8J3Rc4gAuiuesYBarvd3uSLs2CfCQNH7otxJu8VBkwpl-NdUsl5rSMEL3eNJDyut6_iIYY6T_c2R-sp1F6g"
+    },
+    {
+      "position": 3,
+      "title": "Maine Historical Society and the Wadsworth-Longfellow House",
+      "place_id": "ChIJ_Qh5qEKcskwRD3GBY0VhoWo",
+      "data_id": "0x4cb29c42a87908fd:0x6aa161456381710f",
+      "data_cid": "7683529389920841999",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c42a87908fd%3A0x6aa161456381710f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c42a87908fd%3A0x6aa161456381710f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656807699999995,
+        "longitude": -70.2602905
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_Qh5qEKcskwRD3GBY0VhoWo",
+      "provider_id": "/m/06vcy6",
+      "rating": 4.4,
+      "reviews": 189,
+      "type": "Museum",
+      "types": [
+        "Museum",
+        "Event venue",
+        "Garden",
+        "Historical landmark",
+        "Library"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum",
+        "event_venue",
+        "garden",
+        "historical_landmark",
+        "library"
+      ],
+      "address": "489 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 774-1822",
+      "website": "http://www.mainehistory.org/",
+      "description": "Celebrated poet's childhood home. 1800s home of poet Henry Wadsworth Longfellow, with estate furnishings, a garden & tours.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop"
+          ]
+        },
+        {
+          "amenities": [
+            "Offers tours",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7Vzpj1P0CjcK3l_pmlrhlcv32OmbCNUbmxVw3jzkMip9O6o-Q8cIc_Ij1L61MxezCsuzpM_kQoWI60LympUnUtkxsZPP7wMrlwHN4zMc0vJzmXLgmbfwHjPVqjWiMqKsNEyY5=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mptOInicHcRNjoIwGADQE1WKKP4kLgwxilIsC3B0Q8IXBEtLK60We8E5w9zGZN7i_f22xii99jzeBpNGyobXL10PIHtT92YCUniN0gg00t6Wplm33S8Kp5hPccTgFPBSCT60HN7B9CyqKM0rMRY2YK4jD7U6hxJlS4ihjJmfhD4Zaxfpl1Ok7DJ5iUOcfITK-9x0o75RurBk4PaQzhwB_D468ZM0orrbA6PFk10e5HnS6e5znW-sjzFG7f-A-i_7bkb4"
+    },
+    {
+      "position": 4,
+      "title": "Victoria Mansion",
+      "place_id": "ChIJyQ3VuxecskwRllAhqEc3NM8",
+      "data_id": "0x4cb29c17bbd50dc9:0xcf343747a8215096",
+      "data_cid": "14930619445542998166",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c17bbd50dc9%3A0xcf343747a8215096&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c17bbd50dc9%3A0xcf343747a8215096&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.651535599999995,
+        "longitude": -70.26071089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyQ3VuxecskwRllAhqEc3NM8",
+      "provider_id": "/m/03c7013",
+      "rating": 4.6,
+      "reviews": 1226,
+      "type": "Historical landmark",
+      "types": [
+        "Historical landmark",
+        "Art museum",
+        "History museum",
+        "Tourist attraction"
+      ],
+      "type_id": "historical_landmark",
+      "type_ids": [
+        "historical_landmark",
+        "art_museum",
+        "history_museum",
+        "tourist_attraction"
+      ],
+      "address": "109 Danforth St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20134\u202fPM",
+        "thursday": "10\u202fAM\u20134\u202fPM",
+        "friday": "10\u202fAM\u20134\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "10\u202fAM\u20134\u202fPM",
+        "monday": "10\u202fAM\u20134\u202fPM",
+        "tuesday": "10\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 772-4841",
+      "website": "http://victoriamansion.org/",
+      "description": "Grand historical landmark with tours. This 19th-century Italian villa\u2013style home with an ornate interior offers tours & a museum shop.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_fDvSc-qVcD7P0sktH6Dlw4aUhziOHuAEHwbjQMrpzHiWkEfBVWo3yvJ3nI_c6aJatpsnrQdrrAmyuhclsQVUvKDEoTzH13e6qZKpppF2AGdcZf8wCJiF9z5XJyMrGJumSGwu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lhS0tXicHc1NcoIwGADQE0WwWGo700UUJMaxlbGi48ahn0AokMT8kIELeobexk43b_t-78wYqd88r2XBpBKiagurCwWCm4KbCYjOq6RGoJH28O4jbTC5lFG_B3TLIHrZ-boxJIxaN8sPbKw_icUxcd8_6VbJkdTHJi4X2VEEQ08Dvr5AmNP8L-QqvSqFu8EyaHWaHfpNFIuvkUyDIrydN1LK1RNOrnAu525J69Xr-Hyiw1Yl1Hb7xNl3N_V9H7F_AfEHCPVGvQ"
+    },
+    {
+      "position": 5,
+      "title": "Maine Jewish Museum",
+      "place_id": "ChIJAQCQiGmcskwRPnap0eBedLs",
+      "data_id": "0x4cb29c6988900001:0xbb745ee0d1a9763e",
+      "data_cid": "13507525502074189374",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6988900001%3A0xbb745ee0d1a9763e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6988900001%3A0xbb745ee0d1a9763e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.662551199999996,
+        "longitude": -70.2529411
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAQCQiGmcskwRPnap0eBedLs",
+      "provider_id": "/g/11ghr185tm",
+      "rating": 4.7,
+      "reviews": 71,
+      "type": "Museum",
+      "types": [
+        "Museum"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum"
+      ],
+      "address": "267 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM",
+      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u20134\u202fPM",
+        "thursday": "12\u20134\u202fPM",
+        "friday": "12\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "12\u20134\u202fPM",
+        "monday": "12\u20134\u202fPM",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 773-2339",
+      "website": "http://mainejewishmuseum.org/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop"
+          ]
+        },
+        {
+          "amenities": [
+            "Offers tours",
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCUyYQDCqAoHpjdgJGL6EaWUlgPdEwbmoPUxrUIYAaofzWAZ51yuPs2TTkOpsoPSK2zD5d2f7ok1O-Q31shjbT_MAlDu0fwEpG_5MvQlt0r6I1MWp6UM2hrg93TnSVX8GpgXYR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/evtM2XicHcTbboIwGADgJ6q0ENgh2UUjyNzGLJOKeEOQQxup_B0tY_qCPsPeZonfxfd3k9Zq8-w4SnoLASBUO5l2rGGw7WAXNZwdoQ2qDTIOZZ9pT1dLfinScPlN4VWfGvEWfwRRlXMlWBPNxzMw_jvydUEr6K45PfjkMjHjZlm_0QbY9t29hn7jdg_Qkw1KPWLk6ZiVCVXhhLs50nHpJz-psngM1iTJdcATV47iycuG7W7_GGuxL75eZoIxRvJ-jYZ_h5lEnQ"
+    },
+    {
+      "position": 6,
+      "title": "Fifth Maine Museum",
+      "place_id": "ChIJC_nyDZGdskwRzufVIvMu0Z0",
+      "data_id": "0x4cb29d910df2f90b:0x9dd12ef322d5e7ce",
+      "data_cid": "11371922155883587534",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d910df2f90b%3A0x9dd12ef322d5e7ce&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d910df2f90b%3A0x9dd12ef322d5e7ce&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6527032,
+        "longitude": -70.1929695
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC_nyDZGdskwRzufVIvMu0Z0",
+      "provider_id": "/g/1th81k1m",
+      "rating": 4.8,
+      "reviews": 109,
+      "type": "History museum",
+      "types": [
+        "History museum",
+        "Garden",
+        "Historical landmark",
+        "Local history museum",
+        "Tourist attraction"
+      ],
+      "type_id": "history_museum",
+      "type_ids": [
+        "history_museum",
+        "garden",
+        "historical_landmark",
+        "local_history_museum",
+        "tourist_attraction"
+      ],
+      "address": "45 Seashore Ave, Peaks Island, ME 04108",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fPM",
+      "hours": "Open \u00b7 Closes 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20133\u202fPM",
+        "thursday": "10\u202fAM\u20133\u202fPM",
+        "friday": "10\u202fAM\u20133\u202fPM",
+        "saturday": "10\u202fAM\u20133\u202fPM",
+        "sunday": "10\u202fAM\u20133\u202fPM",
+        "monday": "10\u202fAM\u20133\u202fPM",
+        "tuesday": "10\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(207) 766-3330",
+      "website": "https://www.fifthmainemuseum.org/",
+      "description": "Civil War-era exhibits & ocean views. 19th-century Memorial Hall with Civil War-era artifacts & photos, plus a veranda with ocean views.",
+      "extensions": [
+        {
+          "highlights": [
+            "Active military discounts",
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8afxdPrVNBwOyYCCvTaTR32W626OiuUf-Om22u_1QqAUBXGFApDL41hUkhi8gw5VASOL2AmQlnMuvdXOUDl3uF0dgxZLrIsAd7PQjMC0xdX20-UW1zNLyd2R0Tke0mFA4nOwF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7l8VmHicHcRRDoIgAADQE5GIZa2tD7LR2ky0pKyf1kShVDSRtC7YGbpNW-_jfT-y6xo9t6xSOiNR16LMjM7atFZdprpRWleWaDRINdAWDoOowGR2zQcetodg2dPXyfOe8TXeOejoIpfeDMsBrRAyFzt6YLZM1gQ3K39sS1bI20z0kwPeUx_hKirV1jx5QtmqdAyBXAxnv91ozKdhdN96cOAJgoAd7XfgvzjawbjIYEXwWNGeLHobQgjk_xSoH-VGQwY"
+    },
+    {
+      "position": 7,
+      "title": "Tate House Museum",
+      "place_id": "ChIJN9oV59ybskwR6-ykItCqhf0",
+      "data_id": "0x4cb29bdce715da37:0xfd85aad022a4eceb",
+      "data_cid": "18268195274409438443",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bdce715da37%3A0xfd85aad022a4eceb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bdce715da37%3A0xfd85aad022a4eceb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657698499999995,
+        "longitude": -70.31206019999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN9oV59ybskwR6-ykItCqhf0",
+      "provider_id": "/m/0g6fxr",
+      "rating": 4.8,
+      "reviews": 62,
+      "type": "Local history museum",
+      "types": [
+        "Local history museum",
+        "Tourist attraction"
+      ],
+      "type_id": "local_history_museum",
+      "type_ids": [
+        "local_history_museum",
+        "tourist_attraction"
+      ],
+      "address": "1267 Westbrook St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20134\u202fPM",
+        "thursday": "10\u202fAM\u20134\u202fPM",
+        "friday": "10\u202fAM\u20134\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 774-6177",
+      "website": "http://www.tatehouse.org/",
+      "description": "Colonial-era home with historical tours. Circa-1755, clapboard home of a British naval officer, featuring period furnishings, with tours.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop"
+          ]
+        },
+        {
+          "amenities": [
+            "Offers tours"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE49tDOQberz-ZjPGochOAydHAyXdLwq0gyF7UZlVILqmpWskQR3zdyqOZ4OVK-2RPUxliIak9Ftoas92yU5zFzCA7M4uTB5ykr2_-_riQUccjtXVyhT9g0PNWmguAfgd7nKf_SOxgagDuN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wEbWkXicHcRNjoIwGADQE1UqYggmLjoqjlEpOAKGDcGCX5WfAi3RcslZexsT3-K9_7lSrVwYRsVnExACqmKQRc9Eo4pGTZioDWglYhJJg_heUJKN5ag1Da5FP6Lk4W8F45To_JfoS354dhi0a4dJFe0OXd3GsgxOszHXHU0sGu2RefLDV3XfZaXjKpFJx9ThfHTHFbGP1nD-meuyN1OU9vcgZOyhLpHmZwew78U1DOQGud3sb-kffUEG68FbPqcYY8S_M9R8ABCrSNs"
+    },
+    {
+      "position": 8,
+      "title": "Umbrella Cover Museum",
+      "place_id": "ChIJESdwmJedskwRrd557flUmAM",
+      "data_id": "0x4cb29d9798702711:0x39854f9ed79dead",
+      "data_cid": "259050410981580461",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d9798702711%3A0x39854f9ed79dead&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d9798702711%3A0x39854f9ed79dead&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656000899999995,
+        "longitude": -70.19809599999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJESdwmJedskwRrd557flUmAM",
+      "provider_id": "/m/04mzd25",
+      "rating": 4.9,
+      "reviews": 87,
+      "type": "Museum",
+      "types": [
+        "Museum",
+        "Tourist attraction"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum",
+        "tourist_attraction"
+      ],
+      "address": "62 Island Ave, Peaks Island, ME 04108",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM \u00b7 Reopens 2\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM \u00b7 Reopens 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20131\u202fPM, 2\u20134:30\u202fPM",
+        "thursday": "10\u202fAM\u20131\u202fPM, 2\u20134:30\u202fPM",
+        "friday": "10\u202fAM\u20131\u202fPM, 2\u20134:30\u202fPM",
+        "saturday": "10\u202fAM\u20131\u202fPM, 2\u20134:30\u202fPM",
+        "sunday": "10\u202fAM\u20131\u202fPM",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20131\u202fPM, 2\u20134:30\u202fPM"
+      },
+      "phone": "(207) 939-0301",
+      "website": "http://www.umbrellacovermuseum.org/",
+      "description": "Whimsical locale with a big collection. Quirky museum with a colorful collection of over 1,300 umbrella covers from more than 60 countries.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Offers tours",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfGo5YN43sr4Stueq0idpKr8MyGg5Ok8vawf544khTSpUUlf_MUATNICOAlV3UoMYL56R_sfETrla770DoSrG_qOC-oT3_dhdkIj2ZIzHG6EhkIOXY8MZ-b7roOhycRNR2WdMYUg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KC-mynicHcTdToMwGADQJyrU8RuTXZBJGNHSCVRlN2Qr0GorH2s7l_mGewTfZonn4vzdpHOLffR9LQNPAAg9nu1oOMxunJ3H4dsXi0XcIutnu-pVZflUQNRVYWBN2LjzeMKfw_JsUnItRERV-nO4TFEYKtk2C2N66gnL2qrc0Ey_BQxI9xLFdW-nvDX6kCT4CRpT9Ce6QdAG_SAHVX6t9uXvtohzqUr60aVkj46JASqvvK7q1ftAOibWlweMMZL_czTfAcn_RL0"
+    },
+    {
+      "position": 9,
+      "title": "Portland Observatory",
+      "place_id": "ChIJU8N1HWicskwRCKBEM9PHFik",
+      "data_id": "0x4cb29c681d75c353:0x2916c7d33344a008",
+      "data_cid": "2960773514954842120",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c681d75c353%3A0x2916c7d33344a008&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c681d75c353%3A0x2916c7d33344a008&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.665368,
+        "longitude": -70.248238
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU8N1HWicskwRCKBEM9PHFik",
+      "provider_id": "/m/04sv8p",
+      "rating": 4.6,
+      "reviews": 854,
+      "type": "Museum",
+      "types": [
+        "Museum",
+        "Historical landmark",
+        "Maritime museum",
+        "Tourist attraction"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum",
+        "historical_landmark",
+        "maritime_museum",
+        "tourist_attraction"
+      ],
+      "address": "138 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3:30\u202fPM",
+      "hours": "Open \u00b7 Closes 3:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20133:30\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20133:30\u202fPM",
+        "monday": "10\u202fAM\u20133:30\u202fPM",
+        "tuesday": "10\u202fAM\u20133:30\u202fPM"
+      },
+      "phone": "(207) 253-1800",
+      "website": "http://www.portlandlandmarks.org/observatory",
+      "description": "Historic maritime signal tower & museum. Seasonal tours of the only remaining wooden maritime signal tower (built circa 1807) in the U.S.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant",
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrH8sCRRJGYfYjsKK3qXCDf0vsBv-WsUuNThnH5LvqQsJXIs0K9ImU1oIBy1T0BNbE5wTP1ksAiZMvstHlSFMJ5yWQn3KSb07bVetNZXBOroJ4gEGfrT2glwuB1ltnn0ujpXPI4A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2FdX1XicHcRJDoIwFADQE1VakTgkLigODIIgoOgSAkWtLfALxCN6BG9j4lu876dWqoGVpvFanzApGS97KLtCClUKNSnkS2MNoAIQaGYYRE9z19kLsE4nd3-trg_wPL3NrE2FB6ADukDaB0ktbOMwtBG4mQPYWzqvlEiHvkmCaZBvjTEJyRPM-80fQNk83vmu8b5EQvfiHM_zc6mCW0aPnXRnbLuvumTK-NhTwpUQuH80WejMzPVIMMao_l8g8QPJ80Ua"
+    },
+    {
+      "position": 10,
       "title": "Portland Art Museum",
       "place_id": "ChIJRWYlJxsKlVQRbcha0Cf-cO0",
       "data_id": "0x54950a1b27256645:0xed70fe27d05ac86d",
@@ -38,7 +906,7 @@
       "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRWYlJxsKlVQRbcha0Cf-cO0",
       "provider_id": "/m/05jpcb",
       "rating": 4.6,
-      "reviews": 6405,
+      "reviews": 6406,
       "type": "Art museum",
       "types": [
         "Art museum",
@@ -151,1687 +1019,52 @@
       "serpapi_thumbnail": "https://serpapi.com/images/url/d5rbJ3icHcTdboIwGADQJ0JaIM1c4oUIJEatFq0Yb5ZY-Rl0LeNrHfQNfQTfZonn4ryejTE9fPq-bMJZrXUtSwvlILQypTIzoX_8ugdPgAf-8kBZt8wEnI4unes8rT7uSRhbWmHi3HYfWTXKiwDWtYjOhyou7tGKx8PV7aQcw_WE0Q1hzq8q6A7sAnZdn7dtQNrjN-d7ZhIT33BKckzyKStt8pW5qCOmeMgefjfBRIc-Vxsuo_G0o2zxhxFCXvNeeOof9y5Fnw"
     },
     {
-      "position": 2,
-      "title": "OMSI",
-      "place_id": "ChIJ0RKx6HIKlVQRTPj6J0hpdNA",
-      "data_id": "0x54950a72e8b112d1:0xd074694827faf84c",
-      "data_cid": "15020746415816767564",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a72e8b112d1%3A0xd074694827faf84c&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a72e8b112d1%3A0xd074694827faf84c&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5083931,
-        "longitude": -122.66603549999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0RKx6HIKlVQRTPj6J0hpdNA",
-      "provider_id": "/m/01sjmr",
-      "rating": 4.5,
-      "reviews": 10329,
-      "type": "Museum",
-      "types": [
-        "Museum"
-      ],
-      "type_id": "museum",
-      "type_ids": [
-        "museum"
-      ],
-      "address": "1945 SE Water Ave, Portland, OR 97214",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 9:30\u202fAM",
-      "hours": "Closed \u00b7 Opens 9:30\u202fAM",
-      "operating_hours": {
-        "wednesday": "9:30\u202fAM\u20135:30\u202fPM",
-        "thursday": "9:30\u202fAM\u20135:30\u202fPM",
-        "friday": "9:30\u202fAM\u20135:30\u202fPM",
-        "saturday": "9:30\u202fAM\u20137\u202fPM",
-        "sunday": "9:30\u202fAM\u20135:30\u202fPM",
-        "monday": "9:30\u202fAM\u20135:30\u202fPM",
-        "tuesday": "9:30\u202fAM\u20135:30\u202fPM"
-      },
-      "phone": "(503) 797-4000",
-      "website": "https://omsi.edu/",
-      "description": "Planetarium & hands-on exhibits. Rotating shows, science labs, submarine tours & planetarium at a museum with monthly 21+ events.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop",
-            "Theater"
-          ]
-        },
-        {
-          "amenities": [
-            "Cafe",
-            "Gender-neutral restroom",
-            "Offers tours",
-            "Restaurant",
-            "Restroom",
-            "Wi-Fi"
-          ]
-        },
-        {
-          "planning": [
-            "Getting tickets in advance recommended"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Has changing table(s)"
-          ]
-        },
-        {
-          "parking": [
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2WidrCou-D5dG6NnWY8tMoUPYZ-A7OrioEuwk1d1xfY8LX1WTHMeM8d3whVoGk_14Q1wkn2K8PiAdMHox3ojHSVj5xmMyr8dYC2KrtJYcEoKNO6cm_9XEdZJgmte9ktf634-q=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/E2C0w3icHcRNjoIwGADQE1UoIFNNXBCHSGSKGH-wbly0FbDSz2lLwBN6Bm9j4lu896tx7mHnnndvwkkNUN9lb6XhoJ3UbsKh8-qHRdwi6yVlsVVJGlStMEvo0e9UrOJCV4w4CoeSnVHyszEtpP2gsMDjlZG_E672GZWUiHBojrBSFxxt8aB0kJOyTQTNYAzhlu2Ot-nY0achgi2D3Lg14ynkxSbm3WV2SsV5XXdOzpS7xmGE_hcD9n0fNd850h8c50QI"
-    },
-    {
-      "position": 3,
-      "title": "The Freakybuttrue Peculiarium and Museum",
-      "place_id": "ChIJL_pOR-QJlVQRfIcK7zur6Mw",
-      "data_id": "0x549509e4474efa2f:0xcce8ab3bef0a877c",
-      "data_cid": "14765239652236035964",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509e4474efa2f%3A0xcce8ab3bef0a877c&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x549509e4474efa2f%3A0xcce8ab3bef0a877c&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.535430299999994,
-        "longitude": -122.6975904
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL_pOR-QJlVQRfIcK7zur6Mw",
-      "provider_id": "/g/1tf9y3q_",
-      "rating": 4.3,
-      "reviews": 2051,
-      "type": "Museum",
-      "types": [
-        "Museum",
-        "Novelty store",
-        "Tourist attraction"
-      ],
-      "type_id": "museum",
-      "type_ids": [
-        "museum",
-        "novelty_store",
-        "tourist_attraction"
-      ],
-      "address": "2234 NW Thurman St, Portland, OR 97210",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 12\u202fPM",
-      "hours": "Closed \u00b7 Opens 12\u202fPM",
-      "operating_hours": {
-        "wednesday": "12\u20136\u202fPM",
-        "thursday": "12\u20136\u202fPM",
-        "friday": "12\u20136\u202fPM",
-        "saturday": "11\u202fAM\u20136\u202fPM",
-        "sunday": "11\u202fAM\u20136\u202fPM",
-        "monday": "12\u20136\u202fPM",
-        "tuesday": "12\u20136\u202fPM"
-      },
-      "phone": "(503) 360-1137",
-      "website": "http://www.peculiarium.com/",
-      "description": "Odd collection of exhibits, art & gifts. Museum featuring strange & creepy exhibits, artwork & merchandise (not recommended for children).",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop",
-            "Theater"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        },
-        {
-          "parking": [
-            "Paid street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "accessibility": [
-            "Assistive hearing loop",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdNZrKHHY6AIKoE03DXDifawVvm6WE757tpbxQfjERjC8_V6_RwfiZsRZb_y1-p8TCQUKJL_owOBe728gKMt7Gl_Id8k8yEAsG8NW01P6HA-tqLNOYkE7Q7J5_VLTxP-PsKXFjRPV7kgx4=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/CX85p3icHcRLjoIwAADQE1WKH9qYuKhaQctgIYrKplGEIiBFWwVPOWtvM8m8xfv-Fsa0empZdTEaSKVknb109kxVY7LGDFJ1t2SrQaqBtggPwoq41yB5Ms87OWTNFIWj5XF5y89d_L47B4omyLSXPsxLGpULLGJHRF1-S3SUXMTHBi3eLcI92_hCddt5hoZYsh-D3Fqsr7jCH0q0i4MDtLnjEWAefrA9VRSFaDMRsb_rOeCaHVdlxGNUyX4862wIISj-T0HzBwW5RUM"
-    },
-    {
-      "position": 4,
-      "title": "Portland Chinatown Museum",
-      "place_id": "ChIJo2eUuAAKlVQRLBf2Y1wAlss",
-      "data_id": "0x54950a00b89467a3:0xcb96005c63f6172c",
-      "data_cid": "14669913233020032812",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a00b89467a3%3A0xcb96005c63f6172c&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a00b89467a3%3A0xcb96005c63f6172c&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5243416,
-        "longitude": -122.6735568
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo2eUuAAKlVQRLBf2Y1wAlss",
-      "provider_id": "/g/11fngxl8tp",
-      "rating": 4.9,
-      "reviews": 92,
-      "type": "Museum",
-      "types": [
-        "Museum",
-        "Art gallery",
-        "Art museum",
-        "Cultural center",
-        "Event venue",
-        "Exhibit",
-        "Gift shop",
-        "History museum",
-        "Local history museum",
-        "Tourist attraction"
-      ],
-      "type_id": "museum",
-      "type_ids": [
-        "museum",
-        "art_gallery",
-        "art_museum",
-        "cultural_center",
-        "event_venue",
-        "exhibit",
-        "gift_shop",
-        "history_museum",
-        "local_history_museum",
-        "tourist_attraction"
-      ],
-      "address": "127 NW 3rd Ave, Portland, OR 97209",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 11\u202fAM Thu",
-      "hours": "Closed \u00b7 Opens 11\u202fAM Thu",
-      "operating_hours": {
-        "wednesday": "Closed",
-        "thursday": "11\u202fAM\u20133\u202fPM",
-        "friday": "11\u202fAM\u20133\u202fPM",
-        "saturday": "11\u202fAM\u20133\u202fPM",
-        "sunday": "11\u202fAM\u20133\u202fPM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 224-0008",
-      "website": "http://www.portlandchinatownmuseum.org/",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "amenities": [
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCBJ9s5pPm2-yySHIlcInur-ToLKSYVw71-6bfHnbjrnA_SX-vd_KriisJGI67QC4U3yX327Zi_q95DcJ4Ih6WFNIqYl6wFZ2ubJKccudh8jA3FIMnTUjvbyR5chYEeH5FZla-=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/f1uCzXicHcTdEoFAGADQJ_qUUmHGRX7SFgb5q5tGn7Rl7aYtTU_oGbyNGefifD-0rks5VhRG9V4mRMbSRqYVCl6nvO6heCpZKQElSMXebnYP251NvZE0yu1Tg64LXMKQ8KaCg1j5QXhqrT6Yyd3lSVFxOw4u8L7FfpXn0lsS09rNBke9u-iaFeXxa2TM0RsQap6dDXmFzGydSGsSz0dsbnRY2LpD1vxwLN5JtzeQhovUNZyIXWHS9lVVBfofgf8A9vdDbg"
-    },
-    {
-      "position": 5,
-      "title": "Oregon Jewish Museum and Center for Holocaust Education",
-      "place_id": "ChIJF3HsNPoJlVQR8P7RIY9M3uo",
-      "data_id": "0x549509fa34ec7117:0xeade4c8f21d1fef0",
-      "data_cid": "16924048627336347376",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509fa34ec7117%3A0xeade4c8f21d1fef0&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x549509fa34ec7117%3A0xeade4c8f21d1fef0&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.524344199999994,
-        "longitude": -122.6781197
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF3HsNPoJlVQR8P7RIY9M3uo",
-      "provider_id": "/m/065x1ct",
-      "rating": 4.5,
-      "reviews": 121,
-      "type": "Museum",
-      "types": [
-        "Museum",
-        "Art museum",
-        "Education center",
-        "Event venue",
-        "Tourist attraction"
-      ],
-      "type_id": "museum",
-      "type_ids": [
-        "museum",
-        "art_museum",
-        "education_center",
-        "event_venue",
-        "tourist_attraction"
-      ],
-      "address": "724 NW Davis St, Portland, OR 97209",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 11\u202fAM",
-      "hours": "Closed \u00b7 Opens 11\u202fAM",
-      "operating_hours": {
-        "wednesday": "11\u202fAM\u20134\u202fPM",
-        "thursday": "11\u202fAM\u20134\u202fPM",
-        "friday": "11\u202fAM\u20134\u202fPM",
-        "saturday": "11\u202fAM\u20134\u202fPM",
-        "sunday": "11\u202fAM\u20134\u202fPM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 226-3600",
-      "website": "http://www.ojmche.org/",
-      "description": "History exhibits, events & tours. Venue offering rotating exhibits, lectures & films on Holocaust history, plus docent-led tours.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGW9TpaTrM56VY8NGdHCuHbc7fz6dzhCUof9N2kk1OPo_zCZrpVNxFOJMXwkj7_Y166SsidDLUJJkj67fcuv26MdsHIfvgxOaD43rNB5OQpyPOkYk1q6yqkMyIhPvbkyIp9CCxs=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/VNvnZ3icHcRJDoIwFADQEyHgUMTEhdYoEGkx4oAbo2WofqWVAgIX9AzexsS3eN8PL0upJrr-4INeJkT2SCqVFEzkZZKXPSaeeiaVxpSm9FlANjBbHexQXsLCH6F9NCar2MGVc2VW2qG443gnUpv0AUwaiHOHT4Xck2ZJPf_4hrt1jkyEtuoWL9Y7z4M7slJW1X3kx8px0zpr6GUxHBRkPqIb2QYUIjBfqH2B37o8qK_QutLGuFHTt2kYhsb_My3_AV09RT0"
-    },
-    {
-      "position": 6,
-      "title": "Portland Puppet Museum",
-      "place_id": "ChIJkTHuhNkKlVQRzwNgMR3rGd4",
-      "data_id": "0x54950ad984ee3191:0xde19eb1d316003cf",
-      "data_cid": "16004081261452723151",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950ad984ee3191%3A0xde19eb1d316003cf&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950ad984ee3191%3A0xde19eb1d316003cf&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.4626909,
-        "longitude": -122.6567841
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkTHuhNkKlVQRzwNgMR3rGd4",
-      "provider_id": "/g/1tmclyn9",
-      "rating": 4.8,
-      "reviews": 166,
-      "type": "Art museum",
-      "types": [
-        "Art museum",
-        "Performing arts theater"
-      ],
-      "type_id": "art_museum",
-      "type_ids": [
-        "art_museum",
-        "performing_arts_theater"
-      ],
-      "address": "906 SE Umatilla St, Portland, OR 97202",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 2\u202fPM Thu",
-      "hours": "Closed \u00b7 Opens 2\u202fPM Thu",
-      "operating_hours": {
-        "wednesday": "Closed",
-        "thursday": "2\u20138\u202fPM",
-        "friday": "2\u20138\u202fPM",
-        "saturday": "2\u20138\u202fPM",
-        "sunday": "2\u20138\u202fPM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 233-7723",
-      "website": "http://www.puppetmuseum.com/",
-      "description": "Whimsical puppet exhibits & performances. Quaint place with fanciful puppets on display, live puppet shows & make-your-own puppet workshops.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Live performances"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop",
-            "Theater"
-          ]
-        },
-        {
-          "amenities": [
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGewB9-if34iSq8KcCAgqaP7EkOm89iG5RMIZ-eS9EbvIlSbG56jNTgDjzDCSB8hkJZz_M6MhPo-j4gZHu3n1OnkRlWW6T8wJtVxHvpgi71BWkKpeGTcbFw-yUaOQdwB1485Q=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/txndQnicHcRJDoIwAADAF1UgLBYTD-CCSxAQlISLkVpbKLZoq1X_5yP8jYlzmO-HKtXLkWF01B4QIUiH7xLfkOAKczVA4mKQXgIkgTSCdJOxIMI69EFztp0mv8I1mgTkekyHM5ZcoN9E7jZeVgDn_qx-LLu8jlyv3RRk2r6nkzyElK2q9yH2YpoK0DqkWtxtbiWcbbuy9AqoV2r_XDx60gytsGTrHkcFqucavHbHJDvp0HKgm421ZZomoP8R4D9KAEKg"
-    },
-    {
-      "position": 7,
-      "title": "Japanese American Museum of Oregon",
-      "place_id": "ChIJczc0sAAKlVQRNflqG10EfQk",
-      "data_id": "0x54950a00b0343773:0x97d045d1b6af935",
-      "data_cid": "683707516368648501",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a00b0343773%3A0x97d045d1b6af935&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a00b0343773%3A0x97d045d1b6af935&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5260575,
-        "longitude": -122.6746525
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJczc0sAAKlVQRNflqG10EfQk",
-      "provider_id": "/g/1vcq79cj",
-      "rating": 4.8,
-      "reviews": 138,
-      "type": "History museum",
-      "types": [
-        "History museum",
-        "Cultural center",
-        "Gift shop",
-        "Heritage museum",
-        "Historical place museum",
-        "Local history museum",
-        "Museum",
-        "Tourist attraction"
-      ],
-      "type_id": "history_museum",
-      "type_ids": [
-        "history_museum",
-        "cultural_center",
-        "gift_shop",
-        "heritage_museum",
-        "historical_place_museum",
-        "local_history_museum",
-        "museum",
-        "tourist_attraction"
-      ],
-      "address": "411 NW Flanders St Ste 100, Portland, OR 97209",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 10\u202fAM",
-      "hours": "Closed \u00b7 Opens 10\u202fAM",
-      "operating_hours": {
-        "wednesday": "10\u202fAM\u20134\u202fPM",
-        "thursday": "10\u202fAM\u20134\u202fPM",
-        "friday": "10\u202fAM\u20134\u202fPM",
-        "saturday": "10\u202fAM\u20134\u202fPM",
-        "sunday": "11\u202fAM\u20134\u202fPM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 224-1458",
-      "website": "https://jamo.org/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=8e95f6be-6265-4e0d-ad1d-b778c4ccfdca",
-      "description": "Museum for Japanese-American history. Intimate museum with exhibits focusing on Japanese-American experiences in the 1940s.",
-      "extensions": [
-        {
-          "from_the_business": [
-            "Identifies as Asian-owned"
-          ]
-        },
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop",
-            "Theater"
-          ]
-        },
-        {
-          "amenities": [
-            "Cafe",
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "crowd": [
-            "Family-friendly"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Discounts for kids",
-            "Good for kids",
-            "Kid-friendly activities"
-          ]
-        },
-        {
-          "parking": [
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIeQfJs1blvU-fmX6fyx8_VXz-1luTZNVPYciLySca1kk5FSkhfYvI3bvF4bp6OOTqWR0c9609jKRLn1QsloyXd9SZXXJ7dzyTXxT-HPZd30D3K0o577Xz8IkPYoHDDYhZfcvABQ=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/FWYt7XicHcThEoEwAADgJ5q2SyV3fuTiVI5SWP1xWq2xabFEvaFH8DbufD--74e1baOmmiaYPqqkrET5VOWDyLot63ZE5E2rGgWIAkpzwk3EnYVXRtRXKBfdHtAbNmn_npwOeABIPJNscwhTcln3MTkjzo1lzBlNO0_Pu-U4b8ztNrkfd5DYJrSvwW5do0gJ2ePCjjOMfasY-gS_E7AKs0KHrh5AaVgWHiYeD1O5ct2UZZR0zjyavRCEELD_BNQ_7zRErw"
-    },
-    {
-      "position": 8,
-      "title": "Oregon Historical Society",
-      "place_id": "ChIJ6TC9kRoKlVQRLZcXaqdZ4aE",
-      "data_id": "0x54950a1a91bd30e9:0xa1e159a76a17972d",
-      "data_cid": "11664703085440636717",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1a91bd30e9%3A0xa1e159a76a17972d&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1a91bd30e9%3A0xa1e159a76a17972d&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.515910999999996,
-        "longitude": -122.68243199999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6TC9kRoKlVQRLZcXaqdZ4aE",
-      "provider_id": "/m/02qcqx7",
-      "rating": 4.6,
-      "reviews": 377,
-      "type": "Historical society",
-      "types": [
-        "Historical society",
-        "Gift shop",
-        "Heritage museum",
-        "History museum",
-        "Library",
-        "Local history museum",
-        "Non-profit organization",
-        "Tourist attraction"
-      ],
-      "type_id": "historical_society",
-      "type_ids": [
-        "historical_society",
-        "gift_shop",
-        "heritage_museum",
-        "history_museum",
-        "library",
-        "local_history_museum",
-        "non_profit_organization",
-        "tourist_attraction"
-      ],
-      "address": "1200 SW Park Ave, Portland, OR 97205",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 10\u202fAM",
-      "hours": "Closed \u00b7 Opens 10\u202fAM",
-      "operating_hours": {
-        "wednesday": "10\u202fAM\u20135\u202fPM",
-        "thursday": "10\u202fAM\u20135\u202fPM",
-        "friday": "10\u202fAM\u20135\u202fPM",
-        "saturday": "10\u202fAM\u20135\u202fPM",
-        "sunday": "12\u20135\u202fPM",
-        "monday": "10\u202fAM\u20135\u202fPM",
-        "tuesday": "10\u202fAM\u20135\u202fPM"
-      },
-      "phone": "(503) 222-1741",
-      "website": "http://www.ohs.org/",
-      "description": "Artifacts & exhibits about state history. Rotating exhibits give insight into state history, art & more in building with 8-story-high murals.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        },
-        {
-          "children": [
-            "Discounts for kids"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFne3hSI7x8SDoCiPJyiB6QqR7T-ZVNLHIWt4jYnRobLSykqRIzQRmVcHg8kBUdoHs6Cy36kODcAne0AyUFuyk4Ty65qyo0cKuKzPyxK4WAGpuHbWcQPCWaVNashjQWn2Cvo3Q=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/03hHLXicHcRBjoIwFADQE1XqgGgmcVEwCmKQgtLoTmtDtdoPtqj1gN5hbjOJb_H-PtLa1vx63lX6gwaguYreiDsHbYW2Aw43r2kN4gYZjxQ5VWSuhS-rdPyaVDOIz8XSnaOQduV4g_Z1vkpSZoPLTpdwXFVOdWX6puWt5kkzUdH2BIkJY-eHaj3jRAtM3HbeOxVsXDjqHGCe9dm7cK8sYGTR9smRcVrE7FDnByMvlOmf-AE-nT6HGGMkv3Ok_wEiikTO"
-    },
-    {
-      "position": 9,
-      "title": "Oregon Rail Heritage Center",
-      "place_id": "ChIJC3L603MKlVQRJVSjmyGuSy8",
-      "data_id": "0x54950a73d3fa720b:0x2f4bae219ba35425",
-      "data_cid": "3408009002404238373",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a73d3fa720b%3A0x2f4bae219ba35425&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a73d3fa720b%3A0x2f4bae219ba35425&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.507171,
-        "longitude": -122.66177599999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC3L603MKlVQRJVSjmyGuSy8",
-      "provider_id": "/m/0kvjxsp",
-      "rating": 4.7,
-      "reviews": 1267,
-      "type": "Rail museum",
-      "types": [
-        "Rail museum",
-        "Tourist attraction"
-      ],
-      "type_id": "rail_museum",
-      "type_ids": [
-        "rail_museum",
-        "tourist_attraction"
-      ],
-      "address": "2250 SE Water Ave, Portland, OR 97214",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 1\u202fPM Thu",
-      "hours": "Closed \u00b7 Opens 1\u202fPM Thu",
-      "operating_hours": {
-        "wednesday": "Closed",
-        "thursday": "1\u20135\u202fPM",
-        "friday": "1\u20135\u202fPM",
-        "saturday": "1\u20135\u202fPM",
-        "sunday": "1\u20135\u202fPM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 233-1156",
-      "website": "http://www.orhf.org/",
-      "description": "History museum with working trains. Indoor museum housing historic exhibits & multiple restored trains, some of which are operational.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Active military discounts"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "crowd": [
-            "Family-friendly"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9FrupF9uEY5QpSPJEyLAn1jLh77PygHw9WggnT3drCVy58sPzWN7LkHnliz5-x5a1n_O_pwPfPXn1V8WZiWgqrFhndIz7uoiyCgGYa_3HM02lQiiUxeBoLRgA2Q4Rsz9aDPRR=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/vEYUPnicHcRLDoIwFADAE1VAJIiJC_wgGtSCH9QNIYivVXytFIJwQc_gbUycxXw_rKqkGmlawcweCAFFXqu8zARWOVa9TDw1kIpkiijNpZvw4S4cr6yl59TzsxXKHV3N28BF4x4w26Yt-I0TA-DevJbTY2sNFe3ijR08fCx4Z5G3lRqYbBPZ0Bs9oXEcxhcew6v0GF6XnV0L3k5hcU4T01_r_SLk_PDOJyKIwO2Hg0h1TjqjUTRuDF3XCfufEfwBfftFEw"
-    },
-    {
-      "position": 10,
-      "title": "Rice Northwest Museum of Rocks & Minerals",
-      "place_id": "ChIJId5vRlQElVQRlGwhfMPmkYY",
-      "data_id": "0x54950454466fde21:0x8691e6c37c216c94",
-      "data_cid": "9696785199980965012",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950454466fde21%3A0x8691e6c37c216c94&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950454466fde21%3A0x8691e6c37c216c94&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5743096,
-        "longitude": -122.94770249999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJId5vRlQElVQRlGwhfMPmkYY",
-      "provider_id": "/m/05fbl8s",
-      "rating": 4.8,
-      "reviews": 1562,
-      "type": "Natural history museum",
-      "types": [
-        "Natural history museum",
-        "Gift shop",
-        "Museum",
-        "Rock shop",
-        "Tourist attraction"
-      ],
-      "type_id": "natural_history_museum",
-      "type_ids": [
-        "natural_history_museum",
-        "gift_shop",
-        "museum",
-        "rock_shop",
-        "tourist_attraction"
-      ],
-      "address": "26385 NW Groveland Dr, Hillsboro, OR 97124",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 10\u202fAM",
-      "hours": "Closed \u00b7 Opens 10\u202fAM",
-      "operating_hours": {
-        "wednesday": "10\u202fAM\u20135\u202fPM",
-        "thursday": "10\u202fAM\u20135\u202fPM",
-        "friday": "10\u202fAM\u20135\u202fPM",
-        "saturday": "10\u202fAM\u20135\u202fPM",
-        "sunday": "10\u202fAM\u20135\u202fPM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 647-2418",
-      "website": "https://ricenorthwestmuseum.org/",
-      "description": "Galleries with geodes, gems & fossils. Geology museum displaying an array of geodes, gems, minerals, petrified wood, fossils & crystals.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop"
-          ]
-        },
-        {
-          "amenities": [
-            "Cafe",
-            "Gender-neutral restroom",
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "crowd": [
-            "Family-friendly"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHq82Ry2LvVhnakupX7uA2WcmXOAKOUR4NYRryCGDDH9UnADrMzsMZqICTb1FQOeUOPr3PPo42ClSh8g15Olde-5XHi-YMy4rl9rCfHYA5qkDIoqFfUVt5OUEbuwnd8zPAUK8og=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/IZZ_mXicHcTdroIgAADgJyJ_0mVtXTCtbGWQJ0q7KyJoEijgafaC5xnO27T1XXz_f8K51s48T4rxiGvNJestM1Qrx5QbUf30eGsBtcB6EO_2Dcy7JCyHcPt7FOrS9G016WF4os8KwQ0iZbSrSzOkqyzLp0TBzBRvW5y7dXq4Bss9YgRhM8ZYR2Eqf0TCgxjJGwNxlT9AXQyRkVOT3vMaxl2TrXW3vJOjixFZXPuXuiVvDMkm0Xz-CnzfB-I7BeoDE2dD1Q"
-    },
-    {
       "position": 11,
-      "title": "World Forestry Center",
-      "place_id": "ChIJgzHm2SsKlVQRuYdO0b0lVV0",
-      "data_id": "0x54950a2bd9e63183:0x5d5525bdd14e87b9",
-      "data_cid": "6725323115738335161",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a2bd9e63183%3A0x5d5525bdd14e87b9&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a2bd9e63183%3A0x5d5525bdd14e87b9&engine=google_maps_photos&hl=en",
+      "title": "Museum of Beadwork",
+      "place_id": "ChIJ_26ZApKbskwRn6yEb0I2vjI",
+      "data_id": "0x4cb29b9202996eff:0x32be36426f84ac9f",
+      "data_cid": "3656419606438128799",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b9202996eff%3A0x32be36426f84ac9f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b9202996eff%3A0x32be36426f84ac9f&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5106895,
-        "longitude": -122.7180283
+        "latitude": 43.6790641,
+        "longitude": -70.2878525
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgzHm2SsKlVQRuYdO0b0lVV0",
-      "provider_id": "/m/05_20m",
-      "rating": 4.5,
-      "reviews": 424,
-      "type": "Museum",
-      "types": [
-        "Museum",
-        "Art gallery",
-        "Children's museum",
-        "Conference center",
-        "Education center",
-        "Event venue",
-        "Non-profit organization",
-        "Tourist attraction",
-        "Wedding venue"
-      ],
-      "type_id": "museum",
-      "type_ids": [
-        "museum",
-        "art_gallery",
-        "childrens_museum",
-        "conference_center",
-        "education_center",
-        "event_venue",
-        "non_profit_organization",
-        "tourist_attraction",
-        "wedding_venue"
-      ],
-      "address": "4033 SW Canyon Rd, Portland, OR 97221",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 10\u202fAM",
-      "hours": "Closed \u00b7 Opens 10\u202fAM",
-      "operating_hours": {
-        "wednesday": "10\u202fAM\u20134\u202fPM",
-        "thursday": "10\u202fAM\u20134\u202fPM",
-        "friday": "10\u202fAM\u20134\u202fPM",
-        "saturday": "10\u202fAM\u20134\u202fPM",
-        "sunday": "10\u202fAM\u20134\u202fPM",
-        "monday": "10\u202fAM\u20134\u202fPM",
-        "tuesday": "10\u202fAM\u20134\u202fPM"
-      },
-      "phone": "(503) 228-1367",
-      "website": "http://www.worldforestry.org/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=d3cc9171-0344-4c94-a6bc-d319f701006d",
-      "description": "Interactive exhibits on forests & trees. Hands-on exhibits are designed to teach visitors about the sustainability of forests & trees.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Active military discounts"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop"
-          ]
-        },
-        {
-          "amenities": [
-            "Offers tours",
-            "Restroom",
-            "Wi-Fi",
-            "Free Wi-Fi"
-          ]
-        },
-        {
-          "crowd": [
-            "Family-friendly",
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Kid-friendly activities"
-          ]
-        },
-        {
-          "parking": [
-            "On-site parking",
-            "Paid parking lot"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwwNIxw3FzPM4cFZxamIGKlIRCa76LT-G-3NvUQ7QVvM_-BgKaWbL76L_Ph0Nifkk0gHQNLHH_IsCbsOrae6b-VA0eLe73Rtaq-qUgdt1Tot3Vpaa1oqlfvYQpTs_4wSxQccWD=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/NQ7VaXicHclRCoIwGADgE_05WSQEPVhhSrZcmVEvMteaoTlty0kX7Azdpujle_k-79KYVk8dpy7xSCola_HU4sFVY0RjRlzdHdlq4Bq04yeEVn5oLYkGi4NXshnz4Dywe7Ra19FuwbxJnMIKMOkP1KNZv8lhLtfsWMS_yZMSkdu1qpAMKYnDMI_0otDbBxOTAjIfiVh4eGdYB91BXoybKoOzljFXdfW1P9E21fnY7gfK-XE5sy5CCMq_HJovAD1ERA"
-    },
-    {
-      "position": 12,
-      "title": "Oregon Maritime Museum",
-      "place_id": "ChIJSfBYBQcKlVQRgiG3UDwzVYw",
-      "data_id": "0x54950a070558f049:0x8c55333c50b72182",
-      "data_cid": "10112044872475550082",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a070558f049%3A0x8c55333c50b72182&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a070558f049%3A0x8c55333c50b72182&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.520182999999996,
-        "longitude": -122.66974619999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSfBYBQcKlVQRgiG3UDwzVYw",
-      "provider_id": "/g/12hpnpfz7",
-      "rating": 3.7,
-      "reviews": 97,
-      "unclaimed_listing": true,
-      "type": "Maritime museum",
-      "types": [
-        "Maritime museum",
-        "Tourist attraction"
-      ],
-      "type_id": "maritime_museum",
-      "type_ids": [
-        "maritime_museum",
-        "tourist_attraction"
-      ],
-      "address": "198 SW Naito Pkwy, Portland, OR 97204",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 11\u202fAM",
-      "hours": "Closed \u00b7 Opens 11\u202fAM",
-      "operating_hours": {
-        "wednesday": "11\u202fAM\u20134\u202fPM",
-        "thursday": "Closed",
-        "friday": "11\u202fAM\u20134\u202fPM",
-        "saturday": "11\u202fAM\u20134\u202fPM",
-        "sunday": "Closed",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 224-7724",
-      "website": "http://www.oregonmaritimemuseum.org/",
-      "description": "Tours of a restored steamer. Guided tours & educational exhibits on a historic steam-powered tug moored on the Willamette River.",
-      "extensions": [
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "amenities": [
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "planning": [
-            "Getting tickets in advance recommended"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXlrheNXECIWwtkUCmJW2_sfKixoJmxU9QzPBsYzLhR_5cqNqckqQXXNWh8jM-3OXJXnK9aWLY9VnP2TNiXWZirzxXzYkkcL-WyBzBKXZq_kalJuqVaS83o7rqdEj20sjrucFG=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/BFAr9HicHcTdboIwGADQJ6ogZJmY7EKMMwJ2sE374Q0hFSkUWvtDZH3BPcPexmTn4vz9MmvvZu15AwsXrZTt0Eym0VQK2wi7oHL02rtB1CDjbXJc8M0eBs0aDLvtgTwsP23HhASVuaXdLJNxPkWFy2NTuox9Vi9UYUW5KgAwYav-iMIPSECkUU2yMjqLPPjGHZBLp90MruScZoj8xC5O4aIqXg_JpM711yqUr1pdd33gm15P9H3_9lj6vo_Y_xSJJw2oRqM"
-    },
-    {
-      "position": 13,
-      "title": "The Skeleton Key Odditorium",
-      "place_id": "ChIJe8XZDlShlVQRiYeaP1QX2mI",
-      "data_id": "0x5495a1540ed9c57b:0x62da17543f9a8789",
-      "data_cid": "7123031411251644297",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1540ed9c57b%3A0x62da17543f9a8789&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1540ed9c57b%3A0x62da17543f9a8789&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5181936,
-        "longitude": -122.68327479999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe8XZDlShlVQRiYeaP1QX2mI",
-      "provider_id": "/g/11k_1_5djm",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_26ZApKbskwRn6yEb0I2vjI",
+      "provider_id": "/g/11sxwyqcmj",
       "rating": 4.8,
-      "reviews": 304,
-      "type": "Museum",
-      "types": [
-        "Museum",
-        "Antique store",
-        "Metaphysical supply store",
-        "Tourist attraction"
-      ],
-      "type_id": "museum",
-      "type_ids": [
-        "museum",
-        "antique_store",
-        "metaphysical_supply_store",
-        "tourist_attraction"
-      ],
-      "address": "939 SW 10th Ave, Portland, OR 97205",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 12\u202fPM",
-      "hours": "Closed \u00b7 Opens 12\u202fPM",
-      "operating_hours": {
-        "wednesday": "12\u20135\u202fPM",
-        "thursday": "12\u20136\u202fPM",
-        "friday": "12\u20137\u202fPM",
-        "saturday": "12\u20137\u202fPM",
-        "sunday": "12\u20135\u202fPM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 221-5424",
-      "website": "http://www.skeletonkeyodditorium.com/",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Active military discounts"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Restroom"
-          ]
-        },
-        {
-          "crowd": [
-            "Family-friendly",
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "parking": [
-            "Paid street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdhn6bDH9cPeGp7LO1ko7d7xkxAXrkV-6-KdDBCA8iS5t7IyQw_aJQKms8DKnX3V4nWQGc7-RlUvIz-F2xfpapiKPWvGmDEf6fuZiIa6lP6xNq_SypDLOQhVEVQ8zDD_nQgc6T_SBAkAay=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/r4xNWXicHcRLjoIwAADQE1VQZ1o0mUWdKiJGqSia2RAsn5JCW21V8JKuvY3JvMV7v7i12kwdp-HjQaVU1RQ3U1yZkraQdsBU61TaAGaAcXC0oQIvci7hmSwnLCp8jdbboVAoR53o8OkqEgBBmJPZL_bq-NuioKePNFvRsDUeCeVpnHzJI_UZArvmcA-eYDHqSp3pOoyOd78l8xKWt786yGATwW5zSeNek_WW8mSeUO9JSCppxeA-jWdY4Kz_eQxd1wX8fwbkB0PqRsQ"
-    },
-    {
-      "position": 14,
-      "title": "Experiment PDX",
-      "place_id": "ChIJs643IjGhlVQRQTL2gENxCrE",
-      "data_id": "0x5495a1312237aeb3:0xb10a714380f63241",
-      "data_cid": "12757133429220717121",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1312237aeb3%3A0xb10a714380f63241&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1312237aeb3%3A0xb10a714380f63241&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.519569999999995,
-        "longitude": -122.65101349999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs643IjGhlVQRQTL2gENxCrE",
-      "provider_id": "/g/11p76j91lf",
-      "rating": 4.9,
-      "reviews": 65,
-      "type": "Children's museum",
-      "types": [
-        "Children's museum",
-        "Amusement center",
-        "Art center",
-        "Art gallery",
-        "Bar",
-        "Children's camp",
-        "Craft store",
-        "Event venue",
-        "Science museum"
-      ],
-      "type_id": "childrens_museum",
-      "type_ids": [
-        "childrens_museum",
-        "amusement_center",
-        "art_center",
-        "art_gallery",
-        "bar",
-        "camp",
-        "craft_store",
-        "event_venue",
-        "science_museum"
-      ],
-      "address": "1421 SE Stark St, Portland, OR 97214",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 1\u202fPM",
-      "hours": "Closed \u00b7 Opens 1\u202fPM",
-      "operating_hours": {
-        "wednesday": "1\u20135\u202fPM",
-        "thursday": "1\u20135\u202fPM",
-        "friday": "1\u20135\u202fPM",
-        "saturday": "12:30\u20135:30\u202fPM",
-        "sunday": "12:30\u20135:30\u202fPM",
-        "monday": "Closed",
-        "tuesday": "1\u20135\u202fPM"
-      },
-      "phone": "(503) 889-0931",
-      "website": "http://experimentpdx.com/",
-      "extensions": [
-        {
-          "from_the_business": [
-            "Identifies as women-owned"
-          ]
-        },
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Restroom",
-            "Wi-Fi",
-            "Free Wi-Fi"
-          ]
-        },
-        {
-          "crowd": [
-            "Family-friendly",
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Has changing table(s)",
-            "Kid-friendly activities",
-            "Playground"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "accessibility": [
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFS5TwsYzKuSVDVeO8FG0zNtXTwaC8j3aEsGIaw_SOHOjOm35s72aFLx8S2zwpxNoUR3D0OOi58V1CC0oDA9_7r4CnuwdOMvNO2Ug005Kp_ojowAM2wJODVYDs0w8mW9_aJF5Ka=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/J3I6inicHcRRboJAEADQEyEjdOPapB-EFVupTBWk-kU2lECpsMRZOoYLegZvY-L7ePdbY-1Ar657bvxZbUx9rkaqLqXpbdXbWWk6tx7IKckhN_hKdn9BlIqM6TTFY5qrvEIZrWFK7DFjHcrW1ytaf2guUnzHFjtf0MLT0edVpt7EwzUxh72vAPFXyHwehmBUsCwWl5ewH_kHt_8JeocaQMRDYVrDwdbjDar8pAhYdt_LQm8iEes3ngOA0zwvnf4B9qFDAQ"
-    },
-    {
-      "position": 15,
-      "title": "Portland Insectarium",
-      "place_id": "ChIJkx0rR76hlVQRJRV9-UM_q0c",
-      "data_id": "0x5495a1be472b1d93:0x47ab3f43f97d1525",
-      "data_cid": "5164290958891488549",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1be472b1d93%3A0x47ab3f43f97d1525&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1be472b1d93%3A0x47ab3f43f97d1525&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5624628,
-        "longitude": -122.66813409999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkx0rR76hlVQRJRV9-UM_q0c",
-      "provider_id": "/g/11pdh_qv_f",
-      "rating": 4.8,
-      "reviews": 187,
-      "type": "Museum of zoology",
-      "types": [
-        "Museum of zoology",
-        "Museum",
-        "Natural history museum",
-        "Zoo"
-      ],
-      "type_id": "museum_of_zoology",
-      "type_ids": [
-        "museum_of_zoology",
-        "museum",
-        "natural_history_museum",
-        "zoo"
-      ],
-      "address": "5429 N Moore Ave, Portland, OR 97217",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 11\u202fAM",
-      "hours": "Closed \u00b7 Opens 11\u202fAM",
-      "operating_hours": {
-        "wednesday": "11\u202fAM\u20133\u202fPM",
-        "thursday": "12\u20134\u202fPM, 5\u20136\u202fPM",
-        "friday": "12\u20134\u202fPM, 5\u20136\u202fPM",
-        "saturday": "10\u202fAM\u20134\u202fPM, 5\u20137\u202fPM",
-        "sunday": "10\u202fAM\u20134\u202fPM, 5\u20137\u202fPM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(833) 510-8419",
-      "website": "http://www.pdxinsectarium.org/",
-      "extensions": [
-        {
-          "from_the_business": [
-            "Identifies as LGBTQ+ owned"
-          ]
-        },
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Gift shop"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
-          "crowd": [
-            "Family-friendly",
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Getting tickets in advance recommended"
-          ]
-        },
-        {
-          "payments": [
-            "Admission fee"
-          ]
-        },
-        {
-          "children": [
-            "Discounts for kids",
-            "Good for kids",
-            "Kid-friendly activities"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRZbSONushIIXNQw-USXxG0Y9YusF9Vv70jZ2cFk9UfhEv0d-ws6jucemC2eui6VDror7Y1MpxEyGXRLwFHZx_MM9182S-5yXk6g8SkTMF5WS8uJeeLMLlF_GJ3t9_X5tujKkMzA=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/4Py0XHicHcRRboIwAADQE1UKBqRL9kE2y1TKpp1a-CGxq1SKlNBW0Bt6hN1myd7H-31Ka3vz4nmtnM9qretWOCMGrjsrOjvj-urVvQHcAOMlX_lWJemuPNHP3Bm5WrF8O4I9ZVMKC1Q4g9HhtoBNGXCs0P4slzf4A0YTNY6L61sg3CU6vA96WBQ-6aflPWW7bMQf5VQRgvw4oCC8MxXVMVXfBIdHGru1EBnJWlyl67lFFQutazaKPJLX0YcQAvk_B90fvk5Ejw"
-    },
-    {
-      "position": 16,
-      "title": "Architectural Heritage Center",
-      "place_id": "ChIJ7-P4RqeglVQRzMGmXOmekMI",
-      "data_id": "0x5495a0a746f8e3ef:0xc2909ee95ca6c1cc",
-      "data_cid": "14019880365123355084",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a746f8e3ef%3A0xc2909ee95ca6c1cc&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a746f8e3ef%3A0xc2909ee95ca6c1cc&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.517799,
-        "longitude": -122.6610461
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7-P4RqeglVQRzMGmXOmekMI",
-      "provider_id": "/g/1v16q02s",
-      "rating": 4.5,
-      "reviews": 58,
-      "type": "Tourist attraction",
-      "types": [
-        "Tourist attraction",
-        "Art gallery",
-        "Local history museum",
-        "Museum"
-      ],
-      "type_id": "tourist_attraction",
-      "type_ids": [
-        "tourist_attraction",
-        "art_gallery",
-        "local_history_museum",
-        "museum"
-      ],
-      "address": "701 SE Grand Ave, Portland, OR 97214",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 11\u202fAM Thu",
-      "hours": "Closed \u00b7 Opens 11\u202fAM Thu",
-      "operating_hours": {
-        "wednesday": "Closed",
-        "thursday": "11\u202fAM\u20135\u202fPM",
-        "friday": "11\u202fAM\u20135\u202fPM",
-        "saturday": "11\u202fAM\u20135\u202fPM",
-        "sunday": "Closed",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 231-7264",
-      "website": "http://www.visitahc.org/",
-      "extensions": [
-        {
-          "from_the_business": [
-            "Identifies as women-owned"
-          ]
-        },
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkH7eepaDgzUZzpM9I5yviPjXWKgBPFoN7rSg110RL8vQYMen8a2pyp2Hrt6KP7tyeZ50U9tjrd8Ja1eShFNo0cgSB1bNgaLOu7XZN7nL6NG_aoGW1YsnQbQ-uZ3xGxuzARn33=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/ya0NlXicHcRdDoIgAADgE5GQK6ytB12llZHmmuZLQ2LYHzDBSi_YGbpNW9_D9_3U1mozdZx77Q6EUuLOW8MbpqTl0g6YejhCG8AMMI6fkPTmL24R5lzTuegPZa-3k9Woe16Sa5FvRJAsFcFNJhCC-9h7psctlx4d6k4Po8aONwm2HS9H8DCx1-bsrSniWb0kCjKRBagigsa7FhclwTIek_BEVZijo5FplYK2dN_hu-39vXTd2QtBCEH9nwH5A1hOREo"
-    },
-    {
-      "position": 17,
-      "title": "Stark's Vacuum Museum",
-      "place_id": "ChIJ61g82z2hlVQRbvJy9dK7Ll0",
-      "data_id": "0x5495a13ddb3c58eb:0x5d2ebbd2f572f26e",
-      "data_cid": "6714510609191465582",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a13ddb3c58eb%3A0x5d2ebbd2f572f26e&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a13ddb3c58eb%3A0x5d2ebbd2f572f26e&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5237902,
-        "longitude": -122.6608636
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ61g82z2hlVQRbvJy9dK7Ll0",
-      "provider_id": "/m/012m28vy",
-      "rating": 4.1,
-      "reviews": 24,
-      "unclaimed_listing": true,
-      "type": "Museum",
-      "types": [
-        "Museum",
-        "Tourist attraction"
-      ],
-      "type_id": "museum",
-      "type_ids": [
-        "museum",
-        "tourist_attraction"
-      ],
-      "address": "107 NE Grand Ave, Portland, OR 97232",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 9\u202fAM",
-      "hours": "Closed \u00b7 Opens 9\u202fAM",
-      "operating_hours": {
-        "wednesday": "9\u202fAM\u20135\u202fPM",
-        "thursday": "9\u202fAM\u20135\u202fPM",
-        "friday": "9\u202fAM\u20135\u202fPM",
-        "saturday": "9\u202fAM\u20135\u202fPM",
-        "sunday": "Closed",
-        "monday": "9\u202fAM\u20135\u202fPM",
-        "tuesday": "9\u202fAM\u20135\u202fPM"
-      },
-      "phone": "(503) 232-4101",
-      "website": "https://starks.com/about/vacuum-museum/",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvUpBVBMkQBA-6SlZrHtQoQOMXVsPQLoibmHgmoOGM84DFl9tKfzJMuWB9Xs3BaFMcSRq_JecF1hhrBABgyJOI7gFKBYIpOdBuQehaGwBr8Y6AykqEW_eRVKemYTiD66Hd0NOM=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/Y1SUlHicHcTbDsEwGADgJ6pNyBwSF_3DNpuqOmzmRqhqZYfO2hFe0DN4G4nv4vt-lLW1GTtOoXodqbUsRGtEw3VlRWU7XJeOrA3iBhkHr5Ysx8FjV0MCJGeAkbcpDk1omWaU7BOzYgt9O5ehLDUNyLA_9YuRja_viLQpjPamByef8M36fowE97tKNYBBviI6H0g_hmxe0wu0TKhT8IRmmHn4ld9n6VGsk1iU2fY29bzw4i4pmTy7rusi9Z-j6gdGiEQm"
-    },
-    {
-      "position": 18,
-      "title": "Portland Police Museum and Historical Society",
-      "place_id": "ChIJp3fX0Q8KlVQRoVq4ICk17vY",
-      "data_id": "0x54950a0fd1d777a7:0xf6ee352920b85aa1",
-      "data_cid": "17793217628546292385",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0fd1d777a7%3A0xf6ee352920b85aa1&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0fd1d777a7%3A0xf6ee352920b85aa1&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.515121199999996,
-        "longitude": -122.67629579999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp3fX0Q8KlVQRoVq4ICk17vY",
-      "provider_id": "/m/012m29nq",
-      "rating": 4.1,
       "reviews": 33,
       "type": "Museum",
       "types": [
         "Museum",
-        "Tourist attraction"
+        "Non-profit organization"
       ],
       "type_id": "museum",
       "type_ids": [
         "museum",
-        "tourist_attraction"
+        "non_profit_organization"
       ],
-      "address": "1111 SW 2nd Ave, Portland, OR 97204",
+      "address": "915 Forest Ave, Portland, ME 04103",
       "country": "United States",
-      "open_state": "Closed \u00b7 Opens 10\u202fAM",
-      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM Thu",
+      "hours": "Closed \u00b7 Opens 10\u202fAM Thu",
       "operating_hours": {
-        "wednesday": "10\u202fAM\u20133\u202fPM",
-        "thursday": "10\u202fAM\u20133\u202fPM",
-        "friday": "10\u202fAM\u20133\u202fPM",
-        "saturday": "Closed",
-        "sunday": "Closed",
+        "wednesday": "Closed",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "12\u20134\u202fPM",
         "monday": "Closed",
-        "tuesday": "10\u202fAM\u20133\u202fPM"
+        "tuesday": "Closed"
       },
-      "phone": "(503) 823-0019",
-      "website": "http://www.portlandpolicemuseum.com/",
+      "phone": "(207) 370-7457",
+      "website": "https://www.museumofbeadwork.org/",
       "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
         {
           "accessibility": [
             "Wheelchair accessible entrance",
@@ -1850,96 +1083,13 @@
           ]
         },
         {
-          "children": [
-            "Good for kids"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "amenities": [
-            "Restaurant"
-          ]
-        }
-      ],
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLvW-fBGJGdxl6SuAvnVWQLsShgS8bT5udbno1adFs_RNEd5bPJ5d56CQCw51D9lsMznT7vZ7PN93d33cn7EnpTt8LtQYO0xBeNDQqn8y3nGvUTcutHZWvZ3VbaiG5Hz9rqYD1jQ=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/oYMnQ3icHcRLDoIwFADAE1UgTQVMXKAoxCBSQYlsjLQIKr6iLfVzQ4_gbUycxXw_jVKdHBlG2-BBLUTdVr2s7kyAqkANmLgadScRk0gaXhLTixdGOkfHSbAI-LMdpr2nYZvTSKZNnTplRnpegrAOfC7363jGSZksCCfDKZ0-iOW7rVy-IbN1YSexiznGDOwZdJlyIkV3K_M5qWKf3sB5YQj0JmO9CotcF3hbHk4BCd_u_bbzrTMdPyzTNFHznyH4Ab-uRNs"
-    },
-    {
-      "position": 19,
-      "title": "Hellenic-American Cultural Center & Museum of Oregon and SW Washington",
-      "place_id": "ChIJpbwE0saglVQR4zF_CiLimvk",
-      "data_id": "0x5495a0c6d204bca5:0xf99ae2220a7f31e3",
-      "data_cid": "17985936697690370531",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0c6d204bca5%3A0xf99ae2220a7f31e3&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0c6d204bca5%3A0xf99ae2220a7f31e3&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.526722299999996,
-        "longitude": -122.6320829
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpbwE0saglVQR4zF_CiLimvk",
-      "provider_id": "/g/1vxvhkv_",
-      "rating": 5,
-      "reviews": 4,
-      "type": "Museum",
-      "types": [
-        "Museum",
-        "Art museum",
-        "Cultural center",
-        "Exhibit",
-        "Gift shop",
-        "Heritage museum",
-        "Library",
-        "Local history museum",
-        "Non-profit organization",
-        "Tourist attraction"
-      ],
-      "type_id": "museum",
-      "type_ids": [
-        "museum",
-        "art_museum",
-        "cultural_center",
-        "exhibit",
-        "gift_shop",
-        "heritage_museum",
-        "library",
-        "local_history_museum",
-        "non_profit_organization",
-        "tourist_attraction"
-      ],
-      "address": "3131 NE Glisan St, Portland, OR 97232",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 11\u202fAM",
-      "hours": "Closed \u00b7 Opens 11\u202fAM",
-      "operating_hours": {
-        "wednesday": "11\u202fAM\u20133\u202fPM",
-        "thursday": "11\u202fAM\u20133\u202fPM",
-        "friday": "11\u202fAM\u20133\u202fPM",
-        "saturday": "Closed",
-        "sunday": "Closed",
-        "monday": "Closed",
-        "tuesday": "11\u202fAM\u20133\u202fPM"
-      },
-      "phone": "(503) 858-8567",
-      "website": "http://www.hellenicamericancc.org/",
-      "extensions": [
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Offers tours",
-            "Restroom"
-          ]
-        },
-        {
           "crowd": [
             "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
           ]
         },
         {
@@ -1949,6 +1099,7 @@
         },
         {
           "parking": [
+            "Free parking lot",
             "On-site parking"
           ]
         }
@@ -1960,57 +1111,452 @@
           ]
         }
       ],
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjFJzzZuMXHwu-y-Or5DdTMRUNg3JQYwfPvqTGo8xSHkUrrZFJ5szww5Pg3svhZQuNY3nzugPJIpvckaAWNXUUR2CBjZ3lQgVqeR8JKJq7YFUZDGbGZky0PnK_kZ7dCkW57PHZgA=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/Gh74pXicHcRLjoIwAADQE1XQhmBMXOAHmBqxoFXpZjJTscRiC5RS5YYewduY-Bbv_Sq7rtYzx6lKOOJK8aowumiZkl0huxFTd4fXGjANtBPgJBXB-haiYaBme46tAU-wa73V5bDNSMIhSnN7xX1ziNT0sY8FaVsaIk8P1nqYQ92XNDVJDuVgOEY_dc_EX3BKzoRkk-XiRmGV8mNTZFO0QY2fh4Suov-IiqeL5eZXUP-yFCfPxzHlwdyOXdcF5XcG5AdlvEYN"
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEN8UFCry05AgHVxxVsdNBFRFItiV4rgmmkkLnhMQMlN3XB7XH8gvZM03_8-_I0j0j1AZIordujgpoUzlEzgJQvSZzRgH9-Q87pzUGkl-iHueS5H2hheI0ZQRO1isijSbIgtTQ0hA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JfKjhHicHcTRboIwFADQL6pcxozMxIe6yNpl4AqDEF5Mhs0tUCihxTn-0E_wb0w8D-d-U86Ndut5WgUrNAa1nK2cajM4ObhVbXoPR0tqS6xHvxPR0UMS5tH79A9riqy4Xgt7TvZRGnHXFK8T9n3XfQ0qFrFOgnK_KVmIlyqG4BSSE4cWWp9W3EznucXR5Is-LPgpLlm1pMjeiAg345J_dJo0bJbZmr0oJTlUIj36jW3a7Jej-xGg6O7PBwCintdkeADPeUUY"
     },
     {
-      "position": 20,
-      "title": "Evergreen Aviation & Space Museum",
-      "place_id": "ChIJ9RfTK1JPlVQR_L70OLy1mM8",
-      "data_id": "0x54954f522bd317f5:0xcf98b5bc38f4befc",
-      "data_cid": "14958905982325145340",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54954f522bd317f5%3A0xcf98b5bc38f4befc&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54954f522bd317f5%3A0xcf98b5bc38f4befc&engine=google_maps_photos&hl=en",
+      "position": 12,
+      "title": "International Cryptozoology Museum",
+      "place_id": "ChIJLbl-FfmbskwRGh3Vn3u97y4",
+      "data_id": "0x4cb29bf9157eb92d:0x2eefbd7b9fd51d1a",
+      "data_cid": "3382130183838702874",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf9157eb92d%3A0x2eefbd7b9fd51d1a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf9157eb92d%3A0x2eefbd7b9fd51d1a&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.204304,
-        "longitude": -123.14542999999999
+        "latitude": 44.8182243,
+        "longitude": -68.77496219999999
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9RfTK1JPlVQR_L70OLy1mM8",
-      "provider_id": "/m/025fh4",
-      "rating": 4.8,
-      "reviews": 7001,
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLbl-FfmbskwRGh3Vn3u97y4",
+      "provider_id": "/g/1tksmzbq",
+      "rating": 3.9,
+      "reviews": 1281,
       "type": "Museum",
       "types": [
         "Museum",
-        "Event venue",
-        "History museum",
-        "Movie theater",
-        "Science museum"
+        "Tourist attraction"
       ],
       "type_id": "museum",
       "type_ids": [
         "museum",
-        "event_venue",
-        "history_museum",
-        "movie_theater",
-        "science_museum"
+        "tourist_attraction"
       ],
-      "address": "500 NE Captain Michael King Smith Way, McMinnville, OR 97128",
+      "address": "490 Broadway, Bangor, ME 04401",
       "country": "United States",
-      "open_state": "Closed \u00b7 Opens 9\u202fAM",
-      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
       "operating_hours": {
-        "wednesday": "9\u202fAM\u20135\u202fPM",
-        "thursday": "9\u202fAM\u20135\u202fPM",
-        "friday": "9\u202fAM\u20135\u202fPM",
-        "saturday": "9\u202fAM\u20135\u202fPM",
-        "sunday": "9\u202fAM\u20135\u202fPM",
-        "monday": "9\u202fAM\u20135\u202fPM",
-        "tuesday": "9\u202fAM\u20135\u202fPM"
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
       },
-      "phone": "(503) 434-4180",
-      "website": "http://www.evergreenmuseum.org/",
-      "description": "World's largest airplane & a water park. Home to several historic aircraft, including the world's largest, plus a water park & 3D theater.",
+      "website": "http://cryptozoologymuseum.com/",
+      "description": "Bigfoot-related items & more. Tiny museum with limited hours exploring the mystery of Bigfoot, Loch Ness Monster, mermaids & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Offers tours",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwb2ejNSVfAr2sin7-udvINXmGOefX20TW8zhq-qtCD1L0emqe0ah1an0mP7nk0tfwAgMOXJLIwRI3q5DtT4hEGCwzVJArsgQyPGshrnRV1syBwOP7beDbQzak_88X-oP0fdaY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cUCFCnicHcTRboIwFADQL6pcUANZsocqhmAUiiOMPRnA0irSCreugR_cN-xvTDwP5_9PGvPAD8e5y-VCaC3u_Il8bLQyXJlFo3tHPJA0SNChLMk6urO1x2_JV9HS0cOr8snz8hsnZR-lvC09yL-DWQ5kMNvQPQDvBw6VdCsFPfNVB6a1VBzTcn-I7SleDuvQ5Cu5i7Z2LvZ0RJFNLEI5qlPh4rSxKfNrHtbZXHXnICiJZtBeqp9P6wIAke8bol520UUI"
+    },
+    {
+      "position": 13,
+      "title": "University of New England Art Gallery",
+      "place_id": "ChIJMfZVhKCbskwRtEMJTneO0NI",
+      "data_id": "0x4cb29ba08455f631:0xd2d08e774e0943b4",
+      "data_cid": "15190798186182165428",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ba08455f631%3A0xd2d08e774e0943b4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ba08455f631%3A0xd2d08e774e0943b4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.683166799999995,
+        "longitude": -70.297136
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMfZVhKCbskwRtEMJTneO0NI",
+      "provider_id": "/g/1vfp36zm",
+      "rating": 4.5,
+      "reviews": 11,
+      "type": "Museum",
+      "types": [
+        "Museum",
+        "Art gallery",
+        "Tourist attraction"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum",
+        "art_gallery",
+        "tourist_attraction"
+      ],
+      "address": "2693, 716 Stevens Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM Thu",
+      "hours": "Closed \u00b7 Opens 12\u202fPM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "12\u20135\u202fPM",
+        "friday": "12\u20135\u202fPM",
+        "saturday": "12\u20135\u202fPM",
+        "sunday": "12\u20135\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 221-4499",
+      "website": "http://www.une.edu/artgallery/portland-campus",
+      "description": "Campus gallery with rotating exhibits. Modern gallery featuring rotating exhibitions in various mediums, plus a sculpture garden.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Cafe",
+            "Restroom"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYUTFsOvp1Nisx7QfIB2Q5UFXo5KypX2ERpXHmAr2sBVtvIPPx4wOct8UQLAw1gnuGyzIqd4yXCNbCIoziWjjNvEZGIOBsuAMujhhnkhQYYiksUfgckQHc9-4EegbfA2NLf37f=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/n79_EHicHcTdboIwGADQJ6r8iNGZ7KIY0EYtdBkb7NJKW0Dbzq-A-IJ7Bt_GZOfiPP-UcxbWnndR85k0Rl7qHuobN9rV2s24uXrSAuKAwMM5ZR1Oq-IzhWywAW3gvmSCxCFbFGlpFvvJlmHyYcvdFd9CiL_cQPL8Ho0Zd6uCHfAYSN1vpwf5PUdTuaGnDTGP5rtt6ZD8bEkWQ4-PfauU7hSrqqaDQkjesR1_Q1FSy5PAIT2I-VK8j4Hv-0j9z5F-AakvRZ0"
+    },
+    {
+      "position": 14,
+      "title": "Fort McKinley Museum at Diamond Cove",
+      "place_id": "ChIJ60mJZT2dskwRMhjUuOI3iVk",
+      "data_id": "0x4cb29d3d658949eb:0x598937e2b8d41832",
+      "data_cid": "6451749388087990322",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d3d658949eb%3A0x598937e2b8d41832&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d3d658949eb%3A0x598937e2b8d41832&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6838416,
+        "longitude": -70.1929334
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ60mJZT2dskwRMhjUuOI3iVk",
+      "provider_id": "/g/11cs5xm91m",
+      "rating": 3.8,
+      "reviews": 12,
+      "type": "Army museum",
+      "types": [
+        "Army museum",
+        "Tourist attraction"
+      ],
+      "type_id": "army_museum",
+      "type_ids": [
+        "army_museum",
+        "tourist_attraction"
+      ],
+      "address": "1 Diamond Ave, McKinley Estates, ME 04109",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10:30\u202fAM Fri",
+      "hours": "Closed \u00b7 Opens 10:30\u202fAM Fri",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "10:30\u202fAM\u20131:30\u202fPM",
+        "saturday": "10:30\u202fAM\u20131:30\u202fPM",
+        "sunday": "10:30\u202fAM\u20131:30\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "https://www.diamondcove.com/fort-mckinley-museum-2/",
+      "extensions": [
+        {
+          "highlights": [
+            "Active military discounts"
+          ]
+        },
+        {
+          "amenities": [
+            "Offers tours"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyOmxmdnVfjCBuxDZ9qH04iD_oLXiBNuTm2jP8u4DmQL82nKkwOUKyRatLY0txPMZpv0n2RoceiRmzDnvFmIRxxY5dgPXkWHljS_DaJJN1v7IC11QTSQb0cwBwEtvYujF88bIgEg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RXRE93icHcRJDoIwAADAFyEFNaKJB7EQUUTAFS5GK5atLdoWqj_0Cf7GxDnM95ML0fCJrtd5v4cZw3UmefZEjIqMih5iRMcN1xDXuD4Lg6iaua8NUeRGD_dybksF0_FjAQYFPDP_VNiB3BGzDC05gCTyLZOuqm6zX73ii_ATIFS4TpsWUDNmKCti8oa0dYkXK5UMbzg8VcdFXW7P8LJcBkY78uaGEe220RWgzu4c0SaydC3r6mEHTzsDAKDl_5FGf2KaRk0"
+    },
+    {
+      "position": 15,
+      "title": "Etz Chaim Synagogue",
+      "place_id": "ChIJL4kvIGqcskwRj0jCGIQCL3E",
+      "data_id": "0x4cb29c6a202f892f:0x712f028418c2488f",
+      "data_cid": "8155740216565581967",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a202f892f%3A0x712f028418c2488f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a202f892f%3A0x712f028418c2488f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6621451,
+        "longitude": -70.2526851
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL4kvIGqcskwRj0jCGIQCL3E",
+      "provider_id": "/m/0g59py7",
+      "rating": 4.6,
+      "reviews": 24,
+      "type": "Synagogue",
+      "types": [
+        "Synagogue",
+        "Art museum",
+        "History museum"
+      ],
+      "type_id": "synagogue",
+      "type_ids": [
+        "synagogue",
+        "art_museum",
+        "history_museum"
+      ],
+      "address": "267 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM",
+      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u20134\u202fPM",
+        "thursday": "12\u20134\u202fPM",
+        "friday": "12\u20137\u202fPM",
+        "saturday": "9:30\u202fAM\u201312:30\u202fPM",
+        "sunday": "12\u20134\u202fPM",
+        "monday": "12\u20135:30\u202fPM",
+        "tuesday": "12\u20134\u202fPM"
+      },
+      "phone": "(207) 773-2339",
+      "website": "http://etzchaim-portland.org/",
+      "description": "Historic synagogue with a museum. Functioning European-style synagogue founded in 1921, with a museum displaying local Jewish artwork.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqMDgGGuMOpvxx6v4uECQ3bh2BPx5-ikDBh8egHF-DG5LNY4SD0Vn8m30cWgTk8FQFm6B9Vz3uopX5d-Bz2BHq2-G9OffS18dIjNipmMbj3DM1aaWmIZAeMVsIOAa58In_n3E=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5RaaHnicHcRdboIwAADgE1UKFVOX7IGugiQWJBrYfDFYa6vYHy044gG9w25jsu_h-3upvnf-IwiuCk2ktfIqBi_u3JpemH7CrQ6k84B74INkXVRdkt4YlVk2sNI9xnH2mA6LrwodVETWYwzOHSUKC7lMAc3iVfEz3VBYG6wR5I3cdjitUj0j8_qJBuu-4yMgz4gsbxHI5uXptAnxMb8UZ6fZ4YIoC9u20fkuEaz2eZm0Mc7N3qDF528IIQTqfw7MG04tQbE"
+    },
+    {
+      "position": 16,
+      "title": "The McLellan House",
+      "place_id": "ChIJ370alRacskwRcHoxos3kTt0",
+      "data_id": "0x4cb29c16951abddf:0xdd4ee4cda2317a70",
+      "data_cid": "15946934902406085232",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c16951abddf%3A0xdd4ee4cda2317a70&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c16951abddf%3A0xdd4ee4cda2317a70&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6534306,
+        "longitude": -70.2618895
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ370alRacskwRcHoxos3kTt0",
+      "provider_id": "/m/047twvm",
+      "rating": 4.5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Historical place museum",
+      "types": [
+        "Historical place museum"
+      ],
+      "type_id": "historical_place_museum",
+      "type_ids": [
+        "historical_place_museum"
+      ],
+      "address": "High St, Portland, ME 04101",
+      "country": "United States",
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtMnyz3x99KMpDkhM8FrqIfbtl1JkM1Xnejsxq58DNGxLaFkkOEWBfLm0KgQocmWQDMhh7RM2OdW-FmmVZ9Gt1g0ViqEAF0S4Vg8V45m917bo4JIeguonv7kOTJgl7MvLIx3lVOH_fKR-J=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/B4cBbnicHcTbToMwAADQL-pohQUw8QHDQC4dY5pifDGulnbrDdZuoj_p8_7GxPNwbr_C-8ndB4ES4YpbyxW7OHam1nhm_IpaHfDJAeqAC7LdtpdZ6bH5_gmXNG3wlEuBk-I8V-PBK1RLjF4NO7llXif5tlzaj0LKbjM8jq2GDe8t1UOfYyHiPb7rPgdQaE3e0tIjDslx3mQFfI4IT0i01imKDzaqK8Yv1lxj2b3UXMX42lZLqEj39D42e1A_fCEIIRD_U2D-AJV8Ros"
+    },
+    {
+      "position": 17,
+      "title": "Neal Dow House",
+      "place_id": "ChIJQVxzRhCcskwRMtTbFOVb1iQ",
+      "data_id": "0x4cb29c1046735c41:0x24d65be514dbd432",
+      "data_cid": "2654410069837075506",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1046735c41%3A0x24d65be514dbd432&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1046735c41%3A0x24d65be514dbd432&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.652816099999995,
+        "longitude": -70.2691184
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQVxzRhCcskwRMtTbFOVb1iQ",
+      "provider_id": "/m/03cq14v",
+      "rating": 5,
+      "reviews": 7,
+      "unclaimed_listing": true,
+      "type": "Museum",
+      "types": [
+        "Museum",
+        "Tourist attraction"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum",
+        "tourist_attraction"
+      ],
+      "address": "714 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "phone": "(207) 773-7773",
+      "website": "http://www.nealdowmemorial.org/",
+      "description": "Historic 1800s home & landmark. Federal-style 1829 residence of local political leader & prohibitionist, with by-appointment tours.",
+      "extensions": [
+        {
+          "amenities": [
+            "Offers tours"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHtFdSrya5xo6XLzKrl-xGRq3RGBvZ_2icBEjnrGnHAoWdbUbXHRCUDW8TMTkG2IgnXR6pQeRF19Jg2QA27V_5wgZdFaHEo0vDXVMSOnD1NRtTBBtltciOsbaQ1b_69cJHGr__=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-VYTzHicHcRJDoIwAADAF5XNiEviAURad6kIxEsDhRQUW2zr-kHf4G9MnMN8P7XWnRqbZlv3DCYEa6ubqiQVXFdcG1RcTNYpQBVQprfbRGcPIh2We_nK-0_hZqv3UrbgCfG1h6F_PxKnof7sxCXkyBNpWRyKDOHpIUiH8To-Q2fOeIbdLqpwaI8WzIk8Z5CQ_oMdyzBHM2HdgyxZ77c8sDdYx76vW02brSryyC6IO6ILBCUhk4dtWRao_1PAf0a9Q_8"
+    },
+    {
+      "position": 18,
+      "title": "Seashore Trolley Museum",
+      "place_id": "ChIJTbuLremuskwROYFed0e9wZI",
+      "data_id": "0x4cb2aee9ad8bbb4d:0x92c1bd47775e8139",
+      "data_cid": "10574941514685645113",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2aee9ad8bbb4d%3A0x92c1bd47775e8139&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2aee9ad8bbb4d%3A0x92c1bd47775e8139&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.4091118,
+        "longitude": -70.4893944
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTbuLremuskwROYFed0e9wZI",
+      "provider_id": "/m/0627fy",
+      "rating": 4.7,
+      "reviews": 1051,
+      "type": "Rail museum",
+      "types": [
+        "Rail museum",
+        "Historical place museum",
+        "Tourist attraction"
+      ],
+      "type_id": "rail_museum",
+      "type_ids": [
+        "rail_museum",
+        "historical_place_museum",
+        "tourist_attraction"
+      ],
+      "address": "195 Log Cabin Rd, Kennebunkport, ME 04046",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "9:30\u202fAM\u20134:30\u202fPM",
+        "thursday": "9:30\u202fAM\u20134:30\u202fPM",
+        "friday": "9:30\u202fAM\u20134:30\u202fPM",
+        "saturday": "9:30\u202fAM\u20134:30\u202fPM",
+        "sunday": "9:30\u202fAM\u20134:30\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 967-2800",
+      "website": "http://www.trolleymuseum.org/",
+      "description": "Museum with public transit vehicles. Long-running indoor-outdoor museum featuring restored public transit vehicles & artifacts.",
       "extensions": [
         {
           "service_options": [
@@ -2031,16 +1577,15 @@
         },
         {
           "offerings": [
-            "Gift shop",
-            "Theater"
+            "Gift shop"
           ]
         },
         {
           "amenities": [
-            "Cafe",
             "Offers tours",
-            "Restaurant",
-            "Restroom"
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
           ]
         },
         {
@@ -2055,25 +1600,221 @@
         },
         {
           "children": [
-            "Good for kids",
-            "Has changing table(s)"
+            "Good for kids"
           ]
         },
         {
           "parking": [
             "Free parking lot",
             "Free street parking",
-            "On-site parking",
-            "Paid parking lot",
-            "Paid street parking"
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
           ]
         }
       ],
       "service_options": {
         "onsite_services": true
       },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJD4i-iepcYoKAMhq-wt_xLl7vVTQxr8GtJfLXhFMpOUEFgm3tXuwh3-zI5gMqg-Y5QVKk3pdIwHvDA2KQDwxyrK6aaEMgN4U5zllWDty9BeFqQl0Hwwpq3v4o9szJuffip_V6Fg=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/0Ll7L3icHcRdDoIgAADgE5EW2t_Wg82sNCu2tHpyjhBcJCgo5g07Qrdp63v4vh-mtVRLy-IMjqgQlJNWkQaLSpNKj7B4WVQqgBVQlnc-oqe3DX2nBCWR-C4iL2Y1MDrrD3zWpRfUN_OtDovDjQWxPCWbgL6gvrWGQTDsXRrXFNxdlEZPKB97s-t8bxIh3_TvJprm-SamRydxB86vvn4v1iSoEbd3xsgado5YqCFsi6KUWToN6MqMbdsG7D8G1Q83X0Z8"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEX9H4rKCyJYbgoWYN2IcNq4saiR-h05pwGlnedB2KMqhw8KtqHLpB2CKvVof4X_8xljB21yrOrKP1hddw3AJP72sl6l7FA54kWkHdLHz_w0MdB5O92ANM_UAG2DDAMaNpuIgQh2BiOYwtJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JKzXmHicHcTNbsIgAADgJ8JSbKcu2QF0sxZL6xJ_emocdODKCi04pi-5895myb7D9_ujvLfuMYq0mk6kMVK3V9eO3PS-7f2Em89IWge4Ay7CFdt1-Pm0yJKRLm95_SbNsWZow9mQuPPlFSiY2rDWfSsIosWgwpz6Idtagpb062Dek1Mz_9YfBMW3sRxpFSshwhTn1Qw5_aBnLzhNumOXiW12bwIsBEnLBcKsaPZ4jVYrXJyZvW7kTiFyKevg86cQQwiB-p-D_g8_wEXe"
+    },
+    {
+      "position": 19,
+      "title": "Maine Classic Car Museum",
+      "place_id": "ChIJSQhHJKyvskwRobijRG-PEVY",
+      "data_id": "0x4cb2afac24470849:0x56118f6f44a3b8a1",
+      "data_cid": "6201895869921605793",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2afac24470849%3A0x56118f6f44a3b8a1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2afac24470849%3A0x56118f6f44a3b8a1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.451685399999995,
+        "longitude": -70.4972197
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSQhHJKyvskwRobijRG-PEVY",
+      "provider_id": "/g/11j2cb2gbr",
+      "rating": 4.9,
+      "reviews": 330,
+      "type": "Museum",
+      "types": [
+        "Museum"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum"
+      ],
+      "address": "2564 Portland Rd, Arundel, ME 04046",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 602-6620",
+      "website": "https://mainecarmuseum.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop"
+          ]
+        },
+        {
+          "amenities": [
+            "Offers tours",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-GelSO11ZV9EHwFwEXSEW26CsVs3NtnJn8Hyk6LrpyGIVH80boGopYkK7w2vdWfvebaI2NlwWNFzfTYxIWJx26ehD9tDHPEtNol4DLi6iOAZVfixEgqE74j4e7U4ZafAthhBa9WtnJ8c=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VuXS3XicHc1LcoIwAADQE0U-MnyccYESAetEHVui7DAGgqQJmmjQQ3bf2-i4edv3_8e07tXEsjgbjxopG05vil6JFJoKPSLy12p6BYgCyoo3aNvFEKSU79aOUxYRzMzCwP0OYtefq0KNkRZLEWaPzl9d-0eaF1loH2Uq-0P3FRj3fsL1nR6r3EXcYLR41t-HIcfLwfUpSyKdZBuokeResmr9dh2XRd0OsLnAwDt7NPjxyqqONWOzKsLvKSRT49i2DdhHAsQLDgFGhg"
+    },
+    {
+      "position": 20,
+      "title": "Farnsworth Art Museum",
+      "place_id": "ChIJGc7lUy_OrUwRcB4_pz1ONFQ",
+      "data_id": "0x4cadce2f53e5ce19:0x54344e3da73f1e70",
+      "data_cid": "6067560624680803952",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cadce2f53e5ce19%3A0x54344e3da73f1e70&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cadce2f53e5ce19%3A0x54344e3da73f1e70&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 44.103566799999996,
+        "longitude": -69.109783
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGc7lUy_OrUwRcB4_pz1ONFQ",
+      "provider_id": "/m/0f0p3t",
+      "rating": 4.5,
+      "reviews": 197,
+      "type": "Art museum",
+      "types": [
+        "Art museum",
+        "Library",
+        "Tourist attraction"
+      ],
+      "type_id": "art_museum",
+      "type_ids": [
+        "art_museum",
+        "library",
+        "tourist_attraction"
+      ],
+      "address": "16 Museum St, Rockland, ME 04841",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 596-6457",
+      "website": "https://www.farnsworthmuseum.org/",
+      "description": "Works by prominent American artists. Paintings & sculptures by renowned American artists with Maine connections, most notably the Wyeths.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Gift shop"
+          ]
+        },
+        {
+          "amenities": [
+            "Offers tours",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5RGnEVy3znED__FsGyfPFXlEa8YiF8LQy-6t01BBAKgTGHfOWExkItp8X4_dodJXEkKthzXA21q-uY7SCSBJyLd5vzTBuk5Rnin50No-D9UNF2XseFBrn9TxaVPwIgiRjzsIF4g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0aSZanicHcThEoEwAADgJ1otRNz50dgSLkkyv7quslK22EK9oUfwNu58P77vp1CqkTNdr4uhxoRgdd7K_JEKrnKutFTcdNZIkEogddv39pW9MgOH46gb9hwv45hIp7v4hNY4sc4lsbb7DowVNBCyNyx0VpfdCb8rVzUWHcWZyNYUVxtV9NQeGHfQnieHxQGtu21mPvsQtZUZ8JKb0BNgOT16ZEBlTtCDT8N3Evkvl5XBtZcuGbH5y4AQguJ_CvgPku5EnQ"
     }
   ]
 }

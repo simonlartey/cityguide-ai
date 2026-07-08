@@ -1,0 +1,1622 @@
+{
+  "search_metadata": {
+    "id": "6a4e6848c83b3f04e22a0dba",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/kqiOPUPdTUAESzn3K9Sfow/6a4e6848c83b3f04e22a0dba.json",
+    "created_at": "2026-07-08 15:10:00 UTC",
+    "processed_at": "2026-07-08 15:10:00 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/gas+stations+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/kqiOPUPdTUAESzn3K9Sfow/6a4e6848c83b3f04e22a0dba.html",
+    "prettify_html_file": "https://serpapi.com/searches/kqiOPUPdTUAESzn3K9Sfow/6a4e6848c83b3f04e22a0dba.prettify",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "gas stations in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "gas stations in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Mobil",
+      "place_id": "ChIJYUG63vCbskwRtL9GVPR-_EI",
+      "data_id": "0x4cb29bf0deba4161:0x42fc7ef45446bfb4",
+      "data_cid": "4826872488485371828",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf0deba4161%3A0x42fc7ef45446bfb4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf0deba4161%3A0x42fc7ef45446bfb4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6569481,
+        "longitude": -70.28974199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYUG63vCbskwRtL9GVPR-_EI",
+      "provider_id": "/g/1v_smvhw",
+      "rating": 3.6,
+      "reviews": 236,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "1196 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 774-8047",
+      "website": "https://www.exxonmobilfuels.com/en/find-gas-station/200304391",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM",
+            "Convenience store",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "$3.70/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcznkij7fvSMtGua_sI9B-GqV3QpoeNJqyYlg0ZyY2Kj5Q4dA5pZryyCzj-jFEBm1xUMSBa5skPkfgfjYXyKEwbI0MspYW7O1-8AYOPRAYdrXTIvEkvRyHDkgLk9-ck_pgHSDB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LlopDHicHcRZEsEwAADQE0VTdCwzPlKKonSxxY8h2lRSTTRR4oLO4DZmvI_3_eRaS9W3rCJvNagQtEgfKq2IKHVa6gYRN4tKBYgCykLhMuJoTN4lv7JOVieBnjxOR-X3XDC5b1uRFOlydje4oPBgcHPOnKh9QY48VMYM3wywsefe7NcmSNyTo3jIM5oxvDdz73n2YaAk3nVWNugivApjhC_Vfu3XHq9jMx1xuuA9QPhR0mkycgdPG0II8v8ElD_IWkVk"
+    },
+    {
+      "position": 2,
+      "title": "Irving Oil",
+      "place_id": "ChIJMekFQT2cskwRE4SElDDmuLQ",
+      "data_id": "0x4cb29c3d4105e931:0xb4b8e63094848413",
+      "data_cid": "13022411418866320403",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3d4105e931%3A0xb4b8e63094848413&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3d4105e931%3A0xb4b8e63094848413&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.65032,
+        "longitude": -70.25804699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMekFQT2cskwRE4SElDDmuLQ",
+      "provider_id": "/g/1263mk8jg",
+      "rating": 4,
+      "reviews": 278,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "393 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 879-1993",
+      "website": "https://www.irvingoil.com/location/irving-oil-26976?utm_source=G&utm_medium=lpm&utm_campaign=irving",
+      "description": "Chain gas station with a public restroom offering coffee, snacks, and drinks.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM",
+            "Convenience store",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "$3.65/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJBkA2BsU2QLifrL4DNtUx4aQKvZ7LcH_cawizAsWvDMa6J9_q7WuA4kXuRgKLHf03c4vQgT2RlIzNk4upuuZwHnj-dqDTArx5uSaKbCmCBcKEUjw5U_SN5EBEHb1MIb0KAAqO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/C8Mku3icHcRdDoIgAADgE5FkWKutB0w3CrUsna0Xp2RY_guo64Kdodu09T18308uZSs2mlbmixlvGl5mSmQ9a2qZ1XLGmkrjrQBMAKHhk-cXmBzMAuumCHXfeT56B1meDCeU-HS4rRxGYpaMzzcW0WC5yfKwjrtVpDAqrurMqUMecMHQ4PNAP5f7t1cg1Sp1G0n9AvfOCnA_GeqS0HRX7UxG7fA1GmF88QzbtEk6d_cppBh3x-04hxCC_D8D9Q9AY0P8"
+    },
+    {
+      "position": 3,
+      "title": "Mobil",
+      "place_id": "ChIJFTSLW4mbskwRagK4sLVCs8U",
+      "data_id": "0x4cb29b895b8b3415:0xc5b342b5b0b8026a",
+      "data_cid": "14245803394424373866",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b895b8b3415%3A0xc5b342b5b0b8026a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b895b8b3415%3A0xc5b342b5b0b8026a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.667452,
+        "longitude": -70.2795173
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFTSLW4mbskwRagK4sLVCs8U",
+      "provider_id": "/g/1tf9sf89",
+      "rating": 3.5,
+      "reviews": 169,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "518 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 253-1591",
+      "website": "https://www.exxonmobilfuels.com/en/find-gas-station/200304671",
+      "description": "Clean convenience store featuring gas pumps and a car wash, plus friendly service.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Car wash",
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM",
+            "Convenience store",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "$3.70/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkENUBgaakHbY3dwczq2sJSFo90IRS4N48M1TigoPCvXbIr8Xy51Rxf8fcyEmqP68XpR3T5B7gCTY-5yaAuuAIhn-Vm0PhtfabI4DY7uY9nVhhSv_XZlbG-C4uHu7636XwWpox=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MMzYUXicHcTbboIwAADQL6oUKReX7AHxAiYjCMyVvRio0BqgBdqK-IP7hv3Nkp2H8_vDlBrkm2F0zFpRIWhXa1lPRHBVc7UiojfoIAGRQBp-Ep9bP2z38eeWlmUbVoV1m8lrXMtTdhAbGKUZipH3YeZ3KpLggato8vBim-mz8Rqy7PsxcTw8pFZub10a5AWwl9LX2o8YB5ceJkw1ZRWhXeHqYsMvjGWPK_7uqiMIkA6161gOnr8G8XyfTQghYP8TwP8AFDhD3Q"
+    },
+    {
+      "position": 4,
+      "title": "Gulf Gas Station",
+      "place_id": "ChIJx7-az4ybskwRGfsHP1ZoDZ8",
+      "data_id": "0x4cb29b8ccf9abfc7:0x9f0d68563f07fb19",
+      "data_cid": "11460931346361744153",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8ccf9abfc7%3A0x9f0d68563f07fb19&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8ccf9abfc7%3A0x9f0d68563f07fb19&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6639984,
+        "longitude": -70.28569569999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx7-az4ybskwRGfsHP1ZoDZ8",
+      "provider_id": "/g/11c1nkgzsm",
+      "rating": 4,
+      "reviews": 56,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "205 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u201311\u202fPM",
+        "thursday": "5\u202fAM\u201311\u202fPM",
+        "friday": "5\u202fAM\u201311\u202fPM",
+        "saturday": "5\u202fAM\u201311\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "5\u202fAM\u201311\u202fPM",
+        "tuesday": "5\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 507-8412",
+      "website": "https://haffners.com/?utm_source=GMB_HaffnersPortlandBrighton&utm_medium=organic&y_source=1_NzE5MzQxNzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "description": "Fuel and propane retailer with a convenience store featuring ice cream and beer.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM",
+            "Convenience store",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "$3.90/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBw-63x5uM1qqjC8fhkbCYTGJnuqBxpGvGZJqm3W__D4nQyrN9OZRkDBgGUfEeo-1wzlVd6FZfRhh-UExHEj5-j8EEKBegSm4OMibUXcjKEp69hrL4XTljntsA6h1DSioT7fXm=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zSiBH3icHcRJDoIwAADAF1UgIC6JB5Ba476AIhcTa2kt0AItgn7QN_gbE-cw3w_TulRjw8iZ3aNS0pw0itRYCk2E7mFZGLRUACugDG-32Wce8lvg2l2_WVtVxafDlGW36SVEC9FUfleiJ0oWVWGfr9fAEftXvRltk0MW-BRFKSQSWO07P93dWZIeGAMR7OaQ9wEfQrj0CT0Wznb9uEUx5ktYuiNWr5w4zLnQynOZFRwfMhykcTFpLdM0AfuPgfgBUQtEeA"
+    },
+    {
+      "position": 5,
+      "title": "Riverton Gas Station",
+      "place_id": "ChIJAZAiYx2bskwRFv2NbYOQ9WM",
+      "data_id": "0x4cb29b1d63229001:0x63f590836d8dfd16",
+      "data_cid": "7202822073202113814",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b1d63229001%3A0x63f590836d8dfd16&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b1d63229001%3A0x63f590836d8dfd16&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6970622,
+        "longitude": -70.3067511
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAZAiYx2bskwRFv2NbYOQ9WM",
+      "provider_id": "/g/11b73qdc6q",
+      "rating": 4.4,
+      "reviews": 62,
+      "unclaimed_listing": true,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "1585 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 878-0532",
+      "description": "Gas station offering beer, with some reviewers citing its good prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM",
+            "Convenience store"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "$3.86/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTV-Fi22aKKPMctz9z9yRc7XtE8J-yRU3SKmcfRlHC_HgP4kwxoareFG4tY9Li3CtcOp8WZsPH8jjLLoBrSq7_q57e5BticsCraagZpMgOY_5MyJvwnEVUDxngfGpJoZBAGjCrYQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/i6qXBnicHcTdboIwGADQJ6owkQBLdgFMIPxMxOkGN4R8qQXEtrbfhviGe4S9zZKdi_P70yNK_WwYU2-tmBBsol-aKhAcKccViKvBpCagiTb88m1_8aP3E4mG9brLsrIAfHgPb6nA-cStm5KlOlqH7ArnakrCNmHl5jLfRadoFG-w9vLBChF20v1odJm445jnIlCHm9PebIfaAQ6gQ9V1rJEF29WtXSzp98y3p-PrnbNzLFPRBH48hqrev8xPpmmS_n8g_A_dy0Xd"
+    },
+    {
+      "position": 6,
+      "title": "Irving Oil",
+      "place_id": "ChIJp_2NXleaskwRCO4RmDgzWDA",
+      "data_id": "0x4cb29a575e8dfda7:0x305833389811ee08",
+      "data_cid": "3483590629933575688",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a575e8dfda7%3A0x305833389811ee08&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a575e8dfda7%3A0x305833389811ee08&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.685522,
+        "longitude": -70.328737
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp_2NXleaskwRCO4RmDgzWDA",
+      "provider_id": "/g/1v7tkzv4",
+      "rating": 4.1,
+      "reviews": 277,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "270 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 774-9095",
+      "website": "https://www.irvingoil.com/location/irving-oil-26406?utm_source=G&utm_medium=lpm&utm_campaign=irving",
+      "description": "Refueling and convenience chain selling gasoline, foods and various snacks.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM",
+            "Convenience store",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "$3.88/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlIrMnTA9__bWi3uCJcYetSKGYRBYrISF_u2x5SskC3_-Ri749DbMpEoP9DlFI3DHQ4l3IINNMy42x1-NBU8ocV_wv3oqstaauN87FiEQMe2kFKEnDhW0VegaMMdH_uz5VYP3GXA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7K4yLnicHcTbboIwAADQL6ogxSAmPqBcrKYNyIbjqYGuAULXIm297A_3Cf6Nyc7Def31xkx64ziih4tOqU5wq_nMlDRcmgVTP043acA00E6Uk2KMMoFmLD-ikNL2MkC7P7Kam_KU1eddPaMypdZ7rEo97iEF5yHww7jFU6LyMBYpgvGh8AVEiBD89L3HEpDd51qxit5vUF21aRpL1kE6JAXm3pieEhn3F7fiXYPx94Ha31VV5zD7irb3peu6oP-fAfkGZo9Dow"
+    },
+    {
+      "position": 7,
+      "title": "Circle K",
+      "place_id": "ChIJ6w67VleaskwRcrXIRpMvyC8",
+      "data_id": "0x4cb29a5756bb0eeb:0x2fc82f9346c8b572",
+      "data_cid": "3443054224719000946",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a5756bb0eeb%3A0x2fc82f9346c8b572&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a5756bb0eeb%3A0x2fc82f9346c8b572&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.685558,
+        "longitude": -70.32856699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6w67VleaskwRcrXIRpMvyC8",
+      "provider_id": "/g/11fz9x8xtz",
+      "rating": 3.1,
+      "reviews": 41,
+      "type": "Gas station",
+      "types": [
+        "Gas station",
+        "ATM",
+        "Coffee shop",
+        "Diesel fuel supplier",
+        "Convenience store",
+        "Public bathroom",
+        "Snack bar"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station",
+        "atm",
+        "coffee_shop",
+        "diesel_fuel_supplier",
+        "convenience_store",
+        "public_bathroom",
+        "snack_bar"
+      ],
+      "address": "270 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 774-9095",
+      "website": "https://www.circlek.com/store-locator/US/portland/270-riverside-st/4707017?utm_source=google&utm_medium=local&utm_campaign=google-local",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Staff is very friendly and helpful.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZNaezn2OKUdfLVDWNep9y-byey2w40I-1A1I1FxaVcMLkc1vpZC7PSfSSVGL0etQpKy0OxxHoW85ZpgoejW7ga-Hbht_bGCqKMNrp0eo4kwi4vhoaZvf7X_DFf5xTTXcWmE0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xiZdk3icHcTdEoFAGADQJ1rtUhNmXDQhpoSJMt00tb52iXbZ1Y8H9A7exoxzcb4frrVUU8O48dGACcFu8FLwpKLWUOsBFXeDSYWoQspwduG-crw0zOFdD7f-8VwG8TwJQU56VPTQD1sTrxFxyJosuzymm6CipJGpa--iMopiL8Cg99Lv8bbrViIZW6lkAq6JzXK0KrjOCs99-JvwKTEIs2ovZsNFnjalfcrmy9LqDocTTe4LPGsJxhjx_xTVPwORRHk"
+    },
+    {
+      "position": 8,
+      "title": "Circle K | Gas Station",
+      "place_id": "ChIJnxm8MKedskwRn_6GmEgB5BI",
+      "data_id": "0x4cb29da730bc199f:0x12e401489886fe9f",
+      "data_cid": "1361214398680989343",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29da730bc199f%3A0x12e401489886fe9f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29da730bc199f%3A0x12e401489886fe9f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.650462999999995,
+        "longitude": -70.257972
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnxm8MKedskwRn_6GmEgB5BI",
+      "provider_id": "/g/11yrkxkfj3",
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "393 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 879-1993",
+      "website": "https://www.circlek.com/store-locator/US/portland/393-commercial-st/4707064?utm_source=google&utm_medium=local&utm_campaign=google-local",
+      "extensions": [
+        {
+          "offerings": [
+            "Car wash",
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3dCelTBTbzxJl-Md_HTm9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=313.7112&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jStWNnicHc1LDsIgFADA27Arn3ahNSEmujEm7rpvKDyBBMpLwVK9jOfyNhovMPN5u1IwHxjLZQEoq4eKfoOQG1TUpmQDKPSZ6hTZKlhxjzjNyocjqjl5IztzhjCchum1XUNzM-NliL0lehp18DAXmUEt2lFbf-KSDLWYSZV7TpzsW_JUVXaiozshWoK-aCc5-Sf3tErB-RdCbjlO"
+    },
+    {
+      "position": 9,
+      "title": "Circle K",
+      "place_id": "ChIJKR8YaT2cskwRjBO_PhfzyjU",
+      "data_id": "0x4cb29c3d69181f29:0x35caf3173ebf138c",
+      "data_cid": "3876177710468240268",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3d69181f29%3A0x35caf3173ebf138c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3d69181f29%3A0x35caf3173ebf138c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6504991,
+        "longitude": -70.2580095
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKR8YaT2cskwRjBO_PhfzyjU",
+      "provider_id": "/g/11f1215g13",
+      "rating": 3.3,
+      "reviews": 63,
+      "type": "Gas station",
+      "types": [
+        "Gas station",
+        "ATM",
+        "Coffee shop",
+        "Diesel fuel supplier",
+        "Convenience store",
+        "Public bathroom",
+        "Snack bar"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station",
+        "atm",
+        "coffee_shop",
+        "diesel_fuel_supplier",
+        "convenience_store",
+        "public_bathroom",
+        "snack_bar"
+      ],
+      "address": "393 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 879-1993",
+      "website": "https://www.circlek.com/store-locator/US/portland/393-commercial-st/4707064?utm_source=google&utm_medium=local&utm_campaign=google-local",
+      "description": "Standard convenience store selling snacks, beer and wine, as well as gasoline.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"I come here all the time for gas and k1 and never have an issue in person.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzskkOUyufVQiRnrphWeyp_WSGgYsTyejbfC7ygaqATCtD5wgQB6Sid_sLdYb2tL2O_9O3tDFgQYHKL-OaJxn_IJTUjChP4uYlhoc37Heflc8vgr2UQBpqwfnNDlqg-dv0qlxRug=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3m9FLHicHcRRboIwGADgE1UY6NyW7AEh4hwRi6DhiUgpf5WuLbQI3Q13hN1myb6H7_eHGaP0m-Nw5i9ASuB01HQgUhgqzILILweURkQj7QTHA-6C-Ft3XVrYsT3jWyYGxS7UqupyiqHUuaX3ug3XFq59kIcmWk2AN8-nW1PppClrzyReWr2mvom2gMvdZ4LS634W1cc-L-4hOy7HkjNJ_PWOtpy8PGDwCrxR_dSKQ8R7QM3D7fmcjfA-Pbmui9j_BIk_6HlH2g"
+    },
+    {
+      "position": 10,
+      "title": "Cumberland Farms",
+      "place_id": "ChIJdYEEnnubskwRPN3v0SrpbMg",
+      "data_id": "0x4cb29b7b9e048175:0xc86ce92ad1efdd3c",
+      "data_cid": "14442174475190394172",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b7b9e048175%3A0xc86ce92ad1efdd3c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b7b9e048175%3A0xc86ce92ad1efdd3c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6864829,
+        "longitude": -70.2684934
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdYEEnnubskwRPN3v0SrpbMg",
+      "provider_id": "/g/1tfpjf04",
+      "rating": 3.7,
+      "reviews": 59,
+      "type": "Gas station",
+      "types": [
+        "Gas station",
+        "Convenience store"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station",
+        "convenience_store"
+      ],
+      "address": "801 Washington Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 780-8032",
+      "website": "https://cumberlandfarms.com/stores-directory/me/portland/801-washington-ave/005604/",
+      "description": "Convenience store with takeaway fare. Convenience store chain with packaged snacks, hot & cold drinks & prepared foods.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "$3.87/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEY9yqXSmy_PzDYv-2o9Bfpj7XkGWvMny8xFEa6BWeJjQJvfz14wUuZS4i1sMzfHB4gMr0C_bO4e5bhT6qHXlZxq5AAtdk1yr2e9U0U2I9tl0HuF7YWja1zK4LOUtsavwVfHxU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FmmlQXicHcRJDoIwAADAF1VarAsmHkBRXHCJVsALQSwgIAVa1gf6B39j4hzm-4mEyPlMktJoOAgZC1NacVr6LBM0EwOfvaUw58DngEvq6XBOVN1RusK-vDv31C-dGshM0YI8ntjJ2qrNrJu2K90baxbdxudtHfQIN6S6X_ALcbMPDA2HZgkX7uOI6egRXceFYaf3thipqngmqCtlqhBI5I0iUmhUq4ljxR7qd3h_JIJ7dXMLjJbMGwQhBNF_H2Q_O8VEkg"
+    },
+    {
+      "position": 11,
+      "title": "Irving Oil",
+      "place_id": "ChIJ_a_AUkaZskwRoAfX2cjW_rw",
+      "data_id": "0x4cb2994652c0affd:0xbcfed6c8d9d707a0",
+      "data_cid": "13618558481351509920",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2994652c0affd%3A0xbcfed6c8d9d707a0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2994652c0affd%3A0xbcfed6c8d9d707a0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.633477,
+        "longitude": -70.314673
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_a_AUkaZskwRoAfX2cjW_rw",
+      "provider_id": "/g/1trvl0mp",
+      "rating": 4.2,
+      "reviews": 208,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "474 Westbrook St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u201311\u202fPM",
+        "thursday": "5\u202fAM\u201311\u202fPM",
+        "friday": "5\u202fAM\u201311\u202fPM",
+        "saturday": "5\u202fAM\u201311\u202fPM",
+        "sunday": "5\u202fAM\u201311\u202fPM",
+        "monday": "5\u202fAM\u201311\u202fPM",
+        "tuesday": "5\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 774-5631",
+      "website": "https://www.irvingoil.com/location/irving-oil-26471?utm_source=G&utm_medium=lpm&utm_campaign=irving",
+      "description": "Easy-access gas station with friendly service plus a convenience store offering propane exchange, snacks and beverages.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM",
+            "Convenience store",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "$3.77/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPVyoe4EEIrRCetqQme7dsaVb_bPtsFdR1KUphr-JzAjfwxAEzPeeUW2Qoxx-z0lQLovdZmtSJ1mWh9RdTekPBIk8jhhJPzj00c4cJ48M4wfd9crKFPO607FLpQe2BWKcG9iXfFw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6XTbCHicHcTbToMwGADgJyqUSQaYeMEW2DhstszB4o0Z7Q-VU5FWQd7QR_BtTPwuvt8fofWoHk2zEw9GLWXdwaeCiclBw6ANJnuzHhViCinTJ2fa-keSf0uwgyCasj3oD9qDw9U9L99KolXIMyu5jmJC8eo31bz4wUoArsWGymVBK-5oKr_4a68vsdUXwsv4C7RkF7VuI0RM1gZjZrPYdk_2XHGPTUlInrfYCdORwmZXJOzgvd-qcH6aLYwxEv8zNPwBbHZF0g"
+    },
+    {
+      "position": 12,
+      "title": "BJ's Gas Station",
+      "place_id": "ChIJR3si51WaskwRGB0tQaNjrQE",
+      "data_id": "0x4cb29a55e7227b47:0x1ad63a3412d1d18",
+      "data_cid": "120862317833166104",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a55e7227b47%3A0x1ad63a3412d1d18&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a55e7227b47%3A0x1ad63a3412d1d18&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6878223,
+        "longitude": -70.31926709999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR3si51WaskwRGB0tQaNjrQE",
+      "provider_id": "/g/11b64tdvf0",
+      "rating": 4.5,
+      "reviews": 203,
+      "type": "Gas station",
+      "types": [
+        "Gas station",
+        "Warehouse club"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station",
+        "warehouse_club"
+      ],
+      "address": "513 Warren Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u201310\u202fPM",
+        "thursday": "6:30\u202fAM\u201310\u202fPM",
+        "friday": "6:30\u202fAM\u201310\u202fPM",
+        "saturday": "6:30\u202fAM\u201310\u202fPM",
+        "sunday": "6:30\u202fAM\u20139\u202fPM",
+        "monday": "6:30\u202fAM\u201310\u202fPM",
+        "tuesday": "6:30\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 797-8400",
+      "website": "https://www.bjs.com/gas?trc=locl%7Cggmb%7Cweb%7Cxlob%7Cxlob%7Clocdist%7C0029%7Cgas%7C20240820",
+      "description": "Gas station chain offering lower-than-average prices for members, as well as a fuel-saver program.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"One of the lowest gas prices in the area and good quality at that\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdCp8Yz-53B96uBqv9VPAXof-CuJtmlLnb1YYxJXqdShyjBkcgxfIwVJIkOfHSp3LuTRTNY-FZKLRRESegiRRP79rKhec1gPwktk0zZIvQsi-dWTrkg5WOCOS08wRatfa4JzP9YA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/m1vNenicHcRdDoIgAADgE5E4-7OtB3W1NJeELqO3QoTCxASzvGFH6DZtfQ_f9yOMafTCsirhjLhSvGKdZi1VtWG1GVF1t3ijAdVAWx7a7aW3KoJmTgYwcXx32vmPp3tA3lGVIOgic6_i-mIT8oqOjyIV75svKX-VYX-IQpmUm7Rx4i7D2Y6A9WkbY7xKGb9ijGZuuxWM2hz10kg4nMLnXl9BkWet5JM8CZIUznt8NuV5HA3IJd6ytyGEQPynoP4BAbRFqQ"
+    },
+    {
+      "position": 13,
+      "title": "Cumberland Farms",
+      "place_id": "ChIJZ54IhxCcskwRsMk4zpq_RvA",
+      "data_id": "0x4cb29c1087089e67:0xf046bf9ace38c9b0",
+      "data_cid": "17313736489078147504",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1087089e67%3A0xf046bf9ace38c9b0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1087089e67%3A0xf046bf9ace38c9b0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.651443,
+        "longitude": -70.2686548
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ54IhxCcskwRsMk4zpq_RvA",
+      "provider_id": "/g/1v_s5h4y",
+      "rating": 3.3,
+      "reviews": 51,
+      "type": "Gas station",
+      "types": [
+        "Gas station",
+        "ATM",
+        "Convenience store"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station",
+        "atm",
+        "convenience_store"
+      ],
+      "address": "49 Pine St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 874-9528",
+      "website": "https://cumberlandfarms.com/stores-directory/me/portland/49-pine-st/005575/",
+      "description": "Convenience store with takeaway fare. Convenience store chain with packaged snacks, hot & cold drinks & prepared foods.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "$3.62/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYbyEHLLcMbH5AIurSnAwo__ja3V7VLO228osECIj02lVIjfSU_CQffr1KO0zqimcWMMljAxG74x12K8ruDZ2lz3ucK7u-ED-69nGWUaySjKkjApCY8mezW0cA9UKWvtLQaTGb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AH6H5nicHcTbboIwAADQL6qUooJL9tAgQVKYIwyIvhBouFhLi7T1wg_uG_ybJTsP5_07aD2pD8vig7Pqpex5a1Q7Uyl0K_SKytHqJwWoAsrC31_pFQen5hUc4pgmzWGDIzNnAj9kVbHaKdwiPiLkSRX4EYOIFxHrsrzy066bbXKEy-0y0jJJOMPP0F0_bUS82ezPiC-OocQ1INiD7U6EZV6_MkauDE_-yRvbpYQU73JS3nWc1j9h8_mwIYRg-J8C8QcNJEO6"
+    },
+    {
+      "position": 14,
+      "title": "Rusty Lantern Market",
+      "place_id": "ChIJ-ybjDXyZskwR55Z1Z-c7Vio",
+      "data_id": "0x4cb2997c0de326fb:0x2a563be7677596e7",
+      "data_cid": "3050691662649333479",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2997c0de326fb%3A0x2a563be7677596e7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2997c0de326fb%3A0x2a563be7677596e7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6503344,
+        "longitude": -70.3332965
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-ybjDXyZskwR55Z1Z-c7Vio",
+      "provider_id": "/g/11clt8gxnr",
+      "rating": 3.4,
+      "reviews": 72,
+      "type": "Gas station",
+      "types": [
+        "Gas station",
+        "Convenience store"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station",
+        "convenience_store"
+      ],
+      "address": "2282 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 253-0325",
+      "website": "https://www.rustylanternmarkets.com/",
+      "description": "Popular cafe, gas station and convenience store for sandwiches, pizza, coffee, beer and more.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Gas prices were very reasonable under $3.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGpksAMO37KN8JtCS3DH48JNLrpev0sYUi9jrVfjBjN1Jv1auMlZQG7eaDBp8J2RFD3HMGKsucNtfBzmf4GAjw5z7AlKB3sqQ_nn5yX2ljFbOIyZ7ouxtc5YBkajiSaVWr83rRE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kPx_cnicHcTdboIwGADQJ0LASsAlu2jHREHq0My_mwWbApbadv2KTl_QZ9jbLNm5OL_PzjkDL74vOzRqtW4lH4BbppXjyo2YvvitAY-BBz7-oFWPM9MDLlcoLmiSu7cNSueTJKdLa_g1gMPneSrsthFE0DC_hvVQymOVxbxOiUny8XqWonmZFTAw6hryuDSTDItb9IixLAiC7-pLqei-H0sxO60W92Oshx_HogPpa3He1NudTZBdv7_ewiAIvO5_5qk_ARVEQQ"
+    },
+    {
+      "position": 15,
+      "title": "Gas Station (Atlantic Farms)",
+      "place_id": "ChIJ1R-uJLebskwRqtkLoERn4Js",
+      "data_id": "0x4cb29bb724ae1fd5:0x9be06744a00bd9aa",
+      "data_cid": "11232091015102585258",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bb724ae1fd5%3A0x9be06744a00bd9aa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bb724ae1fd5%3A0x9be06744a00bd9aa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6868762,
+        "longitude": -70.3176445
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1R-uJLebskwRqtkLoERn4Js",
+      "provider_id": "/g/11g1pq8_9y",
+      "rating": 4.6,
+      "reviews": 70,
+      "unclaimed_listing": true,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "386 Warren Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 613-9520",
+      "website": "https://theatlanticfarms.com/store-front-page/",
+      "description": "Gas station with fuel available around the clock.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "ATM"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The gas prices are very competitive.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFan98MrrogJ4ClfyF9t0T3Np7xr-8Tf0iFaxkowCZmUygVb0MdzZCjmGmRb57LfyuXSah4YvJsP0pWinPAfEvkRSnUvMxOyOjJlrOO0Ntbo_gA2GQkyoudyntWPwEzjlOeXkADCw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KNjtWHicHcRJDoIwAADAF1XqFpfEQ4NCQoTiinoxrEVaWtKWpf7QJ_gbE-cw30-pdaPWlsXK6YgIQVjeqlymguuc61Eqaos0CqQKKAuFwYEiJ-arpS-lIN7MZoVxVhqep0GzGCRYngv4cuKBit5-1BdDrgn0s_fDrmq3Pibzxb4w7e0Ul7N756kQNtGLh6jYdfR44pfOH7DBlcckxjDQiXgSNHEP1Ig2M1xHYb97VwznN4q2dr_pxxBCUP5PAf8BfuZHxQ"
+    },
+    {
+      "position": 16,
+      "title": "Circle K | Gas Station",
+      "place_id": "ChIJdZrDSFmbskwRwOYbtWE7bOM",
+      "data_id": "0x4cb29b5948c39a75:0xe36c3b61b51be6c0",
+      "data_cid": "16387538434930763456",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b5948c39a75%3A0xe36c3b61b51be6c0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b5948c39a75%3A0xe36c3b61b51be6c0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.685589,
+        "longitude": -70.32857899999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdZrDSFmbskwRwOYbtWE7bOM",
+      "provider_id": "/g/11mspwnzp4",
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "270 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 774-9095",
+      "website": "https://www.circlek.com/store-locator/US/portland/270-riverside-st/4707017?utm_source=google&utm_medium=local&utm_campaign=google-local",
+      "extensions": [
+        {
+          "offerings": [
+            "Car wash",
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fr--AxD76xXgXMqUDZWBoQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=202.20657&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tt5ohXicHc1RDoIgGADg2_AmIFtabazZfO2hh5brpSH-AhsKAYndpmt1m1oX-L7PW6fk456QmAJAWgxkb1awsfACK-eUBeFNxNJNZClJ0s-pn4WxBy9mZwY-hqJo1rau1k51p8elvV2P7oxkf5fWwJx4BBGkxir_xOAGrHxEmW8p0nzH0EtkzijDjFabGnmTpOYU_ZfRLbyk9AtdwDk1"
+    },
+    {
+      "position": 17,
+      "title": "Irving Oil",
+      "place_id": "ChIJ-ybjDXyZskwR25idyK5tlng",
+      "data_id": "0x4cb2997c0de326fb:0x78966daec89d98db",
+      "data_cid": "8689253128515459291",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2997c0de326fb%3A0x78966daec89d98db&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2997c0de326fb%3A0x78966daec89d98db&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.650348,
+        "longitude": -70.33299
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-ybjDXyZskwR25idyK5tlng",
+      "provider_id": "/g/11c1mzd5_5",
+      "rating": 4.2,
+      "reviews": 127,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "2282 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 253-0325",
+      "website": "https://www.irvingoil.com/location/irving-oil-26491?utm_source=G&utm_medium=lpm&utm_campaign=irving",
+      "description": "Service station for gas and diesel fuel, plus made-on-site pizzas, deli options, snacks and drinks.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM",
+            "Convenience store",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "$3.90/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEINPVaqIVYlO3ZkWnwIP0RUOx4bBAtKF2NXijRD78b-KOFsRWAhdv1B-7o5BY8CJNWYgQSaSFS9b3g7QlxodWmsSp8dXvxSISIBUlA_bLrbSJmR-rgS9KpND2d-8LcJIhi_quwnw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Pyi9cXicHcRdDoIgAADgE5GWNa2tB6zc0IY_rMxeWqCDCsGE0it2hG7T1vfwfT_C2s6sHEcKb8K15rJ5maZnWtlG2QnTrcM7A5gBxoEZzh9wh3B2vD7RsZKpd36UakCZWxzScU5DaJNohk-3e7H1AwqSNDJFCUX9nobA14uwCjYxLiuekyuJyJJ63M_lqOuyNaQL6tN7JIig8CDhhe57SuK2AD0ny6TD21kNgj2Lkbhdnq9BDeth6rouEP8ZUD9sBUR6"
+    },
+    {
+      "position": 18,
+      "title": "7-Eleven Fuel",
+      "place_id": "ChIJ_zYuUM-dskwREHlt3gWBqPs",
+      "data_id": "0x4cb29dcf502e36ff:0xfba88105de6d7910",
+      "data_cid": "18133885761813838096",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dcf502e36ff%3A0xfba88105de6d7910&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dcf502e36ff%3A0xfba88105de6d7910&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.664544,
+        "longitude": -70.251282
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_zYuUM-dskwREHlt3gWBqPs",
+      "provider_id": "/g/11y_y299rw",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Gas station",
+      "types": [
+        "Gas station",
+        "Diesel fuel supplier",
+        "Fuel supplier"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station",
+        "diesel_fuel_supplier",
+        "fuel_supplier"
+      ],
+      "address": "27 Washington Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 775-5260",
+      "website": "https://www.7-eleven.com/locations/me/portland/27-washington-ave-32532?utm_source=G&utm_medium=local&utm_campaign=google-local",
+      "extensions": [
+        {
+          "offerings": [
+            "Car wash",
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCH1kZ-m5os8Jl_hCI0NnCcl8OReRYqe9MMfArrEimvQ6qbINRUUqC61wtlyspoyg6ykj-X5AHr5HON6_7WKSCE6aTgfMWzTHdG038_llI8URNT6OidEpv9YcSUCjIAmlhFDTPY1DcjQNY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/y7ROqnicHcTBboIwAADQL6qUGDo08dBUFLZQBCGKF-JqbYVCgVYN_qRn_2bJ3uF93tLa3iwdR8n5TGgtFL8bPjLdWd7ZGdOtI3oDmAHGwTuaNnhLQrc5gdbTxv9WlSQRpB1hyk8ynpUDX8TxFY9jcGsfKRp-I5oVxUCQ-7RqMr2eBJqaGhw9HI5emFBUfR1-9iRA51xc48MrDy9bOPcrpSK_yGiOktsl6B-Lku0LUke4VXKzznelu2Z1SsvV04UQAvk_A90fZbVGgg"
+    },
+    {
+      "position": 19,
+      "title": "Friendly Gas",
+      "place_id": "ChIJ3Ts2aAuaskwRX8BTu_WNQb0",
+      "data_id": "0x4cb29a0b68363bdd:0xbd418df5bb53c05f",
+      "data_cid": "13637337233203904607",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a0b68363bdd%3A0xbd418df5bb53c05f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a0b68363bdd%3A0xbd418df5bb53c05f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.677257399999995,
+        "longitude": -70.36977
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3Ts2aAuaskwRX8BTu_WNQb0",
+      "provider_id": "/g/11ckq2p0mk",
+      "rating": 3.9,
+      "reviews": 54,
+      "unclaimed_listing": true,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "925 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u20139\u202fPM",
+        "saturday": "7\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 856-6033",
+      "description": "Gas station known for its low prices and for pumping gas for customers.",
+      "extensions": [
+        {
+          "offerings": [
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "$3.80/Regular *",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGx7JVXntbmmZ7KGRtmqVSgev-ShwtY-JKW4PCPmnXdvmmsVhm7mtTtjod7gX1Dy3X5DxwvF-s34w7YR73CZi8rqaKepvEmJ2nL9rI7ZBFjJObQWlYyoA1jCv2ULtfaENCrSsj7xA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/X0X0VHicHcRBcoIwFADQE0VA6MQ64wJRnIJjQSoCO4U0KfITJN-AR-wRehtn-hbv71cg9nppWZ1wZ1wp3rGHZkOtJDKJs1qBxXtNak205SeH9ObvJhrlhcQrQEXj3RHhnmecGZKJEUsSxWcvCRKQRWMAdC6AAn5hqxrKC2fzdIu3zTSakGjXG2l5pG5Q_SyG-yVmvdlCNJf79-GDVuuwjT6v6bkrn8p32sDMT3v8vmwPwZDplk7-anRs2ybi_5rIF2nmRk8"
+    },
+    {
+      "position": 20,
+      "title": "Circle K | Gas Station",
+      "place_id": "ChIJH8fGRLyZskwR9HObYZ0v5AQ",
+      "data_id": "0x4cb299bc44c6c71f:0x4e42f9d619b73f4",
+      "data_cid": "352459023835689972",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299bc44c6c71f%3A0x4e42f9d619b73f4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299bc44c6c71f%3A0x4e42f9d619b73f4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.633396999999995,
+        "longitude": -70.314847
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH8fGRLyZskwR9HObYZ0v5AQ",
+      "provider_id": "/g/11mspwnb02",
+      "rating": 1,
+      "reviews": 1,
+      "type": "Gas station",
+      "types": [
+        "Gas station"
+      ],
+      "type_id": "gas_station",
+      "type_ids": [
+        "gas_station"
+      ],
+      "address": "474 Westbrook St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u201311\u202fPM",
+        "thursday": "5\u202fAM\u201311\u202fPM",
+        "friday": "5\u202fAM\u201311\u202fPM",
+        "saturday": "5\u202fAM\u201311\u202fPM",
+        "sunday": "5\u202fAM\u201311\u202fPM",
+        "monday": "5\u202fAM\u201311\u202fPM",
+        "tuesday": "5\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 774-5631",
+      "website": "https://www.circlek.com/store-locator/US/south-portland/474-westbrook-st/4707030?utm_source=google&utm_medium=local&utm_campaign=google-local",
+      "extensions": [
+        {
+          "offerings": [
+            "Car wash",
+            "Diesel gas",
+            "Propane exchange"
+          ]
+        },
+        {
+          "amenities": [
+            "Air pump",
+            "ATM"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nekhIVOk5aFCiQvgXRqenQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=189.15802&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cIaoznicHc1NCgIhGADQ27jLn2BgJpAWQdAqpkW0C8f50o9x1EbTuk3X6jZFF3jv87Y5x7RhLOUFIBeEGvEJLq2ioiYE40BFTFSHmRXBsn3Mg1fotlH5gKP0MNnD-Tg1ar_DvpjL6Q6-J3q4aofgs0ygFm2pqT9xCSM1MZEqW06s7NbkpaoUbUdF0_I1iZi1lZz8l1soUnD-BaDNOf4"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=gas+stations+in+Portland%2C+ME&start=20&type=search"
+  }
+}

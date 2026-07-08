@@ -1,0 +1,3124 @@
+{
+  "search_metadata": {
+    "id": "6a4e67a50558c03effe31d9e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/EYtONbYTMufQryhrpUc8jA/6a4e67a50558c03effe31d9e.json",
+    "created_at": "2026-07-08 15:07:17 UTC",
+    "processed_at": "2026-07-08 15:07:17 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/affordable+restaurants+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/EYtONbYTMufQryhrpUc8jA/6a4e67a50558c03effe31d9e.html",
+    "prettify_html_file": "https://serpapi.com/searches/EYtONbYTMufQryhrpUc8jA/6a4e67a50558c03effe31d9e.prettify",
+    "total_time_taken": 4.33
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "affordable restaurants in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "affordable restaurants in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Becky's Diner",
+      "place_id": "ChIJxRWZbD2cskwRGoWEpZkjFNo",
+      "data_id": "0x4cb29c3d6c9915c5:0xda142399a584851a",
+      "data_cid": "15714224142616397082",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3d6c9915c5%3A0xda142399a584851a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3d6c9915c5%3A0xda142399a584851a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.650635099999995,
+        "longitude": -70.2569159
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxRWZbD2cskwRGoWEpZkjFNo",
+      "provider_id": "/m/0crgqx",
+      "rating": 4.6,
+      "reviews": 8183,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Diner",
+      "types": [
+        "Diner",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Coffee shop",
+        "Hamburger restaurant",
+        "Pancake restaurant",
+        "Restaurant",
+        "Sandwich shop",
+        "Seafood restaurant",
+        "Sports bar"
+      ],
+      "type_id": "diner",
+      "type_ids": [
+        "diner",
+        "american_restaurant",
+        "breakfast_restaurant",
+        "coffee_shop",
+        "hamburger_restaurant",
+        "pancake_house",
+        "restaurant",
+        "sandwich_shop",
+        "seafood_restaurant",
+        "sports_bar"
+      ],
+      "address": "390 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u20139\u202fPM",
+        "thursday": "5\u202fAM\u20139\u202fPM",
+        "friday": "5\u202fAM\u20139\u202fPM",
+        "saturday": "5\u202fAM\u20139\u202fPM",
+        "sunday": "5\u202fAM\u20139\u202fPM",
+        "monday": "5\u202fAM\u20139\u202fPM",
+        "tuesday": "5\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 773-7070",
+      "website": "http://www.beckysdiner.com/",
+      "description": "Laid-back diner serving classic dishes. Fishermen & others often pack this waterfront, no-nonsense diner serving American eats.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great dessert",
+            "Rooftop seating",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Quick bite",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiMKIeICHjIcEhUiE9LX29IPDQoJL20vMGNyZ3F4GAI6AwjwDQ%3D%3D&g2lbs=AEzIGDt53RfyzYilnH1QHspL0vzrLJCFTdytoCFgvWLpW1UpOZ8QBFth2JqTR9SiNUWhAv1Ob4jF&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Awesome serving staff food was great and prices were solid.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlX2ffF3YXrQjjhbfeXhfcM5kDirG0I7L_MdmMTmJgP88A-p4xgT1N9ntxcJzGSPsbqQcpFL7F3aA5p00RkJN_b6r0kD-4ZLQiDiDMVT7XxcEXcrHJzSuyHUQ8c1cNC78jktRqy1g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/b8VshXicHcTbboIwGADgJ6qUAYJLdkGGiAQIJ123GyO_0HKubc3AN9wj7G2W7Lv4fn-YUly-atrAjA2dZzrUD1kLmCdVT2oD86hRLhFIJDU3yNPyYyAvTeMbn0RkXceqpiasgdjqvVYc8NGOLvFtjMsxpKnjuIibCy31ZDepBcLnoUhldc-A-5HtG1fX4hjnfZhcqq3AvYfMryhrvdaLz6VNFtgTEEH4LB5rcMoc0CF5t52uV_l91enbt44xRux_QNMfx1pErg"
+    },
+    {
+      "position": 2,
+      "title": "Miss Portland Diner",
+      "place_id": "ChIJOaX49G2cskwRPkknpRl2hy0",
+      "data_id": "0x4cb29c6df4f8a539:0x2d877619a527493e",
+      "data_cid": "3280720706079770942",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6df4f8a539%3A0x2d877619a527493e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6df4f8a539%3A0x2d877619a527493e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6634926,
+        "longitude": -70.2632301
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOaX49G2cskwRPkknpRl2hy0",
+      "provider_id": "/g/1tgvd722",
+      "rating": 4.5,
+      "reviews": 1880,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Diner",
+      "types": [
+        "Diner",
+        "American restaurant",
+        "Bar",
+        "Breakfast restaurant"
+      ],
+      "type_id": "diner",
+      "type_ids": [
+        "diner",
+        "american_restaurant",
+        "bar",
+        "breakfast_restaurant"
+      ],
+      "address": "140 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 2\u202fPM",
+      "hours": "Open \u00b7 Closes 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20132\u202fPM",
+        "thursday": "7\u202fAM\u20132\u202fPM",
+        "friday": "7\u202fAM\u20132\u202fPM",
+        "saturday": "7\u202fAM\u20132:30\u202fPM",
+        "sunday": "7\u202fAM\u20132:30\u202fPM",
+        "monday": "7\u202fAM\u20132\u202fPM",
+        "tuesday": "7\u202fAM\u20132\u202fPM"
+      },
+      "phone": "(207) 210-6673",
+      "website": "http://www.missportlanddiner.com/",
+      "description": "Landmark diner with all-day breakfast. University-adjacent diner is a go-to for traditional comfort grub in a vintage dining-car space.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Quick bite",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Historic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": false
+      },
+      "user_review": "\"Great food served with a great smile at a good price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEhfmAmWUxpQiGpvwTDJJEHCoV73OxM6Y23T4JHsAwBrz4H_RAJN00a5JpnTik-JlKOYUvVfkTCmEIvjjzApaNLH2pQqpMH5ujyhMFb47kmpPflkdhgjUGWxhrRG5wKOnAp_Y=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Y-GRT3icHcRRboIwGADgE1U6AU2W-NApUusQJQXCk1EEKtD2lyIwD7g7eJsl-x6-96_oezCfltUKe1ZpXbXF0xRdrlVfqH6Wa2lVYFBukLEIjY48VZ4oJZFpPMHp7sMw8g1jHl3rZGmHU7DI5jZ3GDVk_OpeDj1HhB0wvrgMFL83iLX7MIuHpGz4Wnq7oa5fBC6HbzqH0wMC6j7rHxFsr86ykXAs2-Ymqjr200l0ke-O-1AROGer8QNjjMT_OVJ_LAJFGA"
+    },
+    {
+      "position": 3,
+      "title": "Mazzat Restaurant",
+      "place_id": "ChIJMw-Il2SbskwRj_3QQC2Fpj4",
+      "data_id": "0x4cb29b6497880f33:0x3ea6852d40d0fd8f",
+      "data_cid": "4514442105892961679",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b6497880f33%3A0x3ea6852d40d0fd8f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b6497880f33%3A0x3ea6852d40d0fd8f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6877345,
+        "longitude": -70.2938983
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMw-Il2SbskwRj_3QQC2Fpj4",
+      "provider_id": "/g/11rx3ntdqq",
+      "rating": 4.6,
+      "reviews": 296,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "11 Bishop St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20138\u202fPM",
+        "friday": "11\u202fAM\u20138\u202fPM",
+        "saturday": "11\u202fAM\u20138\u202fPM",
+        "sunday": "11\u202fAM\u20138\u202fPM",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 956-7695",
+      "website": "http://mazzatportland.com/",
+      "description": "Casual restaurant serving Mediterranean and Iraqi fare such as gyros and hummus.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFyeDNudGRxcRgAOgMI8A0%3D&g2lbs=AEzIGDvHAQdurmChXEkF6S-HW0UyxLJ1i4Zu-JGq2HZRNlR6eEIwFYB1o_oaQ429P9Ki9CtxgZQ0&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The presentation is lovely - great portion sizes and very reasonable prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDwHkWIwh82xlUeUTVnyS-Nixejy4JP7npVdVPVHqiXygjxTtHFxHHPjVqh3aut-wRFeXP5pLOYsDSDcRc57m-JckijuCVI0dvmXNyyJ8Hxz_pCurzo2cuowOIWE3rykEPLysiYw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_3LKWnicHcRdDoIgAADgE5GWtVpbDy1r6FoxM9Sn1oiJf0ACAd2wI3Sbtr6H7_thWku1DoKeRZNaiLqnRtGRCK4p1xMihqCWChAFVLCFGcqLPrawKxLLVjPXX-k1x9xfwKlxtPXzFC25xA-MMHw2pa9bl2t4cBCiFj9ZdDca2OxAS7SQx3Ol4ktMMrJYDiAlXdOaHU7Cx2soT96nK-jeN7kz41vMiBH2nBT7aPTdHh29aiq7sdMwDAH7TwD_AcT1SCU"
+    },
+    {
+      "position": 4,
+      "title": "Bread & Friends",
+      "place_id": "ChIJOQBxIUGdskwR8YJe326lLj8",
+      "data_id": "0x4cb29d4121710039:0x3f2ea56edf5e82f1",
+      "data_cid": "4552758168930648817",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d4121710039%3A0x3f2ea56edf5e82f1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d4121710039%3A0x3f2ea56edf5e82f1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6551828,
+        "longitude": -70.2569603
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOQBxIUGdskwR8YJe326lLj8",
+      "provider_id": "/g/11txhypp5z",
+      "rating": 4.6,
+      "reviews": 545,
+      "price": "$10\u201350",
+      "extracted_price": 10,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Bakery",
+        "Coffee shop"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "bakery",
+        "coffee_shop"
+      ],
+      "address": "505 Fore St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 2:30\u202fPM",
+      "hours": "Open \u00b7 Closes 2:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20132:30\u202fPM",
+        "thursday": "8\u202fAM\u20132:30\u202fPM, 5\u20139\u202fPM",
+        "friday": "8\u202fAM\u20132:30\u202fPM, 5\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20132:30\u202fPM, 5\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20132:30\u202fPM, 5\u20139\u202fPM",
+        "monday": "8\u202fAM\u20132:30\u202fPM",
+        "tuesday": "8\u202fAM\u20132:30\u202fPM"
+      },
+      "phone": "(207) 536-4399",
+      "website": "http://breadandfriendsmaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Healthy options",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/aJeMoCtEu9A?source=pa&opi=79508299&hl=en-US&gei=qGdOauTiE_mgwPAPhpzc8QI&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sK9BbbfNQB4Pejfap2jwj0dox8eTMfo8:2!2s1i:0,t:11886,p:K9BbbfNQB4Pejfap2jwj0dox8eTMfo8:2!7e81!12e5!17sK9BbbfNQB4Pejfap2jwj0dox8eTMfo8:87!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26gl%3Dus%26q%3Daffordable%2Brestaurants%2Bin%2BPortland,%2BME%26tbm%3Dmap%26hl%3Den",
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0eGh5cHA1ehgAOgMI8A0%3D&g2lbs=AEzIGDtTlXwQO1S_iBCTiFVb5TX1jm0eiBWVjbXwS3frtfI9iT6D4B39BStPQG1hkByzKpZnDU12&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"And if you dine in you get $1 off a loaf of bread\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1GglwJ2Blf-95Vur4YBClFgBrgiO4MVF3kAAHcPRLIjdd8VtStdZd9q4kpy-Kmhit-1NTWkbLxFZL9v-rXvaXwVVPec14ErpvLwhLOlgxtfx--2CtuzYuUDWvADMQ8Lo4mz8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0BwNdnicHczLcoIwFADQL7oCms6AM12AFF-xUrXxsWsDJkogNLk86gf6D_6NnW7O8jzuErG2Y8dRcjQQWguVNzY3XFeYVzjgunREbYFbsE4426S7feFNheoWw0idIXhhjSHHaKISERlxWZMVS0ZFGM54uqHza5b5DLeYnbLghxT1LyxLeUHw3v-ab9onJxq0YA7t16FjLM25R95M3dJO0rUSPZ57gOEEm9ux-Yz3bRivPnyqSXnzXzvPdV2Q_3KongZFRJ4"
+    },
+    {
+      "position": 5,
+      "title": "Po' Boys & Pickles",
+      "place_id": "ChIJ1eRMrQubskwRlGLQGPuHcwQ",
+      "data_id": "0x4cb29b0bad4ce4d5:0x47387fb18d06294",
+      "data_cid": "320749510996288148",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b0bad4ce4d5%3A0x47387fb18d06294&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b0bad4ce4d5%3A0x47387fb18d06294&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6856777,
+        "longitude": -70.2923129
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1eRMrQubskwRlGLQGPuHcwQ",
+      "provider_id": "/g/1tf15gtf",
+      "rating": 4.5,
+      "reviews": 1227,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Sandwich shop",
+      "types": [
+        "Sandwich shop",
+        "Cajun restaurant",
+        "Creole restaurant",
+        "Takeout Restaurant",
+        "Southern restaurant (US)"
+      ],
+      "type_id": "sandwich_shop",
+      "type_ids": [
+        "sandwich_shop",
+        "cajun_restaurant",
+        "creole_restaurant",
+        "meal_takeaway",
+        "southern_us_restaurant"
+      ],
+      "address": "1124 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20138\u202fPM",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 518-9735",
+      "website": "https://www.poboysandpickles.com/?utm_source=Google&utm_medium=MyBusiness",
+      "description": "New Orleans-style sandwich shop. Small, easygoing joint constructing oversized po' boy sandwiches along with other hearty Cajun eats.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great beer selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Quick bite",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRmMTVndGYYADoDCPAN&g2lbs=AEzIGDtoFyqGithqcI_euwgGJ1QPNzApe5i-gE3dXeej2Ze6VHNEKfwvSfM_buiYpqxtR6tLPx7p&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The meat is well cooked and is a very hearty portion for $13.00.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9HD7CPi7hbgo3-0m3AhiteG5lzE7442iVOopHY6M6tKQ_yUvSN7cvawolfuPFy9ip8-xqJVhNAg6xRS6krt7fV4CQAy4OExfnukF10rwe-6bo3-Mvwty56ta-NAlMzlxpTENQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VglRDnicHc3dboIwGADQJ6pUwVaX7KJxMLIFBHUsu1qkKS2xtpV-_PmCe4a9jctuzu35_VEAzj8FgVbhQlortei96Lg1IAwsuL0G0nnEPfIBSw_F6dNs0xe6K1qqamlDhK8hUy2I17W-xzSKVm21ty79IhmB9_J7_hiOOeXDebS66Ytk3rZug6bbW6VyJsl0OJJLB7Spol3J5mgfT43pL8kSd6NApP4LsmGEeU3gjHKms7ue3CnOy-dxiTFG6l-OzAMjy0SA"
+    },
+    {
+      "position": 6,
+      "title": "Rosie's Restaurant & Pub",
+      "place_id": "ChIJmU0Njz-cskwRfbuPqjbXD88",
+      "data_id": "0x4cb29c3f8f0d4d99:0xcf0fd736aa8fbb7d",
+      "data_cid": "14920380720291494781",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3f8f0d4d99%3A0xcf0fd736aa8fbb7d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3f8f0d4d99%3A0xcf0fd736aa8fbb7d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656958599999996,
+        "longitude": -70.2516143
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmU0Njz-cskwRfbuPqjbXD88",
+      "provider_id": "/g/1tcykn1m",
+      "rating": 4.1,
+      "reviews": 1091,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Bar & grill",
+      "types": [
+        "Bar & grill",
+        "American restaurant",
+        "Bar"
+      ],
+      "type_id": "bar_and_grill",
+      "type_ids": [
+        "bar_and_grill",
+        "american_restaurant",
+        "bar"
+      ],
+      "address": "330 Fore St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fAM",
+      "hours": "Open \u00b7 Closes 1\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20131\u202fAM",
+        "thursday": "11\u202fAM\u20131\u202fAM",
+        "friday": "11\u202fAM\u20131\u202fAM",
+        "saturday": "11\u202fAM\u20131\u202fAM",
+        "sunday": "11\u202fAM\u20131\u202fAM",
+        "monday": "11\u202fAM\u20131\u202fAM",
+        "tuesday": "11\u202fAM\u20131\u202fAM"
+      },
+      "phone": "(207) 772-5656",
+      "website": "https://www.rosies-oldport.com/",
+      "description": "Relaxed haunt with pub grub & draft beer. Laid-back hangout with exposed-brick walls offering 15 beers on tap plus burgers, pizza & wings.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Bar games",
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Vegan options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRjeWtuMW0YAjoDCPAN&g2lbs=AEzIGDu6Qwnq3hmsif7cfKrDwZ4p3prqPXUBtMqNMiKQn6NjSdbiprAUGGo-DJ8AOAnEL0iriUGf&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Great energy, tasty food & a big menu, cold drinks & reasonable prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlwq89ZdwoA1xbhBEYjaVnAAvkqy2TCXk4_YdyNadzyuNWoReE7s9rz2JL91_oT8c7v8i51UQX46WaMjD4-8QN8MBw-Fc8H4rzrPBxq_FBhehWAoTTbviDYNQGUMnYZrXD7-mYjug=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fHhOxHicHcRLjoIwAADQE1VAUcokLorgmMlAxNSBuiFQGipiKy0f4YYewduYzFu894t33UN_GUbDV4tKyqphvWaKStEx0S2ovBvVQwOqgTbQ4XTESTO20L2Uo0TWs-BeQOr8TyA03NppiXfpzc5IOUV5OU99lMgTCxztqnn58-tamcSQOgO8rq1znNqbJA9r3wYwjmDojWBP4cFWszp6zzbbe5zxBEmMi-Hqkyj-PoeCXFTqO-BO6r7ajpZpmoD_T4H4AA4jRU0"
+    },
+    {
+      "position": 7,
+      "title": "Tomaso's Canteen",
+      "place_id": "ChIJrfS-zUGcskwRPP5-QS3nCCY",
+      "data_id": "0x4cb29c41cdbef4ad:0x2608e72d417efe3c",
+      "data_cid": "2740694554813333052",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c41cdbef4ad%3A0x2608e72d417efe3c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c41cdbef4ad%3A0x2608e72d417efe3c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6598786,
+        "longitude": -70.2514667
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrfS-zUGcskwRPP5-QS3nCCY",
+      "provider_id": "/g/1tgfpqvw",
+      "rating": 4.6,
+      "reviews": 914,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Bar & grill",
+      "types": [
+        "Bar & grill"
+      ],
+      "type_id": "bar_and_grill",
+      "type_ids": [
+        "bar_and_grill"
+      ],
+      "address": "18 Hampshire St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fAM",
+      "hours": "Open \u00b7 Closes 1\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20131\u202fAM",
+        "thursday": "11\u202fAM\u20131\u202fAM",
+        "friday": "11\u202fAM\u20131\u202fAM",
+        "saturday": "10\u202fAM\u20131\u202fAM",
+        "sunday": "10\u202fAM\u20131\u202fAM",
+        "monday": "11\u202fAM\u20131\u202fAM",
+        "tuesday": "11\u202fAM\u20131\u202fAM"
+      },
+      "phone": "(207) 536-1285",
+      "website": "http://tomasoscanteen.com/",
+      "description": "Cozy neighborhood bar with local beer. Compact, down-to-earth neighborhood bar offering a variety of local brews, pub grub & brunch.",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Serves local specialty",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Good food, cheap drinks, good vibes!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSSZJfEGHKXsrZZEFOQRhS26qlSTpLEm3QwZz53edlvlt2QkLwuBXkyoPF4dKoKyhsVr1uzE1DA66AY1oYSvPtp2Ko-ftGpbK0_LQ96nMl3lIXB0jrNInEIicIGnyNErYG6dUi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/C5SBBnicHcRRboIwAADQE1UKbE1csg-MBbGoYNUBP0ssSNXadm2R4AU9g7cx2ft4ryd3TtsvzxM8nHRKdaLtbWuYkq6VbsLUzeu0BcwC60WLbb77EZTWyxNOFqS0pq5xvCm2nAboT9CdzvAtLIb68Rm2jbgLFxTXbOhn5XVUefzREEVGbg_G7x_Yn0cIRZWvKnrPnQ6IAieX6COBv1kxRXIlQpGWM3gx61Ti9MzSRI5rbKoENfvz9-BDCAH_nwH5Bn97RM8"
+    },
+    {
+      "position": 8,
+      "title": "Black Cow Burgers & Fries",
+      "place_id": "ChIJvT6VtWqcskwRO-m7BW0I5JU",
+      "data_id": "0x4cb29c6ab5953ebd:0x95e4086d05bbe93b",
+      "data_cid": "10800767070681950523",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6ab5953ebd%3A0x95e4086d05bbe93b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6ab5953ebd%3A0x95e4086d05bbe93b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6582022,
+        "longitude": -70.2551332
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvT6VtWqcskwRO-m7BW0I5JU",
+      "provider_id": "/g/11f53s4ksb",
+      "rating": 4.4,
+      "reviews": 1000,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Hamburger restaurant",
+      "types": [
+        "Hamburger restaurant",
+        "Bar"
+      ],
+      "type_id": "hamburger_restaurant",
+      "type_ids": [
+        "hamburger_restaurant",
+        "bar"
+      ],
+      "address": "83 Exchange St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201311\u202fPM",
+        "thursday": "11\u202fAM\u201311\u202fPM",
+        "friday": "11\u202fAM\u201312\u202fAM",
+        "saturday": "11\u202fAM\u201312\u202fAM",
+        "sunday": "11\u202fAM\u201311\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 772-7774",
+      "website": "http://blackcowburgers.com/",
+      "description": "Hip, airy hub for burgers & cocktails. Trendy, spacious restaurant serving burgers & comfort side dishes, plus sodas, shakes & cocktails.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Organic dishes",
+            "Private dining room",
+            "Quick bite",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFmNTNzNGtzYhgAOgMI8A0%3D&g2lbs=AEzIGDtiPvFQSDBC9zUntBc_rmLEFonIKVdStZ5InUQIehJ_CawkFfEqwqCM1K2JSQuFvq_-yqFt&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Food is inexpensive and service is fast and friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB0JQvDMzhcvR-s95yDI2mLqu4ST88TI1aKMjUyK4v4Yf2wuRNmCzSfVKyMh4cvvVeAi1yHruETGYwmOdlQmF7zzjIaYPfzfp7FShD0RgLWPRX2SwZl8GsefrjIsOOnpv_WPWp=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CoSyvnicHcRdToMwAADgExUKsoAmPqAMRGD8OsZeFlJbKlKoFEroBT3DbmPi9_Ddf-mycPGk6wN90Lpp6ga8CjyjaVzwuGhoYnrHBUACCN3NTvm3e3yB77n0EkWRLIB4POxeaLL4Z7XKynGq0GijpP_YI0taDTG3tTixV1WSc7Qn1EJSnrH7Zexv83qsgmZj6eeQM99Wqg_bJiOKcNsvqQeLLq6z4mKW23VwAoHJ3IciTUcub3VW8-fNgBAC-j8C4x90FkXG"
+    },
+    {
+      "position": 9,
+      "title": "Quiero Cafe",
+      "place_id": "ChIJ8yB_rD2dskwR43Qw06eALz4",
+      "data_id": "0x4cb29d3dac7f20f3:0x3e2f80a7d33074e3",
+      "data_cid": "4480941612547994851",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d3dac7f20f3%3A0x3e2f80a7d33074e3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d3dac7f20f3%3A0x3e2f80a7d33074e3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.654131899999996,
+        "longitude": -70.2722325
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8yB_rD2dskwR43Qw06eALz4",
+      "provider_id": "/g/11h79njvkq",
+      "rating": 4.7,
+      "reviews": 581,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Latin American restaurant",
+      "types": [
+        "Latin American restaurant",
+        "Cafe"
+      ],
+      "type_id": "latin_american_restaurant",
+      "type_ids": [
+        "latin_american_restaurant",
+        "cafe"
+      ],
+      "address": "3 Deering Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20138\u202fPM",
+        "friday": "11\u202fAM\u20138\u202fPM",
+        "saturday": "11\u202fAM\u20138\u202fPM",
+        "sunday": "11\u202fAM\u20138\u202fPM",
+        "monday": "11\u202fAM\u20132\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 536-7033",
+      "website": "https://www.quierocafe.online/",
+      "description": "Casual hangout for Latin American fare. Relaxed eatery dishing up classic Latin American dishes, plus sandwiches, cocktails & desserts.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoNzluanZrcRgAOgMI8A0%3D&g2lbs=AEzIGDvMT93OAY_0MitkyHBMv2JWA91WHHZEJfqThDrGGNW_-qHuV0Fx-5n6sonKFXOcojn3HHoN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The food was delicious, it was reasonably priced, and the service was great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6kRBIpbObMTGFHdBVRQgHHN93GOWQEiNNuu_PzBQ_Wk1LxSP_WY1yhdfj2n02_Lz-ZXCayD9qI0VCppbU0LtRChNMM15ya3xMo9U6K6KwUjaaZYkqO0ztkXI6-vHT6KvTBiZXt-gW2aBc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4p4c-XicHcTNboIwAADgJ6oUyJqwZAfLJhD-GQhyIaViq3UU16LCS-68t1my7_D9_nCtJ_VqGFdub5iU7DrMavimctTDqDdUfhlsUoAqoIxtluRi6yFR4GDq0z4uvZ1_xPsiZ76fOLaX1vnHOUnmuctWnHe1MKPnZ9bVB3Phx9PFGqHVRStoG5cs784tgHt3mvoKRrpweRLH5stC7GcsnQqFKHxUF0Lag7ilcNWiCRC4-yUK7yU-t40GrLYIpm8PE0II-P8UjH8oWkYu"
+    },
+    {
+      "position": 10,
+      "title": "Market Street Eats",
+      "place_id": "ChIJAblqkz-cskwRFkOOMSAnX3Q",
+      "data_id": "0x4cb29c3f936ab901:0x745f2720318e4316",
+      "data_cid": "8385464050410996502",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3f936ab901%3A0x745f2720318e4316&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3f936ab901%3A0x745f2720318e4316&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6569161,
+        "longitude": -70.25315909999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAblqkz-cskwRFkOOMSAnX3Q",
+      "provider_id": "/g/1tzgj70z",
+      "rating": 4.8,
+      "reviews": 358,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Sandwich shop",
+      "types": [
+        "Sandwich shop",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Brunch restaurant",
+        "Catering food and drink supplier",
+        "Fast food restaurant",
+        "Takeout Restaurant",
+        "Restaurant"
+      ],
+      "type_id": "sandwich_shop",
+      "type_ids": [
+        "sandwich_shop",
+        "american_restaurant",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "catering_food_and_drink_supplies",
+        "fast_food_restaurant",
+        "meal_takeaway",
+        "restaurant"
+      ],
+      "address": "36 Market St Ste 1, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 2\u202fPM",
+      "hours": "Open \u00b7 Closes 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20132\u202fPM",
+        "thursday": "9\u202fAM\u20132\u202fPM",
+        "friday": "9\u202fAM\u20132\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20132\u202fPM",
+        "tuesday": "9\u202fAM\u20132\u202fPM"
+      },
+      "phone": "(207) 773-3135",
+      "website": "http://mktstreeteats.com/",
+      "description": "Wraps & salads in an upbeat cafe. Counter-serve cafe offering wraps (including breakfast varieties) & salads amid cheery decor.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Catering",
+            "Counter service",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXR6Z2o3MHoYADoDCPAN&g2lbs=AEzIGDs1YoH2ICt6U9nHbzcO19j-yaOLIS1c9cngDXem__7W6PHYdo1MMY7fLBpB3TZvTZtagSN6&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Really reasonable prices too.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7-D_qTbiInDgf_RoiQBZqPvnhg2OPYNuJEqXjMi1fCTe0kyOreaGFfvuXkWYNEnKQg8uOziqRsKQIp4vlUYHtoBqHN9yy6lar4hLgGoKGnABs-ZXElZ3W6CtFBBSlsr27Sl0h=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yeWUq3icHcRJDoIwAADAF1XqErfEg1UERdnEsFyMktIitaW0YPCDvsHfmDiH-X6o1rVaGgaj4wERgjDcKtzkgmvM9SAXT4PUCuQKKGNth34UVzOwvcroXu75lhTXUJQByqTfcUpGnp-67cGUyeNUDotNhGHVew2-Wbuia5MqTl2TOwGZt967lKFygn096dgltbVA0nYXfT9lt2ZCj8QSjsXXSIEsMVk2jqcbvUPozFQzmp0ZpKvXEEII6P8c8B_qhEXE"
+    },
+    {
+      "position": 11,
+      "title": "Dutch's",
+      "place_id": "ChIJ29cDoBScskwR7CK926Xd8A8",
+      "data_id": "0x4cb29c14a003d7db:0xff0dda5dbbd22ec",
+      "data_cid": "1148661609405424364",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14a003d7db%3A0xff0dda5dbbd22ec&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14a003d7db%3A0xff0dda5dbbd22ec&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6578085,
+        "longitude": -70.2605926
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ29cDoBScskwR7CK926Xd8A8",
+      "provider_id": "/g/11b6jb85vm",
+      "rating": 4.6,
+      "reviews": 764,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Breakfast restaurant",
+      "types": [
+        "Breakfast restaurant"
+      ],
+      "type_id": "breakfast_restaurant",
+      "type_ids": [
+        "breakfast_restaurant"
+      ],
+      "address": "28 Preble St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 2\u202fPM",
+      "hours": "Open \u00b7 Closes 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20132\u202fPM",
+        "thursday": "8\u202fAM\u20132\u202fPM",
+        "friday": "8\u202fAM\u20132\u202fPM",
+        "saturday": "8\u202fAM\u20132\u202fPM",
+        "sunday": "8\u202fAM\u20132\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 761-2900",
+      "website": "http://www.dutchsportland.com/",
+      "description": "Chill eatery for creative daytime dishes. Bright, counter-serve fixture preparing made-to-order breakfast & lunch standards with a twist.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Quick bite",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiNmpiODV2bRgCOgMI8A0%3D&g2lbs=AEzIGDvSGJB52bXCpAxGPXr0a3_z6yR6-UnWJsI4S6fYkm6jI3IDvo5dR3nPgMgc5HGZ1H9AT81v&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The prices were a little steeper than expected but the food was phenomenal.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHr1HVQfT3Ggz9LN0MWN9Gf674owmS_-I131ElhuO-i_HU0SbdCE0S6X-2DSCHqYKN9HqwR9sTpXzltUPjQDqW080k6nr8nVCbFwwK1spwObnFEsRoCx9ku8U1e1Wfb6jDv41klIw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QZPJJnicHcRJDoIwAADAF1VaMUhNPBgWS1AUkcUTCcii1BZoscYf-gR_Y-Ic5vtppezFStNoq88azhtaTaIaS85kxeSs5A-t6QUoBRDa5hiE3YaMiCRhfda3zRvvArhPA7ytjeWCq0eUAw_pyKHtdAC3nMQwKq6WAyMjA3M7sshw8QNMBnXC4txnbyrj4z20hxSasDPYaLLEKlylfCR6dSiY64gTt164m8wYVSitC-NuPxeoo55aKwQhBO3_ErAfC1JDnA"
+    },
+    {
+      "position": 12,
+      "title": "Tu Casa",
+      "place_id": "ChIJofYC82icskwRvMBukYqQSco",
+      "data_id": "0x4cb29c68f302f6a1:0xca49908a916ec0bc",
+      "data_cid": "14576340593781162172",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c68f302f6a1%3A0xca49908a916ec0bc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c68f302f6a1%3A0xca49908a916ec0bc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6655065,
+        "longitude": -70.2524312
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJofYC82icskwRvMBukYqQSco",
+      "provider_id": "/g/1w3466cm",
+      "rating": 4.5,
+      "reviews": 343,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Salvadoran restaurant",
+      "types": [
+        "Salvadoran restaurant"
+      ],
+      "type_id": "salvadoran_restaurant",
+      "type_ids": [
+        "salvadoran_restaurant"
+      ],
+      "address": "70 Washington Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20137:30\u202fPM",
+        "friday": "11\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "11\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 536-0016",
+      "website": "http://www.online.tucasarestaurantes.com/",
+      "description": "Casual choice for Salvadoran specialties. Down-to-earth establishment with a warm feel doling out traditional, family-style Salvadoran dishes.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Indigenous-owned",
+            "Identifies as Latino-owned",
+            "Identifies as veteran-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Rooftop seating",
+            "Serves local specialty",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Healthy options",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXczNDY2Y20YADoDCPAN&g2lbs=AEzIGDtjDRXYTCz2uwBz6WvZupFzJxGPlS-Te4xYnQkNU1pZq4zg3UYGByndI-dHzvWLOALZSGmz&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Great value as well for the quality and quantity.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRw58zNu7i4CVz6mNh5O6-2pzvtJn39SBJXl0bAakL3rXsbfYuS4NaNm9IYyEgudRmXw0HLaQ_65oQwHb5bR0DS0RaKjZF_RoK3dWqWD5OgmuAsI_wwA3hhENTGjgbSCKY5Npg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GTnNd3icHcRRboIwAADQE1XqSlGX-NGpG4qpoywT9kMoslallNnWRi7oGXYbE9_H-79La3vzGgStRCOhtWgbZ5pLrTvbdHZUaxWI3oDaABOQT5qeScw8ng7UTY7h4nuIFJV4F4GXfrjaTYdm2dsmbyEn1XmLLrnhv4XLQlpRNVsXt5VwB6ZyD-NtlZYR1qmPOeYMLjPIquT0814ynaDD_m-_xDuhHDHr0nuCpFzRr4-T4NkiKTDtxdyPIYRAPq9B9wAeQUQY"
+    },
+    {
+      "position": 13,
+      "title": "Punky's",
+      "place_id": "ChIJwXKZs4ybskwRGwsofrPS-iM",
+      "data_id": "0x4cb29b8cb39972c1:0x23fad2b37e280b1b",
+      "data_cid": "2592616203862674203",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8cb39972c1%3A0x23fad2b37e280b1b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8cb39972c1%3A0x23fad2b37e280b1b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6631892,
+        "longitude": -70.2851065
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwXKZs4ybskwRGwsofrPS-iM",
+      "provider_id": "/g/1v3drqzj",
+      "rating": 4.5,
+      "reviews": 360,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "unclaimed_listing": true,
+      "type": "Sandwich shop",
+      "types": [
+        "Sandwich shop",
+        "Breakfast restaurant"
+      ],
+      "type_id": "sandwich_shop",
+      "type_ids": [
+        "sandwich_shop",
+        "breakfast_restaurant"
+      ],
+      "address": "186 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fPM",
+      "hours": "Open \u00b7 Closes 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20133\u202fPM",
+        "thursday": "6\u202fAM\u20133\u202fPM",
+        "friday": "6\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "6\u202fAM\u20136\u202fPM",
+        "tuesday": "6\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(207) 773-8885",
+      "website": "https://www.facebook.com/Punkys-108199309221370/",
+      "description": "Casual cafe for sandwiches & hot entrees. Relaxed outfit offering American hot & cold sandwiches & prepared mains like tuna casserole.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Absolutely wonderful owners, great food for a great price!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGAz3fBHBFRIz9nIHxxKdI93VxYjHU-CqycxCLUicxGdIHIZxmgqnUZKrzCwhIjL4U0Eh8YT-5qyARiqpRgZ7VmwzVBJwdhQrF_QC4Cd-XsleJ-vfYwfi8UbjbN0oj8FZpzAE79=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TebZ4XicHcRRboIwAADQE1VqcBFM_CiNSNWYQSwZ_CyxQAuDFiiztRf0DLvNEt_H-3uJZRn1zvN64a-4Uryvf3U9MyWXWi4rpgaPjxowDbSHPq_pDzoi5zdREsUZcaEkibXnioR-bosuoQBPT2bxhbbMHiuSkNIOfJK0PM8OG0G6y4bCgwiKG_iYnihrpzHj5TYfjMujk6lEOsffKd7gCnzpvj6BR1OYpg3ovbtfoeqCuBwdOmzDvVlDCIF4z4D8B43lRT8"
+    },
+    {
+      "position": 14,
+      "title": "Marcy's Diner",
+      "place_id": "ChIJBwhYFxScskwRwsg9crVSsx0",
+      "data_id": "0x4cb29c1417580807:0x1db352b5723dc8c2",
+      "data_cid": "2140145187190327490",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1417580807%3A0x1db352b5723dc8c2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1417580807%3A0x1db352b5723dc8c2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6550377,
+        "longitude": -70.2612867
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBwhYFxScskwRwsg9crVSsx0",
+      "provider_id": "/g/1w0p56ww",
+      "rating": 4.3,
+      "reviews": 1222,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Diner",
+      "types": [
+        "Diner",
+        "American restaurant",
+        "Bakery",
+        "Breakfast restaurant",
+        "Brunch restaurant",
+        "Caterer",
+        "Takeout Restaurant",
+        "Restaurant",
+        "Sandwich shop"
+      ],
+      "type_id": "diner",
+      "type_ids": [
+        "diner",
+        "american_restaurant",
+        "bakery",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "catering_service",
+        "meal_takeaway",
+        "restaurant",
+        "sandwich_shop"
+      ],
+      "address": "47 Oak St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20131\u202fPM",
+        "thursday": "7\u202fAM\u20131\u202fPM",
+        "friday": "7\u202fAM\u20131\u202fPM",
+        "saturday": "7\u202fAM\u20131\u202fPM",
+        "sunday": "7\u202fAM\u20131\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 774-9713",
+      "website": "http://marcysdiner.com/",
+      "description": "Snug diner popular for breakfast. Cozy nook with a few counter stools & booths is a local mainstay for its homey American breakfasts.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"For the price, the experience and the amount of food this place is a steal!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKEVBJgDFB27Agxl5sKCafQhOPd34RKpR_Bf5FMZ8HG3jBrvWQdCNmEQpXMyanFieGelHL06E2VhxioxoCEaPx0RbP4G979Itr1ixhFBEI3mNXGkbj2CgaOWZ5QDexPv04MADp=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zTeR9HicHcTLsoIgAADQLzLJR6-ZFqJgZRq4qKZNY0ZgqTBCRV_YN9y_uTOdxfn7CmOUXrhuK_wRl5K37KnZUMvesN6Matm5XGmn1o52I1LQR4QztIcbnmDoTSNu21BncXWjYkeuflBmqjzDW4jz02yV-nc4vA70GhcdouqYf6oeNyxl7WoLJsjbC9tIK2NUEQvKCwnS-XS-NsO4sQJDtPa74pg-Lncv5tXucAppwix5gSCPErV8jwEAjvhdO_0_vEdC4w"
+    },
+    {
+      "position": 15,
+      "title": "Ruski's Tavern",
+      "place_id": "ChIJ8wBGqxmcskwRS5NtUoTN_s4",
+      "data_id": "0x4cb29c19ab4600f3:0xcefecd84526d934b",
+      "data_cid": "14915584984099951435",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c19ab4600f3%3A0xcefecd84526d934b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c19ab4600f3%3A0xcefecd84526d934b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6480738,
+        "longitude": -70.2642611
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8wBGqxmcskwRS5NtUoTN_s4",
+      "provider_id": "/g/1tdd4w9k",
+      "rating": 4.6,
+      "reviews": 670,
+      "price": "$10\u201330",
+      "extracted_price": 10,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Bar & grill",
+        "Brunch restaurant",
+        "Bar"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "bar_and_grill",
+        "brunch_restaurant",
+        "bar"
+      ],
+      "address": "212 Danforth St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201311\u202fPM",
+        "thursday": "8\u202fAM\u201311\u202fPM",
+        "friday": "8\u202fAM\u201311\u202fPM",
+        "saturday": "8\u202fAM\u201311\u202fPM",
+        "sunday": "8\u202fAM\u201311\u202fPM",
+        "monday": "8\u202fAM\u201311\u202fPM",
+        "tuesday": "8\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 774-7604",
+      "website": "https://ruskisportland.com/",
+      "description": "Watering hole & diner since 1892. Open since 1892, a traditional pub & American diner in a wood-panelled building.",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"I had the lobster stew and it was spectacular especially for the price!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEy55QU3jBLJ1ZdBLfwADGpY2Db-pFD-snTz2EXqoGovN0ZbCa_vtdQt-ltreBaBQTFCCuLGa6sLTMb8GaCO6Q7iblQxdv3Z3SbMYrU-Lwb0-17-P7Btl8FPAPItvgoVfQE9bv3ow=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YeS1yHicHcTbToMwGADgJ_pHWbPBlnhBOUXTbTQyI9wYylHtKKP_ivqGewTfxsTv4vu9D4iT2TuOGuiq17pX7c20c61HbEdc1fri9JOB2oBxguwoPoP4e7MRZ_rB-JNbNox3SxClU7GOJExJBGbMf9bx61Wn2h5JKcPqzWIjEBTOLauYyJMwvPG02hqeH6SfVuFpK7x3qcRXY2lJn-WhmM_AF0nA9SDzGCo_yYLsEW2vXzoR76SlenlYXEIIDP_XMP4BazBD9A"
+    },
+    {
+      "position": 16,
+      "title": "Dinas Cuisine",
+      "place_id": "ChIJDT-6VmWbskwR8JfR0faafHU",
+      "data_id": "0x4cb29b6556ba3f0d:0x757c9af6d1d197f0",
+      "data_cid": "8465811784422496240",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b6556ba3f0d%3A0x757c9af6d1d197f0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b6556ba3f0d%3A0x757c9af6d1d197f0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.676770499999996,
+        "longitude": -70.28695069999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDT-6VmWbskwR8JfR0faafHU",
+      "provider_id": "/g/11p4zwvsx6",
+      "rating": 4.7,
+      "reviews": 578,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Middle Eastern restaurant",
+      "types": [
+        "Middle Eastern restaurant",
+        "Fast food restaurant",
+        "Halal restaurant",
+        "Mediterranean restaurant"
+      ],
+      "type_id": "middle_eastern_restaurant",
+      "type_ids": [
+        "middle_eastern_restaurant",
+        "fast_food_restaurant",
+        "halal_restaurant",
+        "mediterranean_restaurant"
+      ],
+      "address": "845R Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20138\u202fPM",
+        "friday": "11\u202fAM\u20138\u202fPM",
+        "saturday": "11\u202fAM\u20138\u202fPM",
+        "sunday": "11\u202fAM\u20138\u202fPM",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 956-7211",
+      "website": "https://dinasorders.square.site/#2",
+      "description": "Casually styled eatery dishing up kebabs, falafel, shawarma, gyros and other Middle Eastern eats including salads, sandwiches and soups.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"Delicious food, friendly staff, and really great prices!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHQLcdOTXQhaM3qIvZynP2ELqp3dF9ydmNB3ByU1UvPQoRbBp3uwLiusKMFHlx_PXxEoahDXWd74dhuSbljcZYIeBQqDXHxE8c-a86F1kDRi5jxZhVQowUtd1bICXfYmcG2y1P=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fV1TEnicHcRLcoIwAADQE0WIqb_OdCECwog0saWNbBxIkIBAoAm_E3qG3qYzfYv3-xRat-rVMCqBFrmUeZX1KvthstFZoxdM1kbeKsAUUMYeh-SxP3okYPz9kxKRnFHnD_Hc4KUTdC3i7m7mdWgha45gNGAiL6nVon4Mil6dzq5XTTdMJ0cmwqbffPPCRf-RViWLr35mkc6m3uRsGUi2axc-7EuxKqdYfBE5RprD1D_Q-7Vmx-UM8dsITdME4n8Gmj-XpUUx"
+    },
+    {
+      "position": 17,
+      "title": "The Frying Dutchman",
+      "place_id": "ChIJNTnmWNWdskwRCBEzQwQrcqw",
+      "data_id": "0x4cb29dd558e63935:0xac722b0443331108",
+      "data_cid": "12426041619175903496",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dd558e63935%3A0xac722b0443331108&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dd558e63935%3A0xac722b0443331108&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656948899999996,
+        "longitude": -70.259075
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNTnmWNWdskwRCBEzQwQrcqw",
+      "provider_id": "/g/11pdyj2tks",
+      "rating": 4.9,
+      "reviews": 41,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "28 Monument Sq Second Floor, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Temporarily closed",
+      "hours": "Temporarily closed",
+      "website": "https://www.instagram.com/fryingdutchmanportland/?hl=en",
+      "description": "Market eatery serving global street food including fried chicken, mapo poutine, and cheese corn dogs.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Happy hour food",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        }
+      ],
+      "service_options": {
+        "no_contact_delivery": true,
+        "delivery": true,
+        "takeout": true,
+        "dine_in": true
+      },
+      "user_review": "\"Also very reasonably priced and affordable, even the seafood.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG5WuUNCzNXCUPDSFv8Ap3v4RZQQ42LWVkrqv9udK68p5dz7CSw4jTwGcRDJHb7o91JabkFeq8-ZIJ1WSLJ8fqs4H8Jz1BU7bl4xrTWENehoqc8FhCXaeKHsCEHdoeCfOYdw9m-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XvON8HicHcRJDoIwAADAF1VAixQTD1hFrAZlE_UmpdIIUqAshg_6Bn9j4hzm--FtW8mFohR8NsmEyArWSdZQUbasbCdUvJSskoBKIBXr5Hq5tdXjLnLx6F5wdFoHdo-satZD_-Z5cHqIz3lT92aX7ueo0tPRwMEAn-Gwpf6aOIkhTI3ck9xmNQK3HdHi4EDQo5bQQWTUVpGRFPDdhPHGZVzUFNkcX-5s70i8cVLB8ON4TQfzBZaDpqoq4P8pKH_OyUM_"
+    },
+    {
+      "position": 18,
+      "title": "Wayside Tavern",
+      "place_id": "ChIJLdmnUHudskwRi5_1ENX7g5M",
+      "data_id": "0x4cb29d7b50a7d92d:0x9383fbd510f59f8b",
+      "data_cid": "10629616438055640971",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d7b50a7d92d%3A0x9383fbd510f59f8b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d7b50a7d92d%3A0x9383fbd510f59f8b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6535143,
+        "longitude": -70.2705404
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLdmnUHudskwRi5_1ENX7g5M",
+      "provider_id": "/g/11nxsbp58s",
+      "rating": 4.8,
+      "reviews": 242,
+      "price": "$70\u201380",
+      "extracted_price": 70,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "747 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM Thu",
+      "hours": "Closed \u00b7 Opens 4\u202fPM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "4\u20139\u202fPM",
+        "friday": "4\u20139:30\u202fPM",
+        "saturday": "4\u20139:30\u202fPM",
+        "sunday": "4\u20139\u202fPM",
+        "monday": "4\u20139\u202fPM",
+        "tuesday": "4\u20139\u202fPM"
+      },
+      "phone": "(207) 613-9568",
+      "website": "http://waysidetavernmaine.com/",
+      "description": "Cozy tavern featuring delicious pasta, steak and seafood fare, a wine list and a beer program.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Fireplace",
+            "Great beer selection",
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/huwtafcPZWY?source=pa&opi=79508299&hl=en-US&gei=qGdOauTiE_mgwPAPhpzc8QI&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sK9BbbfNQB4Pejfap2jwj0dox8eTMfo8:2!2s1i:0,t:11886,p:K9BbbfNQB4Pejfap2jwj0dox8eTMfo8:2!7e81!12e5!17sK9BbbfNQB4Pejfap2jwj0dox8eTMfo8:87!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26gl%3Dus%26q%3Daffordable%2Brestaurants%2Bin%2BPortland,%2BME%26tbm%3Dmap%26hl%3Den",
+      "user_review": "\"Mondays at Wayside are the best with $10 burgers and Tara running the bar!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXjxiKVdZKPLrmLQOL6r_LPfejq6qz4S8Dy4kqKLMVsQ-_pnKnb-uTq6sHmlhd0Um3aIrOuMICCIc6htfr0emhopQVlYDoEGtAGPnojU8G0xiDNaCRwV0gqwIaU2h89UZ0LIlm=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XQcG5HicHcTbboIwAADQL6rUSQgu2QMBxYaqMIVsvhgshYq90AvB-YN-w_7GxPNw_p_MucF-eh5ni1mnVMfpaKkhSjoq3Ywo4XWDBcQC60X5rrhF65_-fs2q5pTl2Ahc7HFgzjhvaa8D_fAPYfLn33SGt5UtwHmQmbyA8agDuxGcNbAUixqZ_bhFcYxIwFxrIBVMDUXFfxO1Sl2U5lL1ZZjC-zXZ1fH3VMFOT6guP1i4LE8QIy6-pjmEELD3BMgXwDNFbA"
+    },
+    {
+      "position": 19,
+      "title": "The Outpost",
+      "place_id": "ChIJRbZYKACdskwRWrykEYEMeMQ",
+      "data_id": "0x4cb29d002858b645:0xc4780c8111a4bc5a",
+      "data_cid": "14157079177125477466",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d002858b645%3A0xc4780c8111a4bc5a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d002858b645%3A0xc4780c8111a4bc5a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6644905,
+        "longitude": -70.2518931
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRbZYKACdskwRWrykEYEMeMQ",
+      "provider_id": "/g/11xfvpgzqb",
+      "rating": 4.9,
+      "reviews": 20,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "34 Washington Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 560-7350",
+      "website": "https://www.terlingua-outpost.me/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Quick bite",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Locals",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4ZnZwZ3pxYhgAOgMI8A0%3D&g2lbs=AEzIGDvETLWrk4uriKI7GGHUb7m4yTfovG-1dnXNY63Fa5az0RboT6LiLM9sKCkpZq1usH1qD-oT&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The ribs are available at the outlet.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHE-KyW_naplvX-iFJJCtH0qLN1ZadYhKp1MHuSBEIx_myAjcu1HSiWhlmH2rvYotKXfGxH0EpDUiai38DNSXbiZc2bPsQEqHoRpmV4Rh4gSU6uBPBBU_t6Cfn6vqV3dzMAUtLXg_2luvlU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Pyaro3icHcRLjoIwAADQE1UKGGJMXIAy0xElKKmiG4IV22ppi23xc0nXc5tJ5i3e74dZq83U8wQLR1QpKlpn2jtR0rbSjojqPKoNIAYYLy7yzS1GKche-1o2WgwV4F_L5dwi2K9y_9icDyzT_hq5Mkl_nnX3iq_E-ajkeyY6FNyHg7JZdfl-IpjqBeYNDyeLvKxO_EiCU2E2aY_UVne78ZaNaYkjlxRJgmsbzS8yGvpdeH6vY2xXFa0D4QaBZw8fQgjY_wTIP83oSBc"
+    },
+    {
+      "position": 20,
+      "title": "Ironclad Eats",
+      "place_id": "ChIJL5PnnuWdskwRgQb9QCiOKwQ",
+      "data_id": "0x4cb29de59ee7932f:0x42b8e2840fd0681",
+      "data_cid": "300490103690430081",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29de59ee7932f%3A0x42b8e2840fd0681&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29de59ee7932f%3A0x42b8e2840fd0681&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6629964,
+        "longitude": -70.2568775
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL5PnnuWdskwRgQb9QCiOKwQ",
+      "provider_id": "/g/11rd9g53jr",
+      "rating": 4.9,
+      "reviews": 44,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "Multiple Locations, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 3\u202fPM Fri",
+      "hours": "Closed \u00b7 Opens 3\u202fPM Fri",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "3\u20138\u202fPM",
+        "saturday": "1\u20137\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "Closed",
+        "tuesday": "3\u20137:30\u202fPM"
+      },
+      "phone": "(207) 200-7265",
+      "website": "http://www.ironcladeats.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "All you can eat",
+            "Comfort food",
+            "Happy hour food",
+            "Late-night food",
+            "Quick bite",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFyZDlnNTNqchgAOgMI8A0%3D&g2lbs=AEzIGDsI-w6c37AwyXDDw_WfAN8PvaLx1te0Wd4bCGiz-hLsDYuK-sBfECqeSPKF1vpsuoQxmw72&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=qGdOauTiE_mgwPAPhpzc8QI&ei=qGdOauTiE_mgwPAPhpzc8QI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The chop cheese tacos literally changed my life.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHagH2efMXgKu19sr9wPG9VqpgRMvMuOv2LgribHopZhyu9fF_NNob1Am-WqDXcECbng6df_eeVwj_LRZtdbC3_lEqHIY3VNAEm_lQYOd2WO25qncd7g1pxVxVg_9-gry72ZsE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jRk7wHicHcRRDoIgGADgE5GKq0ZbD64sW6nVA5UvLBF_KwUUzLpgd-g2bX0P3_dTWavNzHHqyh-BUlCL3oiOK2mFtCOuGge0Qdwg4wT75PAIoitEWJTxGba9R0xHhv2a0FbDMX7GffrEO-hueaR0Vr17Uq5YkqjcCxp0apdnHi5yCZOiZELQ4c52x8wW-cJnddhGm4tPkyBsWH24pAU-pXjcSl5MwdMv-qLACILuPcWZCeeD57ouqv5zJH-CAkVE"
+    }
+  ]
+}

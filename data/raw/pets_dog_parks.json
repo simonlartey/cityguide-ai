@@ -1,0 +1,1085 @@
+{
+  "search_metadata": {
+    "id": "6a4e6869fdfbab0366690b75",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KYUYVefbVY-Acst0fB1BvQ/6a4e6869fdfbab0366690b75.json",
+    "created_at": "2026-07-08 15:10:33 UTC",
+    "processed_at": "2026-07-08 15:10:33 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/dog+parks+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/KYUYVefbVY-Acst0fB1BvQ/6a4e6869fdfbab0366690b75.html",
+    "prettify_html_file": "https://serpapi.com/searches/KYUYVefbVY-Acst0fB1BvQ/6a4e6869fdfbab0366690b75.prettify",
+    "total_time_taken": 1.29
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "dog parks in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "dog parks in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Quarry Run Dog Park",
+      "place_id": "ChIJd_1KWVybskwRfe-mSra7bvg",
+      "data_id": "0x4cb29b5c594afd77:0xf86ebbb64aa6ef7d",
+      "data_cid": "17901451960455196541",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b5c594afd77%3A0xf86ebbb64aa6ef7d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b5c594afd77%3A0xf86ebbb64aa6ef7d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7005181,
+        "longitude": -70.262112
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd_1KWVybskwRfe-mSra7bvg",
+      "provider_id": "/g/1tq6jp8q",
+      "rating": 4.7,
+      "reviews": 475,
+      "unclaimed_listing": true,
+      "type": "Dog park",
+      "types": [
+        "Dog park",
+        "Tourist attraction"
+      ],
+      "type_id": "dog_park",
+      "type_ids": [
+        "dog_park",
+        "tourist_attraction"
+      ],
+      "address": "1026 Ocean Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u201310\u202fPM",
+        "thursday": "6:30\u202fAM\u201310\u202fPM",
+        "friday": "6:30\u202fAM\u201310\u202fPM",
+        "saturday": "6:30\u202fAM\u201310\u202fPM",
+        "sunday": "6:30\u202fAM\u201310\u202fPM",
+        "monday": "6:30\u202fAM\u201310\u202fPM",
+        "tuesday": "6:30\u202fAM\u201310\u202fPM"
+      },
+      "description": "Large fenced-in woodland park with hills and walking trails for dogs to run and play off-leash.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dog park",
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Fenced in woods with lots of areas for pups to run and explore.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGhhycy2hrC9JV4-t0v-mdHr95YGjwu0kqZZqoXFIdTYY_htDgo7S6660luOHrNa7VD6GF7RWmbDFb0kYixmygFcM2K2Eis3QZ8GC6TsjlrleCkSuLzDPJogADEOZylU5nmEUX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/imJmwHicHcRZEoIgAADQE5FkhdVMH44o7fumP02iAyVIAVZ2wc7QbZrpfbzvh1t7M33HEbzVYEoxkVcm11SVNi9tgyrpsJsB1ADj-Mv5qvAJ4bymtct10Bvv28DCB5DZUPc6Mbk-K1jck-SujtEo28bxiVvMlLdBCEFRLYZ6fvb2GJHIWx9kiqMUFvHlJWsW0Zk7ccOLaa2SLgnQ1lyFFnlQbKrpGy_Hivk4XCS12HVKGe6Og2cTQgj4fwrKH0pRRHs"
+    },
+    {
+      "position": 2,
+      "title": "Valley Street Dog Park",
+      "place_id": "ChIJXSZT9QScskwR7IxCz1oNNnA",
+      "data_id": "0x4cb29c04f553265d:0x70360d5acf428cec",
+      "data_cid": "8085664864665767148",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c04f553265d%3A0x70360d5acf428cec&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c04f553265d%3A0x70360d5acf428cec&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6481223,
+        "longitude": -70.2770744
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXSZT9QScskwR7IxCz1oNNnA",
+      "provider_id": "/g/11cncmddbg",
+      "rating": 4.3,
+      "reviews": 225,
+      "unclaimed_listing": true,
+      "type": "Dog park",
+      "types": [
+        "Dog park"
+      ],
+      "type_id": "dog_park",
+      "type_ids": [
+        "dog_park"
+      ],
+      "address": "162 Valley St #138, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u201310\u202fPM",
+        "thursday": "6:30\u202fAM\u201310\u202fPM",
+        "friday": "6:30\u202fAM\u201310\u202fPM",
+        "saturday": "6:30\u202fAM\u201310\u202fPM",
+        "sunday": "6:30\u202fAM\u201310\u202fPM",
+        "monday": "6:30\u202fAM\u201310\u202fPM",
+        "tuesday": "6:30\u202fAM\u201310\u202fPM"
+      },
+      "website": "https://www.portlandmaine.gov/1277/5730/Valley-Street-Dog-Park",
+      "description": "Fenced dirt spot featuring bags, benches, water taps and a hillside trail, plus views of the bay.",
+      "extensions": [
+        {
+          "pets": [
+            "Dog park",
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"7 acres of wooded area, fenced in, perfect for dogs to run around.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWfCtiWPPRjm_oJ0sWum3319e-YhokSFoMCHpxjXZEwIBaBwUrmCaIty9so_NlWXpQLXsFO5pJk57iU_URGttio_kkE1aCJ7FOSOMsq6epJR2O9BajcNXsWRht-tsyNywXf6DK_g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OWmuMnicHcTRboIwFADQL6rAiBqW7EGYqGwCYki7vTSkqRQK3M57DeMT9wn7myU7D-f3xxA5fPa8wYSrFqAd9AP1XcFEeqKVgtFrHTKFDL1dmV_sLuW3hDpellU_Ssh85I8xDINIsw8D9prCOTm671587udT3MRzfR-T5kRLhCDzgQt3eReYFmuX2fW2q2VdHYg6kNbugybJtmlxLc74tdEuq56KKG56lQvklSFGuOTLLG6b1zfZvsyB7_vM_K_Y9AdO3EaH"
+    },
+    {
+      "position": 3,
+      "title": "Woof Play Eat",
+      "place_id": "ChIJHVjLg0ybskwRBduLagd304w",
+      "data_id": "0x4cb29b4c83cb581d:0x8cd377076a8bdb05",
+      "data_cid": "10147585259131886341",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b4c83cb581d%3A0x8cd377076a8bdb05&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b4c83cb581d%3A0x8cd377076a8bdb05&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.699688699999996,
+        "longitude": -70.28472409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHVjLg0ybskwRBduLagd304w",
+      "provider_id": "/g/11y10l09px",
+      "rating": 4.8,
+      "reviews": 89,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Dog park",
+      "types": [
+        "Dog park",
+        "Bar",
+        "Dog day care center",
+        "Restaurant"
+      ],
+      "type_id": "dog_park",
+      "type_ids": [
+        "dog_park",
+        "bar",
+        "dog_day_care_center",
+        "restaurant"
+      ],
+      "address": "49 Northport Dr, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20138\u202fPM",
+        "thursday": "7\u202fAM\u20138\u202fPM",
+        "friday": "7\u202fAM\u20139\u202fPM",
+        "saturday": "10\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20138\u202fPM",
+        "monday": "7\u202fAM\u20138\u202fPM",
+        "tuesday": "7\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 560-1111",
+      "website": "https://woofplayeat.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Private dining room",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5MTBsMDlweBgAOgMI8A0%3D&g2lbs=AEzIGDt_o_9gFm7BR2qNsF-i6qFgI6nnYCx7YkdpSXz9SWi7zuVnQu6cDBn3g8Ew3qVj7IyUKUjN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=amhOaqo6jZ7Q8Q-Z94PRAg&ei=amhOaqo6jZ7Q8Q-Z94PRAg&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Staff is on point vetting out the dogs so play is fair and safe.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwzJBpmf2V1saVTBoY4HzgC0LYn1KnMTmvMNcaqgSevLBxgM1UdKH8h_PkIY5u6Rc8WzCeWq8Y23waR6CN1_7yO-N9polVNKOhvyYzS35H2T477to8Tdh53DLpYyBOqYk91eN3E_xuISl2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rZM-mnicHcTBboMgAADQL6KK1GqX7FDdEjsVu-psOBlDGSQq4ECt_uTO-5sme4f39yus1ebFcXqBdlwp3rPJsB-qpGXS7qgaHK4NoAYY53TBn90pWbaPSA_fXg1NW1eRIvtk47GbEQlTmVfDnGPajrxkcxY9eA6_7mkSiubSnYk_Ha40vG0xu40h8dDSXg8xhk2wFgAfteprnBZiXslWIj_xqn0QWBVWd-Gjt0yTNSpG0h0hw-i9eUznsvdeF-i6LhD_UyCffohGaA"
+    },
+    {
+      "position": 4,
+      "title": "Mayor Baxter Woods",
+      "place_id": "ChIJ-YRlHpmbskwR6BqgfFPD99g",
+      "data_id": "0x4cb29b991e6584f9:0xd8f7c3537ca01ae8",
+      "data_cid": "15634179394780535528",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b991e6584f9%3A0xd8f7c3537ca01ae8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b991e6584f9%3A0xd8f7c3537ca01ae8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6766291,
+        "longitude": -70.29036409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-YRlHpmbskwR6BqgfFPD99g",
+      "provider_id": "/m/03gxc07",
+      "rating": 4.6,
+      "reviews": 210,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "555 Stevens Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u201310\u202fPM",
+        "thursday": "6:30\u202fAM\u201310\u202fPM",
+        "friday": "6:30\u202fAM\u201310\u202fPM",
+        "saturday": "6:30\u202fAM\u201310\u202fPM",
+        "sunday": "6:30\u202fAM\u201310\u202fPM",
+        "monday": "6:30\u202fAM\u201310\u202fPM",
+        "tuesday": "6:30\u202fAM\u201310\u202fPM"
+      },
+      "website": "http://trails.org/our-trails/baxter-woods/",
+      "description": "Leafy nature preserve with walking paths. Pine forested, dog-friendly park offering shaded trails for walking, running & cycling.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Lovely spot for a walk - great place to bring your dog.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEadQ7SE6Se-0XRbAQjWAT-6SmfLSqvcmrl9pq8yb1cO6OT9iN2W-Xu_hhK94W23ZnIGVsMssq-4bmF3cJzvhl0tRglP7MuIhEKnujEkLBjsao2S2cj32E18WaDu3rbdlCKjiK2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1E6kp3icHcTdboIwGADQJ6qU1qCYeMG0God_WCPGGwMVqbW0wNe6bC-4Z_BtluxcnPevdK6FSRBoSQe1tbWuPFS9sMZVxg2EbYK6BSQAQZDst9kzYcUtG3EW8Qrh86FMMpUnRxTx5r7m3Us0vY7bbvxdhmIX7Y7xY0tydPZXKdN4mBN6MavlCTYAHRqWzYKKz5-X1Ngdar0fbfxKstR4xZ7rDwWFJZwIRQkLx3kx97Qvb3qWqkdKpl8hxhjJ_wUyf_eqQ64"
+    },
+    {
+      "position": 5,
+      "title": "Westbrook Dog Park",
+      "place_id": "ChIJIZx8zeCbskwRyL-ONO6p100",
+      "data_id": "0x4cb29be0cd7c9c21:0x4dd7a9ee348ebfc8",
+      "data_cid": "5609138701462323144",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29be0cd7c9c21%3A0x4dd7a9ee348ebfc8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29be0cd7c9c21%3A0x4dd7a9ee348ebfc8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.677081799999996,
+        "longitude": -70.35516419999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIZx8zeCbskwRyL-ONO6p100",
+      "provider_id": "/g/11fhzw54zq",
+      "rating": 3.8,
+      "reviews": 50,
+      "unclaimed_listing": true,
+      "type": "Dog park",
+      "types": [
+        "Dog park"
+      ],
+      "type_id": "dog_park",
+      "type_ids": [
+        "dog_park"
+      ],
+      "address": "Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20139\u202fPM",
+        "thursday": "6\u202fAM\u20139\u202fPM",
+        "friday": "6\u202fAM\u20139\u202fPM",
+        "saturday": "6\u202fAM\u20139\u202fPM",
+        "sunday": "6\u202fAM\u20139\u202fPM",
+        "monday": "6\u202fAM\u20139\u202fPM",
+        "tuesday": "6\u202fAM\u20139\u202fPM"
+      },
+      "website": "https://www.westbrookmaine.com/31/Community-Recreation",
+      "description": "Woodchip-covered dog park featuring separate areas for larger, smaller pups.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Picnic tables"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dog park",
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"It\u2019s spacious with sections for big dogs and small dogs to be separated.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhCKc6TVAqEdszdT8f6nutsTA3yHDh9Vw1aoVO-M6v_s_T8IOyaWCvOwLQ7ZyGSFBgysfabiUBdZZCtbpJ4Xl0iuoVPzZWpu7q6xq5gdHr7m7_y7pF4f-7jSexLPehW36KdAm_YTRK5Omy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WHzu1HicHcRRU4IwAADgXzTBQzfrrodBqYUF6oLihcNtbBqw4YY4_6TP_Zvu-h6-37u0VptHz2tkMBFKiYYPhp-p6izv7ISq1hPaAGqA8XD6sf3BKxnFFJIM9y_M3BhZ1LAbrCE4cOtn-ZCN00plCXiHl9KUZPGauCqPLsm42aLCrfbLUDhTV4fjZ8iKIrIH_Tb7avzjoLL0VuR6QD289nPB1mfUotIhvZzVAJ32_LpJucwDGDPclt9kF8-T1j2NU9_3gfyfgu4P9eRIQQ"
+    },
+    {
+      "position": 6,
+      "title": "Hinckley Park",
+      "place_id": "ChIJwz40pI6eskwRoq9QrEqWATU",
+      "data_id": "0x4cb29e8ea4343ec3:0x3501964aac50afa2",
+      "data_cid": "3819499206449606562",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e8ea4343ec3%3A0x3501964aac50afa2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e8ea4343ec3%3A0x3501964aac50afa2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6258842,
+        "longitude": -70.2575138
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwz40pI6eskwRoq9QrEqWATU",
+      "provider_id": "/g/1tdqt3zs",
+      "rating": 4.6,
+      "reviews": 223,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "288 Highland Ave, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20136\u202fPM",
+        "sunday": "8\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 767-7650",
+      "website": "http://www.southportlandlandtrust.org/south-portland-parks/hinckley-park",
+      "description": "City park with trails and ponds featuring off-leash zones for dogs.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dog park",
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"... for quiet walks, meditation, contemplation, and walking your dog.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPAZtWKUPu88At45ls0DLPRgNd6SIPlqC02FMzijsBK-fq98Mst08PuDj-9XVsk_vEVdjcfroodOwmKmLN2IcLyWB4x8VJoIG9jL3WAX5eaRDZU8LfETuBsXALAbNLZBqVz28s=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/O6wKBXicHcRJDoIwFADQE1UqiikmLoqgQSrWCQgbo2USgYq_OF3QM3gbE9_ifT-FUlcYa1pVDHq5lHmVdpDehGxU2qiekLWWXwEJQKBR7q8v1OE0VqG35x0hVA2NCrDN-Cb3k9HW5VU7xfps-T6XYHkoa02yBIUJ7-wSmVEAl8PdCZJSZDcpk9Wj9mrm665gr9AaPkmwkO7cLNkgpJGRHjd2vCcsc3adBRFl9OSz2GqDt05g8uhjjFHxX6DmB_PsQ34"
+    },
+    {
+      "position": 7,
+      "title": "Capisic Pond Park",
+      "place_id": "ChIJuxzoU7-bskwRQi_fBuMxATk",
+      "data_id": "0x4cb29bbf53e81cbb:0x390131e306df2f42",
+      "data_cid": "4107619186281230146",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bbf53e81cbb%3A0x390131e306df2f42&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bbf53e81cbb%3A0x390131e306df2f42&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6676036,
+        "longitude": -70.3072966
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuxzoU7-bskwRQi_fBuMxATk",
+      "provider_id": "/g/1tks5x_w",
+      "rating": 4.6,
+      "reviews": 157,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "1-39 Macy St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9:30\u202fPM",
+      "hours": "Open \u00b7 Closes 9:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20139:30\u202fPM",
+        "thursday": "6:30\u202fAM\u20139:30\u202fPM",
+        "friday": "6:30\u202fAM\u20139:30\u202fPM",
+        "saturday": "6:30\u202fAM\u20139:30\u202fPM",
+        "sunday": "6:30\u202fAM\u20139:30\u202fPM",
+        "monday": "6:30\u202fAM\u20139:30\u202fPM",
+        "tuesday": "6:30\u202fAM\u20139:30\u202fPM"
+      },
+      "phone": "(207) 756-8275",
+      "website": "https://trails.org/our-trails/capisic-pond-park/",
+      "description": "Nature area for birding & wetland trails. 18-acre nature preserve featuring bird-watching, an ice-skating pond & undeveloped wetland trails.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Nice place for a walk with the dog....\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHvL8mtEaiu7diXTALifee0ySdDzTlhEEScI2VqOpQfO4LmaXCfG5zhMvfKB6CQaWgmy1jcZPfRtUt8t9FKJ3hLekOq9WMrqem02QBEZZ0AdtA69PIEolysQcRmhlCFyixH4n_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-DzXCHicHcRbcoIwFADQFSHxRaUzfkQaixUL8VEZfhwmJISaEDDXB27QNbgbZzwf5_mQAI39dF0lh73SmFLxs-UnZmrgNfSY0W7ZWIdZx7o4-aVHHIaXaKKB5NX5o6jSLY4qwTnqNsXXfaskIRu2GPy1cUNFPIp0ngbie3yXq4tYzryA5vtSd_1_liViDTuYgD9f_gxlxI9x6-9Xp5ZrNKAzkmUIF4A9P1kQozpL2VpLFcy76haO6sP02kcIOfI9c-oXnOhFSw"
+    },
+    {
+      "position": 8,
+      "title": "Saco Dog Park",
+      "place_id": "ChIJyQZxKkulskwRTzkvzdoOGHg",
+      "data_id": "0x4cb2a54b2a7106c9:0x78180edacd2f394f",
+      "data_cid": "8653683016900491599",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a54b2a7106c9%3A0x78180edacd2f394f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a54b2a7106c9%3A0x78180edacd2f394f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.4972269,
+        "longitude": -70.44070889999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyQZxKkulskwRTzkvzdoOGHg",
+      "provider_id": "/g/11f65026p3",
+      "rating": 4.3,
+      "reviews": 92,
+      "unclaimed_listing": true,
+      "type": "Dog park",
+      "types": [
+        "Dog park"
+      ],
+      "type_id": "dog_park",
+      "type_ids": [
+        "dog_park"
+      ],
+      "address": "63 School St, Saco, ME 04072",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20138\u202fPM",
+        "saturday": "6\u202fAM\u20138\u202fPM",
+        "sunday": "6\u202fAM\u20138\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
+      },
+      "website": "https://www.sacomaine.org/departments/parks_and_recreation/parks_and_municipal.php",
+      "description": "Park designated for dogs with a water supply and shaded areas, plus clean surroundings.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "pets": [
+            "Dog park",
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Gets muddy but lots of room to run and most dogs are great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8dC43fIS0TQhqVcZZdjTK0WIkpL482rEreB1Q1yLryTbFncPb1zN4A9hbjQphtGV1aSjYlTbesum0AE1Xii1RraGhp6BbHNsagkvyV4JGIJ_MgtpwhC6OOxoPxBpU7Zhqj4BG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oYek53icHcRbcoIwFADQFSFJzVjtTD_A0RQfCEJpy49DYswVkMQkPnCDrqG76UzPx_l9gnPavvl-C8OBVEq24mKF4apzonMDrk6-1Nbj1rN-kMRpE9DxfkqGhyhDeQrngpflvs6X6Ctq9IqMX8zMiBCnuF-ZPmfzjicMP2ISTIDVqQZHC1xl9U-bM2EvJxTM8PfxiLemoqBHIfuIbSWba1-QBY0Wu7V0-gbT0WZzV8k91J-vJZxrEtL3G0YIefA_97o_MxpExg"
+    },
+    {
+      "position": 9,
+      "title": "Back Cove Park",
+      "place_id": "ChIJRz9MjXGcskwRcugJLUcr6_E",
+      "data_id": "0x4cb29c718d4c3f47:0xf1eb2b472d09e872",
+      "data_cid": "17432074367365933170",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c718d4c3f47%3A0xf1eb2b472d09e872&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c718d4c3f47%3A0xf1eb2b472d09e872&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.665568,
+        "longitude": -70.26390479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRz9MjXGcskwRcugJLUcr6_E",
+      "provider_id": "/g/1tdm7y1h",
+      "rating": 4.5,
+      "reviews": 169,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Back Cove Trail, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 808-5400",
+      "website": "https://trails.org/our-trails/back-cove-trail/",
+      "description": "Waterfront multiuse trail & green space. Large park featuring a 3.5-mile, waterfront loop trail for jogging & biking, plus open green space.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Also benches to sit on.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9_NGnbY5AyuJQkGAf8vo4eh5lwAPgjkI0X6JGJd4sybaV5Za-VRaY4PKZGu7xShIcd3e9cwOE4GQc-dmMFcvE4LLfaFXHGn-F8ZoW8lW8ek8dpaHz-RSju3ZUk2K_d24ucpEB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Xn_QI3icHcTdboIwGADQJ6qgFK1LdlETKKJT0Mwfbkz9WmkstsRSmXvBPYNvY7JzcV5_quta9xEEjYoGtbV1I72Td7Cmk6YbgL0FdesQOOQCWqxKTbPpacXM-RjTp89LzeiFPCyWKm56WtRXPQ8P45zlArvnme_iiqPdhh9xsaiYn_xs1RxEJKfQrxPMSkDi9pXCI8HL5YWnh4wZlJLK7kmzJ1IT0fLsF222Vx9V33q0OIkR9tAms89-GIYhUv8DMm8HO0Nz"
+    },
+    {
+      "position": 10,
+      "title": "Eastern Promenade Trail",
+      "place_id": "ChIJF-vHdUScskwRnxf18teLrtE",
+      "data_id": "0x4cb29c4475c7eb17:0xd1ae8bd7f2f5179f",
+      "data_cid": "15109167559484970911",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c4475c7eb17%3A0xd1ae8bd7f2f5179f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c4475c7eb17%3A0xd1ae8bd7f2f5179f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6620541,
+        "longitude": -70.2438225
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF-vHdUScskwRnxf18teLrtE",
+      "provider_id": "/g/11hbqv6y47",
+      "rating": 4.7,
+      "reviews": 243,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Eastern Promenade, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "Closed",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 775-2411",
+      "description": "Scenic waterside trail that leads to a beach that\u2019s dog-friendly.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Swings"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"There\u2019s tons of dogs, runners, bikers,\u2026 and everyone is very nice!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7Ho5MSBNt1c3UYxT_6UuqK5gmSAFGvWwn75_fA66I3fhT497p9TRJXQFW4ZuI6_jy9Xzlx7CThVnyvAE9Q7vQ_UeXy__lBibK73Z6w4Vs9KFOulY0pIl4_huuIEdj2hP9jpNeKg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Tjb2yXicHcRRToMwAADQEzGYQJua-NEtMJGIw8EG-2my2rVi11bbwvCGO4K3Mdn7eH834Zyxj2EoRbzgWnPJvGU_VCvHlFtQfQm5sQG1gQ3xtqq_cA6fdfq6W1VuSeO2vzYEtP67TPllh_PNeJgUTMkZA1DEZ9EkCBrUvL90dX5Ijr4AZJhR9yuvcN2IvZpHnKEajjVpWTcTIlefpxLGRzAle4vK_M3LPjKFTIjwvsg-hgexRYOpWMmfpmUURYG4TwP1D2yBRHc"
+    },
+    {
+      "position": 11,
+      "title": "Fort Sumner Park",
+      "place_id": "ChIJP9SwNmacskwR9k7KgCfxcJE",
+      "data_id": "0x4cb29c6636b0d43f:0x9170f12780ca4ef6",
+      "data_cid": "10480141484857904886",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6636b0d43f%3A0x9170f12780ca4ef6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6636b0d43f%3A0x9170f12780ca4ef6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6675064,
+        "longitude": -70.2507305
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP9SwNmacskwR9k7KgCfxcJE",
+      "provider_id": "/g/11bxf4wc8h",
+      "rating": 4.8,
+      "reviews": 215,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "64 North St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 808-5400",
+      "website": "https://www.portlandmaine.gov/1235/5612/Fort-Sumner-Park",
+      "description": "Relaxed park on a hillside that offers city views and benches, as well as picnic tables.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Picnic tables"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"The park was clean and has beautiful views of Portland facing to the west.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFOUaln2OyrRHkwkt9GI-6J_jnF6GhY5K2VAff_-NSxcny3vQKiFoDRKR4CuQZVvcMMYqcxRUrixGZneNxcbnAZBnA8bjkftlpdq1rB1hMMWQRAGChw1yT7T9ZqeiwTCG062NwVbg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8rRJ3HicHcTdboIwGADQJ6r8qGyaeFExdBsBpUOM3JjRFYrgV6DVwiPuEfY2Jp6L8_8ntO7U2rJaMZ9VUlYtvys-MAmag54xebOqTiGmkLLwIU4aHOyPPy24-2mgH41p9Ip8Iu_rcoXAI-K8DN0Ml-UFxd8jg2n-SMI6kDsa0oV_T_LswaLo3LORHod6JDnweGQF4HwL-L24NqVuu9_eGbaOiKJTQjHxhXGm9C1d5T2vTeoT23NjkxXVxji2bSPxmiF4AiP5RfU"
+    },
+    {
+      "position": 12,
+      "title": "Fort Williams Park",
+      "place_id": "ChIJKZRaGgWeskwRIB13mK2-lu0",
+      "data_id": "0x4cb29e051a5a9429:0xed96bead98771d20",
+      "data_cid": "17120080686292081952",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e051a5a9429%3A0xed96bead98771d20&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e051a5a9429%3A0xed96bead98771d20&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6220929,
+        "longitude": -70.2119708
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKZRaGgWeskwRIB13mK2-lu0",
+      "provider_id": "/m/0g552kv",
+      "rating": 4.8,
+      "reviews": 3845,
+      "type": "Dog park",
+      "types": [
+        "Dog park",
+        "Park",
+        "Garden",
+        "Historical landmark",
+        "Tourist attraction"
+      ],
+      "type_id": "dog_park",
+      "type_ids": [
+        "dog_park",
+        "park",
+        "garden",
+        "historical_landmark",
+        "tourist_attraction"
+      ],
+      "address": "1000 Shore Rd, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 799-2868",
+      "website": "https://portlandheadlight.com/",
+      "description": "Seaside park with old fort & lighthouse. Free park with a rocky shoreline, old military bunkers, big playing fields & an iconic lighthouse.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Grilling"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Barbecue grill",
+            "Baseball field",
+            "Gender-neutral restroom",
+            "Has a tennis court",
+            "Picnic tables",
+            "Public restroom",
+            "Slides",
+            "Swings"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "Kid-friendly activities",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dog park",
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Dogs are allowed on leash, aside from designated off-leash sections.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH00HDx_I1Eqpw1PL0_7D-gPJI-YzD6T4ukXvy67qeLFPCeSHa8B9eFoqn4DWdJOsyqJUBsCcHPDfb5fwA1vJ9v9mzRVcEdw8mUfHgN1Fm0AF_HrkZy8BGvIadDle99ICLKM9_Y=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D08HfnicHcRJDoIwAADAF1XauFETD0DFgqh1Xy5ESykJS8EiiB_0Df7GxDnM95PUdaknhpEl_Z5USmbiqcWDq6IWRd3jKjdkqQHXQBsWW21Si0JIySv00KwqW8QCGI4JkMz3wOVNRvvBMz033WhcicBljtjRm2lj4aqqGJBT5K91V_kHWzucMhLfh3FrocbHDc7f2yOfRa2ZH2IqV8jNoeWG9JFeO9OeN94tIpnA2HOCxRKHl2mLIIQg-c9B8QOxhULx"
+    },
+    {
+      "position": 13,
+      "title": "Pine Grove Park",
+      "place_id": "ChIJSS937j6bskwRbI8v-v7Uodg",
+      "data_id": "0x4cb29b3eee772f49:0xd8a1d4fefa2f8f6c",
+      "data_cid": "15609991975027052396",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b3eee772f49%3A0xd8a1d4fefa2f8f6c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b3eee772f49%3A0xd8a1d4fefa2f8f6c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7032982,
+        "longitude": -70.2801429
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS937j6bskwRbI8v-v7Uodg",
+      "provider_id": "/g/1td5l90n",
+      "rating": 4.4,
+      "reviews": 8,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Pine Grove Trail, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "5:30\u202fAM\u20138\u202fPM",
+        "thursday": "5:30\u202fAM\u20138\u202fPM",
+        "friday": "5:30\u202fAM\u20138\u202fPM",
+        "saturday": "5:30\u202fAM\u20138\u202fPM",
+        "sunday": "5:30\u202fAM\u20138\u202fPM",
+        "monday": "5:30\u202fAM\u20138\u202fPM",
+        "tuesday": "5:30\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 808-5400",
+      "website": "https://www.portlandmaine.gov/1259/5712/Pine-Grove-Park",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4CijT3fKTNsQTakgVR-fNFHnsSKVj32zy69_TWn_lJuxQams2vLp--kcvrGYvpMso946ADmg8rWzyHJuaqpSB05chkS9HR1rlcysIbQXim_snDfKKMEpPfmRUMTy0ZOP7S1M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5CPirXicHcTbUoJAGADgJ1pZBDWa6QKzJAjisGJ2w9AOLKc9xA8YPGDv0Ns443fx_f9Vw6DgUdO6ylgxKVlXjFD0VIqhEMOKSq4xBYgCAs0Og6i1HfO5bohReiSAiOQtS2NUBq-OgMRLG2O9zFsrI2eRde74G-Uc1tO7QqilU3-8TMoHaZlb-8DZQ39eZscd8x-V7PGGVm1iObHed3SGt-_os-YZiEPpef6LCksen3wy46-PcJfo_tNVxxij6j5F4gZcFEUY"
+    }
+  ]
+}

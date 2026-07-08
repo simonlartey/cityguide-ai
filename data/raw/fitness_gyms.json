@@ -1,0 +1,1644 @@
+{
+  "search_metadata": {
+    "id": "6a4e6816792d686423bb0930",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YrHNZQ6WMeQKOIDXCTUHBA/6a4e6816792d686423bb0930.json",
+    "created_at": "2026-07-08 15:09:10 UTC",
+    "processed_at": "2026-07-08 15:09:10 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/cheap+gyms+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/YrHNZQ6WMeQKOIDXCTUHBA/6a4e6816792d686423bb0930.html",
+    "prettify_html_file": "https://serpapi.com/searches/YrHNZQ6WMeQKOIDXCTUHBA/6a4e6816792d686423bb0930.prettify",
+    "total_time_taken": 1.33
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "cheap gyms in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "cheap gyms in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "The Fitness Factory",
+      "place_id": "ChIJebL6sgibskwRvEWl7YQjsxg",
+      "data_id": "0x4cb29b08b2fab279:0x18b32384eda545bc",
+      "data_cid": "1779805331571164604",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b08b2fab279%3A0x18b32384eda545bc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b08b2fab279%3A0x18b32384eda545bc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6862249,
+        "longitude": -70.3214942
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJebL6sgibskwRvEWl7YQjsxg",
+      "provider_id": "/g/12cnnswfb",
+      "rating": 4.3,
+      "reviews": 114,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center"
+      ],
+      "address": "512 Warren Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 797-5700",
+      "website": "http://www.fitnessfactorymaine.com/",
+      "description": "Locally owned fitness center open 24 hours with a high ceiling, free weights, and machines.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"The price is very cheap and you get a great amount of equipment to use.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcuo9IQ8spWHTysf1u37JkBnYzpA2p6x-B0vVa28NRYxvR-T_acnAPCx59cnTef9th_CTr-b-cCJoY86hl_J8skp_ZW4HWACNFZ78FWwf066sY6aUKI4wyy1amphQO90crVXy1rQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rxu9onicHcRBjoIwFADQE1WKYi2TzKKSEMUExaCIG4I_QBOwbfhFwBt6hLmNybzF-_tIaw3-OE4nV4tG66arBqx60MpWyi5AP53GIAEk6IhTnLQihEH7-4SjyXbpjLU7rDZRu1X524ilYRPZ0te1XPL4nE-vM0mLEpQ4BdPaB5VWtW9lEaQ9eRAIIp1zJrsi4tia4p55u0wEcXjf8DAba8oY5qy8HPbeOM9u-TQyOfoU-uttdvvkd3QppUT-D0R9AbqYRI0"
+    },
+    {
+      "position": 2,
+      "title": "Workout Anytime Portland Downtown",
+      "place_id": "ChIJq_LZm2OdskwRb49LBwYZUpA",
+      "data_id": "0x4cb29d639bd9f2ab:0x90521906074b8f6f",
+      "data_cid": "10399402003234787183",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d639bd9f2ab%3A0x90521906074b8f6f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d639bd9f2ab%3A0x90521906074b8f6f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6566889,
+        "longitude": -70.2609231
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq_LZm2OdskwRb49LBwYZUpA",
+      "provider_id": "/g/11jgd38f95",
+      "rating": 3.7,
+      "reviews": 63,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Personal trainer",
+        "Physical fitness program",
+        "Tanning salon"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "personal_trainer",
+        "physical_fitness_program",
+        "tanning_studio"
+      ],
+      "address": "511 Congress St Ste 12, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 613-9934",
+      "website": "https://workoutanytime.com/location/portland-downtown/",
+      "description": "Chain gym providing 24-hour access to cardio and weight machines, tanning, and HydroMassage.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"Very cheap, excellent equipment, and very clean and well kept.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGj7lWm_iaaufg7ueEXGei0Q_MQdLzki6mk79uHuHlKtOAOvtRaFmE4KBDtUbHV3AfiHKe3cw32Pi8Ldh_my8niNMiQ5-kUT3LPdikgi5QFvsGe3sS-khyp3rdBCOAom5q_9h1SuA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VkA3rnicHcRRboIwGADgE1XQjqEmPlSnkIBCdW6-EVZq-6-Uom01ekOP4G1M_B6-50M619tpELQSD4QxouXe8jMzneOdGzCjA9FbxCyyASk3VJHkP25_dQV17Y8i9nx5SDiEtFrTJr8r-NQqnvjUp23mClJc3LZe6eVHNv9y-7_0B5MjpBnH7IpHJYzzRlb6Nu5gswYaIbX_xnnZgBIQ0dXFJhzbHVLy1uNzM18UxOjoVE3kcOfJ7DoMwxDJ9wx1LzEPRbU"
+    },
+    {
+      "position": 3,
+      "title": "Beacon Community Fitness",
+      "place_id": "ChIJWc1tRGWcskwRTTOUByCYPO4",
+      "data_id": "0x4cb29c65446dcd59:0xee3c98200794334d",
+      "data_cid": "17166763142963016525",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c65446dcd59%3A0xee3c98200794334d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c65446dcd59%3A0xee3c98200794334d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.668908099999996,
+        "longitude": -70.258003
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWc1tRGWcskwRTTOUByCYPO4",
+      "provider_id": "/g/119vw5d_s",
+      "rating": 4.9,
+      "reviews": 131,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Personal trainer",
+        "Physical fitness program"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "personal_trainer",
+        "physical_fitness_program"
+      ],
+      "address": "341 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:45\u202fPM",
+      "hours": "Open \u00b7 Closes 6:45\u202fPM",
+      "operating_hours": {
+        "wednesday": "5:30\u202fAM\u20136:45\u202fPM",
+        "thursday": "6:30\u202fAM\u20136:45\u202fPM",
+        "friday": "5:30\u202fAM\u20136:45\u202fPM",
+        "saturday": "7\u201310:30\u202fAM",
+        "sunday": "8\u201310:30\u202fAM",
+        "monday": "5:30\u202fAM\u20136:45\u202fPM",
+        "tuesday": "5:30\u202fAM\u20136:45\u202fPM"
+      },
+      "phone": "(207) 619-2322",
+      "website": "http://www.beaconcommunityfitness.com/",
+      "description": "Well-kept, clean gym offering an array of CrossFit classes including boot camps and postpartum fitness classes.",
+      "extensions": [
+        {
+          "service_options": [
+            "Online classes",
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "outdoor_services": true,
+        "onsite_services": true
+      },
+      "user_review": "\"A wide range of options for all levels to meet their fitness goals.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSUkGgqDtnEViEe0K7HuA8kKJLTHz7RPYOpJh28ZREzYRys5lkDCwV4eQoo_x4pHU8sJJOLyVo-WrTfK_nZIjYJIN6iOmEuDvj4sMS6I41spTz80dcugWbEKg6VSchmG3xCXM_sA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AqGDDHicHcTdboIwGADQJ6rUyZAs8YJIJxQVBcThDcm6rlWg7fyKP7yhj-DbmOxcnOdDWmvgw3FaORkJrUXLe-BnppXlyo6Y7hxhADFA4ASb9bYJPvNdsxB_oVWkPBKOk2nUB36T0GURDdNsU6WGyjf_kJGhyu7w3jbh_Fq6fKt1fXNNtPOB0nR5LzXan4vfpFaH-FTReO0d04704eXkwir3YncMphh8_MN6sf8mifDKnMluMbnNv1Y1BLPrGGOM5P8MqRffsUVE"
+    },
+    {
+      "position": 4,
+      "title": "Snap Fitness South Portland",
+      "place_id": "ChIJAwYdVJqeskwRf9IowXgWXyw",
+      "data_id": "0x4cb29e9a541d0603:0x2c5f1678c128d27f",
+      "data_cid": "3197298968348906111",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e9a541d0603%3A0x2c5f1678c128d27f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e9a541d0603%3A0x2c5f1678c128d27f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.633407899999995,
+        "longitude": -70.2619301
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAwYdVJqeskwRf9IowXgWXyw",
+      "provider_id": "/g/1vd70y43",
+      "rating": 4.8,
+      "reviews": 68,
+      "type": "Gym",
+      "types": [
+        "Gym"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym"
+      ],
+      "address": "747 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 799-0864",
+      "website": "https://www.snapfitness.com/us/gyms/south-portland-me/?utm_source=gmb&utm_medium=yext",
+      "description": "Gym featuring cardio machines, free weights and personal training, alongside friendly staff and a stretch room.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"There are also protein bars and drinks offered for sale.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhqkCkfDH1B0GAE4G6aNPNnBDy7pCWwAYTODWRnerQ73fr75VplHcLv137xZFr1CmOY5ut80LzR-_zUiIJSOgQtQ9vORmzGag67ZAnwHeAlTY9rNPT2OFBGYhuSWdHtOpz8Xc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-3W3TXicHcRRboIwAADQE1XKUKtL9lFAwcVQQBTxx5haWwOUri2ycUDv4G1M9j7e6ymsVebTcRrhTXjX8Yb1hmnaScukndCudbgygBpgHJwmWY1X4qcO6lsYuz6M8GoazS9Jmkg__EMqKAdcFSQsc8l0hrybRrODamK6fbge-j2ttRu0pJr1dgG3Yw7O4_6--d4Rntls-SB5O0YXPkcnLIeY4aaoljpJiw-y9qNK9LvyGluixsWRfg0uhBCI_ymQb4uBQz8"
+    },
+    {
+      "position": 5,
+      "title": "Planet Fitness",
+      "place_id": "ChIJQTHU822cskwRho_2wI0SgXk",
+      "data_id": "0x4cb29c6df3d43141:0x7981128dc0f68f86",
+      "data_cid": "8755299550622027654",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6df3d43141%3A0x7981128dc0f68f86&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6df3d43141%3A0x7981128dc0f68f86&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.663150599999994,
+        "longitude": -70.26269839999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQTHU822cskwRho_2wI0SgXk",
+      "provider_id": "/g/1td7ssyv",
+      "rating": 4.1,
+      "reviews": 591,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Spa",
+        "Tanning salon"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "spa",
+        "tanning_studio"
+      ],
+      "address": "145 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "12\u202fAM\u20139\u202fPM",
+        "saturday": "7\u202fAM\u20137\u202fPM",
+        "sunday": "7\u202fAM\u20137\u202fPM",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 879-2200",
+      "website": "https://www.planetfitness.com/gyms/portland-marginal-way-me?utm_medium=organic&utm_source=extnet",
+      "description": "Chain gym providing equipment for strength and cardio workouts, as well as tanning.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The affordability of the membership is fair.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgMbP1eclkLeF2hpES-AXnVLg8uT-DAl_HNOH69MSdYoo3UzUd_qqxnSTlUMAW39hl3Hvl_3eTd_h77nFgBfOlH2FAHPlV6ITsdk1MJrope4Xu8dS3J6fTDZ2PpBcoj3kaXDJ1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dUeN_nicHcTbboIwGADgJ6ocuuAh8aIESUdEMRRluyFbW9uMf221oMYX9Bl8GxO_i-_50MPg_CIIQOOJslaBHL08c2sGaYYJt_-Bch5xj3xAqs2uJytV_laR5NCvZR5rt6oRac1-rWYjQxmBjm62NJmXtfiyFjf3RnSn083UDJqSHPBcA6YX6LBkotPTqclVetwCjXNCK9gnn8yLPiqLs3Xyox1nosZFcmTZd1y5lNs_3P-0WREtr1EYhki_58i8ABvXQ6U"
+    },
+    {
+      "position": 6,
+      "title": "YMCA of Southern Maine - Portland Branch",
+      "place_id": "ChIJLXFCSRKcskwR99nRdmci1rA",
+      "data_id": "0x4cb29c124942712d:0xb0d6226776d1d9f7",
+      "data_cid": "12742410023461837303",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c124942712d%3A0xb0d6226776d1d9f7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c124942712d%3A0xb0d6226776d1d9f7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6566313,
+        "longitude": -70.2657474
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLXFCSRKcskwR99nRdmci1rA",
+      "provider_id": "/g/11dz5qxv0k",
+      "rating": 4.2,
+      "reviews": 160,
+      "type": "Non-profit organization",
+      "types": [
+        "Non-profit organization"
+      ],
+      "type_id": "non_profit_organization",
+      "type_ids": [
+        "non_profit_organization"
+      ],
+      "address": "70 Forest Ave, Portland, ME 04104",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20134\u202fPM",
+        "sunday": "9\u202fAM\u20132\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 874-1111",
+      "website": "http://ymcaofsouthernmaine.org/",
+      "description": "Nonprofit center for classes & services. Community-focused nonprofit established in 1844 with recreational programs & services for all ages.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"One time visit was $12.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFo1-Wxmpk1IbJB5q2it9XvhnyOjQdeUfptkcsoxsIgCh3dfCXtn1w6TY9D8xheMbm6GCLRlUWzXKfwp5oKv7CvM5TQLtE9Nugrs_tpozy0PQ9M5n6TvVccftCMwsrZmBxFx08WvQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sYooYnicHcTdTsIwGADQJyrrJBvMxAuoYvgZUjPc9MaE0rWwra37PrrCG_IIvo2J5-L83jWig8coavV4pKxVrbyA7IU1KA2OhO0i5YAIIBDNdlvezBY2JmXoXBMvD6t58vNwwqzy2lzfzvwo97XDRoANsFRMj481q9DEQ1p8Zs_ToGV-6NJXtnlv9-WtWteDS-zaT5jPk4Jv8CXbXlQP3-js7Up3PMsTkxb-Q4gaWT5A_9XNwyLQaen50xBTSon-XxDzB5wfR3M"
+    },
+    {
+      "position": 7,
+      "title": "Dynamics Fitness",
+      "place_id": "ChIJHQkrz4-bskwRsRtaXmwfPl4",
+      "data_id": "0x4cb29b8fcf2b091d:0x5e3e1f6c5e5a1bb1",
+      "data_cid": "6790899838421179313",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8fcf2b091d%3A0x5e3e1f6c5e5a1bb1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8fcf2b091d%3A0x5e3e1f6c5e5a1bb1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6702824,
+        "longitude": -70.2833169
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHQkrz4-bskwRsRtaXmwfPl4",
+      "provider_id": "/g/1hc12vww8",
+      "rating": 4.9,
+      "reviews": 31,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Aerobics instructor",
+        "Physical fitness program",
+        "Nutritionist",
+        "Personal trainer",
+        "Weight loss service",
+        "Weightlifting area",
+        "Wellness program",
+        "Women's personal trainer"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "aerobics_instructor",
+        "physical_fitness_program",
+        "nutritionist",
+        "personal_trainer",
+        "weight_loss_service",
+        "weightlifting_area",
+        "wellness_program",
+        "womens_personal_trainer"
+      ],
+      "address": "633 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20138\u202fPM",
+        "saturday": "6\u202fAM\u20138\u202fPM",
+        "sunday": "6\u202fAM\u20138\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 807-7578",
+      "website": "http://www.dynamicsfitness.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "user_review": "\"10/10 would recommend!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHO7q7y-DO1FBM0BknPBFjqoPeuU2GyoYcRERPMFPdQzTqjPHdhiEfOiLODkPcuH0PFHPQlQ4daIVhZFxS7z6kcUx7LJ-qzv7-thIkeTSxXmW4Bw7dj35kZsjZD8uSe_bipMyo5Ow=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/N1wKhHicHcTdboIwGADQJ6rUqatZsgsJdmjEfghO5cZspVIoUljL-HlDH8G3WbJzcZ4PaW1t3hynlLNJpnVWitaIH64rKyo74fruZLVB3CDjrGAfqpXPSEMG5LEpdQPsqgpcWjQaRHt8-Rj0hR_WBwgopOEYNwX4qczXN5bvmKeAtz4G6kNYhvP0a_MpE9pHZHxV_NiT3RY14y9BVm6UiKP-fD_N3Y6kxWyhElMk3rKNxPU7r4NBL1j33k0xxkj-z1H1B8P6RZc"
+    },
+    {
+      "position": 8,
+      "title": "Misfit Gym Portland",
+      "place_id": "ChIJW32igjqbskwRXIeUfDvF2mg",
+      "data_id": "0x4cb29b3a82a27d5b:0x68dac53b7c94875c",
+      "data_cid": "7555568184151279452",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b3a82a27d5b%3A0x68dac53b7c94875c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b3a82a27d5b%3A0x68dac53b7c94875c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7099809,
+        "longitude": -70.3132255
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW32igjqbskwRXIeUfDvF2mg",
+      "provider_id": "/g/11hyfylr4v",
+      "rating": 5,
+      "reviews": 53,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Personal trainer",
+        "Physical fitness program",
+        "Sports club",
+        "Weightlifting area"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "personal_trainer",
+        "physical_fitness_program",
+        "sports_club",
+        "weightlifting_area"
+      ],
+      "address": "1077 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "4:45\u202fAM\u20138\u202fPM",
+        "thursday": "4:45\u202fAM\u20138\u202fPM",
+        "friday": "4:45\u202fAM\u20138\u202fPM",
+        "saturday": "6:45\u201310\u202fAM",
+        "sunday": "8:30\u201311:30\u202fAM",
+        "monday": "4:45\u202fAM\u20138\u202fPM",
+        "tuesday": "4:45\u202fAM\u20138\u202fPM"
+      },
+      "website": "http://misfitgymportland.com/",
+      "description": "Spacious, welcoming fitness center featuring CrossFit classes for beginners and experienced athletes alike.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "online_classes": false
+      },
+      "user_review": "\"The focus is on form and function and every exercise has a scaled option.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzkNX9ugvzuGMctGQfVPz9MHKyYuo8ChSNuRJK_HnyOY3U2TOwaS4okDhBXudoQYiqAzbeGZGXzG5HIK5SR9gb8j0s_jHcZi4UMtV3MA17mcxvLiEYJOkDbp9tlC6-ZsW-YeIzFQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/heEqTXicHcRZEoIgAADQE5GWbTbTh21Ypma2iD9NEoFpYgEt3LAjdJtmeh_v-2FS1mJgGCWzGpRzWhIlyB3zSpJKNjC_GrQWAAsgDGcVRIUDdREktqIPraCPJYzOu5W2fdd7I8X7YxYHar3wDm71DpG1bW3C5zFu82LCRok68QjlN0dnBKYw0bDjzr1OvLZp1r-Y4nBxcZq3t77cWb7T7F3x67HMp2gRFpOstmU57oJU7AEicz2Lhs-maZqA_ceg-gFUkEXO"
+    },
+    {
+      "position": 9,
+      "title": "NXGen Fitness Center",
+      "place_id": "ChIJc4DJNF2bskwRVh6H3JSJDP0",
+      "data_id": "0x4cb29b5d34c98073:0xfd0c8994dc871e56",
+      "data_cid": "18234100263764303446",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b5d34c98073%3A0xfd0c8994dc871e56&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b5d34c98073%3A0xfd0c8994dc871e56&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7003639,
+        "longitude": -70.2853999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc4DJNF2bskwRVh6H3JSJDP0",
+      "provider_id": "/g/11y9xt9n6d",
+      "rating": 4.4,
+      "reviews": 39,
+      "type": "Fitness center",
+      "types": [
+        "Fitness center"
+      ],
+      "type_id": "fitness_center",
+      "type_ids": [
+        "fitness_center"
+      ],
+      "address": "75 Northport Dr, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u202fAM\u20139\u202fPM",
+        "thursday": "4\u202fAM\u20139\u202fPM",
+        "friday": "4\u202fAM\u20139\u202fPM",
+        "saturday": "6\u202fAM\u20136\u202fPM",
+        "sunday": "6\u202fAM\u20136\u202fPM",
+        "monday": "4\u202fAM\u20139\u202fPM",
+        "tuesday": "4\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 883-2979",
+      "website": "https://www.nxgenfitness.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Spacious, not jammed pack like sardines during rush hour and free towels.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGylMbq4IjEKI6r2K2Ok2PJCGohdy--utvNKYKFOx1l9mCGIdAYzEbvcOstZC_dXTNpeuRZ-SrMzRoha7ruqzWeH9dYVnvvR4ZIZ8URqiTMn3bJ8fUHeHpUfKDK-Rhw1ibWt2FcI4jEOndu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eS6pNnicHcTNboIwAADgJ6r8SJwu2YEgQm0AV2UKFzPaSlVsgbaovKRn32bJvsP3fnGtW_VpWQ2fTmop64YZxXoihWZCT4i8WXWrAFFAWf4m_b760bNJqs6DlxDBWe8iN7u6m3UQSU6fABg9pKhAq-zhNItbEEHqF2NYDSRTugyO9LBLW2ZwCbZ9MmLJfz960417Fi9o8SOGAXslLOc57s67REyr9fyUxyxu8xNaIoD53TlXe-2uCPQuYSao-bo7tm0D_j8B4g_DRUf3"
+    },
+    {
+      "position": 10,
+      "title": "Basics Fitness Center",
+      "place_id": "ChIJXxFQOm-ZskwRKKAGSSh_LHU",
+      "data_id": "0x4cb2996f3a50115f:0x752c7f284906a028",
+      "data_cid": "8443263212413427752",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2996f3a50115f%3A0x752c7f284906a028&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2996f3a50115f%3A0x752c7f284906a028&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.641252099999996,
+        "longitude": -70.32871229999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXxFQOm-ZskwRKKAGSSh_LHU",
+      "provider_id": "/g/12hmcykq0",
+      "rating": 4.7,
+      "reviews": 34,
+      "type": "Fitness center",
+      "types": [
+        "Fitness center"
+      ],
+      "type_id": "fitness_center",
+      "type_ids": [
+        "fitness_center"
+      ],
+      "address": "380 Western Ave, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:45\u202fPM",
+      "hours": "Open \u00b7 Closes 5:45\u202fPM",
+      "operating_hours": {
+        "wednesday": "5:45\u202fAM\u20135:45\u202fPM",
+        "thursday": "5:45\u202fAM\u20135:45\u202fPM",
+        "friday": "5:45\u202fAM\u20135:45\u202fPM",
+        "saturday": "8\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "5:45\u202fAM\u20135:45\u202fPM",
+        "tuesday": "5:45\u202fAM\u20135:45\u202fPM"
+      },
+      "phone": "(207) 774-3536",
+      "website": "http://www.basicsfitnessme.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Nutrition classes, yoga, and dance instruction are available for a fee.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxvSHDKHSTWvaP0RcK4vCvDSKecLmnKV63MfC15mlC4hW25ExLVrflG01e14yFzovcciSZU2DpZvpqG5UnM0SzJunvvxbRq3K9pM6mq21gRv-J1VCld-gad0rFzJMKURSW8vPLAg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/of1olnicHcTdboIwGADQJ6q0_BhdsgsCE0NhQTog8c7VWpaVtlD8ZLzhHmFvs8Rzcf5--3m27sXzVB9spDFSibsTEzd6FnrecDN40jrEHXJeXL2fvuNsAXZM6ZF9dHCpcM1pCAmkjApeDJq226C8JSQaVBL2nR-9LUU73VSGiSDhz2E1wPkXOzd-as9gxyxqdInZmt81wPJZjwHd23I7jD6RNaCctIm6Inm54umw5iVtatbtoCpi-fogGGPUP-dI_wO0EkS1"
+    },
+    {
+      "position": 11,
+      "title": "Shift Portland Training Center",
+      "place_id": "ChIJc1NDnhScskwRNSLwjBGP2Yk",
+      "data_id": "0x4cb29c149e435373:0x89d98f118cf02235",
+      "data_cid": "9933127758684103221",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c149e435373%3A0x89d98f118cf02235&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c149e435373%3A0x89d98f118cf02235&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6575977,
+        "longitude": -70.26061229999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc1NDnhScskwRNSLwjBGP2Yk",
+      "provider_id": "/g/11f3pvbjsr",
+      "rating": 5,
+      "reviews": 21,
+      "unclaimed_listing": true,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Personal trainer",
+        "Physical fitness program",
+        "Yoga studio"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "personal_trainer",
+        "physical_fitness_program",
+        "yoga_studio"
+      ],
+      "address": "24 Preble St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20138\u202fPM",
+        "saturday": "7\u202fAM\u20136\u202fPM",
+        "sunday": "8\u202fAM\u20136\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(646) 465-2643",
+      "website": "http://www.shift-portland.com/",
+      "description": "Minimalist gym featuring personal training and a variety of classes, including yoga.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"10/10 reccomend.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8V3IYJ8BI8dCN2mwZkTRDLDLh0WWAt43vyFQ-mtCPSwLrNf-DVizYJ7xqysQT-WpVQtto0Qxh975_GRT32XiueN6TwUn4MFL8gsOdWzLLctf20-kv9GjxZBb4IvSk4KxteNzc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7lG5FnicHcRREoFAGADgE61WhZjxEE0m1rJK4cWMtVpSG_urdEFncBszvofv-5EApR4Zxl1anVSp9C5eWjy5KkAU0OEqN9JSI66RNtw1ZZnrO7EV7OfOJHDOU2rm9SGLNh7xiMRJ4oJtVW-foRym67AmT3pBXnxt9_NB83hrFqGkjBmAwqyRw0HvONtElrm7vgTtR_W2sJc-cVK9OictIRwuJkZZNZzdmsPkZAdVmNmLBgRt-bjuYoyR_M9R8QPiTkP5"
+    },
+    {
+      "position": 12,
+      "title": "Jacked and Jilled",
+      "place_id": "ChIJUX5FODOcskwRwdHh4tyHDdo",
+      "data_id": "0x4cb29c3338457e51:0xda0d87dce2e1d1c1",
+      "data_cid": "15712364057734533569",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3338457e51%3A0xda0d87dce2e1d1c1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3338457e51%3A0xda0d87dce2e1d1c1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6332826,
+        "longitude": -70.288634
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUX5FODOcskwRwdHh4tyHDdo",
+      "provider_id": "/g/11cn3q5pbw",
+      "rating": 5,
+      "reviews": 306,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Personal trainer"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "personal_trainer"
+      ],
+      "address": "184 Main St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 200-1221",
+      "website": "http://www.jackedandjilled.com/",
+      "description": "Clean strength-training spot with powerlifting platforms and squat racks, plus personal trainers.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "book_online": "https://www.mindbodyonline.com/explore/locations/jacked-and-jilled-jacked-and-jilled?rwg_token=AE37R_jbbWowyy0uTvf_lRkRN3_FxZtBOUkwvqEbrNPSZdy16jdRdCXHYclDyDslq7nDbw8gMNaSzQi0eVKv3Xc2hahQm9HA_Q%3D%3D",
+      "user_review": "\"Lots of machines, free weights, and barbells.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgFwN8E8lep4xG2MYmfNAmq-4XtO40RaWa_Sdz8ycQQMTs00r01ggQ7jJCDy23e4hLjfK6t3NnhJWQzfuV29upzcub_BIxXaKpV18UPTwaXfVD9YfDljZMzfjlSKpJfOwD7wuQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7o3m4HicHcTbboIwAADQL6qUSxRNfGDiLjDQDkTci2FdL2EFKm1T5Af3Dfsbk52H8_fLtZZq4ziC-ws2DEwQo8iIh16TXi_w0DlMKoAVUE50zNFP9MqebR7uQ0FkML142aWjedTdQFDrQwA_mnNzLb7n8I4RykoF4QhdxtCqTXbx3fNJwN9bmi61n_c8OaOZmspbGzlj83V9epvqJpWVG56OpW1qWsXrC41F-5nNtBVFKhN6sPHKGrS1LoQQ8P8x6B8vw0TX"
+    },
+    {
+      "position": 13,
+      "title": "Back Cove Personal Fitness",
+      "place_id": "ChIJZ71zeImbskwRpuiTqIRSQL4",
+      "data_id": "0x4cb29b897873bd67:0xbe405284a893e8a6",
+      "data_cid": "13709047995433216166",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b897873bd67%3A0xbe405284a893e8a6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b897873bd67%3A0xbe405284a893e8a6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6678613,
+        "longitude": -70.25630389999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ71zeImbskwRpuiTqIRSQL4",
+      "provider_id": "/g/1th23dfb",
+      "rating": 5,
+      "reviews": 36,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Personal trainer",
+        "Physical fitness program",
+        "Physical therapist",
+        "Thai massage therapist",
+        "Wellness program"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "personal_trainer",
+        "physical_fitness_program",
+        "physiotherapist",
+        "thai_massage_therapist",
+        "wellness_program"
+      ],
+      "address": "50 Cove St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20139\u202fPM",
+        "thursday": "6\u202fAM\u20139\u202fPM",
+        "friday": "6\u202fAM\u20139\u202fPM",
+        "saturday": "6\u202fAM\u20139\u202fPM",
+        "sunday": "6\u202fAM\u20139\u202fPM",
+        "monday": "6\u202fAM\u20139\u202fPM",
+        "tuesday": "6\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 200-1263",
+      "website": "http://www.backcovepersonalfitness.com/",
+      "description": "Fitness center offering a continuum of personal trainers and physical therapists.",
+      "extensions": [
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "book_online": "https://www.mindbodyonline.com/explore/locations/back-cove-personal-fitness?rwg_token=AE37R_hEEzTLF0Md6YqiuCjqiWp2C6_g5g0UqqxlnYOx0xDQaClUggTHBqniGYKFF6DWg60X31w9XimaZ6OOCy9SD2zYUJPziA%3D%3D",
+      "user_review": "\"I highly recommend Back Cove Personal Fitness!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5PNi34RxClRH8tvqtDoaHM3hnjv8LMKFchNPKMHzJKJ4TzO7GHHkgxvPfa5zuQWXuEZaCg8h4vU5s1Mifc9WbW-eunu2cLpC3Mg7Zb4XKUV99nD5sh89uYaEE7C95UPAL0Ua4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Dwav5HicHcThjoIgAADgJyLthCm39cOZxVI8apnVP2IGlYF3gNd8wZ6ht2nr-_G9nsq53n4HQaeiiTRGdq237Z8w2rXaTYS5B7K3QFhgg5RV61u6QKy6RHDzyLoNSdzw6-aGExopfR2SkhYLoSpWUDKuihXcjj_xkpCbfAzszNHo183e50eeyUTBoUZ2Si9ngZtTA1qv_Zco-yyiMj6e4L6odxjrObIqwf7A8zzOMKpZWoY1h7P_aRiGQH0WQL8BItNDIA"
+    },
+    {
+      "position": 14,
+      "title": "I Get Active",
+      "place_id": "ChIJPQldBjUqCCYReXzC56teO9Y",
+      "data_id": "0x26082a35065d093d:0xd63b5eabe7c27c79",
+      "data_cid": "15437036240163208313",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x26082a35065d093d%3A0xd63b5eabe7c27c79&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x26082a35065d093d%3A0xd63b5eabe7c27c79&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.648028599999996,
+        "longitude": -70.2612333
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPQldBjUqCCYReXzC56teO9Y",
+      "provider_id": "/g/11lnm92z2t",
+      "rating": 5,
+      "reviews": 27,
+      "type": "Physical fitness program",
+      "types": [
+        "Physical fitness program"
+      ],
+      "type_id": "physical_fitness_program",
+      "type_ids": [
+        "physical_fitness_program"
+      ],
+      "address": "Inside Good Medicine Collective, 231 York St, Portland, ME 04104",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 745-2405",
+      "website": "https://www.igetactive.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"10/10 recommend.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQ1rTWHN1noJoc3T1oQnM6jnc40e-3MsPurf6JBXPEdBGhcOPVhkitSsaSBLrXSP69XuTqD38P4DdaktC-D4pQUppN9EjpVgwgC4IkejHlvTbiWcFfpPONRXyFbSFH80bAlzDH4g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g85ADHicHcRdDoIgAADgE5E4mdO2HjQ1a2WYVr4mIfgTkGCtbtgRuk1b38P3_XBjlJ5b1sCdGZOSDXTSdCRSGCrMjMibxZQGRANtBTjL-yDO7bE8p5kt5EYSp7RlLnZuJwiCFDg7jaexcTdhheNruOJkj0-8b02hL0W4HasCu341lffI8TCKrpfeLEGEVH5UKvPjTp3Yky3RuqddOjzKuj2TpFF4nx2qV1IXSerBOhjeUYrY4mlDCAH_T4D4AaOTRLg"
+    },
+    {
+      "position": 15,
+      "title": "CrossFit Casco Bay",
+      "place_id": "ChIJZ28YR22cskwRxMrR6vBAasY",
+      "data_id": "0x4cb29c6d47186f67:0xc66a40f0ead1cac4",
+      "data_cid": "14297311370517007044",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6d47186f67%3A0xc66a40f0ead1cac4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6d47186f67%3A0xc66a40f0ead1cac4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6529908,
+        "longitude": -70.28186269999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ28YR22cskwRxMrR6vBAasY",
+      "provider_id": "/g/1tfkqc66",
+      "rating": 5,
+      "reviews": 213,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Physical fitness program",
+        "Wellness center"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "physical_fitness_program",
+        "wellness_center"
+      ],
+      "address": "1000 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7:45\u202fPM",
+      "hours": "Open \u00b7 Closes 7:45\u202fPM",
+      "operating_hours": {
+        "wednesday": "5:15\u202fAM\u20137:45\u202fPM",
+        "thursday": "5:15\u202fAM\u20137:45\u202fPM",
+        "friday": "5:15\u202fAM\u20136:30\u202fPM",
+        "saturday": "8\u201310:15\u202fAM",
+        "sunday": "8\u201310\u202fAM",
+        "monday": "5:15\u202fAM\u20137:45\u202fPM",
+        "tuesday": "5:15\u202fAM\u20137:45\u202fPM"
+      },
+      "phone": "(207) 699-4080",
+      "website": "http://www.crossfitcascobay.com/",
+      "description": "Spacious gym for CrossFit with group classes, featuring encouraging coaches.",
+      "extensions": [
+        {
+          "service_options": [
+            "Online classes",
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "outdoor_services": true,
+        "onsite_services": true
+      },
+      "user_review": "\"The facility offers a number of great programs that fit your schedule.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxtvsijifip-x4F4meumPMijuGbj1a_zJIeb3QjkSSXwGw8Ou6HQyr57rcdPSFttE5qJTe8zQiRT9dosH_-S8vJUOSZxw76gNaWk52Kcqd2BPfwav9-tHSMue_2vVKmxXrwBks=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_qBHEHicHcThEkIwAADgJ1qklLrrR-6SdIWmcv1xzGLEsM3kBXuG3qa7vh_f95Nz3rC1orzy2SSjNHthwXCHaM1xzSeIVkrWMIAYYMrWO_vl1hp4z0hBnqQBw9yaV1hU3okUYp8U0zganQNOZn5RQhjKvTRcsbD9d6cvO5R60OJ8p7dOgI3RJ5dglVJmRwAavXN14WOQy0V2ju-lrh1Rm2qm95RxvwLchieBI62_Hash7KRZso2cqqoK8v8I1D8cVEaD"
+    },
+    {
+      "position": 16,
+      "title": "Anytime Fitness",
+      "place_id": "ChIJMz8PIp2eskwRX0dTkJg4FnM",
+      "data_id": "0x4cb29e9d220f3f33:0x731638989053475f",
+      "data_cid": "8292877991756908383",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e9d220f3f33%3A0x731638989053475f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e9d220f3f33%3A0x731638989053475f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6373519,
+        "longitude": -70.2549892
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMz8PIp2eskwRX0dTkJg4FnM",
+      "provider_id": "/g/1q64dx8l4",
+      "rating": 4.2,
+      "reviews": 137,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Personal trainer",
+        "Physical fitness program",
+        "Weightlifting area",
+        "Women's personal trainer"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "personal_trainer",
+        "physical_fitness_program",
+        "weightlifting_area",
+        "womens_personal_trainer"
+      ],
+      "address": "180 Waterman Dr, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 613-0638",
+      "website": "https://www.anytimefitness.com/locations/south-portland-maine-3549/?utm_source=google&utm_medium=organic-businesslisting&utm_campaign=gbp-listing&utm_content=3549",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Great gym, great equipment and amazing pricing!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEelXRg5FA4Affcga0czG4FPeTmQf5ujdeSLcqepWqXmR9tbPGUp5v_cxFcbuKp6FqAiMkvhP-gXmYL1x0xi9RLgckuwiEox4ctaW7CXKdM8x_B4mNtGZOK4cSRt9y9C8bPRaQn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/h8kCnXicHcTBboIwGADgJ6rUWFSWeKhGOICu1C2yXQz8lsKgtKxFu73gnmFvY-J3-P7_GueMfQmCvlnMpNayF5MV36AHJwY3A60CaSwCi2xA2THv6F70BZdhTAmta5Alht-ExEy8qbwOp6-rOGUwCnMeC8UjV7Hk3YS3C_gYqik1y3ik7aG7NQzJQn1kc499G_FMQjfd2732BFx5Xu2K9HpY-8uWqKNLPl9TAifuop9ot64YL_Nhc59jjFHzHNDwAMxDRbc"
+    },
+    {
+      "position": 17,
+      "title": "Fitness Equipment Maine",
+      "place_id": "ChIJVTv8aAacskwRjPqO-FLuSHI",
+      "data_id": "0x4cb29c0668fc3b55:0x7248ee52f88efa8c",
+      "data_cid": "8235093958771800716",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0668fc3b55%3A0x7248ee52f88efa8c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0668fc3b55%3A0x7248ee52f88efa8c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.651463299999996,
+        "longitude": -70.28011649999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVTv8aAacskwRjPqO-FLuSHI",
+      "provider_id": "/g/11gbzct6k9",
+      "rating": 4.9,
+      "reviews": 88,
+      "type": "Exercise equipment store",
+      "types": [
+        "Exercise equipment store"
+      ],
+      "type_id": "fitness_equipment_store",
+      "type_ids": [
+        "fitness_equipment_store"
+      ],
+      "address": "244 St John St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 536-1160",
+      "website": "https://fitnessequipmentmaine.com/",
+      "description": "Workout gear and weights store offering treadmills, ellipticals, exercise bikes and other equipment for homes, gyms and commercial spaces.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"It included a treadmill, elliptical, water rower, and a set of dumbbells.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH79pwH7k5vUO2SavcJQ4e-digyFHdKuz8qLfqkbyrzXBIiKPXqRxpv-g1X0G4iSHxTXiCaxnAWiK3Zy7McEGV-duJZfTChEoFeukTMVIrRZLSxFGDZnOIclhvtGpFxHju0mu5P=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PkI5XHicHcRRboIwAADQE1Xq1KBL9sGcUEQnCirhz5XaVrAttMXiBT3DbrNk7-P9vpgxSr97XsMmIyolbYjVpMNSGCLMCMu7R5UGWAPtBen3vg6Qv1AP5Nez_rh7yy49Xu-nBFScDiGqEvuct5trW_8M3bP4jHmSFu3BqR7QcQGjKc-Qywu-vDgRnHkyKQd_i1fRCVR2XV7zJVvJkNg6357i7lBuMhdGX6XYxbhhvYlU6NDNwrudpR-PMYQQsP8xEH-tzEXX"
+    },
+    {
+      "position": 18,
+      "title": "EVO Rock + Fitness Portland",
+      "place_id": "ChIJoQv1_QWbskwRtxLJtrmqdGI",
+      "data_id": "0x4cb29b05fdf50ba1:0x6274aab9b6c912b7",
+      "data_cid": "7094483027627676343",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b05fdf50ba1%3A0x6274aab9b6c912b7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b05fdf50ba1%3A0x6274aab9b6c912b7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6891314,
+        "longitude": -70.2993262
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoQv1_QWbskwRtxLJtrmqdGI",
+      "provider_id": "/g/11b6p5mmtr",
+      "rating": 4.7,
+      "reviews": 127,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Rock climbing gym",
+        "Outdoor sports store",
+        "Rock climbing",
+        "Yoga studio"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "rock_climbing_centre",
+        "outdoor_sports_store",
+        "rock_climbing",
+        "yoga_studio"
+      ],
+      "address": "65 Warren Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u201310\u202fPM",
+        "thursday": "10\u202fAM\u201310\u202fPM",
+        "friday": "10\u202fAM\u20139\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20139\u202fPM",
+        "tuesday": "10\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 780-6370",
+      "website": "http://www.evorock.com/portland-me/",
+      "description": "Well-equipped gym with tall indoor climbing walls, bouldering and yoga spaces.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Great line climbing, including auto-belay systems.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVnQL3CcXc3vos5k76taI9VL5SUBtHvLoOIqLJa3Yl9YNnirumHsLvUH3PC0kP2pcHion-G6I99-wO1mBA5G26abG7Swj1V3pXtiFkoBXL96GQuDxlIrpUTRypzfMTAcKTUv30Qg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/o_lWn3icHcRRDoIgAADQE5EY00ZbH1pLLCotdfppzNRUIEGtbtgRuk1b7-N9P5XWUi0No63QrBSibItBFT0TXBdcz5jojFIqwBRQhhMcw8YhCQ8pWrOUoVEoq1nYOvdxQq1L7GoyUnHyH3SXo6zF2ZHX_dARRceYoGANm2AuGakFB57tYwymk9m5juXN7fzqLS7T3UyQTHW9bYSbUmx74bB5tn4v4-j8ku_bIXLYPopHBMNyNZkQQlD9Z4D_AH_9RDM"
+    },
+    {
+      "position": 19,
+      "title": "F45 Training Downtown Portland",
+      "place_id": "ChIJXdLoseqdskwRtpdG8rV6InI",
+      "data_id": "0x4cb29deab1e8d25d:0x72227ab5f24697b6",
+      "data_cid": "8224270791404328886",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29deab1e8d25d%3A0x72227ab5f24697b6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29deab1e8d25d%3A0x72227ab5f24697b6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.659825999999995,
+        "longitude": -70.265936
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXdLoseqdskwRtpdG8rV6InI",
+      "provider_id": "/g/11qbbbxffc",
+      "rating": 5,
+      "reviews": 37,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Training center"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "training_center"
+      ],
+      "address": "178 Kennebec St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:30\u202fPM",
+      "hours": "Open \u00b7 Closes 6:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20136:30\u202fPM",
+        "thursday": "5\u202fAM\u20136:30\u202fPM",
+        "friday": "6\u201310\u202fAM",
+        "saturday": "8\u201310:30\u202fAM",
+        "sunday": "8\u201310\u202fAM",
+        "monday": "6\u202fAM\u20136:30\u202fPM",
+        "tuesday": "5\u202fAM\u20136:30\u202fPM"
+      },
+      "phone": "(207) 286-6096",
+      "website": "https://f45training.com/downtownportland/home",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"I found it on ClassPass too and it was cheaper than most gyms I go to.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHj9_nsWkOeHjE-v_aZxgV0V2wXQ8VZjj53Mw472DS8dksidsOa-CnbvSFykt2gYme_rEJsNQFZjmcc5ptTNkTT04zw9F8rDQWgObP4ftKeEoZ3mWRi8ifDYRtzyuNi6ft8TbCP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/baR_6XicHcTdboIwGADQJ6p0gK4u2YURiHEZP0pgckOklkIrLeH7lOkL7hn2Nkt2Ls7vT4c4wpvjXDtvIa2VV3EDMXFrUBhccDs4cgTCgYCzSeNMb3ZqXRsodSJ2KiT3-lx9y4IW7vyVsaJSaul9zv6rGxzZRUN_geRMtqa5H6OHRleeBlFP4R7iLKrUwPlyxDzWeU7957yO2BRkpUya1G_xQ4S28oby0LO-DU4HfD5ucb9qkeXNNn2fXyilpPufE_MHotVFnA"
+    },
+    {
+      "position": 20,
+      "title": "Planet Fitness",
+      "place_id": "ChIJsQB-aIWZskwR94Bdh0wpiao",
+      "data_id": "0x4cb29985687e00b1:0xaa89294c875d80f7",
+      "data_cid": "12288398466922414327",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29985687e00b1%3A0xaa89294c875d80f7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29985687e00b1%3A0xaa89294c875d80f7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.639535699999996,
+        "longitude": -70.3329162
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsQB-aIWZskwR94Bdh0wpiao",
+      "provider_id": "/g/1tvq3qpk",
+      "rating": 4.4,
+      "reviews": 528,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Spa",
+        "Tanning salon"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "spa",
+        "tanning_studio"
+      ],
+      "address": "198 Maine Mall Rd, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "12\u202fAM\u20139\u202fPM",
+        "saturday": "7\u202fAM\u20137\u202fPM",
+        "sunday": "7\u202fAM\u20137\u202fPM",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 773-7774",
+      "website": "https://www.planetfitness.com/gyms/south-portland-me?utm_medium=organic&utm_source=extnet",
+      "description": "Affordable chain fitness center offering weight machines, treadmills and free weights in a clean facility.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Place is great if you need a treadmill or basic calisthenics work.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3Zlq6YmdRytJ5wh9pzrVqm2Dk1JWPYRHezWXpurX9C46F26Gh-01C_Qop-t0CQrbrwRTPepJ4oji3l1yC3EW4ZsC84LeNLBBBWuwfLLKJOngCOAeif3ILsBNmj1GrSJ33pTM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Fk-A0nicHcRRDsEwAADQE9VanQWJj60YVbPNYviRmFqxrdV2WTigO7iNxPt434-wVpmx41QC90opy4q3hutCNpY3tlfI2imVAYUBxvHjKHn4IT5WT-9QX9KXpYNOjNRb7551f_pANI8P6YK_871q9X5EXG_e90IBICKnRCpgIUn0WXdpFnNFXXm_4Qq9CJ7l7tGQoct4xIIgyNvuytiKbpqSbHx-u-IlM0FU31GotxRjla0nHYIQAvG_AM0P4zNDGA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=cheap+gyms+in+Portland%2C+ME&start=20&type=search"
+  }
+}

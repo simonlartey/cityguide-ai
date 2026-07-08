@@ -1,0 +1,836 @@
+{
+  "search_metadata": {
+    "id": "6a4e68507d6e70f2522cace4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rEd-zQ7p8Byou5rCQR1fTA/6a4e68507d6e70f2522cace4.json",
+    "created_at": "2026-07-08 15:10:08 UTC",
+    "processed_at": "2026-07-08 15:10:08 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/bus+routes+near+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/rEd-zQ7p8Byou5rCQR1fTA/6a4e68507d6e70f2522cace4.html",
+    "prettify_html_file": "https://serpapi.com/searches/rEd-zQ7p8Byou5rCQR1fTA/6a4e68507d6e70f2522cace4.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "bus routes near Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "bus routes near Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Forest Glen Rd & Portland Rd",
+      "place_id": "ChIJRXXiiUXPt4kRbI0s2jlEnKM",
+      "data_id": "0x89b7cf4589e27545:0xa39c4439da2c8d6c",
+      "data_cid": "11789372939813293420",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7cf4589e27545%3A0xa39c4439da2c8d6c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7cf4589e27545%3A0xa39c4439da2c8d6c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 39.0179088,
+        "longitude": -77.0258956
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRXXiiUXPt4kRbI0s2jlEnKM",
+      "provider_id": "/g/1v44fw6x",
+      "rating": 1,
+      "reviews": 1,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Kemp Mill, MD 20901",
+      "country": "United States",
+      "extensions": [
+        {
+          "getting_here": [
+            "24-hour transit available"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=POjzqQkauA5taaRBZZhMjQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=181.04729&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5eJ-MnicHc1LDoIwFADA23RnP0QjmDRG90ZxycY8SqXFQit9UPU0XsvbaLzAzOdtEEPcMBZx1Bpnq1OwD-3iIgBtvW-dhmAjVb5ns2Bopr4ewLptgMHbRp6O3ete3mDarRDgvK8qc-hKouqLclYPKKOGURnapp84-oa2IZIkc06MLDLyhCRFLihfrrOCBIvKSE7-y9XPUnD-BZ8NOfI"
+    },
+    {
+      "position": 2,
+      "title": "Forest Glen Rd & Portland Rd",
+      "place_id": "ChIJRXXiiUXPt4kRD0n8nX0mjiU",
+      "data_id": "0x89b7cf4589e27545:0x258e267d9dfc490f",
+      "data_cid": "2706142747059570959",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7cf4589e27545%3A0x258e267d9dfc490f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7cf4589e27545%3A0x258e267d9dfc490f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 39.018028,
+        "longitude": -77.02579899999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRXXiiUXPt4kRD0n8nX0mjiU",
+      "provider_id": "/g/11gbktzxtx",
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Kemp Mill, MD 20901",
+      "country": "United States",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QqkkczTLoOSICusyYjSs5g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=346.71777&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pPRGPXicHc3NDcIgGADQbbgJ1D_UhHjwZGJiTL14MpQiYClgP1qs07iW22hc4L3P26QUYUMIpE6pNFiVo30qB5MosA5BOyWiBSxDS4aCJNO3lRfWbaPwwdb89Gga-TofwrHc73oYL_cSFhrJ6iqdVT5xUKKTBuv8E7tQYx0BZb6iyPD1FI0i89l8iVnBGEPRJmk4Rf_lFgZeUPoFuew6Sg"
+    },
+    {
+      "position": 3,
+      "title": "Metro BREEZ",
+      "place_id": "ChIJ1Qu_eQOcskwROhO5Kt7TFGs",
+      "data_id": "0x4cb29c0379bf0bd5:0x6b14d3de2ab9133a",
+      "data_cid": "7716025012745474874",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0379bf0bd5%3A0x6b14d3de2ab9133a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0379bf0bd5%3A0x6b14d3de2ab9133a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6538305,
+        "longitude": -70.29128829999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1Qu_eQOcskwROhO5Kt7TFGs",
+      "provider_id": "/g/11ghr13knw",
+      "rating": 4.1,
+      "reviews": 16,
+      "unclaimed_listing": true,
+      "type": "Transportation service",
+      "types": [
+        "Transportation service"
+      ],
+      "type_id": "transportation_service",
+      "type_ids": [
+        "transportation_service"
+      ],
+      "address": "114 Valley St, Portland, ME 04102",
+      "country": "United States",
+      "phone": "(207) 774-0351",
+      "website": "https://gpmetro.org/313/Metro-BREEZ",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Drivers are always polite and helpful.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=w51lb9OIOJoRWOLci4Dygw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=296.94574&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SqaCAnicHc1BDsIgEADA33ATqGlVTDZevGhMmnjxaChF2IQWUtZif-O3_I3GD8x83p4o5b0QmSZraUZbEr5syKukuYvRBasTZm7iIOZKkH8O3agxHJIeI_ZQmip0qj2153i9tReD9XFxhZnubgLakSBbPRnPXfmJU-y5S5kV2EnmQa3Zogus1YarutnWLCEZD5L9l0ecoZLyC232OXk"
+    },
+    {
+      "position": 4,
+      "title": "Concord Coach Lines: Portland Transportation Center",
+      "place_id": "ChIJdaABGfqbskwR9EuhxBfI1ng",
+      "data_id": "0x4cb29bfa1901a075:0x78d6c817c4a14bf4",
+      "data_cid": "8707366933976140788",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bfa1901a075%3A0x78d6c817c4a14bf4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bfa1901a075%3A0x78d6c817c4a14bf4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653971299999995,
+        "longitude": -70.2912628
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdaABGfqbskwR9EuhxBfI1ng",
+      "provider_id": "/g/11c0w5xycz",
+      "rating": 4.6,
+      "reviews": 1488,
+      "type": "Bus company",
+      "types": [
+        "Bus company"
+      ],
+      "type_id": "bus_company",
+      "type_ids": [
+        "bus_company"
+      ],
+      "address": "100 Thompsons Point, Portland, ME 04102",
+      "country": "United States",
+      "phone": "(800) 639-3317",
+      "website": "https://concordcoachlines.com/stop/portland-maine/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Reliable service, nice facilities, kind and helpful bus drivers!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjQrNAaBTOVfcmpzLc52LZvi5tbxIFrQEmYedoyoZVSJTAt1IyH8l670Fi03UfgkIy9qTKwQfUOHCKl3sE2c79yp-dXqlZ6JQVP04X7TuyJsmihMxk1bdue3i6oTBJKINk65D3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xC6GqnicHcRLEoIgAADQE5EYqdVMC_s4qWUxkVPuCvGTKCZY0QU7Q7dpprd430-hVCunhsELNMiFyDnrJeuoaBRr1ICK2shbCagE0nD3Ea5c74a7yL3MyS7OaN2-N9QabpJHaanry_c6vKrPLBVaJPEhIK4yfb0ec9uBXgnRMcsrX0_uJHzi7LhbL0KO5GpInYluQXq688QOcLyHo5NDeh3Iuiy2r8q8pj1DpS3IPAj9qLKtJZo9TQghKP5T0PwAccJEPA"
+    },
+    {
+      "position": 5,
+      "title": "Greyhound: Bus Stop",
+      "place_id": "ChIJ-1Z3ogicskwRSW4htSPmcXs",
+      "data_id": "0x4cb29c08a27756fb:0x7b71e623b5216e49",
+      "data_cid": "8895143780070551113",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c08a27756fb%3A0x7b71e623b5216e49&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c08a27756fb%3A0x7b71e623b5216e49&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.666264399999996,
+        "longitude": -70.2590912
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-1Z3ogicskwRSW4htSPmcXs",
+      "provider_id": "/g/1v3kmn_c",
+      "rating": 3.4,
+      "reviews": 226,
+      "type": "Bus company",
+      "types": [
+        "Bus company"
+      ],
+      "type_id": "bus_company",
+      "type_ids": [
+        "bus_company"
+      ],
+      "address": "274 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "phone": "(800) 231-2222",
+      "website": "https://www.greyhound.com/bus/portland-me/portland-park-ride?utm_source=google_maps&utm_medium=organic",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"But, it was clean and safe\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxilcopXbp0yalStxmdMTJTiDZ5CWZyHOzo-hkX7g4LaMTiWw-QoP8EBywJx7X3kVuiMX54jGdKq21So1vRj-KZqEIOBXqPe7S1L947kIGsA3NlZ2_B99T17_SUjarjRp4DyWM_w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fZddPnicHcRJDoIwAADAF1WoYComHkARNxQBpeFCsBK2SoutAv7QJ_gbE-cw308hJRczRaGFNsoZy2n2FNmDsEZmjRwRdldyLgARQCimdzjV5qovKWEcX7k6pDSQ_f3mhtuwXMaTRRQP6-ObgaLGKNf3qRuWUQdOzJva1tBte4S1-vIsXTzRK-e2a8cwYPDlV2AXt_bmaOHWy1AA94aO6o0jTO1A43FiGUYIURKcq_RR-VxfDpGbdPMOqqoKiv8END8g8kTT"
+    },
+    {
+      "position": 6,
+      "title": "Haycock Rd & Mustang Aly",
+      "place_id": "ChIJS-O039O0t4kR_er6svFQPo8",
+      "data_id": "0x89b7b4d3dfb4e34b:0x8f3e50f1b2faeafd",
+      "data_cid": "10321776394999884541",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7b4d3dfb4e34b%3A0x8f3e50f1b2faeafd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7b4d3dfb4e34b%3A0x8f3e50f1b2faeafd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.896313,
+        "longitude": -77.188942
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS-O039O0t4kR_er6svFQPo8",
+      "provider_id": "/g/1ptxz83sf",
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Idylwood, VA 22043",
+      "country": "United States",
+      "extensions": [
+        {
+          "accessibility": [
+            "Passenger loading area"
+          ]
+        },
+        {
+          "getting_here": [
+            "24-hour transit available"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjMkndccy7qAIDoxhY-36Zz_0t4ddEJaYbcQpF125wUToomHOnhKMZTezJQ0lcDbj78TMiwbtydSiYF3Ba_zxdCF9d5D6mj60UurcLBJnSf0O6Ld3jGR223BmGPcgY7bWHMQwa4tEjdR75=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qiYJ-3icHcTBboIwGADgJ6pUKjBNPICIDGWKYBa8GPiL1AotsyUoL-l5b7Nk3-H7fTOtO7UwjIaRSS1l3VS9qh4gha6EnoBsjbpTCBRShnv4Su5uyOO7oAAv58f99OWT5YjY5_GC9YzSdVTkJSRdMDWt4ZRJ2YZ7wbbxOavGKMEN-CV3PrL4NpT6RdNbHhCvuIxPugrm1PLtltv41D9g50UiveK9vaOEb46mSbx2c4A6d8rvME6GYqbXnB4dazlMMcaI_Q9I_AGwV0a7"
+    },
+    {
+      "position": 7,
+      "title": "ROCKLEDGE DR & LOCKHEED MARTIN opp nb",
+      "place_id": "ChIJ20ST7HrMt4kRHfgGFYIR7Vk",
+      "data_id": "0x89b7cc7aec9344db:0x59ed11821506f81d",
+      "data_cid": "6479854689252210717",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7cc7aec9344db%3A0x59ed11821506f81d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7cc7aec9344db%3A0x59ed11821506f81d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 39.028999,
+        "longitude": -77.138565
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ20ST7HrMt4kRHfgGFYIR7Vk",
+      "provider_id": "/g/1vxg01jv",
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "North Bethesda, MD 20817",
+      "country": "United States",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O2kD3ksH3nlUaImjppgrfw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=85.56755&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oM8sqHicHc29DsIgFEDht2ETqA3-JcTFQScnZ0MpBSyFG7gWfRqfy7excTvTd74fhwjlwFjBbAzO3lTwLxPKChS1KdlgFPhCdZrY3DB0z6mLyocjqJh8L6_r8dSO5dzGcFOX6QFg81CJ7u46eBNRFqOydtTWRcyppxYKqXLHiZP7NXmrpQUVm60QBDxqJzn5T4Y0y4bzH2gXOeI"
+    },
+    {
+      "position": 8,
+      "title": "N Shore Dr at Wiehle Ave",
+      "place_id": "ChIJddhCrNI3tokREp-QC3EanrY",
+      "data_id": "0x89b637d2ac42d875:0xb69e1a710b909f12",
+      "data_cid": "13158984234050821906",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b637d2ac42d875%3A0xb69e1a710b909f12&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b637d2ac42d875%3A0xb69e1a710b909f12&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.969635,
+        "longitude": -77.332886
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJddhCrNI3tokREp-QC3EanrY",
+      "provider_id": "/g/11gh1mdfp9",
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Reston, VA 20190",
+      "country": "United States",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X-VVOvZbYzdPOoX6VvoGHg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=201.7905&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LZ_Ar3icHc1LDsIgFADA27Ar0CZ-avLiUnd11VQ3hlIEEsojBUG9jOfyNhovMPN5m5RC3DEW06JUylaVYB_KxSoIqhG1UyLYSCXOLNcsmfs8emHdPgiPdoKh6vsuX8bzazp1OKz7jIejJnK8SmeVTxCVWKShuvzEBSeqQyQFtpwYaBvyFAUaXtNNy1ck2CQNcPJPbpih5vwLUoo5hQ"
+    },
+    {
+      "position": 9,
+      "title": "N Shore Dr at Wiehle Ave",
+      "place_id": "ChIJ37B5m9I3tokRpTiDvi587G4",
+      "data_id": "0x89b637d29b79b0df:0x6eec7c2ebe8338a5",
+      "data_cid": "7992899978882398373",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b637d29b79b0df%3A0x6eec7c2ebe8338a5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b637d29b79b0df%3A0x6eec7c2ebe8338a5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.969919999999995,
+        "longitude": -77.33443
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ37B5m9I3tokRpTiDvi587G4",
+      "provider_id": "/g/11hd8gssjn",
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Reston, VA 20190",
+      "country": "United States",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kv-c1mJUI7UklvsTv8m_UA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=333.0669&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yz8qKHicHc1RDoIgGADg2_AmYG6mbaz5WM_57BAJmCD__AnqNJ2r29S6wPd93jYlwBNjmHatU3a6gHtqjxVIamI0XktwSFUMLNcs2UeYN-n8GeQW3SLWXKk6XMfLcVx9xlvuwjQORM2T8k5vSaCWu7LUlJ-4x4UaQFJEx4kV_YG8ZBFN01Detj0Bl5QVnPyTe8yi5vwLTqc5fA"
+    },
+    {
+      "position": 10,
+      "title": "Maine Mall",
+      "place_id": "ChIJKd8YMBOZskwR-D3MPT6rU84",
+      "data_id": "0x4cb299133018df29:0xce53ab3e3dcc3df8",
+      "data_cid": "14867415078693256696",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299133018df29%3A0xce53ab3e3dcc3df8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299133018df29%3A0xce53ab3e3dcc3df8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.634448,
+        "longitude": -70.334253
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKd8YMBOZskwR-D3MPT6rU84",
+      "provider_id": "/g/1tdf0z0h",
+      "rating": 4.5,
+      "reviews": 11,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "South Portland, ME 04106",
+      "country": "United States",
+      "extensions": [
+        {
+          "accessibility": [
+            "Passenger loading area",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ5A9TyrhoZac_2lO1Ew7VpUlMeTBwDphmU2MU2a5rF_47gzHy826V6GH6pUjqK1wmusbJ3hamqg-kz9Vcegak2d5K6QFhDYNzYd7ElZSfD5UwOFNnSNwWZjE9AlRj6aeI1Unq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3wVm-HicHcRdboIwAADgE1WgjiJLfMAAYxrxtyzyYrratYHSFopp5II7g7cx8Xv4nv9iHI399Dwp5jOuNZfsbtlAtRqZGmdUdx43FlALrJfsy0ObFHWYxOfHIHRN6BXKXZC5qDJYbtl55VIjOgy3GJJwyK8fEZ-KxwKiCn0VyOCm3wSuu9vf9VyQruegneKKMk5aeAs36JCL9FJOl1uUyfr0l4bY7fJSnUr3UzdZnMhjgwj7DrDqly7wfR-I9xSoF0QURF8"
+    },
+    {
+      "position": 11,
+      "title": "Metro Pulse at Elm Street",
+      "place_id": "ChIJ74KlrhScskwRNKN3vCYQXaQ",
+      "data_id": "0x4cb29c14aea582ef:0xa45d1026bc77a334",
+      "data_cid": "11843640353611031348",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14aea582ef%3A0xa45d1026bc77a334&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14aea582ef%3A0xa45d1026bc77a334&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6583014,
+        "longitude": -70.2593988
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ74KlrhScskwRNKN3vCYQXaQ",
+      "provider_id": "/g/1thpwfmb",
+      "rating": 3.2,
+      "reviews": 26,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Portland, ME 04101",
+      "country": "United States",
+      "extensions": [
+        {
+          "accessibility": [
+            "Passenger loading area",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"I find myself in Portland and have depend on the metro.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUsSdqS5SC5-RoxS3lQQvierh3W4wbqDmdoHs3stAiWUPKyFp5pXeGgmiEUU6g8jkRv19LT6TSGpHF_A4zXfbe3veh2pO8qEn0kG3XUmvdEj4DagcLrkQsqmleuBP9qbpXUu6o=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ChEu1nicHc7BboIwGADgJ6qgBaJLPKACJjMbWBu5GSm1RSht-Su6veCeYW-j8fKdv_8_6ZyBD8_rJJ4IrUXHb8AHpnvHezdhWnnCAGKAwIvzr6KNUwqktiQk6xDt9YPgrijGhg8SH4N7ZTeq1lvA4OLmSPPPn9SEpuSZUE1CaSTm13Y_The7Q3Qgmdmmpzj4LS8VxyOXM_M9t0nvtxkuqRrr5BpszoLthrYAq16xVb6wlSnpLdLL-9T3fSTfMtQ_AaXuRc4"
+    },
+    {
+      "position": 12,
+      "title": "Portland Transportation Center",
+      "place_id": "ChIJ_____-ubskwROWV8txJ27JE",
+      "data_id": "0x4cb29bebffffffff:0x91ec7612b77c6539",
+      "data_cid": "10514909052763137337",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bebffffffff%3A0x91ec7612b77c6539&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bebffffffff%3A0x91ec7612b77c6539&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.654097,
+        "longitude": -70.291258
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_____-ubskwROWV8txJ27JE",
+      "provider_id": "/g/1vn183mt",
+      "rating": 4.3,
+      "reviews": 154,
+      "type": "Train station",
+      "types": [
+        "Train station"
+      ],
+      "type_id": "train_station",
+      "type_ids": [
+        "train_station"
+      ],
+      "address": "Transportation Center, 100 Thompson's Point Road, Portland, ME 04102",
+      "country": "United States",
+      "phone": "(800) 872-7245",
+      "website": "https://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=POR",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Passenger loading area",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Has some basic facilities and connects to buses and the Amtrak train.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpzVoz_OCAMcV1bZ97_7580y1heqYHGyfDVWFBZ3jzvDfDw1ZEs2btdLUbO7pIIKxw4zHLo5_dBUWad5R3vN_aNNpsCm1Epn_UM_T2DavHLfpkh9ZNTgdWJvwhRnfUCMxkKQa1uNTweSc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SOVrTHicHcTbboIwAADQL-JSGWGa-ICgA4V645Lx0kApNEPbaitVPnLv_s2SnYfz_qVKCbmwrAt1zJ7z_kIektwxZ4owZWJ-tXohDSwNafkHeBz8jZgKPqF94Ke4AE0195DnftovQMntO_p6dWFRblaV8zONYRdqUK3lrFFtkjd7T8Tx7qk_pijhLmpXeVm37skZIaohFDK4grVgKE9RNgvrMUo6MdB5BbO-LbejpifW5UH6HHbHGjxgpskZLzWwbdug_2OD_QFTWEee"
+    },
+    {
+      "position": 13,
+      "title": "Greater Portland Metro",
+      "place_id": "ChIJdaABGfqbskwR3T96slswDrQ",
+      "data_id": "0x4cb29bfa1901a075:0xb40e305bb27a3fdd",
+      "data_cid": "12974360746895491037",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bfa1901a075%3A0xb40e305bb27a3fdd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bfa1901a075%3A0xb40e305bb27a3fdd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.647305599999996,
+        "longitude": -70.2776635
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdaABGfqbskwR3T96slswDrQ",
+      "provider_id": "/g/1tj913xt",
+      "rating": 3.7,
+      "reviews": 50,
+      "unclaimed_listing": true,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office",
+        "Transportation service"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office",
+        "transportation_service"
+      ],
+      "address": "114 Valley St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11:15\u202fPM",
+      "hours": "Open \u00b7 Closes 11:15\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201311:15\u202fPM",
+        "thursday": "8\u202fAM\u201311:15\u202fPM",
+        "friday": "8\u202fAM\u201311:15\u202fPM",
+        "saturday": "8\u202fAM\u201311:15\u202fPM",
+        "sunday": "8\u202fAM\u201311:15\u202fPM",
+        "monday": "8\u202fAM\u201311:15\u202fPM",
+        "tuesday": "8\u202fAM\u201311:15\u202fPM"
+      },
+      "phone": "(207) 774-0351",
+      "website": "http://gpmetro.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Smooth on time ride\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2_YhVMMj9wa1Er4WVUae8BtyHhbyG9KOcLzXdDmDHy7-YUgs6vNijywAvM4Zpx0iGumwHtrniAnc_verNWYwXjRQGVQx-Fih__ZkJ3clArroCKOBAxsu1QR2aJexQTO4-_p1l=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NJJhRnicHcTbDoIgAADQLyK1XLetB7rpKjVaWfbCjJhoCg5QtB_sG_qbts7D-X6Y1rWaW1bJRoNMiKykjaKSCK4p1wMiKiurFSAKKAseQ_SCmyFOWBwExcykzka61_iS0ulS9z579N5sH5HD-_ZcV2u_n4DkkqlxG-ZFb2AbuPe6s3OvqYyvJc8hJ7ilMrwm5lackBejDmxzhvH9tRuREkopVvtoCTvVOOg0THe0Q-fIBbh2yoVxbNsG7D8B_AfPOUYE"
+    },
+    {
+      "position": 14,
+      "title": "Greater Portland Metro Pulse & Customer Service",
+      "place_id": "ChIJL5fArRScskwR2Mg69KJCNHg",
+      "data_id": "0x4cb29c14adc0972f:0x783442a2f43ac8d8",
+      "data_cid": "8661621250989934808",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14adc0972f%3A0x783442a2f43ac8d8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14adc0972f%3A0x783442a2f43ac8d8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6585219,
+        "longitude": -70.2593685
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL5fArRScskwR2Mg69KJCNHg",
+      "provider_id": "/g/11gyxh5rcx",
+      "rating": 3,
+      "reviews": 23,
+      "unclaimed_listing": true,
+      "type": "Transit depot",
+      "types": [
+        "Transit depot"
+      ],
+      "type_id": "transit_depot",
+      "type_ids": [
+        "transit_depot"
+      ],
+      "address": "21 Elm St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7:30\u202fPM",
+      "hours": "Open \u00b7 Closes 7:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20137:30\u202fPM",
+        "thursday": "6:30\u202fAM\u20137:30\u202fPM",
+        "friday": "6:30\u202fAM\u20137:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "6:30\u202fAM\u20137:30\u202fPM",
+        "tuesday": "6:30\u202fAM\u20137:30\u202fPM"
+      },
+      "phone": "(207) 774-0351",
+      "website": "https://gpmetro.org/9/Contact-Us",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"On time and usually nice drivers.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSp_81295tzASTSZSBCd4fXkAwClMwAeqOXVfpFyp9cSA3I2uY62dsf1pdo885Gu6EeJD28EykUkStQvpLQVzTgDJLi7U85BhmXJI2qmic-JNpzB9tZ3PC5y7dxFfZXitof26Lxw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ljqLSnicHcRJDoIwAADAF1WgCBYTDwWXSHAhFYNcPJQWCEurLSL80Cf4GxPnMN9PqbVUS8NoSntWCFE0rFfsSUWnWadnVLRGIRWgCigDn49xjXdE3pEFPUdPmFxIRvwgn_O0xkPQHAbMHqf0yuV2lB4l2N7D_ubCXHFL5gIhZ9e7GxauIdqMdVITHb9kFF-nS7EOo2qRIMcv2zTcw0dbURAe5eR7OrPPgTMu8veWZ2mlBYdu9B5Wg2WaJij_U9D9AIg9RI8"
+    },
+    {
+      "position": 15,
+      "title": "Portland Public Library",
+      "place_id": "ChIJz-W6xhScskwRBtOTHtStuvE",
+      "data_id": "0x4cb29c14c6bae5cf:0xf1baadd41e93d306",
+      "data_cid": "17418425635366490886",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14c6bae5cf%3A0xf1baadd41e93d306&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14c6bae5cf%3A0xf1baadd41e93d306&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657578,
+        "longitude": -70.259053
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz-W6xhScskwRBtOTHtStuvE",
+      "provider_id": "/g/1tncshhd",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Portland, ME 04101",
+      "country": "United States",
+      "extensions": [
+        {
+          "accessibility": [
+            "Passenger loading area"
+          ]
+        }
+      ],
+      "user_review": "\"A super great library.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JvHCNYOp2GEmophx5a_PrA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=341.90128&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A7FUEXicHc1NCgIhGADQ27jLn6lgJpCIiKJFtW01OI6poOOHmk636VrdpugC733eJmdIG0JSjkrlYlUFOyuXFiCwDkE7JcAmLIMnhZFsnn6YhHVbEFOwIz-X0_5yv0JzPPgAZl6L_hZ3SA69dFZNmSclojRY158Yw4g1JFR5S5HhXYNeovLliuGOsqZFYLM0nKL_8giFM0q_fds5lw"
+    },
+    {
+      "position": 16,
+      "title": "Portland",
+      "place_id": "ChIJLe6wqnKcskwRKfpyM7W2nX4",
+      "data_id": "0x4cb29c72aab0ee2d:0x7e9db6b53372fa29",
+      "data_cid": "9123649309491001897",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c72aab0ee2d%3A0x7e9db6b53372fa29&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c72aab0ee2d%3A0x7e9db6b53372fa29&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.670822,
+        "longitude": -70.28438249999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLe6wqnKcskwRKfpyM7W2nX4",
+      "provider_id": "/m/0c4kv",
+      "address": "Maine",
+      "country": "United States",
+      "website": "http://www.portlandmaine.gov/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHL8WUZtcKnzPSNDmG-wNtKkFZ1_k6ybbkd6dX_ylGUOUOI42M0lSvse1HG_rZ5pqDWgPRUVps1xrO8aETwypB_bk9GPUlkcB9oxmYgmETIKSsHTB0uVJCXdRDp6psPlrQFkf3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/o2V8-XicHcRRboIwGADgE1XK3Igu8UEGgkOhCkXHCxmFlaSFVv4q4gV3ht3GZN_D9_fbGqPh3bJkO59xpbhsrtAMTPWm6c2Mqc7iGhADBNaaxAex9sPd4kQLw6L-QdLY6wI0xiYSm8IuhTNVlaid-lxOMqAJTbavL3ss0xs0dhiUQ_GmL96JkyPNNdj3IVl8-9k4abesxDIgVArmLtW9--Kdn22jFMLMxdf88-NcHz3taCByOGzEz3w12hhj1P7PUP8Ei6BFWA"
+    },
+    {
+      "position": 17,
+      "title": "Greyhound: Bus Stop",
+      "place_id": "ChIJ7zp1MGucskwRr7jHBSKJwP4",
+      "data_id": "0x4cb29c6b30753aef:0xfec0892205c7b8af",
+      "data_cid": "18356822860381010095",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b30753aef%3A0xfec0892205c7b8af&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b30753aef%3A0xfec0892205c7b8af&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6589621,
+        "longitude": -70.2573407
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7zp1MGucskwRr7jHBSKJwP4",
+      "provider_id": "/g/11g9jn5476",
+      "rating": 2.9,
+      "reviews": 13,
+      "type": "Bus company",
+      "types": [
+        "Bus company"
+      ],
+      "type_id": "bus_company",
+      "type_ids": [
+        "bus_company"
+      ],
+      "address": "389 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "phone": "(800) 231-2222",
+      "website": "https://www.greyhound.com/en-us/bus-station-11022",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhU7LUFuFL52Ks5MVU9GJK8BdKR0m7WrAgpRPIcsxOAcpwVwAZy2c1G1xnwE4Now_t55DLWpMLVzyvnQ-bbhmyg9JI8sbI3pq_qaVKU2IlHQA8lCAclhc9jacqv3weoInBa0vU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pq44qHicHcTdboIwGADQJ6oUGBFMdlGnYgV_MCkmuzHwjbSZpS22UtkL7hn2NiY7F-fvVzhn7CIIpIhnXGsuu4ft7qCV65Sbge4DbiwCi2xATofqRnLB5iXbPDZlEhU22dcsy3dFuvwqzrifX-6Em_OJgn0eCRhfe_I5RRDm4VP59dtB-6tLklV5Mfuy_plGVaG2Ff3Esx1NbUtjM1yHpi5YROW2Iqn8ICAFZN8NDGPsO03VssEje_chxhiJ_wGpFxuvRLA"
+    },
+    {
+      "position": 18,
+      "title": "Portland City Hall",
+      "place_id": "ChIJFQT8L2ucskwRd5jL5joD4zU",
+      "data_id": "0x4cb29c6b2ffc0415:0x35e3033ae6cb9877",
+      "data_cid": "3882950855238588535",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b2ffc0415%3A0x35e3033ae6cb9877&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b2ffc0415%3A0x35e3033ae6cb9877&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658929,
+        "longitude": -70.25722999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFQT8L2ucskwRd5jL5joD4zU",
+      "provider_id": "/g/1hc33dxw8",
+      "rating": 4.8,
+      "reviews": 5,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Portland, ME 04101",
+      "country": "United States",
+      "extensions": [
+        {
+          "accessibility": [
+            "Passenger loading area"
+          ]
+        }
+      ],
+      "user_review": "\"Impressive building\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEafw9EKoDQkt1mgyx1rA2tCiAouagfqJU4BKpsXxulvDCJHDqm-aYcZGVjYpm-sPJVhAwAblwUf5nWtH3wsylPvJlyNnrU6LmvgJPm6buGM1JmjBm9-nTy8a_Gk1441xZzqGexxg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tGOFgHicHcRJDoIwAADAF1WoolETD0UMpi6BRHC5GGygKF2AFlr8oU_wNybOYb6fUutaLR2HlZMRlZKyvFN5S6TQudAjIrlDawWIAspB0TGu0CYrzGKzk0FcacjpYGGLxnr9RLLLaNHgxPN3tbrYjvXBGm-DhoPsSm5h-rrWHKgIpyUy6MFMUkzFWW8nRg0s6jEbjqJNZnveUxzx2aMLDxDzl88XQJyGeXYPK-h50N7eTZhbS1cGuq4Lyv8EiB-qtEd0"
+    },
+    {
+      "position": 19,
+      "title": "South Portland Bus Transit Hub",
+      "place_id": "ChIJebrC-4KeskwRCQr03qOOU24",
+      "data_id": "0x4cb29e82fbc2ba79:0x6e538ea3def40a09",
+      "data_cid": "7949854601710406153",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e82fbc2ba79%3A0x6e538ea3def40a09&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e82fbc2ba79%3A0x6e538ea3def40a09&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6368054,
+        "longitude": -70.25245439999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJebrC-4KeskwRCQr03qOOU24",
+      "provider_id": "/g/11cmym1dkb",
+      "rating": 4,
+      "reviews": 51,
+      "unclaimed_listing": true,
+      "type": "Transportation service",
+      "types": [
+        "Transportation service"
+      ],
+      "type_id": "transportation_service",
+      "type_ids": [
+        "transportation_service"
+      ],
+      "address": "41 Thomas St, South Portland, ME 04106",
+      "country": "United States",
+      "phone": "(207) 767-5556",
+      "website": "http://www.southportland.org/departments/bus-transportation/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "user_review": "\"This is a large, fully enclosed bus shelter.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGkm_6pSa3Mwbm52gf913w4T36PKHjXiD1T4jIQUZlM7WIenSjVY7ZE1bcK5jSlDv0SCtMXMJHGkEdOvRUy9tMDmZahILuad_tatuImI0xJqgBFu2aX7KLy3xzHMoHskqb0-4I=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DPKV-XicHcTdFoEwAADgJ5qWRYdzXCBqMn_5STfOmizVWmwJL-gZvI1zfBff95NqXam-YRQpanEpeZHUKrkzWeqk1C0mhcErBZgCyhiuFut86Lq5OHWrgCLSxKLT5peeiRpri7or38vCq2NurQyvd1FB7ANOyiDbH-1oYsbM72RB4TxgMNYkJDPPzSfn5WOze_U0cUREUzyv6fmkqa6xwPA5u_HRtG7T0PbnL_R8e0R6Kr_FEFh40JgQQpD-Z6D8Ae9HQ-g"
+    }
+  ]
+}

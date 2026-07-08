@@ -1,89 +1,71 @@
 {
   "search_metadata": {
-    "id": "6a4e5872a688550f238fd7b5",
+    "id": "6a4e6812bcd927f53fec730e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/IgGinAmyMIMdX_1amEcWcA/6a4e5872a688550f238fd7b5.json",
-    "created_at": "2026-07-08 14:02:26 UTC",
-    "processed_at": "2026-07-08 14:02:26 UTC",
-    "google_maps_url": "https://www.google.com/maps/search/best+parks+things+to+do+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
-    "raw_html_file": "https://serpapi.com/searches/IgGinAmyMIMdX_1amEcWcA/6a4e5872a688550f238fd7b5.html",
-    "prettify_html_file": "https://serpapi.com/searches/IgGinAmyMIMdX_1amEcWcA/6a4e5872a688550f238fd7b5.prettify",
-    "total_time_taken": 1.54
+    "json_endpoint": "https://serpapi.com/searches/P-FCMS9wC81lT7OyIUkTIQ/6a4e6812bcd927f53fec730e.json",
+    "created_at": "2026-07-08 15:09:06 UTC",
+    "processed_at": "2026-07-08 15:09:06 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/parks+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/P-FCMS9wC81lT7OyIUkTIQ/6a4e6812bcd927f53fec730e.html",
+    "prettify_html_file": "https://serpapi.com/searches/P-FCMS9wC81lT7OyIUkTIQ/6a4e6812bcd927f53fec730e.prettify",
+    "total_time_taken": 0.87
   },
   "search_parameters": {
     "engine": "google_maps",
     "type": "search",
-    "q": "best parks things to do Portland, OR",
+    "q": "parks in Portland, ME",
     "google_domain": "google.com",
     "hl": "en",
     "gl": "us"
   },
   "search_information": {
     "local_results_state": "Results for exact spelling",
-    "query_displayed": "best parks things to do Portland, OR"
+    "query_displayed": "parks in Portland, ME"
   },
   "local_results": [
     {
       "position": 1,
-      "title": "Washington Park",
-      "place_id": "ChIJGfTXCycKlVQRe9loilMSQG4",
-      "data_id": "0x54950a270bd7f419:0x6e4012538a68d97b",
-      "data_cid": "7944369892695267707",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a270bd7f419%3A0x6e4012538a68d97b&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a270bd7f419%3A0x6e4012538a68d97b&engine=google_maps_photos&hl=en",
+      "title": "Fort Allen Park",
+      "place_id": "ChIJT8TkaFucskwRDa7d28F_5Lg",
+      "data_id": "0x4cb29c5b68e4c44f:0xb8e47fc1dbddae0d",
+      "data_cid": "13322914068262923789",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c5b68e4c44f%3A0xb8e47fc1dbddae0d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c5b68e4c44f%3A0xb8e47fc1dbddae0d&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5151756,
-        "longitude": -122.71049029999999
+        "latitude": 43.6654153,
+        "longitude": -70.24058699999999
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGfTXCycKlVQRe9loilMSQG4",
-      "provider_id": "/m/08nhr9",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT8TkaFucskwRDa7d28F_5Lg",
+      "provider_id": "/g/1tfvgtl1",
       "rating": 4.7,
-      "reviews": 16971,
+      "reviews": 2015,
+      "unclaimed_listing": true,
       "type": "Park",
       "types": [
         "Park",
-        "Arboretum",
-        "Archery range",
-        "Garden",
-        "Gift shop",
-        "Hiking area",
-        "Playground",
-        "Tourist attraction",
-        "Zoo"
+        "Tourist attraction"
       ],
       "type_id": "park",
       "type_ids": [
         "park",
-        "arboretum",
-        "archery_range",
-        "garden",
-        "gift_shop",
-        "hiking_area",
-        "playground",
-        "tourist_attraction",
-        "zoo"
+        "tourist_attraction"
       ],
-      "address": "4033 SW Canyon Rd, Portland, OR 97221",
+      "address": "49 Eastern Promenade, Portland, ME 04101",
       "country": "United States",
       "open_state": "Open \u00b7 Closes 10\u202fPM",
       "hours": "Open \u00b7 Closes 10\u202fPM",
       "operating_hours": {
-        "wednesday": "5\u202fAM\u201310\u202fPM",
-        "thursday": "5\u202fAM\u201310\u202fPM",
-        "friday": "5\u202fAM\u201310\u202fPM",
-        "saturday": "5\u202fAM\u201310\u202fPM",
-        "sunday": "5\u202fAM\u201310\u202fPM",
-        "monday": "5\u202fAM\u201310\u202fPM",
-        "tuesday": "5\u202fAM\u201310\u202fPM"
+        "wednesday": "6:30\u202fAM\u201310\u202fPM",
+        "thursday": "6:30\u202fAM\u201310\u202fPM",
+        "friday": "6:30\u202fAM\u201310\u202fPM",
+        "saturday": "6:30\u202fAM\u201310\u202fPM",
+        "sunday": "6:30\u202fAM\u201310\u202fPM",
+        "monday": "6:30\u202fAM\u201310\u202fPM",
+        "tuesday": "6:30\u202fAM\u201310\u202fPM"
       },
-      "phone": "(503) 319-0999",
-      "website": "http://explorewashingtonpark.org/",
+      "phone": "(207) 767-7670",
+      "website": "https://www.portlandmaine.gov/1226/5491/Fort-Allen-Park",
       "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
         {
           "highlights": [
             "Picnics"
@@ -92,7 +74,8 @@
         {
           "accessibility": [
             "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
           ]
         },
         {
@@ -103,30 +86,19 @@
         {
           "amenities": [
             "Cycling lanes",
-            "Has a tennis court",
-            "Picnic tables",
-            "Public restroom",
-            "Slides",
-            "Swings"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
+            "Picnic tables"
           ]
         },
         {
           "children": [
             "Good for kids",
-            "Good for kids birthday",
-            "Kid-friendly hikes",
-            "Playground"
+            "Kid-friendly hikes"
           ]
         },
         {
           "parking": [
-            "Paid parking lot",
+            "Free parking lot",
+            "Free street parking",
             "Paid street parking"
           ]
         },
@@ -136,29 +108,26 @@
           ]
         }
       ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"One of the premier parks in Portland.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYOvRwbM3wiA9chrUFam2KVVqVhQ6hgPHqKZeb3a0C9FP-bUHk14KWf9pDw_L4X97ICvzS10U_1YK2ZJOEWvvgRJhj6bqz1UWgVmQ3G3DsZPtEAq7riSJdglnCxmwpr5WfLE7E6w=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/Oxk-onicHcRJDoIwAADAF1VaqxBMPBAEFVxAAwgXIhVbZKeVGn_oE_yNiXOY74cJ0fGFolQMT2jb0ip_8nwgbSPyRkxIWyu044BwwBXDO_ilYcfH8SSzPZaFoRM2BPa1nrph2IfMVxn1Nr2b5Bm-QlO3PZAFmxLN3OiudyuZ7mYXXdua4_uMYJCi2J0mztGKxpGeHPZQs_6NgoiGtY_XeMUTT1hGrw3F2bnRqjFfteyGeXTfWZqlyqVEEELA_hPQ_ACXNESL"
+      "user_review": "\"The park was clean, well maintained and has loads of free parking options.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmyC2gEfPeUUypm8TIN9HimKuf_HoarIl7-UyWBiCMwF3loyzFIzOIQHlABN-rroaNK36B3jV7bdL2FPD__2tCAv1bcHE23UQMXE0emzBlj9erUBBHFC-IeHmCW1HC1TL2S0hk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SZDJzXicHcRRbsIgAADQE2EpJFaX-FFYK0Tt2ihzf41FbFUoDaCmvaBn2G2W7H2833cXwuA_okh3eNZa22r18MpJ2wfVh5m0JmoHD6QHPkrLorqnazNS1GaXUgkxDmZx4MWSXc3mcamZPTmuEyDGI7nS3SvH2o5TzqcvXjGdkgI4Z0_FBs8Jvn0nzXmL8vKzrlGg6TNuJMsQFtXuJ4PKTETflsoJQlhOAVfM0GPMaHzYoj3s7qtXDCEE3f8S9H8l2ULS"
     },
     {
       "position": 2,
-      "title": "Mt. Tabor Park",
-      "place_id": "ChIJNVdWgfiglVQRSuD8w0aQGrk",
-      "data_id": "0x5495a0f881565735:0xb91a9046c3fce04a",
-      "data_cid": "13338131880021385290",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0f881565735%3A0xb91a9046c3fce04a&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0f881565735%3A0xb91a9046c3fce04a&engine=google_maps_photos&hl=en",
+      "title": "Fort Sumner Park",
+      "place_id": "ChIJP9SwNmacskwR9k7KgCfxcJE",
+      "data_id": "0x4cb29c6636b0d43f:0x9170f12780ca4ef6",
+      "data_cid": "10480141484857904886",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6636b0d43f%3A0x9170f12780ca4ef6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6636b0d43f%3A0x9170f12780ca4ef6&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5112549,
-        "longitude": -122.5958201
+        "latitude": 43.6675064,
+        "longitude": -70.2507305
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNVdWgfiglVQRSuD8w0aQGrk",
-      "provider_id": "/g/1v2kx4d8",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP9SwNmacskwR9k7KgCfxcJE",
+      "provider_id": "/g/11bxf4wc8h",
       "rating": 4.8,
-      "reviews": 6738,
+      "reviews": 215,
       "unclaimed_listing": true,
       "type": "Park",
       "types": [
@@ -170,21 +139,21 @@
         "park",
         "tourist_attraction"
       ],
-      "address": "SE 60th Ave &, SE Salmon St, Portland, OR 97215",
+      "address": "64 North St, Portland, ME 04101",
       "country": "United States",
       "open_state": "Open \u00b7 Closes 10\u202fPM",
       "hours": "Open \u00b7 Closes 10\u202fPM",
       "operating_hours": {
-        "wednesday": "5\u202fAM\u201310\u202fPM",
-        "thursday": "5\u202fAM\u201310\u202fPM",
-        "friday": "5\u202fAM\u201310\u202fPM",
-        "saturday": "5\u202fAM\u201310\u202fPM",
-        "sunday": "5\u202fAM\u201310\u202fPM",
-        "monday": "5\u202fAM\u201310\u202fPM",
-        "tuesday": "5\u202fAM\u201310\u202fPM"
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
       },
-      "phone": "(503) 823-7529",
-      "website": "https://www.portland.gov/parks/mt-tabor-park",
+      "phone": "(207) 808-5400",
+      "website": "https://www.portlandmaine.gov/1235/5612/Fort-Sumner-Park",
       "extensions": [
         {
           "highlights": [
@@ -194,69 +163,50 @@
         {
           "accessibility": [
             "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "activities": [
-            "Hiking"
+            "Wheelchair accessible parking lot"
           ]
         },
         {
           "amenities": [
-            "Barbecue grill",
-            "Basketball court",
-            "Cycling lanes",
-            "Has a tennis court",
-            "Picnic tables",
-            "Public restroom",
-            "Slides",
-            "Swings"
+            "Picnic tables"
           ]
         },
         {
           "children": [
-            "Good for kids",
-            "Good for kids birthday",
-            "Kid-friendly hikes",
-            "Playground"
+            "Good for kids"
           ]
         },
         {
           "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot"
+            "Free street parking"
           ]
         },
         {
           "pets": [
-            "Dog park",
             "Dogs allowed"
           ]
         }
       ],
-      "user_review": "\"It\u2019s one of Portland\u2019s best parks.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9I8TW41bizMit7qdLFo5xvb93OKSdvY3UwRVBdQcWicsDTs0cAhdDWTeFv-fESr9pvf6ZYgB9v0s-z514g--u9juXITTxxbeL5Zpkm25fFlVK2ZRrnQ9tgPOq4RKIVahsvWyMhw=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/xgQZcXicHcRRboIwGADgE1WKgLMme8AoCUGnYIXJm5TSokiRvxTmDXeE3cZk38P39yu17mBlWY10ZkIp0fABeM9Uq3mrZ0w9LNEBYoDA8o9f8d0PSLikmWsX9Wtf649nuQuUN5mCOIfoVJqLcx6TdF3GLKsZbChg5styk1EeGFRtTz3pTLXIL2JNDAb08mxXIDSQ2_AdUjpNBd95eXd_zL0qaNJonid9GxMtjoenm0RhepVgsp-9HD9HG2OM5P8MtW_O_kV8"
+      "user_review": "\"The park was clean and has beautiful views of Portland facing to the west.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLKxNaF_VyKfkvgUGh-_jqDso7F_paH10JTCZD1yaKZaH0lxTWmW4Ep2UktDh4G632FXYZSKYKLULame0QN1e8IPJvY-d2bcvgPypqNTBhR4HR3K9Uy0vyUstojQGvBycpFZ3bzA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3gldj3icHcTbboIwAADQL6qUS6Yu8QHHAC0h4OgcvJDa1TZyaV1rZ_3DfcL-ZsnOw_n9EcYo_ex5owgXXEo-sptmX1TOhs1mQeXkcaUB1UB7cVXWQ5wV6F6StH936DxYjjMB-ss10XKZ9orkPtw3L13iO4I6ksPx3hynY_SqAjyYRETZUxikH233hlpU4IJMDNalz1a7am9b8BmcqOWVU9ey2YpDlB9CtMYOWoe1kZc6s1tHVdqFp0e8-fYhhED8T8H8B7sXROs"
     },
     {
       "position": 3,
-      "title": "Forest Park",
-      "place_id": "ChIJqcSquG0IlVQRTffmVCThZ1k",
-      "data_id": "0x5495086db8aac4a9:0x5967e12454e6f74d",
-      "data_cid": "6442365338136278861",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495086db8aac4a9%3A0x5967e12454e6f74d&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495086db8aac4a9%3A0x5967e12454e6f74d&engine=google_maps_photos&hl=en",
+      "title": "Payson Park",
+      "place_id": "ChIJ91wr_H6bskwRCuYQElF3x_c",
+      "data_id": "0x4cb29b7efc2b5cf7:0xf7c777511210e60a",
+      "data_cid": "17854370437812774410",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b7efc2b5cf7%3A0xf7c777511210e60a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b7efc2b5cf7%3A0xf7c777511210e60a&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5709848,
-        "longitude": -122.7683495
+        "latitude": 43.6809552,
+        "longitude": -70.26859
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqcSquG0IlVQRTffmVCThZ1k",
-      "provider_id": "/m/041hdg",
-      "rating": 4.8,
-      "reviews": 3511,
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ91wr_H6bskwRCuYQElF3x_c",
+      "provider_id": "/m/06vcmq",
+      "rating": 4.6,
+      "reviews": 554,
       "unclaimed_listing": true,
       "type": "Park",
       "types": [
@@ -268,21 +218,21 @@
         "park",
         "tourist_attraction"
       ],
-      "address": "Portland, OR 97231",
+      "address": "Portland, ME 04103",
       "country": "United States",
-      "open_state": "Open \u00b7 Closes 10\u202fPM",
-      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
       "operating_hours": {
-        "wednesday": "5\u202fAM\u201310\u202fPM",
-        "thursday": "5\u202fAM\u201310\u202fPM",
-        "friday": "5\u202fAM\u201310\u202fPM",
-        "saturday": "5\u202fAM\u201310\u202fPM",
-        "sunday": "5\u202fAM\u201310\u202fPM",
-        "monday": "5\u202fAM\u201310\u202fPM",
-        "tuesday": "5\u202fAM\u201310\u202fPM"
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
       },
-      "phone": "(503) 823-4492",
-      "website": "https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=127",
+      "phone": "(207) 808-5400",
+      "website": "https://www.portlandmaine.gov/1255/5654/Payson-Park",
       "extensions": [
         {
           "highlights": [
@@ -290,26 +240,32 @@
           ]
         },
         {
-          "activities": [
-            "Hiking"
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
           ]
         },
         {
           "amenities": [
+            "Baseball field",
+            "Basketball court",
             "Cycling lanes",
-            "Public restroom"
+            "Has a tennis court",
+            "Picnic tables",
+            "Slides",
+            "Swings"
           ]
         },
         {
           "children": [
             "Good for kids",
-            "Kid-friendly hikes"
+            "Good for kids birthday",
+            "Playground"
           ]
         },
         {
           "parking": [
-            "Free parking lot",
-            "Paid parking lot"
+            "Free parking lot"
           ]
         },
         {
@@ -318,1210 +274,49 @@
           ]
         }
       ],
-      "user_review": "\"I know this park very well and it reflects why I call Portland home.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUmurzDbHGGgnhcFYzD9wtfWfjg2qxxfpBzj2vdQF1__6AoEpoeRlBHMV4wvoHejRHSk2HKvwHgg8sDjMSKCkcn6eS0WIc81CO_ol-yS4-JYfvqyTJEzUzbvkaEkH1xLxF2ObvfA=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/DSF-FXicHcTbDoIgAADQLyIvtVZtPXiN7qVZ68klAU4MTAiNP-wT-pu2zsP5fkqlGjmzrLocDqgQtMYviVskuMJcDZB4WLSRAEkgLe-wOzIPZo9Xa8ICLhaUlyi-mnDaKXIhFXWffU8a31Suvh9jJ8_HnogagZPah9vzqNMC4iqBKXPhWneQ0okMq226DhjiY5zalyWaOME-FzV4pyOwuhL9fJ9WkclModktYtDpN33s7gtNvHnn2LYNyv8I8B-nFEb5"
+      "user_review": "\"Well maintained and right by the ocean with a walking path!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6IejUaZK6vz4GEGklbvaIwCH-eOn1zRfhbqWnSg_nb6Q_ERZeWlPEuUCOc6I5PTzgmG7XPKqGyqwMicPjL-BgTH5ROxh5WxRq9iXYRJZtATaYXRPrbxXX1Y_hLsIjDDXeCZ4p=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WcPooHicHcRdDoIgAADgE5G60lZbD2ZO7U8ineiLU0aQGWpQmhfsDN2mre_h-364Uq1calrNpxPWNKymT0kfpBGKCjUhzV1jrQREAqnZ8Hi62b4V0Cousp31Gmee693q8lUEveMDGgpjRBdedok4s1yU1il3UUaTGrrP2AmJFZgwGtndm2O467x31x-uBFZ7sGaRb6Jw4GYyoG5xxSnaZsqOihQj-CgHjI0053sZVJsNpk42a1e9oes64P8JED-ajEVS"
     },
     {
       "position": 4,
-      "title": "Laurelhurst Park",
-      "place_id": "ChIJLbTuxOqglVQRXgWNWDb3baI",
-      "data_id": "0x5495a0eac4eeb42d:0xa26df736588d055e",
-      "data_cid": "11704282819391718750",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0eac4eeb42d%3A0xa26df736588d055e&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0eac4eeb42d%3A0xa26df736588d055e&engine=google_maps_photos&hl=en",
+      "title": "Deering Oaks Park",
+      "place_id": "ChIJJ-5-JJedskwRQ5RRduv-v00",
+      "data_id": "0x4cb29d97247eee27:0x4dbffeeb76519443",
+      "data_cid": "5602476748728013891",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d97247eee27%3A0x4dbffeeb76519443&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d97247eee27%3A0x4dbffeeb76519443&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5211073,
-        "longitude": -122.6272194
+        "latitude": 43.6588394,
+        "longitude": -70.2718884
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLbTuxOqglVQRXgWNWDb3baI",
-      "provider_id": "/m/0bbzw44",
-      "rating": 4.7,
-      "reviews": 5047,
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ-5-JJedskwRQ5RRduv-v00",
+      "provider_id": "/m/0763r2",
+      "rating": 4.4,
+      "reviews": 383,
       "unclaimed_listing": true,
       "type": "Park",
       "types": [
-        "Park",
-        "Tourist attraction"
-      ],
-      "type_id": "park",
-      "type_ids": [
-        "park",
-        "tourist_attraction"
-      ],
-      "address": "SE Cesar E Chavez Blvd & Stark St, Portland, OR 97214",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 10:30\u202fPM",
-      "hours": "Open \u00b7 Closes 10:30\u202fPM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201310:30\u202fPM",
-        "thursday": "5\u202fAM\u201310:30\u202fPM",
-        "friday": "5\u202fAM\u201310:30\u202fPM",
-        "saturday": "5\u202fAM\u201310:30\u202fPM",
-        "sunday": "5\u202fAM\u201310:30\u202fPM",
-        "monday": "5\u202fAM\u201310:30\u202fPM",
-        "tuesday": "5\u202fAM\u201310:30\u202fPM"
-      },
-      "phone": "(503) 823-2525",
-      "website": "https://www.portland.gov/parks/laurelhurst-park",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "activities": [
-            "Hiking"
-          ]
-        },
-        {
-          "amenities": [
-            "Barbecue grill",
-            "Basketball court",
-            "Cycling lanes",
-            "Has a tennis court",
-            "Picnic tables",
-            "Public restroom",
-            "Skateboarding area",
-            "Slides",
-            "Swings"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Good for kids birthday",
-            "Kid-friendly hikes",
-            "Playground"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid street parking"
-          ]
-        },
-        {
-          "pets": [
-            "Dog park",
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"Hands down one of my favorite parks in Portland.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZ3NahDAiqj1gXjiP7lkSuSNIZW_5eoUJY6GH5W2ftuntn_QIyoBzsItccuYAuSl8SUWyp-r-yFy-GHlQix1Q1n6z3LAv8SaeQO41URsq_-mB3RpDUT9G3vAm_xteWtl28YCA=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/ocyyHnicHcRLroIwFADQFVWo9YMmb1B_iDForQRxQkxTAS0t2lufuED34G5MPIPzeZcAjR17nipJpzCmUNJZeRdGg9TQEab2isYiYZH16DZmVzo_kvhUzmh1u-DicKm2Q3XljsfRMc370iSrbBAu-2n3DE6DzlnUmsnLRiCEy6jjKuBJ2jbojtpFi8KlYtUTM6wHL7Kmj4CfJNv0cLKztxzVE7JrZsl-FJIHrfMnyBRUN8im9O8f-76Pyt8C6S9KKER3"
-    },
-    {
-      "position": 5,
-      "title": "International Rose Test Garden",
-      "place_id": "ChIJfarJiIoJlVQRxt-PlpT--5E",
-      "data_id": "0x5495098a88c9aa7d:0x91fbfe94968fdfc6",
-      "data_cid": "10519281268788551622",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495098a88c9aa7d%3A0x91fbfe94968fdfc6&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495098a88c9aa7d%3A0x91fbfe94968fdfc6&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.518952399999996,
-        "longitude": -122.70526869999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfarJiIoJlVQRxt-PlpT--5E",
-      "provider_id": "/m/027jkf",
-      "rating": 4.8,
-      "reviews": 9598,
-      "type": "Park",
-      "types": [
-        "Park",
-        "Garden",
-        "Tourist attraction"
-      ],
-      "type_id": "park",
-      "type_ids": [
-        "park",
-        "garden",
-        "tourist_attraction"
-      ],
-      "address": "400 SW Kingston Ave, Portland, OR 97205",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 10\u202fPM",
-      "hours": "Open \u00b7 Closes 10\u202fPM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201310\u202fPM",
-        "thursday": "5\u202fAM\u201310\u202fPM",
-        "friday": "5\u202fAM\u201310\u202fPM",
-        "saturday": "5\u202fAM\u201310\u202fPM",
-        "sunday": "5\u202fAM\u201310\u202fPM",
-        "monday": "5\u202fAM\u201310\u202fPM",
-        "tuesday": "5\u202fAM\u201310\u202fPM"
-      },
-      "phone": "(503) 823-3636",
-      "website": "https://www.portland.gov/parks/washington-park-international-rose-test-garden",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"A beautiful park to visit in Portland, Oregon.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPwQ8t8mZOZfq5EE3wcXL97tcFmavK41KdUx9wryvje2Fpu_sMjYURUjq2ll5RUMY0XidrT_bgt50YdLk8_Y25Xyh1wkzb_X0PwdR6Elj3F3WExyUyrK5JyK11a4REKA1x9d98_A=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/WBsn2XicHcRLcoIwAADQEwEJmBac6YJFWBhpkTEjsMlogiCEjyQa0hv2CN6mM77Fe_21Ws9q63myDdxmmhpZP1S98GnU9ahdPg1eMyuHK0d5cfZ96GOcmUOow6H6qa53hHFgeLGPPjVPhvOTbCARdI3MYp9d7Sfzg6m0K2lOu7svJcppWoLiJpYjuzQagVLs-5CVPipsC03_e2EFyIzIP7DsgiQ44dVSuxC0swTC8ybHJIZrJKKQxV8GAgCc9j13xn8W2kUX"
-    },
-    {
-      "position": 6,
-      "title": "Hoyt Arboretum",
-      "place_id": "ChIJ8cJu-ocJlVQRfHLSHlWK1wE",
-      "data_id": "0x54950987fa6ec2f1:0x1d78a551ed2727c",
-      "data_cid": "132726812224680572",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950987fa6ec2f1%3A0x1d78a551ed2727c&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950987fa6ec2f1%3A0x1d78a551ed2727c&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5162616,
-        "longitude": -122.7152124
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8cJu-ocJlVQRfHLSHlWK1wE",
-      "provider_id": "/m/08qtcs",
-      "rating": 4.9,
-      "reviews": 2303,
-      "type": "Park",
-      "types": [
-        "Park",
-        "Botanical garden",
-        "Hiking area",
-        "Museum",
-        "Arboretum",
-        "Tourist attraction"
-      ],
-      "type_id": "park",
-      "type_ids": [
-        "park",
-        "botanical_garden",
-        "hiking_area",
-        "museum",
-        "arboretum",
-        "tourist_attraction"
-      ],
-      "address": "4000 SW Fairview Blvd, Portland, OR 97221",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 10\u202fPM",
-      "hours": "Open \u00b7 Closes 10\u202fPM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201310\u202fPM",
-        "thursday": "5\u202fAM\u201310\u202fPM",
-        "friday": "5\u202fAM\u201310\u202fPM",
-        "saturday": "5\u202fAM\u201310\u202fPM",
-        "sunday": "5\u202fAM\u201310\u202fPM",
-        "monday": "5\u202fAM\u201310\u202fPM",
-        "tuesday": "5\u202fAM\u201310\u202fPM"
-      },
-      "phone": "(503) 865-8733",
-      "website": "http://www.hoytarboretum.org/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=c38e859c-b096-4ae9-b3a9-551f21ba189e",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Restroom"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"Great park resources in the middle of Portland.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4l5U12fAOjrw0bTsEk1yAOdHOhkuIXwkBPBY4sS44Jbr2WE6wJ4j3_7egOF7PHxwtPoV-I_uJvkVrCAi-2UPq7VNDblrQxqVFEGUQNBY6Ud8M1vFzzRhAX3BZeKqgCRQD2TSk=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/CBSUYXicHcRLroIwAADAE1V-VV5MXBQFlRehqOBnYwLWVotU2mLVC3oGb2PiLObzZlrf1NCyaub1qBC0Jp0ishKNJo3uVeJq0ZsClQLKQjjJOAph3c8d94TSizR2uVYhd54oPc5Sxrv51vAABzuoVhDGpXQ34cDE8OIdfELTyMezh9FYFGB-6OI7L-QYnYGb49YvkklZy-zRFlE4zbMk2A3y49_CuUev15KhrRfsyX9Lx8ts4q5XfGQc27YB-12B5gvxYUNj"
-    },
-    {
-      "position": 7,
-      "title": "Powell Butte Nature Park",
-      "place_id": "ChIJEd07m0SflVQR3z0qWDWqj6M",
-      "data_id": "0x54959f449b3bdd11:0xa38faa35582a3ddf",
-      "data_cid": "11785825895941029343",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54959f449b3bdd11%3A0xa38faa35582a3ddf&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54959f449b3bdd11%3A0xa38faa35582a3ddf&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.4906961,
-        "longitude": -122.4969916
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEd07m0SflVQR3z0qWDWqj6M",
-      "provider_id": "/g/1tql4h5k",
-      "rating": 4.7,
-      "reviews": 3566,
-      "unclaimed_listing": true,
-      "type": "Park",
-      "types": [
-        "Park",
-        "Nature preserve",
-        "Tourist attraction"
-      ],
-      "type_id": "park",
-      "type_ids": [
-        "park",
-        "nature_preserve",
-        "tourist_attraction"
-      ],
-      "address": "16160 SE Powell Blvd, Portland, OR 97236",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 10\u202fPM",
-      "hours": "Open \u00b7 Closes 10\u202fPM",
-      "operating_hours": {
-        "wednesday": "7\u202fAM\u201310\u202fPM",
-        "thursday": "7\u202fAM\u201310\u202fPM",
-        "friday": "7\u202fAM\u201310\u202fPM",
-        "saturday": "7\u202fAM\u201310\u202fPM",
-        "sunday": "7\u202fAM\u201310\u202fPM",
-        "monday": "7\u202fAM\u201310\u202fPM",
-        "tuesday": "7\u202fAM\u201310\u202fPM"
-      },
-      "website": "https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=528",
-      "extensions": [
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "activities": [
-            "Hiking"
-          ]
-        },
-        {
-          "amenities": [
-            "Cycling lanes",
-            "Picnic tables",
-            "Public restroom"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Kid-friendly hikes"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "user_review": "\"One of my favorite parks in all the Portland metro area.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQVddwO7784JxtMS0lQUUKz-ubHCfiyUrx55o8Lk_Nz1Kw1DNIoDGCHewJBWHEb-Zft03wcwph04PbIHNUROBCnWpnujvv-qoPKCZAUbicJdfZQrrj6ZTlSBh9NVyP9kmxQkU=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/vQSYcnicHcRJDoIwAADAF1VKELfEA6ARQStVqwkXE8pSFlukxaIP9A_-xsQ5zPfDlGrlwjAaZo0KIYom62XWUcFVxtWIirtRtBJQCaThRAjXzhpf0lQfptPZOBjU_gQbTEj4Bn3ie3n5It1g22K2q2_obYbaXKGtWG08P9OBe_XXCYhzBS1NdcvgOEq2PiLHg-vxa8v76vkEDxGFXuyQpKRBmse466pJfG5OLpujyyua1_cB12SpTQghYP8p4D_4qkSM"
-    },
-    {
-      "position": 8,
-      "title": "Tom McCall Waterfront Park",
-      "place_id": "ChIJdQ2FZAcKlVQR_yugz8TaIP0",
-      "data_id": "0x54950a0764850d75:0xfd20dac4cfa02bff",
-      "data_cid": "18239819029682334719",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0764850d75%3A0xfd20dac4cfa02bff&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0764850d75%3A0xfd20dac4cfa02bff&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5227536,
-        "longitude": -122.66999709999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdQ2FZAcKlVQR_yugz8TaIP0",
-      "provider_id": "/m/05fy1t",
-      "rating": 4.5,
-      "reviews": 6734,
-      "unclaimed_listing": true,
-      "type": "City park",
-      "types": [
-        "City park",
-        "Park",
-        "Tourist attraction"
-      ],
-      "type_id": "city_park",
-      "type_ids": [
-        "city_park",
-        "park",
-        "tourist_attraction"
-      ],
-      "address": "98 SW Naito Pkwy, Portland, OR 97204",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
-      },
-      "phone": "(503) 823-7529",
-      "website": "https://www.portlandoregon.gov/parks/finder/index.cfm?action=viewpark&propertyid=156",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "amenities": [
-            "Cycling lanes",
-            "Public restroom"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Playground"
-          ]
-        },
-        {
-          "parking": [
-            "Paid parking garage",
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"One of the best parks in Portland.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFEvHgsXZ86c8vtur22fHYUzi3L4FaRKUgsBHjf0grPiRU-cEyzWZ0K4t5u15uI_eNFqS4ioad2Bj703jIyk1Djx5ByssmNFlPiIKExB6eOJ77W0F-GdGKTZO2-sAWk-x4Z7VElpg=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/wn9zQ3icHcRJDoIwFADQE1XKJMbEBUQqiEEcEGVjTK1lkiK_KHhDj-BtTHyL9_1kUjYwVZQq00dcCF6xDlhLRS1ZLUdU3BXeAKKAQLGjcFPaxH16HI7pZEwnT9m1mnbzTvE711cGuWyDmIPjFTfM2yjfxoi6wztJcWBIs1PNzj-zkDx2Ri4uV80pLKwX_lCq86I3nQHgHpIqyv3A7Z0xWy8tK8EELa6LYJ-uNQR2UqLeSK2DWzV89lIxxij7T1H9A6N6Q94"
-    },
-    {
-      "position": 9,
-      "title": "Peninsula Park",
-      "place_id": "ChIJG3ungAinlVQRY4qQAC-c6SM",
-      "data_id": "0x5495a70880a77b1b:0x23e99c2f00908a63",
-      "data_cid": "2587771186587929187",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a70880a77b1b%3A0x23e99c2f00908a63&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a70880a77b1b%3A0x23e99c2f00908a63&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5682282,
-        "longitude": -122.6736244
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG3ungAinlVQRY4qQAC-c6SM",
-      "provider_id": "/m/0gyrr11",
-      "rating": 4.8,
-      "reviews": 3165,
-      "unclaimed_listing": true,
-      "type": "City park",
-      "types": [
-        "City park",
         "Park"
       ],
-      "type_id": "city_park",
-      "type_ids": [
-        "city_park",
-        "park"
-      ],
-      "address": "700 N Rosa Parks Way, Portland, OR 97217",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
-      },
-      "phone": "(503) 823-2525",
-      "website": "https://www.portland.gov/parks/peninsula-park",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Assistive hearing loop",
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Baseball field",
-            "Basketball court",
-            "Has a tennis court",
-            "Picnic tables",
-            "Public restroom",
-            "Slides",
-            "Swings"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Good for kids birthday",
-            "Kid-friendly activities",
-            "Playground"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"This is one of my favorite parks in Portland!\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2LG7D6l_hwHaqgxjiLD5iFrHM_uFeSRWE0HpIlxDYG06FGh9hvDpzOtpBz0JeiHp-pnYsqtHDiSSEGQp6PyyFzVd82tHDeoEy15_XMSYFJXwsJof1jsr1bQ4O_P8BEVaINZo=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/Kzwip3icHcjLDYIwAADQiQrFD6KJB00phYiCJCpeCGKlINJKqwgDuoPbaLy8w_u8mVJCznS9YkMt5zyv6EPSJuO1orXSMn7TcyFBJoHUF8E6vC7IYOVMkFklrCXpPX-VxQqNC9wQP3lgGm33NiTCrV4odqCJHTZlTyT6jRLLHnq0IAKIOpZ3RVARRbYTCjPoOtzvztbgd5TbnTFODn4UY-_QSo9fjFI2xikcbZLAWtq71F0f-bw1IISA_c1A_QUffkRd"
-    },
-    {
-      "position": 10,
-      "title": "Rocky Butte Natural Area",
-      "place_id": "ChIJ_bNDYFuhlVQR16RsBIG_M1Q",
-      "data_id": "0x5495a15b6043b3fd:0x5433bf81046ca4d7",
-      "data_cid": "6067403683844105431",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a15b6043b3fd%3A0x5433bf81046ca4d7&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a15b6043b3fd%3A0x5433bf81046ca4d7&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.546419199999995,
-        "longitude": -122.56594519999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_bNDYFuhlVQR16RsBIG_M1Q",
-      "provider_id": "/g/1vxz9b56",
-      "rating": 4.6,
-      "reviews": 2725,
-      "unclaimed_listing": true,
-      "type": "Nature preserve",
-      "types": [
-        "Nature preserve",
-        "Park"
-      ],
-      "type_id": "nature_preserve",
-      "type_ids": [
-        "nature_preserve",
-        "park"
-      ],
-      "address": "3102 NE Rocky Butte Rd, Portland, OR 97220",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
-      },
-      "phone": "(503) 823-7529",
-      "website": "https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=568",
-      "extensions": [
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "activities": [
-            "Hiking"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Kid-friendly hikes"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid street parking"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "user_review": "\"Beautiful park with wonderful views of Portland\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-3J_PDeqGXLfwmIWgw5As--kagf59IcVcSj2gK8j_x4YsLsmcNhAo7SAlaAAqnt0jql8yOrLrup2jpOsTIrFCI0eQhZqT0quDWcEHRnP9SkEgwGSuUjqE7j51yfdNvC7XkRI=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/t07DTnicHcTdDoIgGADQJyLpx1ltXbCyopxZ9n_TGiEMFcQPs16wd-ht2joX5_uRzlUw9rxC9jvCGFHwBnjNjHZcuw4zpScqQAwQeCSJtzmZo_7qlsy4XZyjrC3pSbQ-AYTyu8j8EWVHlqqeWA_V7TW4QAQliyUxQUqKOyFWO6xsMXxv6qhuqp6qNrCn9XxKMd_Kq91j28xOLFzudDJK81C0i7Q5KBsGyu--s0f8nAbnfEcnbRdjjOR_hvQPLx1E1Q"
-    },
-    {
-      "position": 11,
-      "title": "Mill Ends Park",
-      "place_id": "ChIJ5aJvEA8KlVQRf_H2D-kqjIc",
-      "data_id": "0x54950a0f106fa2e5:0x878c2ae90ff6f17f",
-      "data_cid": "9767228872343351679",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0f106fa2e5%3A0x878c2ae90ff6f17f&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0f106fa2e5%3A0x878c2ae90ff6f17f&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5161981,
-        "longitude": -122.67323189999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5aJvEA8KlVQRf_H2D-kqjIc",
-      "provider_id": "/m/02v7_q",
-      "rating": 4.5,
-      "reviews": 1062,
-      "unclaimed_listing": true,
-      "type": "City park",
-      "types": [
-        "City park",
-        "Park",
-        "Tourist attraction"
-      ],
-      "type_id": "city_park",
-      "type_ids": [
-        "city_park",
-        "park",
-        "tourist_attraction"
-      ],
-      "address": "SW Naito Parkway and, 56 SW Taylor St, Portland, OR 97204",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
-      },
-      "phone": "(503) 823-7529",
-      "website": "http://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=265",
-      "extensions": [
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid street parking"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "user_review": "\"If you go to Portland, pay this little park a visit before you leave.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVKyZcx1Dw8tFan3bBOCsYbClkqtkvLcyjH0yR2iH5j1edHkjj4amZERs15VHFKbau7yZN0lDtC50S8mfPoE-YvZ8qH8TtTMWA6acO1PRkTWcO9uHTOD-vnpI8aXYIbTI_-QKZ_Q=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/mNlQ33icHcRdboIwAADgE1XaOWa3ZA8IkhKc_Njo6IspHYIUWlwLjiPuCN7GxO_hu_831g7mw3G6Zrmota67ajTVr9DKVsouhO6dejBAGGAcL91l0gsP8czEHwpu2IZcLct14pui9Dt5tXLairklcM5fLsRtUfVDZNu-8p5tcoPcAwnjko-rme1gF1jfhXvcn1O9AcXE8JVgaunX0XvjIkFpLulRJO8joUkAJjVEmH8XUUmjE8hidso-bwhCCJrnAqgH8e1ErQ"
-    },
-    {
-      "position": 12,
-      "title": "Portland Japanese Garden",
-      "place_id": "ChIJecbtFYoJlVQR7V4BJzbAjJ4",
-      "data_id": "0x5495098a15edc679:0x9e8cc03627015eed",
-      "data_cid": "11424717693547273965",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495098a15edc679%3A0x9e8cc03627015eed&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495098a15edc679%3A0x9e8cc03627015eed&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5188634,
-        "longitude": -122.7080355
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJecbtFYoJlVQR7V4BJzbAjJ4",
-      "provider_id": "/m/06rhvq",
-      "rating": 4.6,
-      "reviews": 8088,
-      "type": "Tourist attraction",
-      "types": [
-        "Tourist attraction",
-        "Art gallery",
-        "Botanical garden",
-        "Cultural center",
-        "Education center",
-        "Gift shop",
-        "Historical landmark",
-        "Museum",
-        "Tea house",
-        "Garden"
-      ],
-      "type_id": "tourist_attraction",
-      "type_ids": [
-        "tourist_attraction",
-        "art_gallery",
-        "botanical_garden",
-        "cultural_center",
-        "education_center",
-        "gift_shop",
-        "historical_landmark",
-        "museum",
-        "tea_house",
-        "garden"
-      ],
-      "address": "611 SW Kingston Ave, Portland, OR 97205",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 10\u202fAM",
-      "hours": "Closed \u00b7 Opens 10\u202fAM",
-      "operating_hours": {
-        "wednesday": "10\u202fAM\u20135:30\u202fPM",
-        "thursday": "10\u202fAM\u20135:30\u202fPM",
-        "friday": "10\u202fAM\u20135:30\u202fPM",
-        "saturday": "10\u202fAM\u20135:30\u202fPM",
-        "sunday": "10\u202fAM\u20135:30\u202fPM",
-        "monday": "10\u202fAM\u20135:30\u202fPM",
-        "tuesday": "12\u20135:30\u202fPM"
-      },
-      "phone": "(503) 223-1321",
-      "website": "https://japanesegarden.org/",
-      "extensions": [
-        {
-          "from_the_business": [
-            "Identifies as women-owned"
-          ]
-        },
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"Absolutely unbelievable park in the middle of downtown Portland.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwDW4XJdhCuHSmLHc8HhKrr4nXAI1-o0jxinumALjYszuRV-LTjuQCSHIyOkx_5PRvpWp_xO2QlT4aqpvZQrTsVKYBj8mFcnoiFUIGzenjy9_RBUYcI4HosptnjQff7zETucW47Q=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/EqQzi3icHcTvEoEwAADwJ5rCnD93PoRYdFhF5UvnJs3UNm0jvaFH8Dbu_D78vh-qtVQTyyppv1MIUZS5UXlNBNc51x0iKquQChAFlOXst_juuK9FDJP1hc4NCisfkRGim7qGPHG8LhA2a27cVI7PUtWa4Aj8iBk8D5H33t2bbLAPnjKWWbPr4TKC54d8nnAdqeMmnbFRtSRc3JYHb9XmnL3HWTA7pMSDSCipOcPX67B1I0NiOMTTV9e2bUD_E8B_ZbdHEw"
-    },
-    {
-      "position": 13,
-      "title": "Westmoreland Park",
-      "place_id": "ChIJq9hPOccKlVQRRfchKvglKZI",
-      "data_id": "0x54950ac7394fd8ab:0x922925f82a21f745",
-      "data_cid": "10531990951371601733",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950ac7394fd8ab%3A0x922925f82a21f745&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950ac7394fd8ab%3A0x922925f82a21f745&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.470639,
-        "longitude": -122.64096599999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq9hPOccKlVQRRfchKvglKZI",
-      "provider_id": "/m/012694c2",
-      "rating": 4.6,
-      "reviews": 1771,
-      "type": "City park",
-      "types": [
-        "City park",
-        "Park",
-        "Tourist attraction"
-      ],
-      "type_id": "city_park",
-      "type_ids": [
-        "city_park",
-        "park",
-        "tourist_attraction"
-      ],
-      "address": "7530 SE 22nd Ave, Portland, OR 97202",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
-      },
-      "phone": "(503) 823-2525",
-      "website": "https://www.portlandoregon.gov/parks/57822",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Baseball field",
-            "Basketball court",
-            "Has a tennis court",
-            "Picnic tables",
-            "Public restroom",
-            "Slides",
-            "Swings"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Good for kids birthday",
-            "Playground"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"This is my favorite park in Portland.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF03dvOuMzLTLcg3MlqAmgyV1KoPhqekN2a_qBLxC4gAQxIoFwp5TWtnSnPxLMIL6ROjTd3QzMr2BJovVBk7JQtdA23RD8qRxFV1eRQW5qN7KYaMt1JZh9FPtk0ZiPTfQn2_mcnvQ=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/MKZkWnicHcRRboIwAADQEyGFzrmZ-FE0JGKLLRLM_DGmdO0GtNRWRG_oEbyNie_jPR_K-97Nw7BVcCKNka24OHHmRnuh_YSbLpS9C7gLXIhozhqUAlgP2wu54xJzCUlrUSdvVbQxVFnR5PHpaBM8Lj8kYuPapNd-Wu693mk6YrLGn8X2v6whu5NznGRmqJJmljFfoxgWqy9bjGkViYLtpzafbX5OxEfZQX2n1Dfg8EfLX6bjY8f1wBbXCAAQqPc80C8Fb0VZ"
-    },
-    {
-      "position": 14,
-      "title": "Tryon Creek State Natural Area",
-      "place_id": "ChIJa9n8LTQLlVQRrZKPG1t2WBY",
-      "data_id": "0x54950b342dfcd96b:0x1658765b1b8f92ad",
-      "data_cid": "1610167000461447853",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b342dfcd96b%3A0x1658765b1b8f92ad&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b342dfcd96b%3A0x1658765b1b8f92ad&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.437727699999996,
-        "longitude": -122.67704479999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa9n8LTQLlVQRrZKPG1t2WBY",
-      "provider_id": "/m/02rmhyl",
-      "rating": 4.8,
-      "reviews": 2690,
-      "type": "State park",
-      "types": [
-        "State park",
-        "Tourist attraction"
-      ],
-      "type_id": "state_park",
-      "type_ids": [
-        "state_park",
-        "tourist_attraction"
-      ],
-      "address": "Portland, OR",
-      "country": "United States",
-      "phone": "(800) 551-6949",
-      "website": "http://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=103",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "activities": [
-            "Hiking"
-          ]
-        },
-        {
-          "amenities": [
-            "Cycling lanes",
-            "Picnic tables",
-            "Public restroom"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Kid-friendly hikes"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIZ3i-4Yra_LbIg3_wVLAqHdCKG93LNJhuC2C2_Evh3hQDqe1mDKZG8mKlY4JlR8btvapC3liaC-7BfGISxjLBHaH2OcgEsmsurKuc2qfNmeIsiUQlouspZLwWTy-_5bmifGqg=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/PwSi6XicHcRRboIwGADgE1WQatQlPmA1gDQ4tqmRFwK1tGwtBf5WthN6ht1myb6H7_cpre3hxfOUxDNhjFDcAR-Z6Szv7IwZ7YkeEAMEXvia5V9hnBS4RYvbWJW0TgQupwsNh_hO0miDaXaUjgQkKA8PiWW-H_hc79MiWutU3RZH9bau7aPqCVZtRdBq10TJ-_cn3cVVHJyYOIAGN6aOBUOTaZ5Ae86VcdAXdLp-_KByWeu2iQaxnea-7yP5P0PdH_4LRNY"
-    },
-    {
-      "position": 15,
-      "title": "Sellwood Riverfront Park",
-      "place_id": "ChIJIeDfZ94KlVQRQ6u9CacgIy0",
-      "data_id": "0x54950ade67dfe021:0x2d2320a709bdab43",
-      "data_cid": "3252479257686682435",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950ade67dfe021%3A0x2d2320a709bdab43&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950ade67dfe021%3A0x2d2320a709bdab43&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.466631899999996,
-        "longitude": -122.6634857
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIeDfZ94KlVQRQ6u9CacgIy0",
-      "provider_id": "/m/0g53ycb",
-      "rating": 4.6,
-      "reviews": 1953,
-      "unclaimed_listing": true,
-      "type": "City park",
-      "types": [
-        "City park",
-        "Park",
-        "Tourist attraction"
-      ],
-      "type_id": "city_park",
-      "type_ids": [
-        "city_park",
-        "park",
-        "tourist_attraction"
-      ],
-      "address": "Southeast Spokane Street &, SE Oaks Park Way, Portland, OR 97202",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
-      },
-      "website": "https://www.portland.gov/parks/sellwood-riverfront-park",
-      "extensions": [
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "activities": [
-            "Hiking"
-          ]
-        },
-        {
-          "amenities": [
-            "Picnic tables",
-            "Public restroom"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Kid-friendly hikes"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        },
-        {
-          "pets": [
-            "Dog park",
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "user_review": "\"Portland has some amazing parks.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnmRt4tYfStnHLNICA-i3tGhkGslsOwdi2dIvWXz0yxnzY0GDm7erOu5juyYEebTwwsDrfU81ZK_3pxSIwSZt7Nm4iIMugUWyFxtV1_HYyTa8zXGcMYY2C531_0RvtOtV6YJlPVw=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/nPxdAHicHcRLDoIwFADAE1WKgBoTF8RPxQ-oKFo2RGsFFAqhDwvc0CN4GxNnMd9PAlDKsaZlidGLiyLOeC15xQoBXECPFbkWlxIxiaRm79z9yyYiP4AJ9OGDWG5cZ2qj1ACSvIjMpKfuaf_uvM-XDreN6Cgms3zIK6-2nnVL5_x2VErOqsdppIfryCgb31F-CEM3N1NnW8enc7toINCjJW2P11F3IWxLaX9qGXqED2_wIBjQVbYL1ETpGGOU_GdI_ACdiEbc"
-    },
-    {
-      "position": 16,
-      "title": "Oaks Bottom Wildlife Refuge",
-      "place_id": "ChIJlVjv-egKlVQRh5NQ5iu2Qh4",
-      "data_id": "0x54950ae8f9ef5895:0x1e42b62be6509387",
-      "data_cid": "2180505469264630663",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950ae8f9ef5895%3A0x1e42b62be6509387&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950ae8f9ef5895%3A0x1e42b62be6509387&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.4700695,
-        "longitude": -122.66058369999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlVjv-egKlVQRh5NQ5iu2Qh4",
-      "provider_id": "/m/0g53pfy",
-      "rating": 4.6,
-      "reviews": 901,
-      "unclaimed_listing": true,
-      "type": "Wildlife refuge",
-      "types": [
-        "Wildlife refuge",
-        "Park",
-        "Tourist attraction"
-      ],
-      "type_id": "wildlife_refuge",
-      "type_ids": [
-        "wildlife_refuge",
-        "park",
-        "tourist_attraction"
-      ],
-      "address": "SE Sellwood Blvd & SE 7th Avenue, 10830 SE Oaks Park Way, Portland, OR 97202",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
-      },
-      "phone": "(503) 823-7529",
-      "website": "https://www.portlandoregon.gov/parks/finder/index.cfm?propertyid=490&action=ViewPark",
-      "extensions": [
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "activities": [
-            "Hiking"
-          ]
-        },
-        {
-          "amenities": [
-            "Cycling lanes"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Kid-friendly hikes"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Paid parking lot"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "user_review": "\"What a serene getaway located within Portland city limits!\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGY8n-d5AGDowJG50w-QbHJ-xZlCxtyz5Z3BntAUae60Ai7-UN12hZCEezlQoKbqavnjbETbz5kjX4NTv1Rt-p5GRpMViFiHewUiYrC5pe5q3neQf5ypUiVfTQw8-esw0cGbCgp=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/zt-Sv3icHcTRbsIgFADQL7qWrsOZJT6wTjEua4Zpje2bsGuLdoDCRPuDfoN_Y-J5OPdbF4Lz70nSd9motbbt8d_jSVkT0ISRsn9J6zwoDz5hP4U4MF5PDPxSxj9tXHJKIgi5WMKl6fNLuA60yT5MYNUWx4TpN6iK9KVr8hkOvbBf8rg9m72clXKgh_3mtSjP6SqAo3zlvtd6rhcYK12fcuqQHjODYkevrtLrXSniBNBHorjMWzeNKSEEuucKzAMU6kSX"
-    },
-    {
-      "position": 17,
-      "title": "Macleay Park",
-      "place_id": "ChIJ-RGb8JMJlVQRqgqQ4VOnizU",
-      "data_id": "0x54950993f09b11f9:0x358ba753e1900aaa",
-      "data_cid": "3858361484481399466",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950993f09b11f9%3A0x358ba753e1900aaa&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950993f09b11f9%3A0x358ba753e1900aaa&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.528334799999996,
-        "longitude": -122.72146719999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-RGb8JMJlVQRqgqQ4VOnizU",
-      "provider_id": "/g/1tdmdllw",
-      "rating": 4.7,
-      "reviews": 1359,
-      "unclaimed_listing": true,
-      "type": "Park",
-      "types": [
-        "Park",
-        "Tourist attraction"
-      ],
       "type_id": "park",
       "type_ids": [
-        "park",
-        "tourist_attraction"
+        "park"
       ],
-      "address": "2960 NW Upshur St, Portland, OR 97210",
+      "address": "Portland, ME 04101",
       "country": "United States",
-      "open_state": "Open \u00b7 Closes 11\u202fPM",
-      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
       "operating_hours": {
-        "wednesday": "5\u202fAM\u201311\u202fPM",
-        "thursday": "5\u202fAM\u201311\u202fPM",
-        "friday": "5\u202fAM\u201311\u202fPM",
-        "saturday": "5\u202fAM\u201311\u202fPM",
-        "sunday": "5\u202fAM\u201311\u202fPM",
-        "monday": "5\u202fAM\u201311\u202fPM",
-        "tuesday": "5\u202fAM\u201311\u202fPM"
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20138\u202fPM",
+        "saturday": "6\u202fAM\u20138\u202fPM",
+        "sunday": "6\u202fAM\u20138\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
       },
-      "phone": "(503) 823-7529",
+      "website": "https://www.deeringoaks.org/",
       "extensions": [
         {
           "highlights": [
@@ -1535,107 +330,15 @@
           ]
         },
         {
-          "activities": [
-            "Hiking"
-          ]
-        },
-        {
           "amenities": [
-            "Picnic tables",
-            "Public restroom"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids",
-            "Kid-friendly hikes"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "user_review": "\"Best park to visit if you want something free to do near downtown.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFGYY4b0tO9gwsQOlBWDwh9xd8xMZs7hqYSwiDJHaLPnavDKRN9hmdYGgp0kCQ5d78fpsTN0LclVygbm_9HZDgRexRA2dsm7fej13lLcm3w3SLObUBIKLUf719nB4LKqOL2ec=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/xMdCpnicHcRRboIwGADgEyFFNFgTH0CibFQQnBp8MVJKq7YF_bsVL7g7eJsl-x6-968wpoe560rhj3jXccm-gT1ppw3TZkQ75fIeHAoOuOE2K-5hslpX1aRGJsfcQpHL6BhbgYdmNmxOEIhHtbPX-DO5kK2-_MRpmWGhmmrNe3RfFtMmmLU9fGWIUHl48VqdcXKKecmGMhw3oIKW3TxfEqp86-9IXu-jj5Ts28DDOpqQ9JGTMaML6yGEHPE_dfQfI5JD1g"
-    },
-    {
-      "position": 18,
-      "title": "Mt. Scott Park",
-      "place_id": "ChIJfaTe7hmglVQRxMXHTeLgPCc",
-      "data_id": "0x5495a019eedea47d:0x273ce0e24dc7c5c4",
-      "data_cid": "2827381928653997508",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a019eedea47d%3A0x273ce0e24dc7c5c4&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a019eedea47d%3A0x273ce0e24dc7c5c4&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.481507,
-        "longitude": -122.5879276
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfaTe7hmglVQRxMXHTeLgPCc",
-      "provider_id": "/g/1v9gv55h",
-      "rating": 4.5,
-      "reviews": 1512,
-      "unclaimed_listing": true,
-      "type": "City park",
-      "types": [
-        "City park",
-        "Tourist attraction"
-      ],
-      "type_id": "city_park",
-      "type_ids": [
-        "city_park",
-        "tourist_attraction"
-      ],
-      "address": "SE 72nd Ave &, SE Harold St, Portland, OR 97206",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
-      "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
-      },
-      "phone": "(503) 823-2525",
-      "website": "https://www.portland.gov/parks/mt-scott-park",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services"
-          ]
-        },
-        {
-          "highlights": [
-            "Picnics"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "amenities": [
-            "Barbecue grill",
             "Baseball field",
+            "Basketball court",
             "Has a tennis court",
             "Picnic tables",
             "Public restroom",
             "Slides",
-            "Swings"
+            "Swings",
+            "Volleyball court"
           ]
         },
         {
@@ -1657,29 +360,26 @@
           ]
         }
       ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"They do this on most park in Portland.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHE8FFiSoBof3ywMU6-QoyIAvlov6wwOvtvKovYFVznOPvebJ8p1pizs7vZbx3qha296gpLT-FVQoIHb8co-JmBCjxTy-yCpkEp845sfavj8sXTtBxj8abOc-nn0LnOGZhLrIe8qg=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/bMjLj3icHclREoFAGADgE60issx4KCMi0kiDt9pZu5L9l11buaEjuA3j5Xv5Pm-utVRjy6q402EArKJPRR8EhKZCdwjcLCYVIgopy9tukqu3mOEguOzAh7PT1uu9ixJoQ89UYNy6jo02KzDHIHuJeGtoscSyKy8vNTSnonHuPO-NXCajFAVZAuGiwATQ8uZPyyZtUTuV15nE_YE656bE6pBqvylxXsQECWFHIp6fePQIKb6zSd21bRvxv7_-AoMyRuk"
+      "user_review": "\"they have restrooms, a huge free parking near the park.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0PNqdNOrHHb7-e3sfZA5vUFSgPORwBmb8Y_DUgZo3kPHoywW-Qlk0G-VnNhBJo-Awz9wCoFBWAIvx9LdXpM3oogCtpmyM7rLUO7CTS4_M2VnN9cXWbOKT3i4G7_2DhETyy_M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/138NDHicHc1JDoIwAEDRE1Wq1SAmLgoOODApiLohoWJrGIq0UvGA3sHbaNz83cv_vJmUtZhoWsFQj3JOi-whsobwSmaV7BFearQWgAggNOy7QY7n0HfvF9drbDvVQYbE9YxHbbTYU9_bKbNMx6dkFtEzR7lv807FIChyuASHymXmmgOsXoay-MKM8ap9GtvLsXbQb2zJuuwcvdlGnm6F-2HiDH7EIMc49TYhug2XejKYsXnYdYkzVX0IIWD_ElB9AdTqQ2k"
     },
     {
-      "position": 19,
-      "title": "Whitaker Ponds Nature Park",
-      "place_id": "ChIJw3l6H5emlVQR25EUKfXaYdU",
-      "data_id": "0x5495a6971f7a79c3:0xd561daf5291491db",
-      "data_cid": "15375811349310640603",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a6971f7a79c3%3A0xd561daf5291491db&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a6971f7a79c3%3A0xd561daf5291491db&engine=google_maps_photos&hl=en",
+      "position": 5,
+      "title": "Bug Light Park",
+      "place_id": "ChIJrVMKkTWcskwRM4v7Uart_j8",
+      "data_id": "0x4cb29c35910a53ad:0x3ffeedaa51fb8b33",
+      "data_cid": "4611384384249629491",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c35910a53ad%3A0x3ffeedaa51fb8b33&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c35910a53ad%3A0x3ffeedaa51fb8b33&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.573858,
-        "longitude": -122.61378409999999
+        "latitude": 43.653403,
+        "longitude": -70.2344955
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw3l6H5emlVQR25EUKfXaYdU",
-      "provider_id": "/m/0hq_d1p",
-      "rating": 4.4,
-      "reviews": 468,
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrVMKkTWcskwRM4v7Uart_j8",
+      "provider_id": "/g/1td_gvq3",
+      "rating": 4.7,
+      "reviews": 2558,
       "unclaimed_listing": true,
       "type": "Park",
       "types": [
@@ -1691,21 +391,21 @@
         "park",
         "tourist_attraction"
       ],
-      "address": "7040 NE 47th Ave, Portland, OR 97218",
+      "address": "South Portland, ME 04106",
       "country": "United States",
-      "open_state": "Open \u00b7 Closes 12\u202fAM",
-      "hours": "Open \u00b7 Closes 12\u202fAM",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
       "operating_hours": {
-        "wednesday": "5\u202fAM\u201312\u202fAM",
-        "thursday": "5\u202fAM\u201312\u202fAM",
-        "friday": "5\u202fAM\u201312\u202fAM",
-        "saturday": "5\u202fAM\u201312\u202fAM",
-        "sunday": "5\u202fAM\u201312\u202fAM",
-        "monday": "5\u202fAM\u201312\u202fAM",
-        "tuesday": "5\u202fAM\u201312\u202fAM"
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
       },
-      "phone": "(503) 823-2525",
-      "website": "https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=856",
+      "phone": "(207) 767-7670",
+      "website": "http://www.southportland.org/",
       "extensions": [
         {
           "service_options": [
@@ -1721,7 +421,7 @@
           "accessibility": [
             "Wheelchair accessible entrance",
             "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom"
+            "Wheelchair accessible seating"
           ]
         },
         {
@@ -1731,8 +431,314 @@
         },
         {
           "amenities": [
+            "Cycling lanes",
             "Picnic tables",
             "Public restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"It sits on a break water with a very well maintained path leading up to it.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEch1gYKhsNrUnRt3A2lZjoIaLD5UlBMhTIrc-GMV50ct6CLNOFHM0mq2BYo5wAb7b74x-wQ0EgID0E_5eMt2bYTDigMvwmPBx0TeAMJ5Jz2r3KQrq2LjWFZZWkVlX2DcSW8mL7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1vdkkXicHcRRboIwAADQE1VqWWUx8aMMVJSiKMrgZ5GmadVCta1ivODO4G1MfB_v9S-du9ix5ynpD4TWQvGb5YbpzvHODZhuPXGxgFlgPbLO8jOJmRyKailtZnbdxvkEqfqkk0Ma4Z0KqSwSw8CM7jFkbvSTZqvpnML2isJK4540QRN8PUCfw1gkEYz_MKcONVURHQW99-06fMCCE7rAiycy_jI3V5Seymldl-e9-kUR25bfbRpM-iGEEMjPDHRvy71CuA"
+    },
+    {
+      "position": 6,
+      "title": "Western Promenade",
+      "place_id": "ChIJQ5iZmAScskwRFOtZ9g53rG0",
+      "data_id": "0x4cb29c0498999843:0x6dac770ef659eb14",
+      "data_cid": "7902822352274713364",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0498999843%3A0x6dac770ef659eb14&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0498999843%3A0x6dac770ef659eb14&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6484005,
+        "longitude": -70.27594739999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ5iZmAScskwRFOtZ9g53rG0",
+      "provider_id": "/m/0g9z10r",
+      "rating": 4.7,
+      "reviews": 604,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Valley St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u20139\u202fPM",
+        "saturday": "7\u202fAM\u20139\u202fPM",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 808-5400",
+      "website": "https://www.portlandmaine.gov/1303/5957/Western-Promenade",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Pretty well kept, excellent green space, great for watching sunsets.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGENRFESTxB8nsNlLYCjiKu5MvQ8e39H5M1MiDkFB9ml11QcPf-0K5Er5FgwpWyBo64IAUeHRJ5BztJbvn9KsYhaH4PhS2KETlPil-JMiWbhdxnYXBL-e8-7Wk7hbS8kCYyuTOw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/omSD63icHcThEoEwAADgJ5qKRrnzo1FSSimXfmqmpdk6W8ILegZv48734_t-qFKdnGsao5NRLUTNSC_JHQuuCFcjLG5a3UmAJZCak8Rp66zdeO-5Wf5EFpcx25bLaxP2MHqkFpnYPoyMqFm1HrJvzDBSnFyAHkL3Dr166IoXElNz4xyIvw8gequgenA7lCU9-WZCs3Ho5ixpGAiipqjo-cnLI9oCYoFZ0c5olVntsnz1-W5YDIau64D-x4D_AKI3Qu4"
+    },
+    {
+      "position": 7,
+      "title": "Harbor View Memorial Park",
+      "place_id": "ChIJicyBmCKcskwRGEWdfX8Csn8",
+      "data_id": "0x4cb29c229881cc89:0x7fb2027f7d9d4518",
+      "data_cid": "9201419735262905624",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c229881cc89%3A0x7fb2027f7d9d4518&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c229881cc89%3A0x7fb2027f7d9d4518&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.648066199999995,
+        "longitude": -70.2603936
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJicyBmCKcskwRGEWdfX8Csn8",
+      "provider_id": "/g/1tk_nwlr",
+      "rating": 4.4,
+      "reviews": 193,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u201310\u202fPM",
+        "thursday": "6:30\u202fAM\u201310\u202fPM",
+        "friday": "6:30\u202fAM\u201310\u202fPM",
+        "saturday": "6:30\u202fAM\u201310\u202fPM",
+        "sunday": "6:30\u202fAM\u201310\u202fPM",
+        "monday": "6:30\u202fAM\u201310\u202fPM",
+        "tuesday": "6:30\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 874-8801",
+      "website": "https://www.portlandmaine.gov/1237/5614/Harbor-View-Memorial-Park",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Picnic tables"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Playground"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Peaceful, serene, calm and good feel of nature.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFY8V7e2WrXj-uXNYl8Vvjmp5DV7la7BPaJ2j8EcIyviBYXAUUzxyKsZt00qtHhhrjgKLh0-lML7oA1PEJz5V9b0k2Ss7BqwyQzFj-xLTy_pHYXCo6jpBg2JDyD3C6faxwPd1shxQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DzV8JHicHcThEoEwAADgJ5pWjsWdHyWOxNUh5Y_LZDPTpo1ab-gRvI0734_v-6FaSzW2LE77PSIE4eVLlTUWlS4r3cPiYRGpAFZAWV68Se7ePHdTVDqHOmPglW1y7qZv9pCDIEW8QH5chA5zZ3hp3jc_z7z9vmvNSh01hE-9oLRmZBVRCPg6QsKz41nYDdLRGd6drUL-szFJN2egjXbmJBd5NhVDJn3ihIEJ-tPhtWib-GIr2iaTxoYQAvofg-oH151FVA"
+    },
+    {
+      "position": 8,
+      "title": "Lincoln Park",
+      "place_id": "ChIJWQJC8WqcskwRRtWoZl5ICzw",
+      "data_id": "0x4cb29c6af1420259:0x3c0b485e66a8d546",
+      "data_cid": "4326631437305959750",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6af1420259%3A0x3c0b485e66a8d546&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6af1420259%3A0x3c0b485e66a8d546&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6598177,
+        "longitude": -70.25470659999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWQJC8WqcskwRRtWoZl5ICzw",
+      "provider_id": "/m/07k8qqq",
+      "rating": 4.4,
+      "reviews": 174,
+      "unclaimed_listing": true,
+      "type": "City park",
+      "types": [
+        "City park",
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "city_park",
+      "type_ids": [
+        "city_park",
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Congress St &, Pearl St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 808-5400",
+      "website": "http://www.portlandmaine.gov/182/Parks-Recreation-Facilities",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"I was here early in the morning and found it clean, safe, and peaceful...\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZrFS77BcB_oTO9D13I6of1ieWHvZX3Dx6TjBR2xTN0ivm9XWX8AXJy4KZ9lVDa_FE0bok1nfPFn3WfJWr5V-73EtqdI0dYkxsXO9uVgV_2CCBbivJGgo8B9qrJsH4qK1Cmj7O=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UWOodnicHcTbboIwAADQL6q0VsUu8YFymWIiXgh0vJBZoSDQCq2IX7hv2N8s2Xk4vz-VMQ_9YVlthWdCKdEWT10MXElTSDPjqrPEQwOugbac4-HUOH42BBfbppzmKo6Ih_BupUpUF-l2zBj2plV8p-f5FB9gPXaEpWztsPC92GekTbzvPPDhVTVIlsdA4rQM02GZABv7pr_t4O2rmTSLyDMRST53XXqtx_BTqDUl_RDq7aLfI7e729HmhSCEoPqfA_kHnoBCvA"
+    },
+    {
+      "position": 9,
+      "title": "Mayor Baxter Woods",
+      "place_id": "ChIJ-YRlHpmbskwR6BqgfFPD99g",
+      "data_id": "0x4cb29b991e6584f9:0xd8f7c3537ca01ae8",
+      "data_cid": "15634179394780535528",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b991e6584f9%3A0xd8f7c3537ca01ae8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b991e6584f9%3A0xd8f7c3537ca01ae8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6766291,
+        "longitude": -70.29036409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-YRlHpmbskwR6BqgfFPD99g",
+      "provider_id": "/m/03gxc07",
+      "rating": 4.6,
+      "reviews": 210,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "555 Stevens Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u201310\u202fPM",
+        "thursday": "6:30\u202fAM\u201310\u202fPM",
+        "friday": "6:30\u202fAM\u201310\u202fPM",
+        "saturday": "6:30\u202fAM\u201310\u202fPM",
+        "sunday": "6:30\u202fAM\u201310\u202fPM",
+        "monday": "6:30\u202fAM\u201310\u202fPM",
+        "tuesday": "6:30\u202fAM\u201310\u202fPM"
+      },
+      "website": "http://trails.org/our-trails/baxter-woods/",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
           ]
         },
         {
@@ -1742,70 +748,302 @@
           ]
         },
         {
-          "parking": [
-            "Free parking lot",
-            "On-site parking",
-            "Paid parking lot"
+          "pets": [
+            "Dogs allowed"
           ]
         }
       ],
-      "service_options": {
-        "onsite_services": true
-      },
-      "user_review": "\"But also the grounds are very clean in comparisonto many parks in Portland.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExdMGGFgzItVuRGo1E4GuLDfUUw_PKpMNFx7UN40VGxmHZvUm5bST4wXkBml-74dakqH5f6OLKH_3h0AFQx5aUrKfJd-jKvPJjNrIWnguqOB8Tf-tB5JrQqD1OfW04lw4apQZ1hg=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/mYttj3icHcRJDoIwAADAF1VKLGpMPECUIiiLWjVcCAJtI0uBFiH-0Cf4GxPnMN8PV6qVa02r-HzGhGBVMciiz0SjikbNMlFrrJUgk0BqZuhHpbmb8iPGNnvv1XU4YaHvEB4OW0rImIRee_TtaUl8BK94qp34RWrjcb6g8V5adQWWKE_LzjHoIjh4TjLn0LSjyUhJ71E3B0_vFbpPv9_fGjZ0gbW6UKAsw-2jbqsH9AZRNaK0jWKds82oQwgB_5-B5gexeUR2"
+      "user_review": "\"Great, well maintained paths..\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlJZk5DWh8ZwTtcgX8GGoeBbJz_BznIVo4EbY40ya1cEfSmfxbcenuumoNIl42Tt9alho5cK0NfYqBvtltA7Wf6gtXDrFAOzzcOGTxWUVLiRkkioumqHuPUiJ8wpy5nms8IAPf4g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/et3KXHicHcTdToMwGADQJ2J0CoomXpRsQ9AwVDa23Syj6Q-h7cfWr7Lxhj6Cb2PiuTi_PwpxcM9hqNX9TAJIzb3jFwYWucUZAxPKwQXMBS6kVfnR00wXhz5eNCo5jDUyuUuyDHjaFtMxnWy-hWjZ7iNyO83ZUnwZcW0Zt94bKHMd3dX4dNIKYvZGSrE_p9-okT424kHibnFZ0fU0sXVWX5vN9r377PsOvDm_-mrTFck43GJrXJLTSkTyZZwTQgL1PwvsH4T8R3I"
     },
     {
-      "position": 20,
-      "title": "Pittock Acres Park Viewpoint",
-      "place_id": "ChIJhaES6DUJlVQRhK7JoKuUJiM",
-      "data_id": "0x54950935e812a185:0x232694aba0c9ae84",
-      "data_cid": "2532875305300373124",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950935e812a185%3A0x232694aba0c9ae84&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950935e812a185%3A0x232694aba0c9ae84&engine=google_maps_photos&hl=en",
+      "position": 10,
+      "title": "Tommy's Park",
+      "place_id": "ChIJQx5nTBWcskwRyxzIBJKub34",
+      "data_id": "0x4cb29c154c671e43:0x7e6fae9204c81ccb",
+      "data_cid": "9110692513362484427",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c154c671e43%3A0x7e6fae9204c81ccb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c154c671e43%3A0x7e6fae9204c81ccb&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.525524999999995,
-        "longitude": -122.7152198
+        "latitude": 43.6577778,
+        "longitude": -70.255
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhaES6DUJlVQRhK7JoKuUJiM",
-      "provider_id": "/g/11qrlw8fms",
-      "rating": 4.8,
-      "reviews": 840,
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQx5nTBWcskwRyxzIBJKub34",
+      "provider_id": "/g/1tql4cls",
+      "rating": 4.2,
+      "reviews": 64,
       "unclaimed_listing": true,
       "type": "Park",
       "types": [
         "Park",
-        "Scenic spot",
         "Tourist attraction"
       ],
       "type_id": "park",
       "type_ids": [
         "park",
-        "scenic_spot",
         "tourist_attraction"
       ],
-      "address": "3229 NW Pittock Dr, Portland, OR 97210",
+      "address": "Portland, ME 04101",
       "country": "United States",
-      "open_state": "Open \u00b7 Closes 9\u202fPM",
-      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
       "operating_hours": {
-        "wednesday": "6\u202fAM\u20139\u202fPM",
-        "thursday": "6\u202fAM\u20139\u202fPM",
-        "friday": "6\u202fAM\u20139\u202fPM",
-        "saturday": "6\u202fAM\u20139\u202fPM",
-        "sunday": "6\u202fAM\u20139\u202fPM",
-        "monday": "6\u202fAM\u20139\u202fPM",
-        "tuesday": "6\u202fAM\u20139\u202fPM"
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
       },
-      "phone": "(503) 823-3623",
-      "website": "https://www.portland.gov/parks/pittock-mansion",
+      "phone": "(207) 797-4597",
+      "website": "http://www.portlandmaine.gov/182/Recreation-Facilities-Management",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"It's an awesome place to meet someone take a picnic.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJwEed4zJVQwCX8w_UNMwDv5OOwL8qajl0SdxnQe349W8qNteGa_dNbkhOugnBVf_MNAxo7nv39OdaA5W-hygtC_imxrUpbsGRaqz5O9y0OzpyQ87ppz1jiM57u5ZAy9g6bi4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LFv8RXicHcTbboIwAADQL6rUQAVMfKjMkJjRyhYv2Qvh0rUotsUWC3zg_mF_Y-J5OP9_wlpt1p7XCX_BleIdGwx71EpaJu2iVnePawNqA4yHDyS_4XTvdqwJ5v0pd8klcsWRZO7jiSh1n1FfXjv43YwyZ34Qn6OeWJaWRUOqm6ADl9vTb5ERPKpQPv2YNiVGZyAmbpOivY-Po65M-lX2M6LxBOmspzwKtZ6X1zZD4YB-8BTzVdUGG7eEEALxvgbyBX0WRXI"
+    },
+    {
+      "position": 11,
+      "title": "Capisic Pond Park",
+      "place_id": "ChIJuxzoU7-bskwRQi_fBuMxATk",
+      "data_id": "0x4cb29bbf53e81cbb:0x390131e306df2f42",
+      "data_cid": "4107619186281230146",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bbf53e81cbb%3A0x390131e306df2f42&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bbf53e81cbb%3A0x390131e306df2f42&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6676036,
+        "longitude": -70.3072966
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuxzoU7-bskwRQi_fBuMxATk",
+      "provider_id": "/g/1tks5x_w",
+      "rating": 4.6,
+      "reviews": 157,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "1-39 Macy St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9:30\u202fPM",
+      "hours": "Open \u00b7 Closes 9:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20139:30\u202fPM",
+        "thursday": "6:30\u202fAM\u20139:30\u202fPM",
+        "friday": "6:30\u202fAM\u20139:30\u202fPM",
+        "saturday": "6:30\u202fAM\u20139:30\u202fPM",
+        "sunday": "6:30\u202fAM\u20139:30\u202fPM",
+        "monday": "6:30\u202fAM\u20139:30\u202fPM",
+        "tuesday": "6:30\u202fAM\u20139:30\u202fPM"
+      },
+      "phone": "(207) 756-8275",
+      "website": "https://trails.org/our-trails/capisic-pond-park/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Very cool pond area with benches and walking paths ..\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkJP28X3-friMQGTeO-GZfrqk8xEueIFx1U5UuxdJDp5SgbNuZLPpDa_zgkt2m7c2c5qbWQvsi-W9higbBMuQ1w8ry78Vpn6FZ78IRjWuDjM8Ee7kpa8a-mfYYI9Kyg6j1gYM08g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rDZPlnicHcTbboIwGADgJyonA1QTL1xQghsKnhBuDNTyAxWotFXYG-4R9jZL9l18vz-VlFwsdP1RzTToe3hQJehA-k7STmqkb3XgAhGBhL6KdjFb-WwbWfg6Q-VQh7F_onvkZ-XwZHhcKxpsRvNsn9V433rcPkKxU9lXxL389g1MWq1LLGI_iyR-iRol86qG4iNUsfnGw-TiC--cTebi4NAkymtCvKYu4znOUVumaTD_nMBpTEhDA8PybRqGgar_Cer-AN0-ROo"
+    },
+    {
+      "position": 12,
+      "title": "Fort Williams Park",
+      "place_id": "ChIJKZRaGgWeskwRIB13mK2-lu0",
+      "data_id": "0x4cb29e051a5a9429:0xed96bead98771d20",
+      "data_cid": "17120080686292081952",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e051a5a9429%3A0xed96bead98771d20&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e051a5a9429%3A0xed96bead98771d20&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6220929,
+        "longitude": -70.2119708
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKZRaGgWeskwRIB13mK2-lu0",
+      "provider_id": "/m/0g552kv",
+      "rating": 4.8,
+      "reviews": 3845,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Dog park",
+        "Garden",
+        "Historical landmark",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "dog_park",
+        "garden",
+        "historical_landmark",
+        "tourist_attraction"
+      ],
+      "address": "1000 Shore Rd, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 799-2868",
+      "website": "https://portlandheadlight.com/",
       "extensions": [
         {
           "service_options": [
             "Onsite services"
           ]
         },
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Grilling"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Barbecue grill",
+            "Baseball field",
+            "Gender-neutral restroom",
+            "Has a tennis court",
+            "Picnic tables",
+            "Public restroom",
+            "Slides",
+            "Swings"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "Kid-friendly activities",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dog park",
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Very clean, pet friendly, great parking, no fee due to the time of the year\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOWK0Zde0xEjXQl7wKyLxK9cHdHy-vFd8SvL-k1qz9fh2W1PTBQY6gT1D8Ts2ChbI1ecTTuolJ5CEIJyj8Asl0sfbbA0WQ4qsiw_UbgblHQcpjxWv44fNjWqQnFnTRZeAbXqrkdw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6F0ThnicHcTdTsIwGADQJyprceIw8aIiMBhBqjVFbkzadS1bbTe-sR_fkEfwbUw8F-f3Ztu2hscocvZuYkIwTl9BX1TwrfbtRIXvyNSAFCCI6GHPKrp-FRk-5RoPy_LI3EOfjbshm6s0T0fUrfLkvduhijQ_88JOBTnwZ_Y5M5y8JBymCys3RCvOr8Ft7xfLzXYsEwoOQyElxYLFDZz7rw9ppEuZqstBdHFc7EvRML_y_O2kqTw2lyrvn3qCMUb2f4X8H777RcU"
+    },
+    {
+      "position": 13,
+      "title": "Mackworth Island State Park",
+      "place_id": "ChIJe_hWqZWcskwRITCxpiE24ms",
+      "data_id": "0x4cb29c95a956f87b:0x6be23621a6b13021",
+      "data_cid": "7773835424953348129",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c95a956f87b%3A0x6be23621a6b13021&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c95a956f87b%3A0x6be23621a6b13021&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.689746899999996,
+        "longitude": -70.2347149
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe_hWqZWcskwRITCxpiE24ms",
+      "provider_id": "/g/11c0xzgmwy",
+      "rating": 4.8,
+      "reviews": 525,
+      "unclaimed_listing": true,
+      "type": "State park",
+      "types": [
+        "State park",
+        "Tourist attraction"
+      ],
+      "type_id": "state_park",
+      "type_ids": [
+        "state_park",
+        "tourist_attraction"
+      ],
+      "address": "Andrews Avenue off, US-1, Falmouth, ME 04105",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 781-6279",
+      "website": "http://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=57",
+      "extensions": [
         {
           "highlights": [
             "Picnics"
@@ -1829,9 +1067,374 @@
           ]
         },
         {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Great hike trails, beach front, very quiet, peaceful\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEh5WzrZfJD_tl2my3_m8CxbRAXAJswIODUKGJai95ZI-FeTfKuDyztsTy9zhak-jy8m26hP6iz3UuKTfmfWEppIlBzA5Te7SEODiR9uLO5QAIYKFdfhFNzGurFh2dbnrG0rNcs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rbesY3icHcRJDoIwAADAF1UQgoqJhypLAAMuGNQLwdpSlALpEqUf9A3-xsQ5zPdDpRzE0jBaak_qvq9brATmqO8k7uQE9cyoBwGQAMKAu3T_hD51Cs2vJPZK2VpstEu22LxvB3iGsXhFmXdKwrhqXOcagQDnJFHeqKXIR1fT6gke44JZM7qbNdo-qSQnjBT-METtWkMnx_Ojn3nNwVXbzNnD6JIEd0KDVIeKB9S63zoemjxFYvWamqYJ6H8Euh-OgUUs"
+    },
+    {
+      "position": 14,
+      "title": "Presumpscot River Preserve",
+      "place_id": "ChIJjUFaPdOEskwRsvs4u1eb50c",
+      "data_id": "0x4cb284d33d5a418d:0x47e79b57bb38fbb2",
+      "data_cid": "5181280697418578866",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb284d33d5a418d%3A0x47e79b57bb38fbb2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb284d33d5a418d%3A0x47e79b57bb38fbb2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7200211,
+        "longitude": -70.2817682
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjUFaPdOEskwRsvs4u1eb50c",
+      "provider_id": "/g/11cnbtwyds",
+      "rating": 4.8,
+      "reviews": 239,
+      "unclaimed_listing": true,
+      "type": "Nature preserve",
+      "types": [
+        "Nature preserve",
+        "Tourist attraction"
+      ],
+      "type_id": "nature_preserve",
+      "type_ids": [
+        "nature_preserve",
+        "tourist_attraction"
+      ],
+      "address": "99 Overset Rd, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 775-2411",
+      "website": "http://trails.org/our-trails/presumpscot-river-preserve/",
+      "extensions": [
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Easy, well marked, and well maintained trails.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6t12NYVJk3XaggGkJmAgdIr-f5BWr5bHw0prZglkd_8PurrObhRl0tC9uBZxcj3aVnq7-RhFPVGZPCLQ8jCsx0P-_bECPsxK12zlfikmJWoEGrDlJfmeqpSzHNKaLL1dDeriL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NqRoo3icHcTbDoIgAADQLyIx13XrwUtZ5oxqs_LFKSIUKAa4XD_YN_Q3bZ2H8_0wYzq9tCzBnBGVkgrSa6KwbA1pzQjLxqKdBlgDbbkoOXJ3MzX2OLmlEXeuBaUhjxqXVjsF6ol3UZNy-4KdyqjgVT5HvVKHkp0ENP6i97IBP5wibZ8zcGIblIYZ8uPj_OHrASKQl2sf6WFvj9-ivvMmush1qAIR1Q15duf3NtkXcWxXAVH3ePWyIYSA_ceg_QFpjEUi"
+    },
+    {
+      "position": 15,
+      "title": "Bell Buoy Park",
+      "place_id": "ChIJKwlrhUCcskwRVccSVD0ZAig",
+      "data_id": "0x4cb29c40856b092b:0x2802193d5412c755",
+      "data_cid": "2882894462664755029",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c40856b092b%3A0x2802193d5412c755&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c40856b092b%3A0x2802193d5412c755&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6574879,
+        "longitude": -70.2498461
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKwlrhUCcskwRVccSVD0ZAig",
+      "provider_id": "/g/12hqkc34q",
+      "rating": 4.5,
+      "reviews": 15,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "54 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "website": "https://www.portlandmaine.gov/1195/5369/Bell-Buoy",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Small but cute and clean area to take a seat and observe.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM831qiv5iFzBklvHojnzBWCTtI-hlJPKPg9DgcFguEJO3lmn94P2ARZA-6vLpsu3ExWglONVE-GqVbtN2KadCDOF25A7cdfiS4XViyUNP9CMDqXAHDOvVlO1A9o5jAof6pjg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lTP1SXicHcRZEoIgAADQE5G7ZTN9kEu2CW3W9FdkqBFooJUH7A7dppnex_t-cqUqOdQ0lls9KgRlWSOzBxFcZVz1iLhrtJKASCA1iJPVDcbLgWXUResUUTe-sTYWJe_Ge3-rpiBnMzzH1AsoiWgTzpDF7tyzsQnXRwjcdlHJxgpfe8pQkoZgUqdnlZjz08UPUGQ6sE8u12JjH9LivUuw5y-D-gDjALUpQwb0hFNCcXWrko6ehq7rIP9PAP8BxqZDCg"
+    },
+    {
+      "position": 16,
+      "title": "Eastern Promenade Trail",
+      "place_id": "ChIJF-vHdUScskwRnxf18teLrtE",
+      "data_id": "0x4cb29c4475c7eb17:0xd1ae8bd7f2f5179f",
+      "data_cid": "15109167559484970911",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c4475c7eb17%3A0xd1ae8bd7f2f5179f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c4475c7eb17%3A0xd1ae8bd7f2f5179f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6620541,
+        "longitude": -70.2438225
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF-vHdUScskwRnxf18teLrtE",
+      "provider_id": "/g/11hbqv6y47",
+      "rating": 4.7,
+      "reviews": 243,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Eastern Promenade, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "Closed",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 775-2411",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Swings"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Really nice trail, picturesque, peaceful and a lot of benches to relax.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcNAzwQcezdbVFdJX0jCcez7uxu-S9ps8WxUT87u6WpmmskwpI_N6S5sDRd3Gi-wbVHRGO3QbqcNVbwlkEU60YAq_5HNEYn4pSN70VEsy2fH9YrzmXrFo2RercE3LgsfcHL_m7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EJAThHicHc5LDoIwFEDRFVWqCKiJA6J8NKYKKMKIhPJTKK08SJUNugZ3o3FykzO7n3fV9wJWitJU6qTkvGzyAfKO8rbP235COVNKAYgCAsU8Ea82HUrMUXo0H7M0tLN9hO-bH4zhOaBgKWBxfV7OC2PQr4IxqKXYJUQPNNj6merckExD13eOqpc-KAlT2dTWRcex-Ug0l1hxOxcBMXBowWtWuMu4G1nU2Xzm_54s9VBCQd1Dwoy1nGKMUfUvRe0XrD9FIw"
+    },
+    {
+      "position": 17,
+      "title": "Dougherty Field",
+      "place_id": "ChIJrQ9XEPSbskwRnWjecka-4vc",
+      "data_id": "0x4cb29bf410570fad:0xf7e2be4672de689d",
+      "data_cid": "17862048281888975005",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf410570fad%3A0xf7e2be4672de689d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf410570fad%3A0xf7e2be4672de689d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6590379,
+        "longitude": -70.2855944
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrQ9XEPSbskwRnWjecka-4vc",
+      "provider_id": "/g/1tfvyrk6",
+      "rating": 4.3,
+      "reviews": 109,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "85 St James St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20136\u202fPM",
+        "thursday": "6\u202fAM\u20136\u202fPM",
+        "friday": "6\u202fAM\u20136\u202fPM",
+        "saturday": "6\u202fAM\u20136\u202fPM",
+        "sunday": "6\u202fAM\u20136\u202fPM",
+        "monday": "6\u202fAM\u20136\u202fPM",
+        "tuesday": "6\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 653-3476",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Baseball field",
+            "Basketball court",
+            "Skateboarding area",
+            "Slides",
+            "Swings"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"There are finishing the nature playground which is completely new.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZaOwDbIb8dAchNhendYQW9Yv_GwgDW0RY1k6elGib0S_C-VU_713HQBMBW_pQJejXhm9jeq4XzxGgURIoyyd6QVyXVWkCnP-i08Dzjnq4H2fdzv5-2haI5PbRAYdYjvqd3jlbaw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YA3D1nicHcRdboIwAADgE1WKqFOTPaAkgMkcZRHoXgj9sbVgCxZBuOGOsNss2ffw_f7Ivm_t3nEa6S2EMaLhT8sf1Oie635Bzd0RrQXUAuv4yRnVfvRdfY4BicmW-VSeJdcMo3yHhzIcRZDDFLv1hjfhjcCv8giyS_nmehE6fBzyskUnrgp53ynerYr5FYpLGptpYhuUTUWW10edgBvcBrPS3SpaXtk8rMFSVvE6IamPGVZDxzzVkGp8H10IIZD_U6D_AOtuRaU"
+    },
+    {
+      "position": 18,
+      "title": "Back Cove Park",
+      "place_id": "ChIJRz9MjXGcskwRcugJLUcr6_E",
+      "data_id": "0x4cb29c718d4c3f47:0xf1eb2b472d09e872",
+      "data_cid": "17432074367365933170",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c718d4c3f47%3A0xf1eb2b472d09e872&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c718d4c3f47%3A0xf1eb2b472d09e872&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.665568,
+        "longitude": -70.26390479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRz9MjXGcskwRcugJLUcr6_E",
+      "provider_id": "/g/1tdm7y1h",
+      "rating": 4.5,
+      "reviews": 169,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Back Cove Trail, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 808-5400",
+      "website": "https://trails.org/our-trails/back-cove-trail/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
           ]
         },
         {
@@ -1842,20 +1445,200 @@
         },
         {
           "parking": [
-            "Paid parking lot",
-            "Paid street parking"
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Enjoy all seasons while walking around the Back Cove.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKASibOO3L2StCo_zUC0FnrBii5sAAREUZ36kmv_YiOJ4biTQJYoi4hkb6vacn9wfZrUoAnOmcWC47WV4RrTH3eLJ3U4U9ugOqqRIN9JEkb2phoNzCZLEPYyMehN6bB31DYULCKw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D2mBJHicHcTRroIgAADQLzItyObdeiCyW-aVsqjpSwvGFWaCCeXqD_uE_qat83DeL-lca398_yLBoDKmuoibFR032gntBtw0ftVaj1vP-miTbWv0u0Y7xQgB6WjnsDk9KQ4WupspNbYI5TEtQVg391OhSAKZ2m-Twigoaxbez1xH_X_ZUYM0afgRw8nxAPNuvwQiTQCFNLpV5HrNV1mUxDUbtdJkT1ym8aZ4_AmZhWwGhvOCpnjdT_thEASe_M49_QGz70R2"
+    },
+    {
+      "position": 19,
+      "title": "Thomas Knight Park",
+      "place_id": "ChIJUzpk5SacskwROyXYa4IMCRk",
+      "data_id": "0x4cb29c26e5643a53:0x19090c826bd8253b",
+      "data_cid": "1803986880033203515",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c26e5643a53%3A0x19090c826bd8253b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c26e5643a53%3A0x19090c826bd8253b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6421352,
+        "longitude": -70.2559611
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUzpk5SacskwROyXYa4IMCRk",
+      "provider_id": "/g/1trcg0jz",
+      "rating": 4.5,
+      "reviews": 145,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "7 Ocean St # 2, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 767-3201",
+      "website": "https://www.southportland.gov/Facilities/Facility/Details/Thomas-Knight-Park-30",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Great place for dogs to run and socialize with other dogs\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYyeSwgLUXSo3WsnRgYlgOKATNwcoJYLF00gA30YwyxYF4RLvmU2vFpxL4aaYH-IAkE1dFStlNuhkxGXTmidJU0it-SvB1kNZ45dlLN_MnLx5A26gJrINAmNcQrT4J0gmnvj-s=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BTCqAXicHcRLDoIwFADAE1WKoAsTFzWxKtb6AaJ1Y0whD6UfQivgCT2DtzFxFvP9VN43bhYEqopGYC2o8uXKVlrjS-NH0uoAGoekQy4gB36sCRXvMu2B5ZfURmdnTiAU7Lck4720iWAUYyARFv17EDQ-sU7n4442A4vvd7FGG1Ivw4KmXvFXVQ-rS6YfRZLjh0dptwhrfo0nhWL8tjNsmJDxFJJ2w4nm8thmcYJBm-6J3LwPMcao-i-R-QF_DUSr"
+    },
+    {
+      "position": 20,
+      "title": "Crescent Beach State Park",
+      "place_id": "ChIJt713qXZgrUwRw9BJOTmZM4M",
+      "data_id": "0x4cad6076a977bdb7:0x833399393949d0c3",
+      "data_cid": "9454068513834127555",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cad6076a977bdb7%3A0x833399393949d0c3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cad6076a977bdb7%3A0x833399393949d0c3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5633195,
+        "longitude": -70.2297397
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt713qXZgrUwRw9BJOTmZM4M",
+      "provider_id": "/m/05q8smt",
+      "rating": 4.6,
+      "reviews": 1137,
+      "type": "State park",
+      "types": [
+        "State park",
+        "Park",
+        "Public beach",
+        "Tourist attraction"
+      ],
+      "type_id": "state_park",
+      "type_ids": [
+        "state_park",
+        "park",
+        "public_beach",
+        "tourist_attraction"
+      ],
+      "address": "109 Bowery Beach Rd, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7:30\u202fPM",
+      "hours": "Open \u00b7 Closes 7:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137:30\u202fPM",
+        "thursday": "9\u202fAM\u20137:30\u202fPM",
+        "friday": "9\u202fAM\u20137:30\u202fPM",
+        "saturday": "9\u202fAM\u20137:30\u202fPM",
+        "sunday": "9\u202fAM\u20137:30\u202fPM",
+        "monday": "9\u202fAM\u20137:30\u202fPM",
+        "tuesday": "9\u202fAM\u20137:30\u202fPM"
+      },
+      "phone": "(207) 799-5871",
+      "website": "https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=4",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Barbecue grill",
+            "Picnic tables",
+            "Public restroom",
+            "Swings"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
           ]
         }
       ],
       "service_options": {
         "onsite_services": true
       },
-      "user_review": "\"Wonderful city views of Portland from the adjacent garden.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoONHzwXaHzD7hD0cXTKe-n0yvqWlx2ja7SlTPZDiZz99VBQ-4JrJKX7qMIJ5Bm3GUSFea1OgEeOBfh9w4LVXbdvt57JE9SUrG0CiOrNw28JN_EudreWrnfDT-NDaKO68rMGzz=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/xfGnfHicHcRdboIwAADgE1XqD0NMfJAVcUVbCaiEl4XVSp3YaltFe8GdYbcx8Xv4_v-EtRcz8bxWDHuNUk3Lb4ZrpqTl0vaYOnvNxQBmgPFma5KdZnNFycJ1Zb1wKBAIsrJIOZDweb_u2sfgtw7ytlhX6Fi5MNxGGRhhjdMyuK6-sB-dh8kmn_O6T5uY0-ggwm603JY_-7v1AxyH-UYn8PNINekGY0y-49te852WB1QAguqUfoz1KnFu2vUhhEC8Z0C-AAeXQ3c"
+      "user_review": "\"This state park is a beautiful, clean, and quiet location .\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVoIwj34sR4Dk6aCNsin51cTDVJxrfRExZPHuVz25hC62BbDNSdd0OBvxY0kRAOBh2KvvwfOHBfVVIzL9Ivn7LCMI9kvKKTJjK7ebZIw3gSnc-uaA-uxNWHuey7bLQn5HbnJcN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ymC3DXicHcRdDoIgAADgE5GkmautB3_aQA3LGq3eklDKghaC1gU7Q7dp63v4vh_RdQ89d5yb8EaNUs2NG82fTMmOy27E1N1pHhowDbQTrsmmDRFVuL96E11OknZ6iom-SH_MdglNh2ddLofjGhn6dn0RT92oSsj2fIZFZIcDbMuwiISbWdvXBYpqSvE7n2Ergzxe4Vlrs2yXXrOAV0fce81WMmBOITAD2SPDX0GVb6SPKpkysujHEEIg_jMgfxlZRBA"
     }
   ],
   "serpapi_pagination": {
-    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+parks+things+to+do+Portland%2C+OR&start=20&type=search"
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=parks+in+Portland%2C+ME&start=20&type=search"
   }
 }

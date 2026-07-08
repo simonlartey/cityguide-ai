@@ -1,0 +1,1701 @@
+{
+  "search_metadata": {
+    "id": "6a4e68432c2bb4faf6580bc4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YnLdz1boNPXcXIxwdn_Bdw/6a4e68432c2bb4faf6580bc4.json",
+    "created_at": "2026-07-08 15:09:55 UTC",
+    "processed_at": "2026-07-08 15:09:55 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/hair+salons+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/YnLdz1boNPXcXIxwdn_Bdw/6a4e68432c2bb4faf6580bc4.html",
+    "prettify_html_file": "https://serpapi.com/searches/YnLdz1boNPXcXIxwdn_Bdw/6a4e68432c2bb4faf6580bc4.prettify",
+    "total_time_taken": 1.71
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "hair salons in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "hair salons in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Andiamo! Salon",
+      "place_id": "ChIJh3jXVhWcskwRzCMwccQYHoA",
+      "data_id": "0x4cb29c1556d77887:0x801e18c4713023cc",
+      "data_cid": "9231843518147732428",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1556d77887%3A0x801e18c4713023cc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1556d77887%3A0x801e18c4713023cc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6574096,
+        "longitude": -70.2545811
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh3jXVhWcskwRzCMwccQYHoA",
+      "provider_id": "/g/1tdm7y1f",
+      "rating": 4.9,
+      "reviews": 384,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Hair extension technician",
+        "Permanent make-up clinic",
+        "Waxing hair removal service"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "hair_extension_technician",
+        "permanent_make_up_clinic",
+        "waxing_hair_removal_service"
+      ],
+      "address": "58 Exchange St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20134:30\u202fPM",
+        "thursday": "7\u202fAM\u20134:30\u202fPM",
+        "friday": "7\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20134:30\u202fPM",
+        "tuesday": "7\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 553-2299",
+      "website": "http://www.andiamosalon.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"She gave me an amazing cut and made me feel so comfortable the entire time.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDW1R_ERsP_iQssFeeGHwFrpnC_4R4v3doo0esT1wy0U_4cA6-8Uz5FcyOdp0ed7Wx-THWd91aKIPy45XBDOxeoG0OK8q-QX5Rvs8QG3tZb7hq-SC3nZolMZZEjgtSFDJ3b2Zcvw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7Vk1gnicHcRLDoIwFADAE1WKBUUTFygWP1E-YjDdEC0NqNiir4J4Q4_gbUycxXw_pdY1jA2jKkmvUKqoxBPEgyuphdQ9rm5GUQPigMBww210damXmnE2jyHMzhEAFcJftPRRy1lmxVZDcqWwgMRsO7zPLO4OkLN_25R3QV5jkQ_TF0oWaT4yj-tl2Fn2YeoFL6F8HKydO4oOdtyAE_lEs9OwvKPdjEimqg1j80uhd9RbkVOf8aadtCbGGJX_OZI_kXZEHA"
+    },
+    {
+      "position": 2,
+      "title": "Hair Etc Portland Maine",
+      "place_id": "ChIJxb-PDDudskwRc41P-uKiq4E",
+      "data_id": "0x4cb29d3b0c8fbfc5:0x81aba2e2fa4f8d73",
+      "data_cid": "9343740947656052083",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d3b0c8fbfc5%3A0x81aba2e2fa4f8d73&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d3b0c8fbfc5%3A0x81aba2e2fa4f8d73&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6596682,
+        "longitude": -70.2582738
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxb-PDDudskwRc41P-uKiq4E",
+      "provider_id": "/g/11c5hzr91g",
+      "rating": 4.8,
+      "reviews": 97,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Wedding service"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "wedding_service"
+      ],
+      "address": "21 Chestnut St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 312-8709",
+      "website": "http://hairetcportlandmaine.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "book_online": "https://app.squareup.com/appointments/book/aac4xmexeqo9z6/T9DGEKGHTC0BB/start?rwg_token=AE37R_gLq9z4N5ydQjSbdxtfwv2r5snrsu6B2E8syQiHOzzXbriK_R3Tm0w8ngwBgRwR1c6Bc9vGuTrGWhiVktRl1fXgCSxTHQ%3D%3D",
+      "user_review": "\"Every touch, every stroke, every twist of hair was perfectly executed.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6WsgnIXZ5X0datOTeAeqqT_QXjyZLEQcof9xLNlpU9_JWTtd1vIsoCuybdjw4ior_tiW0MvDVQad0CPW6nLiCb5_psTBu5ZVwqokmXiMGzV7p-eCq8hmoaaVJR_UIPrbIkh_tqg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IB6V7XicHcRRboIwGADgE1VqJm6a-IBoDAYVFgTCSwOltgj0b2mRuRt6BG-zZN_D934Ja5VZO04nPmYcgHdsNGygIC2Tdkahd7gyiBpkHC86x623X2aGyyAv3BzXpb0kzGNaJyTO788i3McUbquf8Nyp64ocs8TW80dgwB-fVX2fFg0MxDYZPj12aVzW2I-ypQwbv3KJMsl2dIt00tD2eXM6_KafCjFff4keyjI9fpNrEA1V0ApiNd9Mc4wxEv9TJP8ApppHyQ"
+    },
+    {
+      "position": 3,
+      "title": "Salon Lavender",
+      "place_id": "ChIJZ7sX9WicskwRqIRdy9kU1q4",
+      "data_id": "0x4cb29c68f517bb67:0xaed614d9cb5d84a8",
+      "data_cid": "12598279933267903656",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c68f517bb67%3A0xaed614d9cb5d84a8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c68f517bb67%3A0xaed614d9cb5d84a8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.665608299999995,
+        "longitude": -70.2520857
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ7sX9WicskwRqIRdy9kU1q4",
+      "provider_id": "/g/11f40mgdnh",
+      "rating": 4.8,
+      "reviews": 95,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon",
+        "Wedding service"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon",
+        "wedding_service"
+      ],
+      "address": "63 Washington Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20132\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 747-4431",
+      "website": "http://www.salonlavender.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.fresha.com/book-now/lavender-dgngcx8h/all-offer?id=90688&pId=84372&rwg_token=AE37R_i01Hpn-xdvvOpKj6Y3Ks3HzF-t02jQpqooFqO83nl-uJmbstd2Qiow6Jb6tywaBM8lxrn5TQkILjF1DVeqzsUILxxIZA%3D%3D",
+      "user_review": "\"she delivered exceptional work and changed my look drastically!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYqT3eKmovC1FV7FzLnkelh80JZRPZ1r9RSXno5YihAPM1j1Y1PrgQRzNvOVVFLani0aVELshobbzTE9Jk4YAkJodbWtQOaujiWuou7Yq6YMFigvpTGH7ildJEfTJcNndhnw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/O7_iu3icHcRBjoIwFADQEyFt1EFNXBADYzqIgAStOyidtoL9SAsm3M9DeBsT3-K9X9Lazmxct5XzmQAQLR8M7xloy7WdMbi7ojMOM45x_SROG39PH_mc_91h3OGw8MIp0g1v5QqRa5Zccb_OThcNS6qknxzwDVOc9CLNpng8FkUYlVqhsggiI6GqpjxYk2ZB_YZAXZ1teiyHmzoPMHj08UMPoRJjl__uPdXWJPjPCYt1LfVz-8QIIUd-Z47-AO_jRRI"
+    },
+    {
+      "position": 4,
+      "title": "Slate Studio",
+      "place_id": "ChIJPQbR6GCbskwRItnAINSqcMo",
+      "data_id": "0x4cb29b60e8d1063d:0xca70aad420c0d922",
+      "data_cid": "14587347021112334626",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b60e8d1063d%3A0xca70aad420c0d922&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b60e8d1063d%3A0xca70aad420c0d922&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.667395299999995,
+        "longitude": -70.2778087
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPQbR6GCbskwRItnAINSqcMo",
+      "provider_id": "/g/11qnk84gq5",
+      "rating": 4.9,
+      "reviews": 64,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Barber shop"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "barber_shop"
+      ],
+      "address": "45 Dartmouth St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20138\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "9\u202fAM\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 613-9251",
+      "website": "http://slatestudioportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"She\u2019s been making my cut and color dreams come true for 2 1/2 years.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDfxfyr_97528IKcZ97gjEt8_ySQkXkb4319jtYyLJk87-3ILDn1qE2TdiIgNx-L0DDZj4di0ay5qZ0GUK5y8KXYavh1CETy54LaX-g0E-sEaBo2PcvBQDf-7rCdgpY-bNsUmV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wCai73icHcRJDoIwFADQE30pUwATF2IbgxAicQiwMVigTFKkdegJPYO3MfEt3vfTSDmJpaYNjblgnLOheohqpnyU1SgXlN80NgmgAoS23sdJvya4ftdqvniObbhBSHPPYR2R7kUdkj7tr5ape53MVLTrXQfMIMKjfifGsWwDFr8hQhjnnVW2qFD2PUfbU2grN0yz4tnoG3JUthUVKTBEQJDC58aePv0E1-DMm5JNGVxjcbqdVy8dIQTNfwrjD5BRQjg"
+    },
+    {
+      "position": 5,
+      "title": "Hygge Hair Studio",
+      "place_id": "ChIJsVJWlTadskwRZl2ktJ0gf9Q",
+      "data_id": "0x4cb29d36955652b1:0xd47f209db4a45d66",
+      "data_cid": "15311993119795600742",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d36955652b1%3A0xd47f209db4a45d66&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d36955652b1%3A0xd47f209db4a45d66&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.654282699999996,
+        "longitude": -70.263865
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsVJWlTadskwRZl2ktJ0gf9Q",
+      "provider_id": "/g/11fcvbsvkj",
+      "rating": 4.9,
+      "reviews": 92,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "150 High St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "11\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 370-0156",
+      "website": "http://www.hyggehairstudio.me/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "book_online": "https://hyggehairstudio.glossgenius.com/services?rwg_token=AE37R_hzmcupsj0EPexxcW3RRz6-IWJzBxzcDgBrUJxWCkBVz9vFfpdWWWlBDXAxfX2mCxdspPuM_nUxgKZh9ta9sKPynucnVg%3D%3D",
+      "user_review": "\"She cut my hair perfectly, it was exactly what I wanted.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJ6vsRR8CJofibk2RlAY40US8kooV1Qsg7pbnMwyeN04kGc3GTyUrJ2neKt3ukV1SoOtmsrvckrFtNLpFCV1MuT01RiicyHtdmUl19bcRzp-ACxcvxISiQ8Zl1pdiVPqFWAxQ0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FCzp9nicHcRRboIwGADgE1VaIRsu2UNDgo5NlCIs2yO_HTQtbUcLghf0DN7GxO_hu9867617CwLVhavWmFbx0fEBjPZc-xWYPmitQ-CQC-gxLyTdZS-TYyxOMvMnGrlmiv5EuCpjaUxNCte-2kbvLwvPcSS3EG5PSzVka80_fTjKmpTm4Hs3TCCH1OdfNk1qsh9PmDAhYNn5c18psmmAXS2iyQzT_FGKIv5VxJ5FffxPv-lc4PcLwRij7jkg_QCa80Wh"
+    },
+    {
+      "position": 6,
+      "title": "J Henry",
+      "place_id": "ChIJXWpdH0CcskwRh8qjgqjWiuw",
+      "data_id": "0x4cb29c401f5d6a5d:0xec8ad6a882a3ca87",
+      "data_cid": "17044671758971685511",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c401f5d6a5d%3A0xec8ad6a882a3ca87&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c401f5d6a5d%3A0xec8ad6a882a3ca87&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6565929,
+        "longitude": -70.2576425
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXWpdH0CcskwRh8qjgqjWiuw",
+      "provider_id": "/g/1v8gbmny",
+      "rating": 4.5,
+      "reviews": 122,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon"
+      ],
+      "address": "24 Free St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20137\u202fPM",
+        "thursday": "11\u202fAM\u20135\u202fPM",
+        "friday": "11\u202fAM\u20135\u202fPM",
+        "saturday": "8:30\u202fAM\u20132:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "11\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 358-7555",
+      "website": "http://www.houseofjhenry.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "book_online": "https://phorest.com/book/salons/jhenry?rwg_token=AE37R_hAbGyUSXmLM5yS21wWvlBLQ0TQTLwI3CnJplLF6tOlAFEOOpXgrJWT03LrZb_jfmjRsR8svSaoracv8V64ohNmFHGw4g%3D%3D",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPG5lNvVu-SGNSBNqPgw-zCgAG0V87yhOqbbeF-p6pBflDqyeEnC8pjp2tQOxDJ_syq4KIMrnFEXWZWV4k0n6wDhKVekqEmDoqqQDpwNXFHPbHlxIgnTPSd4j19Zbd67-TJOpcLw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OhdoOHicHcTbboIwAADQL6rUieiW-IAW8DJLCQaNLybU2kZqL7Za2R_uE_Y3SzwP5-9XeG_cVxRJMRpwrblkD8fuVCvPlB9QfYu4cYA64KKU4KpLc1KMJX42D1AXuJ5jS3gAPwueFrCZTnpR2rZlOTCJmV8ksj3L1GJqrubDV-ULrU-ut_Fmtb2rPDvsj_sm7qBKAhKbhnU2uyFtbYVMwId8SdqlfK242pH6HF-Hn8f2nEzAbl0a-h1mYQghBOI9Beof9z9FkQ"
+    },
+    {
+      "position": 7,
+      "title": "THE RAVEN SALON",
+      "place_id": "ChIJF0eFDhScskwRruC6OXCniVo",
+      "data_id": "0x4cb29c140e854717:0x5a89a77039bae0ae",
+      "data_cid": "6523929635669598382",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c140e854717%3A0x5a89a77039bae0ae&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c140e854717%3A0x5a89a77039bae0ae&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6555967,
+        "longitude": -70.25578089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF0eFDhScskwRruC6OXCniVo",
+      "provider_id": "/g/11_rxxn_r",
+      "rating": 4.9,
+      "reviews": 303,
+      "type": "Beauty salon",
+      "types": [
+        "Beauty salon",
+        "Spa"
+      ],
+      "type_id": "beauty_salon",
+      "type_ids": [
+        "beauty_salon",
+        "spa"
+      ],
+      "address": "479 Fore St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20134\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "11\u202fAM\u20137\u202fPM",
+        "tuesday": "11\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 536-0163",
+      "website": "https://theravensalon.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHO3gCPMikrf2HMMRIHXKyBRiNDd6g2PK3NgsE6iOcxZr4-SrY5VhQFns8I-f5QkUom3Y4QrDBHTDZGq-Y41qEg1GLpNWGQT8xoS_BVxgqyUImJVNF4hhBkDe0CHos7uMM8S27xOQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UiYBI3icHcRJDoIwAADAF1V2JSYeZJGitlBRFC4eKrYEodBixCf6BH9j4hzm--Hj2Kulpj24NWNCsEf1VJWkohurbpxR0WqsV4AqoLR1ikmzhonF_BTVjbybEKFDDC-7t3eocXCbMzPdWZipcF4ndCqlDTJZODknm065Mbg7pDmJ1ipsIgMPHoMyGkBhG0PIjGjf43NEju4ksquXT2x4n-J2m-ONzbnXBJXuQ6EWT4TczFxMCVm9DF3XAf9PQfcDRGlDaA"
+    },
+    {
+      "position": 8,
+      "title": "Ethan Hunter Salon and Barber",
+      "place_id": "ChIJU6bgwT-cskwRRtETU_VqtGw",
+      "data_id": "0x4cb29c3fc1e0a653:0x6cb46af55313d146",
+      "data_cid": "7833003253797474630",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fc1e0a653%3A0x6cb46af55313d146&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fc1e0a653%3A0x6cb46af55313d146&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6565224,
+        "longitude": -70.2536049
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU6bgwT-cskwRRtETU_VqtGw",
+      "provider_id": "/g/1tvw4jl9",
+      "rating": 4.9,
+      "reviews": 205,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Barber shop",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "barber_shop",
+        "beauty_salon"
+      ],
+      "address": "395 Fore St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20133\u202fPM",
+        "sunday": "10\u202fAM\u20132\u202fPM",
+        "monday": "10\u202fAM\u20134:30\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 871-1780",
+      "website": "http://ethanhuntersalonmaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"She  was knowledge and kind and gave me the exact cut I was looking for.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGURMebMQQAAT5FknYEN8hgxE1xLyUbKCQMlZNe-jv61q0uyLNFlVLcl74fDRYkg27iPC03OrlM_-9lJP8CQODNL2CHagJG6W9l10umNgBaaS5yxhQbL0_N40PIejh3T-uCO9cE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XqwV13icHcRLEoIgAADQE5GYfbSZFkZqH0Qxq6lNowxBSVqhpSfsDN2mmd7ifT-yru96YhhKWj1RVULxRvMnq8qal3WPVTdD3DVgGmjDjQkt3GCbhDwPKXXddOgX5cEjthStZ7a42-ZrREN1JBxcXyPzAZsOE1_tMFPjwXmeHArRH19iBK3oqcITcNQqthGN5gT30SITq2C0d5QJmxsRsyzbDLtW0hzDExnAeMmv0kpBgyKHedO3CSEE8j8D5Q-vakIg"
+    },
+    {
+      "position": 9,
+      "title": "CoCo Cheveux",
+      "place_id": "ChIJd7UJFW6ZskwRNf-_eW2ez-o",
+      "data_id": "0x4cb2996e1509b577:0xeacf9e6d79bfff35",
+      "data_cid": "16919916518085492533",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2996e1509b577%3A0xeacf9e6d79bfff35&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2996e1509b577%3A0xeacf9e6d79bfff35&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6307322,
+        "longitude": -70.3248517
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd7UJFW6ZskwRNf-_eW2ez-o",
+      "provider_id": "/g/1tvq3qpj",
+      "rating": 4.8,
+      "reviews": 378,
+      "type": "Beauty salon",
+      "types": [
+        "Beauty salon"
+      ],
+      "type_id": "beauty_salon",
+      "type_ids": [
+        "beauty_salon"
+      ],
+      "address": "333 Clarks Pond Pkwy #7, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20134\u202fPM",
+        "thursday": "11\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20134\u202fPM",
+        "saturday": "9\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "11\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 899-4520",
+      "website": "http://www.cococheveux.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://phorest.com/book/salons/cococheveuxsalon?rwg_token=AE37R_g5JhbLssA6fp8GxLjQns0EswoG0hwhZ3jU8SnjJsLaQkHD95Busc5Wd2A3SJEK7Zw2KATLwoz3Tv9P46Zt1AxMY0J6QQ%3D%3D",
+      "user_review": "\"She listened to and understood my hair goals and helped me achieve them.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFi1BdAw_XeYe3TkxO9XR6N7LSuvJWhNX2seBTZTdXrgXprL63GUiiLT3fKDzFGUXJ2QznwKtJpM7pdjZJaRU6-zPK6DQfg4sqoY8KU7J2O0AbJbRd4HSBz6MPGPpvzSj2_9tc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/M1e7Z3icHcTbDoIgAADQLyJNHVZbD7qmDc28LuqlJRLaRUgoGx_YP_Q3bZ2H8_20Sgm5MIxba08Y5-xGn5IOhPeK9mpC-N1gQgIigTS8NMmuXtBN_cYbj5juqV1e39s5zmHixsXzhXZtgi1J_fJQNnhgWAwxtMOq6-LSPkcrHYQVRlam-zFSSGxc0VwO6JRXEOg0gqvszBz54PtZVLnI2ppejeq8cdaFr-EmDVPx0sXFOs4VWY5T0zRB-5-A_gfp1EOK"
+    },
+    {
+      "position": 10,
+      "title": "Heart & Mane",
+      "place_id": "ChIJ1cbEY3edskwRxriQbl3UCCY",
+      "data_id": "0x4cb29d7763c4c6d5:0x2608d45d6e90b8c6",
+      "data_cid": "2740673871006972102",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d7763c4c6d5%3A0x2608d45d6e90b8c6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d7763c4c6d5%3A0x2608d45d6e90b8c6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.652994899999996,
+        "longitude": -70.25777889999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1cbEY3edskwRxriQbl3UCCY",
+      "provider_id": "/g/11fhr7mzvg",
+      "rating": 5,
+      "reviews": 55,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "28 Maple St #204, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 613-6588",
+      "website": "http://heartandmane.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"She did an amazing job with my hair.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGyStQ0pO26WgmpjpfQTdvJH0sbUha6-EI5UnE1HSnp3d8MbH4FeWhlZ-5FwMMOwlrALGqwhSKJ4wwXjvY6jbCYW9iskYwCs4e8pqwbHMT_QqCesW0odKa3rOZtbW9CYDgbihFS0g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MGN53XicHcTdDoIgGADQJyIpzVVbF84y-zFz1shuWihBZoB-FOsRe4Tepq1zcb4fYYyGieM0wu1xpXjDnsC6UknDpOmV6uFwDagEBE6w22b3YPHOTYZ1OvAJf-haX7N99VrFGOhBXHw0Xw4Pct6Pc6ndapTQ2IsYEc0JDSObJKltumCzaK3I1yvP2mP9KvyahgUZ3-Be2BA8NtKtpXGyP2dtyIBgVa0vbpeeDCXjsJhxehNRjvnU9jHGSPwvkfwB_4FFzw"
+    },
+    {
+      "position": 11,
+      "title": "Bang Cut and Color",
+      "place_id": "ChIJO9g_GRGcskwRwVczqfYA3tQ",
+      "data_id": "0x4cb29c11193fd83b:0xd4de00f6a93357c1",
+      "data_cid": "15338698440271157185",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c11193fd83b%3A0xd4de00f6a93357c1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c11193fd83b%3A0xd4de00f6a93357c1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6534705,
+        "longitude": -70.265365
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO9g_GRGcskwRwVczqfYA3tQ",
+      "provider_id": "/g/1tfchc83",
+      "rating": 4.4,
+      "reviews": 69,
+      "unclaimed_listing": true,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon"
+      ],
+      "address": "647 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 774-8383",
+      "website": "http://www.bangcutandcolor.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"I saw Molly for balayage, layer, and bang cut - she did a fantastic job!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhkvOqSJMk7_FY_qFmvmXdf3EOl722vOzh7MblTkXv9hn6JnAzHqAV0iipDiBb5FnCc3ByyDIs26tZevcp_5HunfD6z-S1j8HZdQ3QFGsjBwoupBJiuC3VBY_n_NFDJET3fpPaQg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pzepB3icHcRRDoIgAADQE5EmU6utD0nJ3MpcrVU_LEnFVMBAWt6wI3Sbtt7H-36Y1lItLKtlcFIJUbXFoIonFVwXXE-o6KxKKkAVUFaw32VNELPGpP0h2TY-wRfS485053sJo7T1HcekI_O3eXtszmbOuJfwYIz74GTXtQxrlLuYryhE73e4UY6nr4WhkrjxwMvQG8Fh-pjF13sGM7xWD_QSg0RJPazgCV0IJzscJtERlnJ_y6rla2rbNmD_KeA_KkdFqA"
+    },
+    {
+      "position": 12,
+      "title": "Akari",
+      "place_id": "ChIJs5lfThWcskwRg_g08zJZNLQ",
+      "data_id": "0x4cb29c154e5f99b3:0xb4345932f334f883",
+      "data_cid": "12985101700979554435",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c154e5f99b3%3A0xb4345932f334f883&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c154e5f99b3%3A0xb4345932f334f883&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657601199999995,
+        "longitude": -70.2555053
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs5lfThWcskwRg_g08zJZNLQ",
+      "provider_id": "/g/1hc3jp38g",
+      "rating": 4.8,
+      "reviews": 223,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Day spa",
+        "Facial spa",
+        "Beauty salon",
+        "Massage spa",
+        "Massage therapist",
+        "Hairdresser",
+        "Waxing hair removal service"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "day_spa",
+        "facial_spa",
+        "beauty_salon",
+        "massage_spa",
+        "massage_therapist",
+        "unisex_hairdresser",
+        "waxing_hair_removal_service"
+      ],
+      "address": "193 Middle St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 772-9060",
+      "website": "https://akaribeauty.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://na0.meevo.com/CustomerPortal/onlinebooking?tenantId=101116&LocationId=103440&meevo_channel=GoogleBookNow&utm_source=GMB&utm_medium=booknow&utm_campaign=meevo_onlinebooking&rwg_token=AE37R_g95A43A6B6JtXE3eZf8OERzIQI4f-gZ7FPENUltxk4cz4x_zKcspJtSpUj9o9oEa9iI-WwVa883dCQOg950h8hiBYOjQ%3D%3D",
+      "user_review": "\"She made my bday haircut special and I've never looked sexier in my life.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHv9g47kwfriubRBB4thbugtnzuSnNMLQ1gM0zT60XYHCziZdGT6YuiiN3N0n81lzFrJNUafv-HDuJjZwhzI7NktupMEdZiLSdSzLOPvArAcXFn1vCS47lzw-qTydlEgT6RE6fD=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DI1mbHicHcRdDoIgAADgE5G4nFZbD1aaNaUfbSvfEhVIQhPQxQU7Q7dp63v4vh-qVCcXlsXpdELalvBKy6rHrVCVUBPcPi3SSYAlkJZ_RKfGj4Y5cbxmrHumi_Nq5ShaaKKE0alASXyySQJN5sLrLVoblpfbzL1pxtAUQTGzuQn7Pbrc6wFEG71_5CM1Ow81SndJUOYsTsvUxIfj4Pc-vobCHtap43Ezglf2LnlAMvccuPVmOdoQQkD_YyB-zd1FqQ"
+    },
+    {
+      "position": 13,
+      "title": "Eunoia",
+      "place_id": "ChIJyfK0uZKdskwR52e7hVXjHsk",
+      "data_id": "0x4cb29d92b9b4f2c9:0xc91ee35585bb67e7",
+      "data_cid": "14492270607380211687",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d92b9b4f2c9%3A0xc91ee35585bb67e7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d92b9b4f2c9%3A0xc91ee35585bb67e7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6575327,
+        "longitude": -70.2524607
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyfK0uZKdskwR52e7hVXjHsk",
+      "provider_id": "/g/11q956xdpd",
+      "rating": 5,
+      "reviews": 47,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "4 1/2 Milk St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "website": "http://www.eunoiaportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"She did a relaxing shampoo/head massage, great haircut, and great chats.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzwtPe-yDRC5ccbvgfmlCNUSawkgE9MRJf9O7MxK-ujt82NMfYR1zq2wVtxDEm3TL63Q40_RiYDoFOsUewy9XcV_dQWXdRY23XUgoYgpu8A8bPYn2bei_0a0QAHNgMiqHcU7tGD4o1-_lv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Nt-XG3icHcRJDoIwAADAF1UKuICJByIuUUGoovREoJaCAkVbrPJJz_7GxDnM91NI2YqpplWFOWCcs4p2gj4IbyRt5IDwWmOtAEQAoTmBH96cZa9kQMHbRfMRIdmT5XU196NDqm5sYXtok9v7iffagu4qLcP3coz0_m6ok3y5i9o87sZmOIQJKrHLl3sRUfW2Y3JKLuE5viBsmHHEOGZtZzlWFuDGyGiZwBSGztpnXnlfk2giV-6Q6yCpnjOlQwhB8Z-A5ge2jUcg"
+    },
+    {
+      "position": 14,
+      "title": "Hair by Robin Leigh",
+      "place_id": "ChIJ-W5yFhWcskwR2UHcdwfF_38",
+      "data_id": "0x4cb29c1516726ef9:0x7fffc50777dc41d9",
+      "data_cid": "9223307197744431577",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1516726ef9%3A0x7fffc50777dc41d9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1516726ef9%3A0x7fffc50777dc41d9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657029699999995,
+        "longitude": -70.2566006
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-W5yFhWcskwR2UHcdwfF_38",
+      "provider_id": "/g/11f2b57y0d",
+      "rating": 5,
+      "reviews": 33,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Hair extension technician",
+        "Hairdresser"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "hair_extension_technician",
+        "unisex_hairdresser"
+      ],
+      "address": "Luxe on Free Salon, 4 City Center, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20134:30\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 577-3635",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Robin is an artist with hair and understanding her clients.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiGGjp_VPtC0zKKDkoNurK78z51Qq2LaNvJJK0f_0OzjEHjyNEnJJn2nGuM9YpIUKSBYKdWv3N-ya0MY0GMgnc4MIzBwh7MeVf_OdjVX_FTRIZy_GzfSmPwbWco7OzvgclrwWk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Rm0MM3icHcRLcoIwAADQE0Xib7CdcaHWRkgT8AfFTcZGCAImlAQYckHP0Nt0xrd4f8_cmFq_O06VT0dCKVGlrU4brqRJpRlx9XBErQHXQDurkO7L1e6OUFGzKDQbaDH-KBVtG-wu7Hy8_518XWnn-xhmDAa22O6KgW6l78uJRC15S2rvjI_rBN_ibkrBcIUkgYgIyWfEs-s-d0kaZSy4FdE3-zwdvMvAkM2Oj7D_iblyA9sJXjV9XC77MYQQ5K85kP9LG0VV"
+    },
+    {
+      "position": 15,
+      "title": "Dathan Hunter",
+      "place_id": "ChIJpZaOCUCcskwR7xxqwhTG9AU",
+      "data_id": "0x4cb29c40098e96a5:0x5f4c614c26a1cef",
+      "data_cid": "429185656970419439",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c40098e96a5%3A0x5f4c614c26a1cef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c40098e96a5%3A0x5f4c614c26a1cef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6608345,
+        "longitude": -70.2494214
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpZaOCUCcskwR7xxqwhTG9AU",
+      "provider_id": "/g/1v_z3yd9",
+      "rating": 5,
+      "reviews": 55,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "15 Middle St Unit B2, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "12\u20136\u202fPM"
+      },
+      "phone": "(207) 774-8887",
+      "website": "http://www.dathanhunter.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"She cut my curly hair dry, which I've always wanted someone to do.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsFpwC0IHCY9LmExXTPFDbSaLOIpF46Zj03EZB2aJFjDTIG9Rpun-ZT8XB76mehwjtLh1oefdsv1e1AfdHAiDopQIvKXVA5t0Orx4eTaOHP07SBe0oRGmLnp4oz_eFEMwTLKc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mGFoS3icHcRRboIwGADgE1XKRJ0mPhShwuwGSmOQl4XVXyqTtrFVjAf0Dt7GxO_hez6kc8bOPO8kh4NG6-YEFwtnoZUD5QZCd15jLBIWWY_kP-t_Eltq-gVOk8Vuyrr4VvKcRn9FzbLU0GBctXgYV-FH_UXbiKfL6cZcFKr4ZxlOxh3IvnVM-hoOe3v1wSeHfUKOkTbr9Loqt2TkcHa-BcDrLMnxpAgB682yY8oE-v4LNP7uOVuJee9jjJF8L5B6AYU1Qws"
+    },
+    {
+      "position": 16,
+      "title": "Beehive",
+      "place_id": "ChIJ58ImixOcskwR6ytSnKBYSKg",
+      "data_id": "0x4cb29c138b26c2e7:0xa84858a09c522beb",
+      "data_cid": "12126039443535703019",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c138b26c2e7%3A0xa84858a09c522beb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c138b26c2e7%3A0xa84858a09c522beb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.655804499999995,
+        "longitude": -70.2622816
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ58ImixOcskwR6ytSnKBYSKg",
+      "provider_id": "/g/11hb37h6lv",
+      "rating": 4.7,
+      "reviews": 31,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "79 Oak St, Portland, ME 04101",
+      "country": "United States",
+      "phone": "(207) 808-0235",
+      "website": "http://www.beehiveportland.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"She even dyed my extensions to match my hair perfectly (from memory!).\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtgExyQ_Hbr7IxnMHJ9sVKfynnAHTeUn2fy6ZmLjZ3vCytCy9I29winto1Jqh67fnyDjm_FnIZyN5ZDHbwVXRMTqhvLoEcYzpvQbPpFMxSj8_DfuZbTMFcoi56fIm1x4sTc--Ngg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ldqpfnicHcRLDoIwFADAE1XAD4qJCwIiqBBRNNoNCQ1tRXlFW4F6Q4_gbUycxXw_XKlGzg3jzkcDJgS7ly9ZPokAVYIaEFEbrJGISCQNd5ekN3el2LLXaR4Wz2nUQxyuHXnaUA3ghll5hCHVNq63FR61nlaedqKh011BCWv94PaUgvarOg8gwjqZYD8sutN5H2cP3m7FklzeTZsWuyaI-0M1y336wkUWB0RcJzaNaqsfy4wglDC26CzTNBH_TxD8AKVkRyQ"
+    },
+    {
+      "position": 17,
+      "title": "Dye Hard",
+      "place_id": "ChIJ2RQoyT2dskwRkw3J-C1QAG8",
+      "data_id": "0x4cb29d3dc92814d9:0x6f00502df8c90d93",
+      "data_cid": "7998481096587677075",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d3dc92814d9%3A0x6f00502df8c90d93&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d3dc92814d9%3A0x6f00502df8c90d93&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6539103,
+        "longitude": -70.2638777
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2RQoyT2dskwRkw3J-C1QAG8",
+      "provider_id": "/g/11r1b46486",
+      "rating": 5,
+      "reviews": 55,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "613 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 253-1550",
+      "website": "https://www.dyehardportlandme.com/",
+      "extensions": [
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "user_review": "\"The salon is clean, very welcoming, and reasonably priced.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsd89ABvgol36tzlbBP1UwjgBXJLXJ65njrodT-jgdASlgOv81pTgTmZZ6m10ZRNC-DTpYIx2jKl-O6xgP0bIGabNQeBAQnWYru38Lnv9Kt0eLmhksbB7wzSCuM7JmFMTzk7Wb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aj3npXicHcTdboIwGADQJ6qUEQGXeNFqZkREmDUqdys0H4H-EFrA8II-w95myc7F-X03zvX20_NkE6zAGJBitGKojHZCu1VllAe9RZVF1iN5VnTkYOt4Q-gERgahWySnuX-bW6CPJH0k4Vq3g6kZaqEmVwmXKfZ7BkyVZah8XH5nO7Rn_fP4-mhPEl3CF-SYHw8_PCsEJYW-P4cxiFM9bU4Oi1Q1neU0mpfrbjxHifo6s6WL7nw7-xhj1PxfIf0HR-BEcQ"
+    },
+    {
+      "position": 18,
+      "title": "Newfound Hair Co.",
+      "place_id": "ChIJDyFVLACdskwR0ecsQ_-t74s",
+      "data_id": "0x4cb29d002c55210f:0x8befadff432ce7d1",
+      "data_cid": "10083469402561112017",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d002c55210f%3A0x8befadff432ce7d1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d002c55210f%3A0x8befadff432ce7d1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6577224,
+        "longitude": -70.2528699
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDyFVLACdskwR0ecsQ_-t74s",
+      "provider_id": "/g/11xtbnw_st",
+      "rating": 5,
+      "reviews": 121,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "5 Milk St ste g20, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 747-4055",
+      "website": "https://www.newfoundhairco.com/",
+      "extensions": [
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"Wavey gave me a great haircut and blow-out, exactly what I wanted!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxfkMPArOft0w4RijpCw7iadWTNvOkriR3QcbVEkW8GPh5KtGZpG5bOgUeafailQvjVlQBBcMIb6fU5afH-7iPnOtl0C2qr6yKZKkRKx98e6G5Km40XNohrEVkuBRh7QNEMWyf7_M9aIY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9LV1X3icHcTNboIwAADgJ6p0U0CX7AAGmWn4KZmweVlKbWltpaytoi-5-95myb7D9_sjvJ_cSxBosVwMxgyaXR2z1IyejX5BzSUYJgeoAy5I6hKrZHfnqqgTW3EP51Ujz9N2jiU5de_lrVJWNktM-zZT3TqvRYh8fpzysK-GAyOcSI1v51bjNKXFvo_4IST8DcSyHiuv4fb520YPdESqQffNmkV5iC4r-FEaYbNWXdNGxLjMiu7B469iQ_afr_MThBCI_ykY_wCbbkcD"
+    },
+    {
+      "position": 19,
+      "title": "Knaughty",
+      "place_id": "ChIJQ3a14j2cskwROuVkR0O4FSM",
+      "data_id": "0x4cb29c3de2b57643:0x2315b8434764e53a",
+      "data_cid": "2528129364938515770",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3de2b57643%3A0x2315b8434764e53a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3de2b57643%3A0x2315b8434764e53a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6535101,
+        "longitude": -70.2560682
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ3a14j2cskwROuVkR0O4FSM",
+      "provider_id": "/g/1td_4sqc",
+      "rating": 4.8,
+      "reviews": 59,
+      "unclaimed_listing": true,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon"
+      ],
+      "address": "305 Commercial St Apt 6, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 874-0929",
+      "website": "https://knaughtyhair.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Veronica was very professional and did exactly the cut that I wanted.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5NDKiOmC0a0Fd_Rg1G9JiI-Qmj-h3kJMacMk_hWvoh6Z8PLhQy6wn-Jxdj7h4WyxEpYFIRpN8FmfVtVZqAtH50c-NxphREbSq9sHt2KeJV1zu2Dgb_XfY-0Gmp9BqX0jOh7OyNA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mWGhjHicHcTZcoIwFADQL7oS3OlMH3BBRA2LM7i8MBoxVzAkNKFC_7Cf0L_pjOfh_P2iMUp_WNYTBz0uJX_mjc6_mKxMXpkek8LiSgPToC03onHp-iO62DxCMScX4t2yhNsrJ3isIRYF4KAMdhe2KzM8fEscn6fRFuNu_KogaG_FBIeHrl2qk7dOFJ164p6a9Fy7xh8RBrRVmCyv-9rRvulv8iC1f5r-gl-z4_0EZCWUM6uPpAhxEnbU_XzZhBDA9wyqf5CGRH4"
+    },
+    {
+      "position": 20,
+      "title": "\u00d2la & Co. Hair Studio",
+      "place_id": "ChIJl2W7ClGdskwRUgcVmb-VebY",
+      "data_id": "0x4cb29d510abb6597:0xb67995bf99150752",
+      "data_cid": "13148705237224458066",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d510abb6597%3A0xb67995bf99150752&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d510abb6597%3A0xb67995bf99150752&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.660736,
+        "longitude": -70.2642669
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl2W7ClGdskwRUgcVmb-VebY",
+      "provider_id": "/g/11j6xy6k4r",
+      "rating": 5,
+      "reviews": 47,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "137 Kennebec St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM",
+      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u20138\u202fPM",
+        "thursday": "9:30\u202fAM\u20138\u202fPM",
+        "friday": "9:30\u202fAM\u20138\u202fPM",
+        "saturday": "9:30\u202fAM\u20138\u202fPM",
+        "sunday": "Closed",
+        "monday": "9:30\u202fAM\u20138\u202fPM",
+        "tuesday": "9:30\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 773-9717",
+      "website": "http://olaandcohair.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as veteran-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX1~t6bzIREWko7daE1X7mDzQgdzqNxyKYBk=/services?rwg_token=AE37R_gOEX8TR74oj3RQ9ezXu0GgvwzivxdP3WYWe0E6mFUoejRpwXmHSt-lpzmxWT-en-5gras3-HKvdb2xNBtVGaEpZcXGnw%3D%3D",
+      "user_review": "\"She cut my hair and styled my bangs perfectly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWnW7OTNmGONp0dPvQNitrEaJx2qAugPS2wzDtVvJXWavtWpZgcDQP16eYUZRMA6KKeip4jATJIzDmoEouyku-Zks2sxO0in3z13xGw3a-dj0TINDaVAshmb3ieW7oucGpgLo7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2kCW-XicHcTRroIgAADQLyJRWm5t94HNclmh3ixuvhkxNBMoQM0f7Bv6m7Z7Hs7nXVurzdLz7jWaCaXEnTvDn0xJy6WdMdV5QhvADDAezkje4jWVNEwL0sUp0fCa9Tlp7HNVJWPwwE5kh2CYInvqkz9a9ZbqUrAoz_wFPx_L3z1ebLe80fMbLpLNFHVqpdyrdaBsTWDGFDYSTT4a4wFV4HqDxYZE1QmburughtNQORZrsVPhz-BDCEH9PwPyC7txRbA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=hair+salons+in+Portland%2C+ME&start=20&type=search"
+  }
+}

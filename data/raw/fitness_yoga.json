@@ -1,0 +1,1632 @@
+{
+  "search_metadata": {
+    "id": "6a4e681bbd1c20240ff933eb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qK7SworkUnY9_mNwjBN0xg/6a4e681bbd1c20240ff933eb.json",
+    "created_at": "2026-07-08 15:09:15 UTC",
+    "processed_at": "2026-07-08 15:09:15 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/yoga+studios+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/qK7SworkUnY9_mNwjBN0xg/6a4e681bbd1c20240ff933eb.html",
+    "prettify_html_file": "https://serpapi.com/searches/qK7SworkUnY9_mNwjBN0xg/6a4e681bbd1c20240ff933eb.prettify",
+    "total_time_taken": 6.65
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "yoga studios in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "yoga studios in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland Yoga Collective",
+      "place_id": "ChIJlbPv91WdskwRlu3TUZpRne0",
+      "data_id": "0x4cb29d55f7efb395:0xed9d519a51d3ed96",
+      "data_cid": "17121931081572150678",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d55f7efb395%3A0xed9d519a51d3ed96&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d55f7efb395%3A0xed9d519a51d3ed96&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656847,
+        "longitude": -70.25714119999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlbPv91WdskwRlu3TUZpRne0",
+      "provider_id": "/g/11p9lgls8h",
+      "rating": 5,
+      "reviews": 371,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "98 Cross St N Ste C, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1:15\u202fPM \u00b7 Reopens 3:30\u202fPM",
+      "hours": "Open \u00b7 Closes 1:15\u202fPM \u00b7 Reopens 3:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20131:15\u202fPM, 3:30\u20138\u202fPM",
+        "thursday": "5:45\u201310:45\u202fAM, 3:30\u20138\u202fPM",
+        "friday": "6:30\u202fAM\u20131:15\u202fPM, 3:30\u20137\u202fPM",
+        "saturday": "8\u202fAM\u201312\u202fPM",
+        "sunday": "8:30\u202fAM\u201312\u202fPM, 4\u20137\u202fPM",
+        "monday": "6:30\u202fAM\u20131:15\u202fPM, 3:30\u20138\u202fPM",
+        "tuesday": "5:45\u201310:45\u202fAM, 3:30\u20138\u202fPM"
+      },
+      "phone": "(207) 200-8526",
+      "website": "http://www.portlandyogacollective.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "outdoor_services": true,
+        "onsite_services": true
+      },
+      "book_online": "https://www.mindbodyonline.com/explore/locations/portland-yoga-collective?rwg_token=AE37R_gFibNG_kAZatzt688yy63Zk0Yg1Hs3oiSiSUsu3dRlrwpEIJRDRvwblMFOnSzlRtZm5_XtG4vigX1EuDi04BG_hfqunQ%3D%3D",
+      "user_review": "\"The staff are so friendly and grounded, and truly experts in yoga.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGm6_lm3mCzKjMm8cQv6K_e3SmsZkyoz93FpRhBl5A6dXLXlcFYfouHha5PEVxCwTbVLAd41_2LnrD0Bl1YwNHurHFspEldu1d3JjkLBrz1rexDE57Xn2ERgPnij2gecUP6N7x4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bygJgHicHcTbboIwAADQL0IoBbwkPnAdUSSom0FfiCtdO-iFtCDID_oN_s2SnYfzftG-7_TGNBmFCyIlYXjQWCEpeiz6BZLcJJ02kDa06Rf5sfU_uFcxDnk475sDX6Hjw9tXGJ65vrVPOa9h0p1owFzfq8usZCi5_sghpXe3iC9TOH5-XzK_dkBlZ0JFVsDAdczTQaWJ7mJWD6CGu6bNAjUDhacodpelsOMTKcRvYxOMvgovX07OdgSWZRn0f2SIP4XoRLk"
+    },
+    {
+      "position": 2,
+      "title": "The Portland Yoga Project",
+      "place_id": "ChIJz6rfM9mdskwRfwIGDKaMlaI",
+      "data_id": "0x4cb29dd933dfaacf:0xa2958ca60c06027f",
+      "data_cid": "11715424650468393599",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dd933dfaacf%3A0xa2958ca60c06027f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dd933dfaacf%3A0xa2958ca60c06027f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.666744,
+        "longitude": -70.2763571
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz6rfM9mdskwRfwIGDKaMlaI",
+      "provider_id": "/g/11g2zdgq9b",
+      "rating": 5,
+      "reviews": 360,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "449 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20138\u202fPM",
+        "thursday": "6:30\u202fAM\u20138\u202fPM",
+        "friday": "6:30\u202fAM\u20138\u202fPM",
+        "saturday": "7:30\u202fAM\u201312:30\u202fPM",
+        "sunday": "8:30\u202fAM\u20137\u202fPM",
+        "monday": "6:30\u202fAM\u20138\u202fPM",
+        "tuesday": "6:30\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 420-0655",
+      "website": "http://theportlandyogaproject.com/",
+      "description": "Friendly yoga and barre studio offering various classes, plus workshops and barre-specific classes.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "outdoor_services": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Great Yoga studio, wonderful teachers\u2026\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEi72KZKM2FwkLUeMn5gxNtd5TaynFYXevT0S2Sut4XaWsMhEZsD-ehrhe7QJcxqygoyt3YIYIZwyBKC_FlMTtmN23jX854IfMC_hvlnh4OBbsCZHYzZSMZFuPjqiTu-VSLBSc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XlCzZXicHcTvEoEwAADwJ5rSn-Pc-aDUSRZuofaly8yGbGpL8oDewdu48_vw-3641g81MYyK2wMmJatoq2hDpNBU6AGRd4M9FCAKKGO2Sba3WXAZWTGOoRV2t9WOQuGyV6JPblr2Iswz-kxNZKFWO1l5UJAHWM0B5Q2no-2SvOqeyV7beZRHuOu92C_CCqb6nlj2NRu7TnSGfsGfleDO2jsqHy_yN0YQh-3mWl_SFuzRykNk2g1N0wT8PwHiB1MfRRc"
+    },
+    {
+      "position": 3,
+      "title": "The Portland Yoga Project",
+      "place_id": "ChIJe8WlGy6dskwRwQMynqSkQxE",
+      "data_id": "0x4cb29d2e1ba5c57b:0x1143a4a49e3203c1",
+      "data_cid": "1244018949020058561",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d2e1ba5c57b%3A0x1143a4a49e3203c1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d2e1ba5c57b%3A0x1143a4a49e3203c1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6610957,
+        "longitude": -70.2504731
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe8WlGy6dskwRwQMynqSkQxE",
+      "provider_id": "/g/11lp56ks6v",
+      "rating": 5,
+      "reviews": 76,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "129 Newbury St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7:30\u202fPM",
+      "hours": "Open \u00b7 Closes 7:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20137:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20137\u202fPM",
+        "friday": "6:30\u202fAM\u20135:30\u202fPM",
+        "saturday": "7:30\u201311:30\u202fAM",
+        "sunday": "8\u201311:30\u202fAM, 5:30\u20137:30\u202fPM",
+        "monday": "6:30\u202fAM\u20137:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 808-8185",
+      "website": "https://www.theportlandyogaproject.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"A stunningly beautiful space with kind, personable, professional teachers.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuKGSGVLM5dSTPyUSQegXB0knDDaL9CuY6vFk70zsFMqftCf60RGhq4btzDDLm6XcNZi3BitVImW-XGdvnBJYm048mWGszP5bar58yLKhGYs2S8380bz6X8qiflnQBer3daxNz4w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/y0Gm43icHcRLjoIwAADQE1WqfKwmsxDRRkUCgx9wB6VQAi1Ci5_ecI7gbSbxLd7njyl1l0vDaJk5qbquauko6UA6oahQE9Jxo7pLQCSQxioMoma1GQ84xhf_aBfxKXyf44hWiQsb4XmZv1iPqfPYNnOo5fbYl2pdOvAXs97KlfY8nzsJCW616dbqsuNXkODiIdx9yqGF-BVLHdp5Ntjo7R8YTuUsRiaCuXYS1NdlKyKXDmaRvQJtPX-eUwghYN8JEP-kXETC"
+    },
+    {
+      "position": 4,
+      "title": "Portland Power Yoga",
+      "place_id": "ChIJjdVUZWWcskwRbo3TEVkDdLw",
+      "data_id": "0x4cb29c656554d58d:0xbc74035911d38d6e",
+      "data_cid": "13579482457514937710",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c656554d58d%3A0xbc74035911d38d6e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c656554d58d%3A0xbc74035911d38d6e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6685711,
+        "longitude": -70.2570844
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjdVUZWWcskwRbo3TEVkDdLw",
+      "provider_id": "/g/1vb9cnlt",
+      "rating": 4.9,
+      "reviews": 53,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "84 Cove St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:45\u202fPM",
+      "hours": "Open \u00b7 Closes 6:45\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20136:45\u202fPM",
+        "thursday": "6\u202fAM\u20136:45\u202fPM",
+        "friday": "6\u202fAM\u20136:45\u202fPM",
+        "saturday": "6\u202fAM\u20136:45\u202fPM",
+        "sunday": "6\u202fAM\u20136:45\u202fPM",
+        "monday": "6\u202fAM\u20136:45\u202fPM",
+        "tuesday": "6\u202fAM\u20136:45\u202fPM"
+      },
+      "phone": "(207) 761-4328",
+      "website": "http://www.portlandpoweryoga.com/",
+      "description": "Yoga studio offering vinyasa and other classes, plus a restroom.",
+      "extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true
+      },
+      "book_online": "https://www.mindbodyonline.com/explore/locations/portland-power-yoga?rwg_token=AE37R_gBcAUbfdla71sjklFIQp6G7n_k6FLKXxXlwSM7KTbI93oCCYTXcmm0v67X-N7BqibkKr60NyYeahJBmGo5nYHceA0mMw%3D%3D",
+      "user_review": "\"From the staff to the class diversity, there\u2019s something for everyone.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjvHfTItWiND5k3ccbF9zQ-y7QrtKwDCaZr7jkzyVp4NIxGif3p_w4EEhLw3iBmCQvOXtuxt4IFs5alj5fZgtr9rcHPINfeEn1h6WtmDWBDnI2nBlquQzjKArsM7a81gVtU5bP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DBM8nHicHcRLDoIwFADAE1VAQNTEBQhqoyJNVIwbgw20_Aq2D1Eu6Bm8jYmzmO-HA7RqrmkVN0esaViVdiqVtBGQChjRptZYqxBVSGluFJLSDYrnJjtiiPPQt0uT0vtqNhD0doiEbe8vk6t0inJ4n1srxK91npntrbeCgO96M_fqJXkeLtC9wMIrZSdVYWdXBnIm6SbCYZYGwuCTGGo_9nyBx8KrHh0Ziq0r1d5JpgY7w8m-R4ve0HUd8f8UiR_Nj0XL"
+    },
+    {
+      "position": 5,
+      "title": "Una Yoga",
+      "place_id": "ChIJNb0syZadskwRr_SFVW20qvM",
+      "data_id": "0x4cb29d96c92cbd35:0xf3aab46d5585f4af",
+      "data_cid": "17558044478936577199",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d96c92cbd35%3A0xf3aab46d5585f4af&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d96c92cbd35%3A0xf3aab46d5585f4af&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6526468,
+        "longitude": -70.2572988
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNb0syZadskwRr_SFVW20qvM",
+      "provider_id": "/g/11z4vm9v11",
+      "rating": 5,
+      "reviews": 10,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "54 York St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20131\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "7\u202fAM\u20137\u202fPM",
+        "saturday": "7\u202fAM\u20136\u202fPM",
+        "sunday": "Closed",
+        "monday": "12\u20137\u202fPM",
+        "tuesday": "6\u202fAM\u20131\u202fPM"
+      },
+      "website": "https://unayogaportland.com/",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "user_review": "\"The yoga studio and esthetics room are both so peaceful.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4igCswJI1gfdbuTYPrm36S5LVwvcOQtMP0XEjkDmAhrayQZ_GmhiDBTi1_iC-WRylNpQWT5VngRMdw1w83D7SyP6ocB-6gZmdXprOwq-9_SvIZOexntSz-RjbTbXRJeqXhLPYmYX_D1q3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0Vq8O3icHcTNboIwAADgJ6rQoGwz8YBinEal_EQLFyKla1HaAq1W9pKe9zZL_A7f34sb0-m547TcmzClWEvvmg5ESUOlmRAlHNZpQDTQToCO8S34njZspe1uC9lPXd2zHA3C89PZ_mQfJIrNAbl4fb2FIuDDZYyLciN4Ey6zBpbNCpyTsT128TmbnSRLDrWF9tMLP9IR-Yosgc8KUeNuiGwPvsr0sS0i-pQm_QXJtcoqnOxoj_ke5SLHZQh7b2Gh67qAvydA_gPsO0hA"
+    },
+    {
+      "position": 6,
+      "title": "Portland Yoga Studio",
+      "place_id": "ChIJoZn3NRGcskwRnEoRwvDOLKE",
+      "data_id": "0x4cb29c1135f799a1:0xa12ccef0c2114a9c",
+      "data_cid": "11613885072525052572",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1135f799a1%3A0xa12ccef0c2114a9c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1135f799a1%3A0xa12ccef0c2114a9c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6535065,
+        "longitude": -70.2637587
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoZn3NRGcskwRnEoRwvDOLKE",
+      "provider_id": "/g/1ts1rv53",
+      "rating": 5,
+      "reviews": 4,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "616 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "phone": "(207) 807-3807",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvydAW0LoEnPwESF39UXT7d87XG88yyQ54Fuitw2YZVHNfKZGoCKT6GH-5JWXN3qGIai_20SBi-1ASAwo-S8_CqU7-OzcwFU9ng9Tem_gWkRJBbFhdY6g4EurRTmtjKuGwYAME=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RO4gf3icHcTbEoFAAADQL1ot0cWMh2VqEblUurw0bNlCu9jNTn7QN_gbM87D-X4qKe9irGm3Su9RzumtbEX5JJzJkske4Y1G7wIQAYSGtv7uivCrK1AMV9xhW-UErm5HSWgWlplgy-q63WjotrVUgzQ7zP2zl2E-80IDz8FoGSe-_sCLY50PYDCtQR8FSHEQWPnsEZlg8ybKjWxG7bBschpf98vpya2K1KBDp33uw0ZevBarFK2diepDCEH1nwD2A5bDQso"
+    },
+    {
+      "position": 7,
+      "title": "Creating Space Yoga",
+      "place_id": "ChIJYfU-N8ObskwRYQzftBUgGek",
+      "data_id": "0x4cb29bc3373ef561:0xe9192015b4df0c61",
+      "data_cid": "16796491562855894113",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bc3373ef561%3A0xe9192015b4df0c61&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bc3373ef561%3A0xe9192015b4df0c61&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6587691,
+        "longitude": -70.31163029999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYfU-N8ObskwRYQzftBUgGek",
+      "provider_id": "/g/11b6vg8___",
+      "rating": 4.3,
+      "reviews": 27,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "1717 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:30\u202fPM",
+      "hours": "Open \u00b7 Closes 6:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20136:30\u202fPM",
+        "thursday": "6:15\u202fAM\u20136:30\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "7:30\u201311:30\u202fAM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20136:30\u202fPM",
+        "tuesday": "7\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 808-0857",
+      "website": "http://www.creatingspaceyoga.com/",
+      "description": "Studio offering a variety of yoga classes, including Vinyasa flow, restorative yoga, and Pilates.",
+      "extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true
+      },
+      "user_review": "\"The instructor is very welcoming.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzl3uN5bDTc9WDlIcRUEstYcOaUumZHUBDDZHrVngOzjFFSiG86nZrr0s2Oe3OOzryu_M9F2velTXCvaynZNJioQv9hRapY9QQRhOavZvdiONuaQCtTEoObi3pyHsZ5Ebm1Kni=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CSFam3icHcTbboIwAADQL0JQ4jKW7EG5DF1GLYKXvpjSNbRaWtLbAj-4b_Bvluw8nOcvs3Y0b2EoWLzoleoFdYZqoqSl0i6IGsJ-NAExgQk3hwo-NuUsYletu6whyTkTO1K3ubFXAnDrBlS22yxDpT7JHsz3ojjyj9cXibSOzArQGIBZT-72lRQrT0VzST2eJKr2XEGfsBqP1wTCmgHskf_moHIYprbJFeh4PE6lQeu8G5afkr__LKMoCtj_JJB_zNJGSw"
+    },
+    {
+      "position": 8,
+      "title": "HOTWORX - Portland, ME",
+      "place_id": "ChIJGQnWTPCZskwRusW5qA0maHU",
+      "data_id": "0x4cb299f04cd60919:0x7568260da8b9c5ba",
+      "data_cid": "8460053740122654138",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299f04cd60919%3A0x7568260da8b9c5ba&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299f04cd60919%3A0x7568260da8b9c5ba&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6334837,
+        "longitude": -70.322205
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGQnWTPCZskwRusW5qA0maHU",
+      "provider_id": "/g/11vsv5j4bl",
+      "rating": 5,
+      "reviews": 91,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio",
+        "Fitness center",
+        "Gym",
+        "Indoor cycling",
+        "Pilates studio",
+        "Sauna"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio",
+        "fitness_center",
+        "gym",
+        "indoor_cycling",
+        "pilates_studio",
+        "sauna"
+      ],
+      "address": "100 Gorham Rd Unit C, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 814-9832",
+      "website": "https://www.hotworx.net/studio/south-portland-sopo?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Active military discounts"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "online_classes": false
+      },
+      "user_review": "\"It\u2019s always so clean & the staff is always so helpful & encouraging!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEptBGquiYHIbzuqSYmz6quhc5uYWijShe6N9CjaTmvtAJAKyiMRP7ZAxl-4ddyxFyM9YuK-C1CDcd_f9TG68B0Lv6xEpIsZMs9QUO57RbQ_yc6O7coWj9ugBxT0pYoPyyaPfDjXmBe0ZTE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hdEFcXicHcTBboIwAADQL6rUOMu6ZIeC6NShoCxaLkZLpSDQsraO-pM7-zdL9g7v-SuMUfrN8xoxGZVSlg23mn8z2RnemRGTrVcqDZgG2iPJJr2RSJlg0duKfiwvD9vvaftAvRVsaumhqveCow0O63PW3g1ZkbWr4l3i52RowEtRuGHuYkztGoTjcMaK0xVnC_QawM87GiK11Hmscfq1nfq7S3pyDG19Jg81tmUwZFBRmTh3Tq6z-tgGHOZZ9P4zhhAC8T8D3R8bnEgX"
+    },
+    {
+      "position": 9,
+      "title": "Hustle and Flow",
+      "place_id": "ChIJYYr6pxCcskwRwDpG0eUHhC8",
+      "data_id": "0x4cb29c10a7fa8a61:0x2f8407e5d1463ac0",
+      "data_cid": "3423870300348365504",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c10a7fa8a61%3A0x2f8407e5d1463ac0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c10a7fa8a61%3A0x2f8407e5d1463ac0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6507254,
+        "longitude": -70.26642989999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYYr6pxCcskwRwDpG0eUHhC8",
+      "provider_id": "/g/11bbrmxmq9",
+      "rating": 4.9,
+      "reviews": 108,
+      "type": "Fitness center",
+      "types": [
+        "Fitness center",
+        "Dance school",
+        "Hip hop dance class",
+        "Physical fitness program"
+      ],
+      "type_id": "fitness_center",
+      "type_ids": [
+        "fitness_center",
+        "dance_school",
+        "hip_hop_dance_class",
+        "physical_fitness_program"
+      ],
+      "address": "155 Brackett St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8:15\u202fPM",
+      "hours": "Open \u00b7 Closes 8:15\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20138:15\u202fPM",
+        "thursday": "7:30\u202fAM\u20139:45\u202fPM",
+        "friday": "7:30\u202fAM\u20139:15\u202fPM",
+        "saturday": "8:30\u202fAM\u201311:15\u202fPM",
+        "sunday": "8:15\u202fAM\u20136:30\u202fPM",
+        "monday": "6:30\u202fAM\u20138:15\u202fPM",
+        "tuesday": "7:30\u202fAM\u20139:45\u202fPM"
+      },
+      "phone": "(207) 632-4789",
+      "website": "http://www.hustleflowstudio.com/",
+      "description": "Yoga, dance, fitness and movement class studio, with private options.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "online_classes": false
+      },
+      "user_review": "\"She put together a challenging yet SUPER fun yoga class with great music.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5Dib67BT-2LC9DCAVY5sDrXK8pAojsWaOs53f0bbHvp5ib6dMQIPPg4YcpkUwCNtpDT0T-Yo_3-Pz-lxUiIPM6znAl038O8YNTcvPkEQm668W_d2ITwqRGRsBLW5aa-YzRx1k=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/E6PpnXicHcpBcoIwFADQE30JYijtTBcRHGWqGJhYzMqBSIGCJPWn4nDBnsHbtNPNW73HT2OtwRfH6RtvVmtd99U3VlelB1sNdqb0xakNgkJAh_Ek7diGRm3pPy0FzLfhcxSyd0kxuh7fAsP0J-bFHqn3QcpyczP0b553acx5vZDKdIcxTKyJBBEg9ckDPkF_P7Qx3_nTwHriBftAJkLdeLdKL74f5KfzPBbjV7bOcLnNaVGAnLK7272OLiEEmn8VDL-LjkKm"
+    },
+    {
+      "position": 10,
+      "title": "Maine Hatha Yoga",
+      "place_id": "ChIJZ71zeImbskwRiA5007hqFMY",
+      "data_id": "0x4cb29b897873bd67:0xc6146ab8d3740e88",
+      "data_cid": "14273150461098069640",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b897873bd67%3A0xc6146ab8d3740e88&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b897873bd67%3A0xc6146ab8d3740e88&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.637384499999996,
+        "longitude": -70.32495159999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ71zeImbskwRiA5007hqFMY",
+      "provider_id": "/g/1tk6_2mr",
+      "rating": 4.7,
+      "reviews": 30,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "260 Western Ave Ste 1A, South Portland, ME 04106",
+      "country": "United States",
+      "phone": "(207) 874-9642",
+      "website": "http://www.mainehathayoga.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "book_online": "https://www.mindbodyonline.com/explore/locations/maine-hatha-yoga?rwg_token=AE37R_hygk8H-WxItulCc35HsCoC9R9C3SqYXiE1fpSaHEG2YJyU7_TZatkrBcz37OHvaG_DR7HM1TJhAz2qBsKfGcYlxVGHQQ%3D%3D",
+      "user_review": "\"The instructor, Angela, created a deeply safe and focused environment.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnXx7pmm_TCXl5Ci1ZuNdlfNdluU_E6h6-OVqJ3JRM_JF1jvKyrKN_bzogBEvELB4o7OyaBoFR_UTTbJQ2XvSVpa93rDscACHnha4LAz0LbHuILX1uOvq9HEqZL4_nCByymH1T58fE7HSe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/b7BYuXicHcTBboIwAADQL6rQgTKXeACsqdiBIhripYGKVIUWKEXxJz3vb7bs8N7Pm_d9o74Mo-LWpJSyrAqtio5J0ReinzBZG2WjAFNAGe423N1dLNKn09Q1Tfy0mvpXeNLhubr80QeKZnwGomMbWEH8TYMVvA2bsduENH_J0kMDIp4tnWjMPLmK6SFJ8mD3kQ77Y5PNrW6pmOtjwTObuC-T5FivSQp1NLRzjNoTsanwvXGsMUymnxfk4H2xeEDTNAH_nwHxC6tFRuA"
+    },
+    {
+      "position": 11,
+      "title": "Sound & Yoga",
+      "place_id": "ChIJZautHOufskwRS3yyv5pTr9w",
+      "data_id": "0x4cb29feb1cadab65:0xdcaf539abfb27c4b",
+      "data_cid": "15902020733374725195",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29feb1cadab65%3A0xdcaf539abfb27c4b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29feb1cadab65%3A0xdcaf539abfb27c4b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.643174099999996,
+        "longitude": -70.2775285
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZautHOufskwRS3yyv5pTr9w",
+      "provider_id": "/g/11vzxz30c3",
+      "rating": 5,
+      "reviews": 81,
+      "type": "Yoga instructor",
+      "types": [
+        "Yoga instructor",
+        "Reiki therapist"
+      ],
+      "type_id": "yoga_instructor",
+      "type_ids": [
+        "yoga_instructor",
+        "reiki_therapist"
+      ],
+      "address": "128 Cassidy Point Dr 2nd Floor, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "8\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 844-0171",
+      "website": "https://soundandyoga.me/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Sound & Yoga is an amazing experience - no matter what class you take!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsIpvnu8Dzx6a0oS_ozW3OTp1IUAMUV2jMYgLGTZBJrngAKbRz4YL06gjqRKgZgJ2hhADDmTXPYDplTc8kYDPbhy_O6MGZ9_UCsSW0sM2p5LjHKDJFvJoHnN_Bel5pGBdwgDWQGw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K5wXj3icHcTdEoFAGADQJ0orNJhxsdkR_SgqqZuG1Xw7ye6yJXpDj-BtzDgX5_thTSPVXNdrNhqAEFCXrSofVPCm5M2AipsOUmlUaUrH4XZ3xSu1kU_eTkn_Mk9IRIXo01EQy-EmwX5yMCo_A8-Oc8t5cMDued-PMw-ZUN33LuTgGIxhQm7xMcyIrGM6vWYkPLN3EZi-nc-KZKmiFCnfkBOvWrvEWT0dsebbwirribStSwck3dndohsihDT2n2r8B-0TRRM"
+    },
+    {
+      "position": 12,
+      "title": "Breathing Room Yoga and Movement Studio",
+      "place_id": "ChIJ0QIZUJeeskwRcTxsOY33yL8",
+      "data_id": "0x4cb29e97501902d1:0xbfc8f78d396c3c71",
+      "data_cid": "13819567642512211057",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e97501902d1%3A0xbfc8f78d396c3c71&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e97501902d1%3A0xbfc8f78d396c3c71&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6373805,
+        "longitude": -70.2524511
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0QIZUJeeskwRcTxsOY33yL8",
+      "provider_id": "/g/11k5fm3z0_",
+      "rating": 4.9,
+      "reviews": 11,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "146 Ocean St, South Portland, ME 04106",
+      "country": "United States",
+      "website": "http://www.breathingroomme.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "user_review": "\"The instructors are wonderful as well.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_7Wh0WqDmCfTfCPnpvcE4E_zKqUa5PDIH9EiNvx8N08JOuMFjQJuQNxPpAutNLlUzzN-QF_nIuBbGc94ZJn1ZgJRqKCi3aKyz7LdU7fRm2xmdauhus9U5Kq00gLZTUGTw2jCIeA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2yiEMXicHcRJDoIwAADAF1XqFsTEAyIoixUIjQkXghVaFQrYFpEf-gR_Y-Ic5vthUrZirWkVm09o09CqUKJ4kobLgssJaWqNtgIQAYRmhih6mE6mnxk8d7vaKpPSCnnbE3thZ6Pf4XwZ7tyDYd9QP6wQXHkndXTukaciNIStqSQKKjyOCEROxl21veyJsUg9Pk2pF3e-dZvn_nvUgyvWy7ieDfU1V0wJAy_9DkIapAneJ6_Z3XILc_OaQggB-08A_wHakEUU"
+    },
+    {
+      "position": 13,
+      "title": "Greener Postures Yoga",
+      "place_id": "ChIJu5_qUJqeskwRC4E_0jcb4z0",
+      "data_id": "0x4cb29e9a50ea9fbb:0x3de31b37d23f810b",
+      "data_cid": "4459437982591451403",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e9a50ea9fbb%3A0x3de31b37d23f810b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e9a50ea9fbb%3A0x3de31b37d23f810b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6325437,
+        "longitude": -70.2612896
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu5_qUJqeskwRC4E_0jcb4z0",
+      "provider_id": "/g/1tc_883c",
+      "rating": 4.9,
+      "reviews": 61,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "740 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8:30\u202fPM",
+      "hours": "Open \u00b7 Closes 8:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138:30\u202fPM",
+        "thursday": "6\u202fAM\u20138:30\u202fPM",
+        "friday": "7\u202fAM\u20138:30\u202fPM",
+        "saturday": "7:30\u202fAM\u20137:30\u202fPM",
+        "sunday": "7:30\u202fAM\u20137:30\u202fPM",
+        "monday": "6\u202fAM\u20138:30\u202fPM",
+        "tuesday": "6\u202fAM\u20138:30\u202fPM"
+      },
+      "phone": "(207) 210-6525",
+      "website": "https://www.greenerposturesyoga.com/",
+      "description": "Clean, vibrant studio offering a range of yoga classes and workshops year-round.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "outdoor_services": true,
+        "onsite_services": true
+      },
+      "user_review": "\"The studio is well equipped with yoga props, and has showers available.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMyE7hMfLy_1KYo_kNClIHl3E3N_tx0CJt_lRnJw2RZQOiPcgUo7WrReeigUqlQRstiZOMplinJHvcRGuiSrQlv5TGr3Gdm-SHycJRTqv_bQNDtyJW4f9-Zs4dFKTUhHUdWQQ2-A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AFAnSnicHcRRDoIgAADQE5GWtlZbH65Mo7QgncsftpCARWBClkfsCN2mrffxvh_hXGsXnqdEMOLGcMWelnXUaMe0G1Fz93hrAbXAetExR7cozoZ4JrLrfiDj3dmQW75S21QFcZAT9_ZX0BGFNXxNcI0O8kh5aWZVhxmTvHwohK2T9SFrldQw7SlOnvLUIdVPi6QLkuYOTulAIS4ePbmgfO0GWIXXOaht2Gx2RSnSsqkQmoBo-Rr7vg_Efwr0D1UCRic"
+    },
+    {
+      "position": 14,
+      "title": "The Yoga Center",
+      "place_id": "ChIJv9G7I4qbskwR4bsjThwKkGo",
+      "data_id": "0x4cb29b8a23bbd1bf:0x6a900a1c4e23bbe1",
+      "data_cid": "7678648481353022433",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8a23bbd1bf%3A0x6a900a1c4e23bbe1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8a23bbd1bf%3A0x6a900a1c4e23bbe1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6667444,
+        "longitude": -70.2763569
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv9G7I4qbskwR4bsjThwKkGo",
+      "provider_id": "/g/1tfmbv6w",
+      "rating": 4,
+      "reviews": 4,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "449 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9:30\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "6\u201311\u202fAM",
+        "saturday": "11\u202fAM\u201312:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "9:30\u202fAM\u20139\u202fPM",
+        "tuesday": "10:30\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 774-9642",
+      "website": "http://www.maineyoga.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUIe_HRhgTdbfc2GW3oRwT9F49N1jRM5pY6-YaSCeNY-UNyYbFDaJJupu-dD7ULVqvbkjRM9kdmcVD6lA5NJ51cTKB93DBlrSs1mXs6BizAIivaAvgMOufCJn2H9z0D_RVhwNe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iR24snicHcrbEoFAAADQL1qVlFkzHjY7ISxS0ZOpbe3SZWO7DD_oG_wN4-U8nc9bNE2tJppWCHPApeQFaxV7UFk1rGoGVJYarxWgCigN7cg-R264ZOeFL3iQpRc6nB9N6fcBdEeQGDd_Y9WxDeLkMGMkBiF5xqmLE89r6xZkeByuo3uX5r8H86ykEbYLZBHPMmiwcqCJneJxUEZ5UrZzfaHltUtQxzfb9jLzquECvnR89iPREzbtDV3XgfhLQfUF3u9DbQ"
+    },
+    {
+      "position": 15,
+      "title": "Leaping Waters Yoga",
+      "place_id": "ChIJjxc2s5ifskwRO7C_NykfjH0",
+      "data_id": "0x4cb29f98b336178f:0x7d8c1f2937bfb03b",
+      "data_cid": "9046640013369913403",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29f98b336178f%3A0x7d8c1f2937bfb03b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29f98b336178f%3A0x7d8c1f2937bfb03b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.637341199999995,
+        "longitude": -70.2524205
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjxc2s5ifskwRO7C_NykfjH0",
+      "provider_id": "/g/11nwpzq0bx",
+      "rating": 5,
+      "reviews": 10,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio",
+        "Fitness center",
+        "Massage therapist",
+        "Reiki therapist",
+        "Spa",
+        "Wellness center"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio",
+        "fitness_center",
+        "massage_therapist",
+        "reiki_therapist",
+        "spa",
+        "wellness_center"
+      ],
+      "address": "146 -148 Ocean St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8:30\u202fPM",
+      "hours": "Open \u00b7 Closes 8:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138:30\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20137\u202fPM",
+        "sunday": "7:30\u202fAM\u20138:30\u202fPM",
+        "monday": "9\u202fAM\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "website": "http://www.breathingroomme.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "outdoor_services": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Jared's Aerial yoga class was so welcoming and was such a great experience!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhz4u0ykOkOIMmwXZVXgwLQjBzlFWc_9yuEMGovI9bbSesRNdfsLueuGB1HL6pZxeyukCAxL_zSaE4DnYN1YEQUrWD7gT-48SPP6BwZb2-sXj1_Zv2vngHMTZoEyWuWReLiexr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pNeGQHicHcRJDoIwAADAF1VAiVviARTQpCCICvRCpNaiYEsoZfugb_A3Js5hvp-8aSqxVpQyn00o57QkUpAac9YQ1kwwfyu0EgALIBTD94LCsPNRl-pQHIvjwX13MbrGtIPByxxLO8LpapCW6_D2sMqykIiTd38IKIl0TG0P5xXqySCLrdHDdAxvlr5jiaclVnCpo92CnoG-DH1_bnYomwIRv7QUtdOW0b17RtwaIhmdCHySvt50mqqqIP-PAfsB6ntF-Q"
+    },
+    {
+      "position": 16,
+      "title": "Yoga On Munjoy Hill",
+      "place_id": "ChIJK8hi3CKdskwRST4UeXLJSnY",
+      "data_id": "0x4cb29d22dc62c82b:0x764ac97279143e49",
+      "data_cid": "8523846738246909513",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d22dc62c82b%3A0x764ac97279143e49&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d22dc62c82b%3A0x764ac97279143e49&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6644273,
+        "longitude": -70.2454782
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK8hi3CKdskwRST4UeXLJSnY",
+      "provider_id": "/g/11lrm1cbx2",
+      "rating": 4.8,
+      "reviews": 12,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "40 St Lawrence St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 756-2173",
+      "website": "https://www.yogaonmunjoyhill.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Top notch instruction and of course.. Lovely vibes.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZVWGPmFr2k9lpLbxLHleGDarcDqpYgZYsXfmrTLfqjbc6GSzy85kV62cGOeaSK9t9fJLS4odsWSZQ2Hbc3LGM6RqwPG4UG4flpDFMBRCcN9Ci5wZvrSYhCMp42XxckWAdXS36zw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VZ4YwXicHcRNjoIwGADQEyEISMRkFgixRouD1pGfnXwWUAotbUfUG84RvM0kvsV7_zVaC7UwTdY4k5rzmtFfRSXwXtNeT4B3Zi2UAcpQZpDs9m2AilOKkm4l7dZnApcPvGYURWcJ0SDyushVVnXyiKvhVoKHyOs5n7Unzwb0Tc9k62u_2mDi8otKSbG31yU4GMXeYRgT5P4gt2IiWsXLQwg7P7zOxuIuSd6EsXDt7AFtGlwy4niv8WucWpZlNJ_B6P8BHhlFXg"
+    },
+    {
+      "position": 17,
+      "title": "WholeHeart Yoga Center",
+      "place_id": "ChIJmd3ucAScskwR-FIihfMZQwA",
+      "data_id": "0x4cb29c0470eedd99:0x4319f3852252f8",
+      "data_cid": "18887357140980472",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0470eedd99%3A0x4319f3852252f8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0470eedd99%3A0x4319f3852252f8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6688325,
+        "longitude": -70.2953457
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmd3ucAScskwR-FIihfMZQwA",
+      "provider_id": "/g/1td1v0yh",
+      "rating": 5,
+      "reviews": 3,
+      "type": "Yoga instructor",
+      "types": [
+        "Yoga instructor",
+        "Wellness program"
+      ],
+      "type_id": "yoga_instructor",
+      "type_ids": [
+        "yoga_instructor",
+        "wellness_program"
+      ],
+      "address": "302 Stevens Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM Thu",
+      "hours": "Closed \u00b7 Opens 4\u202fPM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "4\u20138\u202fPM",
+        "friday": "9:30\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9:30\u202fAM\u20136\u202fPM",
+        "tuesday": "9:30\u202fAM\u201312:30\u202fPM"
+      },
+      "phone": "(207) 871-8274",
+      "website": "https://wholeheartyoga.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9HS5J_Zfk55GCwdftFbHGEwlGEDAsHcFsWZyEx6xQMNxH-JYA0xZqVPEgwioXKtEG4L4FW99vdbECvu8kIVxXEF_utPBF2zLm0IIIV5repsYeLR3A-wzEUDEZnxzhypZvd3MW=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/W1swQ3icHcRRboIwGADgE1U6ETNMfOjwL-DQoGagfTGxVDAgRVto5YI7g7dZsu_he_9WWndq4ThN5U5KKctG9Eo8uWy1aPWEy7tTdgpxhZRD0u2uJtSPDt76zK6154WBKa6aXqIQTBPCiqiIU5WzF9i53W22NkLrE8GWPbIUSnOTx28N4SyZ0dz3h-ICwdB_1nFmj0DPvU6_6HRM7jiO48x7ik6dRLJ3CTIj_KyAtXasXh0bCneTL80HxhhV_3PU_gEmVUSJ"
+    },
+    {
+      "position": 18,
+      "title": "Arcana",
+      "place_id": "ChIJqQvKvZebskwRifoy4IT4n_Y",
+      "data_id": "0x4cb29b97bdca0ba9:0xf69ff884e032fa89",
+      "data_cid": "17771195904208075401",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b97bdca0ba9%3A0xf69ff884e032fa89&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b97bdca0ba9%3A0xf69ff884e032fa89&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6583168,
+        "longitude": -70.2546002
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqQvKvZebskwRifoy4IT4n_Y",
+      "provider_id": "/g/1th5j1b1",
+      "rating": 5,
+      "reviews": 101,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio",
+        "Gift shop",
+        "Reiki therapist",
+        "Wellness center",
+        "Massage spa"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio",
+        "gift_shop",
+        "reiki_therapist",
+        "wellness_center",
+        "massage_spa"
+      ],
+      "address": "81 Market St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20136\u202fPM",
+        "thursday": "11\u202fAM\u20136\u202fPM",
+        "friday": "11\u202fAM\u20136\u202fPM",
+        "saturday": "11\u202fAM\u20136\u202fPM",
+        "sunday": "11\u202fAM\u20136\u202fPM",
+        "monday": "11\u202fAM\u20136\u202fPM",
+        "tuesday": "11\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 773-7801",
+      "website": "http://www.arcanamaine.com/",
+      "description": "Relaxed studio for yoga, Reiki and tarot card readings, plus massage and metaphysical items.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.mindbodyonline.com/explore/locations/arcana?rwg_token=AE37R_hvFAHOd74Rc09_5018OxHLj93u53JRGYMMuqGC1lw4HUpd-azHKOyCx6RrQbnDIgP5lijniKNAExZqy0upcwob4oHhew%3D%3D",
+      "user_review": "\"Kind and talented staff, great environment\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHF4NglJaFDKy9oWCQC9gyCUMHCh5Rt1unMl-LhuD5Z8GlIvQu-9blzpXNxYKD-54h3-1tWtiQzfgk9wFkrVF2MSWrxofQMsa2CmzO33Qhd2Adu7AiS1rsWlkhzg6nG3RAc2OW=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-oyTlXicHcRJDsIgAADAF2EXrFoTD4QG11bRKOpNsYIpQlPApR_0Df7GxDnM9yOdq-0wCJSEHWGMUKW3ZcONdqV2HW7ugagt4BbYAK0KWiEyId1CqNmJZPN3ahimOBVvvM0nWCZrF3mdK7CQPkuOg7GaPqgH6Vm19b54HeYZSLoSgsgxd6PtVVTpk1TNjsT5hjUvc6W5PcX43i4hpPISo4vvo9smaixTlWxFT4_hGvF4yUbPKAxDIP9zoH8Iv0P6"
+    },
+    {
+      "position": 19,
+      "title": "Spiral Tree Yoga - Aleksandra Townsend",
+      "place_id": "ChIJ2UkpNb6bskwR6Hr54v536bE",
+      "data_id": "0x4cb29bbe352949d9:0xb1e977fee2f97ae8",
+      "data_cid": "12819909750900226792",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bbe352949d9%3A0xb1e977fee2f97ae8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bbe352949d9%3A0xb1e977fee2f97ae8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6698368,
+        "longitude": -70.3036285
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2UkpNb6bskwR6Hr54v536bE",
+      "provider_id": "/g/12h_q9hnb",
+      "rating": 5,
+      "reviews": 5,
+      "type": "Yoga studio",
+      "types": [
+        "Yoga studio"
+      ],
+      "type_id": "yoga_studio",
+      "type_ids": [
+        "yoga_studio"
+      ],
+      "address": "619 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8:30\u202fPM",
+      "hours": "Open \u00b7 Closes 8:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138:30\u202fPM",
+        "thursday": "4\u20138\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "8\u202fAM\u20136\u202fPM",
+        "sunday": "9\u201310:15\u202fAM",
+        "monday": "9\u202fAM\u20138:30\u202fPM",
+        "tuesday": "5:30\u20137\u202fPM"
+      },
+      "phone": "(207) 409-6380",
+      "website": "http://www.spiraltreeyoga.com/",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiBhIvOmDCZKDB_Ybi9I0KbwCwAPyCt5l9LvfXjRGCjSi1OfGuvMPnY22VjYnpPvi5X6x8UJlnNg-23PoTM8Cg7F6TT5qOKHWs0O7nJPz9gKA8ozd1WJ1wrOis9-K_-nIPOHmP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kRnxIXicHcTvEoEwAADwJ5pWrpQ7H7JOatiQP_niTrKW2mJTeEHP4G3c-X34fT-F1o0aGkZV9HtMSlblD5XfMyl0LnQvk7XBGgUyBZTh08Xy6od8XEQtqQN0wMH4mJ64F0F86lDn0xfSduXN2su-XIWoXHOTXMJHO6citaxtmYqGttzeO093E1diwYDVpzKZu4gNJk6S2DeCpzsFyUDE9O0x7LvyfTZ3sdndCVcewEcgIkqmNR11JoQQFP8zIH4N5kND"
+    },
+    {
+      "position": 20,
+      "title": "Ashley Flowers Yoga",
+      "place_id": "ChIJkc65-d2bskwRaxE_2LLkakU",
+      "data_id": "0x4cb29bddf9b9ce91:0x456ae4b2d83f116b",
+      "data_cid": "5002061792931680619",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bddf9b9ce91%3A0x456ae4b2d83f116b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bddf9b9ce91%3A0x456ae4b2d83f116b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.801707,
+        "longitude": -70.36182749999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkc65-d2bskwRaxE_2LLkakU",
+      "provider_id": "/g/11h2393dlg",
+      "rating": 5,
+      "reviews": 43,
+      "type": "Yoga instructor",
+      "types": [
+        "Yoga instructor",
+        "Service establishment",
+        "Health consultant",
+        "Meditation center",
+        "Meditation instructor",
+        "Outdoor activity organiser",
+        "Physical fitness program",
+        "Wellness program",
+        "Yoga retreat center"
+      ],
+      "type_id": "yoga_instructor",
+      "type_ids": [
+        "yoga_instructor",
+        "establishment_service",
+        "health_consultant",
+        "meditation_center",
+        "meditation_instructor",
+        "outdoor_activity_organizer",
+        "physical_fitness_program",
+        "wellness_program",
+        "yoga_retreat_center"
+      ],
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20136\u202fPM",
+        "sunday": "8\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 200-7394",
+      "website": "https://www.ashleyflowersyoga.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        }
+      ],
+      "user_review": "\"Highly recommend Ashely and goat yoga at Smiling Hill Farm\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSDom24n-3lJzMDXw-mmpAl5scWbMM629qt-H5mWZY0dQFkgqSPQybfXndNHueG4s9R1AQL94OV5tXcpjpn8yAvIdwCT9zoPt_fVY267mG6th8AG7emLGZxmHpgFvZGlnE4pRV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/S0nG83icHcTbDsEwAADQL-putjGJh8boiLEhu71IdNWF3mgZftA3-BuJ83C-n84Ypce2zbqBRaWkjNw1uWEpDBHGwpLbVGmANdA2zNb5BSa7WHLPF2DAlu80rnrAuYIs0Lg8pmnoRVcDkoCXTe20-fxCr7ssfx1PlWjXyZ0gX0dbF-aryN8UgamwOisxesHHou2n--gtM3M4FbUXDjkKTTeCaEj4CjVPnig6fzSIiZmvtsWkdx3HAd1_DMQPK79EYQ"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=yoga+studios+in+Portland%2C+ME&start=20&type=search"
+  }
+}

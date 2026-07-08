@@ -1,0 +1,1966 @@
+{
+  "search_metadata": {
+    "id": "6a4e685c8c8a7ee4c406d64a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FZiTb9oMUr2caKb8qvO7vg/6a4e685c8c8a7ee4c406d64a.json",
+    "created_at": "2026-07-08 15:10:20 UTC",
+    "processed_at": "2026-07-08 15:10:20 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/auto+parts+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/FZiTb9oMUr2caKb8qvO7vg/6a4e685c8c8a7ee4c406d64a.html",
+    "prettify_html_file": "https://serpapi.com/searches/FZiTb9oMUr2caKb8qvO7vg/6a4e685c8c8a7ee4c406d64a.prettify",
+    "total_time_taken": 1.13
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "auto parts in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "auto parts in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "O'Reilly Auto Parts",
+      "place_id": "ChIJ9UwA1k2askwR75ciMSmuySc",
+      "data_id": "0x4cb29a4dd6004cf5:0x27c9ae29312297ef",
+      "data_cid": "2867014129739274223",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a4dd6004cf5%3A0x27c9ae29312297ef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a4dd6004cf5%3A0x27c9ae29312297ef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6743209,
+        "longitude": -70.3251325
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9UwA1k2askwR75ciMSmuySc",
+      "provider_id": "/g/1pp2tjsgs",
+      "rating": 4.2,
+      "reviews": 180,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto body parts supplier",
+        "Car battery store",
+        "Car repair and maintenance service",
+        "Car stereo store",
+        "Motorcycle parts store",
+        "Trailer supply store",
+        "Truck accessories store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_body_parts_supplier",
+        "car_battery_store",
+        "car_repair",
+        "car_stereo_store",
+        "motorcycle_parts_store",
+        "trailer_supply_store",
+        "truck_accessories_store"
+      ],
+      "address": "1100 Brighton Ave Ste 13A, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20139\u202fPM",
+        "thursday": "7:30\u202fAM\u20139\u202fPM",
+        "friday": "7:30\u202fAM\u20139\u202fPM",
+        "saturday": "7:30\u202fAM\u20139\u202fPM",
+        "sunday": "8:30\u202fAM\u20137\u202fPM",
+        "monday": "7:30\u202fAM\u20139\u202fPM",
+        "tuesday": "7:30\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 482-6183",
+      "website": "https://locations.oreillyauto.com/en-us/me/portland/autoparts-4526.html",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Good guys\nGood service\nGood prices\n\ud83d\udc4d\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKx6QqbXvzKwn8fRB5EJ_Q1i1KSQ3L7BBs2XyigyRZmUqnb8CZWCKwXJZSZIHyKtyzqzMuwohyV3fXVXIYh4yToDheDnFOJMUNy2Qu4yYNEiClk-9GtjxzBoWMPU6oiyPDd2yU6PlHO9gG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5HKBM3icHcTLcoIwFADQL4q8lGpnXAj4IgWJikY2zoiYUDGRJgiXn-zav-lMz-K8f7nWT_VpGBV3BkxKVhWNKn5yKXQh9CCXD4M9FcoVUsYsicl9tsCdS-oLffW4FePb1hvNwzOxSgvviPP14XnKplAy2GaPtBaXsZ8dfdzSMNtl6xVgDX3dR00rORycGz3Q9YkPYS8DXgRisQmjNAabNEM4xfPSr-5ostTfXe_JY5SkriwhCa42pG5SrTYTtpy2lmmaiP-fI_EH8SRISw"
+    },
+    {
+      "position": 2,
+      "title": "Advance Auto Parts",
+      "place_id": "ChIJgcIhRe6bskwRWJRRhXjGgEM",
+      "data_id": "0x4cb29bee4521c281:0x4380c67885519458",
+      "data_cid": "4864105818495226968",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bee4521c281%3A0x4380c67885519458&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bee4521c281%3A0x4380c67885519458&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6580473,
+        "longitude": -70.2962431
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgcIhRe6bskwRWJRRhXjGgEM",
+      "provider_id": "/g/1tk22jpr",
+      "rating": 4,
+      "reviews": 177,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Car accessories store",
+        "Car battery store",
+        "Tool rental service",
+        "Truck accessories store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "car_accessories_store",
+        "car_battery_store",
+        "tool_rental_service",
+        "truck_accessories_store"
+      ],
+      "address": "1364 Congress St Ste 1, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20139\u202fPM",
+        "thursday": "7:30\u202fAM\u20139\u202fPM",
+        "friday": "7:30\u202fAM\u20139\u202fPM",
+        "saturday": "7:30\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "7:30\u202fAM\u20139\u202fPM",
+        "tuesday": "7:30\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 774-1944",
+      "website": "https://stores.advanceautoparts.com/me/portland/1364-congress-st?utm_medium=local&utm_source=yext-gmb&utm_content=gmb-2016-12-29&utm_campaign=aap",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"He found the part even though \"it didn't fit my vehicle\" and sold it to me.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqdufs5s7zn3pi07_3_DNAb9VQntTls6Q6u4OSCrLEmIW6lW16zToRSkgXV0Uw858I67BW7lJhS30DwccRZK2j2lNTRl-O69EuAQ_Sl2U-jlVd7pxHJ2qRiN2INJZDp4-P5HDl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0goHRXicHcTdDsEwGADQJ6pVZy0SF2PCRsp-bOJmiZoNn7a0y8QLegZvI3EuzvfTWKvN2HGgcXu1UjVUrameQklbSdsT6u7U2iBhkHH8LY9v_uJxas_GM-wtXX3BrHTLgPvHUR5Lm4GhMW0Hm3T2XM_vYUGh6NN3ppL0Vu9zvOuG3jCkbFowiJrUxUEnRHJYkSsBniWANnQ0b_24TIHs0BXyE9OvZUQeyYWTkEeHQA_Q1lsGMOn6GGPU_BdI_gDV8kJA"
+    },
+    {
+      "position": 3,
+      "title": "NAPA Auto Parts",
+      "place_id": "ChIJc0j09G2cskwRX_V0jdEVQTM",
+      "data_id": "0x4cb29c6df4f44873:0x334115d18d74f55f",
+      "data_cid": "3693257159186117983",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6df4f44873%3A0x334115d18d74f55f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6df4f44873%3A0x334115d18d74f55f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.689721999999996,
+        "longitude": -70.25882
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc0j09G2cskwRX_V0jdEVQTM",
+      "provider_id": "/g/1tdg7dcy",
+      "rating": 4.4,
+      "reviews": 108,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto parts market",
+        "Car accessories store",
+        "Car battery store",
+        "Car repair and maintenance service",
+        "Motorcycle parts store",
+        "Racing car parts store",
+        "Tool rental service",
+        "Truck accessories store",
+        "Truck parts supplier"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_parts_market",
+        "car_accessories_store",
+        "car_battery_store",
+        "car_repair",
+        "motorcycle_parts_store",
+        "racing_car_parts_store",
+        "tool_rental_service",
+        "truck_accessories_store",
+        "truck_parts_supplier"
+      ],
+      "address": "235 Presumpscot St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 774-6331",
+      "website": "https://www.napaonline.com/en/ME/Portland/store/23097?cid=pl_gpc_google_dac_23097_ao",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Felt like a very personal service, even put my new wiper blades on for me.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdZ2IG3WN1jeH_Om-1QAhDgcpetIqN8Rf5d_7I2-33WNRKlxAeuyDKLvDTgd_0ssnV3YUVRXC-EcoT7HN25F5m2cy_YMEzJay7IkxFSBYkt80NuVDXGVXUlMq6hT4Ozm9inWdx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ue8o0nicHcpLUoMwAADQEwUCFKnOdIHyKUXSQikfN4wTYmKBhJpgoRf0DN5Gp5u3er8_TKlRPul6zyyNCkF7MknyhQVXhCsNi0GnowRYAqm7B5R2rt--mVFolcg4k22zH4CRusyjeCQquqB19mG3jROZwPovWdzPLpkWL3799nLaNlBKXlj1qciqF-BjkTtbZNqBPZh4aerEv-3eFyfq5uD4XHdqDdFUeFVYVKc-uTywfLW_DY-fvGznzdWAEAJ2FwP-B7qxQ2E"
+    },
+    {
+      "position": 4,
+      "title": "AutoZone Auto Parts",
+      "place_id": "ChIJ1xePx76eskwRnoI1MniepVk",
+      "data_id": "0x4cb29ebec78f17d7:0x59a59e783235829e",
+      "data_cid": "6459743479608476318",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ebec78f17d7%3A0x59a59e783235829e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ebec78f17d7%3A0x59a59e783235829e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.628245,
+        "longitude": -70.2809407
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1xePx76eskwRnoI1MniepVk",
+      "provider_id": "/g/1tcwfl3z",
+      "rating": 4.4,
+      "reviews": 235,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Car accessories store",
+        "Car battery store",
+        "Tool rental service"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "car_accessories_store",
+        "car_battery_store",
+        "tool_rental_service"
+      ],
+      "address": "436 Lincoln St Ext, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20139\u202fPM",
+        "thursday": "7:30\u202fAM\u20139\u202fPM",
+        "friday": "7:30\u202fAM\u20139\u202fPM",
+        "saturday": "7:30\u202fAM\u20139\u202fPM",
+        "sunday": "7:30\u202fAM\u20138\u202fPM",
+        "monday": "7:30\u202fAM\u20139\u202fPM",
+        "tuesday": "7:30\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 767-4714",
+      "website": "https://www.autozone.com/locations/me/south-portland/436-lincoln-street-ext.html?cmpid=LOC:US:EN:AD:NL:1000000:GEN:3213",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Many , many parts in stock, Order online pick up in 30 min for a discount.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQV20evZiDM5ySsDmsrHUva8Pmg-_Y425Gutm5utdS_Mb_hB7aKnIryGdbn9MiQRyV6DkoJmI8ybrX4r9w9WCIBFA9I6nY_OoD6AiaoOsHDyvPzDpuYQHU_o7DR6B9vQdC938u=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/l_kXlHicHcRJDoIwAADAFxVwAamJB7AR0KBU44KXhi1AtC3pgqkf9A3-xsQ5zPfTKTXIpW0_u5nVct4-Gy0bUXGmGqasilO7HSSoJJB2kO3xI4jxZeo0471HqWtOElEp4vNY-BltAcnnUzfSirpa1SeSlqQLF8WOJcJEdclg2uOjuXjowbc08U0pbnMBX_C6TsJNABOP5eTAkRf0BT_IGJkxe6NB5zg-E75ARy-EI67XcObr1WviOA7o_leA_QBuxERs"
+    },
+    {
+      "position": 5,
+      "title": "O'Reilly Auto Parts",
+      "place_id": "ChIJydS9tIOeskwRzS8vkKhaQ7k",
+      "data_id": "0x4cb29e83b4bdd4c9:0xb9435aa8902f2fcd",
+      "data_cid": "13349613400476299213",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e83b4bdd4c9%3A0xb9435aa8902f2fcd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e83b4bdd4c9%3A0xb9435aa8902f2fcd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6359358,
+        "longitude": -70.2570684
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJydS9tIOeskwRzS8vkKhaQ7k",
+      "provider_id": "/g/1pp2tjrjk",
+      "rating": 4.5,
+      "reviews": 59,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto body parts supplier",
+        "Car battery store",
+        "Car repair and maintenance service",
+        "Car stereo store",
+        "Motorcycle parts store",
+        "Trailer supply store",
+        "Truck accessories store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_body_parts_supplier",
+        "car_battery_store",
+        "car_repair",
+        "car_stereo_store",
+        "motorcycle_parts_store",
+        "trailer_supply_store",
+        "truck_accessories_store"
+      ],
+      "address": "189 Waterman Dr, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20138\u202fPM",
+        "thursday": "7:30\u202fAM\u20138\u202fPM",
+        "friday": "7:30\u202fAM\u20138\u202fPM",
+        "saturday": "7:30\u202fAM\u20138\u202fPM",
+        "sunday": "8:30\u202fAM\u20136\u202fPM",
+        "monday": "7:30\u202fAM\u20138\u202fPM",
+        "tuesday": "7:30\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 741-7013",
+      "website": "https://locations.oreillyauto.com/en-us/me/southportland/autoparts-4535.html",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true
+      },
+      "user_review": "\"Great prices friendly people usually have what I need.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtq2Exp7PlfmBcHV56NFfrrCX9nkrqu6thnPTFc3tVbTEK9zC5at0DCiZBS5jL3Wu6yfEraOW83e1QFPlUZfBXvrypHVey_oF8fIziZrBzjPvAuq1i876D6nhLIg7iG1QbJXZ8sg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/snycz3icHcRLjoIwAADQEyEgoaCJC0A6_qIlOkDYTLTpB8UW2qLCDT2CtzGZt3ifNzem1XPbbrg3YVKyhvSaKCyFIcJMsLzbrNUW1pa2I7TPbhE03TR9tQFq6D3Gq9wHe0iVSsqZuKmuB4YLdILYM_nllG5nY-KfjbNM6io--tedV_RgoKk6H4rQI24GUfNb0bh8qKFd5WT4kzCk67GuVDxe0SPqO7cOA7AEgu_WLKh_3OyyKatQs8XTdRzH4v9jS3wBEOZFkg"
+    },
+    {
+      "position": 6,
+      "title": "NAPA Auto Parts -Genuine Paints MAI018",
+      "place_id": "ChIJq2XnJy2bskwRqmqWDvEGZME",
+      "data_id": "0x4cb29b2d27e765ab:0xc16406f10e966aaa",
+      "data_cid": "13935270779392780970",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b2d27e765ab%3A0xc16406f10e966aaa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b2d27e765ab%3A0xc16406f10e966aaa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.710941999999996,
+        "longitude": -70.312035
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq2XnJy2bskwRqmqWDvEGZME",
+      "provider_id": "/g/11lmmc0ghh",
+      "rating": 4.3,
+      "reviews": 6,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto parts market",
+        "Car accessories store",
+        "Car battery store",
+        "Car repair and maintenance service",
+        "Motorcycle parts store",
+        "Racing car parts store",
+        "Tool rental service",
+        "Truck accessories store",
+        "Truck parts supplier"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_parts_market",
+        "car_accessories_store",
+        "car_battery_store",
+        "car_repair",
+        "motorcycle_parts_store",
+        "racing_car_parts_store",
+        "tool_rental_service",
+        "truck_accessories_store",
+        "truck_parts_supplier"
+      ],
+      "address": "1113 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 854-3247",
+      "website": "https://www.napaonline.com/en/me/portland/store/805325?cid=pl_gpc_google_dac_805325_ao",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Great Paint!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmhW4-Sl1XXGF8Ggt45oZRHIlVwwKm0oXyTk7nJx57L6LeRKnYAkAmN6cE1D0HQxtPD6_PeW0thiw2Rmk_MTU66bh02kmFA2HuVYjDXpxsp6FgrRobFM1szrdJJPmmyg6S5G5F=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yPtbgHicHcRdDoIgAADgE5FoSa2tBzZDs5-ZlWkvbhGDQsAJTeuCnaHbtPU9fN-PcK61c89rxHjEjeENe1rWUaMd025EjfJ4awG1wHo42-0lJkqcJ-DQ-GUZk1nM3SQ0lzxZNUXfrxU05esopzodwukGbVi-1hWWWO0QXfoRTPaDyyJUZ-wMnbj3Qa5kvT2eELoKGEhFcJA8i-oRle1gW0R4l5sr2fr23d3SNFPqxdEhjEOy6H0IIRD_KdA__END1w"
+    },
+    {
+      "position": 7,
+      "title": "NAPA Auto Parts",
+      "place_id": "ChIJrU7PtJyeskwRHlS4UUP3kCM",
+      "data_id": "0x4cb29e9cb4cf4ead:0x2390f74351b8541e",
+      "data_cid": "2562820056479716382",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e9cb4cf4ead%3A0x2390f74351b8541e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e9cb4cf4ead%3A0x2390f74351b8541e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6360858,
+        "longitude": -70.25571459999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrU7PtJyeskwRHlS4UUP3kCM",
+      "provider_id": "/g/1tmqlc_g",
+      "rating": 4.3,
+      "reviews": 87,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto parts market",
+        "Car accessories store",
+        "Car battery store",
+        "Car repair and maintenance service",
+        "Motorcycle parts store",
+        "Racing car parts store",
+        "Tool rental service",
+        "Truck accessories store",
+        "Truck parts supplier"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_parts_market",
+        "car_accessories_store",
+        "car_battery_store",
+        "car_repair",
+        "motorcycle_parts_store",
+        "racing_car_parts_store",
+        "tool_rental_service",
+        "truck_accessories_store",
+        "truck_parts_supplier"
+      ],
+      "address": "65 Market St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20134\u202fPM",
+        "sunday": "9\u202fAM\u20133\u202fPM",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 767-3277",
+      "website": "https://www.napaonline.com/en/ME/South-Portland/store/26934?cid=pl_gpc_google_dac_26934_ao",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Great People , great prices, great to deal with.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5a7g1lArdjwoaoPsiXT5k1YfyAiG0o-d971Boz_ZGp54IYQlO-rc9dQXuo13dbfn9nSxtF9WlOOUpamZxU7YM42svJ0LVhN0CyHu3UKzTHK8Jv7IxVqulvTjBPFasXM7p0keUcqc80MHv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8R0K9HicHcTBboIwGADgJ6q0AqmY7IAmijoEMnDgxbCCoNT-hRZEXtLz3mbJvsP3-661lmppGLw2ZxVAxctelR0DoUuhZwweRiUVYgopww2PUeN6dk4rwt2uuD8hh1Dd0thuSHZ9ubctBlQ4lKxgupy30rZ2WcQD1DGniNIeiFn8XIUjvka9cb55ECQyf5zHhGa-NVfDHn-e6iNev7zeTA5T7B0W-4HuxlPb8yG-r8JNrlKfStyUCWvZAvve8PEkGGNU_8-Q-AOaWEdX"
+    },
+    {
+      "position": 8,
+      "title": "O'Reilly Auto Parts",
+      "place_id": "ChIJHwSLawOZskwR7Yyglx_qQmM",
+      "data_id": "0x4cb299036b8b041f:0x6342ea1f97a08ced",
+      "data_cid": "7152536579626536173",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299036b8b041f%3A0x6342ea1f97a08ced&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299036b8b041f%3A0x6342ea1f97a08ced&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6222534,
+        "longitude": -70.34945669999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHwSLawOZskwR7Yyglx_qQmM",
+      "provider_id": "/g/1pp2tjt9d",
+      "rating": 4.3,
+      "reviews": 121,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto body parts supplier",
+        "Car battery store",
+        "Car repair and maintenance service",
+        "Car stereo store",
+        "Motorcycle parts store",
+        "Trailer supply store",
+        "Truck accessories store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_body_parts_supplier",
+        "car_battery_store",
+        "car_repair",
+        "car_stereo_store",
+        "motorcycle_parts_store",
+        "trailer_supply_store",
+        "truck_accessories_store"
+      ],
+      "address": "441 Payne Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20138\u202fPM",
+        "thursday": "7:30\u202fAM\u20138\u202fPM",
+        "friday": "7:30\u202fAM\u20138\u202fPM",
+        "saturday": "7:30\u202fAM\u20138\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "7:30\u202fAM\u20138\u202fPM",
+        "tuesday": "7:30\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 883-0187",
+      "website": "https://locations.oreillyauto.com/en-us/me/scarborough/autoparts-4551.html",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Good parts at a fair price\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-xbiDiTfb78dN3XKpIJmjgpeym9YNZC83OjcI65TIFU5ZwrptA0ehn_Ug3xmGN2lf49vYKLQfCxZ4RbZ4Kjrlj917YS2kR7gu0RKLX-B61Nsb-sHT6CYez0AlsBCjaD0PD71M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4ocg_nicHcRJDoIwAADAFxWKbGLigSUqolURE-FipJZiLdDQqugHfYO_MXEO8_3USgk50XVemxrtOsrJXZIed60irdJw1-hUSIAlkLq_RbubvwBDeY2uWVW64wsyj4mIlw2jgrwaL0dFODY3DMeOncWzg108e6F8SOr2dKDm0MzRiFeW98iT1a4Kh8JKy8JKWM-ZZ7j5fnRLXXqHabI6gsAxkCyBXGROmJM39LkMQnaO4DZyjfX0aUAIQf0fg_YHAURCrw"
+    },
+    {
+      "position": 9,
+      "title": "NAPA Auto Parts",
+      "place_id": "ChIJ2Rf4e0WaskwR-Lky7QQk_50",
+      "data_id": "0x4cb29a457bf817d9:0x9dff2404ed32b9f8",
+      "data_cid": "11384857986593896952",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a457bf817d9%3A0x9dff2404ed32b9f8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a457bf817d9%3A0x9dff2404ed32b9f8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.680797999999996,
+        "longitude": -70.334234
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2Rf4e0WaskwR-Lky7QQk_50",
+      "provider_id": "/g/1tdj3tkv",
+      "rating": 4.2,
+      "reviews": 292,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto parts market",
+        "Car accessories store",
+        "Car battery store",
+        "Car repair and maintenance service",
+        "Motorcycle parts store",
+        "Racing car parts store",
+        "Tool rental service",
+        "Truck accessories store",
+        "Truck parts supplier"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_parts_market",
+        "car_accessories_store",
+        "car_battery_store",
+        "car_repair",
+        "motorcycle_parts_store",
+        "racing_car_parts_store",
+        "tool_rental_service",
+        "truck_accessories_store",
+        "truck_parts_supplier"
+      ],
+      "address": "190 Larrabee Rd, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20137\u202fPM",
+        "thursday": "7\u202fAM\u20137\u202fPM",
+        "friday": "7\u202fAM\u20137\u202fPM",
+        "saturday": "7:30\u202fAM\u20134\u202fPM",
+        "sunday": "8:30\u202fAM\u20133\u202fPM",
+        "monday": "7\u202fAM\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 856-6991",
+      "website": "https://www.napaonline.com/en/ME/Westbrook/store/28427?cid=pl_gpc_google_dac_28427_ao",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Had exactly what I wanted and for the best price around!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHX3BPTSsHRr8y82X649HiFizSw7ywB0mlZDLF-NwKIp_rwU80Xj3GyE8XrvN5R9vJU0hG--jVnK5loQge4pUo2yEKy3zWpF6qGyQDUDWsxnqZ-FRc9rwfFXlv-jDIrKk8ai_f8AA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uwsN_3icHcTbboIwGADgJ_qlioeyZBcQLCiGCMpsvDGmQQ7WtrZIV99wj7C3WbLv4vv9aYdBmQ_P460_aaRseP0ytWZSDLUYJkw-vEYZYAaMF-7z4h6m1I_2x4NJS40dntHlPEg70r0PduVshB78HO8I5DbbqIu2FUa09xO3xlSP-aIMxm2F2gSg_xLZgsuiqeeqkjO3zpz_PimyfCauiKv4ZL7F8wykZIG2N0L5CH280dkdX7vLDYfhp50ihKD9n4H4A4RoRJ0"
+    },
+    {
+      "position": 10,
+      "title": "BMW of Westbrook Parts",
+      "place_id": "ChIJO8alAUabskwRvy7GH2c2u1c",
+      "data_id": "0x4cb29b4601a5c63b:0x57bb36671fc62ebf",
+      "data_cid": "6321706318487236287",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b4601a5c63b%3A0x57bb36671fc62ebf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b4601a5c63b%3A0x57bb36671fc62ebf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.674443,
+        "longitude": -70.3393504
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO8alAUabskwRvy7GH2c2u1c",
+      "provider_id": "/g/11fsvzdt_d",
+      "rating": 4.8,
+      "reviews": 490,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto body shop",
+        "Auto care products store",
+        "Auto parts manufacturer",
+        "Auto parts market",
+        "Car accessories store",
+        "Car battery store",
+        "Truck accessories store",
+        "Truck parts supplier",
+        "Wheel store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_body_shop",
+        "auto_care_products_store",
+        "auto_parts_manufacturer",
+        "auto_parts_market",
+        "car_accessories_store",
+        "car_battery_store",
+        "truck_accessories_store",
+        "truck_parts_supplier",
+        "wheel_store"
+      ],
+      "address": "7 Saunders Way, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 591-6100",
+      "website": "https://www.bmwofwestbrook.com/parts?utm_source=google&utm_medium=organic&utm_campaign=google_my_business_parts&utm_content=website_button",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"We brought our I3 in and it was serviced right away and charged up\nFor us!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXBnqvTgvC_UyfGAm5U-q9qjsCcc2qpxgk_-xnyKaCOP2XLvF8T89Ss5t7RhXSdrKzvcHyqDwe_RcS0AeV6_PVwUDxbXiR0mFWKuOcyXHbiczpubY5Bw7JkocnVherjTY5xHo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ztld7XicHcTbboIwGADgJ6pUFuYh2QVilAyjyGn1iozfrlWkpbQcH9B38G1M9l18ryc3ptZry3rwjxmTkj1oq2kDUhgqzAxkZbFaI9BIW254PJeuTzZCdQnrvDwd__Zu5aRIrdRdewC2qgdW5mgQY_DrnUKbHLrdMlmuYu2YRcRJfG2CqQN_VNue5hHE2KXZZx5mfbodCnKLcLX7CdoTjMQvbjDVbXFxNv3iu5QgMk6be3JxBl9-9XOMMeL_AxJvueZGhA"
+    },
+    {
+      "position": 11,
+      "title": "Bill Dodge Kia Parts",
+      "place_id": "ChIJj33zi3ybskwRoBb-kD2wzHM",
+      "data_id": "0x4cb29b7c8bf37d8f:0x73ccb03d90fe16a0",
+      "data_cid": "8344237988082751136",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b7c8bf37d8f%3A0x73ccb03d90fe16a0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b7c8bf37d8f%3A0x73ccb03d90fe16a0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6736674,
+        "longitude": -70.33754189999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj33zi3ybskwRoBb-kD2wzHM",
+      "provider_id": "/g/11j6tckcc5",
+      "rating": 4.8,
+      "reviews": 227,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto body parts supplier",
+        "Auto care products store",
+        "Auto parts manufacturer",
+        "Auto parts market",
+        "Car accessories store",
+        "Car battery store",
+        "Truck accessories store",
+        "Truck parts supplier",
+        "Wheel store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_body_parts_supplier",
+        "auto_care_products_store",
+        "auto_parts_manufacturer",
+        "auto_parts_market",
+        "car_accessories_store",
+        "car_battery_store",
+        "truck_accessories_store",
+        "truck_parts_supplier",
+        "wheel_store"
+      ],
+      "address": "3 Saunders Way, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 591-6104",
+      "website": "https://www.billdodgekia.net/parts-center?utm_source=google&utm_medium=organic&utm_campaign=google_my_business_parts&utm_content=website_button",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Good no problems with fixied parts on car.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGMOpMAt6I5tpK4vUXcv-LMgKjyegk4xVRtK584dyZL2ODlfqdcdBGiKw7v_5tn9zuwF3VNWUo6bDwIn9P9hHeiVfWUcZ3v8be0yNyAOISP5MjCrT1M-q37T8yQfK_dawxRgkY1lw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z99Q5nicHcRLEoIgAADQE5GaWtpMC6upHELto302TSFiaWBBEt2wI3SbZnqL9_2UUjZiYBh1aXco57QmT0EemDNJmOxgfjNoIwAWQBhBEi2rYIbiBgWyF7qygU6b7nALFojCqya0cl7ZSkLXc3J9WHTjSV3cc5yPZheo-u3Rlcx_P9XUzqJtynvniQqZn_jlnFyyYpvig916Z2LqSAdxuE5cdB0_NhYCd7u_8fSygMf8pF4rWu2tWg2VZZomKP9jwH4CCEWf"
+    },
+    {
+      "position": 12,
+      "title": "Volt Supply Maine",
+      "place_id": "ChIJNWoYzkWbskwR-KSKKHkHj-c",
+      "data_id": "0x4cb29b45ce186a35:0xe78f0779288aa4f8",
+      "data_cid": "16685563361383589112",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b45ce186a35%3A0xe78f0779288aa4f8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b45ce186a35%3A0xe78f0779288aa4f8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6768029,
+        "longitude": -70.2871186
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNWoYzkWbskwR-KSKKHkHj-c",
+      "provider_id": "/g/11zb36z8b7",
+      "type": "Battery store",
+      "types": [
+        "Battery store",
+        "Car battery store",
+        "Light bulb supplier",
+        "Phone repair service"
+      ],
+      "type_id": "battery_store",
+      "type_ids": [
+        "battery_store",
+        "car_battery_store",
+        "light_bulb_supplier",
+        "phone_repair_service"
+      ],
+      "address": "845 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20133\u202fPM",
+        "sunday": "9\u202fAM\u20133\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 835-3128",
+      "website": "https://voltsupplymaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries",
+            "Electronics",
+            "Light bulbs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3sc8Oimqcay7FU27grhmmw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=63.745914&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lf9Qn3icHc1LDsIgFADA27AT6EfbmhB3bl25NvQV4SX8BCz2Nl7L22i8wMznbUqJ-chYLkmpsqKqEV_K5l2UVIegrZIRM4Xg2NqwYp5u9hLtKUofcBFdhvGC7gFyG87XdtDJOFcJzDewqHwRWckEhur6E1NYqI6ZVDFyYsTUkk1Wcejo0O-npicRCxjByX-5h1U0nH8BmEI58A"
+    },
+    {
+      "position": 13,
+      "title": "Dodge Chrysler Jeep Ram Parts Store",
+      "place_id": "ChIJpfi4zF-bskwREUSSJn6fl4g",
+      "data_id": "0x4cb29b5fccb8f8a5:0x88979f7e26924411",
+      "data_cid": "9842510874803323921",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b5fccb8f8a5%3A0x88979f7e26924411&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b5fccb8f8a5%3A0x88979f7e26924411&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.677264799999996,
+        "longitude": -70.3396404
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpfi4zF-bskwREUSSJn6fl4g",
+      "provider_id": "/g/11qn3sx6qp",
+      "rating": 4.6,
+      "reviews": 25,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto body parts supplier",
+        "Auto parts manufacturer",
+        "Auto parts market",
+        "Car accessories store",
+        "Car battery store",
+        "Racing car parts store",
+        "Truck accessories store",
+        "Truck parts supplier",
+        "Wheel store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_body_parts_supplier",
+        "auto_parts_manufacturer",
+        "auto_parts_market",
+        "car_accessories_store",
+        "car_battery_store",
+        "racing_car_parts_store",
+        "truck_accessories_store",
+        "truck_parts_supplier",
+        "wheel_store"
+      ],
+      "address": "200 Main St Suite 100D, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 857-7476",
+      "website": "https://www.leedodgechryslerjeep.com/parts/mopar.htm?utm_source=google&utm_medium=organic&utm_campaign=google_my_business_parts&utm_content=website_button",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Trusted service for my Jeep.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6Vwo5ipIts2Dz6KQim5mi2jKOFmPA9wHdiW-GxaN7KutBXMXN-06HiDTROSCcQnL1N7fVicuzcSN7YExPgN4W8yn3DLODa76m6LWuwJ__zzwRCQsISSd9VkBzk-JIGLVY3pR3rQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Q7KqK3icHcThEoEwAADgJ5oiFu78iEjKauWKX85NarKts3Vjb-gRvI0734_v-2mU6uTcsh6NM6iFqB9VL6snEVxVXA2IYFbdSUAkkJaXItx6ASy0mNAuVHLkGxhhyiaMju5RsmGpN9PbKy1B8LogN-rV8rg_ImDDLfUPWZKvCObxELm3gpLekBy5p_UrrdG4nL6548eJf3Ehg3HZ6935bIzOVliGeX6dFe3StGAXBnFxcrrMeeKFHtq2DZr_BPAfnXNEWA"
+    },
+    {
+      "position": 14,
+      "title": "NAPA Auto Parts",
+      "place_id": "ChIJARa9fASZskwRKobk20APSo4",
+      "data_id": "0x4cb299047cbd1601:0x8e4a0f40dbe4862a",
+      "data_cid": "10253024272903865898",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299047cbd1601%3A0x8e4a0f40dbe4862a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299047cbd1601%3A0x8e4a0f40dbe4862a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.623807,
+        "longitude": -70.34988799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJARa9fASZskwRKobk20APSo4",
+      "provider_id": "/g/1tp8zn45",
+      "rating": 4.4,
+      "reviews": 82,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto parts market",
+        "Car accessories store",
+        "Car battery store",
+        "Car repair and maintenance service",
+        "Motorcycle parts store",
+        "Racing car parts store",
+        "Tool rental service",
+        "Truck accessories store",
+        "Truck parts supplier"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_parts_market",
+        "car_accessories_store",
+        "car_battery_store",
+        "car_repair",
+        "motorcycle_parts_store",
+        "racing_car_parts_store",
+        "tool_rental_service",
+        "truck_accessories_store",
+        "truck_parts_supplier"
+      ],
+      "address": "450 Payne Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 883-5055",
+      "website": "https://www.napaonline.com/en/ME/Scarborough/store/22432?cid=pl_gpc_google_dac_22432_ao",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Not just a  parts jockey..they  had the  order  waiting for  my pickup..\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvMTk-W4yHi-G_7E56EBN69hlBlfTxJ4IisvwMDC2m_Yt6M_bDenLhXtWa0cvslx7U-TG-_LNNAxrM6m7aSJE7u57rc6FNNu1p5pIshuYACnxSrRz3IieSbrEC4Flhl9mRreFP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nTDzH3icHcRdDoIgAADgE5FaCqutBzM1XTJLW_XklJG4EB3gT12wM3Sbtr6H7_thWvdqYxicrRZ119WcDopK0glNhV6QrjXqXgGigDLcFJ-ebjgm-RNc7dehAWGBfAf6OwzXjO_4I59jO2rUOCV7b9kWdw2TotpTcWQ3fS1NMio-owvIQ1AcMXZnmcAWlVnso8FBksAA48HqnT5SbLi7npgzeX6vooZmlfQ9O-CMr9uzpEG6nSzTNAH7T4D4AfqCRAM"
+    },
+    {
+      "position": 15,
+      "title": "Berlin City Lexus of Portland Parts Center",
+      "place_id": "ChIJmZVE1USbskwRdsFLofqBro8",
+      "data_id": "0x4cb29b44d5449599:0x8fae81faa14bc176",
+      "data_cid": "10353355506819252598",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b44d5449599%3A0x8fae81faa14bc176&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b44d5449599%3A0x8fae81faa14bc176&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.683124799999995,
+        "longitude": -70.32553709999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmZVE1USbskwRdsFLofqBro8",
+      "provider_id": "/g/11svgnfp5x",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store"
+      ],
+      "address": "191 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134\u202fPM",
+        "thursday": "8\u202fAM\u20134\u202fPM",
+        "friday": "8\u202fAM\u20134\u202fPM",
+        "saturday": "8\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134\u202fPM",
+        "tuesday": "8\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 360-8990",
+      "website": "https://www.berlincitylexus.com/parts/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"The folks here at Lexus have been routinely nice and helpful.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE56C_RaseDCguab6vEaSVH0LHrVr6xsIKnDmzROSSwck7S7Gg4aXBEq2okUiOeQXNu0BbVi-eiRwWcQqNjlQjWK_VMU_StndDzFmhzBDbEUb6GEXWWR2Q8GEbhXuBveXD7eiyu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4qRhenicHcRRboMgAADQE1FZt-myZB-1UNt0s0Oi8meEEbAqtAJ184I7w27TZO_j_f1q7y_uNYoG_bhS1qpBBicnYY2Xxq-EHSN1cUA44KLNZ076DX6Ot03ROom2KrQ8vuGWVnv4vp-qKf52h6NB41KcKJ1Fn9AkU08tS_F1bfuyO0nC8gBTXnVAdsVcC3LNzwM518em-igb6s0XWnajXlLEccnjDLO6LtbkJcNcs5DeJEOJ7H7C2_wAIQT6fwHMHXkeRTw"
+    },
+    {
+      "position": 16,
+      "title": "Bill Dodge Buick GMC Parts",
+      "place_id": "ChIJiytxW7ebskwRfb4su_vXjUU",
+      "data_id": "0x4cb29bb75b712b8b:0x458dd7fbbb2cbe7d",
+      "data_cid": "5011899436510264957",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bb75b712b8b%3A0x458dd7fbbb2cbe7d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bb75b712b8b%3A0x458dd7fbbb2cbe7d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6728871,
+        "longitude": -70.3378279
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiytxW7ebskwRfb4su_vXjUU",
+      "provider_id": "/g/11k01ms30q",
+      "rating": 4.7,
+      "reviews": 338,
+      "type": "Auto parts store",
+      "types": [
+        "Auto parts store",
+        "Auto body parts supplier",
+        "Auto care products store",
+        "Auto parts manufacturer",
+        "Car accessories store",
+        "Car battery store",
+        "Truck accessories store",
+        "Truck parts supplier",
+        "Wheel store"
+      ],
+      "type_id": "auto_parts_store",
+      "type_ids": [
+        "auto_parts_store",
+        "auto_body_parts_supplier",
+        "auto_care_products_store",
+        "auto_parts_manufacturer",
+        "car_accessories_store",
+        "car_battery_store",
+        "truck_accessories_store",
+        "truck_parts_supplier",
+        "wheel_store"
+      ],
+      "address": "2 Saunders Way, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 591-6101",
+      "website": "https://www.billdodgewestbrook.com/PartsOrderForm?utm_source=google&utm_medium=organic&utm_campaign=google_my_business_parts&utm_content=website_button",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true
+      },
+      "user_review": "\"Service was fast and efficient and competitively priced.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4LyPGKO1ypD53b7bXNjSMrT6sQ9hDbFWyB0Kx3P86kTE1e89s06_uq8HrcKwDvRXFqn7pgSqerVhXBLy8kC3BOmZGmg0HUPsx0ByLSsCIl4JPY8jKLzeobYfPb5Yd4kMnm0JJVQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UgEbnnicHcTbboIwGADgJ0JKQKxLvBAZOkAt4gG8MWnXtRFogR8P3Rv6CL7Nkn0X3_slh6GFD9uupTsSWoua34D3TKuBq2HEdGOLFiwGFthzssmqeeSlhiyTrWPacOzSCS0213zd733IpjKk0ckEKHm6BPvV_tPheArIv9w6vOpZ8gjvuyLq1KQVecf7oyyC1OBq4Qbb5rxsBFodCDxRYNIcFl-1F5MSX5P0l2ta_hA6Lr-9aq0aFMfHbPZwEEKW_J9Z6g9qyERF"
+    },
+    {
+      "position": 17,
+      "title": "NAPA AutoCare",
+      "place_id": "ChIJ0aEsC5GbskwRXtjwBc1GLGs",
+      "data_id": "0x4cb29b910b2ca1d1:0x6b2c46cd05f0d85e",
+      "data_cid": "7722625307415468126",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b910b2ca1d1%3A0x6b2c46cd05f0d85e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b910b2ca1d1%3A0x6b2c46cd05f0d85e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6700192,
+        "longitude": -70.2893943
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0aEsC5GbskwRXtjwBc1GLGs",
+      "provider_id": "/g/11fcrqk1tc",
+      "rating": 3.3,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Truck accessories store",
+      "types": [
+        "Truck accessories store"
+      ],
+      "type_id": "truck_accessories_store",
+      "type_ids": [
+        "truck_accessories_store"
+      ],
+      "address": "260 Woodford St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135:30\u202fPM",
+        "thursday": "8\u202fAM\u20135:30\u202fPM",
+        "friday": "8\u202fAM\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135:30\u202fPM",
+        "tuesday": "8\u202fAM\u20135:30\u202fPM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"The service was outstanding.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSN4huo1wGA1dFKYbIgp00ChE_gi_nib8Ywyf_UTFL9HNfj_ty7WQh9AThW6L3WVy60QDYyScK9h6oUuLGTXU73eVe9Zu36MJk0oLmcI6F-M1tOkDeSLt9glaSpgsNTdHseQBx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dHIeYXicHcRdDoIgAADgE6E4G0ZbD_ajVmQ5NbMXl0hQmrjAmSfsDN2mre_h-36E1p2amWYjbINLyRvWK_aistWs1QaVT5N3ClAFlOkew6h2vTiciF5ag-9albfLyw3vIFyKdcHvRXsvp_kw3oo08QgOwtuj0KOTRQK7icgQsbPTiGC0yseY7rBAMu2Jn5xTx2Ynhi-9jfbbGkrypBvkgb2lD_WKxURj3lzjjqswqQLFosV7PlgQQiD-U9D-ABPVQ-s"
+    },
+    {
+      "position": 18,
+      "title": "Auto Care Plus Tire & Service",
+      "place_id": "ChIJOT16kkaZskwRclpFvP6tonU",
+      "data_id": "0x4cb29946927a3d39:0x75a2adfebc455a72",
+      "data_cid": "8476528758256654962",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29946927a3d39%3A0x75a2adfebc455a72&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29946927a3d39%3A0x75a2adfebc455a72&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.634875099999995,
+        "longitude": -70.3152363
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOT16kkaZskwRclpFvP6tonU",
+      "provider_id": "/g/12hz0lrkz",
+      "rating": 4.6,
+      "reviews": 499,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Auto air conditioning service",
+        "Auto electrical service",
+        "Brake shop",
+        "Car inspection station",
+        "Mechanic",
+        "Oil change service",
+        "Tire shop",
+        "Transmission shop",
+        "Wheel alignment service"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "auto_air_conditioning_service",
+        "auto_electrical_service",
+        "brake_shop",
+        "car_inspection_station",
+        "mechanic",
+        "oil_change_service",
+        "tire_shop",
+        "transmission_shop",
+        "wheel_alignment_service"
+      ],
+      "address": "509 Westbrook St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20135:30\u202fPM",
+        "friday": "7:30\u202fAM\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 417-4913",
+      "website": "https://www.autocareplus.com/service-locations/south-portland/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://schedule.autoops.com/b22e4b3098e5484a9797bc6b9821356f?rwg_token=AE37R_ggTyOD0_2gCdpuebf1pbygoR_9LwrIJvHHGgTEFtphOtHowMpsinCUHSbkdvyDVyapkJuE2dF87CdpbZl3GJmsu4IG7Q%3D%3D",
+      "user_review": "\"You get your money\u2019s worth in quality service and parts each and every time.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHShvCrCWz257JUjKuuhL3sCOo_BcdJGFYsrk07KXVMIP2XDP92WMrYWmvx0XkfBDq7DLbvNyPH6MxuIptdC2ukqYs2WwKzEtj25ZARC_kNu_aliRmyMvVd5SSgmRTaopy75aEn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/c-5VdXicHcRdEkJAAADgE8m2jUzN9KDVr0hU6MVoydZiZXdFF-wM3aaZvofv-yFC1HyqqgUZDXLG8iKTPGswq0RWiQFmpZrXXMFc4arhOgdqrH3SogYFb6jp29PDkpLsRhztWTzH6Xa1jHhDgW6FZ3vjwtB0JzCwmygo2w6E9DY3n7q5u7ZO767Hdic3tUgRlPQZcRi8rPdCPKB2MTwUU0fGSXH3yt5uz6nm-3npHRNW97qWLKrZawgAUMh_rFQ_by5FeA"
+    },
+    {
+      "position": 19,
+      "title": "Auto Care LLC",
+      "place_id": "ChIJ0TGKGwCbskwRXlHAjAz3ygo",
+      "data_id": "0x4cb29b001b8a31d1:0xacaf70c8cc0515e",
+      "data_cid": "777705518947914078",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b001b8a31d1%3A0xacaf70c8cc0515e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b001b8a31d1%3A0xacaf70c8cc0515e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.700804399999996,
+        "longitude": -70.25948509999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0TGKGwCbskwRXlHAjAz3ygo",
+      "provider_id": "/g/11fb3d8rm4",
+      "rating": 4.7,
+      "reviews": 69,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "1041 Ocean Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20132\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(908) 249-8639",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Phenomenal customer service and practical pricing.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHL5gDDnmQaaDKbDA24VUEV2e-EoMojQOAIoQcnxEexFt83n-TYjGjL5iVxrjrcowFAUKKh_FKU2RBb4KPmF_PcRQ23LkUv8KH4E_p5CWi_YwOieDc4DeXc6P9PnIRM7J2IMNVH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8exjeXicHcxLEoIgAADQE5GG2m-mBYWmoQVOWq2cYhg_JThB6Q07Q7epafOW7_OujOn0wrLulTMqlSrv4qnFgytphDQjrlqr7DTgGmgL0R27oTD2Soxlyy4XTK4YQTfP_BwK4KtENWyPIsW4HHwxBGbmSHA4N5sm9up8eDS_tw9QRkhVBCSD6erqEtoGBeUpg058y14zErp-0XnrY12c-30tMHexOPEJnVMZpcl0C6Nkl4fLfmzbNqj-ciC_4ABCyQ"
+    },
+    {
+      "position": 20,
+      "title": "VIP Tires & Service",
+      "place_id": "ChIJVTprkE6askwRubhfMPfRnGM",
+      "data_id": "0x4cb29a4e906b3a55:0x639cd1f7305fb8b9",
+      "data_cid": "7177842765720434873",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a4e906b3a55%3A0x639cd1f7305fb8b9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a4e906b3a55%3A0x639cd1f7305fb8b9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6938004,
+        "longitude": -70.3254027
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVTprkE6askwRubhfMPfRnGM",
+      "provider_id": "/g/1t_hyld5",
+      "rating": 4.6,
+      "reviews": 1018,
+      "type": "Tire shop",
+      "types": [
+        "Tire shop",
+        "Auto repair shop",
+        "Brake shop",
+        "Car repair and maintenance service",
+        "Oil change service",
+        "Tire service",
+        "Wheel alignment service"
+      ],
+      "type_id": "tire_shop",
+      "type_ids": [
+        "tire_shop",
+        "auto_repair_shop",
+        "brake_shop",
+        "car_repair",
+        "oil_change_service",
+        "tire_service",
+        "wheel_alignment_service"
+      ],
+      "address": "522 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20135:30\u202fPM",
+        "friday": "7:30\u202fAM\u20135:30\u202fPM",
+        "saturday": "7:30\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20134\u202fPM",
+        "monday": "7:30\u202fAM\u20135:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 828-4711",
+      "website": "http://www.vipauto.com/locations/portland-me",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Batteries"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "book_online": "https://schedule.autoops.com/e40272bc316b4d98a999573535c7a312?rwg_token=AE37R_jV6GaJG37Hp0zDIMkt6yAxdpG_jkvcYlHd48B7WCoV0T-FngPCg4jWiWcHnXUrdbNKtyY9sBktYUGS_56H_bVIQu9Bow%3D%3D",
+      "user_review": "\"I went in with a flat and they had me back on the road within 2 hours.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0I4AXoPb546rV4bIH-OT89IGMjLTbyHSGBDHqm9OQVb0eEC8Y9vBHyEAqi-_4Wz3hCBz6s_qK_baKDKtTpGjGEdxkyGsnPhbUiX7pEBPEkI9Y1uE20jIrNe2p4tla3HY-B7ld=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CL69Z3icHcRLjoIwAADQE1Wq1A8mLqg2bYOjGPHDilhsqIC00OoMXnDO4G1MfIv3_lfOGTv3vFr5g0LropYPK7tcN042bpDru1cYC3ILrBfGm10VMshReNaxGKNJd0SCM7BNZgGnP-U6ET3bU7xi7T3Y7o4CSrKcpcETs56E7Q1k6PTy1RK_JjZro0xcolXkEkNLSq5_VU9tEytxuJ2nhuCYVDxIhw8ygiXvNnJkkKsvPksBntbXxe8QQgjU9xw0H3SgQog"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=auto+parts+in+Portland%2C+ME&start=20&type=search"
+  }
+}

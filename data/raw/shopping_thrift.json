@@ -1,0 +1,1926 @@
+{
+  "search_metadata": {
+    "id": "6a4e67e895a6945434a3c0fe",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1ej-uo6nCDSWCZxiFbdWwA/6a4e67e895a6945434a3c0fe.json",
+    "created_at": "2026-07-08 15:08:24 UTC",
+    "processed_at": "2026-07-08 15:08:24 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/thrift+stores+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/1ej-uo6nCDSWCZxiFbdWwA/6a4e67e895a6945434a3c0fe.html",
+    "prettify_html_file": "https://serpapi.com/searches/1ej-uo6nCDSWCZxiFbdWwA/6a4e67e895a6945434a3c0fe.prettify",
+    "total_time_taken": 6.28
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "thrift stores in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "thrift stores in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Little Ghost",
+      "place_id": "ChIJu4mDjRScskwRcnBd7F6wTW0",
+      "data_id": "0x4cb29c148d8389bb:0x6d4db05eec5d7072",
+      "data_cid": "7876145245079826546",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c148d8389bb%3A0x6d4db05eec5d7072&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c148d8389bb%3A0x6d4db05eec5d7072&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6555375,
+        "longitude": -70.263451
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu4mDjRScskwRcnBd7F6wTW0",
+      "provider_id": "/g/1263l5b7l",
+      "rating": 4.7,
+      "reviews": 136,
+      "type": "Vintage clothing store",
+      "types": [
+        "Vintage clothing store"
+      ],
+      "type_id": "vintage_clothing_store",
+      "type_ids": [
+        "vintage_clothing_store"
+      ],
+      "address": "31 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 773-8290",
+      "website": "http://littleghostvintage.com/",
+      "description": "Funky shop for vintage fashions. Offbeat store carrying an assortment of vintage clothing & accessories, plus kitschy decor.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Buys used goods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Super cute, well organized and great prices!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJhvUAKZBd_-UO4MY6h0ZqcHI-Vlpm5ZPLaY7wU9PVEl3n3P93pXtpdoMWXV-aWEwrCfepjixlskRLmQ8gep6tPbbfPbcKoZyvc6WlzvliQtzILADbfWJ3RpTcntfmWDqS9dWNTQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DbZCQHicHcTvEoEwAADwJ5pyI3LnQ_7cFWGhlr44rdWwtrEpvKFH8Dbu_D78vh9mjNIjy-IMdiopK04fmt6JFIYK0yGytiqlAdFAWx5aR1fPX7Am9pbZpDiCeNNbHRxmZzfiByDhqu5nKDwdBm3somTOoYDIhSo1qpArnCbghOftfVpSdTk_ub5uwzoaVlQ5BuV5iXKylNmrIQ7m74afI_MOQm-Wl3gBt2pPhClrPLvt3AKv99G47dq2Ddh_AsQPDa5GrQ"
+    },
+    {
+      "position": 2,
+      "title": "Still A Good Cause Thrift Shop",
+      "place_id": "ChIJnZD0-xOcskwRJqytbzB4Bp4",
+      "data_id": "0x4cb29c13fbf4909d:0x9e0678306fadac26",
+      "data_cid": "11386920857280293926",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c13fbf4909d%3A0x9e0678306fadac26&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c13fbf4909d%3A0x9e0678306fadac26&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.655057799999994,
+        "longitude": -70.2631644
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnZD0-xOcskwRJqytbzB4Bp4",
+      "provider_id": "/g/1tf57h43",
+      "rating": 4.5,
+      "reviews": 44,
+      "type": "Thrift store",
+      "types": [
+        "Thrift store"
+      ],
+      "type_id": "thrift_store",
+      "type_ids": [
+        "thrift_store"
+      ],
+      "address": "16 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20134\u202fPM",
+        "thursday": "11\u202fAM\u20134\u202fPM",
+        "friday": "11\u202fAM\u20134\u202fPM",
+        "saturday": "11\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 772-4903",
+      "website": "https://www.facebook.com/Still-A-Good-Cause-1059422590785622/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Clothing"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"The store is well kept, very clean and organized.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUREyzouwLvJ1E_41LzbNaaYgrQmyhrbBlocQpaPIeJgz06i67QuNKUiEhoaccug96xADuvfvsl7CJRtuGetzFjZBxJFkg5NKao7Mw3cRT3Musb95vCAB8zKpuAQs1Nx94_jdrwA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lq0m5HicHcTBDoIgAADQLzJ1lmZbByyttFi4PNTFIRFUJk5AjT_sE_qbtt7hfT9cqVYubLvm3oQJwWqqJe2IaBRt1ISIl81aaRFpSRscIXqCbZHHbyP0sO9TNy6n7t5UEOMz69DrzbsqqgVBLT7uaMqM49_9AGmYFfeYC0yIZqE_grXub72sg1WaK72hyiSPSzSmyZPNYIZFcBg8kp-8g5ZVOOtXIJqbrNUASReO4bR8XLsBLAfXcRyL_ydW8wOoiEcI"
+    },
+    {
+      "position": 3,
+      "title": "Weekend Vintage",
+      "place_id": "ChIJ0b2RERGdskwRxQAmmEB5dVc",
+      "data_id": "0x4cb29d111191bdd1:0x57757940982600c5",
+      "data_cid": "6302076571912372421",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d111191bdd1%3A0x57757940982600c5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d111191bdd1%3A0x57757940982600c5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6527041,
+        "longitude": -70.2667932
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0b2RERGdskwRxQAmmEB5dVc",
+      "provider_id": "/g/11h6yrw85j",
+      "rating": 4.7,
+      "reviews": 77,
+      "type": "Vintage clothing store",
+      "types": [
+        "Vintage clothing store"
+      ],
+      "type_id": "vintage_clothing_store",
+      "type_ids": [
+        "vintage_clothing_store"
+      ],
+      "address": "184 State St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20138\u202fPM",
+        "friday": "10\u202fAM\u20138\u202fPM",
+        "saturday": "10\u202fAM\u20138\u202fPM",
+        "sunday": "10\u202fAM\u20138\u202fPM",
+        "monday": "10\u202fAM\u20138\u202fPM",
+        "tuesday": "10\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 232-4534",
+      "website": "http://shopweekendvintage.com/",
+      "description": "Merchant stocking a curated collection of vintage clothing, from leather jackets to scarves.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Buys used goods"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"The selection and prices were incredible!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3_PTNUcWbOm6geuPKycAc526nRNwoXHFcjo6gIz4TEsiIHACZpIBMIV3-y2mxcucGjECA5p7S6zsuJZQOELG7GSaYCMdzCEwjzb6iCcoUo7Sc5xxUQYl9ig_ONRpsxqtd6C-kWQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ou0SiHicHcRLDoIwFADAE1VQpEQTF7VBxA8fEVE3Rp-kgECrLQG5oUfwNibOYr6fTCkhp5pWZsaAcc7KtJHpC3it0loNgFcaExKBRFIjgRc-iGNcgr0XQ3LzK8zSJli_gYA5wvXOa_lxuYCCY-b2470tc3dJ6Fm48617MNB7VHXQgFPYlJjCinAvm9U59O2NYznR9US3957abdHfcE6Bx9yKwOy6ODyVk5xdfG8nZPdUd0zRIwln7VDXdZT9B1T_ANDbRW8"
+    },
+    {
+      "position": 4,
+      "title": "Material Objects",
+      "place_id": "ChIJqwpeYRScskwRM7EBR7mings",
+      "data_id": "0x4cb29c14615e0aab:0xb9ea2b94701b133",
+      "data_cid": "837285497381433651",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14615e0aab%3A0xb9ea2b94701b133&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14615e0aab%3A0xb9ea2b94701b133&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656242999999996,
+        "longitude": -70.26029
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqwpeYRScskwRM7EBR7mings",
+      "provider_id": "/g/1trpqd3y",
+      "rating": 4.5,
+      "reviews": 112,
+      "type": "Used clothing store",
+      "types": [
+        "Used clothing store"
+      ],
+      "type_id": "used_clothing_store",
+      "type_ids": [
+        "used_clothing_store"
+      ],
+      "address": "500 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20135\u202fPM",
+        "thursday": "11\u202fAM\u20135\u202fPM",
+        "friday": "11\u202fAM\u20136\u202fPM",
+        "saturday": "11\u202fAM\u20136\u202fPM",
+        "sunday": "11\u202fAM\u20135\u202fPM",
+        "monday": "11\u202fAM\u20135\u202fPM",
+        "tuesday": "11\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 774-1241",
+      "website": "https://www.facebook.com/materialobjectsme",
+      "description": "Store selling secondhand men's and women's apparel, including vintage pieces.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing",
+            "Used goods",
+            "Women's clothing"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Great selection of tons of styles of vintage and great quality items!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUIay5PdA8o9HmhyU-lO62fuWFd-fEVUGu3eP1dfza__nF6Cz1BKCMIIxNzdD4HO-UwV3OkZ3e7CcZTkYdrdyjddOb6mvsM8zM4GiG1Gd1EnT4utCPqnxXsyErGIA55zNfaMcL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xxBPb3icHcTbboIwGADgJ6rQcZhb4gUyLEQ5mIg6bwzrX0CB1tGi0hf0GXwbE7-L7_molbrIb8Noa2tSCVG1bJCsp4IrxtWEis6oLhJRiaThZcm68cI8KkYnA28qvsKuHnPUpu5HOewWgMpgm5PBYhmGUhfHI1-4vsbzpR9H0T3R8GOHKcpvWyttDhb79Olh0_xCD-MZIP1zu6uMpzq2yYlgAjjgG3tQfvbP73s5Bj2JPMfRSVnEdDW7YdM0Uf2eIv4CFOlEKg"
+    },
+    {
+      "position": 5,
+      "title": "Find",
+      "place_id": "ChIJo-cwHBWcskwRdgFQQ19lAlg",
+      "data_id": "0x4cb29c151c30e7a3:0x5802655f43500176",
+      "data_cid": "6341742685116694902",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c151c30e7a3%3A0x5802655f43500176&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c151c30e7a3%3A0x5802655f43500176&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6567772,
+        "longitude": -70.25750339999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo-cwHBWcskwRdgFQQ19lAlg",
+      "provider_id": "/g/1tkn_d2q",
+      "rating": 4.4,
+      "reviews": 78,
+      "type": "Thrift store",
+      "types": [
+        "Thrift store",
+        "Clothing store"
+      ],
+      "type_id": "thrift_store",
+      "type_ids": [
+        "thrift_store",
+        "clothing_store"
+      ],
+      "address": "16 Free St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "11\u202fAM\u20136\u202fPM",
+        "sunday": "11\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "11\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 699-4285",
+      "website": "http://www.foundatfind.com/",
+      "description": "Mellow shop for hip, secondhand attire. Low-key boutique offering stylish vintage & modern used clothing for men & women, plus accessories.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"The prices are super fair and everyone is super friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_4Gq7FOXFh7UV0RMVitfBpAb1vUYLZJ8v1wzAygZI4iX8H0cJsDfSUUj51YWL3OkyyZa_xQZKoSXeDt3AcAF8kZ6gSkSjgMayeFgldiyqZ3NYZhdylnxMjLV5gTdyPX-3Ewho=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lPXFgHicHcRJDoIwAADAF1VK6kJMPNQIbuCGIPRitNSWRYq2ivWDvsHfmDiH-X6E1o0aWlYlUIdLySv2UOxOZa1ZrTtUXi3eKEAVUBberLYldo_d6W3grRNPDKIY7oI415dxg8_2M0p9snCedvvGhpN5N0-cGaQLNbmEUVT07PTgo3VpDDkdX1uylGHCJhphij2nJH0elmHBg5NhHq-y3NwIWqVEZKaqX0Hhxz2-z8wmAchthRy1NoQQiP8U1D89jUUu"
+    },
+    {
+      "position": 6,
+      "title": "The Salvation Army Thrift Store & Donation Center",
+      "place_id": "ChIJVyyszwibskwRjOFn4LVEKzE",
+      "data_id": "0x4cb29b08cfac2c57:0x312b44b5e067e18c",
+      "data_cid": "3543001079801700748",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b08cfac2c57%3A0x312b44b5e067e18c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b08cfac2c57%3A0x312b44b5e067e18c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6885048,
+        "longitude": -70.2972264
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVyyszwibskwRjOFn4LVEKzE",
+      "provider_id": "/g/1tfpjf03",
+      "rating": 4,
+      "reviews": 131,
+      "type": "Thrift store",
+      "types": [
+        "Thrift store",
+        "Second hand store",
+        "Used clothing store",
+        "Vintage clothing store"
+      ],
+      "type_id": "thrift_store",
+      "type_ids": [
+        "thrift_store",
+        "second_hand_shop",
+        "used_clothing_store",
+        "vintage_clothing_store"
+      ],
+      "address": "30 Warren Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7:30\u202fPM",
+      "hours": "Open \u00b7 Closes 7:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137:30\u202fPM",
+        "thursday": "10\u202fAM\u20137:30\u202fPM",
+        "friday": "9\u202fAM\u20135:30\u202fPM",
+        "saturday": "9\u202fAM\u20135:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135:30\u202fPM",
+        "tuesday": "9\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(800) 728-7825",
+      "website": "https://satruck.org/",
+      "description": "Thrift store selling secondhand clothing and other goods to support drug and alcohol rehabilitation.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Clothing"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Well organized and reasonable prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHI_D1SYNJCt9kBVEyY2W8QOCa7vQHWNIFbQ7WlP-MeUyoDuykRZRqXYOrd9oJ-9oQkcYbXtiEb6EI3i9QtvMmdMZxnOSdfl14NctKfztvZkPY03cM-1L5ZGWc-J1wFetSItKTx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fHByl3icHcTbEoFAGADgJ1q1csqMC4dQdFgh243RtspsWuwv5QU9g7cx47v4vp8c4KaGmlbkRiuTMiv4U_EHkyXwElpMXrXsphBTSGnjwCNivLSPMxxSz5mCKSZ7q6HtaED86alfkWXk2fOE9KMiQC7fNXL2bMQm3twP1H-kpnSQKYlgNDnAxUp6lm1cTAKVe03duC79MD0XuOMxWJ3fUMUioLrBXITX3XgRMeTg15xDaMNqW49eWNd1lP9nqPwBFKJEIg"
+    },
+    {
+      "position": 7,
+      "title": "Everchanging Seasons Consignment Boutique",
+      "place_id": "ChIJi5JFD5CbskwRoek63TxXOHU",
+      "data_id": "0x4cb29b900f45928b:0x7538573cdd3ae9a1",
+      "data_cid": "8446597020054645153",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b900f45928b%3A0x7538573cdd3ae9a1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b900f45928b%3A0x7538573cdd3ae9a1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6725759,
+        "longitude": -70.2855161
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi5JFD5CbskwRoek63TxXOHU",
+      "provider_id": "/g/1hf2l5bjs",
+      "rating": 4.7,
+      "reviews": 48,
+      "type": "Consignment shop",
+      "types": [
+        "Consignment shop",
+        "Boutique",
+        "Gift shop",
+        "Vintage clothing store",
+        "Women's clothing store"
+      ],
+      "type_id": "consignment_shop",
+      "type_ids": [
+        "consignment_shop",
+        "boutique",
+        "gift_shop",
+        "vintage_clothing_store",
+        "womens_clothing_store"
+      ],
+      "address": "710 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20135\u202fPM",
+        "thursday": "11\u202fAM\u20135\u202fPM",
+        "friday": "11\u202fAM\u20135\u202fPM",
+        "saturday": "11\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 774-7303",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Got a pair of beautiful barely worn black leather ugg boots for $30!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtE77O_1XKBcGj76-9ECndy0Q1R9OOHlY2OswgClTAhDzmLoISzJdSWs211OjMPV8NmzPLAqWVrwM5qUs_rjt-f-12qzgXIJQQ20RopeJ2jgwTfWOw5yDb9AfQtXhHCbpnahs9=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kK-LOHicHcTbboIwGADgJ6q0XRzDxIuKRsVDqSfYlZkV2iC0wF_TyAvuGXybJfsuvvevdq6FSRDU-mOkrFV18YSil9a4wriRtE2gWkASEAQs3YsHW7pFGPIryTczuazCTxQtYnN_YUEOEeer-pty8CquT0zPh2Zr18chuR8zoITwapdevvbNkG5Zl116vxt3Z7j2lUMlIrQbVL5OhKD4YNsioZXypzLjfvya3yJWCpfrVXxrzY-GaOoJxhjp_yUyf9UPRAQ"
+    },
+    {
+      "position": 8,
+      "title": "Safe Combinations",
+      "place_id": "ChIJ0SaugjOdskwRjv6RbJqYMTE",
+      "data_id": "0x4cb29d3382ae26d1:0x3131989a6c91fe8e",
+      "data_cid": "3544782170731183758",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d3382ae26d1%3A0x3131989a6c91fe8e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d3382ae26d1%3A0x3131989a6c91fe8e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6565825,
+        "longitude": -70.2614329
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0SaugjOdskwRjv6RbJqYMTE",
+      "provider_id": "/g/11s3lpf4kd",
+      "rating": 5,
+      "reviews": 12,
+      "type": "Thrift store",
+      "types": [
+        "Thrift store"
+      ],
+      "type_id": "thrift_store",
+      "type_ids": [
+        "thrift_store"
+      ],
+      "address": "15 Casco St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 1\u202fPM Fri",
+      "hours": "Closed \u00b7 Opens 1\u202fPM Fri",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "1\u20135\u202fPM",
+        "saturday": "1\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "1\u20135\u202fPM",
+        "tuesday": "Closed"
+      },
+      "website": "http://www.safecombinations.org/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as disabled-owned",
+            "Identifies as LGBTQ+ owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Clothing",
+            "Glass bottles",
+            "Metal cans",
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online estimates",
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Inviting space with amazing finds!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN9vzQdTPh3xteoqOTJVIhapbIQnfEmyfUCAMB-t7kXEAYuNf7maEUb4m3unGetNK7lj8oqzpkPhx6DC_U7hn-P1K7fRTivG5Z_gv6xM82CT7WnjgwQ-Pq7h2f2eJcA8hI4Dhi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ms6tgHicHcTdboIwGADQJ6ogOItLvKhIHBpZMeDPbox2bT8FWrAFmS-4Z_BtTDwX5_kP1tbm03FK8AdSa1ny1vAb08pyZQdMV46sDWIGGYfQJC3IVzLpHulvRsHvLdfNd7bcxnCqz3GqRFT9iTwk6xmyuNhH5NAmAlenKD-PKr9VC26TFS6vgW4edUGhH8_DY45BITpcYbHJLt3i4-cou3G_Drwwwzt1lfcU0QaDJzy-ZCSAeDSHy_Q-dF0XwXuG1AujXkSq"
+    },
+    {
+      "position": 9,
+      "title": "The Merchant Company",
+      "place_id": "ChIJrW88IhGcskwRce8I3lPNj5I",
+      "data_id": "0x4cb29c11223c6fad:0x928fcd53de08ef71",
+      "data_cid": "10560885411298209649",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c11223c6fad%3A0x928fcd53de08ef71&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c11223c6fad%3A0x928fcd53de08ef71&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6531515,
+        "longitude": -70.2655939
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrW88IhGcskwRce8I3lPNj5I",
+      "provider_id": "/g/1hc26338x",
+      "rating": 4.8,
+      "reviews": 52,
+      "type": "Consignment shop",
+      "types": [
+        "Consignment shop",
+        "Artist",
+        "Gift shop",
+        "Greeting card shop",
+        "Record store",
+        "Vintage clothing store"
+      ],
+      "type_id": "consignment_shop",
+      "type_ids": [
+        "consignment_shop",
+        "artist",
+        "gift_shop",
+        "greeting_card_shop",
+        "record_store",
+        "vintage_clothing_store"
+      ],
+      "address": "656 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20135\u202fPM",
+        "thursday": "11\u202fAM\u20135\u202fPM",
+        "friday": "11\u202fAM\u20135\u202fPM",
+        "saturday": "11\u202fAM\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20133\u202fPM",
+        "monday": "11\u202fAM\u20135\u202fPM",
+        "tuesday": "11\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 772-8525",
+      "website": "http://www.merchantco.me/",
+      "description": "Cool shop for locally made gifts. Charming outpost for pottery, stationery, clothing & jewelry made by local crafts people.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Buys used goods",
+            "Used goods"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Good selection and solid prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqAUW2u8NGbqCXG8MVL7SmxuGAEefow_76rvmU4UonD1LZvC5eVXbuuPHsBUb7C1Xk2ZuOS4XBGL_ooTjtgePXsXFTFTOGkg06nbNhUC4TKHcAo5PPwIsHbRb7ijdOGcAV1FugmQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/s7WYXHicHcRBjoIwFADQEyGgKMbERUUpExGqUmzcmLTWMiL9aluZK84RvI2Jb_He_421dzPz_VszGigAdZPOyKcAbaW2AwGdr-7GE8YzPiLFtkWrB6KHoZsWmD8ShqebOo_33Z_DaCUv0J_iyfPV0YiCXob58ZWMZc24cyQzC8rjJGTt8OjKfcQWOD8BVFerJGGGpVValbhVwUTzoqFJVK0zgWBMSP9jMr7j8e_1XGKB6jB1qtvO-zAIAq_5Ljz9AcJSROQ"
+    },
+    {
+      "position": 10,
+      "title": "Portland Flea-for-All",
+      "place_id": "ChIJQ5hEPm2cskwR9iA1Am-v8XQ",
+      "data_id": "0x4cb29c6d3e449843:0x74f1af6f023520f6",
+      "data_cid": "8426709269100175606",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6d3e449843%3A0x74f1af6f023520f6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6d3e449843%3A0x74f1af6f023520f6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6545175,
+        "longitude": -70.2629013
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ5hEPm2cskwR9iA1Am-v8XQ",
+      "provider_id": "/g/1hc5c_y31",
+      "rating": 4.5,
+      "reviews": 357,
+      "type": "Flea market",
+      "types": [
+        "Flea market",
+        "Antique store",
+        "Furniture store",
+        "Jewelry store",
+        "Record store",
+        "Vintage clothing store"
+      ],
+      "type_id": "flea_market",
+      "type_ids": [
+        "flea_market",
+        "antique_store",
+        "furniture_store",
+        "jewelry_store",
+        "record_store",
+        "vintage_clothing_store"
+      ],
+      "address": "585 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM Fri",
+      "hours": "Closed \u00b7 Opens 10\u202fAM Fri",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "12\u20134\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 370-7570",
+      "website": "http://portlandfleaforall.com/",
+      "description": "Cool source for vintage goods & clothes. Funky market with an eclectic collection of vintage furniture, clothing & more from various vendors.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Shopped at The Flea For All and found a great buy on a oversized green vase.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEn0aOqvoIoI4vXDMddKYgn82KHT8_qwOvAtGj5gaANtrcl59A8_u3C5pyqlAfqvVpIpucoo-887ZhuzilePiya340kKQxYE7kaLhedpJjq0WsF5w5qQuq-bM2MNVRqBj3gBMj4w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Lp7nVnicHcRdboIwAADgE1Wq0FiX-FA3pwxBMcbNvRhWulao_bEt6G7oEbzNEr-H73EX3hv3EkVSxAOuNZcsOHahWnmm_IDqc8SNA9QBF5FNUbZkMVewWttOpzpNuq-3vK6zA1d4lC13-Gj7dUf8okG8IoW_UIkmBB9D_IrMzUrya7u9SU2gWgOMx98i_J0k25xuVZzANiuvh_m4rVaC1eajsfDTvaMe2TJY8JOP8mK_tbMm5rO8SfppP4QQAvGcAvUPPIVGJA"
+    },
+    {
+      "position": 11,
+      "title": "Plato's Closet",
+      "place_id": "ChIJz4xrDT-ZskwRKtgpZhGoh1M",
+      "data_id": "0x4cb2993f0d6b8ccf:0x5387a8116629d82a",
+      "data_cid": "6018964219685885994",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2993f0d6b8ccf%3A0x5387a8116629d82a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2993f0d6b8ccf%3A0x5387a8116629d82a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6316056,
+        "longitude": -70.3256466
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz4xrDT-ZskwRKtgpZhGoh1M",
+      "provider_id": "/g/1pwfbdvbb",
+      "rating": 4,
+      "reviews": 481,
+      "type": "Used clothing store",
+      "types": [
+        "Used clothing store",
+        "Fashion accessories store",
+        "Second hand store",
+        "Shoe store"
+      ],
+      "type_id": "used_clothing_store",
+      "type_ids": [
+        "used_clothing_store",
+        "fashion_accessories_store",
+        "second_hand_shop",
+        "shoe_store"
+      ],
+      "address": "333 Clarks Pond Pkwy #620, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20139\u202fPM",
+        "thursday": "10\u202fAM\u20139\u202fPM",
+        "friday": "10\u202fAM\u20139\u202fPM",
+        "saturday": "10\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20139\u202fPM",
+        "tuesday": "10\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 253-2070",
+      "website": "https://www.platoscloset.com/locations/south-portland-me",
+      "description": "Resource for stylish used clothing. Chain retailer buying & selling trendy secondhand clothing for teens & young adults.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Buys used goods",
+            "Men's clothing",
+            "Used goods",
+            "Women's clothing"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Clothing"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"The staff are friendly, it's very clean, and new stuff comes out regularly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqt94myKcsJ3yve98G0Pjnvrq-hHVSLL2u22dpGijy00etDj3Ya56bdrplQVMztFSg9YUk8rBMgqfUprcy-vZBDBw3nsYjCi0fWFKrbGI1BoVFdfDpwwAp37jiY_erIdERpeTPzg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tRKBvHicHcTbDoIgAADQLyJJutnWg2bafXaz2UsrRJQMEEhnf9gn9DdtnYfz_eTGSD22rDJHHSoELclLE4UFN4SbDhZPi0oNsAbacqPt7uHOKuP0nu0K6yVqa-KMQhgxXqsK5PP4sF7bL9tOZViwFkJifIaSW39wT5Usd_HmbYIDdZLTY6S8Da2yk1S4BfXF870GcZ2waQGzc7BS93DR9UQcpJkvm8aVaMiK5ErUIp3tJTlGbzppuhBCkP_HgP8ANj1Ggw"
+    },
+    {
+      "position": 12,
+      "title": "Moody Lords Vinyl/Vintage",
+      "place_id": "ChIJuSs7BBScskwRBhscX5a5wUM",
+      "data_id": "0x4cb29c14043b2bb9:0x43c1b9965f1c1b06",
+      "data_cid": "4882387526538238726",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14043b2bb9%3A0x43c1b9965f1c1b06&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14043b2bb9%3A0x43c1b9965f1c1b06&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6548957,
+        "longitude": -70.26207529999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuSs7BBScskwRBhscX5a5wUM",
+      "provider_id": "/g/11x9yfvjx",
+      "rating": 4.8,
+      "reviews": 111,
+      "type": "Record store",
+      "types": [
+        "Record store",
+        "Vintage clothing store"
+      ],
+      "type_id": "record_store",
+      "type_ids": [
+        "record_store",
+        "vintage_clothing_store"
+      ],
+      "address": "566 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20136\u202fPM",
+        "thursday": "11\u202fAM\u20136\u202fPM",
+        "friday": "11\u202fAM\u20136\u202fPM",
+        "saturday": "11\u202fAM\u20136\u202fPM",
+        "sunday": "11\u202fAM\u20136\u202fPM",
+        "monday": "11\u202fAM\u20136\u202fPM",
+        "tuesday": "11\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 899-1149",
+      "website": "http://www.facebook.com/pages/Moody-Lords/107106789346125",
+      "description": "Curated vinyls (new, used) alongside vintage wears in a cozy store.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"Incredible finds at a great price!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHywVWWvRmtaVMKM3g9jeujfvip6e8-PIrPJaXOvcvmaHO1DoUo5ts_KufkkHKcyomLVg5bUYmBnkrg-Hg3IMZDgUKnjB8rfN4QzN_Twp0PsDBgFgKL03gRIWNCZbW6kxsIjSI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KEXxr3icHcTdboIwGADQJyqUMI2a7EIkC13lRx3gvDHYlI9R2hJaYO4B9w6-jYnn4jz-G2t7s3HdrvEd0Bo6Pho-MK0sV9ZhWrrQG8QMMu42Sw5iG93noiyno7RVEdPYh3XLx7aefvolX6GMDNlndU4nNskqSr1Q53phzZWOtRARZXct9wUsbvm3DJQYAEXgk_gSQk5VG6yGOnk7_CXXr7nHmQkD-AC6xz4cSZnsLrdyKX4NaU_kffYwxqh5zZB6Ar_cRZo"
+    },
+    {
+      "position": 13,
+      "title": "Madlyn's New and Used Consignment Shop",
+      "place_id": "ChIJNcm8ZFvjsUwRQ2q5-ZScmPA",
+      "data_id": "0x4cb1e35b64bcc935:0xf0989c94f9b96a43",
+      "data_cid": "17336778929221495363",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb1e35b64bcc935%3A0xf0989c94f9b96a43&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb1e35b64bcc935%3A0xf0989c94f9b96a43&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657056399999995,
+        "longitude": -70.25325649999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNcm8ZFvjsUwRQ2q5-ZScmPA",
+      "provider_id": "/g/11flzhm_gt",
+      "rating": 4.7,
+      "reviews": 73,
+      "type": "Consignment shop",
+      "types": [
+        "Consignment shop"
+      ],
+      "type_id": "consignment_shop",
+      "type_ids": [
+        "consignment_shop"
+      ],
+      "address": "38 Market St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20134\u202fPM",
+        "thursday": "10\u202fAM\u20134\u202fPM",
+        "friday": "10\u202fAM\u20134\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20134\u202fPM",
+        "tuesday": "10\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 659-9827",
+      "website": "http://madlyns.co/",
+      "description": "Consignment shop offering a mix of new and pre-owned clothing, accessories, and home decor.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Absolutely amazing shop with great prices, and very friendly staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFTPHM7yH5UpmQwCA1wGp87doaiqMq-KNUzqc4pINdSbbP96a89HBINj09HZSzx6EO-70BXkDLbdsC8MXI4Vr4SMA1kM0TzGEL44E3ReKKtbEMOHtKB-zF1qlXWgeycB28j5PQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YHcp_XicHcThEoEwAADgJ5oWo3LnRzHWZSmFzj-tXVHasrnoBT2Dt3Hn-_F9P5XWUs0No6kmo1KIsuFPxR9MtJq3esTE3SilAkwBZbhRGNcuXqcRodabTA_yHvdL1-w30rYKcbl2tANBeBg6hqQfFkmeR87sYjvE88MbdMg5GV4zvAMW9LJ6tc0LtbRp5qPjAyXUNWsK02GDtwjhyZ4Hgc4x3REdeGBYm12TnUr-Zt7Yvk2jeNGbEEJQ_Weg_QGHlEHG"
+    },
+    {
+      "position": 14,
+      "title": "Cherished Possessions",
+      "place_id": "ChIJVWsk9ICeskwR6lKFipVuHVc",
+      "data_id": "0x4cb29e80f4246b55:0x571d6e958a8552ea",
+      "data_cid": "6277295044177515242",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e80f4246b55%3A0x571d6e958a8552ea&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e80f4246b55%3A0x571d6e958a8552ea&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.702497,
+        "longitude": -70.28987099999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVWsk9ICeskwR6lKFipVuHVc",
+      "provider_id": "/g/1tjyn9wf",
+      "rating": 3.7,
+      "reviews": 104,
+      "type": "Antique store",
+      "types": [
+        "Antique store",
+        "Consignment shop",
+        "Second hand store",
+        "Used furniture store"
+      ],
+      "type_id": "antique_store",
+      "type_ids": [
+        "antique_store",
+        "consignment_shop",
+        "second_hand_shop",
+        "used_furniture_store"
+      ],
+      "address": "64 Auburn St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20134\u202fPM",
+        "thursday": "10\u202fAM\u20134\u202fPM",
+        "friday": "10\u202fAM\u20134\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "10\u202fAM\u20134\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 799-3990",
+      "website": "http://www.cherishedpossessions.com/",
+      "description": "Consignment shop offering gently used furniture and decor, plus a garden center and pub.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Great selection of reasonably priced, clean, good quality furniture.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWDdHpiSr-247zHBvp98BgimvDaGWo66khEmFfyy6G6LH4C8_Hln7g2WuszO5s92MFC7_wRLapK8nuk7luZZmnkmVwLD1cQxwm3WRXyLs_oYH6k_qMeh8eNdwShIYsW4kghHRzUA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yQdyGXicHcTbboIwGADgJ6ogYkGTXaBMugxPmK3qDTG1a03pQX-wgzfcI-xtluy7-H5_ZNs6mAdBIycjYa1oeAf8waxpuWlHzOpAOEAMEATZbrNXWUHzK3G3wwNFcTKQxdPN0oW46Wd-KajFWMlXvfrqe1zgksTLtCaNSUREOxi2U5hF69UyqX1VXtx7ajqVNN35rI3Sn77Mx2z_7fWEVse-hNqeCFb1fc1lyjdXf5BvJ6CxEpJUw0f24sdhGCL5P0PmD987Rfg"
+    },
+    {
+      "position": 15,
+      "title": "Ferdinand",
+      "place_id": "ChIJmaZc7WmcskwR4RSJmhjzYHA",
+      "data_id": "0x4cb29c69ed5ca699:0x7060f3189a8914e1",
+      "data_cid": "8097739417009591521",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c69ed5ca699%3A0x7060f3189a8914e1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c69ed5ca699%3A0x7060f3189a8914e1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6627472,
+        "longitude": -70.251925
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmaZc7WmcskwR4RSJmhjzYHA",
+      "provider_id": "/g/1thq4x2t",
+      "rating": 5,
+      "reviews": 31,
+      "type": "Vintage clothing store",
+      "types": [
+        "Vintage clothing store",
+        "Gift shop",
+        "Greeting card shop",
+        "Home goods store"
+      ],
+      "type_id": "vintage_clothing_store",
+      "type_ids": [
+        "vintage_clothing_store",
+        "gift_shop",
+        "greeting_card_shop",
+        "home_goods_store"
+      ],
+      "address": "243 Congress St # A, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM Thu",
+      "hours": "Closed \u00b7 Opens 11\u202fAM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "11\u202fAM\u20135\u202fPM",
+        "friday": "11\u202fAM\u20135\u202fPM",
+        "saturday": "11\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "https://www.ferdinandhomestore.com/index.html",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Respectable prices and LOTS of fun handmade goodies.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFblVGs4dkXrdFBTaZFuZ6-OUq3y5qM2dNlK3X3BOz5aW79djWnl2rpexitJK_lHgX1tKIbBEGamm4KuSkaLQ7hIAfTN64eOKlATpmyaDintjhvLtif-npkKYfAHvZB78c0K8E=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aoIS7XicHcTvEoEwAADwJ5qiCHc-rCN_RnFC-uJmrZbWmraQB_QO3sad34ff98O0lmpsGJxZnayqMk4bRWtSCU2F7pCqNDKpAFFAGXDr7wroXflxruykiOrEc0Mce008AMHhbrX9-6aX-BxZkeUG7z4-OaPkdhK8V0v6yvUKXfgii7oaLa_ubI7L0kbNvsDrncOWMA39gU0DxGEoyxZPc6Fv7LHWeQqELNA5hYtH7DpDYqLhbPLsmqYJ2H8CxA8bf0Rf"
+    },
+    {
+      "position": 16,
+      "title": "Haberdashery Resale Clothing Co",
+      "place_id": "ChIJzxYrShGcskwR71siogNXlI4",
+      "data_id": "0x4cb29c114a2b16cf:0x8e945703a2225bef",
+      "data_cid": "10273932323055623151",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c114a2b16cf%3A0x8e945703a2225bef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c114a2b16cf%3A0x8e945703a2225bef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6533381,
+        "longitude": -70.2561937
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzxYrShGcskwR71siogNXlI4",
+      "provider_id": "/g/11c1ld1yw3",
+      "rating": 4.3,
+      "reviews": 58,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "305 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 747-4153",
+      "website": "http://www.haberdasheryresale.com/",
+      "description": "Modern clothing store for secondhand items that are organized by type, rather than size.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Friendly staff, clothes are phenomenal!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLejldZvURL4qXTCajSQMras89z-tvmo0U__Osv8n27-iKSpslRGibwWT4lfV8hCOEcI0NN52KXgtW_24NtPiqws8FIJI0SfHDpJVolDuKeo2oGJpribfwJQSGUOMyhbYuGxxV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D676FHicHcTRsoFAGADgJ1qtZMSMC4OzKkpSODeN1tbGalf_VnjB8wznbcz4Lr7_P661golhCD7oFVIWgjXAaiorzSrdo_JuFAoQBQTGbOuHtxlZs6u4_Lbxbm09jvv5-RqFm_oM9viNdHuXOE7TAFq7Mkeo9CIFYkfKrDvsLZEnNp8HS-pg3x-a3rHQh9S0fL0tHx3YP47r4ChfLZSbSLFoPCZNSVxVl1neuWFE4mDz4tmpIc9nMu36GGPEv1NUfQCaxkWS"
+    },
+    {
+      "position": 17,
+      "title": "Habitat for Humanity of Greater Portland / ReStore",
+      "place_id": "ChIJ88QsfleaskwRHocqy2_JcGw",
+      "data_id": "0x4cb29a577e2cc4f3:0x6c70c96fcb2a871e",
+      "data_cid": "7813966835474925342",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a577e2cc4f3%3A0x6c70c96fcb2a871e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a577e2cc4f3%3A0x6c70c96fcb2a871e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.686794899999995,
+        "longitude": -70.3279289
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ88QsfleaskwRHocqy2_JcGw",
+      "provider_id": "/g/1ptww9v87",
+      "rating": 4.4,
+      "reviews": 291,
+      "type": "Home improvement store",
+      "types": [
+        "Home improvement store",
+        "Appliance store",
+        "Building materials store",
+        "Cabinet store",
+        "Furniture store",
+        "Hardware store",
+        "Lighting store",
+        "Non-profit organization",
+        "Window supplier"
+      ],
+      "type_id": "home_improvement_store",
+      "type_ids": [
+        "home_improvement_store",
+        "appliance_store",
+        "building_materials_store",
+        "cabinet_store",
+        "furniture_store",
+        "hardware_store",
+        "lighting_store",
+        "non_profit_organization",
+        "window_supplier"
+      ],
+      "address": "659 Warren Ave Suite A, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 221-0047",
+      "website": "http://habitatportlandme.org/",
+      "description": "Nonprofit featuring donated and used pieces for home improvement and furniture.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Same-day delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"Great store, often has lovely and unique pieces, reasonably priced.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExtDsLjaaE_WZQEm20JNbMz1xkiWpIyhCFuGiVuAEesSheULL3XdLvjFzDbKlsy0io7jNaNiJHQtYdICGyufpwdyySpKohxB3xyYlDHfAFi33WiAp2ZGaWcXXNYRBDFVFSRwlKgA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bgMXWHicHcTNboIwAADgJ0KqPSxZskMVigg2Ipn8XBYshRYrbWwR6hvuEfY2S_wO398vt1abT9-XHK56pXrJJsMeVI2WjXZF1d3vtfGo8YyPTiS7oXCxgUmHpgl_ijoL7xtwINfja73cRKFjx3d4isRlQiEzOWffaQrLNn0O-BVcE2kcEOpjIA0Rh31mqzbeRW7q9Nw6l-tE8WULF1fJYN8hLCAsBNKbOmoKWpakOm8DfMH5eZZJj77mNQDA4--pN_4DmDxG9w"
+    },
+    {
+      "position": 18,
+      "title": "Portland Trading Co",
+      "place_id": "ChIJAXTiq2qcskwRy7wOesbPqH0",
+      "data_id": "0x4cb29c6aabe27401:0x7da8cfc67a0ebccb",
+      "data_cid": "9054715502186642635",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6aabe27401%3A0x7da8cfc67a0ebccb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6aabe27401%3A0x7da8cfc67a0ebccb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658268299999996,
+        "longitude": -70.25460799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAXTiq2qcskwRy7wOesbPqH0",
+      "provider_id": "/g/12631djjw",
+      "rating": 4.2,
+      "reviews": 75,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store",
+        "Home goods store",
+        "Men's clothing store",
+        "Stationery store",
+        "Women's clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store",
+        "home_goods_store",
+        "mens_clothing_store",
+        "stationery_store",
+        "womens_clothing_store"
+      ],
+      "address": "83 Market St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20136\u202fPM",
+        "thursday": "11\u202fAM\u20136\u202fPM",
+        "friday": "11\u202fAM\u20136\u202fPM",
+        "saturday": "11\u202fAM\u20136\u202fPM",
+        "sunday": "11\u202fAM\u20134\u202fPM",
+        "monday": "11\u202fAM\u20136\u202fPM",
+        "tuesday": "11\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 370-0714",
+      "website": "http://www.portlandtradingco.com/",
+      "description": "Eclectic men\u2019s and women\u2019s gift boutique selling carefully selected clothing, accessories and other items.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Men's clothing",
+            "Women's clothing"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Eclectic and well curated products that were all of excellent quality!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5GDuFfos6uKmw7ZgwtYEoPoMqBihzNO14JKdrnli8_uItujtbr37J2gqolYLr6bNs_QnaTHbKrcKaRk91EyUdiz1JxfcOlBAfxJLAPGAnppGgg5Y15LZIp2AlAFitdN2eMkTpgw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tDqDCXicHcRJDoIwAADAF7EURdTEQ42IAiIaPcCFQIGC1LZ2CeoPfYK_MXEO8_10SnG5tCzSTUzMGCaNlo1AjKqGKhOxu4W5NJA0pAXT5DTAnRts9LZlcqaj--jleFSZz1J2eKz77p0cwTSMakFJPy_0XumbqsTECx38YCSLxaxKZHGi5WVXRQJF5XlYAP91rfs3CJ8tOpI1bJ9hDNMAUs4DjN0MuHG-5w4kcNurOnGaw3DheFyNwLZto_uPDPoDj7FG2Q"
+    },
+    {
+      "position": 19,
+      "title": "Bonny Read",
+      "place_id": "ChIJr8ev_M-fskwRwPslvkZmKcM",
+      "data_id": "0x4cb29fcffcafc7af:0xc3296646be25fbc0",
+      "data_cid": "14062883765464988608",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29fcffcafc7af%3A0xc3296646be25fbc0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29fcffcafc7af%3A0xc3296646be25fbc0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.638680199999996,
+        "longitude": -70.25295779999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr8ev_M-fskwRwPslvkZmKcM",
+      "provider_id": "/g/11nngsnqyn",
+      "rating": 4.4,
+      "reviews": 11,
+      "type": "Antique store",
+      "types": [
+        "Antique store"
+      ],
+      "type_id": "antique_store",
+      "type_ids": [
+        "antique_store"
+      ],
+      "address": "104 Ocean St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "11\u202fAM\u20134\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 233-6110",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Same-day delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false,
+        "same_day_delivery": false
+      },
+      "user_review": "\"They have lots of jewelry and cool decorative items.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWwCnYCA-wV6CAR1eLe6isvbX6KDb07p6vI-bVrFioiB8vpT3LxQnpLZ2KLp5EdStF0mhao-Bf6zWncb0QBK9Is326hQ_ue3aF9Pc1tSP9k200XxMNCsLCj8eRF5KL2Ba2HGTfJA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5FQaIXicHcTbDoIgAADQLyIRJ2VbD0jZRWpardtLUyKxC7Agbf1hn9DftHUezvcjnTO273k3GXQqraubeFrx4Fo5oVyH67tXGQu4BdYj2SK_kvG2pWpPCWg3mJKlL5jAtW3KHU6HJewa3ExBuXkkta7jXmPWAXvlyrADSpkJR6eVS-BdFhrEZ_zeKl7CPE6jqQ0QlvnxKYIiiTLuu1UWXRGEu9d8QS2jl55YJmHKUFygyXh9npFB60MIgfzPgfoBR9pCuQ"
+    },
+    {
+      "position": 20,
+      "title": "Goodwill Store & Donation Center",
+      "place_id": "ChIJVQYFARKZskwRhOInYzpkyvY",
+      "data_id": "0x4cb2991201050655:0xf6ca643a6327e284",
+      "data_cid": "17783136280560263812",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2991201050655%3A0xf6ca643a6327e284&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2991201050655%3A0xf6ca643a6327e284&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6293408,
+        "longitude": -70.3433293
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVQYFARKZskwRhOInYzpkyvY",
+      "provider_id": "/g/1tdcwpxw",
+      "rating": 3.7,
+      "reviews": 362,
+      "type": "Thrift store",
+      "types": [
+        "Thrift store",
+        "Donations center"
+      ],
+      "type_id": "thrift_store",
+      "type_ids": [
+        "thrift_store",
+        "donations_center"
+      ],
+      "address": "555 Maine Mall Rd #3250, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 553-2223",
+      "website": "https://goodwillnne.org/",
+      "description": "Nonprofit standby for secondhand goods. Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Clothing"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Great selection of items, neatly organized and reasonably priced.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELcoXGQQfG-36VSWT5phr0oApv1eqBz4oW1se37DRk7KlkFXa-WkvbEiyuuTgijlbct6wqHYUXTgzZmblMW7dx6ATVv_GIve6UXUE1GPvsoZqZweh7AHkOiIbWYhXzFn75d3kJaQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UQNjMHicHcRdboIwAADgE1UgKE2W-NBFxJ_NyQa28mKk1pa1UrClKDf0CN7GxO_hez6EtY358DwlwhHXmivWGXalurastiOqLx5vDKAGGA9tN6lE8RfVJEnTcwLCaPeHs0kjrr5GjQtY-zmMNQ4MC-HsV8K1knNyBFi6Mq7uXZfx6l-V1EZ9u9jnJONDcSnVN4anW4SynTskS8einORxkGyd0UVb9ExAtJA_1bLEe0GGeQ0np1Cujum0D3zfB-I9BfULKo9GYg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=thrift+stores+in+Portland%2C+ME&start=20&type=search"
+  }
+}

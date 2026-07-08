@@ -1,0 +1,1068 @@
+{
+  "search_metadata": {
+    "id": "6a4e686e408027a442eee15e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mOlww9oD7j81Dn5JUDb-Hw/6a4e686e408027a442eee15e.json",
+    "created_at": "2026-07-08 15:10:38 UTC",
+    "processed_at": "2026-07-08 15:10:38 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/ATMs+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/mOlww9oD7j81Dn5JUDb-Hw/6a4e686e408027a442eee15e.html",
+    "prettify_html_file": "https://serpapi.com/searches/mOlww9oD7j81Dn5JUDb-Hw/6a4e686e408027a442eee15e.prettify",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "ATMs in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "ATMs in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Chase ATM",
+      "place_id": "ChIJt8L-EfudskwRLQRzed7CntA",
+      "data_id": "0x4cb29dfb11fec2b7:0xd09ec2de7973042d",
+      "data_cid": "15032666866985403437",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dfb11fec2b7%3A0xd09ec2de7973042d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dfb11fec2b7%3A0xd09ec2de7973042d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6567339,
+        "longitude": -70.25958589999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt8L-EfudskwRLQRzed7CntA",
+      "provider_id": "/g/11nnmg7409",
+      "rating": 1.3,
+      "reviews": 3,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "480 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(800) 935-9935",
+      "website": "https://chase.com/locator/?jp_cmp=rb%2FLocalListings%2Faff%2Fatm%2Fna&y_source=1_MjQ1MTMxOTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"ATM must be open 24/7\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm6CQiHT60Wir03QPj_c_eo4jpMr3O9damA1wvbqBD1tfIeDp8ReIzd43PgowXoiLDYw_HvAdlkNRQelnQZCDMMj44z1rP0ipLkf95OR9-N-dozLB8ZoM1DLGVSiTi-9ifWKXmG4lRwueKe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tdXMNXicHcTBboIwGADgJ6q0oTOyZAe0iRhBoSPDeSFb-YFioR2tNuEld97bLPE7fH-_vXPGvgaB6sNVp3Wn4G5hFnpyMLmV0GPQGYuERTaIE56X1bjeFTIp17iSMw6LfKhFDZoOJpvDc9R8jTHxj--fLSOuPQAzGw6HpaFh3ml_0TJln75OHnGjbidegJqK645l2UDpQuYcS5Pe2ujlzCN0Qo1e0u3mqjPC0v3HuywlimRbHS_jniru73CEN08wxqh_LtD0D36lRuQ"
+    },
+    {
+      "position": 2,
+      "title": "ATM (Forest Avenue Mobil)",
+      "place_id": "ChIJVcKURImbskwRQMoBaX7JM6g",
+      "data_id": "0x4cb29b894494c255:0xa833c97e6901ca40",
+      "data_cid": "12120252566948923968",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b894494c255%3A0xa833c97e6901ca40&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b894494c255%3A0xa833c97e6901ca40&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6674414,
+        "longitude": -70.2795627
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVcKURImbskwRQMoBaX7JM6g",
+      "provider_id": "/g/12600brrc",
+      "unclaimed_listing": true,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "518 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open now",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DCBHDpmOLyp10rIFX4PNPA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=114.30264&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UhRAt3icHc1fCsIgHADg2_iWf5ZEBRLViIKoPfYWzpkKbv5Qm-02XavbFF3g-z5vmzOkNSEpR63z6HQB99I-zUBiE4LxWoJLWIWejIxk--zbQTq_ATkE14l6vzvW0F_PEzAaT4cbby7NFqn2rrzTQxZJy6gsNuUnxtBhAwkVsaTIilWFJlkEYxzPabXgCFxWVlD0Xx5hFIzSLz7rONA"
+    },
+    {
+      "position": 3,
+      "title": "Bank of America ATM",
+      "place_id": "ChIJTaYI6k6askwRTNGSuVE4CwQ",
+      "data_id": "0x4cb29a4eea08a64d:0x40b3851b992d14c",
+      "data_cid": "291388524552442188",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a4eea08a64d%3A0x40b3851b992d14c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a4eea08a64d%3A0x40b3851b992d14c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6775417,
+        "longitude": -70.33064329999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTaYI6k6askwRTNGSuVE4CwQ",
+      "provider_id": "/g/1tdsjcrl",
+      "rating": 1,
+      "reviews": 3,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "25-27 Main St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(844) 401-8500",
+      "website": "https://locators.bankofamerica.com/me/westbrook/atm-westbrook-107484.html?utm_source=GMBlisting&utm_medium=organic",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljKM8T8-f0aMRenCPiaSkC1VkUTzM3wxQJrBq9JSvZgLU8nenaRhIit6HlP5THomoLTMEc7zCNq7RbFU2fs0jEbxuu3-fgJiV7p85J-GgYkbG1mvqQJe5HVmDSe3WrC_MzrQYK7g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nerfUHicHcRLjoIwAADQE1WKBEETFw6jYrWGT8E4mwk0pSDQAi1quKFH8DYmvsV7v0qtO7UyjKa0ZlxK3rBRsYFKoZnQMypbg3cKUAWUsfGjgFya2xG7xAUFzHDEhBdUWVx7ZlonZMLW4xmi4adfovj-x0-JK5jIovJQ6YXfBDbxZStPBG-pM3nn3onyXTIvFLxt8-c4WqDgqEqdzrUR2PNrne_N9t6HiNl-2v7GzLoM3j-ehvB6dPj6YUIIQfmdAvEB1RJFCQ"
+    },
+    {
+      "position": 4,
+      "title": "Chase Bank",
+      "place_id": "ChIJNTlCGgGdskwRtiuAGHtzc_0",
+      "data_id": "0x4cb29d011a423935:0xfd73737b18802bb6",
+      "data_cid": "18263067886446717878",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d011a423935%3A0xfd73737b18802bb6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d011a423935%3A0xfd73737b18802bb6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6568,
+        "longitude": -70.25959999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNTlCGgGdskwRtiuAGHtzc_0",
+      "provider_id": "/g/11q2jt7btc",
+      "rating": 3.7,
+      "reviews": 23,
+      "type": "ATM",
+      "types": [
+        "ATM",
+        "Bank"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm",
+        "bank"
+      ],
+      "address": "480 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 387-6939",
+      "website": "https://www.chase.com/locator/banking/us/me/portland/480-congress-st?jp_cmp=rb%2FLocalListings%2Faff%2Fbranch%2Fna&y_source=1_MjQ0MzE2MDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "ATM"
+          ]
+        }
+      ],
+      "user_review": "\"10/10 would recommend\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJ4ujdz_Jsj136XE4pJMKQak2an4I5gRjjU8C945rvy2rUHS4CMZS8UBND-gklja5_y5ZRPiX9Xal1gaInTj_HnO6b3dzv_7ACuW4UgCBMu2eKtm7N6hE7X47d-4xur4m5o72UoHFUVLw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kVmKYXicHcTbboIwGADgJ6qc_lI12YWiC-JwDu0k3pAKpKxCS2jr6SG9921M9l18r2djTK-njtM2wYgrxdva6noolTS1NKNSdQ7vNSo10s4szrb7Q5eAFdWjSLTwgjBfQp-k6x929pmEFeaZEHQcTQAPl7s_0HgHUXrcjel8s0D83AqGizs-Ztu_fJKz1uNsJfeiiOV3eAqqx6Ugs8gegPJonlq_XpuObMJmSXIgFYKbHaDDivhUxZ_09-v6cfVc10XN_yWSb8ipRTw"
+    },
+    {
+      "position": 5,
+      "title": "Bank of America ATM",
+      "place_id": "ChIJVVVVBvqbskwRluxw-VnzvU4",
+      "data_id": "0x4cb29bfa06555555:0x4ebdf359f970ec96",
+      "data_cid": "5673958673319259286",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bfa06555555%3A0x4ebdf359f970ec96&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bfa06555555%3A0x4ebdf359f970ec96&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6576211,
+        "longitude": -70.2573989
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVBvqbskwRluxw-VnzvU4",
+      "provider_id": "/g/1263jnhtp",
+      "rating": 2,
+      "reviews": 3,
+      "type": "ATM",
+      "types": [
+        "ATM",
+        "Financial consultant",
+        "Financial planner"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm",
+        "financial_consultant",
+        "financial_planner"
+      ],
+      "address": "1 City Center, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(844) 401-8500",
+      "website": "https://locators.bankofamerica.com/me/portland/financial-centers-portland-13245.html?utm_source=GMBlisting&utm_medium=organic",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ji4HboYMJSvTB-FNagoUNw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=77.104935&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tun0t3icHc1RCsIgGADg2_g2dbVYCyToIWLQXqqHnsI50x_cfpmmdZuu1W2KLvB9n7eN0YcNYyHOWscEOnt4ahcKL6lBNE5LD4EqHFkqWbSPsZ8kuK2XE8IgWqgOPV6P7Smdd8W-kwYvXSaqvykHeooiaDkrS03-iTMO1PhAslhzYkWzIC-ZRV3TklfNckU8RGUFJ__ljkmUnH8BbXQ5bQ"
+    },
+    {
+      "position": 6,
+      "title": "Maine Savings Federal Credit Union",
+      "place_id": "ChIJR0zgLGSbskwRKnfs6S_dQBc",
+      "data_id": "0x4cb29b642ce04c47:0x1740dd2fe9ec772a",
+      "data_cid": "1675582259239614250",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b642ce04c47%3A0x1740dd2fe9ec772a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b642ce04c47%3A0x1740dd2fe9ec772a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.677811399999996,
+        "longitude": -70.2876694
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR0zgLGSbskwRKnfs6S_dQBc",
+      "provider_id": "/g/11h27znldn",
+      "rating": 4.8,
+      "reviews": 124,
+      "type": "Credit union",
+      "types": [
+        "Credit union"
+      ],
+      "type_id": "credit_union",
+      "type_ids": [
+        "credit_union"
+      ],
+      "address": "883 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 273-6700",
+      "website": "https://www.mainesavings.com/",
+      "description": "Credit union offering personal and car loans, along with other financial services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "user_review": "\"HIGHLY recommend for anyone looking for a solid Credit Union.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYuvCyMYzO5vK0Ogt7_S2dwqR1VMXOEmFOMdtOIcHZzMTidkJ1Hacc3oIaUeCSSzW6UNy6Ju0YHFaDc1Hn43Hy4NiiACwPP947ZeHU98s-sE-SiTuauLqzPM5I_PVmS_aolCg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bY7Fy3icHc3NboIwAADgJ6oUwb8lOxjUFLW2oaDDC2lKU4hA1bYQeMC9w95myy7f9fv5rqx9mg_Pa6pgprRWjXRGvoXurOzsTOjWU08DhAHG26KEprdH7vpoxPlEFv0JEmVXBZuXwyvxr_iL7NsDwaUlsUD3Cad1-Tj6iAsR6JhnMmJsui2zy7g8OpijA98JH3VhgMbwUtfbaKB0E67uEmWb9d-4B6xOHXfn10TxIi7otWUF102kPgcfQgiqfwXofgEHm0PQ"
+    },
+    {
+      "position": 7,
+      "title": "TD Bank",
+      "place_id": "ChIJ95u0jRScskwRu-dvMeBQAuU",
+      "data_id": "0x4cb29c148db49bf7:0xe50250e0316fe7bb",
+      "data_cid": "16501840908471232443",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c148db49bf7%3A0xe50250e0316fe7bb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c148db49bf7%3A0xe50250e0316fe7bb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656493399999995,
+        "longitude": -70.2561052
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ95u0jRScskwRu-dvMeBQAuU",
+      "provider_id": "/g/1hc13rwfq",
+      "rating": 2.6,
+      "reviews": 15,
+      "type": "ATM",
+      "types": [
+        "ATM",
+        "Bank"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm",
+        "bank"
+      ],
+      "address": "1 Portland Sq Suite 4, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 317-8816",
+      "website": "https://locations.td.com/us/1-portland-square-portland-square?y_source=1_MzE0Nzc2MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "ATM"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Good experience with the employees\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlXx2Cs1LP1kazZtwBt0-LuY03hkMFVBgI8hR7ynL5G8oq3S3L_SLMK-YiazwV4kMAngVGVtgWpknPoFJbEksYMbO90sHw_X59C3aSgEVg-6B9_4ZoGcBhW26-cStTn5YdoXjY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GswRPXicHcRdDoIgAADgE5EYWdnWQzqzH1wuHUovzshBYWBBszpgd-g2bX0P3_cjrO3MzHFagQZca942D9PcmVa2UXbA9NXhnQHMAOMsVvs0L9ryOQyNi1NX1u-D7QMLAX5QiIRMliTg66nYT14Ke_FU31CGcJXhZAvouX73ZCSTheIkJpYXnVSpXm6OkTQ0Oe58aFZ9VXp-iOqMR4SDceBXo4OOWSCK4RiwzObKoyddXui8dyGEQPxnQP0AyEVDOA"
+    },
+    {
+      "position": 8,
+      "title": "ATM",
+      "place_id": "ChIJnQ6rdt-bskwRyPPJy89P9tk",
+      "data_id": "0x4cb29bdf76ab0e9d:0xd9f64fcfcbc9f3c8",
+      "data_cid": "15705828504397018056",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bdf76ab0e9d%3A0xd9f64fcfcbc9f3c8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bdf76ab0e9d%3A0xd9f64fcfcbc9f3c8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6494559,
+        "longitude": -70.3156407
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnQ6rdt-bskwRyPPJy89P9tk",
+      "provider_id": "/g/12637nf0n",
+      "rating": 4,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "145 Jetport Blvd, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"It\u2019s an ATM, it runs windows 7.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oKyNlaLKn2_My0HAEdbVRQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=281.64346&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hDq0gnicHc1RCsIgGADg2_iWujXGCiR6CIJVUA-9Duf-VHAq82-223StblN0ge_7vA1iTFvGEk4AOFvI0b7ApVWUVIegHchoE1VhZHPB0DzH3kvrdlH6YAcR2uXi5Kn1ZXde-HF_GPr77UpU3ylnwaNIICdlqM4_cQoD1TGRLBpOjNiUZJFZlE1B62pd1SRaVEZw8l8eYRYF5190OTlx"
+    },
+    {
+      "position": 9,
+      "title": "Bank of America ATM (Drive-thru)",
+      "place_id": "ChIJQWiJWz2bskwRbzw8YczRyrg",
+      "data_id": "0x4cb29b3d5b896841:0xb8cad1cc613c3c6f",
+      "data_cid": "13315685924009163887",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b3d5b896841%3A0xb8cad1cc613c3c6f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b3d5b896841%3A0xb8cad1cc613c3c6f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.701912,
+        "longitude": -70.2887831
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQWiJWz2bskwRbzw8YczRyrg",
+      "provider_id": "/g/11g9fm9c_h",
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "39 Auburn St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(844) 401-8500",
+      "website": "https://locators.bankofamerica.com/me/portland/financial-centers-portland-14941.html?utm_source=GMBlisting&utm_medium=organic",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZzTd3quJ-NQIUWw5i_gM3j2i_c5AHchMuiS_JZ4hczH5XTAjF_XAXhWWINh_IfDoNrcNqL0Bc8xBq7YUvQHpbd50zC6xKAhMVhyp5-tSNpYWQOpdl_jL49bnLNv12Svp6UNSxUg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tfn0O3icHcTdboIwGADQJ6pUse4n2UXdsoBClQEretPEwvpBkBZbkPGGe4S9zZKdi_P7A84Z--x5LfgLpbVqq8FWN6k7V3VuIfXVU8YiaZH1aPBxzHh7nrPS74cdYkmY8zuphYr9ZlULSWggIR7qVOzOa5BzQIqMNu-ioAVwHjIQ4debZjfJ-ghv5eO07R9O-ZgE5lISPL9upj2F-BO-DUEuZebEk4MpW9FE66dLF7FxuUpHs8lZOuXq5b7EGCP4X6LuD_gFRXw"
+    },
+    {
+      "position": 10,
+      "title": "TD Bank ATM",
+      "place_id": "ChIJ59jWahWcskwRErfmyzUAw5Y",
+      "data_id": "0x4cb29c156ad6d8e7:0x96c30035cbe6b712",
+      "data_cid": "10863526957201930002",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c156ad6d8e7%3A0x96c30035cbe6b712&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c156ad6d8e7%3A0x96c30035cbe6b712&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656273,
+        "longitude": -70.25587519999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ59jWahWcskwRErfmyzUAw5Y",
+      "provider_id": "/g/11cs01nrnd",
+      "unclaimed_listing": true,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "Spring St & Union St, 1 Portland Sq Suite 4, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20136\u202fPM",
+        "friday": "8:30\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 317-8816",
+      "website": "https://www.tdbank.com/tdhelps/default.aspx/i-would-like-to-know-which-atm-machines-i-can-use-without-getting-charged-twice/v/38977844/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9CvFxwWCMIfJSpJsFdmx-g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=173.35938&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KEU1lnicHc1RCsIgGADg2_g2dY1oC6SHwWCDnnroMZxz-oObP9N03aZrdZuiC3zf521jxHBmLMRN65hAZ4Rdu1CgpMZ747RECFT5haWSRftcxlWCu6BcPUyiaVO353t77efhhkPopmUvDFHjQznQaxRBy01ZavJP3PxEDQaSRc2JFc2BvGQW5ami1bGpaoIQlRWc_JfZJ1Fy_gWG0zm5"
+    },
+    {
+      "position": 11,
+      "title": "Mainely ATMs",
+      "place_id": "ChIJbU9nR4OdskwR3lDFSeMSyfE",
+      "data_id": "0x4cb29d8347674f6d:0xf1c912e349c550de",
+      "data_cid": "17422477400864018654",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d8347674f6d%3A0xf1c912e349c550de&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d8347674f6d%3A0xf1c912e349c550de&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.652546799999996,
+        "longitude": -70.26694429999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbU9nR4OdskwR3lDFSeMSyfE",
+      "provider_id": "/g/11gw2kb_ln",
+      "rating": 1,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "184 State St, Portland, ME 04101",
+      "country": "United States",
+      "website": "https://mainelyatms.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_VCrcZKBkg29ywXAAusrXg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=129.62624&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Yg196HicHc3BDcIgFADQbbgJlJjGmvyY6tG7abw0lCIQaSHwW-w2ruU2Ghd47_O2iDEfGcuYtMbV6RLdS_u8i5KaEIzXMrpMVZjYWjG0yzTM0vlTlHNwI_S3S1L36_lpRLOVrm2XnDpD1NAr7_SMkLVMylJTfmIKIzUxkwIHTiw0gmyyQCUaWota7El0qCxw8l8eYYWK8y-TyDnc"
+    },
+    {
+      "position": 12,
+      "title": "Mainely ATMs",
+      "place_id": "ChIJUWm5sV-dskwRlPV14d1pz-8",
+      "data_id": "0x4cb29d5fb1b96951:0xefcf69dde175f594",
+      "data_cid": "17280146696935175572",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d5fb1b96951%3A0xefcf69dde175f594&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d5fb1b96951%3A0xefcf69dde175f594&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.65904,
+        "longitude": -70.2504374
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUWm5sV-dskwRlPV14d1pz-8",
+      "provider_id": "/g/11gw280pk7",
+      "rating": 3,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open now",
+      "website": "https://mainelyatms.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xx_EFCcuEUEIdQK1icir7Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=177.90692&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qLZ7_3icHc29DsIgFEDht2GTHwdrTYiDaRPj1MG5oRThJrTcAC31bXwt38bG8Szf-X5czpgujKUcjckrmIKwGZ8OqKgNwXqjEBLVYWKrYNkt0zAr8FdUc4BRblvftDe9NM_mPnYPARpi1RE99NqDmbNMRkXtqC27GMNILSZS5JkTJ-sjeasiRVXRmp_2QsjaSU7-l1dYpeD8B3uWOY4"
+    },
+    {
+      "position": 13,
+      "title": "Citizens Bank ATM",
+      "place_id": "ChIJaV_bhhCcskwRjxpWlmpUKsc",
+      "data_id": "0x4cb29c1086db5f69:0xc72a546a96561a8f",
+      "data_cid": "14351375979334998671",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1086db5f69%3A0xc72a546a96561a8f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1086db5f69%3A0xc72a546a96561a8f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.651443,
+        "longitude": -70.2686548
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaV_bhhCcskwRjxpWlmpUKsc",
+      "provider_id": "/g/1tfx4hk2",
+      "rating": 5,
+      "reviews": 1,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "49 Pine St, Portland, ME 04102",
+      "country": "United States",
+      "website": "https://www.citizensbank.com/search/answers.aspx?query=ATM&referrerPageUrl=https%3A%2F%2Flocations.citizensbank.com%2F&tabOrder=.%2Findex.html%2Clocations%2CFAQ%2Chelp_articles%2Cinvestors_bank_resources%2Chsbc_resources%2Cproducts&facetFilters=%7B%7D&filters=%7B%7D&verticalUrl=locations.html",
+      "extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvYZvOPcRXXwoGW5lRxX2TdNQSeBCRYk29bP0iDdhqZHpjgNPH8nfyTNE9DeE9gZM__IOM16z5BFMkGwfRMPoK65QstCmrrYWtGANKGyzNBSDa7ngYXbpzKCFDCa_SYr3qXrBTTfSvR7gX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BTlMXnicHcTBboIwAADQL0JQg44lOwgoLIRaSxNaLkRrKSq22HYw-cmd9zcmvsP7_2ut7c2n63btciaUEh3_MVwzJS2XdsbU3RW9cZhxjLtJEcSlHGg17CFDhIwqKf0O_ZIFPoNDwcMI0dsiOEHvEp_bR5X2VwFg-iGbJwbbIObbQFR5XX_v8_lq8sNdfkvGBuVQZSv_YGx015qWNtmALHlOICzi41oKSk79lEW7ODrWBdXLB9Ehxk0xoLUgX-Pc8zynfc8c-QKzx0eH"
+    },
+    {
+      "position": 14,
+      "title": "Northeast Bank - Portland",
+      "place_id": "ChIJta1RM0CcskwRsL7LGyklXqQ",
+      "data_id": "0x4cb29c403351adb5:0xa45e25291bcbbeb0",
+      "data_cid": "11843944928521207472",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c403351adb5%3A0xa45e25291bcbbeb0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c403351adb5%3A0xa45e25291bcbbeb0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657842599999995,
+        "longitude": -70.2523837
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJta1RM0CcskwRsL7LGyklXqQ",
+      "provider_id": "/g/1vfzdsc4",
+      "rating": 5,
+      "reviews": 3,
+      "type": "ATM",
+      "types": [
+        "ATM",
+        "Bank",
+        "Financial institution"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm",
+        "bank",
+        "financial_institution"
+      ],
+      "address": "27 Pearl St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134\u202fPM",
+        "thursday": "8:30\u202fAM\u20134\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 774-1426",
+      "website": "http://www.northeastbank.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "ATM"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPwp-WqQ1R4lA1snsQrhmSGcN4BpFwQkxh2VlPFMUmmq1y8mke6hJF8ATz8dMPvnjFyqgLl8DiawBG-hTuUK5xbQWWxqnRn2-CUC6Cp1OCRxQu4-OKg3aVG14GL2vo13YbZXYv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/S9yp93icHcRJDoIwAADAF1UoICEmHhADxpUii3qTSlqlG5ZNP-gb_I2Jc5jvh7at0jPDYNSeECkJqzpdPbEUbSXaCZbcIEoDrIE2_FUSp0UdDwoUDYKJw3yohUZPyo8R3jsLFQ6oHqmVszjcZZw38OXxunLpOvT89O3ddnEvHuGrIVvmLe_XYREBmnbZZjqWqCjGRiTCAkEWuIGChyAZUeeAw4bY1zyCTrS1egntc3k5nfv5AE3TBPQ_BuIHh1JEUQ"
+    },
+    {
+      "position": 15,
+      "title": "ATM - Cumberland Farms",
+      "place_id": "ChIJ_-vLtgubskwRwF03k6SXw_w",
+      "data_id": "0x4cb29b0bb6cbebff:0xfcc397a493375dc0",
+      "data_cid": "18213568051116727744",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b0bb6cbebff%3A0xfcc397a493375dc0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b0bb6cbebff%3A0xfcc397a493375dc0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6862202,
+        "longitude": -70.29287169999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_-vLtgubskwRwF03k6SXw_w",
+      "provider_id": "/g/1tdd08dy",
+      "rating": 1,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "1136 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(800) 786-9666",
+      "website": "http://locator.cardtronics.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gFm1khHC9qd7uu0CRdDzUg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=253.30978&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uxQPWHicHc1RDoIgGADg2_AWoK6pbawHW-u5reeG8AdMlD9BqU7TtbpNrQt83-dtU8K4YyymGSCtDjK6B_i4QUlNCMaDRBepCiNbC5bsMvaTdH6PcgpOC3Mci8Geuvau62Xh3VkfXhdDVH9V3sGURAQ5K0tN_olz0NRgJFk0nFjRluQpsyi3Fa14WzcEXVJWcPJfbmEVBedfd0o5iA"
+    },
+    {
+      "position": 16,
+      "title": "TD Bank",
+      "place_id": "ChIJv9G7I4qbskwR5gJA8jDS4mE",
+      "data_id": "0x4cb29b8a23bbd1bf:0x61e2d230f24002e6",
+      "data_cid": "7053431074080162534",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8a23bbd1bf%3A0x61e2d230f24002e6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8a23bbd1bf%3A0x61e2d230f24002e6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6669597,
+        "longitude": -70.2767542
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv9G7I4qbskwR5gJA8jDS4mE",
+      "provider_id": "/g/1tfchc7_",
+      "rating": 3.1,
+      "reviews": 33,
+      "type": "ATM",
+      "types": [
+        "ATM",
+        "Bank"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm",
+        "bank"
+      ],
+      "address": "449 Forest Ave Ste 1, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 774-1733",
+      "website": "https://locations.td.com/us/449-forest-avenue-portland-forest-ave?y_source=1_MzE0NzQwMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "ATM"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "user_review": "\"He was always professional and cordial and I felt like a valued customer.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnC1RcRYZeuH7E_0dwxCnUnFMU2hYqpJPBhQlLCdj1mHpwvH9g_ZGo5hXSEtJx5E-GWGeFM-aSEKSFewICKKdNnMUGi421w0XuZ8Chya0IkQnCoV-czXTtF1L5xuO3TuLaQJm6Bt1dkrgg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9LbcanicHcTbbsIgAADQL8KCrpsz2cMkvdiL2tusfTENJaC2UAVG9SP3vr9ZsvNwfn-41qNaOU7PFzMmJeupUfROpNBU6BmRg8NGBYgCyvkM8315EBjlJD821IRv3gl2dsKiEn5azfnxNkb7Nc_6BHcXNISj_Q7f2akJpMvrwtPR5HogOATUT0FbeHHhU7vBcdxtRVoF55c5srA2zRLzRws310xg-QXIsy61jxJ3MrtFaZI2i4bXtUbd9c7Yh0UQQsD_J0D8ASdBRnA"
+    },
+    {
+      "position": 17,
+      "title": "Bank of America Financial Center",
+      "place_id": "ChIJfdYEi3SdskwRKxmL2bXqUvU",
+      "data_id": "0x4cb29d748b04d67d:0xf552eab5d98b192b",
+      "data_cid": "17677449554142370091",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d748b04d67d%3A0xf552eab5d98b192b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d748b04d67d%3A0xf552eab5d98b192b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6576211,
+        "longitude": -70.2573989
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfdYEi3SdskwRKxmL2bXqUvU",
+      "provider_id": "/g/1tgn96nf",
+      "rating": 1.9,
+      "reviews": 34,
+      "type": "Bank",
+      "types": [
+        "Bank",
+        "Financial consultant",
+        "Financial planner"
+      ],
+      "type_id": "bank",
+      "type_ids": [
+        "bank",
+        "financial_consultant",
+        "financial_planner"
+      ],
+      "address": "1 City Center, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20134\u202fPM",
+        "thursday": "9\u202fAM\u20134\u202fPM",
+        "friday": "9\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20134\u202fPM",
+        "tuesday": "9\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 874-5576",
+      "website": "https://locators.bankofamerica.com/me/portland/financial-centers-portland-13245.html?utm_source=GMBlisting&utm_medium=organic",
+      "description": "Chain financial center offering personalized guidance from experienced professionals.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "ATM"
+          ]
+        }
+      ],
+      "user_review": "\"They notarized documents without cost.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxjtEC_Bm6-YPQQpGHZmI3rdilLtgfykVBMTMo4Zd5awFbwGFzNNiPTFKMIMcDxPFLnwMWHG6uev-1ddp3ioOKwQO1dSuG-jiCvt6Npk8w0q0e6RUXNOT-QoeOgx1Ld3EhvBM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WdCVvHicHcRJDoIwAADAF1VKUGJMPIiyGCmL4nox2taCLK22UPSB_sHfmDiH-X5ypYScGEaVWwPGOatoK-kT80bRRg0wrw0mJMASSGMWrJNsX_Z35c7PTm2DY5Kmwg9O9dJ6kqIKFbu9yp2DMsSHJzK6aO-qfe8dRUWSeSu0RHjRJ17YaLQPfLulHTAJEVbB45VOY5NsWh_ci3mn7EiUYw0fkNrr7SGKM5ByGrPeDInl5p2DptqEEIL8PwbND0XCRGc"
+    },
+    {
+      "position": 18,
+      "title": "Lynks ATM",
+      "place_id": "ChIJH_6z0T-cskwR9_SwdqJ4P5E",
+      "data_id": "0x4cb29c3fd1b3fe1f:0x913f78a276b0f4f7",
+      "data_cid": "10466216698203665655",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fd1b3fe1f%3A0x913f78a276b0f4f7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fd1b3fe1f%3A0x913f78a276b0f4f7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6558055,
+        "longitude": -70.25438299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH_6z0T-cskwR9_SwdqJ4P5E",
+      "provider_id": "/g/1wf21g41",
+      "rating": 3,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "ATM",
+      "types": [
+        "ATM"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm"
+      ],
+      "address": "432 Fore St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open now",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnD2TRGgw1AaMvDJpB5Q2ejAXydz7JLjmdVBQRRvZk_EpoMngkqgdT1xm1ZPuzHs_E-vBkK95juSZaY6LGVgctTN--wnPf1UTaai7g1X8njWrIr_5MTF2pgO4laekjxrtiJEzUU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Fu_QRHicHcRNUoMwGADQE6UQLFadcQFTbMWiFEN_2DCZED8aIIkkQMsFPYO3cca3eL8_tbXaPDlOW98tQClo-WB4z5S0XNoFU50D2iBmkHGCbZaSo1x7JNvAhAOajOtYh_7e4yI43ap5Fe9EVx3CfZaNRVNGWiUSmm-oCL52uEiHeWvKCI1h8_boi-GzoOf73eYAzJJ3hCaZfuGcUHpZAT49SHHsX_vST8iLp-Fj2VLeiGtvL3E05_nzhF3XRfX_DMk_kDRFkg"
+    },
+    {
+      "position": 19,
+      "title": "Bank of America ATM (Drive-thru)",
+      "place_id": "ChIJL8nREIOeskwRMSjugrf7D9k",
+      "data_id": "0x4cb29e8310d1c92f:0xd90ffbb782ee2831",
+      "data_cid": "15640996796475254833",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e8310d1c92f%3A0xd90ffbb782ee2831&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e8310d1c92f%3A0xd90ffbb782ee2831&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.635026599999996,
+        "longitude": -70.2553039
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL8nREIOeskwRMSjugrf7D9k",
+      "provider_id": "/g/1tff2mwn",
+      "type": "ATM",
+      "types": [
+        "ATM",
+        "Financial consultant",
+        "Financial planner"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm",
+        "financial_consultant",
+        "financial_planner"
+      ],
+      "address": "50 Market St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(844) 401-8500",
+      "website": "https://locators.bankofamerica.com/me/southportland/financial-centers-south-portland-14940.html?utm_source=GMBlisting&utm_medium=organic",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmx2awbaNHqUN4-h3QYFJm2aWHt6snBU_JXkJi7GpVzmRYvTyirYoTCaxJjxA9nCJxhHB9dxKr0gzAnA6veEjlXKToBdngnzfcC6AselfgBIgYdsO02lAnF0FeSype0nm-mHQk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/w5WCd3icHcTdbsIgGADQJ8KyunRxiRe0Wccwcf5Ua69MpQgqfNSCin1A38G3MfFcnOdDed-67yjSajiQ1kotLk503IIX4Afcmki2DnGHXEToYlaUJsT1bVdP6Xk1_URqOK9yZuK6pD5xkK62bHNih6_fdt2bRXUt7oeuskVWB3YMZAQZC4qmoyZMOix7AiS5ip-j3kwKmzYgod_zLCFO6L1M_2TVuH8cawI5zsXy3goMBhk6P41vHxhjpN5zBC-I_0W5"
+    },
+    {
+      "position": 20,
+      "title": "TD Bank",
+      "place_id": "ChIJgcIhRe6bskwROG08_3GNxLs",
+      "data_id": "0x4cb29bee4521c281:0xbbc48d71ff3c6d38",
+      "data_cid": "13530094701280783672",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bee4521c281%3A0xbbc48d71ff3c6d38&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bee4521c281%3A0xbbc48d71ff3c6d38&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658816099999996,
+        "longitude": -70.2973983
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgcIhRe6bskwROG08_3GNxLs",
+      "provider_id": "/g/1tpn24wg",
+      "rating": 3.6,
+      "reviews": 21,
+      "type": "ATM",
+      "types": [
+        "ATM",
+        "Bank"
+      ],
+      "type_id": "atm",
+      "type_ids": [
+        "atm",
+        "bank"
+      ],
+      "address": "1410 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 879-4422",
+      "website": "https://locations.td.com/us/1410-congress-street-westgate?y_source=1_MzE0NzE0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "extensions": [
+        {
+          "service_options": [
+            "Drive-through",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "ATM"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true
+      },
+      "user_review": "\"Elsie was kind and very helpful to my client.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlab3FDLtGW2d-XD-bXbSyEarhD6ynP6FQteqqo7IcfYEResmQRuwiLhG33oqtu5piX3M4VnbVXO0LNf0rvi8IYNfH2s3KsDXRVbaxPM_2rn5HphvxzrjXpMpF30BGIwxhJfrY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D_0GenicHcRLjoIwAADQE1Uq9TOZxMUY5KOgiAbLytBaKAbb0hbBOaB38DaTzFu8z5tbq8y347QcTWop65b1hmkqhWXCTqh8OLUygBpgnJ8wS8-XtiTI92IbXNwbwB4gmJxem1Jzb_ES6cI_WtZ1chnRqthkzDyOWT80MQ8Qkp3t56rBKJnlguT4AON9BfWz-YqKfRW6Bu2Mh7OclGOaXF0t5qHiz_FX37FKlI_gOoiGkW8rXayGKYQQ8P8pEH8_L0Uz"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=ATMs+in+Portland%2C+ME&start=20&type=search"
+  }
+}

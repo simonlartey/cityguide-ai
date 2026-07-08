@@ -1,0 +1,989 @@
+{
+  "search_metadata": {
+    "id": "6a4e6888a0cb101e8531a7f4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pl_XJT7JSA-xO5_hkUNuYQ/6a4e6888a0cb101e8531a7f4.json",
+    "created_at": "2026-07-08 15:11:04 UTC",
+    "processed_at": "2026-07-08 15:11:04 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/FedEx+shipping+near+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/pl_XJT7JSA-xO5_hkUNuYQ/6a4e6888a0cb101e8531a7f4.html",
+    "prettify_html_file": "https://serpapi.com/searches/pl_XJT7JSA-xO5_hkUNuYQ/6a4e6888a0cb101e8531a7f4.prettify",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "FedEx shipping near Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "FedEx shipping near Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJMZU8_fBrYogRK0sAseyM6M8",
+      "data_id": "0x88626bf0fd3c9531:0xcfe88cecb1004b2b",
+      "data_cid": "14981379108657711915",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x88626bf0fd3c9531%3A0xcfe88cecb1004b2b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x88626bf0fd3c9531%3A0xcfe88cecb1004b2b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.7354651,
+        "longitude": -86.64878569999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMZU8_fBrYogRK0sAseyM6M8",
+      "provider_id": "/g/1tdfn_bg",
+      "rating": 4,
+      "reviews": 141,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "address": "4711 University Dr NW, Huntsville, AL 35816",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "12\u20136\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(256) 830-4959",
+      "website": "https://local.fedex.com/en-us/al/huntsville/office-1515?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "description": "Packaging supplies & shipping services. Chain providing office & packaging supplies, plus a variety of services such as shipping & printing.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOfTBYwqBKNsMatK9slf76iGVPYHMr3nMWQu1-D_sdsr_DCoWvKVMnZeLhnRsPdKuH4MS9C0c4ZuN4hqPJLN5Z-VkSAprrfZ9_845obpcDqu4N7LlmGyvMstW403LwDl_j3LuL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HecF6HicHcTdboIwGADQJ6rUUH9YsgsUo5G24lwgcENmBbpZW-jXSvaEPoNvY-K5OM-HdK6HjyBQMpx0xnSq8dBYYbRrtJsIcwu6HpAABEGc8eM13hza71U5DquUA_txaQSqXcx_t3lW7pgNNSuOfoqSGi5g62RtinuaM101VOovyC6p3xF2itZYkMpzIodsT_msQvn1FPfWtlVUL8nMnHuRDJ7wBVW37f-dgSsIDumYqPovpJ5-jlOMMZLvBdIvX79Eig"
+    },
+    {
+      "position": 2,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJt5MnOz9pYogReuSoBR1lHko",
+      "data_id": "0x8862693f3b2793b7:0x4a1e651d05a8e47a",
+      "data_cid": "5340817383431398522",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8862693f3b2793b7%3A0x4a1e651d05a8e47a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8862693f3b2793b7%3A0x4a1e651d05a8e47a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.7464803,
+        "longitude": -86.6830268
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt5MnOz9pYogReuSoBR1lHko",
+      "provider_id": "/g/1v44r47n",
+      "rating": 4.1,
+      "reviews": 36,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "address": "6290 University Dr NW Ste H, Huntsville, AL 35806",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(256) 430-9590",
+      "website": "https://local.fedex.com/en-us/al/huntsville/office-1595?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "description": "Packaging supplies & shipping services. Chain providing office & packaging supplies, plus a variety of services such as shipping & printing.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHrT6QP0CXvL2s4QNWKyptTAGup0biDyZk8wOPFYa6WmdXpEQbSz1yp29LeQNzO1dc4MHUKI_9RTVrlGAdaED9zcav1FH4eSQCev7iGh73SdlnEl3Hc8TV7cgC0jytn-oZAp9qR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PMC_snicHcTbDoIgAADQLyIxnWZbD8y8tMokzS4vzZBpRUBCNv3BvqG_aes8nO-n0VqqqWGwxhrVQtSMvhRtieCacj0i4mHUUgGigDJQmuA7itvcwSn0D91qrGyc7Je91DmKXhJervP-dJ-8N2l4LJ39ozrIAF-ywezl2FtRnAwbsyL2Ot4tF2dvmxcti1BVBnNvIGVnhrFNM-zTzr1GjWtlFeMBs2IyyQuX1D689ZoDcULSe25nbxNCCJr_BPAfJ4hD8A"
+    },
+    {
+      "position": 3,
+      "title": "FedEx Ship Center",
+      "place_id": "ChIJUetadM1lYogRHKYScwPTjOo",
+      "data_id": "0x886265cd745aeb51:0xea8cd3037312a61c",
+      "data_cid": "16901115513383593500",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x886265cd745aeb51%3A0xea8cd3037312a61c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x886265cd745aeb51%3A0xea8cd3037312a61c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.6754496,
+        "longitude": -86.77386709999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUetadM1lYogRHKYScwPTjOo",
+      "provider_id": "/g/11yfq5j8sg",
+      "rating": 3.5,
+      "reviews": 45,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "address": "244 Jetplex Ln, Madison, AL 35758",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20137\u202fPM",
+        "thursday": "8:30\u202fAM\u20137\u202fPM",
+        "friday": "8:30\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20137\u202fPM",
+        "tuesday": "8:30\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/madison/mdra?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-YEXTLISTFEDEXSC",
+      "description": "Packaging supplies & shipping services. Chain providing office & packaging supplies, plus a variety of services such as shipping & printing.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGyVK8PrUeVdtzd9nOewy70i6pmwAF_Q5-V7Bm3W8-0ZsE_ghWLcKUnsYOzHNs8nfo5e58s0Zzb1PJ-23Gj7t2uKQGTJMBP_kwkOiSXqu0avYoPqo9NCKzACPRIta8NJzE3pEAB6m6Uip4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BAhIMHicHcTBboIwGADgJ6pUGVCX7FAMY4KDsg2cXoirFRBpq38ZsQ-5-95myb7D9_vTGqPh0XEurTtrlGouYgRx40oaIc2Mq8FpNCAOCBzKsqKn8b1KCbuVojoae1zKXEz3AHe-Hib6XBceqoJwcLcE4T1EddNuNzwtJexy-5IBkSflCY8A3tuvOUvQwo3PgVmMaRF_JK8hq_upz7v3z-uID987xa5qma1SS1fsbW0OJEts5OqIhv7gl51-eJrmGGPU_s-R_AMufUYs"
+    },
+    {
+      "position": 4,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJhX_aaQsRYogRYL86UlBHVOw",
+      "data_id": "0x8862110b69da7f85:0xec544750523abf60",
+      "data_cid": "17029314501297225568",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8862110b69da7f85%3A0xec544750523abf60&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8862110b69da7f85%3A0xec544750523abf60&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.659383,
+        "longitude": -86.4892213
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhX_aaQsRYogRYL86UlBHVOw",
+      "provider_id": "/g/11h1hx1zd1",
+      "rating": 4.6,
+      "reviews": 20,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "274 Sutton Rd, Big Cove, AL 35763",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/amxph?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqQ7g1KK7guwqmQW1yC8xrLnRf2s0AXGwkcfXwFk9rYCkv1fneEAhDrfzfmvfdCU58Sl2215vSDrWi3yy34fzuVLjet7qFOAaQH0X9lX0Rgdtq1sGzHvdB_5E3Dk2km67Lwmhy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Gurj33icHcRdboIwAADgEyEtjKEmPnSgkkimaBzsyZjSn620SFuocEHP4G1M_B6-54NbezNL3294OGNtyxrSG6JxqyxRdoZb6bOb8bDxjI8O34VAWVfEDO52MetdJ4sSjsn8rnN1pIEBqNo6gWnlNmKhfxMxQKrIGvFU04nKgdbJOZqfmiCA0XBKdfkXjmP4Qaf-J_8nNu42e3QtMlAtmgocWW07aLZTNtRfl2gdpiIQ8jPOneTjykEAgMffY0-9AKBQRTk"
+    },
+    {
+      "position": 5,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJtcY0NofnYYgR0YCJUsflFUo",
+      "data_id": "0x8861e7873634c6b5:0x4a15e5c7528980d1",
+      "data_cid": "5338425577563586769",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8861e7873634c6b5%3A0x4a15e5c7528980d1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8861e7873634c6b5%3A0x4a15e5c7528980d1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.586818199999996,
+        "longitude": -85.99193439999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtcY0NofnYYgR0YCJUsflFUo",
+      "provider_id": "/g/11jmzh_s_q",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "5600 Tammy Little Dr, Section, AL 35771",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "Closed",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/section/hsvdf?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjmaTM76T__lmOiQttRwJaO4-tht4THwD9OFsGInOUG3uJohUJZXnYLPCIBmzKbcB4GGJDvrEZayaWOWfl8FpaG_Bss9c-X7mKhkYZFF1_aEfMpKgzwa2tJAGXZoAx7EwYcPs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ASZDg3icHcTRboIwFADQL6rgJGOa-AATqkUtLhiBF9I1SJ20Jd6rVT9w_-DfLNl5OK9fhTjAzPN6NRl11nZ9e4X2Iq3B1uBIWu11AxAJBLwo3-7OUfKjRbEJ34um6TU_7RC_HBM8IKgwKJZuMeUp0JXhezq5Mqv2rC5Ntc4_V7F-Zt8yDihli9slqcVDHPjh2H-kg6BNDDCVpAx1ps5VnabjRiTHzZB1TyfekEW0rG10DxNXyRzmbuz7PlH_S2L-ADJkRLY"
+    },
+    {
+      "position": 6,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJVTVJy_cTYogRFMWq9ZmCAUc",
+      "data_id": "0x886213f7cb493555:0x47018299f5aac514",
+      "data_cid": "5116514249432810772",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x886213f7cb493555%3A0x47018299f5aac514&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x886213f7cb493555%3A0x47018299f5aac514&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.718114799999995,
+        "longitude": -86.5792548
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVTVJy_cTYogRFMWq9ZmCAUc",
+      "provider_id": "/g/11h79whhrn",
+      "rating": 4.5,
+      "reviews": 14,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "2100 Brandon St SW, Huntsville, AL 35801",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/ahwdf?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECcGMB-N65tGgRerWkxad5xRcD0IgglkDXzfge4Ln3b7raSG4m3vxOhtf1vVmKGXE8JOGekSeYYw-eK1sDZ6mXBsZZxqBNFogJznglDajLDINGH9PWKTkdQVHMhCHBLCdfRPeC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QcdV7XicHcTdboIwGADQJ6pA8G9LdiFUi4KIuChyx8rH16zQOtop8QV9Bt_GxHNxng9h7cV8Ok4r_BFqjS38G-i5VhaUHXHdOXgxhBtinEWW7uViGXK2DUg6nViGOfQnOVT1ZMg5ddeIraTFvUEYJ8r_mfXVgY07_zrshG2867GLWbGcb3YM5AHO5xuB2DO0nHZFYMpy-AvSlcbNXWFLq9-ErlMWfWSn-FvW-2O0FWEUJGHd5BmEXzfPdV0i3nOiXlswRH8"
+    },
+    {
+      "position": 7,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJQQAW8FoNYogRCIHFX0U_oFY",
+      "data_id": "0x88620d5af0160041:0x56a03f455fc58108",
+      "data_cid": "6242058650727579912",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x88620d5af0160041%3A0x56a03f455fc58108&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x88620d5af0160041%3A0x56a03f455fc58108&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.598106,
+        "longitude": -86.5607801
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQQAW8FoNYogRCIHFX0U_oFY",
+      "provider_id": "/g/11jqhllk85",
+      "rating": 4.5,
+      "reviews": 17,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "12879 Memorial Pkwy SW, Huntsville, AL 35803",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "Closed",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/hsvfc?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEihnKUQR3C-JIkCW-hcWBhwAN9ZwinHMt5wNkb4gkJsxIzqFfzyaJb3FU84AO_Y9Gfpefdl-kkZBTy3Il7PxkZNkTMuXS98jYzxNh_nu5h7pI-WqxGtvNTgaaipJyWIgBCJwfiNQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/c2KlZnicHcRdDoIgAADgE5E2c2VbD-r6gRZl2SxfmpGCYUiBod6wI3Sbtr6H7_thWks1tayKOQNa17TKG5W_SC10LvSA1A-LSgWIAsrydzji_rxkYn2M9k4IEORhAhhJAmZ87KWmFKuNdg3m1xHlSLWwfy6KvsvQ1VkcJyN_ezl7y0Lmxa0CnKdB3DmwGu9anmIeb5rTwZvcz32L2UU0LhtLCJJnu9RvHNMsKyXqEkiDEJmixNHMDG3bBuw_AeIHKktGoQ"
+    },
+    {
+      "position": 8,
+      "title": "FedEx Ship Center",
+      "place_id": "ChIJY6Uapu9wY4gRBQ4Q0GD4pPo",
+      "data_id": "0x886370efa61aa563:0xfaa4f860d0100e05",
+      "data_cid": "18060833500353793541",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x886370efa61aa563%3A0xfaa4f860d0100e05&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x886370efa61aa563%3A0xfaa4f860d0100e05&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.6731015,
+        "longitude": -87.01027289999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY6Uapu9wY4gRBQ4Q0GD4pPo",
+      "provider_id": "/g/1q6h_dqcf",
+      "rating": 4.1,
+      "reviews": 123,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "address": "1975 Ridgecrest Dr, Columbia, TN 38401",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/tn/columbia/fyma?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-YEXTLISTFEDEXSC",
+      "description": "Fast, friendly service, packing services and supplies are offered at this store.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5Pbzmu8N0fqXOIP2jQZxGgXjsnEgZZjqed0CtUXIO-Eg9EiE0_jHvq0QlZg5lBTUoVVirVpEgvNVtW0WcjvAwayy2kIZJe1KnLWtnL5mYob7jeBXqO1C0uPI2wnBNWcj_S5Bv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LzgJUXicHcpLjoIwGADgE1V-mBAfiQswjaKGR1TAbojWWqzQgi0wzgXnDN5G4-Zbfa__0phGzyyrKn9GXClesU6zB1XSMGlGVNUWbzSiGmnLi8Pk7mE3Pv_V3SSEa5tHQeyIhPwueS60xJwQ0bILLMwhDyKE-RTfMBRi1beQVIS7lb8_qDS9PdIG8z5MTQYZFb03nJ5P5x6QNbM3cpsZuXXrozqPBfPzNrIX0MWBM0g__Oxi5_r9fLABAJVfKZJvqfRFcg"
+    },
+    {
+      "position": 9,
+      "title": "FedEx Ship Center",
+      "place_id": "ChIJu2xx-H-ZskwR3dB-OfpPgeE",
+      "data_id": "0x4cb2997ff8716cbb:0xe1814ffa397ed0dd",
+      "data_cid": "16249356866654490845",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2997ff8716cbb%3A0xe1814ffa397ed0dd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2997ff8716cbb%3A0xe1814ffa397ed0dd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.65406,
+        "longitude": -70.33766299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu2xx-H-ZskwR3dB-OfpPgeE",
+      "provider_id": "/g/1tdd9fyq",
+      "rating": 3.9,
+      "reviews": 192,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "address": "95 Hutchins Dr, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/me/portland/sfma?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-YEXTLISTFEDEXSC",
+      "description": "Chain branch offering shipping and mailing services, as well as packaging supplies.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPlZYl6Rf4oIAe2eLJb42x1ooz3inwMh5xxxyRMQ4m7ICKY-5klmpRvEooNp02ulqPfz5FYdk_03nkWdc6pvp6ja2wWRxbTlDHyRRuCKzrNy-SglDyauliJvh_qlXYJvHcgPcS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7ICxFXicHcRbjoIwFADQFVUqLxMTP4iOUVSCdRKH-TFaa-tw6a2WR2GDrsHdTOL5OO-Xqmtjp54HKhhJRAmiseLJUddC1yOOlSeNJdwS6yV5ti-TZQ6_BcTsFuI6Eb7YppfQd2PEIbjrbqci51zPdvuwmqznm4JEJVSGtV-ImaF-A4_8NkTL4lqeaKDL45XHpjXx39nvjsxdvmGx6hlr5pvhmfXkIGHRnxu4p606PeCnSNsVlzk_zLoxpZSoz5zof8h5Rrw"
+    },
+    {
+      "position": 10,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJUWWk4OINYogR8oRM6lA9EWs",
+      "data_id": "0x88620de2e0a46551:0x6b113d50ea4c84f2",
+      "data_cid": "7715015054399931634",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x88620de2e0a46551%3A0x6b113d50ea4c84f2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x88620de2e0a46551%3A0x6b113d50ea4c84f2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.6308021,
+        "longitude": -86.5660058
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUWWk4OINYogR8oRM6lA9EWs",
+      "provider_id": "/g/11fl7g4nmv",
+      "rating": 4.8,
+      "reviews": 5,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "11399 S Memorial Pkwy, Huntsville, AL 35803",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "Closed",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/akrzx?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1kGMbl0UsodwnUorZ33ZnYrNSsT1ytg4fAEeFyT1nJmgcYpRbAi5RyPLzlBDlf9oDfgOtAQz0rJtnEZ0xiUfEjAoisYcWqwEJnz2xGk7qtNX23Wecks74eAPFTo6SLACeeZfmBw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g-t28XicHcRLDoIwFADAEyFF_EQTF1WrCVFEhSgsrW1BSh_yahBu6BG8jYmzmO8nt7bGuevq3B8oAKXFC0XDwVhh7IBD5aoaHY4OujQKjyVlXrnd3zRJEO6tSaDJfD8zaROeMfY6q0aSMrHpYs8EleJpfbrRYnzqol2vl2stZ7CW6mDpsSdNYA3LyLtIJHtQKDDll2fLAtMP39ty-rThdehfBC9xOhI02sQwOe_oSohMVst20XqEECf_zx3zA4VbRuc"
+    },
+    {
+      "position": 11,
+      "title": "FedEx Authorized ShipCenter",
+      "place_id": "ChIJZSp1zR4RYogRe0WEA-BRI8E",
+      "data_id": "0x8862111ecd752a65:0xc12351e00384457b",
+      "data_cid": "13917057296078488955",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8862111ecd752a65%3A0xc12351e00384457b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8862111ecd752a65%3A0xc12351e00384457b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.6613007,
+        "longitude": -86.4834944
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZSp1zR4RYogRe0WEA-BRI8E",
+      "provider_id": "/g/11zbwy4g08",
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "address": "6585 Hwy 431 S E, Owens Cross Roads, AL 35763",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(256) 425-0019",
+      "website": "https://local.fedex.com/en-us/al/owens-cross-roads/80552?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-YEXTLISTFASC",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGMrU_Tn1GA8DOBdu8D--2QrbgMz6vJk-dBmgsqgkNQmmFruMrvYkkcccWN0IB03V-dvNnJilF4_Z1eo0tYgbf8PiVJFt64ZpJ7g2yt1A92pbuYkCI-_ITIeKHypASHnTGsyCTdjk4kSBk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g8RXhnicHcTRToMwFADQL7qjMDLRxIeyBQYGHBnOsBcSSi3zQlvbgsGP9N2_WeJ5OH-_g3PaPnneOGw3Qikx8tlyw5R0XLoNU5MntAVmwXr0VFZI08K8tbX0UxodXuN-jg4AQWU6UfzslhyhjydhvwSW1TQlZi7M0iAyxt5LksVke4F-KWV-G5OwvfpcEdeI7iM63S554nbhVecPIlidTx8D3c0N7jNoszrjL8dV0_NR1qld93X_iSGeY3z-9gkhMPzPQN4BLwhGvA"
+    },
+    {
+      "position": 12,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJCZsv7I0XYogRsoqeWjmTD-Q",
+      "data_id": "0x8862178dec2f9b09:0xe40f93395a9e8ab2",
+      "data_cid": "16433515439840987826",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8862178dec2f9b09%3A0xe40f93395a9e8ab2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8862178dec2f9b09%3A0xe40f93395a9e8ab2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.769338499999996,
+        "longitude": -86.4841885
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCZsv7I0XYogRsoqeWjmTD-Q",
+      "provider_id": "/g/11fwc0v6qm",
+      "rating": 3.7,
+      "reviews": 15,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "272 Ryland Pike, Huntsville, AL 35811",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/hsvbk?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxsT60SYyYJfwKitlfX6bp7lyrBINlGiN3TepgkaYAf4kHfk1QWnrDmIt-coE4q53Vy67DC1YQ9ch0PIOPUN_crRYg3vhqtaim9jnBgPJJ7wsA2u4XPTVwC6ZGxVBFyWzgoSmGVw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RblNYXicHcRdboIwAADgExXKQIgmewB_EJawoojWF4MNtIzSIq1WdsMdwdss8Xv4Xn9M60EtbJsz16JSUl7fVT0SKXQttEVkb9NBAaKAskOU5V24farCh3s84bQxX63mzcm_DgGfxijJeNxmblEPtKtw2Hjdtumc_CjGVZ9oQOTau83ccvKD1dLB-ZwwiJJvdMguZNxh6j7YTVdtP_8REUVpGhgVfty9EypKs_TP8bOMNtPxl8p9H5fm0zgQQsDeEyD-AS9wRgg"
+    },
+    {
+      "position": 13,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJHUu5FQplYogR5U-AJzt3VUk",
+      "data_id": "0x8862650a15b94b1d:0x4955773b27804fe5",
+      "data_cid": "5284260833738641381",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8862650a15b94b1d%3A0x4955773b27804fe5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8862650a15b94b1d%3A0x4955773b27804fe5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.648771599999996,
+        "longitude": -86.7431296
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHUu5FQplYogR5U-AJzt3VUk",
+      "provider_id": "/g/11fwc1gk3q",
+      "rating": 4,
+      "reviews": 13,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "495 Old Jim Williams Rd SW, Huntsville, AL 35824",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "Closed",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/hsvdh?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQxkoqQQCnLT-O5DXHCMloEnZ0kdgLB6IQ9JGJB-mFckwXEKz39S4zXhwKqbvaiMpKboBkfdCRxTBJIN7TuyDiPD3Nt-Er9LiiVHklmM_eTPZPsn47Fl7e-b1GT6vgvGjOWDMiZw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0GQmK3icHcTbboIwAADQL6pgUAlL9iAXUW7S2UzCi5FaS9fSoq3g-EM_wb9ZsvNw3q_WmF5_WJZonRlVigry0OSOlTREmhlWnUV7DbAG2lqXBeTrGD65ukEYyAyB_TKstkEuVCRrm19o5q920EvixAfdBvOxitLJ8Q6LqWrH9NYMZ5b3aaN8fr0EX0_kJ7vCRY_fkJWhUxgQ3b2Mse8tF11-IqisSy0X7ka4BDTzGK0GOsQ_-2OYs3r8HOe2bYP2fwzkH8KPRQE"
+    },
+    {
+      "position": 14,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJ4wzKmoNlYogRDRyhRPiLCTg",
+      "data_id": "0x886265839aca0ce3:0x38098bf844a11c0d",
+      "data_cid": "4037912439333919757",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x886265839aca0ce3%3A0x38098bf844a11c0d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x886265839aca0ce3%3A0x38098bf844a11c0d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.728515699999996,
+        "longitude": -86.7870879
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4wzKmoNlYogRDRyhRPiLCTg",
+      "provider_id": "/g/11h79wk36q",
+      "rating": 3.9,
+      "reviews": 9,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "12010 County Line Rd, Madison, AL 35756",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/madison/amrnc?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZNjVKuW_nURBnDb6_3IQNzzg-yPYxEPLLwJMLw3s3oh2D9-Erjvfh2gj8kEK8AUe0BtMGzlIjzJku_0bsgvteFYgaFhF-kwgXMb4pmd-U7KzKYcKOnyW_z8BXTYPRkjDz7V6v8A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jC7UHXicHcTRroIgAADQLyIpW9ndetCprVCzlpa9uCSCgYEL1OIP-4T7N3e75-H8fpkxnf5xnJa5E6oUbUmvyQsraYg0E6yeDu00wBpox8-zg_A314yXqD_XsjgGMmwWtbs9ZNZS8Mmrd5QnybhLk9HVrmKzcAWiFx8ebEa5JyLk-QWBgUk3tt1yuxN9DRtNB0Piit5iFgMx0kvazLvnHRRLZFGF0V5-zrX1gsupyo-Ch3ZZLgbPX49TCCFg_2Mg_wAWeUXY"
+    },
+    {
+      "position": 15,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJX_WeFXBDYogR0YNxZsVkUSA",
+      "data_id": "0x88624370159ef55f:0x205164c5667183d1",
+      "data_cid": "2328753281317307345",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x88624370159ef55f%3A0x205164c5667183d1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x88624370159ef55f%3A0x205164c5667183d1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.900959,
+        "longitude": -86.6712484
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX_WeFXBDYogR0YNxZsVkUSA",
+      "provider_id": "/g/11j6tv2jjn",
+      "rating": 4.8,
+      "reviews": 6,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "9868 Pulaski Pike, Toney, AL 35773",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "Closed",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/toney/hsvbl?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGj1CB5stGtdfP-huN9KKlNrZfbkB4AYzuyg1m_UcKHl735SJ7Wyr9eDG-bbuLxLxaJ8ZFeYy3TnvqGSfM0qiarYOZN-KFgdsiDt3RtFmk4IwEYuh9H9khd3jIP7aueJsYAdBr8yw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/s0VmunicHcRJDoIwAADAF1UgxSAmHkAFBUXcYsrFQCmtsmkXAX_oE_yNiXOY74dJ-RBTTasYHNG2pRVRgnDcNpI0coTbWqMPAbAAQnPiaF86_t2Yu2MhfZkXMWAqssOwinhSZKVrOuitBmrU1zMOV5UFx8fAugzcJgsfZJna9Js-DSaJR9AAT83r6R-Lrf68pRztkgiEHs3FbSHhQXp1aa67JVLMXtkly-F9HVupIoFATu7yydDNOkPXdcD-Y9D8AAGcRd4"
+    },
+    {
+      "position": 16,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJ1S2O1qBnYogRRSFQQxGA1nw",
+      "data_id": "0x886267a0d68e2dd5:0x7cd6801143502145",
+      "data_cid": "8995518117351268677",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x886267a0d68e2dd5%3A0x7cd6801143502145&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x886267a0d68e2dd5%3A0x7cd6801143502145&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.7906684,
+        "longitude": -86.78618449999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1S2O1qBnYogRRSFQQxGA1nw",
+      "provider_id": "/g/11jq0g1wrc",
+      "rating": 5,
+      "reviews": 2,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "2030 Old Railroad Bed Rd, Harvest, AL 35749",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u20139\u202fPM",
+        "saturday": "Closed",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/harvest/hsvge?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyr3ffMa-dFo_EmVgtN6WMavNhPv1c1Je9YIdhAYRws2xeznqtl1aCj9wIGrlavUIpIFoX_bvMBALpATzZokDD-n8s1LhmmkFIhNu5YPwj59RIA9CJSJ9ksDmHbUOm7Fjl6fs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/y8TfLHicHcTbboIwGADgJ6rQGQ812UUV0RJhzMMm3hishQZ6YPwVpg-4d9jbmPhdfP9_0rkGZp6n5HBQWlsqcQPRcmucMG7ArfbKBhAHBB5Nk8-aLu_tsCjiHF1De17qr9Il4-847xKZdpjjSJCMXSXNtj28_YqH-XEK54uK9GzVqrw7sIaF9ni-dPGcbhq6f5xsHQTITAFvpNZ1yGRyG2VpX43IllGyiHYRqSHQ68vhQ0_CSo0LeO-x7_tIvubIPAGBE0Ub"
+    },
+    {
+      "position": 17,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJG8u2ZmkXYogRjq0N8x6MLLs",
+      "data_id": "0x8862176966b6cb1b:0xbb2c8c1ef30dad8e",
+      "data_cid": "13487309048622460302",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8862176966b6cb1b%3A0xbb2c8c1ef30dad8e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8862176966b6cb1b%3A0xbb2c8c1ef30dad8e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.769149399999996,
+        "longitude": -86.4293138
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG8u2ZmkXYogRjq0N8x6MLLs",
+      "provider_id": "/g/11jmzhmqmz",
+      "rating": 3,
+      "reviews": 2,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "1102 Brownsboro Rd, Gurley, AL 35748",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/gurley/hsvci?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaJzUumigQnrX-Coh4Hy39x9QEI8YrMp1kq5B9Fa7fiFpjfwQLCRXb1lYRP6rwNUMhfWe0R05BixcYe9vv9ew1q7EZmADWoQ_-RuCsAQ4aP4UNriGe4L-qLBlSLp-xtE_wj7dXRg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qGxaHHicHcRRboMgAADQE1ExtXUs2Yc6222xRlhMtT-Nowi2KghY3G64I-w2S_o-3t-vsFaZZ8_rxXrFpeQ9mw3TVI6WjXZF5eBxZQA1wHhRkeNbtG8-fsp56DgedQUSKYK37zVaEE7fn2p9UP5t2sRo14Rtt1PX1uEsIdWX39ek2GqXlwfRHhkkcBN3C60Zut8Rc_4Upqchej1KfAZkTkyEg6YIylx3exZkYMri_jNTYLHp2V3DS0X4i_MhhEA8pmD8B-NzRRE"
+    },
+    {
+      "position": 18,
+      "title": "FedEx ShipSite",
+      "place_id": "ChIJ_xBacIJpYogR6US7F6BjSic",
+      "data_id": "0x88626982705a10ff:0x274a63a017bb44e9",
+      "data_cid": "2831184854999844073",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x88626982705a10ff%3A0x274a63a017bb44e9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x88626982705a10ff%3A0x274a63a017bb44e9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.741673,
+        "longitude": -86.663612
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_xBacIJpYogR6US7F6BjSic",
+      "provider_id": "/g/11ng7cnfdg",
+      "rating": 4.3,
+      "reviews": 6,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "5850 University Dr NW, Huntsville, AL 35806",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/00h6p?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzIQqPwsRk2uGoYDfy8P-jk6Vve_x__e3liOvveUziHB7KNQkE2RLBR0T3DW0XPw7zRdhjlrzmIckwCEDsSqh7AitNRJSlNwtGvQ8GGjfEte2Jdz7Eb4HCZQrR65FvzfSkiwYx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tw_NaXicHctLcoIwAADQE0UiWHE60wUKBT9DIfjfMNMYCCQSJTHRXLBn8DZ23Lzde_5RpS7y03E49Qa1EDUnN0l6LDpFOjXA4uzUFwmwBNIJsjRnQWLn-TUzEjH3FotDWD0mGWjZeKtJeS9L4vHmR2uysU0y9Zf_I3LRaorg2gt3cJ8Z36ITbXlvz3PMzCwKZXGlftCoFC0KnhoV63wSx20VKeIuTtaPfkfJ7Jj3aPzxrW1VsMYc7l9mCCEE9C0G3QvWAkX2"
+    },
+    {
+      "position": 19,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJZVv6FUwTYogRpj2BNAkB4Uw",
+      "data_id": "0x8862134c15fa5b65:0x4ce1010934813da6",
+      "data_cid": "5539710155689639334",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8862134c15fa5b65%3A0x4ce1010934813da6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8862134c15fa5b65%3A0x4ce1010934813da6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.6443679,
+        "longitude": -86.54049619999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZVv6FUwTYogRpj2BNAkB4Uw",
+      "provider_id": "/g/11jq0gd1lx",
+      "rating": 5,
+      "reviews": 2,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "1400 SE Weatherly Plz, Huntsville, AL 35803",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/hsvee?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdDhzQNR5hkjoBayLO8TmlTqxTczjQ7sZyUsdpwpRYyWP0HzTn77veAdRdeJYo_Qom69Hxr6J7y3MEhcYjSu6sI6vk11j2bX3fVIH1SxXtJYfPrF6TJnC2bIllhppgJSDU7Ba8Vw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gDppD3icHcTbboIwAADQL0JAYuuW-IBXaDblUlF8MVoqDZS2o1Uuf-gn7G-W7Dyc3zczRulP2-bMm5RSlpw-NW2JFIYKMyGysUulLaItbfvRPq79XbFmY7xPZqyu5PI2fB3muOH4p8dkrGKoL8NRF6pTST6cIicYsYDwRf0iKSjK5TWWDfgI-hYgOHjfG0byKn0CHYJX7brV9H72HlkYuGl_Nih_RO0WYCRW03vIOVOqROn6CJe3edYtOtdxHIv9TyzxB5SVRnY"
+    },
+    {
+      "position": 20,
+      "title": "FedEx OnSite",
+      "place_id": "ChIJXUMp5dRrYogRuVUcqBrrTZk",
+      "data_id": "0x88626bd4e529435d:0x994deb1aa81c55b9",
+      "data_cid": "11046743960731801017",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x88626bd4e529435d%3A0x994deb1aa81c55b9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x88626bd4e529435d%3A0x994deb1aa81c55b9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.771925599999996,
+        "longitude": -86.61624839999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXUMp5dRrYogRuVUcqBrrTZk",
+      "provider_id": "/g/11h1hx3g29",
+      "rating": 4.4,
+      "reviews": 13,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "address": "3500 Mastin Lk Rd NW, Huntsville, AL 35810",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "Closed",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/al/huntsville/aifky?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyBHuYqpWmukDHHxolfdjBV_qqLTJcZSrMjlxZm05fJcHmTAOEv-yjXHaUixPWZcaYpqd748blIYu7HFbsdi7I_u5jxakdrooQVJ0MrP9jbrAkLZlbDcGF-UK4ntfnZp728wC7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xiTRBXicHcRZcoIwAADQE0VSl4ntjB9Ql0hFcepGfhwImyEkIYviCXsGb-NM38d7_dXWKvPlebweDSopK144U2gqhS2EHVDZepUygBpgPD_e7ht_8QywSzp1bl0zx7iXvMxZcLp23eYQUvKrI8Z70sJJGVLcHvzd4g6e7ILT462Pz4SmiepyNJ5mfJ04hJeZyW9ofXUT1qdNrqXcn0IY6fiTZdpvNoRnc7paguPPWNhSEIWG08c3mj0-IISg_p8C8QY1gEZd"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=FedEx+shipping+near+Portland%2C+ME&start=20&type=search"
+  }
+}

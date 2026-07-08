@@ -1,0 +1,1423 @@
+{
+  "search_metadata": {
+    "id": "6a4e67c86e22377136f31526",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dbUKdV3Ay3-FUxtrcwZp2w/6a4e67c86e22377136f31526.json",
+    "created_at": "2026-07-08 15:07:52 UTC",
+    "processed_at": "2026-07-08 15:07:52 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/farmers+market+near+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/dbUKdV3Ay3-FUxtrcwZp2w/6a4e67c86e22377136f31526.html",
+    "prettify_html_file": "https://serpapi.com/searches/dbUKdV3Ay3-FUxtrcwZp2w/6a4e67c86e22377136f31526.prettify",
+    "total_time_taken": 1.12
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "farmers market near Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "farmers market near Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland Farmers' Market",
+      "place_id": "ChIJzYJJYQycskwR4HW1SYk6b7M",
+      "data_id": "0x4cb29c0c614982cd:0xb36f3a8949b575e0",
+      "data_cid": "12929617416525542880",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0c614982cd%3A0xb36f3a8949b575e0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0c614982cd%3A0xb36f3a8949b575e0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658494399999995,
+        "longitude": -70.2723621
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzYJJYQycskwR4HW1SYk6b7M",
+      "provider_id": "/g/11vhqbvjp_",
+      "rating": 4.8,
+      "reviews": 159,
+      "unclaimed_listing": true,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Grocery store"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "grocery_store"
+      ],
+      "address": "92 Deering Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20131\u202fPM",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "7\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "http://www.portlandmainefarmersmarket.org/",
+      "description": "Source for local produce in a park. Seasonal locale featuring weekend vendors selling fruit, vegetables & plants grown in Maine.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Visit often for the best seasonal, freshly picked produce!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHe7UhfHMdbPABjcDwf22e3S6pK9uk-K3er2g2zUkimCXcd671TrYFWhLvyGDOBOSsF1-XOD2xZVjK43UX019g_D0yWLCUQ06wjssJ-0aG8K_lUnrWpyJXQ_SHvzUu2dOzgy0FS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/30ptVHicHcTLDYIwAADQiSqlGBATDyhBIigQrKAXoqW08g8FERZ0Brcx8R3e98P7vhVrSSq5smBNw0o6CNqRpu5p3S9IU0msFYAIICTDPwWFYVMN88w-pg_f2ObEHDOEqBKqraMPBXAU2iGGZlw8q11MUlWTz93Virj7mvamt_VCYckg9kz0vl1yZ6ngGMo6S0w4Re4OB1AdcyEOAN73Kycpcd1F7XSIgyS0XzMeUOrNbIJWuBllCCHg_wmof8kTQ0Q"
+    },
+    {
+      "position": 2,
+      "title": "Windy Hill Farm Market LLC",
+      "place_id": "ChIJuYOLS0qQskwR8DQYDD5bYvI",
+      "data_id": "0x4cb2904a4b8b83b9:0xf2625b3e0c1834f0",
+      "data_cid": "17465622626945217776",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2904a4b8b83b9%3A0xf2625b3e0c1834f0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2904a4b8b83b9%3A0xf2625b3e0c1834f0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.720654599999996,
+        "longitude": -70.3979985
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuYOLS0qQskwR8DQYDD5bYvI",
+      "provider_id": "/g/1tg34tnv",
+      "rating": 4.7,
+      "reviews": 144,
+      "type": "Farm",
+      "types": [
+        "Farm"
+      ],
+      "type_id": "farm",
+      "type_ids": [
+        "farm"
+      ],
+      "address": "115 River Rd, Windham, ME 04062",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20133\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 892-2793",
+      "website": "http://www.windyhillfarmmarket.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Lots of local produce, meat, cheese and handmade items.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBJVEo5eulY-a9e9ZphYqtngEcASLbkycieAqt562KyqZbBmeikeydR07OXGXsaTGfCXg_-zO2iJfRDEYy0j1Hd7AuQkdigAeACI71mwtkfjLIVZ6XiAVPNdf5WEUwobDhZmaa=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/x3XNrXicHcRLDoIwFADAE1WKBokmLqoS_MW_CGwMlEdbCxRsCcELegZvY-Is5vvhxtR6alkFHw2YUqyAVsOLqspAZQZUlRarNaIaaYsc9ydJ_Pkm8JQDbRGhZAKTuOZRYyrmUXLZpbKnAkhjnPFw2zdxOi9BSOizM3YPoR_q5Orni5A90PswFJv8vPSiHj_tVeaS9iQzwQiQxdq1y87I_LlbB_E4FCQ47rPcuXu3TqVLHpdJMutsjDHi_ymqfqIyRV0"
+    },
+    {
+      "position": 3,
+      "title": "Scarborough Farmers\u2019 Market",
+      "place_id": "ChIJ3wu8-I6ZskwReJbP2n6FApk",
+      "data_id": "0x4cb2998ef8bc0bdf:0x9902857edacf9678",
+      "data_cid": "11025521617639806584",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2998ef8bc0bdf%3A0x9902857edacf9678&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2998ef8bc0bdf%3A0x9902857edacf9678&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5896644,
+        "longitude": -70.3394546
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3wu8-I6ZskwReJbP2n6FApk",
+      "provider_id": "/g/11rft9137r",
+      "rating": 4.5,
+      "reviews": 17,
+      "unclaimed_listing": true,
+      "type": "Market",
+      "types": [
+        "Market"
+      ],
+      "type_id": "market",
+      "type_ids": [
+        "market"
+      ],
+      "address": "259 US-1, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM Sun",
+      "hours": "Closed \u00b7 Opens 9\u202fAM Sun",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "9\u202fAM\u20131\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "http://www.mainefarmersmarkets.org/market/scarborough-farmers-market/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Fresh vegetables and nice people\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtgNh66MkVoA2noy1pPqyyT2VoDO0ZOdF9DcAfIjsCfCHMKXGaFktGpyRIPsk9gNmTsRfHIAFNXSiVaFU-3XhEcpz3PHz4TntWdhBghXRVaPX7LtOV0ph9S-LTIPUD40aBIgNi1Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bgwjuHicHcRRbsIgAADQE2GpNZou8QPb0ZIpxVqR7K_BFmoV2MCYekOPsNss8X28v5cOwfmPKLrqZKasVdfu7rtfaU3oTJhJe4uU80B64CPE6H5EOCiql8vdyC2aGzvFjv1MUzPnNq_gd3XGaS5RTy4-67Ny9yWKFo-hcFNNmB9TRW-Nr_uSIEzFYeAtPoJE6E_pngkrn4vGhNNZb5QWNW-ZWG1DxaHT6QFsG8KO-QK2G6LoEO_XjxhCCPR7Ccw_56hEnA"
+    },
+    {
+      "position": 4,
+      "title": "Falmouth Farmers' Market",
+      "place_id": "ChIJvRVpO6eEskwRNq4KZF14FC8",
+      "data_id": "0x4cb284a73b6915bd:0x2f14785d640aae36",
+      "data_cid": "3392468761822539318",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb284a73b6915bd%3A0x2f14785d640aae36&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb284a73b6915bd%3A0x2f14785d640aae36&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.721260099999995,
+        "longitude": -70.23629129999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvRVpO6eEskwRNq4KZF14FC8",
+      "provider_id": "/g/11dz0kj6wv",
+      "rating": 5,
+      "reviews": 9,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "22 Hat Trick Dr, Falmouth, ME 04105",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20131\u202fPM",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "https://cumberlandfalmouthfarmmarket.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4A2YtqJD3NlJD-dJlB7atCmnocvQdqHRE7AfZOGeqFu95jNV2ACFnt2zeJ79RD9711HIoHCLTD3XuBh-kDyL7TcsSXftjP2OTnbG6QxUrrQoLkl1wgNEHPSrSn6mW6nzRfUia=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ivkYVHicHcRJDoIwAADAF1U2pcHEQ6UKEoJsKnrTWkAprdDi9kHf4G9MnMN8P7VSNznVNFZbo0qIitFB0p4IrihXIyJarbpJQCSQGoqjpEHeGJl71QXYiliAwTlgc3hUbssFuSfnzk8XEJWHtUe75eBMrtHWRO6SK_NNA-ik2IGG4a-E74Y5tophXoMGv0KYE5kVpbrG5jrnJ89Onpu-T0TYMONRRQs_zvqM2-3O5u-03FyOs4eh6zqo_xPAf8F2Q5M"
+    },
+    {
+      "position": 5,
+      "title": "William H. Jordan Farm",
+      "place_id": "ChIJdfWXBrSfskwRUkzR9pfNvNQ",
+      "data_id": "0x4cb29fb40697f575:0xd4bccd97f6d14c52",
+      "data_cid": "15329353284226993234",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29fb40697f575%3A0xd4bccd97f6d14c52&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29fb40697f575%3A0xd4bccd97f6d14c52&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.59469,
+        "longitude": -70.249769
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdfWXBrSfskwRUkzR9pfNvNQ",
+      "provider_id": "/g/1tgn4b6g",
+      "rating": 4.5,
+      "reviews": 72,
+      "type": "Farm",
+      "types": [
+        "Farm"
+      ],
+      "type_id": "farm",
+      "type_ids": [
+        "farm"
+      ],
+      "address": "21 Wells Rd, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 767-2740",
+      "website": "http://www.jordansfarm.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Lovely staff, gorgeous produce, looks so good you want to eat it!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxNVjYHLQeWtuSuUi6J7qJFvJo8eBBvwpD-QbZWSDi6Bs9iTmH0VZ2-QTsCaQAn9Tj7dcQL7Di20_Gz9-PGs-yAAmpTy5zYFL5gKCfPPGjtuj6B2ig5CIgY-bGjuU2IzQDBfJ_AA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CF_npHicHcTdboIwGADQJ_qksgBi4kULAUViaEQN3pjZ1dJOKNrWH95wj7C3WbJzcX5_WmsHM_e8a_sxEVqLK3eG35nuLe_thOnOE4MBZsB4uNrQb5y9NnvVLEvKD9Zt3U6GRXQrskehZ5yQx3NIgZ6Ph20qQ2JiWXdLtD_6QGuTfFLcx7WKvhgto1T66JSPMVS5gTfG3VC_g7HJykCsk0tV5co6FRJfiiBZiQbOuXI7fzXSlFyKE8aL5xQhBO3_DPo_lwlDzg"
+    },
+    {
+      "position": 6,
+      "title": "Parsons Farm stand",
+      "place_id": "ChIJdaGJnVqRskwRX5Nix7hXC0A",
+      "data_id": "0x4cb2915a9d89a175:0x400b57b8c762935f",
+      "data_cid": "4614878694301930335",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2915a9d89a175%3A0x400b57b8c762935f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2915a9d89a175%3A0x400b57b8c762935f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.686016699999996,
+        "longitude": -70.4178469
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdaGJnVqRskwRX5Nix7hXC0A",
+      "provider_id": "/g/11vkhs2193",
+      "rating": 4.5,
+      "reviews": 19,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Agricultural production",
+        "Farm shop"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "agricultural_production",
+        "farm_shop"
+      ],
+      "address": "126 Libby Ave, Gorham, ME 04038",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 239-2633",
+      "website": "https://www.facebook.com/share/1Bc51H54mV/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed inside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Clean, Friendly, Great prices for Fresh Products !\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhRr-fVv21AAp-eEHHC8ur7uMkjOZhRdRktND1WSYEoFBAk8veFBtwnUsMRGOKhx-tsOi6F_8P9Ds_QbUjyDsMIafXFrqmECFpgVRcBYAReCerf3nh07p4dBoA5aXC6WHmmu4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DSmbNHicHcRJDoIwFADQE1XAEU1clKFiDKI14rAxWgtVpK39xeGC3sHbmPgW7_sR1moYOc5NdFqlUuWNN8ANU9JyaVtM1U6pATFA4ODFfFnhiaAGFfmj7WGsEY-TJPQbM2jS6prtBT3Tys4jb7PaxYoEuPIfnAT2KdeQ0kk2Ey9kIbv0ycFfDCM4LE_r6zuCdHostsTc6zgkuswpC3aY8pCboiOFO9Ddc6Bw77gN-5ukrpvu-Om5rovEf4bkD_pnRAI"
+    },
+    {
+      "position": 7,
+      "title": "SPRING BROOK FARM and MARKET",
+      "place_id": "ChIJfQtZEJCGskwRlRuK4mHduhE",
+      "data_id": "0x4cb2869010590b7d:0x11badd61e28a1b95",
+      "data_cid": "1277576856795224981",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2869010590b7d%3A0x11badd61e28a1b95&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2869010590b7d%3A0x11badd61e28a1b95&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7942001,
+        "longitude": -70.22265159999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfQtZEJCGskwRlRuK4mHduhE",
+      "provider_id": "/g/1q67s2n_k",
+      "rating": 4.9,
+      "reviews": 36,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Butcher shop",
+        "Cattle farm",
+        "Farm",
+        "Farm shop",
+        "Honey farm",
+        "Meat products store",
+        "Produce market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "butcher_shop",
+        "cattle_farm",
+        "farm",
+        "farm_shop",
+        "honey_farm",
+        "meat_products",
+        "produce_market"
+      ],
+      "address": "168 Greely Rd, Cumberland, ME 04021",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 829-5977",
+      "website": "http://sbfarmandmarket.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": false
+      },
+      "user_review": "\"Nice selection of fresh and frozen meats.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNLx5P5I0qGzvEp6S_gdpSBbWpFH707QTbPi5zWjCTEPpN0sgYby5Bzlkf4Zz1yO3Mw5kq0WZajqR2xGUFM4b9ZDUKfjPF4drp_BUFaxNXXAWdb3DJyaKxTdV5skVq0U-WhGormg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MWJYR3icHcTbEoFAAADQL1ottQwzHgrlmkVZejFtZVNptza6_KFP8DdmnIfz_cRVJeREUbJY7THOWRa9ZFQGPK-ivOoF_KkwIUEggVR0bB9SfWlvG4TRChZW916I4enGQnEyKBHmcgRHB4fiB-pIMnMWWNhQsittkdFl6V3zun67V3c1SgtIPD8pjoPGcs2dRsfe3N3cE2xqYSluhmv6jX256CSk6nzd-pvGCc9IpucCuoDEFi-fbFr3IYQg_h-A_AfFX0VD"
+    },
+    {
+      "position": 8,
+      "title": "Maplewood Farm",
+      "place_id": "ChIJmw46IYGFskwRKywUrPEipy4",
+      "data_id": "0x4cb28581213a0e9b:0x2ea722f1ac142c2b",
+      "data_cid": "3361694068224830507",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb28581213a0e9b%3A0x2ea722f1ac142c2b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb28581213a0e9b%3A0x2ea722f1ac142c2b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.775759,
+        "longitude": -70.242676
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmw46IYGFskwRKywUrPEipy4",
+      "provider_id": "/g/11fvll379b",
+      "rating": 5,
+      "reviews": 14,
+      "unclaimed_listing": true,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "99 Woody Crk Ln, Cumberland, ME 04021",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20137\u202fPM",
+        "thursday": "7\u202fAM\u20137\u202fPM",
+        "friday": "7\u202fAM\u20137\u202fPM",
+        "saturday": "7\u202fAM\u20137\u202fPM",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 831-1908",
+      "website": "https://maplewoodmaine.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Wonderful products, nice people, and a great presentation.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6kY8Pe0BS35h_VaApm_QYZXI3U3S8NnEjDZfWHUlYnu81ZbJZbUBMs_WBOiIQXGgqwUldmknhWgDgZ6_4xfTrJHeto05yd0JB8tDljoJ4ZSqiTTTFjg6ijbdf0JEr6hAf4wI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NEqHAnicHcRRCoIwAADQE5kTTSToQ7HSQZaoqfuR1LmpczO3sC7YHbpN0Pt43w9VapY7XWfU3BAhCMNPiZdGcIW52jRi0skstUZqUnevUTy6gT2WzhUDLzG3tLrd3Xmq4hIVoZmZiRPxw-CjLg8yVvKnY6AaojrzzrLKvUsfxsWJPNaMtdPIaU58guzKenXpAgOsBNi-WwA9R_lsENBCyaNP0_Q4ELsf6rYD8LDY1O2sNdyvBgBAo_8bjf8A5mhELw"
+    },
+    {
+      "position": 9,
+      "title": "Green Spark Farm",
+      "place_id": "ChIJvbqZ3OifskwRvd8o1loZdm8",
+      "data_id": "0x4cb29fe8dc99babd:0x6f76195ad628dfbd",
+      "data_cid": "8031634863392612285",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29fe8dc99babd%3A0x6f76195ad628dfbd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29fe8dc99babd%3A0x6f76195ad628dfbd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5775364,
+        "longitude": -70.24637249999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvbqZ3OifskwRvd8o1loZdm8",
+      "provider_id": "/g/11b73mkh9_",
+      "rating": 5,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Produce market",
+      "types": [
+        "Produce market"
+      ],
+      "type_id": "produce_market",
+      "type_ids": [
+        "produce_market"
+      ],
+      "address": "316 Fowler Rd, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 799-4784",
+      "website": "https://greensparkfarm.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": false
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG96AW6ud_mtRKmhtziAzP210yMoI0xPHa4OSx1GfJm-7AhjxCRbST7J_Rd81YT5rXwptkdowB6jz5J3whzF3lqXgvUc2NYPN3xr60XbcBV6_Q_NkPzrmF0kEh32tXh45zjsh0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tWsOkHicHcRbcoIwFADQFUUCkfiY8SM61RZHjPjCL6YGyi0QgiQKZoHuobtxpufj_L3AmEZPHacCMsiVyqvsrrNWqNpktRkIJZ280UhopB3Gw13JVhPKzvSeJtJEawnG_jLLPRc_N-oL9_zze7jd9-7qJ5BoxKDoF9F1fxgFSZSO3cvBb-OuMWWqujktrB-QDuySVLc4fxyFF154SPqW4vgq5iea7JKw5LaVS1x-APFMDEPfFhrwrHMxxgj-F6h-AwMlRC4"
+    },
+    {
+      "position": 10,
+      "title": "Frith Farm",
+      "place_id": "ChIJXzZrzriiskwRJNXq0qmhN2I",
+      "data_id": "0x4cb2a2b8ce6b365f:0x6237a1a9d2ead524",
+      "data_cid": "7077303090196174116",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a2b8ce6b365f%3A0x6237a1a9d2ead524&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a2b8ce6b365f%3A0x6237a1a9d2ead524&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5775418,
+        "longitude": -70.4255233
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXzZrzriiskwRJNXq0qmhN2I",
+      "provider_id": "/g/1tdm7y1k",
+      "rating": 4.9,
+      "reviews": 69,
+      "type": "Farm",
+      "types": [
+        "Farm",
+        "Farm shop",
+        "Farmers' market"
+      ],
+      "type_id": "farm",
+      "type_ids": [
+        "farm",
+        "farm_shop",
+        "farmers_market"
+      ],
+      "address": "61 Ash Swamp Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20137\u202fPM",
+        "thursday": "7\u202fAM\u20137\u202fPM",
+        "friday": "7\u202fAM\u20137\u202fPM",
+        "saturday": "7\u202fAM\u20137\u202fPM",
+        "sunday": "7\u202fAM\u20137\u202fPM",
+        "monday": "7\u202fAM\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20137\u202fPM"
+      },
+      "website": "http://www.frithfarm.net/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Wonderful fresh vegetables, flowers and farm produce.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFciBQen-TX9RMvBHWX2kyJIqyTttTl-lbG77D1FGYMaqgc9U-ui7tPll0AGMcOCPxX-Cv87Yey7z2erYyzREFxMj_JLf9Fx_BDTKfI_-iV78jo5Jucrulzyrx3gnZrYlCKMSs8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JFx7mHicHcRRboIwGADgE_2CGlMw2QPgQNFOVDZhL0SbWtDaaluUcsGdYbcx8Xv4_v9qY2566ji8Hg-YlIzTVlNFpDBUmAGRV4fdNBAN2gmyr80liEkTbqiAvPC3-BHO98XoYtPF3ebG5Bz4MUFoNoyTEh_ujPjf0DbIZJy7QYLJOsq6AqKHh0pqUT-iqrT99jPu8LlKVyc_7qpwli9PiwqaH-Sd5SRtiWp5b1U3ZuJXlTxa4p32Pp5D13Whfk9AvABG4kTy"
+    },
+    {
+      "position": 11,
+      "title": "Alewives Brook Farm",
+      "place_id": "ChIJX8cHDCZgrUwRI8DSchwHCvk",
+      "data_id": "0x4cad60260c07c75f:0xf90a071c72d2c023",
+      "data_cid": "17945163483978055715",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cad60260c07c75f%3A0xf90a071c72d2c023&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cad60260c07c75f%3A0xf90a071c72d2c023&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5837131,
+        "longitude": -70.21775889999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX8cHDCZgrUwRI8DSchwHCvk",
+      "provider_id": "/g/1tds696z",
+      "rating": 4.2,
+      "reviews": 41,
+      "type": "Farm",
+      "types": [
+        "Farm"
+      ],
+      "type_id": "farm",
+      "type_ids": [
+        "farm"
+      ],
+      "address": "83 Old Ocean House Rd, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 799-7743",
+      "website": "http://www.alewivesbrookfarm.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The owner was wonderful, they had homemade jams, fresh produce and seafood.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHobSvX9AlUnqwGTRhGxAZBVQrXCtjOR3oT7KfcCQvvaO0Dn7bMAJVcMJ_WWE03korT0Frxuzc1QPBJ3_TqaiRZIBf9AzZpdqrOXXPwwilqKnmlnwaK4qR83FuZF5Oc6vATPA2K=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EB_YC3icHcTbDsEwAADQL5qVuiceOgxb2EWx7EWmZkO162Wr7Ad9g7-ROA_n-ym1rtTUtmkJOwXnBc1rlUvCmc6Z7hD-sotKWURZykbhLnqiNb_sm2SC6IEJs8JxuXqj1DlGMpnrRxBDjkf-jcyjpskCsGCjyxZ5R7L1zqfTEsAnlxi48l23pBuFjgfPWGT3ON04twlq0-oqZJAkoTF3Knz2osxkfl_EY-jWqTsIyLBBOEQ9f2a6AACr_E8s9gOdp0Um"
+    },
+    {
+      "position": 12,
+      "title": "La Plata Farmers Market",
+      "place_id": "ChIJFdT9AekIt4kR7QyXHYROzlY",
+      "data_id": "0x89b708e901fdd415:0x56ce4e841d970ced",
+      "data_cid": "6255023261803285741",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b708e901fdd415%3A0x56ce4e841d970ced&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b708e901fdd415%3A0x56ce4e841d970ced&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.532227999999996,
+        "longitude": -76.978465
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFdT9AekIt4kR7QyXHYROzlY",
+      "provider_id": "/g/11ggslz_bh",
+      "rating": 4.6,
+      "reviews": 259,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Community center",
+        "Food court"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "community_center",
+        "food_court"
+      ],
+      "address": "209 Washington Ave, La Plata, MD 20646",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 2\u202fPM",
+      "hours": "Open \u00b7 Closes 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20132\u202fPM",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "9\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(301) 966-7473",
+      "website": "http://laplatafarmersmarket.com/",
+      "description": "Friendly vendors (and trucks) offering locally grown food and handmade goods.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The fresh produce at the big white truck their stuff tastes wonderful.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDHbS68gk1i6VlVZpRT7HWUFAx2urves1ZmHN4Zn5tbSWXCIfS0rQRN4zQYWoPQ-CmZM17tbA_RLStEf1INhIZnjT1oSyQZr6xKWs5ENG09ysBhcZy0Qn8-IVTjYcMq2dJwRQgQg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SsXSvnicHcRZEoIgAADQE5HQYstMH7ZqCxNiWvw0IxlUCia02A07Qrdppvfxvh9pbWkGjpPLVkNoLfLsbrKKa2UzZRtcF44oDeAGGMfbYHL1ZhM_pW5PXNHZjfOYlWHU9ZPtzHs179UjM4gVPm4z1bEpTXbj4ERhRULcfpN9ojcEjAu2Rl2beodwRe30hAIsA6YuEdK0JqxyX8vEdKZ4Dvu1GUnOakhUDwRxdNnz9a15XDxDIogYPhGEEMj_HKgfkuNEhw"
+    },
+    {
+      "position": 13,
+      "title": "Public Market House",
+      "place_id": "ChIJDfzi7RScskwRpEGBcMgTPEo",
+      "data_id": "0x4cb29c14ede2fc0d:0x4a3c13c8708141a4",
+      "data_cid": "5349172209011212708",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14ede2fc0d%3A0x4a3c13c8708141a4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14ede2fc0d%3A0x4a3c13c8708141a4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656940999999996,
+        "longitude": -70.259074
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDfzi7RScskwRpEGBcMgTPEo",
+      "provider_id": "/g/11btv69jcv",
+      "rating": 4.3,
+      "reviews": 150,
+      "type": "Market",
+      "types": [
+        "Market"
+      ],
+      "type_id": "market",
+      "type_ids": [
+        "market"
+      ],
+      "address": "28 Monument Sq 2nd floor, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20138\u202fPM",
+        "friday": "11\u202fAM\u20138\u202fPM",
+        "saturday": "11\u202fAM\u20138\u202fPM",
+        "sunday": "11\u202fAM\u20138\u202fPM",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 284-1016",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"They used to have a large facility and plenty of space.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFX73_jwqDLrc6kKJTgVOkEgqTExQ7JoUHan_KdWi73BmTQ5VJb4rqlZ8G3HOthMFkowb82mgjvj18f8sKMUgzB4CEo2RLgG4km7VByPoYCODbk04r3HPngIesM-lSD-lCDbsM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F3jKBnicHcRNcoIwGADQE0XQUGGccSE_SkEEFFC7cUpKPyQhERKlesDewds441u853-t1EXONI3VeARCAKuusuqJ4KriakREq8FFIiKR1BbJJqWL5cHEp2bo3HVPpjQMMihi6kGXeX-pGYjc_-an8Gd_NrHdZulHEZRG37Eva4X9WNXRkoqhtCYtNLdmbP1aMoxyeNiG44nJdg0rg7ZmYd8TcXRit6S60WM_4fBZyQixnYuY45Yymg9jXddR_Z4g_gLz60OG"
+    },
+    {
+      "position": 14,
+      "title": "Deering Oaks Park",
+      "place_id": "ChIJJ-5-JJedskwRQ5RRduv-v00",
+      "data_id": "0x4cb29d97247eee27:0x4dbffeeb76519443",
+      "data_cid": "5602476748728013891",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d97247eee27%3A0x4dbffeeb76519443&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d97247eee27%3A0x4dbffeeb76519443&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6588394,
+        "longitude": -70.2718884
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ-5-JJedskwRQ5RRduv-v00",
+      "provider_id": "/m/0763r2",
+      "rating": 4.4,
+      "reviews": 383,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20138\u202fPM",
+        "saturday": "6\u202fAM\u20138\u202fPM",
+        "sunday": "6\u202fAM\u20138\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
+      },
+      "website": "https://www.deeringoaks.org/",
+      "description": "Kid-friendly open space featuring ball fields, playgrounds and a splash pad.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Baseball field",
+            "Basketball court",
+            "Has a tennis court",
+            "Picnic tables",
+            "Public restroom",
+            "Slides",
+            "Swings",
+            "Volleyball court"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"From the pond, to the Castle, to the benches and the farmers market.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHs2Ulv1OcsqgtZybnerrbJ7oZoxmaUoYMR8YQM51Anj4myLWcs_VGVnuv26VQ1qGdewyaV3L6YKxMdJTXCgxvTlci9Cp-xNpqWUuExxZBq1BraJPNK0Ew1AhlRTgdNx0hxn_jo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/k_nlTXicHcRdDoIgAADgE5HQf209WHM1S8umlr40RQYVggoqnrAzdJu2vofv-2FaV2ptWZxNRlRKykmrSIOl0EToEZalRSsFsALKsi9-8LYPahzxDp2xqqlOh1yQpsndhUylKbNIJt51mQTeDNniNS2H0w2rR7yPRduN53GA6n1B-iGLJ6d5cjRe4Yb3HTVdyPFztauA8av6FrWOMem2Rtsmcy_-ETo9shm_hrTwDWRGPF5y0yMIIWD_MRA_LptG3A"
+    },
+    {
+      "position": 15,
+      "title": "Fresh Pickins Farm Stand",
+      "place_id": "ChIJY-jJeyyLskwRtwvUt9750aI",
+      "data_id": "0x4cb28b2c7bc9e863:0xa2d1f9deb7d40bb7",
+      "data_cid": "11732433239239035831",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb28b2c7bc9e863%3A0xa2d1f9deb7d40bb7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb28b2c7bc9e863%3A0xa2d1f9deb7d40bb7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.572897,
+        "longitude": -70.2479941
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY-jJeyyLskwRtwvUt9750aI",
+      "provider_id": "/g/11bzt_7f4n",
+      "rating": 4.9,
+      "reviews": 37,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "192 Bowery Beach Rd, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM Fri",
+      "hours": "Closed \u00b7 Opens 12\u202fPM Fri",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "12\u20136\u202fPM",
+        "saturday": "12\u20136\u202fPM",
+        "sunday": "12\u20136\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 650-1168",
+      "website": "http://www.freshpickinsfarm.com/",
+      "description": "Farm selling organic flowers, honey, teas, and tinctures, as well as skin- and hair-care products.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Fresh Pickins was in budget, beautiful, and convenient.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3yxWlnuMQGEoGQ46hZEKXhYEWMK581MOb3XxdRNQCiudzWuRi1oPaYMsNDN0vgluvMcXnu56fDLLZVyR38UWas1hBpfpBXTVYYoigGvbUxLlR7iWYffXBFsZJ0jdBL7tmaYE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Fq4YknicHcRRboIwAADQEyElTDFL_BDtSAZFIWpb_rBAi9aWrC2iB_QOu42J7-P9v4S1g_n2fSnCGdeay9aZ9o9pZVtlZ0zffD4YjxnP-Ot9XlzXMHxMWCqHigTqpPhaiAqmRFCIUTpfBmh3DsnUlHmx6V3zxK7sA72vKTL5Ngcjl25EjCg3X3TbLKtOjzJcHnFtAhEP3RCTw4lS3fNkPB-nTJZRj2nXkfjHVL_g0sRZZG81hat7AADwxGfmqTcq1kTS"
+    },
+    {
+      "position": 16,
+      "title": "Flaherty's Family Farm, Inc.",
+      "place_id": "ChIJjbf50niiskwR7g17V1D9gQc",
+      "data_id": "0x4cb2a278d2f9b78d:0x781fd50577b0dee",
+      "data_cid": "540991951768063470",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a278d2f9b78d%3A0x781fd50577b0dee&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a278d2f9b78d%3A0x781fd50577b0dee&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.585068899999996,
+        "longitude": -70.37987199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjbf50niiskwR7g17V1D9gQc",
+      "provider_id": "/g/1tf6wywp",
+      "rating": 4.7,
+      "reviews": 449,
+      "type": "Produce market",
+      "types": [
+        "Produce market",
+        "Agricultural service",
+        "Live music venue",
+        "Wedding venue"
+      ],
+      "type_id": "produce_market",
+      "type_ids": [
+        "produce_market",
+        "agricultural_service",
+        "live_music_venue",
+        "wedding_venue"
+      ],
+      "address": "123 Payne Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 883-5494",
+      "website": "http://www.flahertysfamilyfarm.com/",
+      "description": "Produce market featuring a selection of baked goods and flowers, plus Christmas trees and live music.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Always a fresh and colorful selection of produce and flowers!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWfXsZokPa30p426ALxxBxVHFu1OofUsGrVBXosKe4xs7vVeNQUE3kZSOvVAyU6gcdMpU5EVt3orty0_BNqZecoVQTPrI4h88Ty2esmWdjO9vQSVo0k5HvFz79no_XzRyPKQeV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hJEsH3icHcRLDoIwFADAEyFV8Ju4gAQ_UYGKFMKGmFohon3Iq1i4oGfwNibOYr6fUqkaF6Z5L61BAVDcxQtFw0EqIdWAw8MsajQ4Gmg6oU8rx0uuKWZQhWeL1PZo4uy1djXbrF7DAK4xrhvmpoA7YWuctkz4NPasKouCljldPCn45VDHY48pCxrVkdz1n5ngwOgpbLZ2OZudupHAR3K5BfOWRgxINd60q346l5Cn_bELd1Sw5XtICDHK_9yQP5-SRZw"
+    },
+    {
+      "position": 17,
+      "title": "King's Farm",
+      "place_id": "ChIJxcrpXWWXskwRb1M_0Tbs7SU",
+      "data_id": "0x4cb297655de9cac5:0x25edec36d13f536f",
+      "data_cid": "2733100269066736495",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb297655de9cac5%3A0x25edec36d13f536f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb297655de9cac5%3A0x25edec36d13f536f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6405944,
+        "longitude": -70.4152532
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxcrpXWWXskwRb1M_0Tbs7SU",
+      "provider_id": "/g/1wj_swc5",
+      "rating": 3.7,
+      "reviews": 89,
+      "unclaimed_listing": true,
+      "type": "Farm",
+      "types": [
+        "Farm",
+        "Farmers' market"
+      ],
+      "type_id": "farm",
+      "type_ids": [
+        "farm",
+        "farmers_market"
+      ],
+      "address": "44 County Rd, Gorham, ME 04038",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 839-5844",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"But nice fresh produce and good prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGV_h0M0g72WgvzGSePNQuCjMidvu-H9AjKvApBOdw-0_8u7Y1SvWoVE5QlmQSkwG7e4kHpGNFn_ERtPNY-9k9tOmvF6vMM1uxUKJCrvHj6fQkuU9AwB3SnSc0JYV4yZeXwmqFy0g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6aumhnicHchLcoIwAADQE0VCtSLOuIiOwOiAYAYs3bCIMUggQfNTb-gRept2unmL9_NutR7V0vP6djphUrKeGkXvRApNhZ4QOXhsVIAooDyUZwVHcdW0MIUs-Dgx-4ox_Vuz6dLr2RqQhKjbWzSuD2cHYLMwQe1je5LV9rPohwJzFwd0xpMxziLRbI86z2oQ8lAfBhvNbZr65lHud5u7Tbr5peCmDJFbT7HABO7qavb8pl9uuEVPyFbOhxCC9l8CxC-7-EUU"
+    },
+    {
+      "position": 18,
+      "title": "Highland Farm",
+      "place_id": "ChIJE9y8gkGfskwRJzmamgTxH9c",
+      "data_id": "0x4cb29f4182bcdc13:0xd71ff1049a9a3927",
+      "data_cid": "15501373444508498215",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29f4182bcdc13%3A0xd71ff1049a9a3927&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29f4182bcdc13%3A0xd71ff1049a9a3927&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5877826,
+        "longitude": -70.3063267
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE9y8gkGfskwRJzmamgTxH9c",
+      "provider_id": "/g/1thkwwfw",
+      "rating": 4.8,
+      "reviews": 168,
+      "type": "Garden center",
+      "types": [
+        "Garden center",
+        "Landscape designer",
+        "Landscaper",
+        "Produce market"
+      ],
+      "type_id": "garden_center",
+      "type_ids": [
+        "garden_center",
+        "landscape_designer",
+        "landscaper",
+        "produce_market"
+      ],
+      "address": "109 Highland Ave, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 883-2861",
+      "website": "https://highland.farm/",
+      "description": "Market featuring locally sourced produce as well as plants, trees and shrubs.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Excellent selection of produce and friendly staff!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOBi_Sctdr6eTFjtcPlU1rkpjDQajeBd6DfMnBFsgCrFtugdzhxu5V2ISKM04DisOJptCwTKjqNj0XQkdLDprklQvc644PVPgOEG6EgqV1KUv4yog9MH03E34EpLntyTq51nA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K62hiXicHcRNjoIwGADQEyFFKokmLkCKP4hARDI7Y0otFmxL-6HjHNA7eBuTeYv3ebcA2i5ct2_9CVeK92y0zFAlgUmYUHV3ubYOtY51w-JQdiHJo9v5SKExAasSAbToT57ptIjLi2BRE8TXTEaJ5SuTwMibv_Z3nNXT7THNEI5vNt9pWD2rVAwHgX7KrtnH2nR9-aABxkVd8JysA8KH2ktPD_xSfJ5tkE98TPRewqsaZp4Ml08PIeS0_1NHfgF_J0Sp"
+    },
+    {
+      "position": 19,
+      "title": "Fresh Start Farms",
+      "place_id": "ChIJKZTnNWmcskwRBaw7csGmLbc",
+      "data_id": "0x4cb29c6935e79429:0xb72da6c1723bac05",
+      "data_cid": "13199389432668204037",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6935e79429%3A0xb72da6c1723bac05&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6935e79429%3A0xb72da6c1723bac05&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.659112199999996,
+        "longitude": -70.2612828
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKZTnNWmcskwRBaw7csGmLbc",
+      "provider_id": "/g/1th62z_1",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Malaysian restaurant"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "malaysian_restaurant"
+      ],
+      "address": "62 Elm St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fAM",
+      "hours": "Open \u00b7 Closes 1\u202fAM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20131\u202fAM",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 761-4769",
+      "website": "http://www.cultivatingcommunity.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fjx2psQ5jQctDpofIJSErw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=164.63286&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/h4LA8XicHc3BDcIgFADQbbgJtGpTTYgXPeitcQBDKQUaCj_wLXUb13IbjQu893lbRMhHxjImrXFxuoBbtc8bkNTEaLyW4DJVcWZLxdA-5z5I508gQ3SDGKe1htztp07hGeJ4vd0vqRDVP5R3OqDIWiZlqSk_McWBGsikiJYTKw41eckiqmZHm23dNgQcKis4-S9jXETF-RerxDoe"
+    },
+    {
+      "position": 20,
+      "title": "Winter Farmers Market",
+      "place_id": "ChIJCRw_BWWcskwRWPnPs3E3H-I",
+      "data_id": "0x4cb29c65053f1c09:0xe21f3771b3cff958",
+      "data_cid": "16293802938337327448",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c65053f1c09%3A0xe21f3771b3cff958&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c65053f1c09%3A0xe21f3771b3cff958&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6799611,
+        "longitude": -70.29360059999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCRw_BWWcskwRWPnPs3E3H-I",
+      "provider_id": "/g/11b6qwj14r",
+      "rating": 4.9,
+      "reviews": 30,
+      "unclaimed_listing": true,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "market"
+      ],
+      "address": "631 Stevens Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Temporarily closed",
+      "hours": "Temporarily closed",
+      "website": "http://www.portlandmainefarmersmarket.org/",
+      "user_review": "\"Great selection of items from a wonderful group of vendors!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5CePWg3Qx894Ahfw8hks9PATLu1Q2LdL0jzuvpMwB7Z8Dd_QWoZMAui8ofxDB_xfzKT8xloSEvKREMLrgtV9dTHXpws3Is1tdwNTDYIwfNsirHJy_HbEbuJ0IVeAPEUfd6kAUdA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iU7mn3icHcTbboIwGADgJ0LKcFtZsosqJKBAYEM83JBITw6khL-1zDf0EXybJfsuvudDaj3Ch-v20l8IpUTPDLCpVYNmg1606uqKEZwWHHBJkZcdiV_XrNgLv5xxsCSSWyw7CApSpcYrX1Kaop-7uY2ZXb2fcEibcq9OGTEXrPgcrpqZ37cVnnv1Hd22X1GWTkLXAa3iw2jBT8DT1OZVeEwsz-EyxZvfJj5HZ7NBSc1IEe04fevIjpJP6yGEHPl_6wx_-_1F3w"
+    }
+  ]
+}

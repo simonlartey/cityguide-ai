@@ -1,0 +1,2994 @@
+{
+  "search_metadata": {
+    "id": "6a4e67dcbd1731c8c09c0750",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rbnkMagvIKuOABrtNnZuMA/6a4e67dcbd1731c8c09c0750.json",
+    "created_at": "2026-07-08 15:08:12 UTC",
+    "processed_at": "2026-07-08 15:08:12 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/quiet+study+cafes+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/rbnkMagvIKuOABrtNnZuMA/6a4e67dcbd1731c8c09c0750.html",
+    "prettify_html_file": "https://serpapi.com/searches/rbnkMagvIKuOABrtNnZuMA/6a4e67dcbd1731c8c09c0750.prettify",
+    "total_time_taken": 0.98
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "quiet study cafes in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "quiet study cafes in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Double Great Coffee",
+      "place_id": "ChIJ32BlUgCdskwRyL5YLJHvVn0",
+      "data_id": "0x4cb29d00526560df:0x7d56ef912c58bec8",
+      "data_cid": "9031669509531418312",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d00526560df%3A0x7d56ef912c58bec8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d00526560df%3A0x7d56ef912c58bec8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6663163,
+        "longitude": -70.2470383
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ32BlUgCdskwRyL5YLJHvVn0",
+      "provider_id": "/g/11lcr76t8v",
+      "rating": 4.7,
+      "reviews": 204,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "100 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20135\u202fPM",
+        "thursday": "6:30\u202fAM\u20135\u202fPM",
+        "friday": "6:30\u202fAM\u20135\u202fPM",
+        "saturday": "6:30\u202fAM\u20135\u202fPM",
+        "sunday": "6:30\u202fAM\u20135\u202fPM",
+        "monday": "6:30\u202fAM\u20135\u202fPM",
+        "tuesday": "6:30\u202fAM\u20135\u202fPM"
+      },
+      "website": "http://www.doublegreatcoffee.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Prepared foods",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"There is plenty of room to sit and read or get some work done.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfQCoQVrJV9EGLoqZcqGBQ0OZS1xZUWHl-aMw_Z0N7sDu6SIQTC4mq25u9YYSElzhAo5QdLq9YnRtrYm0qlwz_Wjy8mdYEnfdMJJMimPluMmDs0MoarPxPT7ukVqwYeOZyuPkP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/67c1w3icHcTbboIwAADQLyrUuyzxAZXoiNV2OEj7Yky5bfRiaRvUH9w3-DcmOw_n9dc6d7MfYSjaSdBo3YjK26rnWrlKuYBrGTY3C7gFNozxkXRxUpONJnmf5lGyO2jDuNmtCTyxbHRn38VegCsaLgweF3br59knOW-m0oxnPqI0S8SzjfWMlAcTUfXleiqhEcPzUvw-lrKkiapLlKboR2LhkdxaiPS1x3d8XvguNwOtTuzhcYdXwwhCCNr_OVBvc4ZGBw"
+    },
+    {
+      "position": 2,
+      "title": "The Proper Cup",
+      "place_id": "ChIJEUB8YYmbskwR5-ry5hUCsbE",
+      "data_id": "0x4cb29b89617c4011:0xb1b10215e6f2eae7",
+      "data_cid": "12804017508683279079",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b89617c4011%3A0xb1b10215e6f2eae7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b89617c4011%3A0xb1b10215e6f2eae7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.667133799999995,
+        "longitude": -70.2788877
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEUB8YYmbskwR5-ry5hUCsbE",
+      "provider_id": "/g/11f16x_j7v",
+      "rating": 4.8,
+      "reviews": 295,
+      "price": "$1\u201320",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "500 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20131\u202fPM",
+        "thursday": "7\u202fAM\u20131\u202fPM",
+        "friday": "7\u202fAM\u20131\u202fPM",
+        "saturday": "7\u202fAM\u20131\u202fPM",
+        "sunday": "8\u202fAM\u20131\u202fPM",
+        "monday": "7\u202fAM\u20131\u202fPM",
+        "tuesday": "7\u202fAM\u20131\u202fPM"
+      },
+      "phone": "(207) 405-4089",
+      "website": "http://thepropercupcoffeehouse.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite",
+            "Vegan options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFmMTZ4X2o3dhgCOgMI8A0%3D&g2lbs=AEzIGDurcM4dT1VR1e96-DxREzwS4z0t9UGgZg91OjN_qekgAC9gKrDrOKPen6sj02PPDm7H-tZI&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Great atmosphere, free wifi and EXCELLENT coffee.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFerJAXxkcpG9N8Ur9ugac2gdMjge82W0xIbpci3t_B_5-t4HMOAoyqwH-Q87VvT026LL_Al8XWFqAL68SxCR4Xwy4pJSsyhpzCH6cEkdwE_DOFfpsIKYWosgsg3nmZV9gV0xL6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CTaStHicHcRbcoIwFADQFUVSoDQ440e0UlR8W0B_mDamlwqSyI0C3aBrcDfO9Hycxz03RmPfssrc6YFSUMorylqoysjK9IQ6W6CRCCRo8dViXfBA1lOetoXQH_6Cfdb-Fb6EDcf5CSSzE9pOvrX4dUw2zF6JccP5kqvu0oRkzd7i247aXhRlvGRpElx45LFtO9q4adO5errFLtd_o9AT4-LYjLP3ZfCjcTLbJwoBwanOh9iHmLaRN2heKKUk_1-Q6gk-uURz"
+    },
+    {
+      "position": 3,
+      "title": "Shaghf cafe",
+      "place_id": "ChIJKbEYIq6bskwR9LwKYw_K25U",
+      "data_id": "0x4cb29bae2218b129:0x95dbca0f630abcf4",
+      "data_cid": "10798446698985864436",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bae2218b129%3A0x95dbca0f630abcf4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bae2218b129%3A0x95dbca0f630abcf4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6705507,
+        "longitude": -70.28372999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKbEYIq6bskwR9LwKYw_K25U",
+      "provider_id": "/g/11xfnj10d_",
+      "rating": 4.7,
+      "reviews": 174,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "645 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20132\u202fAM",
+        "friday": "10\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 766-6018",
+      "website": "https://www.shaghfcoffee.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4Zm5qMTBkXxgAOgMI8A0%3D&g2lbs=AEzIGDvUKaT3p8ltEQ1zNCOS7HQ7B0UgcmVbpBzWESJ2Xsfncxu8arsFsovyqX7KoD_NHzPx2RPb&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The fact that they are open late makes it the best study spot in portland!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-xrvk2rC3c8q_pU8gZ3xq7A_GNR8MfQ8knJgAhBxogPynnoQp-1vVJuin8r9k1eC-DPWIeP7X1EHZeQmBf-OBKP1WK0bcO5OzPvj8Dy6EDh9Rlwz-qZNOQpB2u4A3pK4-oEd40OSDGRwZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sWIQfHicHcTdToMwGADQJ_pGGeg6Ey_KIOiItGXRGW6WWLtWYW2h_G0v6bVvY-K5OL8_ehicfwiCVkcrZa1q5ehlL6wZpBlWwl4C5TwIDz4grOQNyWHpp2bd7yKBu5N7xaqOlm5DTnlZ4Zczx43ZK6KTxSp2NcZyB-H0th-_DO63TSh3kLLjs2Sb9zB7qiW_JGegScHCY4E-BL2jNzZ94_R6n6V6W7XzDbq6pNwl6zEmkStisNlnjOghzau5fpxDhBDo_wWYP1TcRbI"
+    },
+    {
+      "position": 4,
+      "title": "Bard Coffee",
+      "place_id": "ChIJ89hxThWcskwR2KqDLwdWrEM",
+      "data_id": "0x4cb29c154e71d8f3:0x43ac56072f83aad8",
+      "data_cid": "4876367085397322456",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c154e71d8f3%3A0x43ac56072f83aad8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c154e71d8f3%3A0x43ac56072f83aad8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6576744,
+        "longitude": -70.2552393
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ89hxThWcskwR2KqDLwdWrEM",
+      "provider_id": "/g/1v8x1sst",
+      "rating": 4.6,
+      "reviews": 1301,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "185 Middle St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "7\u202fAM\u20135\u202fPM",
+        "sunday": "8\u202fAM\u20135\u202fPM",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 899-4788",
+      "website": "http://www.bardcoffee.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Great atmosphere for an afternoon read, coffee date, or other.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCPUnGBTvlA8FaMx2P3-k2m8SR5K8Qs5wmqk1QoFaEPrPSEValM-2nkw7QZ1NkciNRwqxHCDD3gPpiQfwuhOe-PXIh3ztRNlfcOqvlcLRe949PRqUqHzDx3Iq3JQu47XA5xPp4uA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sitGCXicHcTdbsIgGADQJ8L-0Ma6ZBfM2uk26wfOxeyuIVgMFIpQaXzDPcLeZsnOxfn9kSGM_ilJtMSL3tpei8mLG7cmCBMW3A5JP3rEPfIJgZYq0qzhZF5fPu-aVE23n3PASOVDdWTle0V9GQenMmqbbgM3OG6-Or1HuVFxSb-zVvFry6Kbt-u6xj2MV3qJkzwIBOedxI_AWn3hB3fX_IOJVbEC5k5u-6hnvHP4jU7F8kzKGcZiIs8xS9MUyf85Mn-bXUS9"
+    },
+    {
+      "position": 5,
+      "title": "Coffee ME Up",
+      "place_id": "ChIJN9RKvWucskwRHPjybNDX8-g",
+      "data_id": "0x4cb29c6bbd4ad437:0xe8f3d7d06cf2f81c",
+      "data_cid": "16785997526321002524",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6bbd4ad437%3A0xe8f3d7d06cf2f81c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6bbd4ad437%3A0xe8f3d7d06cf2f81c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6611828,
+        "longitude": -70.2564391
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN9RKvWucskwRHPjybNDX8-g",
+      "provider_id": "/g/11c602ybl8",
+      "rating": 4.8,
+      "reviews": 799,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Pastry shop",
+        "Sandwich shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "pastry_shop",
+        "sandwich_shop"
+      ],
+      "address": "221 Cumberland Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 2\u202fPM",
+      "hours": "Open \u00b7 Closes 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20132\u202fPM",
+        "thursday": "7\u202fAM\u20132\u202fPM",
+        "friday": "7\u202fAM\u20132\u202fPM",
+        "saturday": "7\u202fAM\u20132\u202fPM",
+        "sunday": "7\u202fAM\u20132\u202fPM",
+        "monday": "7\u202fAM\u20132\u202fPM",
+        "tuesday": "7\u202fAM\u20132\u202fPM"
+      },
+      "phone": "(207) 536-1279",
+      "website": "https://coffeemeupportland.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Prepared foods",
+            "Quick bite",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjNjAyeWJsOBgAOgMI8A0%3D&g2lbs=AEzIGDuq-tXO0MGH2trfVIUbFqekQdjHc_-l-jBcGeY3lPlnQzGVWuYBnDF61CfIZBt0aApGX0GW&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"I really appreciate this spot for studying or a stop after a run.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQ6vZhf67bCpPzIBxWKs5mlDoJVyv5U4w6wDnqsegH4XPhSFbG-Qm_v5tfXw7Gm__Tzw8YJuEWP1xATczwHJErdPFOTDrmTmNM87CPdoIK0zB0oBidwPJG3dn_zXTeErNflo0i=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G3a9MXicHcRLjoIwAADQE1VqFDAmLviJYmRKrIpuSCyFGmnL0EqdXtAzeJtJfIv3eTOte7V0nI7NJq2UbUefig5ECk2FnhDJnbZXgCignADlxSNICm-8ssbzb1GP7DZ8nXfK5V0ss9Pf6B7nxjOx-FW03cxLxA7rWwoKXo2ubkrjp7yqsDWLS_ZMzmj6CjCxZpMlQ43WPzgeOOb5fuFHqJbbHbQhlOG9NihLZ7WobIlpMuRNJ-F9ZaYQQsC-EyD-AaTZRXo"
+    },
+    {
+      "position": 6,
+      "title": "Matchamood",
+      "place_id": "ChIJlb_sNS-dskwRG5lQ6cj8f4U",
+      "data_id": "0x4cb29d2f35ecbf95:0x857ffcc8e950991b",
+      "data_cid": "9619685268924700955",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d2f35ecbf95%3A0x857ffcc8e950991b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d2f35ecbf95%3A0x857ffcc8e950991b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653059,
+        "longitude": -70.265531
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlb_sNS-dskwRG5lQ6cj8f4U",
+      "provider_id": "/g/11vdn_4tf_",
+      "rating": 4.8,
+      "reviews": 193,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Cafe",
+      "types": [
+        "Cafe"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe"
+      ],
+      "address": "654 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "website": "http://matchamoodmaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF2ZG5fNHRmXxgAOgMI8A0%3D&g2lbs=AEzIGDt1kykFCINdp_ancaQF-Y0jSIbA-Y-sXiXDjqQMGiNt5EMlQKHWmfDxh0PpnvzYRrlyF4dh&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"They\u2019ve maximized the small space to make it cozy, welcoming, and bright.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHrhrLB6zEk61TcGJVpUFAqcUttEg29SEda12XhcsqM_BkFYeOBN-l0JtcxkBqd3O3BZjsfTfn90BH2sm_cPqLrGS36OxdqfpaMIY5d2kHJnh1L6GilkXtZWsalTDoVXn2ihUGM5h9VsEpS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EM_Z33icHcTbboIwGADgJ6qUEklYsguaIUhAXDiI3hhSDnWtPfDXaPaSu97bLNl38f3-cOcMvHme5MFm0XqR0wOmlWnlJuU2TN-9xQBigMCLj4dPEWcrXwsafici9BuW5p1pd7FlrXPJQqI6GQef9JyBLa9U7M5TRQ9I4tyxl6B2DKqAXr5gbmYVYZoRuF_Z0RZrWgdh9RrtbIZyf96ORGS54n4Rpjcpenc5wSCbD931itx4m5ZbHnWQmPr96WOMEf-fIfUHjDBHXg"
+    },
+    {
+      "position": 7,
+      "title": "Another Round",
+      "place_id": "ChIJx2_KVQCdskwRdhSAx7KIitk",
+      "data_id": "0x4cb29d0055ca6fc7:0xd98a88b2c7801476",
+      "data_cid": "15675491754449048694",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d0055ca6fc7%3A0xd98a88b2c7801476&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d0055ca6fc7%3A0xd98a88b2c7801476&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.655730299999995,
+        "longitude": -70.2619477
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx2_KVQCdskwRdhSAx7KIitk",
+      "provider_id": "/g/11y2bch295",
+      "rating": 4.8,
+      "reviews": 144,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Bar",
+        "Board game club",
+        "Cocktail bar"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "bar",
+        "board_game_club",
+        "cocktail_bar"
+      ],
+      "address": "549 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "10\u202fAM\u201310\u202fPM",
+        "sunday": "10\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "website": "http://www.anotherroundmaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great coffee"
+          ]
+        },
+        {
+          "popular_for": [
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Very welcoming atmosphere with great coffee and friendly staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxLrYjW7UIujfQPbACHMKVCKNupx7rLo3Jak8rT2N-S-h_410V7I9I4mUuAPzvlUNhgsXibMcAF2cVRRSdEnpFCWyzNZpMV9UcHqOEP0u_iVrUhmauiv5LIeEYDthhRei-Ovie=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pGqWjnicHcRZcoIwAADQE0XiNtTO-JFBrFSIiCYuP46mKYkCSbPgckHP0Ns44_t4_0_hnLafQVCJfqdUqqy4t9ww1TjeuA5TdVBqC5gFNkA5Xl7Q1y01u_MmJIk__y7zE4pm2ZxGc-z1LTSp6n8fLx9m3cNgBcRh0IU0TEbJoCYe5Y-2IliUditPGUPTHqNFsfqJGz2NNvcH3uuMjgib_S3iHPqDpIaI-uhlO0wTHu8mToiCS7BoJR9fuxBCIN4z0LwAROdE-g"
+    },
+    {
+      "position": 8,
+      "title": "Coveside Coffee",
+      "place_id": "ChIJxYXMX4ubskwRRXI3BQdbKy4",
+      "data_id": "0x4cb29b8b5fcc85c5:0x2e2b5b0705377245",
+      "data_cid": "3326852835453661765",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8b5fcc85c5%3A0x2e2b5b0705377245&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8b5fcc85c5%3A0x2e2b5b0705377245&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6719035,
+        "longitude": -70.2832904
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxYXMX4ubskwRRXI3BQdbKy4",
+      "provider_id": "/g/11ndxyf48g",
+      "rating": 4.8,
+      "reviews": 114,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "28 Vannah Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 2\u202fPM",
+      "hours": "Open \u00b7 Closes 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20132\u202fPM",
+        "thursday": "7:30\u202fAM\u20132\u202fPM",
+        "friday": "7:30\u202fAM\u20132\u202fPM",
+        "saturday": "8\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20132\u202fPM",
+        "tuesday": "7:30\u202fAM\u20132\u202fPM"
+      },
+      "phone": "(207) 536-0151",
+      "website": "https://coveside-coffee.square.site/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Prepared foods",
+            "Quick bite",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFuZHh5ZjQ4ZxgCOgMI8A0%3D&g2lbs=AEzIGDvESyOH1CbIJ-6nYpG9PoUuzUY_qV0UN7N2j2h7jOeS2UM6CTG-SgT_V3Y1CrEylsQCN_29&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"I love sitting in their shaded outdoor area and the wifi reaches!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGU85yYoJtGr9UD6HI3lNzwlAtTBxaJ_PN_RmEdGEH7EA3Owrs-qeINXJLI1c1XuFrVmfTwWh5vFJQXlR-fRQRKA9E_k3D9tH26IXxkUwOudE8ZVDDMTw_VYs7BMXMUd2ebf5eMbg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qJ2JjHicHcRdDoIgAADgE5Gas7KtB5rkT2np1KgXV4i6iVKCUd2wI3Sbtr6H7_tppLyJpaaxxpzUnNeMjoIOhPeS9nJCeKfVNwGIAEKDhyhuoZstrNeJB9Id7MyZeb7JordiUKbr5yUoDlGRdKh0kTdH0NyrQYA79SMc7HyDGHjcDHlXperYWI9NEGOWgCqJky20UdGaji296czHzzZT-7FEi3PuOGGqivwk5usQh1k5pdfKouG1XilD13XQ_Ceg_wGTSkRC"
+    },
+    {
+      "position": 9,
+      "title": "Speckled Ax",
+      "place_id": "ChIJeXXPBRScskwRwf32Gnf_xuM",
+      "data_id": "0x4cb29c1405cf7579:0xe3c6ff771af6fdc1",
+      "data_cid": "16413086779016936897",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1405cf7579%3A0xe3c6ff771af6fdc1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1405cf7579%3A0xe3c6ff771af6fdc1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.655099899999996,
+        "longitude": -70.26232929999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeXXPBRScskwRwf32Gnf_xuM",
+      "provider_id": "/g/119vv5byb",
+      "rating": 4.5,
+      "reviews": 637,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "567 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fPM",
+      "hours": "Open \u00b7 Closes 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20133\u202fPM",
+        "thursday": "8\u202fAM\u20133\u202fPM",
+        "friday": "8\u202fAM\u20133\u202fPM",
+        "saturday": "8\u202fAM\u20133\u202fPM",
+        "sunday": "8\u202fAM\u20133\u202fPM",
+        "monday": "8\u202fAM\u20133\u202fPM",
+        "tuesday": "8\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(207) 660-3333",
+      "website": "https://speckledax.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Coffee is fantastic, personable staff, quiet coffee house vibe\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqPaWeY5dxDuDQjDF98874lEwsgt9lCE_dkDvCiSfnKWSYiTyyk8kP7EbfZCz_2WhBklZswrgAEYihNB7fWzMbujGtJxPjX3CUk1bQlCgBijncRUpC_PkWA62t3620rSVEB0w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5IvvtXicHcRRToMwAADQEzE6UGBL_IBSTDRbijgr_BAp0EJrYbSs2w7oHbyNie_j_f5wY2a9d13J_Q2bJia7VXcLnZTplNnQ6dtls3aodrQb42Mu4uyMv0hXPrbXdE3zMc12URQ-SGQ1MzsJUd2K9AKHolevpCiH99tNRAKHqOkreK89whMhK20XFqNy4Mck7Mn90Kzjs3m54vHThyexbXIJWTKMir6dZlhjQeLAM37ggaX4QAmwT3YLAHD4_9RRf18_RLw"
+    },
+    {
+      "position": 10,
+      "title": "Smalls",
+      "place_id": "ChIJ2XpQcbOdskwRLvBPulo1DHc",
+      "data_id": "0x4cb29db371507ad9:0x770c355aba4ff02e",
+      "data_cid": "8578290054023082030",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29db371507ad9%3A0x770c355aba4ff02e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29db371507ad9%3A0x770c355aba4ff02e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.647835099999995,
+        "longitude": -70.2614715
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2XpQcbOdskwRLvBPulo1DHc",
+      "provider_id": "/g/11smhsgw0j",
+      "rating": 4.7,
+      "reviews": 315,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Coffee shop",
+        "Restaurant"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "coffee_shop",
+        "restaurant"
+      ],
+      "address": "28 Brackett St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "website": "http://www.smallsisgood.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great tea selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Prepared foods",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"There's seating indoors and outdoors, it's bright and fun.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0wPYPcRuLr6hzxbr0E5BKhHdADCgPkzpadzkkus-m3Cc0rvTzb3JaEQsZYdxSxSUeM8lq_tuGH2MTukoOopnOKKGyVxG0qP3AIC3E4rLaUHdSNQ8XKhQjnvZqi4f0QUCk6N_U=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FrlIuHicHcRdboIwAADgE1U6i8Ys8QGRgKLYDlnUFwIF6VZsoT_KuKBn8DZL_B6-15MZ0-lPx2kZmjRSNm1tda2oFKYWZkLlzWk6DagG2vFwQrgXwgc-Y_pld2rOxqFUMJitYhZV3tpvMB-7oho5txrckE-huh_HEm2LgOjLuRrSIc3q_aLtc2PDaLo_Wi4PshOHOA7_vocQ9hh5Gx8FrtoVWVSlCVmcYkZ-xf3S_7hXSDKfz5M8Wz4-IISAvadA_APUtEWG"
+    },
+    {
+      "position": 11,
+      "title": "Radial Coffee Co Portland",
+      "place_id": "ChIJRWvGamqdskwR45w_OXJ2wQw",
+      "data_id": "0x4cb29d6a6ac66b45:0xcc17672393f9ce3",
+      "data_cid": "919146031919111395",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d6a6ac66b45%3A0xcc17672393f9ce3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d6a6ac66b45%3A0xcc17672393f9ce3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6518873,
+        "longitude": -70.2570473
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRWvGamqdskwR45w_OXJ2wQw",
+      "provider_id": "/g/11y99lr6hm",
+      "rating": 4.6,
+      "reviews": 143,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "383 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20134\u202fPM",
+        "thursday": "7\u202fAM\u20134\u202fPM",
+        "friday": "7\u202fAM\u20134\u202fPM",
+        "saturday": "7\u202fAM\u20134\u202fPM",
+        "sunday": "7\u202fAM\u20134\u202fPM",
+        "monday": "7\u202fAM\u20134\u202fPM",
+        "tuesday": "7\u202fAM\u20134\u202fPM"
+      },
+      "website": "https://www.radialcoffee.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5OTlscjZobRgCOgMI8A0%3D&g2lbs=AEzIGDtpqLsT1J20Md3-6rCP9SLuV-109dpj2tkU-sqrduajCpll35lKHAXrJf9OhPpLMy7rWWC4&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"LOVE the atmosphere, perfect for reading, journaling, chit chatting.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaydmY4Xv62CuKCGT_NXiuOOv_X02sWdUWxPyzJlvIYgGes4g96uC-Vae8m6hv_T3nf2rBKyPtE1n0WywdFEjwpJqYyDRaSvBzBvOBlo-I-17FJPFcr6nhAmQ7gteJRNsI03S_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J1dKKHicHcTbDoIgAADQLyJRm122HtSyaZvaVX1yDgkqBRPE6Af7hv6mrfNwvh8qZSeWhtFQe0I4Jw0eBO4RZxIzOUG8NUgnABJAGG4a7x9uUOm6Laa5cix_2PnbUxnntyFJVJlDS2T1OXul-h01KizIFospWTiDDy4VnrcOVeXJZler93Y6lRuTwUyPdbC5j130LPT6UB2V9_ZU4jUchMCcBVEaoN5h1G33MyJxdIhFCO1juRpNCCGg_xFgP5jEROc"
+    },
+    {
+      "position": 12,
+      "title": "Coffee By Design",
+      "place_id": "ChIJ__awI2-cskwR88yr_342bvc",
+      "data_id": "0x4cb29c6f23b0f6ff:0xf76e367effabccf3",
+      "data_cid": "17829247893889600755",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6f23b0f6ff%3A0xf76e367effabccf3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6f23b0f6ff%3A0xf76e367effabccf3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6661104,
+        "longitude": -70.2565537
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ__awI2-cskwR88yr_342bvc",
+      "provider_id": "/g/1ygjd4c41",
+      "rating": 4.6,
+      "reviews": 712,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "1 Diamond St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20136\u202fPM",
+        "thursday": "7\u202fAM\u20136\u202fPM",
+        "friday": "7\u202fAM\u20136\u202fPM",
+        "saturday": "7\u202fAM\u20136\u202fPM",
+        "sunday": "7\u202fAM\u20136\u202fPM",
+        "monday": "7\u202fAM\u20136\u202fPM",
+        "tuesday": "7\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 874-5400",
+      "website": "http://www.coffeebydesign.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Prepared foods",
+            "Quick bite",
+            "Vegan options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMXlnamQ0YzQxGAI6AwjwDQ%3D%3D&g2lbs=AEzIGDv_GLAOVuDMOc5vuCNXA-QaxAYnVZFkvKqpAI0Pmrdcm2h8gzKkY5tYs04BJ3Nci4ChVUEx&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The space is great for meeting up with people or doing some solo work.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbqreB0aUh_jpwrmVqoJZl65-_AqDC5iDiOV3xj9HHloJEXeSHH8QVarYfLC8yol7xsouMnZ1ioxhM_r_IXGEFDRC694yz-dGeuM8lz_A7NOBkPF45nKJkRom-tkgmDp-G2HI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/izHoAXicHcTdEoFAGADQJ1rlJ2LGRUqtCDEa3OyQ1aZtv9rdRjygd_A2ZpyL8_0wrSs1MQzO-p0MIOO0UVSmIDQVupNCaWSVQqlCynC267hw_Gst6cy8HBh5VE9ZJjWEZz60EHFqz7VyL98k_fYxxphDOD_SPcZ2nFzk6b5y7RfwUaugicS5m0PLIiLJ4hjMfW_nDseD1xvdAtpENn8TZ7TezIqtP7DEMix2UCJdZKVXoaCHF9Nn1zRNxP6nSPwATxVEUQ"
+    },
+    {
+      "position": 13,
+      "title": "Uncharted Tea",
+      "place_id": "ChIJ30lOcdudskwRvvtJzfml9_w",
+      "data_id": "0x4cb29ddb714e49df:0xfcf7a5f9cd49fbbe",
+      "data_cid": "18228220509114989502",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ddb714e49df%3A0xfcf7a5f9cd49fbbe&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ddb714e49df%3A0xfcf7a5f9cd49fbbe&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653106699999995,
+        "longitude": -70.26592389999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ30lOcdudskwRvvtJzfml9_w",
+      "provider_id": "/g/11h8c0_f7t",
+      "rating": 4.7,
+      "reviews": 510,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Bubble tea store",
+        "Lounge bar"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "bubble_tea_store",
+        "lounge"
+      ],
+      "address": "662 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "8\u202fAM\u20137\u202fPM",
+        "sunday": "8\u202fAM\u20137\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 835-0032",
+      "website": "http://www.unchartedtea.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great tea selection"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoOGMwX2Y3dBgAOgMI8A0%3D&g2lbs=AEzIGDsHMdw5U9S4Kgyv8GtbZsTs8zLJ9K5X86PSAuU6GhWNOVpMsf8wpwiaebnQN1CydSre8M1a&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Wonderful atmosphere to relax, read a book, or play privided board games.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGI7ZhlmN_m0qePzsSAfOnK3MPG3uRjEKw9bJ5b6HMuojv5vGPy7kjpnY2PKah0hKyRGiqrwYvnXvM2Cc5xoTV4BL9_sdj2oxhjS65f2Ocv6uXc2CXNET4gXXcPR698ZfgqrSjvlw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bBXO23icHcThEoEwAADgJ0qzFLnzI86FlCnnlj-Oqc3UVq0W3tAjeBt3vh_f98PatlJT0yyYNaBS0iLrVNYQKdpMtAMiS5NWyiDKUKaHov3D89fjEyvK6FyCOkNvlXj5TgRWiHyri_ky6N3rxr46q7CTXNvaR6_xg1cihSi4MMCCV-zf66ZPtcA6hAtiP-XhOJpv3bO6cSifjCeOncMd0U6HCVzgaHkYUYwJih13cspp3SRcF_2sHwIADPafGOIHLkNGKQ"
+    },
+    {
+      "position": 14,
+      "title": "Bom Dia Cafe",
+      "place_id": "ChIJ87IdcgCdskwRjLTSuHWLOMo",
+      "data_id": "0x4cb29d00721db2f3:0xca388b75b8d2b48c",
+      "data_cid": "14571549932085490828",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d00721db2f3%3A0xca388b75b8d2b48c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d00721db2f3%3A0xca388b75b8d2b48c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.660527599999995,
+        "longitude": -70.2499611
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ87IdcgCdskwRjLTSuHWLOMo",
+      "provider_id": "/g/11lcq2s50r",
+      "rating": 4.8,
+      "reviews": 181,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "A\u00e7a\u00ed shop",
+        "Breakfast restaurant",
+        "Cafe",
+        "Gluten-free restaurant",
+        "Health food restaurant",
+        "Toast restaurant",
+        "Vegetarian restaurant"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "acai_shop",
+        "breakfast_restaurant",
+        "cafe",
+        "gluten_free_restaurant",
+        "health_food_restaurant",
+        "toast_restaurant",
+        "vegetarian_restaurant"
+      ],
+      "address": "47 India St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fPM",
+      "hours": "Open \u00b7 Closes 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20133\u202fPM",
+        "thursday": "7\u202fAM\u20133\u202fPM",
+        "friday": "7\u202fAM\u20133\u202fPM",
+        "saturday": "7\u202fAM\u20133\u202fPM",
+        "sunday": "7\u202fAM\u20133\u202fPM",
+        "monday": "7\u202fAM\u20133\u202fPM",
+        "tuesday": "7\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(207) 400-6818",
+      "website": "http://www.bomdiame.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Organic dishes",
+            "Prepared foods",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Catering",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFsY3EyczUwchgAOgMI8A0%3D&g2lbs=AEzIGDsHtu4P61nKrUgi4n6gdCQzxXDVYYaz2IuUJRlA3MqS5i-2eZO66Zjx_YQTcxERC9tan46k&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The location is sunny, welcoming, and has great WiFi.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1eOdCU_gGNEIPYKcgOPRuwUqX-MvOOJOw0Ju0c0TaHDnzhc91TV3fjs23Vvzei8LqQ4bCiCnAx8pyTvRUdAza7uwJvc2_mu5NHcotk1QYJvJ8j5sEgBwL73Eha1LPfEO1OTIC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SJxShHicHcTbTsIwGADgJyprmYRp4sWcDVDnupGNyBUZP6Xl1A570r2gz-DbmPhdfL8_yrnBPiXJVaUTaYy8Cm_FJxjthHYTMLdEDhaBRTbJ66q55JQIfii6nVxUdFVv30Dyeu1jd_9A74FzxiNmHgNu--WrHhU8knaTHs92mm7CKE5ZeW8e9sWp0PlXNny3Yd0d8rGf-8gCTHc3P6uWYNyFNFsWWHaeWSpfYjlPqepJWR8pJ7xdFc-RYIyR-h-Q_gNH40Qp"
+    },
+    {
+      "position": 15,
+      "title": "Tandem Coffee Roasters",
+      "place_id": "ChIJA3VBQW-cskwRIr0AnN6s6kY",
+      "data_id": "0x4cb29c6f41417503:0x46eaacde9c00bd22",
+      "data_cid": "5110086799305260322",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6f41417503%3A0x46eaacde9c00bd22&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6f41417503%3A0x46eaacde9c00bd22&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6669187,
+        "longitude": -70.2558833
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA3VBQW-cskwRIr0AnN6s6kY",
+      "provider_id": "/g/11g__vz0r",
+      "rating": 4.8,
+      "reviews": 404,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Espresso bar",
+      "types": [
+        "Espresso bar",
+        "Cafe",
+        "Coffee shop"
+      ],
+      "type_id": "espresso_bar",
+      "type_ids": [
+        "espresso_bar",
+        "cafe",
+        "coffee_shop"
+      ],
+      "address": "122 Anderson St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20131\u202fPM",
+        "thursday": "7\u202fAM\u20131\u202fPM",
+        "friday": "7\u202fAM\u20131\u202fPM",
+        "saturday": "7\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20131\u202fPM",
+        "tuesday": "7\u202fAM\u20131\u202fPM"
+      },
+      "phone": "(207) 760-4440",
+      "website": "http://tandemcoffee.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Great space, low key ambience and a true passion for great coffee.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuzZELnj-lAk3xZn_EUoc_gI2gR94AER25mtmHxjmkfl9tvKZ3RjdNottm3rQAjCW2Qe_MY2jcTQ1cmyW3rfk_TG8r9A2g3V53gDh3eG22xwOcw4HG7jORRfy0A_4gQS5SXnNz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oBivenicHcRRboMgAADQE6EIms0m-yCb0WWbLdjO1R8-KGJQoBE6rRfcGXabJXsf7_dnCOHqd3E8DThSzqlJ3rychbNB2hAJZ2J19UB44GNyqOlIqtvWFe9Wg4mMeO0sL05OcPWKFMtTUjCUmWCqVZuxn_Lw_dZhpi-1C8HgmRL93CIq-ccZaXGkiTD3Fs_9yI_l45wTpPBnhtXLgGWJ0LrsxZJW5YPeM9bfIeGpok3WfNl6e1oSCCEY_hfA_gF81URY"
+    },
+    {
+      "position": 16,
+      "title": "Buzz Coffee",
+      "place_id": "ChIJ-SlsUsydskwR-ohDP4np1NQ",
+      "data_id": "0x4cb29dcc526c29f9:0xd4d4e9893f4388fa",
+      "data_cid": "15336139406784563450",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dcc526c29f9%3A0xd4d4e9893f4388fa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dcc526c29f9%3A0xd4d4e9893f4388fa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6569454,
+        "longitude": -70.2535626
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-SlsUsydskwR-ohDP4np1NQ",
+      "provider_id": "/g/11sh1fmn3y",
+      "rating": 4.4,
+      "reviews": 190,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "19 Exchange St L, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fPM",
+      "hours": "Open \u00b7 Closes 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20133\u202fPM",
+        "thursday": "8\u202fAM\u20133\u202fPM",
+        "friday": "8\u202fAM\u20133\u202fPM",
+        "saturday": "8\u202fAM\u20133\u202fPM",
+        "sunday": "8\u202fAM\u20133\u202fPM",
+        "monday": "8\u202fAM\u20133\u202fPM",
+        "tuesday": "8\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(207) 405-4822",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"The space is ideal for relaxing or getting some work done.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhhTsmGm3p0M2UO7x0twyiBNFdHuNuHeGGl3A9n0ueXV66ykhYECJpmJjwnKzLJw6B9dZ_Cg3O9Y37ELbib-9PpVt6kBq8yguC55VntQAGFy-TaETvR1bh0DD_epvhP_jlT6BO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RnSDwnicHcRRDoIgAADQE5EUC7OtDzXTWak1c9WPS2VQKlJAZhfsDN2mrffxvh-mlJBzw2gYGtGuow3RkjzKjivC1ajsWoMKCUoJpGEn0a62A8ZS2fotEnA7OcTmC6p-uDrRqgp0pAPi-w2yLQ41OWYYDzU7eW4o2vDW8_V7E_bYsapz7lIUWydkepviWgArEZnCtXOfDVS702nG1c72VwNIL1763I8LBpfLnIgnS_Jbk2InXvRjCCFg_0vAfz2wRA0"
+    },
+    {
+      "position": 17,
+      "title": "Flat Iron Coffee Bar",
+      "place_id": "ChIJG4rDaRWdskwRulnqAFKh9gw",
+      "data_id": "0x4cb29d1569c38a1b:0xcf6a15200ea59ba",
+      "data_cid": "934111346300705210",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d1569c38a1b%3A0xcf6a15200ea59ba&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d1569c38a1b%3A0xcf6a15200ea59ba&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6543238,
+        "longitude": -70.26258
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG4rDaRWdskwRulnqAFKh9gw",
+      "provider_id": "/g/11md1n_8tn",
+      "rating": 4.9,
+      "reviews": 58,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "594 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fPM",
+      "hours": "Open \u00b7 Closes 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20133\u202fPM",
+        "thursday": "7:30\u202fAM\u20133\u202fPM",
+        "friday": "7:30\u202fAM\u20133\u202fPM",
+        "saturday": "7:30\u202fAM\u20133\u202fPM",
+        "sunday": "7:30\u202fAM\u20133\u202fPM",
+        "monday": "7:30\u202fAM\u201312\u202fPM",
+        "tuesday": "7:30\u202fAM\u20133\u202fPM"
+      },
+      "website": "https://www.flatironcoffeebar.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Big space, but no tables - stool seating at a counter.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqTazh3XxBNXVBq7HoYV6eAhzpV1-8748w2YAKVY4jFKkSvSZYt98wMMEusp7hwdwaCXRaxZoefBsmgfjri0tQ8HVW6PAil5vLHBYPsSLYB0xwi9oEvk7pmNsjWOuASsHOIHhS_Yl7tDg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QD3QjXicHcTdTsIwGADQJyorgnSYeNEqpgYYw5qxcmOWWdr9tvB168JDeu_bmHguzu-P8d7BUxS1ZjHT1upWDaBupe296v2stF2kHaASEEQ0TY4N5dfP4m4W-cSSPGNXwq3MVoqau8vmKCbLODxIus3ksn7bNmIUZ-nXcdjvNwM4YsJ3KF7yj2I6W3Vh0OlLfauwP8Y8O61SWrWP444zmYLYSYanUK3tZmyI6xKoT4eBCuCHd27El2yJf9XPYY4xRub_EvV_c-JHyQ"
+    },
+    {
+      "position": 18,
+      "title": "Moonday Coffee",
+      "place_id": "ChIJ3V1kX8SdskwRn36R5PtVhBY",
+      "data_id": "0x4cb29dc45f645ddd:0x168455fbe4917e9f",
+      "data_cid": "1622516306120113823",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dc45f645ddd%3A0x168455fbe4917e9f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dc45f645ddd%3A0x168455fbe4917e9f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.666506299999995,
+        "longitude": -70.2524931
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3V1kX8SdskwRn36R5PtVhBY",
+      "provider_id": "/g/11sqprj6qq",
+      "rating": 4.9,
+      "reviews": 164,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "93 Washington Ave Unit 1, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 9\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+        "sunday": "9\u202fAM\u201312\u202fPM, 1\u20134\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "http://moondaycoffee.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"There's also plenty of room on the bar to set your laptop on.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcc-PaGsdUzh5kAOJukzg_8cqsYrMrbcEXTHXTnWUKKsiCJns2o7fIGXddFi-CZehj7fU2UXh9ns4y_2AZOclt7RzN32w3a2zRIH48L1kCD7OYpLbiYt7eB3krAmPxULsnDUo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TahZ8HicHcTdboIwGADQJ6pgwdSZeNHhvyhobAbeGP2olBVbxlej8oC-w95myc7F-X0r5xoceV6tgl5pbVnLO8oWrHHSuB7Ym1c2SAAJejzd7jSfAZD0PMdCdGqgebK66648DeEH83bTXmCaHRbZwXyJ9RqraGWQWnZdzrOimFUkOkr1za6Cikx9GAxfJ8qPCdSO7bttQB_BmXb75SIcxn0dTViSN_Glyh2Tn4Fu-S19ihjNRNjxo-_7PlH_AzF_V4BEjw"
+    },
+    {
+      "position": 19,
+      "title": "Ugly duckling Maine",
+      "place_id": "ChIJGVCGegidskwRpW8dDFo_xIk",
+      "data_id": "0x4cb29d087a865019:0x89c43f5a0c1d6fa5",
+      "data_cid": "9927129134614278053",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d087a865019%3A0x89c43f5a0c1d6fa5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d087a865019%3A0x89c43f5a0c1d6fa5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.647303,
+        "longitude": -70.26572519999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGVCGegidskwRpW8dDFo_xIk",
+      "provider_id": "/g/11kb2rtdwv",
+      "rating": 4.4,
+      "reviews": 309,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "246 Danforth St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fPM",
+      "hours": "Open \u00b7 Closes 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20133\u202fPM",
+        "thursday": "7\u202fAM\u20133\u202fPM",
+        "friday": "7\u202fAM\u20133\u202fPM",
+        "saturday": "7\u202fAM\u20133\u202fPM",
+        "sunday": "7\u202fAM\u20133\u202fPM",
+        "monday": "7\u202fAM\u20133\u202fPM, 5\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(207) 536-1819",
+      "website": "https://www.uglyducklingmaine.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Latino-owned",
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great tea selection",
+            "Live performances",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Prepared foods",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFrYjJydGR3dhgAOgMI8A0%3D&g2lbs=AEzIGDsdyzZIVdoV1l__pUAsc4ec5VPd0uerJ-Y5gPoweXz5MA3ugQSPssYyIULbFMsHrxx1jh84&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Walked 15mins in the heat for this book tucked away in a residential area.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEM6XZQqJ6ojck71TZmZSriYSNPXJfL4dKntDh-iw9k3hMssCt6gFKnjCushJ4hBHZmOapdD4L_EJpklgj20jzVt5oiPchJN3AIPLxHXN-1y3gtEcVLzDV36Cli-q3RhBdGQHqS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/23r5g3icHcRLDoIwFADAE1XAIkYTFwgoVkQQQ5CNMQX7-LVga_xc0DN4GxNnMd8PKNXLuaa1gEdMCNaWd1neqOCq5GpERaexXiIqkdTsKIwb29tZWR4PxBI1babGMe_y5FadkjDKyDUwiy1XLqDqMWsw7KR0lMVWW147dwnEhKWfd_tLX7hmcPZI37SsHuv1O1UTUUUUSIjtTRQ8_SxExgsz5dE0eLsptpy2QgM-wLJYx_6QLB6GrusI_lPEf2Q7RFs"
+    },
+    {
+      "position": 20,
+      "title": "Tandem Coffee and Bakery",
+      "place_id": "ChIJL491KBCcskwRUaDKulH16y8",
+      "data_id": "0x4cb29c1028758f2f:0x2febf551bacaa051",
+      "data_cid": "3453123270684614737",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1028758f2f%3A0x2febf551bacaa051&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1028758f2f%3A0x2febf551bacaa051&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653094599999996,
+        "longitude": -70.2705388
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL491KBCcskwRUaDKulH16y8",
+      "provider_id": "/g/11b61qcjym",
+      "rating": 4.7,
+      "reviews": 1743,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Bakery",
+        "Coffee shop",
+        "Cookie shop",
+        "Espresso bar",
+        "Pie shop"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "bakery",
+        "coffee_shop",
+        "cookie_shop",
+        "espresso_bar",
+        "pie_shop"
+      ],
+      "address": "742 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fPM",
+      "hours": "Open \u00b7 Closes 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20131\u202fPM",
+        "thursday": "8\u202fAM\u20131\u202fPM",
+        "friday": "8\u202fAM\u20131\u202fPM",
+        "saturday": "8\u202fAM\u20131\u202fPM",
+        "sunday": "8\u202fAM\u20131\u202fPM",
+        "monday": "8\u202fAM\u20131\u202fPM",
+        "tuesday": "8\u202fAM\u20131\u202fPM"
+      },
+      "phone": "(207) 760-4440",
+      "website": "http://www.tandemcoffee.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiNjFxY2p5bRgCOgMI8A0%3D&g2lbs=AEzIGDv2SklAkBWw7IGjqSA330TKExC_BDW5N-P_SlwDRWPW08iMPZIWEd_40L3BHyol-LQDb3d4&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=3GdOapbnOq6rptQP4NWkoQ8&ei=3GdOapbnOq6rptQP4NWkoQ8&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Grab a coffee, chai latte and 3 breakfast sandwiches just for yourself!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHHfn7BxSB3xNgmEVifmOpAt9k6ZeolhwHmPMk1As7xb50gs664QMCkM0K6jr0-5_tXXyjT8JthLtF-AqB0WjWt3-b_VpUWNmKY0tuUECHxbSL5vV6cgu1wJ0BfkFn1vdmC8g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/La0WPXicHcTRboIwFADQL6pcwqi6xIdCNI0K0zjB7cWEDtpR2qK9CP7g_mF_s2Tn4fz-KMTevwZBp6KZdE529eDru3AWa4sz4Uwge0-EJz5gh_yoGee8sfNkOiXRlEuzLr4b89YzXGr6WbtOjdwcMh0yP5-qGKSn9OWYpTqDHW3vQOIrXi7P9n2xRbXHDWG3BMq2xIhU16I_l7nZfQAO53XKp-q0jx8FFXIIxy0kjd7Y8PFl0oVcjSEAEPW_IPYP6KJDpQ"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=quiet+study+cafes+in+Portland%2C+ME&start=20&type=search"
+  }
+}

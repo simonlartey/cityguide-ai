@@ -1,0 +1,2124 @@
+{
+  "search_metadata": {
+    "id": "6a4e6805badf0bf020ce906a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cfjBECITXcMUExQ4AJhfYg/6a4e6805badf0bf020ce906a.json",
+    "created_at": "2026-07-08 15:08:53 UTC",
+    "processed_at": "2026-07-08 15:08:53 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/live+music+venues+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/cfjBECITXcMUExQ4AJhfYg/6a4e6805badf0bf020ce906a.html",
+    "prettify_html_file": "https://serpapi.com/searches/cfjBECITXcMUExQ4AJhfYg/6a4e6805badf0bf020ce906a.prettify",
+    "total_time_taken": 1.95
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "live music venues in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "live music venues in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland House Of Music and Events (HOME)",
+      "place_id": "ChIJz6YeLhWcskwRnrODKBhXe3w",
+      "data_id": "0x4cb29c152e1ea6cf:0x7c7b57182883b39e",
+      "data_cid": "8969858844109026206",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c152e1ea6cf%3A0x7c7b57182883b39e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c152e1ea6cf%3A0x7c7b57182883b39e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6579439,
+        "longitude": -70.2567427
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz6YeLhWcskwRnrODKBhXe3w",
+      "provider_id": "/g/11b87w9jw7",
+      "rating": 4.7,
+      "reviews": 487,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Event venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "event_venue"
+      ],
+      "address": "25 Temple St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 7\u202fPM",
+      "hours": "Closed \u00b7 Opens 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fPM\u201312\u202fAM",
+        "thursday": "7\u202fPM\u201312\u202fAM",
+        "friday": "7\u202fPM\u201312\u202fAM",
+        "saturday": "7\u202fPM\u201312\u202fAM",
+        "sunday": "7\u202fPM\u201312\u202fAM",
+        "monday": "7\u202fPM\u201312\u202fAM",
+        "tuesday": "7\u202fPM\u201312\u202fAM"
+      },
+      "phone": "(207) 536-1521",
+      "website": "http://www.portlandhouseofmusic.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"Small, fun venue for local musicians \ud83c\udfb6\nAdequate bar and service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeaZ-mMXNgkXd-5r93ABe5FUDhuXhdwP95bJ0hWtly6MQusl9uLnjeMR0gJGjs-SuVroaR0iGi_STFCleqks0MAipIOn0CHB8lMNQvWKyFRCOE1-1FkWhzy2JHLWbNao_3ee2qjA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PfEIrHicHcRRboIwGADgE1WKBCNLfKgoMmZRcBPii0H80wK1RdrOsBvuCN7GxO_he_5zY3r94TiCexOmFBNgNQy1kgakmdTq5rBeo1oj7ZB9mnUkhuqEbrRMWVdekT8EHlmCH_2suC359bEP_EuCeWHEOKOZ1SKwW9kCzTFLNq1GB3scVJXjZtOcD99RKODeaUxJ03_uJA7j5VzQNPstvsYoD3drF7lRV_C_cZrE2-KSVursAUzvLVk8XIwx4u9rJF_MmETU"
+    },
+    {
+      "position": 2,
+      "title": "Blue Portland Maine",
+      "place_id": "ChIJxX5qIhGcskwRi7EUM95vgFI",
+      "data_id": "0x4cb29c11226a7ec5:0x52806fde3314b18b",
+      "data_cid": "5944874508259471755",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c11226a7ec5%3A0x52806fde3314b18b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c11226a7ec5%3A0x52806fde3314b18b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653147999999995,
+        "longitude": -70.265413
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxX5qIhGcskwRi7EUM95vgFI",
+      "provider_id": "/m/0k35zjd",
+      "rating": 4.5,
+      "reviews": 329,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar"
+      ],
+      "address": "650 Congress St # A, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fPM\u201312\u202fAM",
+        "thursday": "5\u202fPM\u201312\u202fAM",
+        "friday": "5\u202fPM\u201312\u202fAM",
+        "saturday": "5\u202fPM\u201312\u202fAM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "5\u202fPM\u201312\u202fAM"
+      },
+      "website": "http://www.blueportlandmaine.org/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Intimate setting, great music, full bar with delicious limited menu.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4S_JlH3EGSZxsh-I-7A57DJvytB6ytaggi3xpQiNPHxPT_hL_E02C_TqoubxL7Do27oBLH38L-kY1APSrQdxNCybTcxcvfALTYnwxqfsby5-DdFoLYS8pGlJXwk_Mr7GJSxHQTg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LOLzV3icHcTBDoIgAADQLyItK1pbB0zTHDkdHLILSzRomphQ4if2Cf1NW-_wvh9pTK-3jtNKbyaUEm390vXAVWfqzsy4ejii14BroB2UpXmDDkvCkjb2wohcrJbgCCBawSB5T8ZfT-YqxN2zfX5Ps9hmlEnMQnexZ_SpXqXFMFALqHwcexsMmmKOMjLklU33U0m55e8bwrToRvu86XJagaA6KFyQTR-1yXls2GmAUUJsnFOxG-eu6wL5n4PuB674RUg"
+    },
+    {
+      "position": 3,
+      "title": "One Longfellow Square",
+      "place_id": "ChIJBXAJ4xCcskwR2M4q91ZK-pc",
+      "data_id": "0x4cb29c10e3097005:0x97fa4a56f72aced8",
+      "data_cid": "10951147181279203032",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c10e3097005%3A0x97fa4a56f72aced8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c10e3097005%3A0x97fa4a56f72aced8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653014,
+        "longitude": -70.266412
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBXAJ4xCcskwR2M4q91ZK-pc",
+      "provider_id": "/m/0k06ss8",
+      "rating": 4.7,
+      "reviews": 316,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Auditorium",
+        "Performing arts theater",
+        "Wedding venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "auditorium",
+        "performing_arts_theater",
+        "wedding_venue"
+      ],
+      "address": "181 State St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM",
+      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u20133\u202fPM",
+        "thursday": "12\u20133\u202fPM",
+        "friday": "2\u20134\u202fPM",
+        "saturday": "12\u20133\u202fPM",
+        "sunday": "12\u20133\u202fPM",
+        "monday": "12\u20133\u202fPM",
+        "tuesday": "12\u20133\u202fPM"
+      },
+      "phone": "(207) 761-1757",
+      "website": "http://www.onelongfellowsquare.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"Showed up for an open mic, great sound and a very intimate space.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGZoA4XDIE_ngVizHtAVGz60oB9rfn8J-xYm-JIugrcTI7ZlalswgYljUeRhIcH4VpdiA9J-JhjF8WHvz29k7V5awNoIXarSow3Ht5gMipQj9vFiEXcp6i6a9PS-fIW8NhSQzW=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mwHKjnicHcRdDoIgAADgE5H2o0lbD7QscctllpovzZEBRsCEsnnBztBt2voevu-HWavNwnEEm46oUlQ0T9N0REnbSDsi6uFQbQAxwDhon6R3FG4rhWblGocXSXM-RBbl28F31Qp2NxnE4H1-gBg_aUeOeF6JWpienkV7ag4Mk2iW6ytHMAYxazdBEb2GCbzPc6_uE4XLustUP42sR3dcpy18bXhYEu1zv4b7DNxwESQsS4di2Y9d1wXsPwHyB2mzRLc"
+    },
+    {
+      "position": 4,
+      "title": "Live at Madrid's",
+      "place_id": "ChIJAX5yfACdskwRn1kDZQZBoq4",
+      "data_id": "0x4cb29d007c727e01:0xaea241066503599f",
+      "data_cid": "12583691804546914719",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d007c727e01%3A0xaea241066503599f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d007c727e01%3A0xaea241066503599f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.661041499999996,
+        "longitude": -70.2471784
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAX5yfACdskwRn1kDZQZBoq4",
+      "provider_id": "/g/11n44ypmqf",
+      "rating": 4.7,
+      "reviews": 30,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar",
+        "Concert hall",
+        "Event venue",
+        "Night club",
+        "Wedding venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar",
+        "concert_hall",
+        "event_venue",
+        "night_club",
+        "wedding_venue"
+      ],
+      "address": "144 Fore St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u201311\u202fPM",
+        "thursday": "4\u201311\u202fPM",
+        "friday": "4\u201311\u202fPM",
+        "saturday": "4\u201311\u202fPM",
+        "sunday": "4\u201311\u202fPM",
+        "monday": "4\u201311\u202fPM",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 900-8436",
+      "website": "http://liveatmadrids.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "user_review": "\"A lot of space, large stage, very friendly staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHxnEQiAdcPk5E8NLjNFBt_JA_9Rwa5j6qY1b0zym1Z6SKTKXO7qbwj8xo-osiNMNBr-LP-7SP1Qawzvb4O3iXsvzvAEUkzDdezCf1iCEBk2T-hoWUlOdPjmOK3EoIGpA0WWMEagDmU3JZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YZMILHicHcRLcoIwAADQE0WS4q-d6SJIqhUNQWVANw4Eyp-gSUFzSdfexhnf4j0fuVKd_DKMOjdHmRBZnf7L9MpFq9JWjbhojKyTgEsgDcyoV-Hl6tYSr8AJZ9WEzOmmpD-WOq_x-XM3RJNyejmiGOp7g07TvXNwQnd2iYdyfhNAyIJuqXUFGwZme4a8aNB9PHbNIpS97jHxK20nqV78oWJBrOrjAHIR-LWbsLJxHZOI32WHYRBsSZTZjW-uT98DghCC_D0H7QtpYEax"
+    },
+    {
+      "position": 5,
+      "title": "Thompson's Point",
+      "place_id": "ChIJ0zJyEfmbskwR8Kzk0Tq5dpA",
+      "data_id": "0x4cb29bf9117232d3:0x9076b93ad1e4acf0",
+      "data_cid": "10409711250994146544",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf9117232d3%3A0x9076b93ad1e4acf0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf9117232d3%3A0x9076b93ad1e4acf0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6501946,
+        "longitude": -70.2916152
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0zJyEfmbskwR8Kzk0Tq5dpA",
+      "provider_id": "/g/11bzyxvg_r",
+      "rating": 4.5,
+      "reviews": 1280,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Arena",
+        "Event venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "arena",
+        "event_venue"
+      ],
+      "address": "Thompsons Point, Portland, ME 04102",
+      "country": "United States",
+      "phone": "(207) 747-5288",
+      "website": "http://www.thompsonspoint.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The outdoor setup is just perfect for live music \u2013 it feels cozy yet lively.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhC3fGvcFdfzb6kMzVctbo8t81jR4r1U1KUi86S6ztTRxVAm-lLTn_EeSY_00yo33T32E7dH2Yc3tscxwoCsfSfOjmfcPB55oLK3uVlFIr9xxY7Qmo4jsdv-aFz5hxNssJ7IQn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kyiAZ3icHcRbboJAFADQFY0MjjzapB_UiPVRK4IkfJl6YZgizDXcUads0DW4GxPPx3nclTFnenecVolRjVi31YWqHlCbSpsRYOfUZ2JAjJxou0lO0VxNhZxfIS7lcPRP30MO5oihCd1mN-ndvbva_4V-6g8m29k86li7zvRhVqXFgfN_FCIT41lQfo0LEIbA3nBKMpU_TSdh--l5uF6JS97Gi_7N2iJIOpw0VF7Zbzx4ym6IlsEi0R83l3PO1Gtg-glT1ETS"
+    },
+    {
+      "position": 6,
+      "title": "Sun Tiki Studios",
+      "place_id": "ChIJG8YLBsidskwRhD63cYT7DIg",
+      "data_id": "0x4cb29dc8060bc61b:0x880cfb8471b73e84",
+      "data_cid": "9803487035140816516",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dc8060bc61b%3A0x880cfb8471b73e84&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dc8060bc61b%3A0x880cfb8471b73e84&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.664697499999996,
+        "longitude": -70.2739516
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG8YLBsidskwRhD63cYT7DIg",
+      "provider_id": "/g/11ghs58cxh",
+      "rating": 4.9,
+      "reviews": 143,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Night club"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "night_club"
+      ],
+      "address": "375 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "phone": "(207) 808-8080",
+      "website": "https://www.suntikistudios.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"Intimate, clean, great acoustics, friendly staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfaGm1TzhXKQ-L49tDh-KOEcVPeAE4Fsera682BHFtCeB0f3bH4_trMXkzIsrq9ZbsZcBWWbpsCCf_mbfCzVH-cWzAEpuAV0hQjij5eCZd1BpdFWspHezP0LXEdCWwZUJhEsBTng=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1_wnynicHcvBToMwGADgJyoUh0ZMdmhrER1ukExKuCyjFCoMqPwlS_qGPoJvs8XLd_v-frW1Bl58_6I3XjfP3UWtoBY5T1ZN1pPz6HcGkAQEPsn2-UB4e34bg6PT5S5HaRjZV412By6LTBEexvd8fnp-oElsmaK43dRJeLLLZzm4d1h-oqqGSlIhagOMtaexbpkrEiSFI9yspMA677_7R8WqJqCmiQWYRLkMpyVvmLhWXx-aAz1O3fYaYIyR_lei6QanGUU2"
+    },
+    {
+      "position": 7,
+      "title": "State Theatre",
+      "place_id": "ChIJxf9qSxGcskwRJVI1c578H3A",
+      "data_id": "0x4cb29c114b6affc5:0x701ffc9e73355225",
+      "data_cid": "8079454013993865765",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c114b6affc5%3A0x701ffc9e73355225&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c114b6affc5%3A0x701ffc9e73355225&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653981599999995,
+        "longitude": -70.2636836
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxf9qSxGcskwRJVI1c578H3A",
+      "provider_id": "/m/0czbq1s",
+      "rating": 4.5,
+      "reviews": 2024,
+      "type": "Concert hall",
+      "types": [
+        "Concert hall",
+        "Auditorium",
+        "Live music venue",
+        "Performing arts theater"
+      ],
+      "type_id": "concert_hall",
+      "type_ids": [
+        "concert_hall",
+        "auditorium",
+        "live_music_venue",
+        "performing_arts_theater"
+      ],
+      "address": "609 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "phone": "(207) 956-6000",
+      "website": "http://www.statetheatreportland.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"Wonderful ambiance and acoustics, excellent selection of touring acts.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZz8OBMyTuMbCleVv_mSzrkYvSpyXXfkeCHHh5tOg5ffEh27ftEuAkozdJ5SRXW5qMkr5akZKJj1cBhL3AQqfzQtw_95w_2TPa8ZpnBZIQxYoE9nCtZsFZqnMArt-tPt-8gleRXu939qzc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8OBw2nicHc7BboIwGADgJ6qgpBks2aEQFqZDQYzDXojrWhqLLdAfmX3Jnfc2Lrt85-_3RwL09tnzOhksWmPajk-Wj8xo4BoWzFy9treIWWQ9UmxLRTLqwl2c3w9T_pl0_HhrrpUb1elW9fe6FoonWSYx7FosRCpXTwLSiSjjvta42tcfeMjViM-KbtaXJYvle0DKQbgS5ibCc7M6FOeQ9jqmb-X3yaSRToDaVzronIyAoAAU_h339RQF0eDYy7z0fR_JfxnSD136SSI"
+    },
+    {
+      "position": 8,
+      "title": "SPACE Gallery",
+      "place_id": "ChIJqVDqchScskwRzRmLDybp9V8",
+      "data_id": "0x4cb29c1472ea50a9:0x5ff5e9260f8b19cd",
+      "data_cid": "6914689152576068045",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1472ea50a9%3A0x5ff5e9260f8b19cd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1472ea50a9%3A0x5ff5e9260f8b19cd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6555853,
+        "longitude": -70.2611771
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqVDqchScskwRzRmLDybp9V8",
+      "provider_id": "/g/1vr3cs7n",
+      "rating": 4.8,
+      "reviews": 190,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Art gallery",
+        "Art studio",
+        "Arts organization",
+        "Concert hall",
+        "Cultural center"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "art_gallery",
+        "art_studio",
+        "arts_organization",
+        "concert_hall",
+        "cultural_center"
+      ],
+      "address": "534-538 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM Thu",
+      "hours": "Closed \u00b7 Opens 12\u202fPM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "12\u20136\u202fPM",
+        "friday": "12\u20136\u202fPM",
+        "saturday": "12\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 828-5600",
+      "website": "http://www.space538.org/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as disabled-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Has changing table(s)",
+            "Kid-friendly activities"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"The Sound is good, the staff is great, the vibes are great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdvqidulsKMXzOI37ewx-Cwn0LfOM4AshbOXVV01uteQCyPlWR6dPdWhc2uZVAHlzS3kulHnXEOBKRlNMzKkzXEtBNge391ej1_apZSYpbdk2Ck74gRwsn-x-B-6luz9DcOXU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GTsOYHicHcRRboIwAADQE1WKGAlL_ACmcUEoYsTqz6Jt12prQduK9oC7w26zxPfx_n6Ftb35CAIlohHvOq6YM-xOOm2ZtiPSXQPeG0AMMEFaV2uZLujjdqZOmaLEHn1FMRueIB80XP2gcpIacUK4bWHoLFvnr1rtmimt6U6QsTu06VL5TSSdWmo8R1nRqKr0hfR4brOKsygJ2SX8PvaHzb4_UTnOZTzhzWA0eIIMTJXzySdBeDsbQgghEO8J0P93YUTx"
+    },
+    {
+      "position": 9,
+      "title": "Geno\u2019s Rock Club",
+      "place_id": "ChIJZbUMNxGcskwRgP-kTrgecxo",
+      "data_id": "0x4cb29c11370cb565:0x1a731eb84ea4ff80",
+      "data_cid": "1905900844250103680",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c11370cb565%3A0x1a731eb84ea4ff80&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c11370cb565%3A0x1a731eb84ea4ff80&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6536779,
+        "longitude": -70.26443669999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZbUMNxGcskwRgP-kTrgecxo",
+      "provider_id": "/g/1yfdpflf3",
+      "rating": 4.6,
+      "reviews": 331,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Rock music club"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "rock_music_club"
+      ],
+      "address": "625 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fPM\u20131\u202fAM",
+        "thursday": "5\u202fPM\u20131\u202fAM",
+        "friday": "5\u202fPM\u20131\u202fAM",
+        "saturday": "5\u202fPM\u20131\u202fAM",
+        "sunday": "5\u202fPM\u20131\u202fAM",
+        "monday": "5\u202fPM\u20131\u202fAM",
+        "tuesday": "5\u202fPM\u20131\u202fAM"
+      },
+      "phone": "(207) 747-5594",
+      "website": "https://m.facebook.com/genosrockclubofficial",
+      "extensions": [
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Live music",
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Dancing",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": false,
+        "delivery": false
+      },
+      "user_review": "\"Good friends, great drinks, killer bands, and the best bar owner around\ud83e\udd18\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjsm4HgfrUOjGw-ZxHuGzo21MXOB-ZG2K0zq3aXaF9G_nPMEbvnOlh5X8PEqR5-ZU4ZmJvf4ZRj0lfcwvG8050RAyeR9dJWUhpdewBq4QxhE1gZsGThQhlHxRSOPpemvvo4L1D=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ikFyTnicHcRRboIwAADQE1WKlESX7AMiK3EqUCUj_TGuljastGCxRS-4M3ibJXsf7_Urp2mwb0GgZLQQxgjF75bfmNET19OCmT4QgwXMAhsk5aH6SbLO9igX7a0uOuwBnfM7fppluG-KFFC8_ITPMbo0l481Putyn307XSgZN6syG0kMaI1ov3UtoqSDqmXe4RWMIUkenKyv269aDlfu0xFVs8xCQS0-yUqqfCbHohx475xBu3Dz7kMIIZD_M6D_ADckRHs"
+    },
+    {
+      "position": 10,
+      "title": "The Thirsty Pig",
+      "place_id": "ChIJXaUx4z-cskwRxdpqZABJhgQ",
+      "data_id": "0x4cb29c3fe331a55d:0x4864900646adac5",
+      "data_cid": "326028289064491717",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fe331a55d%3A0x4864900646adac5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fe331a55d%3A0x4864900646adac5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657307499999995,
+        "longitude": -70.2538411
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXaUx4z-cskwRxdpqZABJhgQ",
+      "provider_id": "/g/1tf70jps",
+      "rating": 4.4,
+      "reviews": 1626,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "American restaurant",
+        "Hot dog restaurant",
+        "Pub",
+        "Restaurant"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "american_restaurant",
+        "hot_dog_restaurant",
+        "pub",
+        "restaurant"
+      ],
+      "address": "37 Exchange St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u201311\u202fPM",
+        "saturday": "11\u202fAM\u201311\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 773-2469",
+      "website": "http://www.thirstypigportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRmNzBqcHMYADoDCPAN&g2lbs=AEzIGDsP101JrDRsx7u4dTc4ELomjuhsuofApfn_rhnT3xRnb2pgKFDcWTfl_pXvaewrqux4NmK1&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BWhOatnkN7SBxc8P6L30kAk&ei=BWhOatnkN7SBxc8P6L30kAk&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Great food, tasty drinks and craft beers, and live music!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdl0mbMi0_gRHCXUP9Iv41M8-ic3EiTOutfQn3D2YoGtEuhMTK_-DLpv5dVffwghy9R--opVg7mFtyn1XtBWZ1ukkFLM4invIgYDk8TLtqLMNJ3WpIivF3IRi27h3eOVXbRlWzSg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iNboxXicHcRRboIwGADgExWKdUGX-OCGbGwUlDHAvZBQoW2AttofjLuhR9htTPY9fH93AWDss-sOgjhcaz60k20vTCtoFThMjy43FjGLrLvdJ4d-G54GPDZU4ppn76_V934dzUuPrpBkZCfzdILuoEiwOOo32E2C5p81CmIzP52KrrtycVtnCGlTcH8M4aa8Cl7KH2_q-zCmS6nmiB-DfpXHcI5p8kFKE8k5JFEmF74gbVpUTTaUv198c_Uwxkj8z5B6ALcPRQo"
+    },
+    {
+      "position": 11,
+      "title": "Aura",
+      "place_id": "ChIJlU7L9hScskwRgSW3kvMKJKM",
+      "data_id": "0x4cb29c14f6cb4e95:0xa3240af392b72581",
+      "data_cid": "11755532968598644097",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14f6cb4e95%3A0xa3240af392b72581&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14f6cb4e95%3A0xa3240af392b72581&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656560299999995,
+        "longitude": -70.25890319999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlU7L9hScskwRgSW3kvMKJKM",
+      "provider_id": "/g/1tdclkkj",
+      "rating": 4.2,
+      "reviews": 434,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "unclaimed_listing": true,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Night club",
+        "Restaurant"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "night_club",
+        "restaurant"
+      ],
+      "address": "121 Center St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 11:30\u202fAM",
+      "hours": "Opens soon \u00b7 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u20139\u202fPM",
+        "thursday": "11:30\u202fAM\u20139\u202fPM",
+        "friday": "11:30\u202fAM\u201311\u202fPM",
+        "saturday": "11:30\u202fAM\u20131\u202fAM",
+        "sunday": "Closed",
+        "monday": "11:30\u202fAM\u20135\u202fPM",
+        "tuesday": "11:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 772-8274",
+      "website": "https://auramaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Karaoke",
+            "Live music",
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Dancing",
+            "Food",
+            "Food at bar",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Nice, intimate venue complete with superb, superb, superb sound system.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBVokJoqyaVmz-bs8OXJq9UHCAqAPOc7-Rgot1lXqd8S58PJTpas23aHGvSlHNxdQdAVSQK4I88X2zID8ZZogYGkmWYKazFiNLJfc11NU7aFfe6Ebwh7G0y0PtfUROJ8QRH77Teg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7fiwPnicHcRLcoIwAADQE0WCv6SdcRFbBWOHryC6iyGEDp9Ak6pwQ4_gbZzxLd7zURrT6U_LqsvZRCola_GvxR9XrRGtmXDVWLLTgGugLRJ4YUU261RVVPUDS5sRXDT2M9p_JO4X6UngcwQiqYxdZ32O4wUO6KFjejpjrnONa9e752FO0jjcz3cYZ9Nx943PZyVPTtUcT3s2bn-9H1pw2_YSxLaFWG4utxI5cICBKZLIpziMXIQOQq5uNoQQlO85aF-rykP3"
+    },
+    {
+      "position": 12,
+      "title": "Lincolns",
+      "place_id": "ChIJgbnU7T-cskwRWXyt73ouqhs",
+      "data_id": "0x4cb29c3fedd4b981:0x1baa2e7aefad7c59",
+      "data_cid": "1993456890606877785",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fedd4b981%3A0x1baa2e7aefad7c59&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fedd4b981%3A0x1baa2e7aefad7c59&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656918999999995,
+        "longitude": -70.2532116
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgbnU7T-cskwRWXyt73ouqhs",
+      "provider_id": "/g/11cjkq0218",
+      "rating": 4.6,
+      "reviews": 679,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Bar",
+      "types": [
+        "Bar"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar"
+      ],
+      "address": "36 Market St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fPM\u201312\u202fAM",
+        "thursday": "5\u202fPM\u201312\u202fAM",
+        "friday": "5\u202fPM\u20131\u202fAM",
+        "saturday": "5\u202fPM\u20131\u202fAM",
+        "sunday": "5\u202fPM\u201312\u202fAM",
+        "monday": "5\u202fPM\u201312\u202fAM",
+        "tuesday": "5\u202fPM\u201312\u202fAM"
+      },
+      "website": "https://www.facebook.com/LincolnsPortlandMaine/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Trivia night"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": false,
+        "delivery": false
+      },
+      "user_review": "\"Excellent atmosphere,  great cold drinks, great service and music\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4-ixddauizngrWF3kyZ6BfSmWsk-LORDK2kf02QA3o3btBiEfLVGQ8oiSvNSpV6eq0kca2mTA_okBSyLEONQmeCc0brSyO8q3R_DirPrGYuk0ov5bzgU1Zs7ZMg7XXV_EmYCz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0JICIHicHcRRboIwAADQE1Uq3dSY7AMQ-ZCBWEXhh0gtpaml2BYnXHBn8DZL9j7e-7e1tjdrx7m3aMaUYnc6GKqJ6izt7Iwo6bDeAGKAcbx9kgkv-gD8dbtdBz51TJ-3SIzlwm-wPBsB4vSw2bmigW7mIYVq6_OwifMoWymOnwnu8wV9QEGurjx6lRI-HuMwTTJJAwJrjcd09UCHasP1XkfFIKB6ftYTO81Lsyy_2fJyyatQFsH09TOHEIL2fwK6P4HoRSI"
+    },
+    {
+      "position": 13,
+      "title": "Merrill Auditorium",
+      "place_id": "ChIJA-kuFmucskwRpr8Qug6NWUY",
+      "data_id": "0x4cb29c6b162ee903:0x46598d0eba10bfa6",
+      "data_cid": "5069237949972922278",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b162ee903%3A0x46598d0eba10bfa6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b162ee903%3A0x46598d0eba10bfa6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.659579699999995,
+        "longitude": -70.2570794
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA-kuFmucskwRpr8Qug6NWUY",
+      "provider_id": "/m/026_w6m",
+      "rating": 4.6,
+      "reviews": 722,
+      "type": "Auditorium",
+      "types": [
+        "Auditorium",
+        "Event venue",
+        "Stage"
+      ],
+      "type_id": "auditorium",
+      "type_ids": [
+        "auditorium",
+        "event_venue",
+        "stage"
+      ],
+      "address": "20 Myrtle St, Portland, ME 04101",
+      "country": "United States",
+      "phone": "(207) 808-5400",
+      "website": "https://www.portlandmaine.gov/1144/Merrill-Auditorium",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assisted listening devices",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Great acoustics, beautiful interior,  and diverse variety of concerts.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjgkPU5v-UAszLSUkyhOkqh0MkjCW2LQ6wLg86o9ECTKYsupCO9lguUgg_XDg159ayByakvqmne_ZbOgxjDJ7WEk24q5k_hlAj3NZOarxHCUHUc88BcPp0Csu7mIFoIJCMtInmkQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HHbUdHicHcRbjoIwFADQFVXqA4VJ5gOqjjgokJnGxw_BhtyGCy3YojI7dAnuZhLPx3k9pbWt-XCcWk5HoDXUZW_Kq9DKlsqOhG4caA0RhhgnSPcZBl8VYMrdG-GB-Yt_OA4ywU7SHVbsMImz-T0Gb679Ffv9Ppm-ZYlfQ88B8uMSxq5fDOFQ4K1rVJmfLwk8quV2cVjhZNa5mMs6qKb7c1JcHxvGN1x4XijSljLTL5poraMt29lINZh93seUUiLfC6L-ATL1RfQ"
+    },
+    {
+      "position": 14,
+      "title": "Flask Lounge",
+      "place_id": "ChIJF2ta6BacskwRCZXubjpzr8I",
+      "data_id": "0x4cb29c16e85a6b17:0xc2af733a6eee9509",
+      "data_cid": "14028558059088811273",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c16e85a6b17%3A0xc2af733a6eee9509&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c16e85a6b17%3A0xc2af733a6eee9509&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6529308,
+        "longitude": -70.2624537
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF2ta6BacskwRCZXubjpzr8I",
+      "provider_id": "/m/0lfrcrp",
+      "rating": 4.4,
+      "reviews": 368,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar",
+        "Gay bar",
+        "Dance club",
+        "Night club"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar",
+        "gay_bar",
+        "dance_club",
+        "night_club"
+      ],
+      "address": "117 Spring St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 7\u202fPM",
+      "hours": "Closed \u00b7 Opens 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fPM\u20131\u202fAM",
+        "thursday": "7\u202fPM\u20131\u202fAM",
+        "friday": "7\u202fPM\u20131\u202fAM",
+        "saturday": "7\u202fPM\u20131\u202fAM",
+        "sunday": "8\u202fPM\u20131\u202fAM",
+        "monday": "7\u202fPM\u20131\u202fAM",
+        "tuesday": "7\u202fPM\u20131\u202fAM"
+      },
+      "phone": "(207) 772-3122",
+      "website": "http://www.flasklounge.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "user_review": "\"The sound system was loud and the staff was stellar.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuY5_UtkmaMst5j1bdR3SofWwtiPzbnO52L4tVtYKy7duB6uBsrfl3EGFVl9mc8eLUw0Y-HuUnx8TraAPrQWBgVSq29roXv8dTDsaMuqm_voozTr0-R2-GslgKXM1oB_FGOTpV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/i2615XicHcTRboIwFADQL6oUGBsu2QNkkyXKRAWUJ4IFy2bpxd5b2fxBv2F_s2Tn4fzee6IRnx1H9f5MAkjVWeyMAE2dppmAwZEjMoEMnSj72JyjxFZBXdB5aFKk4Ms9tlt_B6f9RJ_Z7ajXgbd6oJKq5c9Ta-NHG6M5Kf8tWZRqPoiwWxUTr9i7LfR3mJsmysxmH8tyd_HmBg7XsM1fsUntZaivALfccLb1WIJKLg-pC3G9SNb5WL5MLuec9f8Lpv8A3SJFxw"
+    },
+    {
+      "position": 15,
+      "title": "Andy's Old Port Pub",
+      "place_id": "ChIJS4HSfj-cskwREbRoVAEZuGE",
+      "data_id": "0x4cb29c3f7ed2814b:0x61b819015468b411",
+      "data_cid": "7041405510895580177",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3f7ed2814b%3A0x61b819015468b411&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3f7ed2814b%3A0x61b819015468b411&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6567345,
+        "longitude": -70.25058829999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS4HSfj-cskwREbRoVAEZuGE",
+      "provider_id": "/m/0k22j1n",
+      "rating": 4.3,
+      "reviews": 842,
+      "type": "Pub",
+      "types": [
+        "Pub",
+        "American restaurant",
+        "Bar",
+        "Breakfast restaurant",
+        "Fish & chips restaurant",
+        "Live music bar",
+        "Pizza restaurant",
+        "Sandwich shop",
+        "Seafood restaurant",
+        "Sports bar"
+      ],
+      "type_id": "pub",
+      "type_ids": [
+        "pub",
+        "american_restaurant",
+        "bar",
+        "breakfast_restaurant",
+        "fish_and_chips_restaurant",
+        "live_music_bar",
+        "pizza_restaurant",
+        "sandwich_shop",
+        "seafood_restaurant",
+        "sports_bar"
+      ],
+      "address": "94 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fAM",
+      "hours": "Open \u00b7 Closes 1\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20131\u202fAM",
+        "thursday": "11\u202fAM\u20131\u202fAM",
+        "friday": "11\u202fAM\u20131\u202fAM",
+        "saturday": "7:30\u202fAM\u20131\u202fAM",
+        "sunday": "9\u202fAM\u20131\u202fAM",
+        "monday": "11\u202fAM\u20131\u202fAM",
+        "tuesday": "11\u202fAM\u20131\u202fAM"
+      },
+      "phone": "(207) 874-2639",
+      "website": "https://andysoldportpub.com/?utm_source=google",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Bar games",
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Live music",
+            "Live performances",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Arcade games",
+            "Beer",
+            "Cocktails",
+            "Dancing",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "user_review": "\"Delish beers, great live music, and overall awesome atmosphere.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1moiiqs-0vQcdDfo2KhNiV7c987uTK8y-xrbxNrfa3szbpBTrwgnIlzkGYcrcX9cRkKjcCkr9fx7qyBW_dq_I7rqIG2Ya6_F5qVi3Dx_lc_08V13tvbXIDq8B5W82tZlB3dls=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Effw9XicHcRJDoIwFADQE1UKjVJMXIhEJSREjMFh08hnlELpoKIX9AzexsS3eN9Pbcyg55bFazKphKh4cdeFAtGbojcTEJ1VDRqBRtpa7uKkXW7tTjSN1Ag_EsiDUjhRHTepCx5174eIvtCosjFW5ZXodzb4B_Ws-pC_280ZFJw82LfRDVat8srRlS__yHLJQlfJcOOcrzO2nsq0IcHIODBMU5uYR3YKA0n96ZE65sJ9knO9eNoYY1T_B9T_AOc_Rag"
+    },
+    {
+      "position": 16,
+      "title": "Westbrook Performing Arts Center",
+      "place_id": "ChIJ4cQFyjqaskwR91KnNjk7xX8",
+      "data_id": "0x4cb29a3aca05c4e1:0x7fc53b3936a752f7",
+      "data_cid": "9206830130144957175",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a3aca05c4e1%3A0x7fc53b3936a752f7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a3aca05c4e1%3A0x7fc53b3936a752f7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6638021,
+        "longitude": -70.3481664
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4cQFyjqaskwR91KnNjk7xX8",
+      "provider_id": "/g/1tj913xl",
+      "rating": 4.7,
+      "reviews": 241,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Auditorium",
+        "Performing arts theater"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "auditorium",
+        "performing_arts_theater"
+      ],
+      "address": "471 Stroudwater St, Westbrook, ME 04092",
+      "country": "United States",
+      "phone": "(207) 857-3860",
+      "website": "http://westbrookpac.org/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"A very nice facility with great acoustics and comfortable seats.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkY01syKxkkNQ6ObBvRjbOnHpvBkr-JWfEYlYs9giEsXPYfMXOqGwZs_WDk88HK4mnMnXhgnWWponbluIx6BjZ6ECCRlZGFKlDlc_pV7M1IhwU87yEb95ao4ehC8Fx5Cw3DD0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ikDTiXicHcTdDsEwGADQJ6p1MTMSF_tjLDMkdNuNWDMtrbZ8Y_OC3sHbSJyL8_3wtjUwtSzJhwOmNZPNE5oH1aptVDug-mYxA4gCAsvfrLfCT0SJbXinvRDrrZvXwWt3rXOVmFcgHmhFznEpS5iwSwzFpjxnRX5fdBUcSSQ8L0mdm8pUwZkixGhVy-eyd4Nr5cZhuJPVYp7KSNKjOYwze8m7vTd-x_VkdNJOw0Nv3o_CbhhFeNbZGGPE_1OkfnqtRIU"
+    },
+    {
+      "position": 17,
+      "title": "The Apohadion Theater",
+      "place_id": "ChIJsYEZXG2cskwRJSUowYw_fQQ",
+      "data_id": "0x4cb29c6d5c1981b1:0x47d3f8cc1282525",
+      "data_cid": "323484622009148709",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6d5c1981b1%3A0x47d3f8cc1282525&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6d5c1981b1%3A0x47d3f8cc1282525&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.660668,
+        "longitude": -70.2648739
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsYEZXG2cskwRJSUowYw_fQQ",
+      "provider_id": "/g/11fzf7brl8",
+      "rating": 4.7,
+      "reviews": 105,
+      "type": "Performing arts theater",
+      "types": [
+        "Performing arts theater"
+      ],
+      "type_id": "performing_arts_theater",
+      "type_ids": [
+        "performing_arts_theater"
+      ],
+      "address": "107 Hanover St, Portland, ME 04101",
+      "country": "United States",
+      "website": "http://apohadiontheater.org/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"Great local intimate venue with a cool ambiance and a nice sound.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHvcglmlxrm46YbQDcJyfNMkteSn5S4An2zoqbK9_q3gZ_L7Ag2ZgjmbI4r6toYz9_iM-va8GW0B9u6oefqbyjg-35OGOEuipJVGtojGKmNTtR-dMRr0EquXZ85ANbb36mjkZU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dP5iAHicHcRJDoIwAADAFxWqLIqJhxoNbuC-wIXYWotAW6DFhQf6B39j4hzm-0m1LtXANIvUMpiUrKCNojWRQlOhDSK5yUoFiALKROtwk6Ppg7CCF6-a226EN2Myf9_CINd0J5ydjUS3lRVeeEllsThZ9hDrxizjeGbXrpZR6yX3ADwuff8ER17jSnqr8DtjwHJW_mrS3Mv50dcy8xc83OstuAbbGk6q5hz3HRRibLk8y-PD8NmBEIL0PwHiB3zGROM"
+    },
+    {
+      "position": 18,
+      "title": "The Porthole Restaurant & Pub",
+      "place_id": "ChIJXe7Lbj-cskwRMgUjvr0sZAc",
+      "data_id": "0x4cb29c3f6ecbee5d:0x7642cbdbe230532",
+      "data_cid": "532599849386968370",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3f6ecbee5d%3A0x7642cbdbe230532&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3f6ecbee5d%3A0x7642cbdbe230532&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6563069,
+        "longitude": -70.2500372
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXe7Lbj-cskwRMgUjvr0sZAc",
+      "provider_id": "/g/1tsr2t8w",
+      "rating": 4.3,
+      "reviews": 3507,
+      "price": "$10\u201350",
+      "extracted_price": 10,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Seafood restaurant",
+        "Breakfast restaurant",
+        "Diner"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "seafood_restaurant",
+        "breakfast_restaurant",
+        "diner"
+      ],
+      "address": "20 Custom House Wharf, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u201311\u202fPM",
+        "saturday": "7\u202fAM\u201311\u202fPM",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 773-4653",
+      "website": "https://portholemaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Live music",
+            "Serves local specialty",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRzcjJ0OHcYADoDCPAN&g2lbs=AEzIGDso_cbghw21ZXC8f99QMUrgnDnyazGXaZe63UXl23hRK6AusA8WZhOpC-OEAnWAjThWxbo0&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BWhOatnkN7SBxc8P6L30kAk&ei=BWhOatnkN7SBxc8P6L30kAk&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Stopped here for a drink and the live music and vibes were fantastic!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLzco_gR3sGdr_9UqWs-vtksSADTXyxrR9r4xxWVlzkFEm0QH5hX9kru6xZbDFTvjYR202l4C-rUylWl9fpILf_slBIgqFUMhCAxM5-RPEENlyKGLuUs_uHVBsnIEEXwG6F1Wmew=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-RcBB3icHcRLDoIwFADAE1XqN8HEBWL5RDSKIuiGxIptpFDsK1K8oUfwNibOYr4frnUDc8sSfDxgUjJRtFAoKmtd1HpAZWWxBhAFBJaz2-5LJ4jeVOYsHoN_U7mdPFNAL13CwVkds96o2FYTY9KTeJceqfA-mPLMLlU7M5fryju-Hud4hEdi4iKV9CIV9r0Jo3sOYhmyp5dsuOuYzRTFO0K2ol_7UZtA3ganJdQhIVnnz7xhWhXdohtijBH_T1H9A3cBRlQ"
+    },
+    {
+      "position": 19,
+      "title": "The Armory Lounge",
+      "place_id": "ChIJdfI98j-cskwRJFaVpsq_SJ8",
+      "data_id": "0x4cb29c3ff23df275:0x9f48bfcaa6955624",
+      "data_cid": "11477634527452812836",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3ff23df275%3A0x9f48bfcaa6955624&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3ff23df275%3A0x9f48bfcaa6955624&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657056999999995,
+        "longitude": -70.2527453
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdfI98j-cskwRJFaVpsq_SJ8",
+      "provider_id": "/g/11f040m0br",
+      "rating": 4.7,
+      "reviews": 152,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Lounge bar",
+      "types": [
+        "Lounge bar"
+      ],
+      "type_id": "lounge",
+      "type_ids": [
+        "lounge"
+      ],
+      "address": "20 Milk St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 11:30\u202fAM",
+      "hours": "Opens soon \u00b7 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u201310\u202fPM",
+        "thursday": "11:30\u202fAM\u201310\u202fPM",
+        "friday": "11:30\u202fAM\u201311\u202fPM",
+        "saturday": "1\u201311\u202fPM",
+        "sunday": "2\u20139\u202fPM",
+        "monday": "11:30\u202fAM\u201310\u202fPM",
+        "tuesday": "11:30\u202fAM\u201310\u202fPM"
+      },
+      "website": "https://www.theregency.com/dining/the-armory-lounge",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Valet parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/FGAe8ulNP1I?source=pa&opi=79508299&hl=en-US&gei=BWhOatnkN7SBxc8P6L30kAk&ahbb=1&sourceurl=https://www.google.com/search?tbm%3Dmap%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1swzJQabK138LkmjmDnoRb5otVqvuG8Sg:2!2s1i:0,t:11886,p:wzJQabK138LkmjmDnoRb5otVqvuG8Sg:2!7e81!12e5!17swzJQabK138LkmjmDnoRb5otVqvuG8Sg:69!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26gl%3Dus%26hl%3Den%26q%3Dlive%2Bmusic%2Bvenues%2Bin%2BPortland,%2BME",
+      "user_review": "\"Cozy lounge good music and plenty of seating available.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFd2ryLLEWrne_Crvl6cmxhj5el-lgeXazfJ029ddCtD3yWTIj6IyUmUHTsc8t_-ve_8Lv5y1PhW0-CSjFL5bgg9n9cnNSTY4zFWhmFXLDq7OjMcYI08uBMDggwTFq7y0J9x6Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tHrVRHicHcTbDoIgAADQLyJR89bWQ2ksG92mzXpyhQQzxBK06AP7h_6mrfNwvh-u9V1NLEtwd8TalgnaK9qRVmoq9Yi0jcXuChAFlDXbbfa3GaqczmC8KDpJy7gbhE-aF689KoBg9Hh-X1fQiaoq1olrijyt_dQcmsMyVyTUJRhoGeLBM_aOFxDEWY2wd2EskhGRmyw_jd-o4A064uQRbOs1OaUw7OfrhLFnjh6Bgavo5e-nTxtCCPh_AuQPUSNELg"
+    },
+    {
+      "position": 20,
+      "title": "Portland Ovations",
+      "place_id": "ChIJqYnB7nOdskwRE-Ad3tZ78EY",
+      "data_id": "0x4cb29d73eec189a9:0x46f07bd6de1de013",
+      "data_cid": "5111721739845230611",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d73eec189a9%3A0x46f07bd6de1de013&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d73eec189a9%3A0x46f07bd6de1de013&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6587868,
+        "longitude": -70.2564901
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqYnB7nOdskwRE-Ad3tZ78EY",
+      "provider_id": "/g/11v9y16w39",
+      "rating": 4,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Arts organization",
+      "types": [
+        "Arts organization"
+      ],
+      "type_id": "arts_organization",
+      "type_ids": [
+        "arts_organization"
+      ],
+      "address": "120 Exchange St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20134:30\u202fPM",
+        "thursday": "10\u202fAM\u20134:30\u202fPM",
+        "friday": "10\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20134:30\u202fPM",
+        "tuesday": "10\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 773-3150",
+      "website": "http://www.portlandovations.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "user_review": "\"It filled up fast and the music was fantastic.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkLQ0drcWBlEsn0pFvyDVaIOSxxbrSTNGgBqW0fXLGrM4_V3g45dncA5jF5C5wRjHLZBppnOZ5kUT0qknu1GFKUai-wPfpfKcHJ4EVWBxv7ra-1_GqvSaMi4c3oaOjq8HIRdiejQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MbMq5nicHcRLjoIwAADQE1VKoNGYuIBRiooiomDcmFqg_GxLi8Ac0SN4m0nmLd73U_a91EvDaEtrxoRgbf7WuaKC9znvZ1S8DCY1oBpowzkdo8bBTRDBTNHUbTeaQ-kNv-uEbMN4mp4qvhwxc7sUFrcAq4P9SCxmo4xTB9Ue-kHjufaDuyslD--ouV5g1_C3ib39lVRgPBWy2FN_Z2-S1J2GuSLAfOBuiMmhsqklSFh3C397zqq8jlajCSEE5f8U8D_zL0VS"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=live+music+venues+in+Portland%2C+ME&start=20&type=search"
+  }
+}

@@ -1,75 +1,72 @@
 {
   "search_metadata": {
-    "id": "6a4e586902706acb42eac019",
+    "id": "6a4e67ff73bf5923cb451307",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/OojfRAkDeOn0V1KI0fJdYg/6a4e586902706acb42eac019.json",
-    "created_at": "2026-07-08 14:02:17 UTC",
-    "processed_at": "2026-07-08 14:02:17 UTC",
-    "google_maps_url": "https://www.google.com/maps/search/best+nightlife+bars+in+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
-    "raw_html_file": "https://serpapi.com/searches/OojfRAkDeOn0V1KI0fJdYg/6a4e586902706acb42eac019.html",
-    "prettify_html_file": "https://serpapi.com/searches/OojfRAkDeOn0V1KI0fJdYg/6a4e586902706acb42eac019.prettify",
-    "total_time_taken": 1.68
+    "json_endpoint": "https://serpapi.com/searches/uDXgC2RR_8tAhCujE_XMPw/6a4e67ff73bf5923cb451307.json",
+    "created_at": "2026-07-08 15:08:47 UTC",
+    "processed_at": "2026-07-08 15:08:47 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/bars+and+nightlife+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/uDXgC2RR_8tAhCujE_XMPw/6a4e67ff73bf5923cb451307.html",
+    "prettify_html_file": "https://serpapi.com/searches/uDXgC2RR_8tAhCujE_XMPw/6a4e67ff73bf5923cb451307.prettify",
+    "total_time_taken": 2.42
   },
   "search_parameters": {
     "engine": "google_maps",
     "type": "search",
-    "q": "best nightlife bars in Portland, OR",
+    "q": "bars and nightlife in Portland, ME",
     "google_domain": "google.com",
     "hl": "en",
     "gl": "us"
   },
   "search_information": {
     "local_results_state": "Results for exact spelling",
-    "query_displayed": "best nightlife bars in Portland, OR"
+    "query_displayed": "bars and nightlife in Portland, ME"
   },
   "local_results": [
     {
       "position": 1,
-      "title": "Raven's Manor",
-      "place_id": "ChIJ04gVjA8LlVQR_fPNOB8uoNs",
-      "data_id": "0x54950b0f8c1588d3:0xdba02e1f38cdf3fd",
-      "data_cid": "15825699802211808253",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b0f8c1588d3%3A0xdba02e1f38cdf3fd&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b0f8c1588d3%3A0xdba02e1f38cdf3fd&engine=google_maps_photos&hl=en",
+      "title": "The End of Portland Maine",
+      "place_id": "ChIJ9eYH6gOdskwRQodsG_UUJa0",
+      "data_id": "0x4cb29d03ea07e6f5:0xad2514f51b6c8742",
+      "data_cid": "12476401385659467586",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d03ea07e6f5%3A0xad2514f51b6c8742&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d03ea07e6f5%3A0xad2514f51b6c8742&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.520588,
-        "longitude": -122.67222369999999
+        "latitude": 43.663067,
+        "longitude": -70.251469
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ04gVjA8LlVQR_fPNOB8uoNs",
-      "provider_id": "/g/11qqyd54zs",
-      "rating": 4.7,
-      "reviews": 1613,
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9eYH6gOdskwRQodsG_UUJa0",
+      "provider_id": "/g/11stk2fxcb",
+      "rating": 4.8,
+      "reviews": 75,
       "price": "$20\u201330",
       "extracted_price": 20,
-      "type": "Cocktail bar",
+      "type": "Bar",
       "types": [
-        "Cocktail bar"
+        "Bar"
       ],
-      "type_id": "cocktail_bar",
+      "type_id": "bar",
       "type_ids": [
-        "cocktail_bar"
+        "bar"
       ],
-      "address": "235 SW 1st Ave, Portland, OR 97204",
+      "address": "229 Congress St, Portland, ME 04101",
       "country": "United States",
-      "open_state": "Closed \u00b7 Opens 6\u202fPM",
-      "hours": "Closed \u00b7 Opens 6\u202fPM",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
       "operating_hours": {
-        "wednesday": "6\u201311\u202fPM",
-        "thursday": "6\u201311\u202fPM",
-        "friday": "5\u202fPM\u201312\u202fAM",
-        "saturday": "5\u202fPM\u201312\u202fAM",
-        "sunday": "5\u201311\u202fPM",
-        "monday": "6\u201311\u202fPM",
-        "tuesday": "Closed"
+        "wednesday": "4\u202fPM\u20131\u202fAM",
+        "thursday": "4\u202fPM\u20131\u202fAM",
+        "friday": "4\u202fPM\u20131\u202fAM",
+        "saturday": "12\u202fPM\u20131\u202fAM",
+        "sunday": "4\u202fPM\u20131\u202fAM",
+        "monday": "4\u202fPM\u20131\u202fAM",
+        "tuesday": "4\u202fPM\u20131\u202fAM"
       },
-      "phone": "(971) 319-6182",
-      "website": "http://ravensmanorexperience.com/",
-      "description": "Drinks & bites in a horror-themed bar. Eerie destination with a supernatural motif offering creative cocktails & hearty meals.",
+      "website": "https://instagram.com/theendofportland",
       "extensions": [
         {
           "service_options": [
-            "Onsite services",
-            "Takeout",
+            "Outdoor seating",
             "Dine-in"
           ]
         },
@@ -77,12 +74,153 @@
           "highlights": [
             "Fast service",
             "Great cocktails",
-            "Live performances"
+            "Trivia night"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": false,
+        "delivery": false
+      },
+      "user_review": "\"Great drinks, friendly bartenders, and the best music around.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3eO0vldT03_QbGkts_sd58QkDNv58K8OnYUPpyErt_kchfNNtYl3clz3mqNKzfnJ5oqqf7v8MBiLKgv-p6C3INqrzC8Le-MOWanqj4SvHUIi_GmMvBzchAc8wP_zGjnScF3Uo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QsoUaHicHcRRboIwGADgE1VqOrbGxAd0kylSII4sPjXbb6FKaSntatYL7gy7zZJ9D9_vj_R-cqskUZIsemN6Jb6cmMFoL7RfgBmTfnIIHHJJVrNmyHZEVDioyxsmvPnMB--4u6S0GZ5ZSGlBK31u6-n7ZfZ8ANkx5s-KgIpktKyInT6kxtruKdBycz0WfUDT45bsmZ3jlh4FKqv3D21vD6fw2u6vPB_LsIkgM6D3msf8pk-wI61Z35cYYyT_B6T_AKpPRcI"
+    },
+    {
+      "position": 2,
+      "title": "Luna Rooftop Bar",
+      "place_id": "ChIJNdjOKWWdskwR8wW6cCXqD20",
+      "data_id": "0x4cb29d6529ced835:0x6d0fea2570ba05f3",
+      "data_cid": "7858757321310733811",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d6529ced835%3A0x6d0fea2570ba05f3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d6529ced835%3A0x6d0fea2570ba05f3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653964099999996,
+        "longitude": -70.2557783
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNdjOKWWdskwR8wW6cCXqD20",
+      "provider_id": "/g/11q35y19dj",
+      "rating": 4.6,
+      "reviews": 811,
+      "price": "$20\u201360",
+      "extracted_price": 20,
+      "type": "Bar",
+      "types": [
+        "Bar"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar"
+      ],
+      "address": "285 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 3\u202fPM",
+      "hours": "Closed \u00b7 Opens 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "3\u201311\u202fPM",
+        "thursday": "3\u201311\u202fPM",
+        "friday": "3\u201311\u202fPM",
+        "saturday": "11\u202fAM\u20132\u202fPM, 3\u201311\u202fPM",
+        "sunday": "11\u202fAM\u20132\u202fPM, 3\u201311\u202fPM",
+        "monday": "3\u201311\u202fPM",
+        "tuesday": "3\u201311\u202fPM"
+      },
+      "phone": "(207) 791-0011",
+      "website": "https://lunarooftopbarmaine.com/?SEO_id=GMB--R-PWMOPPY-2&y_source=1_MTAxOTc5OTkyOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great wine list",
+            "Live music",
+            "Live performances",
+            "Rooftop seating"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
           ]
         },
         {
           "accessibility": [
             "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
             "Wheelchair accessible restroom",
             "Wheelchair accessible seating"
           ]
@@ -94,7 +232,6 @@
             "Cocktails",
             "Food",
             "Food at bar",
-            "Happy hour drinks",
             "Hard liquor",
             "Wine"
           ]
@@ -106,7 +243,10 @@
         },
         {
           "amenities": [
-            "Restroom"
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
           ]
         },
         {
@@ -114,21 +254,14 @@
             "Casual",
             "Cozy",
             "Romantic",
-            "Trendy"
+            "Trendy",
+            "Upscale"
           ]
         },
         {
           "crowd": [
             "Groups",
-            "LGBTQ+ friendly",
-            "Tourists",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations",
-            "Usually a wait"
+            "Tourists"
           ]
         },
         {
@@ -148,281 +281,13 @@
       "unsupported_extensions": [
         {
           "service_options": [
-            "Delivery"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "takeout": true,
-        "delivery": false
-      },
-      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/PqYOyf45rOQ?source=pa&opi=79508299&hl=en-US&gei=aVhOau22K_O5qtsP7rKI4QQ&ahbb=1&sourceurl=https://www.google.com/search?gl%3Dus%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1swE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:2!2s1i:0,t:11886,p:wE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:2!7e81!12e5!17swE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:87!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26tbm%3Dmap%26hl%3Den%26q%3Dbest%2Bnightlife%2Bbars%2Bin%2BPortland,%2BOR",
-      "user_review": "\"The drinks taste good and have their own entertainment value.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcY_EGpJufFU-zVtTr34JmXiJP8Z0B3mJoiq1uM5eHiIS3KnGpU3omyrp-rbCK2n2lNb9eOFidrsN6ajNmm6HUAh5-UrGoNP47rfW52YlENSXIeOR9S2BzODcbeIxEg2WVeZO9=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/R6dzF3icHcRZUoMwAADQEwVoUlrpjB9U2acBixTaH0fSsFiymITpckHP4G2c8X2835_BGKk3tj0NyOqF6Cc6a6qI4IZyYxHB7F5qQDTQtl_gt4sfkuNHEMl07sIKPA7mXaFlypoxLZ5OzhaxVIzfi3nn0nhMSpTxSFZIsLuSQLUvGeRwwq1H83A8K41Xn1-YsVVc-YMLKhUJXCzXqqtdeJwCXDYJzfdeCbeP_JW0NLkFPawP9JR7z9eF4zhg-J8A_gcgWkOR"
-    },
-    {
-      "position": 2,
-      "title": "The Midnight PDX & The Six Venue",
-      "place_id": "ChIJKTf2-o6hlVQRQh6tQNDqyE0",
-      "data_id": "0x5495a18efaf63729:0x4dc8ead040ad1e42",
-      "data_cid": "5604987916421766722",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a18efaf63729%3A0x4dc8ead040ad1e42&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a18efaf63729%3A0x4dc8ead040ad1e42&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5166646,
-        "longitude": -122.629848
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKTf2-o6hlVQRQh6tQNDqyE0",
-      "provider_id": "/g/11lsn2nvdk",
-      "rating": 4.7,
-      "reviews": 155,
-      "price": "$20\u201330",
-      "extracted_price": 20,
-      "type": "Cocktail bar",
-      "types": [
-        "Cocktail bar",
-        "Live music venue",
-        "Sushi restaurant"
-      ],
-      "type_id": "cocktail_bar",
-      "type_ids": [
-        "cocktail_bar",
-        "live_music_venue",
-        "sushi_restaurant"
-      ],
-      "address": "3341 SE Belmont St, Portland, OR 97214",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 5\u202fPM",
-      "hours": "Closed \u00b7 Opens 5\u202fPM",
-      "operating_hours": {
-        "wednesday": "5\u202fPM\u201312\u202fAM",
-        "thursday": "5\u202fPM\u201312\u202fAM",
-        "friday": "5\u202fPM\u20132\u202fAM",
-        "saturday": "5\u202fPM\u20132\u202fAM",
-        "sunday": "2\u201310\u202fPM",
-        "monday": "Closed",
-        "tuesday": "5\u202fPM\u201312\u202fAM"
-      },
-      "website": "http://themidnightsocietypdx.net/",
-      "extensions": [
-        {
-          "from_the_business": [
-            "Identifies as Latino-owned"
-          ]
-        },
-        {
-          "service_options": [
-            "Outdoor seating",
-            "Takeout",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Fast service",
-            "Great cocktails",
-            "Karaoke",
-            "Live music",
-            "Live performances"
-          ]
-        },
-        {
-          "popular_for": [
-            "Solo dining"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Dancing",
-            "Food",
-            "Food at bar",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Casual",
-            "Cozy",
-            "Trendy"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery"
-          ]
-        },
-        {
-          "dining_options": [
-            "Table service"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "takeout": true,
-        "delivery": false
-      },
-      "user_review": "\"Beautiful place, great cocktails, great staff, great music.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9SvQeicjiTv4s9p1bDCtSEM5QLb-H059Ik6h8MzdJIj5-9PIBEj4aGsvEFtYELGSLFbUgM9aYUZk-Uyb2xoXMXahBOUEWT6yq37YI7QFxiD7TZ8JuiRRzKltGwoRuLY14WA0=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/vrB4NnicHcTbEoFAAADQL1ptlKwZD9GWKHQb6q1W03bRxm6hD_QP_saM83C-HypEx5eS1NDZpGCsaPKe5w_CWpG3YkLYTSo6DggHXNJPB6_WLRQMXl6SqgwHhaNOzoyNCLCrek4GtlBFdj2nC3e87uxKBehkr3GlpBYfsCli7FiBY2ZR4aI0jpIaRO9s-mIX95LS9THC53D-vs-02NY881UaWpgsdn3p--O-EdaT-b0Ty8pZh6unDCEE9D8B7Q9z20KB"
-    },
-    {
-      "position": 3,
-      "title": "Kasa Nightclub Portland",
-      "place_id": "ChIJQaVEGWwLlVQRQj-3Cqcqgfs",
-      "data_id": "0x54950b6c1944a541:0xfb812aa70ab73f42",
-      "data_cid": "18122813272443273026",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b6c1944a541%3A0xfb812aa70ab73f42&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b6c1944a541%3A0xfb812aa70ab73f42&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5200393,
-        "longitude": -122.67545849999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQaVEGWwLlVQRQj-3Cqcqgfs",
-      "provider_id": "/g/11rn5d7lpc",
-      "rating": 4.6,
-      "reviews": 486,
-      "type": "Night club",
-      "types": [
-        "Night club"
-      ],
-      "type_id": "night_club",
-      "type_ids": [
-        "night_club"
-      ],
-      "address": "424 SW 4th Ave, Portland, OR 97204",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 9\u202fPM Fri",
-      "hours": "Closed \u00b7 Opens 9\u202fPM Fri",
-      "operating_hours": {
-        "wednesday": "Closed",
-        "thursday": "Closed",
-        "friday": "9\u202fPM\u20132\u202fAM",
-        "saturday": "9\u202fPM\u20132\u202fAM",
-        "sunday": "Closed",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 567-2266",
-      "website": "https://kasa.club/",
-      "description": "Trendy nightspot featuring DJs, Latin beats and an ample bar, as well as bottle-service tables.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Great cocktails",
-            "Live music",
-            "Live performances"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Dancing",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Trendy"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups",
-            "LGBTQ+ friendly",
-            "Tourists"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid parking lot",
-            "Usually plenty of parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
             "Delivery",
             "Takeout"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
           ]
         }
       ],
@@ -431,325 +296,57 @@
         "takeout": false,
         "delivery": false
       },
-      "user_review": "\"Amazing music, great atmosphere and the security was top notch.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcvdI8VdmkTgTL1fOKpOUEst_Jq9qa2rMP_WkWN5AghLwnMvDli6bRqwbcy9HIBX3RqezvbEzXsGkr5FEZo--UqRY5JZbuLy7vwF274m3VNKtVvGS-fRqe3QQUHlREano0oPw=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/0qvi43icHcvLDYIwAADQiQoI4i_xgBFRQAQUVC5EKhYDtJTWNjqgO7iNxsu7vc-74rxjM1VtKkNBhKCmfLCyhwTzEnMFklZFHQOQAaZaYRDVlgPFdTNJr219QAd_cNt53S6xGc9dOqUXvd-G-bE-BqaFKl_irVg291ERU1nA53S9WZyMmJYvUdivE3Pq3lzZGQEgofHZdLPi4T_HQq708bA10sDjqXD24PYbRhQl6ya2L5hoJJRzOdA0DVR_IcBfeJ1FHg"
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/IfyQlPf8lm0?source=pa&opi=79508299&hl=en-US&gei=AGhOatnCGuubhbIPkIqSkAY&ahbb=1&sourceurl=https://www.google.com/search?gl%3Dus%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1s_TegUHvMUtHMaRChHPXCT6Hb0UGgwuM:2!2s1i:0,t:11886,p:_TegUHvMUtHMaRChHPXCT6Hb0UGgwuM:2!7e81!12e5!17s_TegUHvMUtHMaRChHPXCT6Hb0UGgwuM:35!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dbars%2Band%2Bnightlife%2Bin%2BPortland,%2BME%26tbm%3Dmap%26hl%3Den",
+      "user_review": "\"The service and drinks were great and the vibe energetic and fun.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDgM6Qjk9HIHtnQFLkE5D2-Vhm3HcIlm64l3ZMZAJvSQGS0SHNLiadF1hEG8IGAYc1mw4lqsmmyDLAGfGXfxM6G7HE5aXLhZIXPR-8-RLcwwh6CjQ07Oj0Rnstc5mq9t0T28np=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Q0aJSnicHcRRboMgAADQE1FRq9Ul-yBVwQVd0WWx_jXUShVQBxvbCXeG3WZJ38f7-xXWrubJ86QId-OyjHL4NMMHX7QdtN3xRXnjagA3wHjoVLMZFdlYxWyaU1ISq1lB5zzKAvAuVEh4KVW8l2Ff9ejlq2W4hS2p6f1yLXyR46TE6Mx95fZyM0r9ZBThG-5u31WMDySPLh0VfdmdGpCAhnLnRHycGDy8TrDRxvJIbamFb0Gi12fnQwiBeMyB_gd-X0JJ"
     },
     {
-      "position": 4,
-      "title": "District Nightclub",
-      "place_id": "ChIJcaSIIQcKlVQRssj1v6R1cGU",
-      "data_id": "0x54950a072188a471:0x657075a4bff5c8b2",
-      "data_cid": "7309471545677957298",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a072188a471%3A0x657075a4bff5c8b2&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a072188a471%3A0x657075a4bff5c8b2&engine=google_maps_photos&hl=en",
+      "position": 3,
+      "title": "Room for Improvement",
+      "place_id": "ChIJK2UUUfadskwRRMhEr5Of2KI",
+      "data_id": "0x4cb29df65114652b:0xa2d89f93af44c844",
+      "data_cid": "11734304285763356740",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29df65114652b%3A0xa2d89f93af44c844&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29df65114652b%3A0xa2d89f93af44c844&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5224465,
-        "longitude": -122.67297579999999
+        "latitude": 43.6557667,
+        "longitude": -70.2543563
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcaSIIQcKlVQRssj1v6R1cGU",
-      "provider_id": "/g/11b6v7t8n8",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK2UUUfadskwRRMhEr5Of2KI",
+      "provider_id": "/g/11kc2x7kzj",
       "rating": 4.7,
-      "reviews": 796,
-      "price": "$10\u201350",
-      "extracted_price": 10,
-      "type": "Bar",
-      "types": [
-        "Bar",
-        "Lounge bar",
-        "Night club"
-      ],
-      "type_id": "bar",
-      "type_ids": [
-        "bar",
-        "lounge",
-        "night_club"
-      ],
-      "address": "220 SW Ankeny St, Portland, OR 97204",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 9\u202fPM",
-      "hours": "Closed \u00b7 Opens 9\u202fPM",
-      "operating_hours": {
-        "wednesday": "9\u202fPM\u20132\u202fAM",
-        "thursday": "9\u202fPM\u20132\u202fAM",
-        "friday": "9\u202fPM\u20132\u202fAM",
-        "saturday": "9\u202fPM\u20132\u202fAM",
-        "sunday": "8\u202fPM\u20132\u202fAM",
-        "monday": "Closed",
-        "tuesday": "9\u202fPM\u20132\u202fAM"
-      },
-      "phone": "(360) 798-0991",
-      "website": "https://www.districtnightclubpdx.com/",
-      "description": "Cocktails & snacks in an urban speakeasy. Chic lounge with a Roaring '20s vibe, craft cocktails & a light fare menu, plus DJs on the weekends.",
-      "extensions": [
-        {
-          "service_options": [
-            "Outdoor seating",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Great cocktails",
-            "Live music",
-            "Live performances"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Dancing",
-            "Food",
-            "Food at bar",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Outside food allowed",
-            "Seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Restroom",
-            "Wi-Fi",
-            "Free Wi-Fi"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Trendy",
-            "Upscale"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups",
-            "LGBTQ+ friendly",
-            "Tourists"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid parking lot",
-            "Paid street parking",
-            "Usually plenty of parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible parking lot"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "delivery": false
-      },
-      "user_review": "\"Great atmosphere, drinks are reasonably priced and the staff are amazing.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHM9wI2DwUTSktQ8rrYjfOz757h5qtzF0b4BxZS6rCULDHlt8z3kLBPq3rBJ7slVaYcntP3oaORhDnaV0hE_-hfTF2MuBZgWGrZYSq2NkeI98j1Ulsi1wYs7dYZ9VQaRi6h-10xtQ=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/yTiTPHicHcRJDoIwFADQE1UKqICJCxHHOIAMpmwMVqRKbaX9BsMNPYK3MfEt3vfDAJ56ZBic2b1KyoqXL10qKgWUAnpUPozqqRHVSBuTcBfVk-XWa1dW0KZJXEPkKkXu133nDBw2aKCb43Pff-fxUE3TTbDk4HZ2vfHDxlb-2tE8KwgVENqy2B9YIIoMs9kJsWsyt7YvP6-OC5WTuLF2dbny3LuZcn0zW6KdC8m9LCoOtyFDJn5DNG5NjDFi_ykSP9GwRNs"
-    },
-    {
-      "position": 5,
-      "title": "Secret Grove",
-      "place_id": "ChIJM9Aemo0JlVQRG1iKP42p2p4",
-      "data_id": "0x5495098d9a1ed033:0x9edaa98d3f8a581b",
-      "data_cid": "11446647827037050907",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495098d9a1ed033%3A0x9edaa98d3f8a581b&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495098d9a1ed033%3A0x9edaa98d3f8a581b&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.525884399999995,
-        "longitude": -122.6856124
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM9Aemo0JlVQRG1iKP42p2p4",
-      "provider_id": "/g/11y5494cyc",
-      "rating": 4.9,
-      "reviews": 120,
+      "reviews": 220,
       "price": "$10\u201320",
       "extracted_price": 10,
       "type": "Cocktail bar",
       "types": [
-        "Cocktail bar"
+        "Cocktail bar",
+        "Bar"
       ],
       "type_id": "cocktail_bar",
       "type_ids": [
-        "cocktail_bar"
+        "cocktail_bar",
+        "bar"
       ],
-      "address": "1425A NW Flanders St, Portland, OR 97209",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 5\u202fPM Thu",
-      "hours": "Closed \u00b7 Opens 5\u202fPM Thu",
-      "operating_hours": {
-        "wednesday": "Closed",
-        "thursday": "5\u202fPM\u201312:30\u202fAM",
-        "friday": "5\u202fPM\u20132\u202fAM",
-        "saturday": "5\u202fPM\u20132\u202fAM",
-        "sunday": "Closed",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "website": "https://secretgrovecollective.com/",
-      "extensions": [
-        {
-          "service_options": [
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Fast service",
-            "Great cocktails",
-            "Live music",
-            "Live performances"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Dancing",
-            "Food",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Restroom",
-            "Wi-Fi",
-            "Free Wi-Fi"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Casual",
-            "Cozy",
-            "Trendy"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Usually somewhat difficult to find a space"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true
-      },
-      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5NTQ5NGN5YxgCOgMI8A0%3D&g2lbs=AEzIGDvg7wHh9gKUjwKY2VoA9Fzovx7h4TaPmr17aquR0oKMLyTJBznWG2uMhIqAXm7s0FDACrha&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=aVhOau22K_O5qtsP7rKI4QQ&ei=aVhOau22K_O5qtsP7rKI4QQ&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
-      "user_review": "\"The atmosphere and music\nis low key dreamy & the espresso martini is epic.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoqCNeN4EzpNhRw84O9kFfRSz27jWYbR89YJ9-SDdADKm26d7Y19SfF6QSX3c13XphtLRkPZOPKBYVKxCrBECWsBHIoGfod-cnKb0P2cxp7V1o28m1hf5hbWLO2rYXPYRt14mk=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/xzLWbnicHcRJDoIwAADAF1VoQQETD4A7BGpJgHqkLI0srbRG4wd9g78xcQ7z_XCtpVobxsCtRSdENzQP1cxMTLqZ9IKJ0eikAkwBZfg4ufT-UdzDpEns3VsmnDxdO_X6fUuyN3JuBa2I69GzB7Jt7W-jEa1qh0Iva_erS1ZaDFql5DomPb6mOApoHr3COdiFhQqOJ3FoRQ3YFFUmRuwlnRwK5I6Qt0teFXGKZlpiSjS0x37zhKZpAv6fgekHi-VCUQ"
-    },
-    {
-      "position": 6,
-      "title": "Rachel & Rose",
-      "place_id": "ChIJJWqLjZILlVQRmaWYCzYFq7s",
-      "data_id": "0x54950b928d8b6a25:0xbbab05360b98a599",
-      "data_cid": "13522908035790972313",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b928d8b6a25%3A0xbbab05360b98a599&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b928d8b6a25%3A0xbbab05360b98a599&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5229146,
-        "longitude": -122.6787956
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJWqLjZILlVQRmaWYCzYFq7s",
-      "provider_id": "/g/11rvbbmdxz",
-      "rating": 4.9,
-      "reviews": 114,
-      "price": "$1\u201310",
-      "extracted_price": 1,
-      "type": "Bar",
-      "types": [
-        "Bar",
-        "Beer garden",
-        "Wine bar"
-      ],
-      "type_id": "bar",
-      "type_ids": [
-        "bar",
-        "beer_garden",
-        "wine_bar"
-      ],
-      "address": "770 W Burnside St, Portland, OR 97205",
+      "address": "41 Wharf St, Portland, ME 04101",
       "country": "United States",
       "open_state": "Closed \u00b7 Opens 5\u202fPM",
       "hours": "Closed \u00b7 Opens 5\u202fPM",
       "operating_hours": {
-        "wednesday": "5\u20139\u202fPM",
-        "thursday": "5\u20139\u202fPM",
-        "friday": "4\u20139\u202fPM",
-        "saturday": "2\u20139\u202fPM",
-        "sunday": "12\u20136\u202fPM",
-        "monday": "Closed",
-        "tuesday": "5\u20139\u202fPM"
+        "wednesday": "5\u202fPM\u20131\u202fAM",
+        "thursday": "5\u202fPM\u20131\u202fAM",
+        "friday": "5\u202fPM\u20131\u202fAM",
+        "saturday": "5\u202fPM\u20131\u202fAM",
+        "sunday": "5\u202fPM\u20131\u202fAM",
+        "monday": "5\u202fPM\u20131\u202fAM",
+        "tuesday": "5\u202fPM\u20131\u202fAM"
       },
-      "phone": "(503) 770-0105",
-      "website": "https://www.instagram.com/rachel_and_rose_doubledecker?igsh=YWY4ZzI0b3R0M2Q3&utm_source=qr",
+      "website": "http://www.roomforimprovement.me/",
       "extensions": [
         {
           "service_options": [
             "Outdoor seating",
-            "Onsite services",
             "Dine-in"
           ]
         },
@@ -757,152 +354,6 @@
           "highlights": [
             "Fast service",
             "Great beer selection",
-            "Great cocktails",
-            "Rooftop seating"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Food",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Outside food allowed",
-            "Seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Casual",
-            "Cozy",
-            "Trendy"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups",
-            "LGBTQ+ friendly",
-            "Tourists",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "children": [
-            "Good for kids"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery"
-          ]
-        },
-        {
-          "dining_options": [
-            "Table service"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "curbside_pickup": true,
-        "delivery": false
-      },
-      "user_review": "\"awesome service, great price, even better drinks!!\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHH0UwQreI_I7F47WtlzY2piq9YWmEfTys5F0hYvlZQFuxDvhIBOoiXcs3T-cL_S_hf3CUe0U5mGvlwYAg5aFp075rOWtGtR2F0s8xprYPYOoq5tw7Csi_mS6y-yrCASt0GWFpaSUGK6fc=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/8O6oY3icHcTRToMwFADQL-qoww418QGZZUQjQ0aweyFLUyix0K73DoYf6bt_s8TzcP5-NaKDpyAwOlx11nZGXUB5aUdUI66kHYLOAZFAIIj3H8V3vNvRai68ypos4vdRjeZHrF1_fhT18NoeFmCcajGZY8Ev1-2ks5fc9l8SwgOR703Z6DZMKkUrNqSTmUXcsRN3NGI-rzHFzzWn8HB1XuxFbs8M5yiBvhnKzUIWn8Ql0rTm7lRW6dumlc_zHaWU6P8lGW90TkdJ"
-    },
-    {
-      "position": 7,
-      "title": "Rum Club",
-      "place_id": "ChIJrzquxqaglVQRTdNNghjAdfI",
-      "data_id": "0x5495a0a6c6ae3aaf:0xf275c018824dd34d",
-      "data_cid": "17471081540951593805",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a6c6ae3aaf%3A0xf275c018824dd34d&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a6c6ae3aaf%3A0xf275c018824dd34d&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5188871,
-        "longitude": -122.65805719999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrzquxqaglVQRTdNNghjAdfI",
-      "provider_id": "/g/1tj4b5pl",
-      "rating": 4.7,
-      "reviews": 789,
-      "price": "$20\u201330",
-      "extracted_price": 20,
-      "type": "Cocktail bar",
-      "types": [
-        "Cocktail bar",
-        "Lounge bar",
-        "Restaurant"
-      ],
-      "type_id": "cocktail_bar",
-      "type_ids": [
-        "cocktail_bar",
-        "lounge",
-        "restaurant"
-      ],
-      "address": "720 SE Sandy Blvd, Portland, OR 97214",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 4\u202fPM",
-      "hours": "Closed \u00b7 Opens 4\u202fPM",
-      "operating_hours": {
-        "wednesday": "4\u202fPM\u20131\u202fAM",
-        "thursday": "4\u202fPM\u20131\u202fAM",
-        "friday": "4\u202fPM\u20131\u202fAM",
-        "saturday": "4\u202fPM\u20131\u202fAM",
-        "sunday": "4\u202fPM\u20131\u202fAM",
-        "monday": "4\u202fPM\u20131\u202fAM",
-        "tuesday": "4\u202fPM\u20131\u202fAM"
-      },
-      "phone": "(503) 265-8807",
-      "website": "http://rumclubpdx.com/",
-      "description": "Cozy cocktail spot with a tropical bent. Compact lounge with a chill vibe & horseshoe-shaped bar specializing in tropical cocktails.",
-      "extensions": [
-        {
-          "service_options": [
-            "Outdoor seating",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Fast service",
             "Great cocktails"
           ]
         },
@@ -912,21 +363,12 @@
           ]
         },
         {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
           "offerings": [
             "Alcohol",
             "Beer",
             "Cocktails",
             "Food",
             "Food at bar",
-            "Happy hour drinks",
-            "Happy hour food",
             "Hard liquor",
             "Wine"
           ]
@@ -939,181 +381,26 @@
         },
         {
           "amenities": [
-            "Gender-neutral restroom",
-            "Restroom",
-            "Wi-Fi",
-            "Free Wi-Fi"
+            "Restroom"
           ]
         },
         {
           "atmosphere": [
             "Casual",
             "Cozy",
-            "Romantic",
             "Trendy"
           ]
         },
         {
           "crowd": [
             "Groups",
-            "LGBTQ+ friendly",
-            "Tourists",
-            "Transgender safespace"
+            "Tourists"
           ]
         },
         {
           "payments": [
             "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "delivery": false
-      },
-      "user_review": "\"Great atmosphere, creative drinks and talented bartenders.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8JgL8J4cOOGEvhWUP2PUgigx2jNzaZOgTEpKvNc_ac_v8D1oMNpNfaBIJYp-fj2k9XNG-ThV-hRn3NdtAR39l0KzTSwNbk10dv2jj8B9fMO_oTXcJ98oNSpmRP0rYhCDBVaoOwg=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/B7aYKXicHcRLDoIwFADAE1UKuCgmLkAMEfUVEb8bghVaAWljKxhv6BG8jYmzmO9HGKP0xLJa4Y64lLwtn7p8MNmZsjMjJu8WVxoxjbTlJ7Bp_IjEfEXiMaM0mvfisEucZMdv_OXU8C7OlGdzteyB5QXLexLacg0KqiJYxCeFqtppvCNEKBN7JNLOhavxU9dr8fKdbQe4NDa-9k5dk8Cr1jSX2ZHFHpGwVfc0wY-TmIXBvpB04NPBxhgj8Z-h7geehUSH"
-    },
-    {
-      "position": 8,
-      "title": "Multnomah Whiskey Library",
-      "place_id": "ChIJEUSHUgMKlVQRkIp511Xmspk",
-      "data_id": "0x54950a0352874411:0x99b2e655d7798a90",
-      "data_cid": "11075167690019146384",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0352874411%3A0x99b2e655d7798a90&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0352874411%3A0x99b2e655d7798a90&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5209808,
-        "longitude": -122.68345939999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEUSHUgMKlVQRkIp511Xmspk",
-      "provider_id": "/g/11bwc9bkn5",
-      "rating": 4.7,
-      "reviews": 2058,
-      "price": "$100+",
-      "extracted_price": 100,
-      "unclaimed_listing": true,
-      "type": "Lounge bar",
-      "types": [
-        "Lounge bar",
-        "American restaurant",
-        "Bar",
-        "Cocktail bar",
-        "Small plates restaurant"
-      ],
-      "type_id": "lounge",
-      "type_ids": [
-        "lounge",
-        "american_restaurant",
-        "bar",
-        "cocktail_bar",
-        "small_plates_restaurant"
-      ],
-      "address": "1124 SW Alder St, Portland, OR 97205",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 4\u202fPM",
-      "hours": "Closed \u00b7 Opens 4\u202fPM",
-      "operating_hours": {
-        "wednesday": "4\u201310\u202fPM",
-        "thursday": "4\u201310\u202fPM",
-        "friday": "4\u201311\u202fPM",
-        "saturday": "4\u201311\u202fPM",
-        "sunday": "Closed",
-        "monday": "Closed",
-        "tuesday": "4\u201310\u202fPM"
-      },
-      "phone": "(503) 954-1381",
-      "website": "http://www.mwlpdx.com/",
-      "description": "Clubby hideaway with a huge spirits list. Cozy upstairs lounge with brick walls & a vintage feel features 1,500+ spirits & small plates.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services",
-            "Takeout",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Great cocktails"
-          ]
-        },
-        {
-          "popular_for": [
-            "Solo dining"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Food",
-            "Food at bar",
-            "Hard liquor",
-            "Private dining room",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Table service"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom",
-            "Wi-Fi"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Cozy",
-            "Romantic",
-            "Trendy",
-            "Upscale"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups",
-            "Tourists",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Reservations required",
-            "Accepts reservations",
-            "Usually a wait"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
+            "Debit cards"
           ]
         },
         {
@@ -1127,56 +414,68 @@
       "unsupported_extensions": [
         {
           "service_options": [
-            "Delivery"
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
           ]
         }
       ],
       "service_options": {
         "dine_in": true,
-        "takeout": true,
+        "takeout": false,
         "delivery": false
       },
-      "user_review": "\"Great drink, great atmosphere and top-flight service!\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyLKo_hysd_6s_jFx0reMnYdktP796UHxT1Jo3uPwTnttkIQ-ZC-I916kD_INyb_jmXR2RQ8B7-5EQbo7Vl9jRug_i4wRr7TI9sqIlqsNo_nXZovxylcfGRi72281UNeUjGt8z=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/IC2xDXicHcTdboIwGADQJ6r8qBSW7EI3dZ2OQAMGvWli7UCo_ZSvDNgL7hn2Niaei_P_V1l7wxfH0dV0UgKUWnWoWgnGKmMnEq5OeUMikaCzSOK0WazH3RZENeJZBCjq9eC26ssczo1NaBTkH0PmfcK0S_rMWNuwlBzfCIu8oHkXLB5Por4W3OdpuKRkvkpPQPc6qnlXisus5y3NWIR3pu8YgzDFEX6GUcvvDb9Q3w-9PFZ5vbHh72vvua5LqueSmAeaREUt"
+      "user_review": "\"The space is funky, the drinks are spectacular, and the staff is friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxZEmm7W8Dz9dRV2H7oRiPL-GJwd0ldZf2vHKm4RqK9gtb3_oTAFH3-GWRiGXnbcsQSSRhk3t4h34g30ZyZ6NOED6xBhhYIZrutOKUjRyT9myN__-60lNHZM_BsT3TqdlzPX0Lwg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/m43mFnicHcThEoEwAADgJ5rGusidHzkpIlkh-9OdlQ1bw0byhh7B27jz_fi-H27MVQ8tS3DUYUoxUT10daeqNlVtOlRJi101oBpoy0vi9cWbvogvZX83mLzdEm97YV_hU7IAwbwpoSjJsfcMI2njW-Qyc0CFyrxpiECww6cgrw9Ur9MU8wsyNkc2Q5C0xIlX_sR5jTnfz8j9YVbR5ozbzJVtXBTAgSIOybIY6wxlt1K8kxwuGjZquhBCwP9TUP8AgoFEcQ"
     },
     {
-      "position": 9,
-      "title": "The Coffin",
-      "place_id": "ChIJa9FDVKaglVQRRnakThWVxX8",
-      "data_id": "0x5495a0a65443d16b:0x7fc595154ea47646",
-      "data_cid": "9206928931975099974",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a65443d16b%3A0x7fc595154ea47646&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a65443d16b%3A0x7fc595154ea47646&engine=google_maps_photos&hl=en",
+      "position": 4,
+      "title": "Maps",
+      "place_id": "ChIJ0Qpo_j-cskwR3GobMbj2N68",
+      "data_id": "0x4cb29c3ffe680ad1:0xaf37f6b8311b6adc",
+      "data_cid": "12625831351314770652",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3ffe680ad1%3A0xaf37f6b8311b6adc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3ffe680ad1%3A0xaf37f6b8311b6adc&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5199472,
-        "longitude": -122.6609306
+        "latitude": 43.657540499999996,
+        "longitude": -70.2538848
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa9FDVKaglVQRRnakThWVxX8",
-      "provider_id": "/g/1tf9sjv_",
-      "rating": 4.4,
-      "reviews": 1484,
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0Qpo_j-cskwR3GobMbj2N68",
+      "provider_id": "/g/11cn0snd2g",
+      "rating": 4.7,
+      "reviews": 309,
       "price": "$10\u201320",
       "extracted_price": 10,
       "type": "Bar",
       "types": [
-        "Bar",
-        "Night club"
+        "Bar"
       ],
       "type_id": "bar",
       "type_ids": [
-        "bar",
-        "night_club"
+        "bar"
       ],
-      "address": "421 SE Grand Ave, Portland, OR 97214",
+      "address": "64A Market St, Portland, ME 04101",
       "country": "United States",
-      "website": "https://www.thecoffinclubpdx.com/",
-      "description": "Horror-themed bar with eclectic events. Dark Goth bar with horror-themed decor, hosting concerts, burlesque shows, tarot readings & more.",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u202fPM\u201312\u202fAM",
+        "thursday": "4\u202fPM\u20131\u202fAM",
+        "friday": "4\u202fPM\u20131\u202fAM",
+        "saturday": "4\u202fPM\u20131\u202fAM",
+        "sunday": "4\u201310\u202fPM",
+        "monday": "4\u202fPM\u201312\u202fAM",
+        "tuesday": "4\u202fPM\u201312\u202fAM"
+      },
+      "website": "http://mapsbarportland.com/",
       "extensions": [
         {
           "service_options": [
-            "Outdoor seating",
-            "Onsite services",
             "Dine-in"
           ]
         },
@@ -1185,720 +484,7 @@
             "Fast service",
             "Great beer selection",
             "Great cocktails",
-            "Live music",
-            "Live performances"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Dancing",
-            "Food",
-            "Happy hour drinks",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Seating"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Casual",
-            "Trendy"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups",
-            "Tourists"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid street parking",
-            "Usually somewhat difficult to find a space"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "Takeout"
-          ]
-        },
-        {
-          "dining_options": [
-            "Table service"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "takeout": false,
-        "delivery": false
-      },
-      "user_review": "\"Amazing djs, great music, and super freindly staff.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwXWOeahl2rFRIW-1LlIZ76vAdYLHf-ZOricfJbITmLcW1mqiFN615Fp5bhOuyXkErtSVTuzopnY15T-RqqG4yWTcsz6vx05i1oFc0ZLRiQSAKXO_QOTn9unaYY-lCvFpNf32F=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/UO7Y93icHcTbboIwAADQLyq0OjCa7IEsK2MSKtjI5cVoBUosbaEFLz_oN_g3S3YezvvFrdVm47qCL51WqVbUk6lHpqStpXWY6t1WG8AMMG6wS9JrEN6KnNQnLhYjzqIcoFhE1cqfg0sZ_zSgImPHmt9zRPuY5agfOpz4yMPaO3MyPYrr92j3Bzo9lZYl8ijIhiH8eOSUmac_36HXIYUZrOKsS_fBtiDHlFC5nuSpLIH4mrFOmuUCf94QhBDw_xmQf1azRHw"
-    },
-    {
-      "position": 10,
-      "title": "BIZU",
-      "place_id": "ChIJ5XNeEdQLlVQRqy8iZr5Y8Ow",
-      "data_id": "0x54950bd4115e73e5:0xecf058be66222fab",
-      "data_cid": "17073243762142097323",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950bd4115e73e5%3A0xecf058be66222fab&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950bd4115e73e5%3A0xecf058be66222fab&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.523669999999996,
-        "longitude": -122.6736949
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5XNeEdQLlVQRqy8iZr5Y8Ow",
-      "provider_id": "/g/11vpsbq18d",
-      "rating": 4.9,
-      "reviews": 86,
-      "price": "$10\u201320",
-      "extracted_price": 10,
-      "type": "Bar",
-      "types": [
-        "Bar",
-        "Event venue",
-        "Lounge bar"
-      ],
-      "type_id": "bar",
-      "type_ids": [
-        "bar",
-        "event_venue",
-        "lounge"
-      ],
-      "address": "35 NW 3rd Ave, Portland, OR 97209",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 5\u202fPM Thu",
-      "hours": "Closed \u00b7 Opens 5\u202fPM Thu",
-      "operating_hours": {
-        "wednesday": "Closed",
-        "thursday": "5\u202fPM\u20132\u202fAM",
-        "friday": "10\u202fPM\u20132:30\u202fAM",
-        "saturday": "9\u202fPM\u20132:30\u202fAM",
-        "sunday": "10\u202fPM\u20132\u202fAM",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(971) 319-2823",
-      "website": "http://www.bizupdx.com/",
-      "extensions": [
-        {
-          "from_the_business": [
-            "Identifies as Asian-owned",
-            "Identifies as Black-owned",
-            "Identifies as women-owned"
-          ]
-        },
-        {
-          "service_options": [
-            "Takeout",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Great cocktails",
-            "Live music",
-            "Live performances",
-            "Sports"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Dancing",
-            "Food",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Trendy"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups",
-            "LGBTQ+ friendly",
-            "Tourists",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "curbside_pickup": true,
-        "delivery": false
-      },
-      "user_review": "\"Great vibes, black people, good people and good music.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHquHManX6QsqrHgWJlfewIEU9D4Gr-PXx9tieqfdiwlew9ZTH9Yzo_ObDRZr_EfeRfgnteKOrS_4W9sR1qD9QW3TIoBd251bTQLamFhRFrxr3i0mdlVO4TL376Lvmbbie-xHQ=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/hctidXicHcxRE4EwAADgXzSVkps7D1xYRJYoXjrVWp3VtI06P9B_8G84L9_j93mXSt3lRNNYaQ4o55SRhyQi440ijRpkvNboXYJMAqnN9jt8m6H2gbbXJraxbAWi0ZoVpHMXR-hYKwH2cQ9VRdoirzpGOngJETy_eOKnTnARyaIgQUF_98YXh8SKoAyM1oE4MkOXz_PhyEhD7F3rZRksRS_MSq9zdvKt0DPHtves07QioEd42hm6roPybwaaL4vPRP4"
-    },
-    {
-      "position": 11,
-      "title": "Scotch Lodge",
-      "place_id": "ChIJsY2Zf8yhlVQRCWpC4lx2uVw",
-      "data_id": "0x5495a1cc7f998db1:0x5cb9765ce2426a09",
-      "data_cid": "6681501663485913609",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1cc7f998db1%3A0x5cb9765ce2426a09&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1cc7f998db1%3A0x5cb9765ce2426a09&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.521335799999996,
-        "longitude": -122.656848
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsY2Zf8yhlVQRCWpC4lx2uVw",
-      "provider_id": "/g/11h5qbqjzk",
-      "rating": 4.8,
-      "reviews": 819,
-      "type": "Cocktail bar",
-      "types": [
-        "Cocktail bar",
-        "Restaurant"
-      ],
-      "type_id": "cocktail_bar",
-      "type_ids": [
-        "cocktail_bar",
-        "restaurant"
-      ],
-      "address": "215 SE 9th Ave #102, Portland, OR 97214",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 4\u202fPM",
-      "hours": "Closed \u00b7 Opens 4\u202fPM",
-      "operating_hours": {
-        "wednesday": "4\u202fPM\u201312\u202fAM",
-        "thursday": "4\u202fPM\u201312\u202fAM",
-        "friday": "4\u202fPM\u201312\u202fAM",
-        "saturday": "4\u202fPM\u201312\u202fAM",
-        "sunday": "4\u202fPM\u201312\u202fAM",
-        "monday": "4\u202fPM\u201312\u202fAM",
-        "tuesday": "4\u202fPM\u201312\u202fAM"
-      },
-      "phone": "(503) 208-2039",
-      "website": "http://scotchlodge.com/",
-      "description": "Stylish spot for whiskey & refined bites. Whiskey-focused cocktail bar with elevated Pacific Northwest-inspired small plates & a vintage vibe.",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Fast service",
-            "Great cocktails"
-          ]
-        },
-        {
-          "popular_for": [
-            "Solo dining"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Food",
-            "Food at bar",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Seating",
-            "Table service"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Cozy",
-            "Romantic",
-            "Trendy",
-            "Upscale"
-          ]
-        },
-        {
-          "crowd": [
-            "Tourists"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations",
-            "Usually a wait"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "Takeout"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "takeout": false,
-        "delivery": false
-      },
-      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/UJ-dKJ_69Ho?source=pa&opi=79508299&hl=en-US&gei=aVhOau22K_O5qtsP7rKI4QQ&ahbb=1&sourceurl=https://www.google.com/search?gl%3Dus%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1swE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:2!2s1i:0,t:11886,p:wE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:2!7e81!12e5!17swE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:87!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26tbm%3Dmap%26hl%3Den%26q%3Dbest%2Bnightlife%2Bbars%2Bin%2BPortland,%2BOR",
-      "user_review": "\"The cocktails are amazing and the atmosphere is out of this world.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeNh5S4yLyAU6br1DGT5HlaZL2glZFpKy4nk9gKb7trYyVLyxQhOTij5YlKdO_oFzyF-tgWaQ_flqfOIb-fT9OfM5P6VW_n6kGxrS-jZtyXVsKfRqbvQDxd7M1X6jBBQ1Lj8yF2w=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/p4w1WHicHcTvEoEwAADwJ5oK5c-dD7mEKzIl6UuntE3NljY0b-gRvI07vw-_74dI2YipplEy6GHOMS0fomwLzmTJZK_gNw03AhQCCM3ebWFtL8otMcOh8pV9sPLWcJaRuaLn1O9jmrqNp4asnmAvH8n2pGJfdZAE0bUyT9S7BBl338oFEh_PMEP0joJ1DlA0CdDG3FnxMWNWvezaEFSpVEksPLS_50_odJfRxkisaj6Hhl-Nldt_zV6GruuA_C8A-wEfukXb"
-    },
-    {
-      "position": 12,
-      "title": "Fools and horses",
-      "place_id": "ChIJsyJJo-YLlVQR5yUnVSfBOp4",
-      "data_id": "0x54950be6a34922b3:0x9e3ac127552725e7",
-      "data_cid": "11401637781318346215",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950be6a34922b3%3A0x9e3ac127552725e7&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950be6a34922b3%3A0x9e3ac127552725e7&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.524777799999995,
-        "longitude": -122.68297369999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsyJJo-YLlVQR5yUnVSfBOp4",
-      "provider_id": "/g/11s8yqss8m",
-      "rating": 4.7,
-      "reviews": 197,
-      "price": "$20\u201330",
-      "extracted_price": 20,
-      "type": "Cocktail bar",
-      "types": [
-        "Cocktail bar",
-        "Restaurant"
-      ],
-      "type_id": "cocktail_bar",
-      "type_ids": [
-        "cocktail_bar",
-        "restaurant"
-      ],
-      "address": "226 NW 12th Ave, Portland, OR 97209",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 4\u202fPM",
-      "hours": "Closed \u00b7 Opens 4\u202fPM",
-      "operating_hours": {
-        "wednesday": "4\u201311\u202fPM",
-        "thursday": "4\u201311\u202fPM",
-        "friday": "4\u202fPM\u20131\u202fAM",
-        "saturday": "4\u202fPM\u20131\u202fAM",
-        "sunday": "4\u201311\u202fPM",
-        "monday": "Closed",
-        "tuesday": "4\u201311\u202fPM"
-      },
-      "phone": "(503) 894-8473",
-      "website": "http://foolsandhorsespdx.com/",
-      "description": "Quirky cocktail spot, serving creative cocktails, beer and wine in a cozy space.",
-      "extensions": [
-        {
-          "service_options": [
-            "Outdoor seating",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Fast service",
-            "Great cocktails",
-            "Live music",
-            "Live performances"
-          ]
-        },
-        {
-          "popular_for": [
-            "Solo dining"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Food",
-            "Food at bar",
-            "Happy hour drinks",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Seating",
-            "Table service"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Casual",
-            "Cozy",
-            "Romantic",
-            "Trendy",
-            "Upscale"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Paid street parking",
-            "Usually somewhat difficult to find a space"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "delivery": false
-      },
-      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/yweoS4hVaRo?source=pa&opi=79508299&hl=en-US&gei=aVhOau22K_O5qtsP7rKI4QQ&ahbb=1&sourceurl=https://www.google.com/search?gl%3Dus%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1swE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:2!2s1i:0,t:11886,p:wE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:2!7e81!12e5!17swE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:87!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26tbm%3Dmap%26hl%3Den%26q%3Dbest%2Bnightlife%2Bbars%2Bin%2BPortland,%2BOR",
-      "user_review": "\"Great vibes, delicious cocktails, and friendly service.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKVsvPIAseBhM0JmAKEpHUbURZMxuOsP4fVtqKN5oAgilDACxBnI9LHQnTmEzettxZxqYj45THahhmHyrilh14Naw5aVPg-G3wRc-OnuKZ6TLesbdZTG4h9rLyP46pI6-Cd0-HWLPYb1OX=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/o9O8ynicHcTBboIwGADgJ6qUWEg02aE6YxkI1SCb3KB2rQot8peBe8mdfRuTfYfv-aed62DpeY2ez5S1qpEDyF5Y46RxM2FbT3WABCDwKE_3N8riAn54REGu9A5_tDTedOxYHw_lbhoy4OS7cPc4DSxVl-adrqeViRYJ25u83fxK56Zyup-uJMhZpXXLHv2l0T5JqzGoCq7Qdj4eBMrMEJdhnkioz2W-JXrRJw9Owi4K0fqMEftM-Kn2s6-30ccYI_2_QOYF2t9HLQ"
-    },
-    {
-      "position": 13,
-      "title": "Bible Club PDX",
-      "place_id": "ChIJ58SjbOoKlVQRoY3Mn5iFKtQ",
-      "data_id": "0x54950aea6ca3c4e7:0xd42a85989fcc8da1",
-      "data_cid": "15288178775625076129",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950aea6ca3c4e7%3A0xd42a85989fcc8da1&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950aea6ca3c4e7%3A0xd42a85989fcc8da1&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.474093599999996,
-        "longitude": -122.6497484
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ58SjbOoKlVQRoY3Mn5iFKtQ",
-      "provider_id": "/g/11b73wck15",
-      "rating": 4.7,
-      "reviews": 1083,
-      "price": "$10\u201350",
-      "extracted_price": 10,
-      "type": "Cocktail bar",
-      "types": [
-        "Cocktail bar",
-        "Lounge bar",
-        "Restaurant"
-      ],
-      "type_id": "cocktail_bar",
-      "type_ids": [
-        "cocktail_bar",
-        "lounge",
-        "restaurant"
-      ],
-      "address": "6716 SE 16th Ave, Portland, OR 97202",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 4\u202fPM",
-      "hours": "Closed \u00b7 Opens 4\u202fPM",
-      "operating_hours": {
-        "wednesday": "4\u202fPM\u201312\u202fAM",
-        "thursday": "4\u202fPM\u201312\u202fAM",
-        "friday": "4\u202fPM\u201312\u202fAM",
-        "saturday": "4\u202fPM\u201312\u202fAM",
-        "sunday": "4\u201311\u202fPM",
-        "monday": "4\u201311\u202fPM",
-        "tuesday": "4\u201311\u202fPM"
-      },
-      "phone": "(971) 279-2198",
-      "website": "http://www.bibleclubpdx.com/",
-      "description": "Retro speakeasy with drinks & snacks. Antiques-filled speakeasy serving inventive & classic cocktails plus small bites in stylish digs.",
-      "extensions": [
-        {
-          "service_options": [
-            "Outdoor seating",
-            "Onsite services",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Great cocktails",
-            "Live music"
-          ]
-        },
-        {
-          "popular_for": [
-            "Solo dining"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Dancing",
-            "Food",
-            "Food at bar",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Seating",
-            "Table service"
-          ]
-        },
-        {
-          "amenities": [
-            "Gender-neutral restroom",
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Casual",
-            "Cozy",
-            "Romantic",
-            "Trendy",
-            "Upscale"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Usually a wait"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "Takeout"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible seating"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "takeout": false,
-        "delivery": false
-      },
-      "user_review": "\"Unique and cool spot, solid drinks, food, music and atmosphere.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1Ac-yJZ3nXwzXj8EGRVvDkJgnNH6PH7uQq9iJ3HHVtTr7dh775B1AjRDlFoRMGVqgssoQ5_Yl5ung8kUb2gaCQ5HMs0VChzzMDwxIxkCzq3UajOdOa7EovXpR6tYsiZ6X_dsbMA=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/3M8kCHicHcRBjoIwFADQE1VAAlUTFx1w6JCgQpSAG4OFtAK24C-i3NAjeBuTeYv3eQutO1gZRivsGVeKt9UA1Z0pqSupZ0zdDN4BYoDAIPtt3JDAIgy9wpMts3HK6sUmSNKH34Rcbqm7p3iI--U1tClN9eGOS4Gx82OROvHbX5VEQdpzABU757x1BskXzfEy54UXOzQCM_XENEX--Px7Nt7U28ei3pW7Am_UI-sSV-dwPbnZuYRLRNajZZomEv8zJL-75UWG"
-    },
-    {
-      "position": 14,
-      "title": "Teardrop Lounge",
-      "place_id": "ChIJGQiLHQIKlVQRbh0KO8yg4xc",
-      "data_id": "0x54950a021d8b0819:0x17e3a0cc3b0a1d6e",
-      "data_cid": "1721396281609952622",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a021d8b0819%3A0x17e3a0cc3b0a1d6e&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a021d8b0819%3A0x17e3a0cc3b0a1d6e&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.5252535,
-        "longitude": -122.68164759999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGQiLHQIKlVQRbh0KO8yg4xc",
-      "provider_id": "/g/11gcgv2t5k",
-      "rating": 4.6,
-      "reviews": 1195,
-      "price": "$20\u201330",
-      "extracted_price": 20,
-      "type": "Cocktail bar",
-      "types": [
-        "Cocktail bar"
-      ],
-      "type_id": "cocktail_bar",
-      "type_ids": [
-        "cocktail_bar"
-      ],
-      "address": "1015 NW Everett St, Portland, OR 97209",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 4\u202fPM",
-      "hours": "Closed \u00b7 Opens 4\u202fPM",
-      "operating_hours": {
-        "wednesday": "4\u202fPM\u201312:30\u202fAM",
-        "thursday": "4\u202fPM\u201312:30\u202fAM",
-        "friday": "4\u202fPM\u20132\u202fAM",
-        "saturday": "4\u202fPM\u20132\u202fAM",
-        "sunday": "4\u202fPM\u201312:30\u202fAM",
-        "monday": "4\u202fPM\u201312:30\u202fAM",
-        "tuesday": "4\u202fPM\u201312:30\u202fAM"
-      },
-      "phone": "(503) 445-8109",
-      "website": "http://www.teardroplounge.com/",
-      "description": "Hot spot for cocktail connoisseurs. Classic & inventive cocktails with top-shelf spirits by talented mixologists in a chic, buzzy space.",
-      "extensions": [
-        {
-          "service_options": [
-            "Outdoor seating",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Fast service",
-            "Great cocktails"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
+            "Trivia night"
           ]
         },
         {
@@ -1915,6 +501,139 @@
           ]
         },
         {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "user_review": "\"Excellent cocktails, eclectic decor, spinning vinyl behind the bar.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmKGBvRpiSgovrug1mjBJkxehax3LNEdo_Vb_s85P7XVDHD_WFu02Hk_iQIMTwmusVZXE_RzyPvNBJEAMtqJL9EAX8ekOYO6fP7TLuep9PnMIwRn1ytrj_zzJuoQnFghNVUFq0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CXfhXXicHcTvEoEwAADwJ0qL8_fOhzolqawk8WVHZiNtaVvRC3oGb-PO78Pv-6FSVmKm6w866BHOyQMrgeucM4mZ7OW81EkltFxoQjdhGBWmW66XVhNXty3hTa2IUd4tr3hhenoN_NC-cJSekZgM4ThLF-4C7R0F-m6BbtEqSNpSifSY2Sju3rAJLc82A_n0_KltZhNcbA6b0RWOE1_hagpZsGpjZrxlfUdd5ykeMYfQMN05TzBvDQCARv_nGvsB3-lGIA"
+    },
+    {
+      "position": 5,
+      "title": "Marquis Lounge",
+      "place_id": "ChIJZSNRYTydskwRZQka8GytXko",
+      "data_id": "0x4cb29d3c61512365:0x4a5ead6cf01a0965",
+      "data_cid": "5358911290013780325",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d3c61512365%3A0x4a5ead6cf01a0965&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d3c61512365%3A0x4a5ead6cf01a0965&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6532106,
+        "longitude": -70.2647295
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZSNRYTydskwRZQka8GytXko",
+      "provider_id": "/g/11yv5gh0y5",
+      "rating": 4.9,
+      "reviews": 29,
+      "price": "$30\u201340",
+      "extracted_price": 30,
+      "type": "Cocktail bar",
+      "types": [
+        "Cocktail bar"
+      ],
+      "type_id": "cocktail_bar",
+      "type_ids": [
+        "cocktail_bar"
+      ],
+      "address": "150 Park St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u201311\u202fPM",
+        "thursday": "4\u201311\u202fPM",
+        "friday": "4\u202fPM\u20131\u202fAM",
+        "saturday": "4\u202fPM\u20131\u202fAM",
+        "sunday": "2\u201310\u202fPM",
+        "monday": "4\u201311\u202fPM",
+        "tuesday": "4\u201311\u202fPM"
+      },
+      "phone": "(207) 805-1000",
+      "website": "https://marquismaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Bar games",
+            "Fast service",
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Cocktails",
+            "Food"
+          ]
+        },
+        {
           "dining_options": [
             "Seating",
             "Table service"
@@ -1922,7 +641,282 @@
         },
         {
           "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "user_review": "\"Great cocktails, great vibes, great service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZu-8vcrOjsIrCO-dPGh1PT_wZWnvlrsVWRusubWilm7040PswchEZ6IdYy5Uvs-WcRxIZxU6CeBSUDp08tDThUdnn6zVdDfq7tPfRfUqrEuTqRyzhJ7TcaNMUSrF22jNGbIbMSWE5-NA5=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EqChfHicHcTdboIwGADQJ6pUJ2CW7AIBDUvEDqiN3BgpP9VhgX4tqC-5a99miefivP6E1j18WlYrPmZN1zVtZaBSvJO6knrGu5vV9IA4ILA8Ev_8epvcoNXI1f4KkfL3qCRbMSfZacqZHFsFB5YYMAW7tDcXLzGBiYswd6Ly-LDpCIjx5B7ld-r41TqlQY9XOsgELaV0nocyqAdXkzqp6aBCkw3J4ym-3Yyf4x1N1WaxuMbbIip2KQttFHv21zTHGCPxniP5Dy0pSC0"
+    },
+    {
+      "position": 6,
+      "title": "Bubba's Sulky Lounge",
+      "place_id": "ChIJNSMk8RKcskwROiqUHcHqawM",
+      "data_id": "0x4cb29c12f1242335:0x36beac11d942a3a",
+      "data_cid": "246548719767661114",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c12f1242335%3A0x36beac11d942a3a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c12f1242335%3A0x36beac11d942a3a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6576078,
+        "longitude": -70.26507289999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNSMk8RKcskwROiqUHcHqawM",
+      "provider_id": "/g/1thvs92d",
+      "rating": 4.4,
+      "reviews": 680,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Night club",
+      "types": [
+        "Night club",
+        "Cocktail bar",
+        "Lounge bar"
+      ],
+      "type_id": "night_club",
+      "type_ids": [
+        "night_club",
+        "cocktail_bar",
+        "lounge"
+      ],
+      "address": "92 Portland St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 7\u202fPM Fri",
+      "hours": "Closed \u00b7 Opens 7\u202fPM Fri",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "7\u202fPM\u20131\u202fAM",
+        "saturday": "7\u202fPM\u20131\u202fAM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 828-0549",
+      "website": "http://www.bubbassulkylounge.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Dancing",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "amenities": [
             "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false,
+        "takeout": false
+      },
+      "user_review": "\"The vibes are insane, the DJ was a blast, and the people were top notch.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5vPHbENyprHiykBfkl5HoCwzzIvIAX0kZoHh_Xa1YiTGMGtXKjXPd6hAoOH3oalk681WYt3YcAmtrA1C1fAsDw25Q8EdI6phEoY08rgBcW124yxtaAR0nnCEfR9OtREDjXJ0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WUZBKXicHcTRboIwFADQL0JaEcKW-FCxsbhMkZhY9mKwAtViL6F3MvxA_8G_Mdl5OK-nRuzcp--3Opg0AE1b_bqqV2CxsjhRcPObznnKec5n2WZnmAjvmTjxzdj14jKaRW3aUEAyPB7pPWWSmB8Q-ihLWlz2q-8Vyq-rzM6RZrAVAZStiWJ6KDAoFLthz2hCa-aWwzTcxfycRp3mUJC4bxbqQKez8Q9LlhNrE17nH1vM-fIq12Q-UEKIp_9Xnn0DMCVDrw"
+    },
+    {
+      "position": 7,
+      "title": "Blyth & Burrows",
+      "place_id": "ChIJwQJf5j-cskwRHqGmL2YLFWo",
+      "data_id": "0x4cb29c3fe65f02c1:0x6a150b662fa6a11e",
+      "data_cid": "7644028476045304094",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fe65f02c1%3A0x6a150b662fa6a11e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fe65f02c1%3A0x6a150b662fa6a11e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656798099999996,
+        "longitude": -70.2538941
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwQJf5j-cskwRHqGmL2YLFWo",
+      "provider_id": "/g/11dxqjqm0x",
+      "rating": 4.8,
+      "reviews": 1669,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Cocktail bar",
+      "types": [
+        "Cocktail bar",
+        "Bar",
+        "Oyster bar restaurant",
+        "Seafood restaurant"
+      ],
+      "type_id": "cocktail_bar",
+      "type_ids": [
+        "cocktail_bar",
+        "bar",
+        "oyster_bar_restaurant",
+        "seafood_restaurant"
+      ],
+      "address": "26 Exchange St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u201311\u202fPM",
+        "thursday": "4\u201311\u202fPM",
+        "friday": "4\u202fPM\u201312\u202fAM",
+        "saturday": "12\u202fPM\u201312\u202fAM",
+        "sunday": "12\u201311\u202fPM",
+        "monday": "4\u201311\u202fPM",
+        "tuesday": "4\u201311\u202fPM"
+      },
+      "phone": "(207) 613-9070",
+      "website": "https://www.blythandburrows.com/?utm_source=google&utm_medium=mybusiness",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
           ]
         },
         {
@@ -1944,264 +938,6 @@
           ]
         },
         {
-          "planning": [
-            "Accepts reservations"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid street parking",
-            "Usually difficult to find a space"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "Takeout"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "takeout": false,
-        "delivery": false
-      },
-      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/gXIwdtSNPic?source=pa&opi=79508299&hl=en-US&gei=aVhOau22K_O5qtsP7rKI4QQ&ahbb=1&sourceurl=https://www.google.com/search?gl%3Dus%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1swE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:2!2s1i:0,t:11886,p:wE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:2!7e81!12e5!17swE2KmkokOrjPzjGAuYz_3YHFgw5jLG4:87!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26tbm%3Dmap%26hl%3Den%26q%3Dbest%2Bnightlife%2Bbars%2Bin%2BPortland,%2BOR",
-      "user_review": "\"Unique cocktails (all less than $18), amazing vibes, superb service!\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4so67Z1s2tvwf_OJeYkkQ5i3nSprJXKsp4x4-GSH_nnFl4xHl7jJGP1gr-KVmkKlC_gRcwfoLleUYLLVFjnKyrqUFLW6IgCkphPGBI2wRk-JKJimTpjmhNscsxG2G6Fj614cj0A=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/FGW51nicHcTdbsIgGADQJ8L-yGpi4kVnLAqNVp1Od9MLgiBQwH5srY_oI-xtluxcnN-XijHAPEmsmk6k99KKbxA99y4KFyfcd4kMgDggSMpmuzflCoMvZl8Z5PFnuLU7Kq7G7N_uU3cMPb0wCHjEiBzXrXOVxePazjQlTSZ7xM6dYXbZygMfbr624nSt63OlHXv2j1NVfxYbuTRBNeR9kw8Hgyij9-4j6E5tgcNIclJUusgw12m5GLI0TZH6nyP3Bx6qRZY"
-    },
-    {
-      "position": 15,
-      "title": "Grandma's Secret",
-      "place_id": "ChIJa6fjdwAJlVQR7Nek8ttR1tQ",
-      "data_id": "0x5495090077e3a76b:0xd4d651dbf2a4d7ec",
-      "data_cid": "15336535586167379948",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495090077e3a76b%3A0xd4d651dbf2a4d7ec&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495090077e3a76b%3A0xd4d651dbf2a4d7ec&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.533794799999995,
-        "longitude": -122.6985047
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa6fjdwAJlVQR7Nek8ttR1tQ",
-      "provider_id": "/g/11y2fp0c48",
-      "rating": 4.7,
-      "reviews": 62,
-      "price": "$20\u201330",
-      "extracted_price": 20,
-      "unclaimed_listing": true,
-      "type": "Cocktail bar",
-      "types": [
-        "Cocktail bar"
-      ],
-      "type_id": "cocktail_bar",
-      "type_ids": [
-        "cocktail_bar"
-      ],
-      "address": "1524 NW 23rd Ave, Portland, OR 97210",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 5\u202fPM",
-      "hours": "Closed \u00b7 Opens 5\u202fPM",
-      "operating_hours": {
-        "wednesday": "5\u202fPM\u201312\u202fAM",
-        "thursday": "5\u202fPM\u201312\u202fAM",
-        "friday": "5\u202fPM\u201312\u202fAM",
-        "saturday": "5\u202fPM\u201312\u202fAM",
-        "sunday": "Closed",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "website": "https://www.instagram.com/grandmassecretpdx/?hl=en",
-      "extensions": [
-        {
-          "service_options": [
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Fast service",
-            "Great cocktails"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Food",
-            "Food at bar",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Table service"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Cozy",
-            "Trendy"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Paid street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible parking lot"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "delivery": false
-      },
-      "user_review": "\"Amazing cocktails in a cool speakeasy setting.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEI9Tu9wAWe9MipiUPmHD8imKAr5QZLEM5RZuodGG0OTYhjCCTMh_ssK2iMBL0N-GgpqvrLOlNSu7uNGwp25Rl1_eBdxNXy-bta11-MjmM9gTYvnCoZKDMw_bItU1WMOqnkC8VZt--tQ8nn=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/YE0WZnicHcTBboIwGADgJ_qldSHCkh0QDRpoEUWdXMjEpkWhrbSV-ZQ7721M_A7f_5-wVptPz-vEx4QrxTvmDBsaJS2TdtKo3uPaQGPAeNGGFrdouQ5LF47RkYWk1e1-068WQdun0eAXVbYk_rZy6pIkKC9P4hrHJRG1Mem0JfMMUUi4vj-GLO_ozs0cTUY99bcdrtn88ku_n3C2PxgDufYk5OXpIWNVpQsy1ue13eMjye_yFgeHygLYIpDya8QIIRDvG5AvYhlG5g"
-    },
-    {
-      "position": 16,
-      "title": "Driftwood Room",
-      "place_id": "ChIJ1_4w5hwKlVQRxdZbHh9EjZg",
-      "data_id": "0x54950a1ce630fed7:0x988d441f1e5bd6c5",
-      "data_cid": "10992517165925258949",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1ce630fed7%3A0x988d441f1e5bd6c5&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1ce630fed7%3A0x988d441f1e5bd6c5&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.520986799999996,
-        "longitude": -122.68770479999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1_4w5hwKlVQRxdZbHh9EjZg",
-      "provider_id": "/g/1tdcr74y",
-      "rating": 4.6,
-      "reviews": 421,
-      "price": "$20\u201330",
-      "extracted_price": 20,
-      "type": "Bar",
-      "types": [
-        "Bar",
-        "Cocktail bar",
-        "Pub"
-      ],
-      "type_id": "bar",
-      "type_ids": [
-        "bar",
-        "cocktail_bar",
-        "pub"
-      ],
-      "address": "729 SW 15th Ave, Portland, OR 97205",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 4\u202fPM",
-      "hours": "Closed \u00b7 Opens 4\u202fPM",
-      "operating_hours": {
-        "wednesday": "4\u201311\u202fPM",
-        "thursday": "4\u201311\u202fPM",
-        "friday": "4\u201311\u202fPM",
-        "saturday": "4\u201311\u202fPM",
-        "sunday": "4\u201311\u202fPM",
-        "monday": "4\u201311\u202fPM",
-        "tuesday": "4\u201311\u202fPM"
-      },
-      "phone": "(503) 820-2076",
-      "website": "https://www.hoteldeluxe.com/dining/driftwood-room/",
-      "description": "Sleek, retro-inspired spot for cocktails. Swanky retro cocktail lounge in the Hotel deLuxe serving champagne cocktails & actor-named martinis.",
-      "extensions": [
-        {
-          "service_options": [
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Fast service",
-            "Great cocktails"
-          ]
-        },
-        {
-          "popular_for": [
-            "Solo dining"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Food",
-            "Food at bar",
-            "Happy hour drinks",
-            "Happy hour food",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "dining_options": [
-            "Table service"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom",
-            "Wi-Fi"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Cozy",
-            "Quiet",
-            "Romantic",
-            "Trendy",
-            "Upscale"
-          ]
-        },
-        {
-          "crowd": [
-            "Tourists"
-          ]
-        },
-        {
           "payments": [
             "Credit cards",
             "Debit cards"
@@ -2219,68 +955,77 @@
           "service_options": [
             "Delivery"
           ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
         }
       ],
       "service_options": {
         "dine_in": true,
+        "curbside_pickup": true,
         "delivery": false
       },
-      "user_review": "\"The bartenders are great, and the ambience is superb.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhhcd8EnF82sMsVSChOmJw9zuwrHN5-xSTAPN7-SqJmyUccEcIw1cKFTDOGMHxI_iMjReTCIljmBc0-JwzNijHMjbmppEosNiPCKFNKqSfsj4YSZu1WgXWVdHT6nhDUQf-t8MX=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/WQ3IoHicHcrLcoIwFADQL4pAa1vsTBeKUB6T-AiiddOZXpGQkgS9YaL-YL-hf2Onm7M6vz_C2h5fPa8Tj6PGmKarB6zPYLSttR2BUV7TIwEk6E2XbPU9TYSAQxjrJHxAihWPxELlbnIb3DllT-TCy7_3QvgpV9cNQAyZC6BIyvninaaX7LOlcl2XUdZJNQOf5O7GWplS-aX6PjbI2mVUJKw48SPK8QffD8G22W2rQ1o-azHfrI7EhnT35gLf94n4F4i-A3WyRO0"
+      "user_review": "\"Great selection of cocktails, good music and the staff is very friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqxsHtxLpiI5-tGsharLlwOPKB41FecuFh7gCD7rUDZeU1v_poLScU1op--ODDcAro-7EfJeJSGroV6M06kNtS3Ry1FSCcl0ADEiRr_p07_4XWLpRiYyY_r97uaeise0mue6lF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GIz-vnicHcRJDoIwFADQExXaoDSauEArKuIEwWlDTPOlxEJrWxxO6Bm8jYlv8b4f4Zy2Q9-XIvAqpSoJnQXDVeugdR5XjV9pi7hF1o-2690tmt9fdu5eqa4XfeRmVlxMKp-b7XLcIzHwLha0mjBqCnaGgjxKrdKcF0RphDaM8cgoRKfXBJJ8ZtQ-XOHwtnZ5kL1JnE-4xBGb1pkpNaZl73hIdVaf3qfSDGh3gdoCbjoIZTx6EowxEv85an9V3URa"
     },
     {
-      "position": 17,
-      "title": "Quality Bar",
-      "place_id": "ChIJi3w4xwMKlVQRqYKaIGUe4Gg",
-      "data_id": "0x54950a03c7387c8b:0x68e01e65209a82a9",
-      "data_cid": "7557073594415219369",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a03c7387c8b%3A0x68e01e65209a82a9&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a03c7387c8b%3A0x68e01e65209a82a9&engine=google_maps_photos&hl=en",
+      "position": 8,
+      "title": "Bonfire Country Bar Portland",
+      "place_id": "ChIJL0Wfzj-cskwRSkPkOQDdDj8",
+      "data_id": "0x4cb29c3fce9f452f:0x3f0edd0039e4434a",
+      "data_cid": "4543812067104408394",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fce9f452f%3A0x3f0edd0039e4434a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fce9f452f%3A0x3f0edd0039e4434a&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.522856,
-        "longitude": -122.68070499999999
+        "latitude": 43.6558296,
+        "longitude": -70.2542598
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi3w4xwMKlVQRqYKaIGUe4Gg",
-      "provider_id": "/g/11bwdghslc",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL0Wfzj-cskwRSkPkOQDdDj8",
+      "provider_id": "/g/11b6t04xj7",
       "rating": 4.5,
-      "reviews": 591,
-      "price": "$10\u201320",
-      "extracted_price": 10,
-      "type": "Cocktail bar",
+      "reviews": 1163,
+      "price": "$1\u201340",
+      "extracted_price": 1,
+      "type": "Bar",
       "types": [
-        "Cocktail bar",
-        "Pizza restaurant",
-        "Pizza Takeout",
+        "Bar",
+        "Pub",
         "Restaurant"
       ],
-      "type_id": "cocktail_bar",
+      "type_id": "bar",
       "type_ids": [
-        "cocktail_bar",
-        "pizza_restaurant",
-        "pizzatakeaway",
+        "bar",
+        "pub",
         "restaurant"
       ],
-      "address": "931 SW Oak St, Portland, OR 97205",
+      "address": "37 Wharf St, Portland, ME 04101",
       "country": "United States",
-      "open_state": "Closed \u00b7 Opens 12\u202fPM",
-      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
       "operating_hours": {
-        "wednesday": "12\u202fPM\u201312\u202fAM",
-        "thursday": "12\u202fPM\u201312\u202fAM",
-        "friday": "12\u202fPM\u201312\u202fAM",
-        "saturday": "12\u202fPM\u201312\u202fAM",
-        "sunday": "12\u202fPM\u201312\u202fAM",
-        "monday": "12\u202fPM\u201312\u202fAM",
-        "tuesday": "12\u202fPM\u201312\u202fAM"
+        "wednesday": "4\u202fPM\u20131\u202fAM",
+        "thursday": "4\u202fPM\u20131\u202fAM",
+        "friday": "4\u202fPM\u20131\u202fAM",
+        "saturday": "2\u202fPM\u20131\u202fAM",
+        "sunday": "2\u202fPM\u20131\u202fAM",
+        "monday": "4\u202fPM\u20131\u202fAM",
+        "tuesday": "4\u202fPM\u20131\u202fAM"
       },
-      "phone": "(503) 972-6793",
-      "website": "https://sizzlepie.com/locations/quality-bar",
-      "description": "Hip cocktail bar with pizza & craft beer. Low-key watering hole featuring craft brews, house cocktails, pizza & a nostalgic vibe.",
+      "phone": "(877) 653-7678",
+      "website": "http://www.bonfire.country/",
       "extensions": [
         {
           "service_options": [
             "Outdoor seating",
+            "Onsite services",
             "Takeout",
             "Dine-in"
           ]
@@ -2290,6 +1035,584 @@
             "Fast service",
             "Great beer selection",
             "Great cocktails",
+            "Sports"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Dancing",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Fair priced fun cocktails AND it\u2019s a fun environment with music.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjSs5dkB9hF52NTEZ1SAphHhKhoMYFxrzB_4b7PtJjYGjTLHWt8njkXdKZKuni3bAV_MJhWE9LiK8L0AwJJvGiFhbCwgTPYQTWYFnCTA0CVO45quc71mdh2GFBLsrEwem6AaWrTQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0lUG6HicHcRLDoIwFADAEyFFxV_iohCKAVSIDYgbI4XwAGmRFjHe0CN4GxNnMd8PKNXJja7fYTYphSjvxSCLngmuCq4mTLR62UmNSU3qODxEDXbqkzTzxloDMacH6lyME-5gBz6IfUpe_du6zrNlqLw6dWsa7BK14nVzzv2LP_BqluH4uvcgcdZB5a8ChEfPe7oVgcweSxqmEU1Swm2KkR0f5-ZjYEujzWHqEiuQvTMW7QLfkp5G29FACGnwn2n8B67GRIg"
+    },
+    {
+      "position": 9,
+      "title": "Forest Gardens",
+      "place_id": "ChIJM7XhrXWcskwR7kVGJDIJBpA",
+      "data_id": "0x4cb29c75ade1b533:0x90060932244645ee",
+      "data_cid": "10377992502283486702",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c75ade1b533%3A0x90060932244645ee&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c75ade1b533%3A0x90060932244645ee&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.664618999999995,
+        "longitude": -70.273838
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM7XhrXWcskwR7kVGJDIJBpA",
+      "provider_id": "/g/1tfyd53m",
+      "rating": 4.7,
+      "reviews": 59,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "unclaimed_listing": true,
+      "type": "Bar",
+      "types": [
+        "Bar"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar"
+      ],
+      "address": "371 Forest Ave Apt 1, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10:30\u202fPM",
+      "hours": "Open \u00b7 Closes 10:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201310:30\u202fPM",
+        "thursday": "11\u202fAM\u201310:30\u202fPM",
+        "friday": "11\u202fAM\u201310:30\u202fPM",
+        "saturday": "11\u202fAM\u201310:30\u202fPM",
+        "sunday": "12\u20136:30\u202fPM",
+        "monday": "11\u202fAM\u201310:30\u202fPM",
+        "tuesday": "11\u202fAM\u201310:30\u202fPM"
+      },
+      "phone": "(207) 773-9384",
+      "extensions": [
+        {
+          "highlights": [
+            "Bar games",
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Sports"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": false
+      },
+      "user_review": "\"Good dive bar meet friends had great time\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkcyXV8zp-RPcgLxsJ_kngM8sJqzfB3R7sCZI-VsG6SuSCYx92anOx-48OA-21pNPSBLdLAjIT2RFpNUqNvu7lOIhg3kd0i2aWBduLLU0nqAnm2eR3EO2Tlk3Pm1o0sFHdtJS1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ppdsE3icHcTbboIwGADgJ6qU1ihb4kUhHiAdMPC4m8UULK7Qlv3FMV_QZ9jbLPG7-P4ejXMWXj2vbehEGiPbeoD6Wxjtau0mwnSetIAEIPBYnr4rtlbi97gP7hYVuZB8hORTafkWQNLfLyEt5hB9xGgP61k5lNFpfCFnnY1oGmQMEd-meRnyirOveEuKlU13fXob5m0WN5KqCl_J-RBWA-c7rHumO1IXdJmRbato3vkGw2pTuaT0Fz8-xhg1zwXS_yaaQ2M"
+    },
+    {
+      "position": 10,
+      "title": "Night Mares",
+      "place_id": "ChIJ80f-mhudskwRoIjVoYr-2q8",
+      "data_id": "0x4cb29d1b9afe47f3:0xafdafe8aa1d588a0",
+      "data_cid": "12671720372934379680",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d1b9afe47f3%3A0xafdafe8aa1d588a0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d1b9afe47f3%3A0xafdafe8aa1d588a0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.666021,
+        "longitude": -70.2515906
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ80f-mhudskwRoIjVoYr-2q8",
+      "provider_id": "/g/11l1hx_g3h",
+      "rating": 4.9,
+      "reviews": 56,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Bar",
+      "types": [
+        "Bar"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar"
+      ],
+      "address": "44 Romasco Ln, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u201311\u202fPM",
+        "thursday": "4\u201311\u202fPM",
+        "friday": "4\u202fPM\u201312\u202fAM",
+        "saturday": "4\u202fPM\u201312\u202fAM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "https://instagram.com/night_mares_maine?igshid=MzRlODBiNWFlZA==",
+      "extensions": [
+        {
+          "service_options": [
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": false,
+        "delivery": false
+      },
+      "user_review": "\"Cocktails were delicious, the vibes were great and the staff was stellar.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmCoT1-eA2UL3yWiSn-1Kj3lWaBYSmRg9cXUA-LIxVCzmH5kgb74_I14z0h2YCrB3t0wNjDbgi8BCnuYA4XjEIEWrbRxOawhjY6BiXZitTG7-JHGnM74b3_pZIiqk4Ms0S0KIt=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6x0NinicHcTbToMwAADQL-ooaxU18aEgGXUb6gC5vJDRkLZcWqQlzP3gvmF_Y-J5OPebsHYyL44zCLThWvOhXUw7M61sq-yG6dHhkwHMAOOQz_irJ9EY6NQFLdlmB_Sby0QBd9-hIT_7ZTKe-DMrMgIO9PIdXMfooeeNh2vq4isU2zKYfWThGndvDZdPfqCWkuCiC2mYz83p8nFeRVc--rKopE13HniPduro4QbVU0XlT4-PBiZwT-3r6kIIgfifAfUHsXhCzw"
+    },
+    {
+      "position": 11,
+      "title": "Flask Lounge",
+      "place_id": "ChIJF2ta6BacskwRCZXubjpzr8I",
+      "data_id": "0x4cb29c16e85a6b17:0xc2af733a6eee9509",
+      "data_cid": "14028558059088811273",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c16e85a6b17%3A0xc2af733a6eee9509&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c16e85a6b17%3A0xc2af733a6eee9509&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6529308,
+        "longitude": -70.2624537
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF2ta6BacskwRCZXubjpzr8I",
+      "provider_id": "/m/0lfrcrp",
+      "rating": 4.4,
+      "reviews": 368,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Dance club",
+        "Gay bar",
+        "Live music venue",
+        "Night club"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "dance_club",
+        "gay_bar",
+        "live_music_venue",
+        "night_club"
+      ],
+      "address": "117 Spring St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 7\u202fPM",
+      "hours": "Closed \u00b7 Opens 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fPM\u20131\u202fAM",
+        "thursday": "7\u202fPM\u20131\u202fAM",
+        "friday": "7\u202fPM\u20131\u202fAM",
+        "saturday": "7\u202fPM\u20131\u202fAM",
+        "sunday": "8\u202fPM\u20131\u202fAM",
+        "monday": "7\u202fPM\u20131\u202fAM",
+        "tuesday": "7\u202fPM\u20131\u202fAM"
+      },
+      "phone": "(207) 772-3122",
+      "website": "http://www.flasklounge.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "user_review": "\"Really good music with actual DJs and an accepting atmosphere\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6GMrgwQb9gKSKFl-EhA7uWDAnhvvhS8x3Rkr8l2mr-GvEHoAWa5gFGmw3bZxZbrTSw-mANwkpuE3BcL560nyjMm8RBE8StJXFstHvjnSKywWKV_9qZ3Yc6pWyXqNk1cikxQqLjQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SZRSJnicHcRRboIwAADQE1VwjYgm-6hZwQwlYhdRfhZpSDtKW2gLhSPuCLvNEt_H-_vlzvV2HwQdhyumNeua0TaGauUa5VZUy4D1FlALbIAueSEQjtKzYb6odywjWdIBzNF2LD-Q4tPESTzDqzBx9yYNSCd81Kh8bliSSg_raq5q80U8kCj3oh8xPNDTJgrV0p5lfD3gmLjPe2LdcWoVyRZfZrfv3VDBB436crkPuVjTHzEXw6kt3v06DEPAX1Og_gEAB0Yk"
+    },
+    {
+      "position": 12,
+      "title": "Geno\u2019s Rock Club",
+      "place_id": "ChIJZbUMNxGcskwRgP-kTrgecxo",
+      "data_id": "0x4cb29c11370cb565:0x1a731eb84ea4ff80",
+      "data_cid": "1905900844250103680",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c11370cb565%3A0x1a731eb84ea4ff80&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c11370cb565%3A0x1a731eb84ea4ff80&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6536779,
+        "longitude": -70.26443669999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZbUMNxGcskwRgP-kTrgecxo",
+      "provider_id": "/g/1yfdpflf3",
+      "rating": 4.6,
+      "reviews": 331,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Rock music club"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "rock_music_club"
+      ],
+      "address": "625 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fPM\u20131\u202fAM",
+        "thursday": "5\u202fPM\u20131\u202fAM",
+        "friday": "5\u202fPM\u20131\u202fAM",
+        "saturday": "5\u202fPM\u20131\u202fAM",
+        "sunday": "5\u202fPM\u20131\u202fAM",
+        "monday": "5\u202fPM\u20131\u202fAM",
+        "tuesday": "5\u202fPM\u20131\u202fAM"
+      },
+      "phone": "(207) 747-5594",
+      "website": "https://m.facebook.com/genosrockclubofficial",
+      "extensions": [
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Live music",
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Dancing",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": false,
+        "delivery": false
+      },
+      "user_review": "\"Good friends, great drinks, killer bands, and the best bar owner around\ud83e\udd18\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIQAettWaYS_4f78YN4s0G1MWio1IiXDoNbV2AMRA4WRpvWPpzVBgJWuY_I0S6E3z5rRuGi-DPBKXSg_3yVONwkbPTd-7d6Vh5BB-HBedCRqKaSPrnOYg6AmrshnU_LTeOm-yl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/S7DBtHicHcRdDoIgAADgE5GYZq2tB6hW9qOkJfrkSglcCiZYqwt2hm7T1vfwfT_CmFZPLasWzoArxWvWa9YVShomzaBQjcVbDQoNtIVIcLihpX9AzBh6zuLcvY4nWeBquLL3tFK2X6ULFVySIdpHyKVR-6CkfSeYb2if5T6MvaXzHnVRv6rAguBtGvPceSVh8LxdyLEE49JLxAhjsMasnEf37TkmnQwz7qGm00Ke8t2RhQ141bOnDSEE4n8B5A_Vq0OQ"
+    },
+    {
+      "position": 13,
+      "title": "The Continental",
+      "place_id": "ChIJewfDYFCbskwR3HEcRsKgY24",
+      "data_id": "0x4cb29b5060c3077b:0x6e63a0c2461c71dc",
+      "data_cid": "7954378123126796764",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b5060c3077b%3A0x6e63a0c2461c71dc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b5060c3077b%3A0x6e63a0c2461c71dc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.663048599999996,
+        "longitude": -70.28437509999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJewfDYFCbskwR3HEcRsKgY24",
+      "provider_id": "/g/11ks0bvyr5",
+      "rating": 4.8,
+      "reviews": 328,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Pub",
+      "types": [
+        "Pub",
+        "Cocktail bar",
+        "Restaurant"
+      ],
+      "type_id": "pub",
+      "type_ids": [
+        "pub",
+        "cocktail_bar",
+        "restaurant"
+      ],
+      "address": "170 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM",
+      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u202fPM\u201312\u202fAM",
+        "thursday": "12\u202fPM\u201312\u202fAM",
+        "friday": "12\u202fPM\u201312\u202fAM",
+        "saturday": "12\u202fPM\u201312\u202fAM",
+        "sunday": "11\u202fAM\u201312\u202fAM",
+        "monday": "12\u202fPM\u201312\u202fAM",
+        "tuesday": "12\u202fPM\u201312\u202fAM"
+      },
+      "website": "http://www.thecontinentalportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Great wine list",
             "Live performances"
           ]
         },
@@ -2301,13 +1624,279 @@
         {
           "accessibility": [
             "Wheelchair accessible entrance",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
           ]
         },
         {
           "offerings": [
             "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "user_review": "\"Great drinks and food, excellent service, nice live music, friendly people.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8BWGR0E_rSyxRXg0M-_sD6HEAjX3Nse_IjQH-IptJzkh79H7pFRMIwBUsFi-eim2_1ornXux9hloWFM6dP96cUig3tqPduJTXSrm08uOG8Qb51q3Bx9yhVD5pXrBnBSfs7tAF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YJLhOnicHcTbboIwGADgJ6qUETks2QWNIJigHObsHclqbVFoa_8ScS-4Z9jbLPG7-P5-pXMG3j1vlMFKaC1GPgO3TCvHlVsxPXnCAGKAwEvrfXNLs5icti3Oets9l5YKXKEeNmGRpVca7IH35bUpUGnc7ucmo6SITN5W5YMcIR8QH6a33tdW0XlJ5KhPeRWe6yRkx0EE7l6f590n7eyE4_mwjZvvtX8PyJI85ddmbaglinQXiFyafzx8jDGSrxlS_wfPQ-c"
+    },
+    {
+      "position": 14,
+      "title": "Cuties",
+      "place_id": "ChIJh_-sLgCdskwRYI9uzV3CqME",
+      "data_id": "0x4cb29d002eacff87:0xc1a8c25dcd6e8f60",
+      "data_cid": "13954617153541803872",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d002eacff87%3A0xc1a8c25dcd6e8f60&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d002eacff87%3A0xc1a8c25dcd6e8f60&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6572542,
+        "longitude": -70.2535776
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh_-sLgCdskwRYI9uzV3CqME",
+      "provider_id": "/g/11w1cb11_3",
+      "rating": 4.7,
+      "reviews": 135,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Coffee shop",
+        "Lunch restaurant"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "coffee_shop",
+        "lunch_restaurant"
+      ],
+      "address": "46 Market St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u201311\u202fPM",
+        "thursday": "9\u202fAM\u201311\u202fPM",
+        "friday": "9\u202fAM\u201312\u202fAM",
+        "saturday": "9\u202fAM\u201312\u202fAM",
+        "sunday": "9\u202fAM\u201311\u202fPM",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u201311\u202fPM"
+      },
+      "website": "https://www.cutiesportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF3MWNiMTFfMxgCOgMI8A0%3D&g2lbs=AEzIGDsVIJV7WcMGHHQL0ZtR_ngqJuIv2qycJd8wjbqfxfbZ_-KcIORA6eLo7wdl2C9W66QGrpGt&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=AGhOatnCGuubhbIPkIqSkAY&ei=AGhOatnCGuubhbIPkIqSkAY&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Interesting drink menu, friendly staff, great vibe and plenty of space .\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjxJeIFDhmeihh8zD5dmMNWnTK91yrMTfNf6f6JiEgFTBEkj-LQT6PHonJA6j6YZF85l4DZv_Tb3tGCjMeJhgj34zcCPxHdrhnfdbJXOGEDEdGcREFmpGCs3fBG9-ap0k5A-nH1LVJdtI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2K4SznicHcTNboIwAADgJ6pAkEaX7IBQip0wXJptejGzvxZoCe0250Pu7tss2Xf47r86hMk_RNGg04VyTg3i04uZORuEDQvmxkhNHjAPfJR37b7PkbkSsa1KPYqL1qtbmfGxad8sfVonP3NDZSuhhOSCVEU3qDdgt6ewq50lOTTwcKxW2bAsj18nek4DLkwjiFYmXd5Y0V1rPmsr-Zm8P2NUIo7ZC6rGCRc-lRu8Bh9T3Gc5sHWyeyU8bB-_kziOgf6fAfsHEDZFpQ"
+    },
+    {
+      "position": 15,
+      "title": "Arcadia - Portland, Me",
+      "place_id": "ChIJSSalnxScskwR4YbBIFYVdvM",
+      "data_id": "0x4cb29c149fa52649:0xf376155620c186e1",
+      "data_cid": "17543232858129270497",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c149fa52649%3A0xf376155620c186e1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c149fa52649%3A0xf376155620c186e1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656238099999996,
+        "longitude": -70.2605009
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSSalnxScskwR4YbBIFYVdvM",
+      "provider_id": "/g/1q69n6s0t",
+      "rating": 4.7,
+      "reviews": 1059,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Bar",
+      "types": [
+        "Bar"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar"
+      ],
+      "address": "504 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fPM\u20131\u202fAM",
+        "thursday": "5\u202fPM\u20131\u202fAM",
+        "friday": "5\u202fPM\u20131\u202fAM",
+        "saturday": "5\u202fPM\u20131\u202fAM",
+        "sunday": "5\u202fPM\u201312\u202fAM",
+        "monday": "5\u202fPM\u201312\u202fAM",
+        "tuesday": "Closed"
+      },
+      "website": "http://arcadiaportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Bar games",
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Trivia night"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Arcade games",
             "Beer",
             "Cocktails",
             "Food",
@@ -2325,8 +1914,9 @@
         },
         {
           "amenities": [
-            "Gender-neutral restroom",
-            "Restroom"
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
           ]
         },
         {
@@ -2346,22 +1936,29 @@
         {
           "payments": [
             "Credit cards",
-            "Debit cards"
+            "Debit cards",
+            "NFC mobile payments"
           ]
         },
         {
           "parking": [
             "Free street parking",
-            "Paid parking lot",
-            "Paid street parking",
-            "Usually somewhat difficult to find a space"
+            "Paid parking garage",
+            "Paid street parking"
           ]
         }
       ],
       "unsupported_extensions": [
         {
           "service_options": [
-            "Delivery"
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
           ]
         },
         {
@@ -2377,29 +1974,29 @@
       ],
       "service_options": {
         "dine_in": true,
-        "takeout": true,
+        "takeout": false,
         "delivery": false
       },
-      "user_review": "\"Awesome bartenders, great drinks, and the vibe is awesome.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlGSFo7cy9sPe1-0ORqUwxsFqMYQzkwmmg3HG5k86rhWjBygi_2uQWc7vMCtpfB494TTjmRuPp5qJDCVQZIj-ZXEGbJG_naLQsbVY8vf-KsQCjPUzGiuED9cQPSk-cULfC5aqC=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/uBHLRHicHcTbEoFAGADgJ1oVJZlxwdI620U53Jjs1KbTln8TXtAzeBszvovv-4mVKqGvaVncaQkpRRbWEN65LFRYqBaXuSZKQBwQaEO6ZumQZGTnSpu_HKChgfTNtvKaJ7jV6sTeaZPnojMlVtrr3uNDMnqJ26VdswO3HyusymhkOuZ-n-TbmpZWNR9jn51nCTofJ-Q6J5ciWDK4-qfeI0ILYDih3pvc6snY4YzuUsS9ZYStoMKDxtB1HcX_OSp-gHBEsg"
+      "user_review": "\"Very good cocktails, good selection of draft beer, fun atmosphere.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjIlEyJLOgRImDCutQCub3xsQ3J1Ilyw4rACkRKmJ1U0EgEIr0i-Es1m5uQy3re6o7N5jxe_sC1ORgsJd9NspGIISz1RfWZGQNOj9r_QsbSAuFmIY33MvY2bImnCjC0PNBCMw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/95WUTXicHcRRbsIgGADgE2FhqItL9tAhGrpJpWYx-mLSinS1lIYfVrsDegdvs8Tv4Xvc6xB6eEuStqYT45xpdQTtK9cF3YVJ5WxiekAVIEjSrVTXlDei5WP2lZtC2CWLQbFY0hsomhHRjsPUp-xafNqMfGNuuPD4B3EgdhbVSL2eu1c5a276BIzkhYHsvJDQr4XY_ZHisj-ulcybhT8pKHdpXFlxoHTze3gphe1Yw_BWfrDN8D4QjDGqn1eo-wfr0kOG"
     },
     {
-      "position": 18,
-      "title": "Dream House bar",
-      "place_id": "ChIJgaVpncenlVQRRr1koMYmGaA",
-      "data_id": "0x5495a7c79d69a581:0xa01926c6a064bd46",
-      "data_cid": "11536294555022572870",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a7c79d69a581%3A0xa01926c6a064bd46&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a7c79d69a581%3A0xa01926c6a064bd46&engine=google_maps_photos&hl=en",
+      "position": 16,
+      "title": "Downtown Lounge",
+      "place_id": "ChIJ65jgtBacskwRqmssabfKs8c",
+      "data_id": "0x4cb29c16b4e098eb:0xc7b3cab7692c6baa",
+      "data_cid": "14390068123471211434",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c16b4e098eb%3A0xc7b3cab7692c6baa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c16b4e098eb%3A0xc7b3cab7692c6baa&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5493649,
-        "longitude": -122.66114569999999
+        "latitude": 43.653654599999996,
+        "longitude": -70.2634458
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgaVpncenlVQRRr1koMYmGaA",
-      "provider_id": "/g/11stg5stl3",
-      "rating": 4.7,
-      "reviews": 114,
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ65jgtBacskwRqmssabfKs8c",
+      "provider_id": "/g/11g_rfrw7",
+      "rating": 4.4,
+      "reviews": 134,
       "price": "$10\u201320",
       "extracted_price": 10,
       "type": "Bar",
@@ -2410,52 +2007,37 @@
       "type_ids": [
         "bar"
       ],
-      "address": "412 NE Beech St, Portland, OR 97212",
+      "address": "606 Congress St, Portland, ME 04101",
       "country": "United States",
-      "open_state": "Closed \u00b7 Opens 4\u202fPM",
-      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
       "operating_hours": {
-        "wednesday": "4\u202fPM\u20131\u202fAM",
-        "thursday": "4\u202fPM\u20131\u202fAM",
-        "friday": "4\u202fPM\u20131\u202fAM",
-        "saturday": "2\u202fPM\u20131\u202fAM",
-        "sunday": "2\u202fPM\u20131\u202fAM",
-        "monday": "4\u202fPM\u20131\u202fAM",
-        "tuesday": "4\u202fPM\u20131\u202fAM"
+        "wednesday": "5\u202fPM\u20131\u202fAM",
+        "thursday": "5\u202fPM\u20131\u202fAM",
+        "friday": "5\u202fPM\u20131\u202fAM",
+        "saturday": "5\u202fPM\u20131\u202fAM",
+        "sunday": "5\u202fPM\u20131\u202fAM",
+        "monday": "5\u202fPM\u20131\u202fAM",
+        "tuesday": "5\u202fPM\u20131\u202fAM"
       },
-      "phone": "(503) 249-3659",
-      "website": "http://www.dreamhousepdx.com/",
-      "description": "Cozy bar that feels like a home, with a patio and upstairs seating.",
+      "phone": "(207) 773-1363",
       "extensions": [
         {
-          "from_the_business": [
-            "Identifies as LGBTQ+ owned",
-            "Identifies as women-owned"
-          ]
-        },
-        {
           "service_options": [
-            "Outdoor seating",
-            "Delivery",
-            "Takeout",
             "Dine-in"
           ]
         },
         {
           "highlights": [
-            "Bar games",
             "Fast service",
             "Great beer selection",
-            "Great cocktails",
-            "Karaoke",
-            "Live music",
-            "Live performances",
-            "Trivia night"
+            "Great cocktails"
           ]
         },
         {
-          "popular_for": [
-            "Solo dining"
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
           ]
         },
         {
@@ -2473,12 +2055,11 @@
         },
         {
           "dining_options": [
-            "Seating"
+            "Table service"
           ]
         },
         {
           "amenities": [
-            "Gender-neutral restroom",
             "Restroom"
           ]
         },
@@ -2491,9 +2072,7 @@
         },
         {
           "crowd": [
-            "Groups",
-            "LGBTQ+ friendly",
-            "Transgender safespace"
+            "Groups"
           ]
         },
         {
@@ -2502,27 +2081,18 @@
             "Debit cards",
             "NFC mobile payments"
           ]
-        },
-        {
-          "parking": [
-            "Free street parking",
-            "Usually plenty of parking"
-          ]
         }
       ],
       "unsupported_extensions": [
         {
-          "accessibility": [
-            "Assistive hearing loop",
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot",
-            "Wheelchair accessible restroom",
-            "Wheelchair accessible seating"
+          "service_options": [
+            "Delivery"
           ]
         },
         {
-          "dining_options": [
-            "Table service"
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
           ]
         },
         {
@@ -2533,58 +2103,52 @@
       ],
       "service_options": {
         "dine_in": true,
-        "takeout": true,
-        "delivery": true
+        "delivery": false
       },
-      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFzdGc1c3RsMxgAOgMI8A0%3D&g2lbs=AEzIGDvBVKE2Mtj5crJBcpW-GfnneV39gji8ZT4YfdfJRZ_fZIRt3nd7PMiSEbJ1B79Bx1LwvRBn&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=aVhOau22K_O5qtsP7rKI4QQ&ei=aVhOau22K_O5qtsP7rKI4QQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
-      "user_review": "\"Amazing vibe, cool staff, awesome DJ's, and delicious cocktails.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEYYkiV9YoVoXMe9ydL4VB6t6zYwQA-NKeLe627xEnUZ0nbc0eC4zz2ymjcVf7U0DNWqcHWBoAZo4DfzfIuJMLYF1IOF-Sg475gSzXjO87zzLUJ3vq3D-8EGRo499Qq1HWDQAzNLqXZT7G=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/xWb7bXicHcTLUsIwFADQLwpNaWyoMy6CLRQMxYp9pEtjmsojl5ogkp907d8441mc35_BubO9D4LjEE00gD6qi1WfEoxTxk0knAJ9tkhaZAP2XJQHlmdCHD7qREAN7UYlt3dO6nnsYi-uJUPFk-IqntLvzFQdNm8Sq0fi_fR22su6pxVOi2aUeTMH1gFJe9-vLusNF4twtV2gnSb0Tu98u9_OqPe8WkdfY5SiWbZ8AZIk5RjmTVoyX_Cx7V7p8uEaYozR8L9E5g8iXUU6"
+      "user_review": "\"Excellent dive bar with great music and great happy hour specials.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4WCKJnT-TvPXgPhvvutsQ-6FlDUeG5Icq37k7FtLXXXJ5xH1NYjx-on_rSTLPYIjcA5vlc4hoHvL03iJ3__p6SUKt7cNa_PxqYQzZf0wZCs1K9iOSAZpvc8EXeENUq3ZsKp0igg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0nvLRnicHcRRboIwGADgE1VKKuJMfCAOp0BYCZAVXsjyp2tRbIutleyGO8Jus2Tfw_f7I50zdhcEkyQrobWY-MPyO2jluHIr0LdAGIvAIhsktKyuSbr-OOSZalDjKRNUev9wtkKb4_Ta8rfoDDOJr_HRFYyxLFpOYdldFqTVcK-bgnbnCySRn2At9ckXmIwZGQazqdvcxVB-DnSZu-q7_8LP_mDD_GV8r5PeeNimjKdlO5Pe5gaPQuyfIcYYyf8BqT_HbUUq"
     },
     {
-      "position": 19,
-      "title": "Scooter McQuades",
-      "place_id": "ChIJO5luIAMKlVQROaeeelC4xz0",
-      "data_id": "0x54950a03206e993b:0x3dc7b8507a9ea739",
-      "data_cid": "4451729412473136953",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a03206e993b%3A0x3dc7b8507a9ea739&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a03206e993b%3A0x3dc7b8507a9ea739&engine=google_maps_photos&hl=en",
+      "position": 17,
+      "title": "The Armory Lounge",
+      "place_id": "ChIJdfI98j-cskwRJFaVpsq_SJ8",
+      "data_id": "0x4cb29c3ff23df275:0x9f48bfcaa6955624",
+      "data_cid": "11477634527452812836",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3ff23df275%3A0x9f48bfcaa6955624&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3ff23df275%3A0x9f48bfcaa6955624&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 45.5224713,
-        "longitude": -122.6850226
+        "latitude": 43.657056999999995,
+        "longitude": -70.2527453
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO5luIAMKlVQROaeeelC4xz0",
-      "provider_id": "/g/1xgrmn9r",
-      "rating": 4.5,
-      "reviews": 702,
-      "price": "$10\u201320",
-      "extracted_price": 10,
-      "type": "Cocktail bar",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdfI98j-cskwRJFaVpsq_SJ8",
+      "provider_id": "/g/11f040m0br",
+      "rating": 4.7,
+      "reviews": 152,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Lounge bar",
       "types": [
-        "Cocktail bar",
-        "Restaurant"
+        "Lounge bar"
       ],
-      "type_id": "cocktail_bar",
+      "type_id": "lounge",
       "type_ids": [
-        "cocktail_bar",
-        "restaurant"
+        "lounge"
       ],
-      "address": "1321 SW Washington St, Portland, OR 97205",
+      "address": "20 Milk St, Portland, ME 04101",
       "country": "United States",
-      "open_state": "Closed \u00b7 Opens 10\u202fAM",
-      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "open_state": "Opens soon \u00b7 11:30\u202fAM",
+      "hours": "Opens soon \u00b7 11:30\u202fAM",
       "operating_hours": {
-        "wednesday": "10\u202fAM\u20132:30\u202fAM",
-        "thursday": "10\u202fAM\u20132:30\u202fAM",
-        "friday": "10\u202fAM\u20132:30\u202fAM",
-        "saturday": "10\u202fAM\u20132:30\u202fAM",
-        "sunday": "10\u202fAM\u20132:30\u202fAM",
-        "monday": "10\u202fAM\u20132:30\u202fAM",
-        "tuesday": "10\u202fAM\u20132:30\u202fAM"
+        "wednesday": "11:30\u202fAM\u201310\u202fPM",
+        "thursday": "11:30\u202fAM\u201310\u202fPM",
+        "friday": "11:30\u202fAM\u201311\u202fPM",
+        "saturday": "1\u201311\u202fPM",
+        "sunday": "2\u20139\u202fPM",
+        "monday": "11:30\u202fAM\u201310\u202fPM",
+        "tuesday": "11:30\u202fAM\u201310\u202fPM"
       },
-      "phone": "(503) 248-4060",
-      "website": "https://scootermcquades.shop/",
-      "description": "Irish bar with late hours & Jell-O shots. Irish bar in a narrow space with wood-paneled walls is a stop for Jell-O shots & clam chowder.",
+      "website": "https://www.theregency.com/dining/the-armory-lounge",
       "extensions": [
         {
           "service_options": [
@@ -2597,8 +2161,7 @@
           "highlights": [
             "Fast service",
             "Great beer selection",
-            "Great cocktails",
-            "Sports"
+            "Great cocktails"
           ]
         },
         {
@@ -2628,7 +2191,445 @@
         },
         {
           "dining_options": [
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Valet parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/FGAe8ulNP1I?source=pa&opi=79508299&hl=en-US&gei=AGhOatnCGuubhbIPkIqSkAY&ahbb=1&sourceurl=https://www.google.com/search?gl%3Dus%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1s_TegUHvMUtHMaRChHPXCT6Hb0UGgwuM:2!2s1i:0,t:11886,p:_TegUHvMUtHMaRChHPXCT6Hb0UGgwuM:2!7e81!12e5!17s_TegUHvMUtHMaRChHPXCT6Hb0UGgwuM:35!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dbars%2Band%2Bnightlife%2Bin%2BPortland,%2BME%26tbm%3Dmap%26hl%3Den",
+      "user_review": "\"Quiet, dim, amazing cocktails, food, and service.. great for date night!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpuFksXKDi7xMgbi8qAvWucdKH8VTLnhitxH7jMyoDBvxtO9jwzgO5TgX_RYLm02d1jNt5OzMDgrHm-gEsh_pfgAVmiQHSklaMQDR75iei1FXsUgcQtGj3YBR0G6UTxYDH5WmVbg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_5swL3icHcRBjoIwFADQE1WKBnFMXGA62EQRQURYGSnMb4FStEXRG3qEuc0k8xbv98ON6fXSslo-m4BS0FaDru5MdabqzIQpaUGvEdNIW95hHzWe3w9-o7MtEe4YQCEWN-9xHli5pYs02XVcmJG6dfBSZP0YTfhVP98QOglklzjfSTwt7XpvnPAdELhTieBb80v_A14qRUSPTXsNIhK7jqiE7Wf6BCwym3qWr2O8mZ-SMSfUOcu0gNXTxhgj_j9D3R-N00Z0"
+    },
+    {
+      "position": 18,
+      "title": "Lincolns",
+      "place_id": "ChIJgbnU7T-cskwRWXyt73ouqhs",
+      "data_id": "0x4cb29c3fedd4b981:0x1baa2e7aefad7c59",
+      "data_cid": "1993456890606877785",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fedd4b981%3A0x1baa2e7aefad7c59&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fedd4b981%3A0x1baa2e7aefad7c59&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656918999999995,
+        "longitude": -70.2532116
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgbnU7T-cskwRWXyt73ouqhs",
+      "provider_id": "/g/11cjkq0218",
+      "rating": 4.6,
+      "reviews": 679,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Bar",
+      "types": [
+        "Bar"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar"
+      ],
+      "address": "36 Market St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fPM\u201312\u202fAM",
+        "thursday": "5\u202fPM\u201312\u202fAM",
+        "friday": "5\u202fPM\u20131\u202fAM",
+        "saturday": "5\u202fPM\u20131\u202fAM",
+        "sunday": "5\u202fPM\u201312\u202fAM",
+        "monday": "5\u202fPM\u201312\u202fAM",
+        "tuesday": "5\u202fPM\u201312\u202fAM"
+      },
+      "website": "https://www.facebook.com/LincolnsPortlandMaine/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Trivia night"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": false,
+        "delivery": false
+      },
+      "user_review": "\"Fun, low-key vibes, great service and killer drinks for a steal.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4-ixddauizngrWF3kyZ6BfSmWsk-LORDK2kf02QA3o3btBiEfLVGQ8oiSvNSpV6eq0kca2mTA_okBSyLEONQmeCc0brSyO8q3R_DirPrGYuk0ov5bzgU1Zs7ZMg7XXV_EmYCz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0JICIHicHcRRboIwAADQE1Uq3dSY7AMQ-ZCBWEXhh0gtpaml2BYnXHBn8DZL9j7e-7e1tjdrx7m3aMaUYnc6GKqJ6izt7Iwo6bDeAGKAcbx9kgkv-gD8dbtdBz51TJ-3SIzlwm-wPBsB4vSw2bmigW7mIYVq6_OwifMoWymOnwnu8wV9QEGurjx6lRI-HuMwTTJJAwJrjcd09UCHasP1XkfFIKB6ftYTO81Lsyy_2fJyyatQFsH09TOHEIL2fwK6P4HoRSI"
+    },
+    {
+      "position": 19,
+      "title": "The Thirsty Pig",
+      "place_id": "ChIJXaUx4z-cskwRxdpqZABJhgQ",
+      "data_id": "0x4cb29c3fe331a55d:0x4864900646adac5",
+      "data_cid": "326028289064491717",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fe331a55d%3A0x4864900646adac5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fe331a55d%3A0x4864900646adac5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657307499999995,
+        "longitude": -70.2538411
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXaUx4z-cskwRxdpqZABJhgQ",
+      "provider_id": "/g/1tf70jps",
+      "rating": 4.4,
+      "reviews": 1626,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "American restaurant",
+        "Hot dog restaurant",
+        "Pub",
+        "Restaurant"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "american_restaurant",
+        "hot_dog_restaurant",
+        "pub",
+        "restaurant"
+      ],
+      "address": "37 Exchange St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u201311\u202fPM",
+        "saturday": "11\u202fAM\u201311\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 773-2469",
+      "website": "http://www.thirstypigportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
             "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRmNzBqcHMYADoDCPAN&g2lbs=AEzIGDuy6xVO8m0LSZl6vxqmnQ3jqnBKPoE8wjedrWprzbXShEx006HMPWc5fM5EiBIolIasSEcQ&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=AGhOatnCGuubhbIPkIqSkAY&ei=AGhOatnCGuubhbIPkIqSkAY&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Great place for nice drinks a fun atmosphere and fun live music\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdl0mbMi0_gRHCXUP9Iv41M8-ic3EiTOutfQn3D2YoGtEuhMTK_-DLpv5dVffwghy9R--opVg7mFtyn1XtBWZ1ukkFLM4invIgYDk8TLtqLMNJ3WpIivF3IRi27h3eOVXbRlWzSg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iNboxXicHcRRboIwGADgExWKdUGX-OCGbGwUlDHAvZBQoW2AttofjLuhR9htTPY9fH93AWDss-sOgjhcaz60k20vTCtoFThMjy43FjGLrLvdJ4d-G54GPDZU4ppn76_V934dzUuPrpBkZCfzdILuoEiwOOo32E2C5p81CmIzP52KrrtycVtnCGlTcH8M4aa8Cl7KH2_q-zCmS6nmiB-DfpXHcI5p8kFKE8k5JFEmF74gbVpUTTaUv198c_Uwxkj8z5B6ALcPRQo"
+    },
+    {
+      "position": 20,
+      "title": "Ruski's Tavern",
+      "place_id": "ChIJ8wBGqxmcskwRS5NtUoTN_s4",
+      "data_id": "0x4cb29c19ab4600f3:0xcefecd84526d934b",
+      "data_cid": "14915584984099951435",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c19ab4600f3%3A0xcefecd84526d934b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c19ab4600f3%3A0xcefecd84526d934b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6480738,
+        "longitude": -70.2642611
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8wBGqxmcskwRS5NtUoTN_s4",
+      "provider_id": "/g/1tdd4w9k",
+      "rating": 4.6,
+      "reviews": 670,
+      "price": "$10\u201330",
+      "extracted_price": 10,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Bar & grill",
+        "Brunch restaurant",
+        "Restaurant"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "bar_and_grill",
+        "brunch_restaurant",
+        "restaurant"
+      ],
+      "address": "212 Danforth St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201311\u202fPM",
+        "thursday": "8\u202fAM\u201311\u202fPM",
+        "friday": "8\u202fAM\u201311\u202fPM",
+        "saturday": "8\u202fAM\u201311\u202fPM",
+        "sunday": "8\u202fAM\u201311\u202fPM",
+        "monday": "8\u202fAM\u201311\u202fPM",
+        "tuesday": "8\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 774-7604",
+      "website": "https://ruskisportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating",
+            "Table service"
           ]
         },
         {
@@ -2656,22 +2657,22 @@
         },
         {
           "parking": [
-            "Free parking lot",
-            "Free street parking",
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        },
-        {
-          "pets": [
-            "Dogs allowed"
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
           ]
         }
       ],
       "unsupported_extensions": [
         {
           "service_options": [
-            "Delivery"
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
           ]
         },
         {
@@ -2685,133 +2686,12 @@
         "takeout": true,
         "delivery": false
       },
-      "user_review": "\"Great atmosphere, great music, great customer service.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoLtNEOkr6ftF8tgw73_QyRd83hFlhnNcLjgQ1hFtmxeVFLut8k4l7wqjqcC6CvXafCoMclgEA0qT-gan6m7gDdML79Aw5BLOnCWL5P0NU5SPtKE9lnkzFfJC6dtRsSzHm792-Hg=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/owBninicHcTdboIwGADQJ6rUIRSW7AIrDdkqgu7vzpgCXwOlFfs5Nt9wj7C3Mdm5OH-_GvHsH4PA6HABzoFpr769KGextbhQbgzg7InyxAdZVdZDljuJZb4bLnGHIkGYWXisf_ZNEmphtC2V7KFeaoHjd_su5BWTYWXYPPWT4jH_-jx13G2VgTyj0yuBk41HBptmK1mazdFa7iz_kFFFy7foUOFLnho73ET3zOMG9_5wK0aWPpACnuYlpZTo_xWxdxWWRPQ"
-    },
-    {
-      "position": 20,
-      "title": "Calle 6 Night Club",
-      "place_id": "ChIJiWvueYcLlVQRj5SUNP9n2r4",
-      "data_id": "0x54950b8779ee6b89:0xbeda67ff3494948f",
-      "data_cid": "13752418757925704847",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b8779ee6b89%3A0xbeda67ff3494948f&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b8779ee6b89%3A0xbeda67ff3494948f&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 45.526455299999995,
-        "longitude": -122.6762455
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiWvueYcLlVQRj5SUNP9n2r4",
-      "provider_id": "/g/11sd4hvvtx",
-      "rating": 4.3,
-      "reviews": 484,
-      "type": "Night club",
-      "types": [
-        "Night club"
-      ],
-      "type_id": "night_club",
-      "type_ids": [
-        "night_club"
-      ],
-      "address": "436 NW 6th Ave, Portland, OR 97209",
-      "country": "United States",
-      "open_state": "Closed \u00b7 Opens 9\u202fPM Fri",
-      "hours": "Closed \u00b7 Opens 9\u202fPM Fri",
-      "operating_hours": {
-        "wednesday": "Closed",
-        "thursday": "Closed",
-        "friday": "9\u202fPM\u20132\u202fAM",
-        "saturday": "9\u202fPM\u20132\u202fAM",
-        "sunday": "Closed",
-        "monday": "Closed",
-        "tuesday": "Closed"
-      },
-      "phone": "(503) 679-5006",
-      "website": "http://www.calle6pdx.com/",
-      "extensions": [
-        {
-          "service_options": [
-            "Onsite services",
-            "Dine-in"
-          ]
-        },
-        {
-          "highlights": [
-            "Great cocktails",
-            "Live music",
-            "Live performances"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible restroom"
-          ]
-        },
-        {
-          "offerings": [
-            "Alcohol",
-            "Beer",
-            "Cocktails",
-            "Dancing",
-            "Food",
-            "Hard liquor",
-            "Wine"
-          ]
-        },
-        {
-          "amenities": [
-            "Restroom"
-          ]
-        },
-        {
-          "atmosphere": [
-            "Trendy"
-          ]
-        },
-        {
-          "crowd": [
-            "Groups"
-          ]
-        },
-        {
-          "planning": [
-            "Accepts reservations",
-            "Usually a wait"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Paid parking lot",
-            "Paid street parking"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "Takeout"
-          ]
-        }
-      ],
-      "service_options": {
-        "dine_in": true,
-        "takeout": false,
-        "delivery": false
-      },
-      "user_review": "\"Great atmosphere , good bottle service and great music\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFD6FW7aCQ5T38TcKdH-0ycpmdEWxafaaTefpp1ABd0_MNp0uhfFVjoWCRf4rL7TggbohjSwzzULwY4RLJeWGtQLv_a9T9nbSdtHQEIYYvbzXr0vzYz1GeHALcqqOOogYJ9z0SA=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/Y0olpHicHcRLcsIgAADQE2HI-GuccYGfGC1qY6iRlUMIgbEaMGBSuWDP4G2c6Vu8159yzthJEFxVvye1llfxsKLhunaidj2ub4E0FnALbIC-dukPihejOB-zeTok_Q_CP8sEwCc3t3KZ_7KKMSIqY0I0K-F5uzPwoar4eNH5_FANGjwmUhZaXbLO-2_c0cEBb0S-ciluzywiUV1kpUvS5ZrStvCnBrae-nAlEoT5_b7fa0k3kYcZmnYhhBCo_zmo31vbRUA"
+      "user_review": "\"Great drinks very friendly staff Great food and great fun\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVYcgBoBrtCX8MbsASJm_zObjUKJA-1Jy6TemQ-TkmtGjoq0o0pf41boLhleUTaCxFf82bktFcDlX1VM1PY7Im-f4YdKHjk22pSvlDHlO8pAiXBFu7hl63K0LlyNQe4ZKXKJDwzA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3CIu1nicHcTbDoIgAADQLyLBXLm2HjBnJt1c1rSXloSSglDQ9Q_7hP6mrfNwvh9urTYjxxG836uVqgW7GXalqrOssz2qpFNrA6gBxsHrZdrieFfQOlDB1U5yf1EavEnk4b0qmy1JMEDJa5AxmYKslXbaqAtUUFceKtWcC7bNjpNnVPlu2dqIhiJHuwVaF8OZBJVXnEjctK6rN3cRxmLla3zOg-g25GLQJ3AuXsuUeXuSkyR8vPH4gSCEgP-noPsB09lElA"
     }
   ],
   "serpapi_pagination": {
-    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+nightlife+bars+in+Portland%2C+OR&start=20&type=search"
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=bars+and+nightlife+in+Portland%2C+ME&start=20&type=search"
   }
 }

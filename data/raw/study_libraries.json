@@ -1,0 +1,337 @@
+{
+  "search_metadata": {
+    "id": "6a4e67e0d10c6a01d99b43ea",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WHCxmb5p1P-aPLLmZZ7-Gw/6a4e67e0d10c6a01d99b43ea.json",
+    "created_at": "2026-07-08 15:08:16 UTC",
+    "processed_at": "2026-07-08 15:08:16 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/public+libraries+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/WHCxmb5p1P-aPLLmZZ7-Gw/6a4e67e0d10c6a01d99b43ea.html",
+    "prettify_html_file": "https://serpapi.com/searches/WHCxmb5p1P-aPLLmZZ7-Gw/6a4e67e0d10c6a01d99b43ea.prettify",
+    "total_time_taken": 0.64
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "public libraries in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "public libraries in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland Public Library",
+      "place_id": "ChIJB8QhwBScskwRpofwZPJd3ws",
+      "data_id": "0x4cb29c14c021c407:0xbdf5df264f087a6",
+      "data_cid": "855505749880637350",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14c021c407%3A0xbdf5df264f087a6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14c021c407%3A0xbdf5df264f087a6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657943499999995,
+        "longitude": -70.25939679999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB8QhwBScskwRpofwZPJd3ws",
+      "provider_id": "/m/0j8t7pz",
+      "rating": 4.3,
+      "reviews": 161,
+      "unclaimed_listing": true,
+      "type": "Public library",
+      "types": [
+        "Public library"
+      ],
+      "type_id": "public_library",
+      "type_ids": [
+        "public_library"
+      ],
+      "address": "5 Monument Sq, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:55\u202fPM",
+      "hours": "Open \u00b7 Closes 5:55\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135:55\u202fPM",
+        "thursday": "10\u202fAM\u20135:55\u202fPM",
+        "friday": "10\u202fAM\u20134:55\u202fPM",
+        "saturday": "10\u202fAM\u20134:55\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20134:55\u202fPM",
+        "tuesday": "10\u202fAM\u20135:55\u202fPM"
+      },
+      "phone": "(207) 871-1700",
+      "website": "http://www.portlandlibrary.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEd8nVhAWh2lOI8TKbI6ZSfBVsCAUT279sgpp7uxAjsUFtdu1s0NeEa9NFm2VSh1dJpbZDHhJdNZYyurtPrnTcPs87rwLarkGYi9Wh5zisdU-Iy5igSwG3v1zu9MBR0cploDibyrx_APnLX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qqlFYHicHcTLcoIwFADQL4oEHAU600Wsj2ItpfJQ2XQkoQkVk0xuUsSf7Lp_05mexfn9EdZqePC8XkwnXCnetw5aQ5W0rbQTqq4e14AoIPBIlr5fyIpFshLkIIL-LYmKlyaZ1_nnooInUhZBGAPXOnQ38gXl2jLnA07b1TlO19egyoXPtrqpl89iy9L6NDpjMyMLmkEUmmF3NpfNqYsPYnbvgJUoGWcdz4fN9Nu_u_h1scdU92rZNaO5fZBM7o6Pg48xRuJ_iuQft1BIbQ"
+    },
+    {
+      "position": 2,
+      "title": "South Portland Public Library: Main Library",
+      "place_id": "ChIJDaoUdoGeskwRpP3tXsPnrvc",
+      "data_id": "0x4cb29e817614aa0d:0xf7aee7c35eedfda4",
+      "data_cid": "17847457199613148580",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e817614aa0d%3A0xf7aee7c35eedfda4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e817614aa0d%3A0xf7aee7c35eedfda4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6354258,
+        "longitude": -70.2482469
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDaoUdoGeskwRpP3tXsPnrvc",
+      "provider_id": "/m/0n8zv4_",
+      "rating": 4.6,
+      "reviews": 42,
+      "type": "Public library",
+      "types": [
+        "Public library",
+        "Library"
+      ],
+      "type_id": "public_library",
+      "type_ids": [
+        "public_library",
+        "library"
+      ],
+      "address": "482 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20138\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 767-7660",
+      "website": "http://www.southportlandlibrary.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "crowd": [
+            "Transgender safespace"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Kid-friendly activities"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGm0-6ywoEXzRx5FgXPymEjj2qsEAN3SIvfVfYMhtF1Ygs2oQKDQAS_tPyo9jDaDa9VD9iRHrPVgigCjuQfJ7cKb_la_TcfLtW6SPPsI53bY_eXsfMpRhWxiKALwdfH43otyyTa=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2-wPjnicHcRJDoIwFADQE1VQHIKJi0ZwQk0Bw7AiWGkLAkV_FesFPYO3MfEt3vcjlOpgbhi1sAZcSl4XDyjuVLaqaNWAysbgHSAKCAxMjv4VrxsTTXUv3eQdvCYrnhDduFU1uoGLj1a4fbKIpQehVsOUw0j6nuPjMFNES7tycie3I8cug82dRLzky-rhs92MeueszrMTZXsVT0NCYDuxzmlWJMAOXSDiV-nhfX9hm7ElldanfNEPTdNE4j9F7Q-hN0XS"
+    },
+    {
+      "position": 3,
+      "title": "Walker Memorial Library",
+      "place_id": "ChIJW0zoQQ2askwRBbbQmrQUCOo",
+      "data_id": "0x4cb29a0d41e84c5b:0xea0814b49ad0b605",
+      "data_cid": "16863751570612860421",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a0d41e84c5b%3A0xea0814b49ad0b605&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a0d41e84c5b%3A0xea0814b49ad0b605&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6758872,
+        "longitude": -70.3636691
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW0zoQQ2askwRBbbQmrQUCOo",
+      "provider_id": "/m/0ds546r",
+      "rating": 4.5,
+      "reviews": 41,
+      "type": "Public library",
+      "types": [
+        "Public library"
+      ],
+      "type_id": "public_library",
+      "type_ids": [
+        "public_library"
+      ],
+      "address": "800 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 854-0630",
+      "website": "https://www.westbrookmaine.com/Library",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEw-6mDhXe-AmXE473ZI144A4hp-b-zX9CY4feCrxBBphvzdVr5rXxMlSZrAWg7A0N-UCuDYcx3hgDk4-FMDVRIIb5o4Jxv-jCoKwj-6WYqLvPp7OZKg-Lbp7E9WQLhXVrXMgMS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vyUk2HicHcRLDoIwFADAEz3AUCSauKiACQp-IxSW1NoGgdYWgXhBz-BtTJzFfD-i75VZ2nYjXItLyRv2MkxT2fWs6y0qW5srA9SAsfFxf3rgaIR5GwrCALckQr5bxjOEMBIKKniTRVCgOwv0tF4rMbxvmfY0mdLmUmqccx87e7gGr7Cgkyt4-ECwScPsHMeVJ9F2GqAO5G6sYZ4Xz2Q4Kv9Q7jgklfKjRX5KBMk0SXl6WY0zx3FA_KfQ_QCXaEK9"
+    },
+    {
+      "position": 4,
+      "title": "Scarborough Public Library",
+      "place_id": "ChIJpcH537eYskwRWiBioT3DnyI",
+      "data_id": "0x4cb298b7dff9c1a5:0x229fc33da162205a",
+      "data_cid": "2494927388054528090",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb298b7dff9c1a5%3A0x229fc33da162205a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb298b7dff9c1a5%3A0x229fc33da162205a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5969591,
+        "longitude": -70.3372825
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpcH537eYskwRWiBioT3DnyI",
+      "provider_id": "/m/0j94m4t",
+      "rating": 4.7,
+      "reviews": 52,
+      "type": "Public library",
+      "types": [
+        "Public library"
+      ],
+      "type_id": "public_library",
+      "type_ids": [
+        "public_library"
+      ],
+      "address": "48 Gorham Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 883-4723",
+      "website": "https://www.scarboroughlibrary.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEYxGyopocMjuuyQoCZquMkQ5WmRgspi6RcWrvgB9C40FhYVNaq8lalqA492mOgQakBqkInsWGsvB-feR8SwL4ppZcdUC8MeYxS_eLLj8q3kACGd-Rig3M7sp_1t7NwnMqQT6yv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vDfcz3icHcTdboIwGADQJyqgoOKSXQBRsoQyi9sI3hhSatFCf_wKyBPuGXwbE8_Fef631mr4cN2u9R2uFO_YAOxOlbRMWoeq3uUaEAUEbnTIiYh21SOdlVYU34ZhJio5mQELsir7goO-rgta3kceb5PA27fVX16bsKs7EwXbZf_NSS1iI74klCmMMbqwIjxOWaD1iTa_SYhZ9TieWZbdQuOLKEkbVFy5jzegzwu7ySeJDflZz-PntPA8D7XvKZIvGVlGHg"
+    },
+    {
+      "position": 5,
+      "title": "Baxter Memorial Library",
+      "place_id": "ChIJ1dGCDi6RskwRG-egemQN_6s",
+      "data_id": "0x4cb2912e0e82d1d5:0xabff0d647aa0e71b",
+      "data_cid": "12393639424752150299",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2912e0e82d1d5%3A0xabff0d647aa0e71b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2912e0e82d1d5%3A0xabff0d647aa0e71b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.676960799999996,
+        "longitude": -70.442273
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1dGCDi6RskwRG-egemQN_6s",
+      "provider_id": "/m/0n8_nln",
+      "rating": 4.8,
+      "reviews": 46,
+      "unclaimed_listing": true,
+      "type": "Public library",
+      "types": [
+        "Public library"
+      ],
+      "type_id": "public_library",
+      "type_ids": [
+        "public_library"
+      ],
+      "address": "71 South St, Gorham, ME 04038",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20134\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20134\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 222-1190",
+      "website": "https://www.baxterlibrary.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFuwt2nZOSYLpt9OJB9zsCn51d16ypNkUV9FIr7VX7tUVpy4-1ziWMOiF-MWvu9-9EJGsKp7Dl32Kc5WTzBX6xuZdtlYnq44nD_xcZ3y7EbXbL92lkvC5hTAQWuTG_EtIXXVSRzg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EFZA-nicHcRJDoIwFADQE1VmSU1cgIKzOCAUNiRWAoZaqv1V4YYewduY-Bbv-6kBhBxpGqutQdW2FSuVLB-05VByGND2plVCIiqR1Lzddt9481C9wOR5dMzWAnC09HEvJ9wxLsawE9vmlOBw8XAT4sIpEZ2NjP6abqJriDbpU2GEg-VMroQ7ZZa5ok4a9z4ZvlV-AZbxu23zafGmudW5wZmc19hkzXPi1LG3T1U8KwJYEJIcD301fhm6rqP6P0X8B6RKRKs"
+    }
+  ]
+}

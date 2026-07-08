@@ -1,0 +1,1558 @@
+{
+  "search_metadata": {
+    "id": "6a4e684cd0a88fe87a1dac3a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/28EZ082FljWMHBe_gk9EsQ/6a4e684cd0a88fe87a1dac3a.json",
+    "created_at": "2026-07-08 15:10:04 UTC",
+    "processed_at": "2026-07-08 15:10:04 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/bike+shops+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/28EZ082FljWMHBe_gk9EsQ/6a4e684cd0a88fe87a1dac3a.html",
+    "prettify_html_file": "https://serpapi.com/searches/28EZ082FljWMHBe_gk9EsQ/6a4e684cd0a88fe87a1dac3a.prettify",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "bike shops in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "bike shops in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "CycleMania",
+      "place_id": "ChIJnYiRB2qcskwRGF9HpjfSGVM",
+      "data_id": "0x4cb29c6a0791889d:0x5319d237a6475f18",
+      "data_cid": "5988048316020514584",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a0791889d%3A0x5319d237a6475f18&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a0791889d%3A0x5319d237a6475f18&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.668490999999996,
+        "longitude": -70.256176
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnYiRB2qcskwRGF9HpjfSGVM",
+      "provider_id": "/g/1tp8zn4s",
+      "rating": 4.9,
+      "reviews": 461,
+      "type": "Bicycle Shop",
+      "types": [
+        "Bicycle Shop",
+        "Bicycle rental service",
+        "Bicycle repair shop"
+      ],
+      "type_id": "bicycle_store",
+      "type_ids": [
+        "bicycle_store",
+        "bicycle_rental_service",
+        "bicycle_repair_shop"
+      ],
+      "address": "65 Cove St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135:30\u202fPM",
+        "thursday": "10\u202fAM\u20135:30\u202fPM",
+        "friday": "10\u202fAM\u20135:30\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20135:30\u202fPM",
+        "tuesday": "10\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 774-2933",
+      "website": "http://www.cyclemania1.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "activities": [
+            "Bicycle rental"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Electronics"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"We rented e-bikes and they were very reasonably priced and easy to navigate.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWlrOtGdQ47BQmfkz-3mycon_2SUARo_EEZb8lkd8A7WqHQQph_xKGtl7LxqophApY58r-2_VeqQ9jg3lJ-kGqzhahfl0kFtbDqK27p_nGGcGqx4cy-LIZil7UbmjA2Ciais9v=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jWWRdnicHcpLEsEwAADQE0WrZVJmLOIXv0EYOmwyGtVU0iZpgnJBZ3Abxuat3ufNndO263mSh41MqUymN5tWTJUuLV2DqcLLtAXMAuuh9ZIINI5ltXL4TFqwT4qLeIGweP4-DbY7tFF0NDomkRTnCMHYTAjRnNZz7CRc1EZpjvShHVUgoPvUkM41C-UMCGxe_MQv0hdjlwzNPICalhgzbOoWe4LF9JhLuEuKKwoG-Sm3nXvv0fR9H_C_DJRfqMFFlA"
+    },
+    {
+      "position": 2,
+      "title": "Gorham Bike & Ski",
+      "place_id": "ChIJJR5RVRCcskwR7jT9-9ZKQeg",
+      "data_id": "0x4cb29c1055511e25:0xe8414ad6fbfd34ee",
+      "data_cid": "16735739977496605934",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1055511e25%3A0xe8414ad6fbfd34ee&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1055511e25%3A0xe8414ad6fbfd34ee&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6531644,
+        "longitude": -70.2678902
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJR5RVRCcskwR7jT9-9ZKQeg",
+      "provider_id": "/g/1thq9g3s",
+      "rating": 4.8,
+      "reviews": 584,
+      "type": "Bicycle Shop",
+      "types": [
+        "Bicycle Shop",
+        "Bicycle rental service",
+        "Bicycle repair shop",
+        "Ski rental service",
+        "Ski shop",
+        "Used bicycle shop"
+      ],
+      "type_id": "bicycle_store",
+      "type_ids": [
+        "bicycle_store",
+        "bicycle_rental_service",
+        "bicycle_repair_shop",
+        "ski_rental_service",
+        "ski_store",
+        "used_bicycle_shop"
+      ],
+      "address": "693 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20134\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 773-1700",
+      "website": "https://gorhambike.com/contact/portland-pg1204.htm",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Used goods"
+          ]
+        },
+        {
+          "activities": [
+            "Bicycle rental"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true
+      },
+      "user_review": "\"Small repair on my kids bike excellent help with part and advice\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGyG97J_SbQ84WBUAswSvs1rXM8Y-HymTf4tJV70fYtF-n83OCxg6rEeiFYdBIu52EspfJjvjrURTwItW3FKqzhoGj06XYe1yrB4Nb92ow4HV6vqFnTLHkwckGGR7Ju6BVurFk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pg671HicHcRdDoIgAADgE5GYptbWg7bA7L_M8qktQk0LDFCyA3aHbtPW9_B9P4VStRwZxr2wejnn-Z02kgrCmaJM9Qh_GHktAZFAGv5mta183OGhG533l61nH4ODL_W-laY4Lb0UhN0jzmwVJS7MUoUA86z15JU7YkpvKL0Gs2bQn8o6i8q2FIddrGfqaKH5811wXELnlFKzE4G9ugz7XNth4rRPxOJFWGlSYbxzo8YJkkagaqxNCCEo_hPAfs3YQ9E"
+    },
+    {
+      "position": 3,
+      "title": "Allspeed Cyclery & Snow",
+      "place_id": "ChIJ18K90CKbskwRKF6oiqV64xE",
+      "data_id": "0x4cb29b22d0bdc2d7:0x11e37aa58aa85e28",
+      "data_cid": "1289008769772576296",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b22d0bdc2d7%3A0x11e37aa58aa85e28&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b22d0bdc2d7%3A0x11e37aa58aa85e28&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6736143,
+        "longitude": -70.3171426
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ18K90CKbskwRKF6oiqV64xE",
+      "provider_id": "/g/1x5f9z6b",
+      "rating": 4.9,
+      "reviews": 767,
+      "type": "Bicycle Shop",
+      "types": [
+        "Bicycle Shop",
+        "Bicycle repair shop",
+        "Outdoor sports store",
+        "Ski rental service",
+        "Ski repair service",
+        "Ski shop"
+      ],
+      "type_id": "bicycle_store",
+      "type_ids": [
+        "bicycle_store",
+        "bicycle_repair_shop",
+        "outdoor_sports_store",
+        "ski_rental_service",
+        "ski_repair_service",
+        "ski_store"
+      ],
+      "address": "936 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 878-8741",
+      "website": "https://www.allspeed.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Rented a full-suspension mountain ebike from them and had a great day on it.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUHEpXlEDZMV7c2G4_jRVq_zuUsrn-aknXK5-n9wqxhGK_ax6dY6nKw0k7lWjEHOvYGvwBw2wOTGcAeIDTbsy2K6IrEl59Xl3xbvJ6McampaTroACDgRIPdUcW5EXAxOfIk3xX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_VleDXicHcThEoEwAADgJ5pSquPOj9FUOsIV409XK3WaLS1tvKBn8DbufD--76fu-1bMNI3W5qjivKLlU5Qd4awvWT8i_K5VrQBEAKHB3XbfwFXioxZT5F42R4cY3iS9HY6P9P1MRMdA1jAcWoBN5UPVXphmyi7ONgul3jj0dEN-NJy9QS6kIaPYI7AM3DgXLyO0gw5Ra4qpqfJhbW9Idm-zuONw6VaHYFck5GQhDFV0DRpT4bkc67oO6v8EsB-KgUUf"
+    },
+    {
+      "position": 4,
+      "title": "Port City Bikes",
+      "place_id": "ChIJteNPsBKcskwR-L2wOg1SIy8",
+      "data_id": "0x4cb29c12b04fe3b5:0x2f23520d3ab0bdf8",
+      "data_cid": "3396648760740199928",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c12b04fe3b5%3A0x2f23520d3ab0bdf8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c12b04fe3b5%3A0x2f23520d3ab0bdf8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6593893,
+        "longitude": -70.2654118
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJteNPsBKcskwR-L2wOg1SIy8",
+      "provider_id": "/g/1tsr2t8p",
+      "rating": 5,
+      "reviews": 69,
+      "type": "Bicycle repair shop",
+      "types": [
+        "Bicycle repair shop",
+        "Bicycle Shop",
+        "Used bicycle shop"
+      ],
+      "type_id": "bicycle_repair_shop",
+      "type_ids": [
+        "bicycle_repair_shop",
+        "bicycle_store",
+        "used_bicycle_shop"
+      ],
+      "address": "82 Parris St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "12\u20134\u202fPM",
+        "sunday": "12\u20134\u202fPM",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 775-6125",
+      "website": "http://www.portcitybikes.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Top-notch repair and new parts order on a timely basis.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPBS-vdDSmoSEM7LmAXlIvm5MF_NFj5BRHaGV0Q102O9ZnOTIGJNvb43emEmn7LQ4us8HuOBhW8zGVe2lngT5QpKGADfJdnCj3hJY9hgruEC1WbCxITj6Q_XufA_skWwZiNWkOsQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9h6WGXicHcRLroIwAADAE1WKiL_ERUHko4IVIuqGKNZWoC2xFF_eDT2CtzFxFvN5s65r1dwwGmYNqJS0IVqRZylFR0Q3KCU3aKtAqYAy0C7GNQp2Tgr62zLlMvW2kw1Hxybsub1dFfGqsp19cPEPEJtwmMzOIslCP4r768gi3ONissEjraaBThyWT__9Axk2gmY2btc-Wt6jm3Ari0WnGaNP7blmfnX_wqwa4-Ko76hQdf46P-K8ThRevEwIIWC_SyC-QGZEPQ"
+    },
+    {
+      "position": 5,
+      "title": "Portland Gear Hub",
+      "place_id": "ChIJ2w7uPgacskwRGPwH9U0eaZ4",
+      "data_id": "0x4cb29c063eee0edb:0x9e691e4df507fc18",
+      "data_cid": "11414688050719489048",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c063eee0edb%3A0x9e691e4df507fc18&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c063eee0edb%3A0x9e691e4df507fc18&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6685474,
+        "longitude": -70.25333909999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2w7uPgacskwRGPwH9U0eaZ4",
+      "provider_id": "/g/11byl57_7m",
+      "rating": 4.8,
+      "reviews": 169,
+      "type": "Non-profit organization",
+      "types": [
+        "Non-profit organization",
+        "Bicycle Shop"
+      ],
+      "type_id": "non_profit_organization",
+      "type_ids": [
+        "non_profit_organization",
+        "bicycle_store"
+      ],
+      "address": "155 Washington Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20136\u202fPM",
+        "thursday": "11\u202fAM\u20136\u202fPM",
+        "friday": "11\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "11\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 761-7632",
+      "website": "http://portlandgearhub.org/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Repaired/replaced my needed bike part in under an hour.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcoSeIAtqB05NMQZ7Zl6YExezzu0IB8pKJZL2OCcdnXg60_6eoGNik92AUWwpw_EMgdmR4Js7UrsLPnyj08ofhPTRZzCUODev4rgyAoL0UBN_jNThD4dOuaRjnVnk2jaoFc2tA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eQ-yzXicHcRbjoIwFADQFSEVGXwkfhTfigVRZkZ-iCm1FbAXaRFlg67B3Zh4Ps77JbQu1cg0C9HrcABesFqxioLUTOoOhavJS2VQZSgTB2SX4yWFPVthfXPRD9nu4n5cOMfZg7VtjVbuoNysY8_yJzSV_9xBicNgQS750MLRX1M2yWzL02tor1U_qpQXyGeGBnAWwSGM20nkT9ndrvgTg4cilyQZOYipnfr1Kczkr8yt7ARzamk8broIIUN8p4b8AE-8ROo"
+    },
+    {
+      "position": 6,
+      "title": "The Portland Encyclepedia",
+      "place_id": "ChIJocAa_ECcskwRpvLcpuqH3wo",
+      "data_id": "0x4cb29c40fc1ac0a1:0xadf87eaa6dcf2a6",
+      "data_cid": "783494302077350566",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c40fc1ac0a1%3A0xadf87eaa6dcf2a6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c40fc1ac0a1%3A0xadf87eaa6dcf2a6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.659355399999995,
+        "longitude": -70.2483561
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJocAa_ECcskwRpvLcpuqH3wo",
+      "provider_id": "/g/11c31wmb03",
+      "rating": 4,
+      "reviews": 45,
+      "type": "Bicycle rental service",
+      "types": [
+        "Bicycle rental service"
+      ],
+      "type_id": "bicycle_rental_service",
+      "type_ids": [
+        "bicycle_rental_service"
+      ],
+      "address": "6 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(866) 857-9544",
+      "website": "http://www.portlandmainebikerental.com/",
+      "extensions": [
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"The bikes were of high quality with smooth working gears.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH39So-tICf66aP7zCqIgo-ZopAEHM-2UOWZ2v6-GwTNySkqZN-W5WNp7MGJWNE53v_5GY9DZxgvI9KISXC3qdnqv1PdAGW-hzvdnXEc4-ox3qNcCC4CdCChKu1RK4udEzMWKXY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/982xj3icHcRRboIwGADgE_0CFjAs2QOpBJHQsTFT5GVZWmwTtaW2VMcFd4bdZonfw_f3K52b7EsQXCRaCa3FZZzteGNauVG5FdPXQEwWmAUb5C15P-c7lHUaXIVPafrdbhZsKqFh0FNe7BpYH97osPYplPdP8tOdzUCAJpRMm6bcU1IkyH8l5THbDg_hq6yuuh4jw5XxUcvzkoJcPFd9wWLQD2QIwzjGHGNZz9FHHc-8WBpa98fXexSGIcjnDNQ_fh1CaQ"
+    },
+    {
+      "position": 7,
+      "title": "Lighthouse Bikes",
+      "place_id": "ChIJx-ya3_KdskwRlGmdPs-Bpl4",
+      "data_id": "0x4cb29df2df9aecc7:0x5ea681cf3e9d6994",
+      "data_cid": "6820281412807911828",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29df2df9aecc7%3A0x5ea681cf3e9d6994&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29df2df9aecc7%3A0x5ea681cf3e9d6994&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6404,
+        "longitude": -70.2546543
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx-ya3_KdskwRlGmdPs-Bpl4",
+      "provider_id": "/g/11rfq2_13j",
+      "rating": 5,
+      "reviews": 169,
+      "type": "Tour operator",
+      "types": [
+        "Tour operator",
+        "Bicycle rental service",
+        "Bicycle repair shop",
+        "Bicycle Shop"
+      ],
+      "type_id": "tour_operator",
+      "type_ids": [
+        "tour_operator",
+        "bicycle_rental_service",
+        "bicycle_repair_shop",
+        "bicycle_store"
+      ],
+      "address": "37 Ocean St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 200-0900",
+      "website": "http://lighthousebikesportland.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Incredibly helpful staff and super comfy bikes.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuC3h0I0bAZpfddDUaMkMgoYH5gEUAUqqVe9N58m_DA0L_bKBj97dS1gru2HxAVbaP5nvMdkfxRc7No30DufBGzYDZ7H-zEYiNmzAYvj1C7FVCoFw1yjufD_0Z2_5MzR__yiBRlrVTQs5L=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/w0VBf3icHcRJDoIwAADAF1WKpEFNPBSqYhSiKCRwaaBAka1IqQuf9OxvTJzDfD_lOPZypWlNacy4ELzJlcwHJrox78YZE63GewmYBFLDJ-9c452yjRLuYYrjvsgyEiRu7XIROYhvAhzc72G-9NCipQTDI00PVrU0s4vOBzV3XjhMkxPqHm5WFy-fmZ4wIFGFtZsiEpsOmDbRzWsnHD0q3Ta3oS22T_1dqYJQGM8pcief0vfN8pshvJ4lOq6fOoQQlP8Z6H5AgEao"
+    },
+    {
+      "position": 8,
+      "title": "Summer Feet Cycling",
+      "place_id": "ChIJb9eDuWSc4okRN8bXKl5AByQ",
+      "data_id": "0x89e29c64b983d76f:0x2407405e2ad7c637",
+      "data_cid": "2596114483392267831",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89e29c64b983d76f%3A0x2407405e2ad7c637&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89e29c64b983d76f%3A0x2407405e2ad7c637&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658902999999995,
+        "longitude": -70.248651
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb9eDuWSc4okRN8bXKl5AByQ",
+      "provider_id": "/g/1tf7t413",
+      "rating": 4.9,
+      "reviews": 395,
+      "type": "Tour operator",
+      "types": [
+        "Tour operator"
+      ],
+      "type_id": "tour_operator",
+      "type_ids": [
+        "tour_operator"
+      ],
+      "address": "6 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(866) 857-9544",
+      "website": "https://www.summerfeet.net/",
+      "extensions": [
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"The bikes are brand new and quality rides.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKK4_B-nhE13PbkJPq2RQySK5Q4r9_ifo7wJNVY0pEblleTzzAgkIEwTaZs1xwTZkzc7pq179o8ccJWW3C-fwcfyL2NHQ79VnAU1QlFCcrMEWPT71Ju9S742VYYr1BqStz0lAo6g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Rt83E3icHcRRboIwGADgE1VaYHYs2UM1GAVH6GAQfDHzDxRDbYHWdHLDHWG3Mdn38P399taO5s3zZB-shNZCtnfTzqCVbZVdgb55YjQIDDIeyzM-sF2ahucNUn1MgvwyJPnkf_JHkb7wcI7O105Tl2RVg8f4ImVbLgsTwyF25ffJkB9XnoYF6DgRGulXgKSugy3qHHSPo5_tOY0qxb4Il7stzB9xnZeUJPeooKFfNc1MNlNhFyyZXot3RzDGqP8fkHoCjvNECA"
+    },
+    {
+      "position": 9,
+      "title": "Maine Bike Works",
+      "place_id": "ChIJwQffCKujskwRYWMDLdUeI70",
+      "data_id": "0x4cb2a3ab08df07c1:0xbd231ed52d036361",
+      "data_cid": "13628770798285316961",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a3ab08df07c1%3A0xbd231ed52d036361&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a3ab08df07c1%3A0xbd231ed52d036361&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5410865,
+        "longitude": -70.41673229999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwQffCKujskwRYWMDLdUeI70",
+      "provider_id": "/g/11b7hqlsvt",
+      "rating": 4.9,
+      "reviews": 86,
+      "type": "Bicycle Shop",
+      "types": [
+        "Bicycle Shop",
+        "Adventure sports center",
+        "Bicycle repair shop",
+        "Outdoor sports store"
+      ],
+      "type_id": "bicycle_store",
+      "type_ids": [
+        "bicycle_store",
+        "adventure_sports_center",
+        "bicycle_repair_shop",
+        "outdoor_sports_store"
+      ],
+      "address": "885 Portland Rd, Saco, ME 04072",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 590-8903",
+      "website": "http://www.mainebikeworks.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true
+      },
+      "user_review": "\"Quick, easy, affordable and top tier service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDMFtyYyzgrwvzrjiGhijpm1ao9oNqHlJzk8aNBrdf6NRbSHj981uc_Ib4uLLLdO2XsIn0XyWmHzFTq4BsB_DLx7qtQeY97MsZXCE_N3g19LlPMbBSEUnGKLELyPBF_9_2mcbI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ms6PLHicHcTvEoEwAADwJ0olh7nzoVGKNfl34stOkyW1VVuoF_QM3sad34ff95MqVcqJruep1WNCsDxpZFJTwVXCVY-KQmel1KjUpG6HePOwvXngqvbUdqx-Pbs6uy_Se1YW5kUAgSsvX3aP8QXD-nob4m288zIwNhtK_HjQIISu634kfW5E7bHwOndfDaCEZI7eo0ptkhMYBfIczRyCLWYClIdBDHfOgS9WyEFtCF0CSL-gsT99mYZhaOl_qvEf_yZFJQ"
+    },
+    {
+      "position": 10,
+      "title": "Portland Rainbow Bikes",
+      "place_id": "ChIJjd-K85KdskwRkMO0OWogxHQ",
+      "data_id": "0x4cb29d92f38adf8d:0x74c4206a39b4c390",
+      "data_cid": "8413885644441699216",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d92f38adf8d%3A0x74c4206a39b4c390&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d92f38adf8d%3A0x74c4206a39b4c390&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.636016999999995,
+        "longitude": -70.161625
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjd-K85KdskwRkMO0OWogxHQ",
+      "provider_id": "/g/11h1k9393p",
+      "rating": 4.8,
+      "reviews": 42,
+      "type": "Bicycle rental service",
+      "types": [
+        "Bicycle rental service",
+        "Service establishment",
+        "Sightseeing tour agency"
+      ],
+      "type_id": "bicycle_rental_service",
+      "type_ids": [
+        "bicycle_rental_service",
+        "establishment_service",
+        "sightseeing_tour_agency"
+      ],
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20138\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(732) 492-5928",
+      "user_review": "\"My family and I had a super fun time riding bikes in Peaks Island!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzGQlmF5c5vq0Jvt7jkzG2pDB3uHLepzw5nBEbLc-EmUSSl287q6bqj9jFpdreLmVKFMBuf0h5gijEJ7DCoJkI9OoyVAcQyoEyoIxIwUBO3mLLB8PBo0vFmriTdT6lD0cwtzxatQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gcpl13icHcRbjoIwFADQFVWqBFETP-jwGLA-iOj_WDsgtNxCCwg7dAnuxsTzcd6vwhilN5YlCnuWA-SCd5q3DGrDazNjIK1cacQ00pZ3OqSVF01RKmToMKdvcNIbt6ymaKF8Yne_lKtpcGoS3ChDgbycz2KxcpvlrSnXZajuLafyugv3pPvHhZM_yiBx_R9Iqnh9hPHqsXSEYIT4GQ8XcrQlpWR1IoD7ULaP7J4thY_ZYKbnn0m3wxxjjIrvDNUfBylF9g"
+    },
+    {
+      "position": 11,
+      "title": "Ernie's Cycle Shop",
+      "place_id": "ChIJ4cXa6p-QskwRzKTpGwKj9Mg",
+      "data_id": "0x4cb2909feadac5e1:0xc8f4a3021be9a4cc",
+      "data_cid": "14480377931356546252",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2909feadac5e1%3A0xc8f4a3021be9a4cc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2909feadac5e1%3A0xc8f4a3021be9a4cc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.680436,
+        "longitude": -70.37459
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4cXa6p-QskwRzKTpGwKj9Mg",
+      "provider_id": "/g/1tgfw6y4",
+      "rating": 4.8,
+      "reviews": 105,
+      "type": "Bicycle Shop",
+      "types": [
+        "Bicycle Shop",
+        "Bicycle repair shop",
+        "Electric bicycle store",
+        "Fitness equipment wholesaler",
+        "Repair service",
+        "Scooter repair shop",
+        "Skateboard shop"
+      ],
+      "type_id": "bicycle_store",
+      "type_ids": [
+        "bicycle_store",
+        "bicycle_repair_shop",
+        "electric_bicycle_store",
+        "fitness_equipment_wholesaler",
+        "repair_service",
+        "scooter_repair_shop",
+        "skateboard_shop"
+      ],
+      "address": "105 Conant St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 854-4090",
+      "website": "http://www.erniescycleshop.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"Helpful and experienced employees\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAHu2JDYUpYfzdcflB2ANCxxOg9i5pruIycAgADBVWWAWwLeT4pamJO_579pzp6kf2we3QXPHLaxt_Xx6ICyWmIM_hFyAW27b83frd0brIwEaVGd6SI12GX9c2A7qYw8ckR2dcjQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tM74E3icHcRbcoIwFADQFSEYFKQz_bhqK3Gsiq0Gvhi8hNDySkmYgDvsErqbzvR8nN-fUmupnmy7Lt2Z6DpR80HxHrtW81bPsGtsIZWFylI2nI9RBSGEA9lvk6tMikeORb0mcNyM40kEn0vZD3RCELBd3xgDZg78YyGzZn9Kl34gH9KrCmK4G8Xn8JCNOo1Hj24m1tC3tHydgBH_vnKLPnfuPTUv2W2Xe-90TnZxgAT878SssLqQHL-iZzN3HMcq_0er_QPrFETR"
+    },
+    {
+      "position": 12,
+      "title": "Brad\u2019s Bike Rental & Repair",
+      "place_id": "ChIJMzz0dJidskwRfpqDn_GSFKY",
+      "data_id": "0x4cb29d9874f43c33:0xa61492f19f839a7e",
+      "data_cid": "11967351676291226238",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d9874f43c33%3A0xa61492f19f839a7e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d9874f43c33%3A0xa61492f19f839a7e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6578119,
+        "longitude": -70.198306
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMzz0dJidskwRfpqDn_GSFKY",
+      "provider_id": "/g/11cpnqy9m5",
+      "rating": 4.7,
+      "reviews": 164,
+      "unclaimed_listing": true,
+      "type": "Bicycle rental service",
+      "types": [
+        "Bicycle rental service"
+      ],
+      "type_id": "bicycle_rental_service",
+      "type_ids": [
+        "bicycle_rental_service"
+      ],
+      "address": "115 Island Ave, Portland, ME 04108",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 766-5631",
+      "website": "http://bradsbikeshop.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Cheap easy rentals, sales, and they can fix most any bike issue.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFR1r2ajirG3QAxgLWqeYcmbHwRBSVbvQS-7SVcwrzzXM_eI1o6WnGygQ9G5lzRXhXhxdNmZOUimzdUkQYq3ZVWKwI1OeH9zMb8Mh9ghS1KaZdWQY39jWR-otpYEo5PTudCgUpb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-GL8ZXicHcRdDoIgAADgE6GS68e2HqyVtrJCU9SXlsigUjGhLC7YGbpNW9_D9_1wpVo5Nc2K2wYTglX0IWlHRKNoowwiapO1EhAJpOkedujmrkLYDc7XS-fZyH2xLb7TjNSF34fzKCmeKALjKCF9p3UanOgaihFuvDdDjjesdJjylL_KXZ3v40uty_iGsrudJ3jTr-Ge-o4OiknAHcYjuDnnJUaZ7VxxCIRqs6UYHo6PcsHitpj10LIswP8T0PwAynlFxg"
+    },
+    {
+      "position": 13,
+      "title": "R\u00eave Cycling Studio",
+      "place_id": "ChIJ_T6AyI6bskwRYTRHAT0_KzE",
+      "data_id": "0x4cb29b8ec8803efd:0x312b3f3d01473461",
+      "data_cid": "3542995063104025697",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8ec8803efd%3A0x312b3f3d01473461&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8ec8803efd%3A0x312b3f3d01473461&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6687442,
+        "longitude": -70.280591
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_T6AyI6bskwRYTRHAT0_KzE",
+      "provider_id": "/g/1pp2tjh5r",
+      "rating": 4.9,
+      "reviews": 48,
+      "type": "Indoor cycling",
+      "types": [
+        "Indoor cycling",
+        "Physical fitness program"
+      ],
+      "type_id": "indoor_cycling",
+      "type_ids": [
+        "indoor_cycling",
+        "physical_fitness_program"
+      ],
+      "address": "559 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20137:30\u202fPM",
+        "friday": "6\u202fAM\u20136:30\u202fPM",
+        "saturday": "7\u201311:30\u202fAM",
+        "sunday": "7\u201311:30\u202fAM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20137:30\u202fPM"
+      },
+      "website": "http://www.revecyclingstudio.com/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "user_review": "\"I love the postive atmosphere and friendly people\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5ldDyr9mrh4Qt2nnCBOwIC-4fevtqTyRrNBu3gMf4g1dtqimbJUpAcY7Rx_dKvSsBYgd8GvQcBZjOqIp8kAfvYQlOGmpzfjCn_fmSCX-ofn0d83OJhEZk5yliSbJlmxI75jY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1sDff3icHcRJDoIwAADAF1VQIKKJB8AlYBQRTYSLiS1thW7QiuID_YO_MXEO8_1QY5SeWxajzohISVj10FUHpTCVMCMouUWUBlADbQWHfdYEa4-h5dDNeEfdzEyEiML0GUfAxVVv2tNw7PbhwyE77JIxMu2d35KzCmAxPb6uaNvnOiwI8jd9BsOyTttY-U2A-yJj6YarN64jccU8jy5AYmEj30kTuiobb2D3_JYw_oqnXl0snmPbtgH9D4H4AadhRf4"
+    },
+    {
+      "position": 14,
+      "title": "Fitness Equipment Maine",
+      "place_id": "ChIJVTv8aAacskwRjPqO-FLuSHI",
+      "data_id": "0x4cb29c0668fc3b55:0x7248ee52f88efa8c",
+      "data_cid": "8235093958771800716",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0668fc3b55%3A0x7248ee52f88efa8c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0668fc3b55%3A0x7248ee52f88efa8c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.651463299999996,
+        "longitude": -70.28011649999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVTv8aAacskwRjPqO-FLuSHI",
+      "provider_id": "/g/11gbzct6k9",
+      "rating": 4.9,
+      "reviews": 88,
+      "type": "Exercise equipment store",
+      "types": [
+        "Exercise equipment store"
+      ],
+      "type_id": "fitness_equipment_store",
+      "type_ids": [
+        "fitness_equipment_store"
+      ],
+      "address": "244 St John St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 536-1160",
+      "website": "https://fitnessequipmentmaine.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"Very reasonable with delivery fee and the machine looks new!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5bucPpIUWJGowpJhMx60w1AEC6Z8zfRJOUvc8pcHRrwgiosDUEghF91BfVW1M3ohh7zfOLXg8CCIwYt7ZCYTlRoKAK_YMo2ZoWxpKScTcJsfD0YYDLfKnexlk6GMZGmZy28PEpC6ijaKg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/v3WxQ3icHcTRToMwFADQL2KULTI08QELstHhEIfYvhi9oe0c4zZrZ9l-0mf_xsTzcH5_tHPG3oXhoBczhaiG_mz7E-Do-tHNAI-hMjYAG9gwrZ-eD-nq5vMMtVm3XVmgN6Wuppj4KM1pLJKrbMpt-w2JgVVz8mqPNmtzpR9vowf52kXVArVeXuV286YSSteeu6WgfDc0yFL2ziucC-wmw15gB6WVGeE820g29tNwiItKFEdxmSd1bmi8__pg6t5HhJBA_w_B-AeoSkd6"
+    },
+    {
+      "position": 15,
+      "title": "Gorham Bike & Ski",
+      "place_id": "ChIJJ6VlHFmkskwRl7WNLgvuXIs",
+      "data_id": "0x4cb2a4591c65a527:0x8b5cee0b2e8db597",
+      "data_cid": "10042163000922453399",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a4591c65a527%3A0x8b5cee0b2e8db597&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a4591c65a527%3A0x8b5cee0b2e8db597&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5138939,
+        "longitude": -70.4296912
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ6VlHFmkskwRl7WNLgvuXIs",
+      "provider_id": "/g/1tcykn22",
+      "rating": 4.9,
+      "reviews": 445,
+      "type": "Bicycle Shop",
+      "types": [
+        "Bicycle Shop",
+        "Bicycle repair shop",
+        "Outdoor sports store",
+        "Ski shop"
+      ],
+      "type_id": "bicycle_store",
+      "type_ids": [
+        "bicycle_store",
+        "bicycle_repair_shop",
+        "outdoor_sports_store",
+        "ski_store"
+      ],
+      "address": "575 Main St, Saco, ME 04072",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 283-2453",
+      "website": "http://gorhambike.com/contact/saco-pg1206.htm",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Bicycle rental"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"They finished working on my bike within 24 hours.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5CWGsNS4kJU2A47y5aAgFYPflFoPUOjWWqtm0J7Wv7PyDXKxbgk17GQDf6V5GkF4BvSoftfXrgksOZzQaMPvcEH7avyDXD3mOf_txM3qrZZgxq6JMRsXeLvLAppVnZziNlls=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/juPERHicHcrBboIwGADgJ0JQwCZLduiGsDCBMqMwLgtraNEWCvy1og-4d_BtNLt8p-_-12o9wItty9ZdcKW4bM7QTFT1uun1gqrO5gNYFCywMUlzgTf-exFBuvNEvF9hD139GvPwmzAZKrLPTkUx6s6JUWEQuQbl5_zLxRJFecDWBz8SofdmdoppVk5cQFbd8johhm4-UG2ePXC7jP3oOXHHqar4PK7j5AvKZmu2eBgOfXU7plLC62XpOI7V_kut_gH1cUVG"
+    },
+    {
+      "position": 16,
+      "title": "Portland Gear Hub Bike School",
+      "place_id": "ChIJi4p8ThKcskwRUqa8N1SOZIc",
+      "data_id": "0x4cb29c124e7c8a8b:0x87648e5437bca652",
+      "data_cid": "9756079185154844242",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c124e7c8a8b%3A0x87648e5437bca652&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c124e7c8a8b%3A0x87648e5437bca652&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6660013,
+        "longitude": -70.2552814
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi4p8ThKcskwRUqa8N1SOZIc",
+      "provider_id": "/g/1ydxc8hxk",
+      "rating": 4.8,
+      "reviews": 20,
+      "type": "Bicycle repair shop",
+      "types": [
+        "Bicycle repair shop",
+        "Non-profit organization",
+        "Education center",
+        "Vocational school"
+      ],
+      "type_id": "bicycle_repair_shop",
+      "type_ids": [
+        "bicycle_repair_shop",
+        "non_profit_organization",
+        "education_center",
+        "vocational_training_school"
+      ],
+      "address": "85 Anderson St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 1\u202fPM Thu",
+      "hours": "Closed \u00b7 Opens 1\u202fPM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "1\u20137\u202fPM",
+        "friday": "3\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "3\u20139\u202fPM"
+      },
+      "phone": "(207) 761-7632",
+      "website": "http://www.portlandgearhub.org/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "user_review": "\"I got mine today as it's my first time to ride in the US.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIeHKZAjcednrhII94qTzldKl3C2V7lXKd7fZ5aWIvKKZr3srJb23GIdZxJEesvGXpGg0syAMkkLEY8pESb9lt2XsV3GmKqP8c-kXxIssWBErxsIbX9dNo6rayiiD-c0JhejA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9GJsnHicHcRRbsIgGADgE2FZmdMu2QMq6Sib0cwo65sFLFoslZ9p9YC7g7cx8Xv47v82xg7ek8RZMqi9r535AxOUb6Np40D5Y1J3gBQgSOhivmwo4-ZTlPSgjG6D5Tx7Pa1uTgtHpul65KTQo1053G74WYgyEAhFlZKc67IvmIFzLru8xnCl303zxX7HHfupMhdTCWuSH8VpMVaokT0H2ExY6IFXMtNz_xa21_1-hhQurDnQj8sLxhjZ5wq1DyL3RKo"
+    },
+    {
+      "position": 17,
+      "title": "The Bicycle Coalition of Maine",
+      "place_id": "ChIJK89i6jUBskwRMw8NwNDSEnQ",
+      "data_id": "0x4cb20135ea62cf2b:0x7412d2d0c00d0f33",
+      "data_cid": "8363979251997544243",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb20135ea62cf2b%3A0x7412d2d0c00d0f33&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb20135ea62cf2b%3A0x7412d2d0c00d0f33&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6662138,
+        "longitude": -70.2573585
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK89i6jUBskwRMw8NwNDSEnQ",
+      "provider_id": "/g/1hm3tyrh9",
+      "rating": 3.6,
+      "reviews": 10,
+      "type": "Non-profit organization",
+      "types": [
+        "Non-profit organization"
+      ],
+      "type_id": "non_profit_organization",
+      "type_ids": [
+        "non_profit_organization"
+      ],
+      "address": "38 Diamond St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 623-4511",
+      "website": "http://www.bikemaine.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"(I had registered both my partner and myself, so close to $500).\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSomlNNwAoJjeZ8YsQKKrBIg_Mstlp0k-Jt63LgPVqG75Tu9IGHQYEASQdNpp8wQcR_BdyzFsgHJScgixQp6KSjYD2pmxCbMraYqZa3uqo5XGXHN-HqRrpb9BpmuAvg8WDQ66d=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/S2Sj6XicHcTdEoFAGADQJ1pFIzHjYvPTKnZsGeTGsDUbqv1qN8ULegZvY8a5ON9PpjWoiWHkmdUTUoo8bVRac1nqtNQ9LgtDgEJcIWXgLWUPTCJZ5JS2WPr39OTEigVB7a7EeaN0DuYD-dq21mK7r7zRcNeMVx5h8QJHLKEATst4eHaT13upBPEjLm4dAzuI7vF8AEU3u27qS1ydLlZTyeHROxKKSBXWcB27UDT4KZzDnNl2Mm37pmmi7D9H5Q-hAUVU"
+    },
+    {
+      "position": 18,
+      "title": "Rave X Motorsports",
+      "place_id": "ChIJUc65fWWZskwRJ61qqLEaeLQ",
+      "data_id": "0x4cb299657db9ce51:0xb4781ab1a86aad27",
+      "data_cid": "13004173274369404199",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299657db9ce51%3A0xb4781ab1a86aad27&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299657db9ce51%3A0xb4781ab1a86aad27&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.643400899999996,
+        "longitude": -70.3274191
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUc65fWWZskwRJ61qqLEaeLQ",
+      "provider_id": "/g/1pp2th01w",
+      "rating": 4.8,
+      "reviews": 174,
+      "type": "Motorsports store",
+      "types": [
+        "Motorsports store"
+      ],
+      "type_id": "motorsports_store",
+      "type_ids": [
+        "motorsports_store"
+      ],
+      "address": "443 B Western Ave, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 773-7727",
+      "website": "https://www.ravexmotorsports.com/Default.asp",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Excellent customer service and awesome bike mechanics.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6Ufo2ETRmuLC5JoWAuJjDxFETQ0RxMFmUXMSVo9XlpO36igNJAH6mXJJhv8baRjfIzQ_SthF2FqCsxzPzNTIjOWBwf1yYHMv7e21_F4jJeQcdKv3IE_epQmLvqbHKkpL0W58Ll5ssnSSA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/avFmLnicHcTBToMwAADQL2IUEJwmHuqkgQ7YCkzwRFwtVEZpZwtDftKzf2PiO7zfH26M0o-2PXBv00nZDWzS7IvK0bDRbKgUdqe0RbWlbXjMyAWi4NRKNyxzMSU7H8sKTrh_WVBYEpAvKRKnOi1e5UM9qIMXfHYZhlEgaoz5vD2_530br6QpDEcuuu70sh7XrIz7Q_V8a53vtyid75nrNOiux4zQj_3sxWHDFBHJfD1H-4tKQOVvk8HXeiwK-HRzAAAW_59a4x9-LUc4"
+    },
+    {
+      "position": 19,
+      "title": "Jibe Cycling Portland",
+      "place_id": "ChIJ5wxleK6dskwRPQ6CV_B6hXA",
+      "data_id": "0x4cb29dae78650ce7:0x70857af057820e3d",
+      "data_cid": "8108021876829326909",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dae78650ce7%3A0x70857af057820e3d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dae78650ce7%3A0x70857af057820e3d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6596492,
+        "longitude": -70.2649429
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5wxleK6dskwRPQ6CV_B6hXA",
+      "provider_id": "/g/11ghdjzwwh",
+      "rating": 4.9,
+      "reviews": 176,
+      "type": "Indoor cycling",
+      "types": [
+        "Indoor cycling",
+        "Fitness center",
+        "Gym"
+      ],
+      "type_id": "indoor_cycling",
+      "type_ids": [
+        "indoor_cycling",
+        "fitness_center",
+        "gym"
+      ],
+      "address": "82 Hanover St Suite 12, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 3:45\u202fPM",
+      "hours": "Closed \u00b7 Opens 3:45\u202fPM",
+      "operating_hours": {
+        "wednesday": "5:45\u201311\u202fAM, 3:45\u20137:15\u202fPM",
+        "thursday": "5:45\u201311\u202fAM, 3:45\u20137:15\u202fPM",
+        "friday": "5:45\u201311\u202fAM, 3:45\u20136:15\u202fPM",
+        "saturday": "7:45\u201311:15\u202fAM",
+        "sunday": "7:45\u201311:30\u202fAM",
+        "monday": "5:45\u201311\u202fAM, 3:45\u20137:15\u202fPM",
+        "tuesday": "5:45\u201311\u202fAM, 3:45\u20137:15\u202fPM"
+      },
+      "phone": "(207) 272-1183",
+      "website": "https://www.jibecycling.com/portland",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Currently offering first week free for new riders!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGl3CULvGB193ICFPo95TqQ725pY8u2kK6v0qmhq3sm4GtjK_8cLm6S2J1Jo1mWo7w5-HxQGYkRlQX2KmEe5WCHTGvOYcJSuojEvejc-bOxPlPkbT8bESUcCJNWa0xTuyZMeisT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gZ5MOXicHcRdDoIgAADgE5GomdbWQznDtB9NmtlLS8Y0BdFAsxN2hm7T1vfwfT-lUq1caBorzUkhRMFoL-mTiEbRRk2I4FrRSkAkkNoqOsT1CjHTPe8GtNbn5tbdRGJu4S62DavNnN6ow9kAO152puRTpKrw5pAdnyVGoAdC56mwXxbwxxhl9YnFFyPkHrVS18doOGYkSHpReQOtCMiPY8SiOsdO7iVn4gaH9A5H3L-ve_qQePnSIYSg_E9A8wOZaEOB"
+    },
+    {
+      "position": 20,
+      "title": "Public Bike Repair Station",
+      "place_id": "ChIJP8bu55ydskwRj7NEqh5Xwhk",
+      "data_id": "0x4cb29d9ce7eec63f:0x19c2571eaa44b38f",
+      "data_cid": "1856141785647330191",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d9ce7eec63f%3A0x19c2571eaa44b38f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d9ce7eec63f%3A0x19c2571eaa44b38f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6582778,
+        "longitude": -70.25922779999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP8bu55ydskwRj7NEqh5Xwhk",
+      "provider_id": "/g/11k49fr9p8",
+      "rating": 1,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Repair service",
+      "types": [
+        "Repair service"
+      ],
+      "type_id": "repair_service",
+      "type_ids": [
+        "repair_service"
+      ],
+      "address": "15 Elm St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hRCa_B659ovKhlfTZAPiSQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=43.73456&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lXEuJXicHc1LDsIgFADA27ATqP1oTYhRl278rdw0lFJ4CQVSEPQ0nsvbaLzAzOetY_RhQ0iIs5QxgcwentKEhedYOaeM5B4CFm4iqSBRP6becjBbz62DgenLgXf7pm5dOmoz3u67E1zPSPSdMCBtZEHyWWis8k-c3YCVDyizNUWatUv04plVJV6VVd0gD1FoRtE_GV1iBaVfNG85MA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=bike+shops+in+Portland%2C+ME&start=20&type=search"
+  }
+}

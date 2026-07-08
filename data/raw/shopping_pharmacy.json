@@ -1,26 +1,26 @@
 {
   "search_metadata": {
-    "id": "6a4e682d4de49a4a78770dfb",
+    "id": "6a4e67f69a1f2c96e6e80f0a",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/1j0eQvPjcMk2TD1gqlCdfA/6a4e682d4de49a4a78770dfb.json",
-    "created_at": "2026-07-08 15:09:33 UTC",
-    "processed_at": "2026-07-08 15:09:33 UTC",
-    "google_maps_url": "https://www.google.com/maps/search/pharmacy+near+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
-    "raw_html_file": "https://serpapi.com/searches/1j0eQvPjcMk2TD1gqlCdfA/6a4e682d4de49a4a78770dfb.html",
-    "prettify_html_file": "https://serpapi.com/searches/1j0eQvPjcMk2TD1gqlCdfA/6a4e682d4de49a4a78770dfb.prettify",
-    "total_time_taken": 0.82
+    "json_endpoint": "https://serpapi.com/searches/QLYLBtWqxAsB6-0k9nkxXg/6a4e67f69a1f2c96e6e80f0a.json",
+    "created_at": "2026-07-08 15:08:38 UTC",
+    "processed_at": "2026-07-08 15:08:38 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/pharmacy+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/QLYLBtWqxAsB6-0k9nkxXg/6a4e67f69a1f2c96e6e80f0a.html",
+    "prettify_html_file": "https://serpapi.com/searches/QLYLBtWqxAsB6-0k9nkxXg/6a4e67f69a1f2c96e6e80f0a.prettify",
+    "total_time_taken": 5.87
   },
   "search_parameters": {
     "engine": "google_maps",
     "type": "search",
-    "q": "pharmacy near Portland, ME",
+    "q": "pharmacy in Portland, ME",
     "google_domain": "google.com",
     "hl": "en",
     "gl": "us"
   },
   "search_information": {
     "local_results_state": "Results for exact spelling",
-    "query_displayed": "pharmacy near Portland, ME"
+    "query_displayed": "pharmacy in Portland, ME"
   },
   "local_results": [
     {
@@ -131,8 +131,8 @@
         "delivery": true
       },
       "user_review": "\"They have everything, and the staff are very knowledgeable.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJGK_WQWSKj6Gz_x4gFCEHb0LEC-GzGSJojIsWzPb-MUi8QSbwAMkEK8olNEuHvcoy0IAGIEst04zexqi-sLqtj5R01UZbf9ATfg-bI65DIMkKCVqX4Fg8VRWj5W83gHMa35CL=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/ctn4TnicHcTbDoIgAADQLyJpXmZtPTBDJLVlVrReXDDD1CSDbv5g39DftHUezvdTGXPVU8tqK3sklZJtedflTajOlJ0ZCXWx5FUDoYG20GqZNShakLhgGcvj2iND8XJkGOCIwwQHgAwkX6iaajasOEi3Zz_L-ROlDY591S7xPXoI9YYUEYq1gc5Qvvoz0ElvancNx9sDP03Q5iQBp547p2kTB7t-74TS361Z7TLfllF6tN0gmT3HEEJQ_Reg-wHeFkKX"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm__DMW-kOVaOjfuOlxAVEBwMwKc-bhtB2jHmjQOLKX9jT6cqAE2HcVtYIZabyyQDmZGqm4ya3MNPraY5T_fj8odnmmoT09Rs1qbJF1sCPJqD9oYF6JgxL0E4zEqYAG-Tx2V45f=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HWGKA3icHcRJDoIwAADAF1UKohETDyAosgiaBsULgcqSSim1NYAf9A3-xsQ5zPfTSNmLtaK0zXxWM1a35UuUT8w6WXZyhhlV6l4ALIBQTPccowvNMju8gEeU5BGpXlE7moljDeHgY1A00tKIS8kpCvyrQdASc9PRXJzI9HDLi2k62fS251Sf8nl4jJ95ukBZRVbs3lHKEDTOQuWFt1PFNva4bbB0t_TqMYCO_nZ4au4BGrVEX1SbQYUQguY_Bt0Pf6ZETA"
     },
     {
       "position": 2,
@@ -175,6 +175,7 @@
       },
       "phone": "(207) 774-0344",
       "website": "https://www.walgreens.com/locator/walgreens-290+congress+st-portland-me-04101/id=19464",
+      "description": "Prescription medications & more. Department of the Walgreens chain providing prescription medications & other health-related items.",
       "extensions": [
         {
           "service_options": [
@@ -222,9 +223,9 @@
         "curbside_pickup": true,
         "delivery": true
       },
-      "user_review": "\"KNOWLEDGEABLE AND FRIENDLY STAFF\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjvC-67vAlcs9f0gU8vOjjNMIC_7c7OdRCNs3DwJqopYrpJENOVZjuBVbFAeIPqB8C5kYRasSXDdf9q1O51z9ZLnEhRRiZtlNqi7YYXRTVz6H0xHfqIoo9kNKWK0bipWQQx3Zf=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/4LvHt3icHcRJDoIwAADAF1VKiCAmHhAh4FKkKgIXI5UdaWsrGj7oG_yNiXOY76eSkom5onSVNikpLbv8KfIHob3Mezkh9K6UTAAigFCsPQpby20GG-jGYHVEmAUsT7MhaBq08-2LQYzghm0ktNVrzSlLHmztoCBKm-cyylwr9_d8ObOnbYKv4hCvboXJ1WCqjma67Z0K4zqVHeK1kSQxPkaj7sG3V3CfUrNFm_MGZjU7h-FbS4vFS4UQguo_Af0PMLtEYQ"
+      "user_review": "\"Great staff quick service\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnULcOKoAXIAfc16kdgbCmYeba3EohZNRNR53sBOxQZm52j9ScHbo2wp6-oCqMThCYvMYu37-sHjQEoE2ChjQEVleDg52GCLZ6ua9N34-S12CyrWdAvYG70gpDuGri3ZDt5mgXR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KiAuX3icHcVLDoIwFADAE1WgFQwmLrAQMAoqfmEntbYq8JAWPyf0DN5G42bm85ZaN2poGKUkPQEgSt4p3jKoNa91j0FliEYhppAyvChdrHf1ZsbmU_D2E-_ELOd6FAWtMl4cSAAyT9IktYkaz5_LvLLxxV2xqAD8aBwE9BavJc3ucdaRAVLRZRlAgKn8vS25L2wc0lnudAc3IX20sjB9tbujd8_CgSkavwvbM8l9bVdin44elmmaSP5lqP4C70hDAA"
     },
     {
       "position": 3,
@@ -309,10 +310,10 @@
         "in_store_shopping": true,
         "delivery": true
       },
-      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=454&postalCode=04101&rwg_token=AE37R_isqFJ_tYjcZr2-YCgcmKsNK1tNC6dgnf7Ng4XhifPSHam3LiyMBxNZwOwPEA3ADw-EiAf7WYUaHN-5sYGUsaVF_vsfDA%3D%3D",
+      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=454&postalCode=04101&rwg_token=AE37R_i_95v7jiAivOuoMyvhyshNb2Fd3JQe4uN8Fd3Mpl2Q13_GSf-ZCkTf0qZPoz_oaRJEvsW_Hv0hIP4vFwQkDV0dZb4pJQ%3D%3D",
       "user_review": "\"They always have my meds ready when I  need them and are on time.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAETSsmgDWZDrDUgSAUaJImXWylkvvzUC2_P7oDJXlaAmouam9orQObTQ-vgzVWBewEtlWyp-nUmbbpKbIodk8ZJE4pgTgf17DsQUWkRH7iddz7uBghtm9pXpu7giN38QAzPiaMqEvAYBAKi=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/OhSA2XicHcTdboIwGADQJ6rgXFJd4kWxJIqZo5Na5o3hbx-EllZaMPKSXvs2Jp6L83zUzhn75XmyXsxAa5DVYKu-0J2rOjcrtPLAWFRYZD0SH1hLwuRoFVBxpj3lcCQ8i3YqFXfZjuPENx-XGGsapTIjSg-ZWume_eQJQyNMJxFUt9BJcTeo4yrPzT7f6bJdnqPw00AC_3NMLeOi_d3ipiwnPARQO7UyqRkwNIfFkpEpbrLvaziSv4Dsm_Vt7vs-qt8XqHsBcctJZw"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkkCGS1t4WInauACYUgBdO3pyXmprmDMya_OrxR7RVQUBs7eD5ds9k93jrvLdnnscblHKiIbiUeeON6PDnj3_DJySiJ_kT8F_wsrTzxUYOLpQyeGaQ6jVIBIfMrL0tFeTZOE6wJlinZi--j=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1RcBMnicHcTLjoIwFADQL6pgGFEncSHiA0QrCCJuCJYK5VGa3jrI_OSs529MPIvz_1cqJeBb05rSGBVdVzT0CVSSjivK1Yh0rVYIQAQQaMtdcArjul5tz2P1FTs8ey5XSVRYOTbEcG2FbO3DkKVYvoJpcPEjC6bUnuQwr-dGJX-8nHMg92a3Z86dRZTio3myeWWktjucmZvW4WyT9iDD31eUYE_4A91mvlldHMt5HKSnqw0Nb3ht9m7D-I0hVC36sa7rqPxMEH8DJK9Itw"
     },
     {
       "position": 4,
@@ -387,8 +388,8 @@
         "delivery": true
       },
       "user_review": "\"They have pharmacists in house ready to talk about any concerns.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFzPgqvvkDc3YwMoTjizpFzJM8O9ovcUG2fOBbyI4Z-n4oPjFyyych9V-lqDcNwW1Ig-zsYPOsCwpIK0oF5e1Yi8T4m6MJAMSGCupVAB2CPPfrOfDmTeMuxH9k9ykyvQ8oB4PCxw=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/41DM4HicHcRLDoIwFADAE1VA0YCJCz6poqnUiBpc2pSifF61QC039AjexsRZzPdTdp1US8uqy9lEAIia94q_GLQdb7sJg8YSUiGmkLICuj9UAcYjFc9hqGI2yzWB7HEfJR63xEt9GNhpPS3S8GYS94paF-gDG2NY6Z9R_YzZXl-cRKBR5TRVkZbJzgY8505-9zK3WZBtQI7rqJfnIJxGlBavtIibjJP-vfEr31RmOHgQujR665V2bNtG5X-G2h9Jv0Xt"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8RyTvW0tGsMmiBaCRtTVQaLBdEAj3Xufjg0sKqmDHmfJdh3zE9Imu561iecKNj0NURXVQuIGMPPt9SMo_Tb41TDoq7nQPJbS1_XX_vQXpAI4Y0E-atayuAm9-xEb5aGqpmY2keQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pHhEInicHcRRToMwAADQExWKDB0mfjBHGNtYKKtQvkjpCgzXFmw7xRt6BG9j4vt4vz-DMZN-dt3b4Du9Uv2NW80_mJKGS-MwJdx-0oBpoN1oV-S4kutiwfcKmkRn4rqhr4XBJaLHzSWORp_YbuyhPsxiuxPd_jL433GYChs8elfODqcRnt4KUiKbJlmem_CcqQa3Kw9v1fwkUb5vz15DSHNHZIrSVQ1jQA1dbCRC8BW3AU3mSdQP7xy9fHoQQjD8z4D8A_EyRRc"
     },
     {
       "position": 5,
@@ -431,6 +432,7 @@
       },
       "phone": "(207) 761-9454",
       "website": "https://www.walgreens.com/locator/walgreens-616+forest+ave-portland-me-04101/id=12325",
+      "description": "Prescription medications & more. Department of the Walgreens chain providing prescription medications & other health-related items.",
       "extensions": [
         {
           "service_options": [
@@ -482,102 +484,11 @@
         "delivery": true
       },
       "user_review": "\"Martha is an excellent, caring and knowledgeable pharmacist.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdqwBkhbwHv7IuzawHb56vzs25-p22UfzZcm3rE-sv88Y2BHQY1GhwkO066xYawB0IOS8hiQfob-WJaaCJwcEDPNJcKAwbJcjsVnEwwiOlktSADg3r9aVnfFXVMgqf7aFTjfM=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/unlkbHicHcRBjoIwFADQE1UqREQTF6AwiFEkKg6zKx3aKtgirXzDAb2DtzHxLd77JYxp9dyyGuGMuFK8qR666qiSppJmRNXN4q1GVCNt-ftdVvvR_x2CWpQQ99P1YyAQlxO3H7Q9Qa1tn9jwR29OFyLde15hB3FWjH8E1Cl23WdBIMDr9OCJS8ZUic4JIcsEaLja7xK68aFM6FXnMgS4pE1tDv6KO92M5JJFv_mW39mURMcr2y5gjDFG4jtF8gM1j0TC"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmV-kmlC6fGTzMCqmh41o1y53F5ZmVZ1Zx_HEeGvg6-VKEAsiV99Qta6PrPPDPdl6qNFNdoRvxcXOVLL7ySqRx4sOGrBTd4uSmhfoscoxKKTJT_LznNlT0WWFTgBk9_kb2y0Ws=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ov7wPnicHcRRboIwGADgE1XKRAwme1AnGEHssCkLL2Qr2BpaKvzVgQf0Dt7GxO_hez6ktRdYOI6S04kwRqj6CnXPTWvr1k640Y64AOKAwFluM0JzzVCj1do_RfS-X3daeq5xx9k0nBWaFW4xlNtNHd2Ej1i8WcKZBcG3_fVJT8gXqZTfpWFamew28J8DS5L5eOyywYND1K9o5V2PWp4McDPEMd3RMrm3qaI4z0MqVk1QNn8fI87h89_FGCP5nqP2BQIIRJY"
     },
     {
       "position": 6,
-      "title": "Walgreens Pharmacy",
-      "place_id": "ChIJH7CM0BCdskwRa_2H29fkFJI",
-      "data_id": "0x4cb29d10d08cb01f:0x9214e4d7db87fd6b",
-      "data_cid": "10526289844823915883",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d10d08cb01f%3A0x9214e4d7db87fd6b&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d10d08cb01f%3A0x9214e4d7db87fd6b&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.653299,
-        "longitude": -70.269093
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH7CM0BCdskwRa_2H29fkFJI",
-      "provider_id": "/g/11fpdbsjvn",
-      "rating": 3.9,
-      "reviews": 31,
-      "type": "Pharmacy",
-      "types": [
-        "Pharmacy",
-        "Medical supply store"
-      ],
-      "type_id": "pharmacy",
-      "type_ids": [
-        "pharmacy",
-        "medical_supply_store"
-      ],
-      "address": "713 Congress St, Portland, ME 04102",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
-      "hours": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
-      "operating_hours": {
-        "wednesday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
-        "thursday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
-        "friday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
-        "saturday": "Closed",
-        "sunday": "Closed",
-        "monday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
-        "tuesday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM"
-      },
-      "phone": "(207) 774-8456",
-      "website": "https://www.walgreens.com/locator/walgreens-713+congress+st-portland-me-04102/id=19821",
-      "extensions": [
-        {
-          "service_options": [
-            "Curbside pickup",
-            "Delivery",
-            "In-store pickup"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "offerings": [
-            "Medication disposal"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly"
-          ]
-        },
-        {
-          "planning": [
-            "Quick visit"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot"
-          ]
-        }
-      ],
-      "service_options": {
-        "curbside_pickup": true,
-        "delivery": true
-      },
-      "user_review": "\"Pharmacist is very friendly and team is efficient filling scripts.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqtzptTcJC5eaKVPCn9XQ981avdLFvEH1ZWqCx7UzvtV-6qM6f9rqsPzrLHOgQBJAguLTZNiKgjPs2ClNaQ-L4BSkofmcMqkrtQ5DGo4tLg7DA0bvOZoENG6ucrFdvsdl3R3Wb=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/pyCpRnicHcRLDoIwFADAE1VAEMXEBaJitCL1H3ZYsChIafuohgt6Bm9j4izm-ykAGjU2jKqwe4xzVuWtyiXlNeQ19Ch_GqxRiCqkDD-OSOmHAroGDnQVDPJ0fYqD2rsQb2SlOsMLPV9ayVkE7-Gx03BCrti4N08KFXcSL7eMTFc-a_Ehie5r9ohVP6iilCDsTPclvz3pRpQSyGAWcgcwG85886q3CZ9HodtSuci0yip7Z5-vk5dlmiYq_lNU_wB_CET4"
-    },
-    {
-      "position": 7,
       "title": "Walgreens Pharmacy",
       "place_id": "ChIJ-3n6kG2cskwRwRLUqNe463E",
       "data_id": "0x4cb29c6d90fa79fb:0x71ebb8d7a8d412c1",
@@ -615,6 +526,7 @@
       },
       "phone": "(207) 771-5631",
       "website": "https://www.walgreens.com/locator/walgreens-127+marginal+way-portland-me-04101/id=11886",
+      "description": "Prescription medications & more. Department of the Walgreens chain providing prescription medications & other health-related items.",
       "extensions": [
         {
           "service_options": [
@@ -662,185 +574,103 @@
         "delivery": true
       },
       "user_review": "\"The gentleman who works at the pharmacy is amazing.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuPgSDOQFiyjXWmr6QifWUJpH3GevbXRnQUOTFr63flVyOGssYYw8UATXVZDcD3hSKLbSr_hm1SKg0khUVEAaSOzalEpo31UdT-PB7A5rWSjltC9lw9wG5zTBwR8PtrFoOPCY=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/GTbC7nicHcTbbsIgAADQL8K2IV4TH9DamrkMKqWXvZiWVVBpaQBH9AP3D_6Nyc7Def1J50a7CgIl4URoLVR3t53henDd4CZc94EYLeAW2ACRr-yG9nciaIyz5PK4VmVvZtnlXLKPcQ_T7retjkPGcJ6YGTyr4oFTa-vaLxjKq-I75jGU9PDZUnOSfUQPIrxJVuxQQ_GzUbtRw4j95IBs5mhqSnpVbrtUfunT6TPf-OOCOJNoTLb12kdhGAL5PwfDG0dERIE"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlEOK7l2-wfc_jcvemjBj5fffKYQxWAmfFHqF1-hjhRMXxVDS9N3ND_OijIFaMCl6AJBNaW4WyuRjEizyuo5GqYj3lGK4fV3gXFWBmR5n3cgL_w4HjOQ6DYsBbCaTGK-KLA7Nw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aC9uonicHcRdDoIgAADgE5EWWqutB82_orTMhT45YwIxlArN6oDdodu09T183w_vuqteGIbkcMSUYrLudX0nqu3qthsR1RjsqgHRQBtOlO4zLP0EzeQEDJSUgjzqRrjCppSi4vDETkOD6BaMARc83eXPk3ecxzD2yuQi1kG1W8mps3HjClv41afCv7xfvbLDWyGgDJFFT5DlAXab1G4hYdtysCKRHKZeod3zqspCBNDWmcXDchibpgn4fwLaHwqfQ4Q"
+    },
+    {
+      "position": 7,
+      "title": "Walgreens Pharmacy",
+      "place_id": "ChIJH7CM0BCdskwRa_2H29fkFJI",
+      "data_id": "0x4cb29d10d08cb01f:0x9214e4d7db87fd6b",
+      "data_cid": "10526289844823915883",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d10d08cb01f%3A0x9214e4d7db87fd6b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d10d08cb01f%3A0x9214e4d7db87fd6b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653299,
+        "longitude": -70.269093
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH7CM0BCdskwRa_2H29fkFJI",
+      "provider_id": "/g/11fpdbsjvn",
+      "rating": 3.9,
+      "reviews": 31,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Medical supply store"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "medical_supply_store"
+      ],
+      "address": "713 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
+      "hours": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
+        "friday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM"
+      },
+      "phone": "(207) 774-8456",
+      "website": "https://www.walgreens.com/locator/walgreens-713+congress+st-portland-me-04102/id=19821",
+      "description": "Prescription medications & more. Department of the Walgreens chain providing prescription medications & other health-related items.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Pharmacist is very friendly and team is efficient filling scripts.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmgAqi-rSak1IQv7bo9xOekizW68r2Th5NpLmV1Rtl42q2M43bHfg3qRy7SM8CVx5Nv3klf-n2TogdTd0HitYfgG28n3GKp5Kj882L-YfZJNaBTy15Ldus99lYDSurneqRU1uxj=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fBzFXnicHcRdToMwAADgExVoO6Qs8WFqAjqGChWCb_yUwigt0LIxL7gzeBsTv4fv994ZM-m9bYsOW1wpLtiq2VIraZg0Vq1Gm08a1Bpo-xAmHzQf-WHuwZKWA3z9vHiV8rd3NvQ_-QNZEO3ceIrGDCZG7NCMTjtchS3Hc3Lz0hN5zjY3vuBBtEAiqnhDGyfsTdHyABGJg-PkHs-EoAgU7fdbXD7RG3SjZtW-L4qXdF0km5MvuG7nxyt0HAd0_9dA_gEicUPp"
     },
     {
       "position": 8,
-      "title": "CVS Pharmacy",
-      "place_id": "ChIJY-Nni4mbskwR674oyZ9eMn4",
-      "data_id": "0x4cb29b898b67e363:0x7e325e9fc928beeb",
-      "data_cid": "9093434637982154475",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b898b67e363%3A0x7e325e9fc928beeb&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b898b67e363%3A0x7e325e9fc928beeb&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.666661999999995,
-        "longitude": -70.27651809999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY-Nni4mbskwR674oyZ9eMn4",
-      "provider_id": "/g/11c46b9mtm",
-      "rating": 4.1,
-      "reviews": 18,
-      "type": "Pharmacy",
-      "types": [
-        "Pharmacy"
-      ],
-      "type_id": "pharmacy",
-      "type_ids": [
-        "pharmacy"
-      ],
-      "address": "449 Forest Ave, Portland, ME 04101",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
-      "hours": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
-      "operating_hours": {
-        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
-        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
-        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
-        "saturday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
-        "sunday": "11\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
-        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
-        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM"
-      },
-      "phone": "(207) 772-1928",
-      "website": "https://www.cvs.com/store-locator/portland-me-pharmacies/449-forest-avenue-portland-me-04101/storeid=374?WT.mc_id=LS_GOOGLE_RX_374",
-      "extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "In-store shopping"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "offerings": [
-            "Medication disposal",
-            "Naloxone",
-            "Passport photos"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Quick visit"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments",
-            "SNAP/EBT"
-          ]
-        }
-      ],
-      "service_options": {
-        "in_store_shopping": true,
-        "delivery": true
-      },
-      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=374&postalCode=04101&rwg_token=AE37R_jnyHSmVOpDigDELlYhQh6ELuemcN_YGko8ro_z58K37zEvW11fHTZMmu4smpuzOqCfN7BsJkd9QB1TRvuiOzP7baekpQ%3D%3D",
-      "user_review": "\"Ten minutes later my prescription was ready for me to pick up.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFd-U0mCu5ecyX6F4vhTNg6EeJI3yV1lB7gqCDi7Ww-n8CCyL71KJTO9oHqVxCINCo2Xh2wbduZOU3n8n7s00Y0W1cBu94bDAin5NgxxRXENM7RPsEGCDF_avud17HmFx6li4kAizFeb3V7=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/UMsFXHicHcTNboIwAADgJ6q0glRNPGChUzfrTxTRyzJK0xKhVUsF9pI7721M_A7f_59qmpudel6l_IE0RlbCWfHgRjdCNwNuak_eLOAWWC_ast01ogU4wpq4keB9FtLgqQ5MholYLf0-RdUcyzuJS3xqgR4T0n9h9Lk6bCZmcU87smTEDDM1bPPCXTZHX481thCe4QnxuZsEeRyVesRk1-2zhK3xfmuTDxLT75-nKxBe1LQLqzK4RuUvFbmf4lmLIIRAvedAvwDME0Uq"
-    },
-    {
-      "position": 9,
-      "title": "CVS Pharmacy",
-      "place_id": "ChIJI8kIr--bskwR_6jBRr6-nnw",
-      "data_id": "0x4cb29befaf08c923:0x7c9ebebe46c1a8ff",
-      "data_cid": "8979824431463508223",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29befaf08c923%3A0x7c9ebebe46c1a8ff&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29befaf08c923%3A0x7c9ebebe46c1a8ff&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.657815299999996,
-        "longitude": -70.297176
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI8kIr--bskwR_6jBRr6-nnw",
-      "provider_id": "/g/11c468k1_w",
-      "rating": 3.6,
-      "reviews": 14,
-      "type": "Pharmacy",
-      "types": [
-        "Pharmacy"
-      ],
-      "type_id": "pharmacy",
-      "type_ids": [
-        "pharmacy"
-      ],
-      "address": "1364 Congress St, Portland, ME 04102",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
-      "hours": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
-      "operating_hours": {
-        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
-        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
-        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
-        "saturday": "Closed",
-        "sunday": "11\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
-        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
-        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM"
-      },
-      "phone": "(207) 774-3636",
-      "website": "https://www.cvs.com/store-locator/portland-me-pharmacies/1406-congress-st-west-gate-s-c-portland-me-04102/storeid=804?WT.mc_id=LS_GOOGLE_RX_804",
-      "extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "In-store shopping"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "offerings": [
-            "Naloxone",
-            "Passport photos"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Quick visit"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "SNAP/EBT"
-          ]
-        }
-      ],
-      "service_options": {
-        "in_store_shopping": true,
-        "delivery": true
-      },
-      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=804&postalCode=04102&rwg_token=AE37R_h0YfwxFHeGNxfLsODxobUq_HfF6DfR3XCVrIKNiDG-EhyIt1aGzFUzJiOf9-DUsZQJjlX3FA5ySxWu3e7uP3k3XDDQfQ%3D%3D",
-      "user_review": "\"The new pharmacy check in is  to fast & easy to check in.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_x3uWPZsXltXMBBmCxbtcC3scApgMmwENJgvhNrYiq_0d4AuQtSO2upIVVRJHsq0qdCFOvtgh0pEnzu-br5j81bW4lrEdkDdh84m0oZ7wl9Bp9bQQ1czlbMjWs36mbAs6w1FD-IH-3WhX=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/NADZpHicHcTdboIwGADQJ6qUlTld4kX5MWoCykyEeUPSQtppSwtfK8aX3LVvY-K5OM9_6ZyF7yBQksyEMUJ1HrqRm951vZtxowNhAXFAENBDUV5p1tyJrw5nqJWr8zjWyZ05nhDg1IpcT1mxEzdZjL9_Q4PbiPrSHfcf3m5Pp5_dBgY8tMl6f3NCYpv1D4_Y-HlZhKyK1Ji117SVi0hjc_6a1DK2S1aWIX8oll8qIHPNKMyncJ2i7QaRStarKcQYI_meo_4FMqZH8A"
-    },
-    {
-      "position": 10,
       "title": "Shaw's Pharmacy",
       "place_id": "ChIJcxBqOT2bskwRj1Sayf6ePzc",
       "data_id": "0x4cb29b3d396a1073:0x373f9efec99a548f",
@@ -923,8 +753,182 @@
         "delivery": true
       },
       "user_review": "\"Great store and well stocked along with great prices.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7pCVxcCmfVA7wX-fAUEjnI5N8gNbM-Jdye6h9W5w2gcElT_UX1CWTaLeSHuK6Tep_lvBCbj3MdknjY-ynkDRMcg_rmRnHkbkh5UBVwYjFb96nucfB0Eu3AGaIHIlnMjwbqe_0UL3UHN4=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/H6M393icHcTNboMgAADgJ6LSOe1PsgM6W-yq2Tqx7ckUihBAtEXH-pK7722W7Dt8vz9yHAe3DgIjw5noe2H45Pid9XbkdpyxvgvE4ABzwAXovfzQCC-GtP5madfWaOFPoEUkUzaPyqUoaQF21weP5eoY-SfBMlM15DRPj9Vlzz_x9BZXfGjMV5JSFRZXbdUZPKx-PRRMNPfuYLGmWkYkqf1ZbegqthNrE5hNIdpecpwbWyhPb7yBZB8SXD6_-DmEEMj_GbB_PmJG3w"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknWdRbbg9xaEDtf5-CqmABihMoywG7JcRtyNRufgdJI80RQ8APmooSy-BH1bM7_uLnqFZfuDkByWzy9i8RTDVxIPJsOBC96lhZUIy1xiGnA_OLT-v-EkZ03bHVn62RwDTWGFHlVgqk-98=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jF3LKXicHcTLjoIwFADQL7pSNCqYzAJEecQH00FI2Bip0BKgFVsGOh_p3r-ZxLM47xdT6iE3htGyxYwKQdtykOWTCK5KrmZEdAZ9SCASpOEEOE6yhmd3XBTUnm47T1VL2Pad49bsKPToryOClT7hoaL3KLQQ_racuBPiR4MbmMVxfR0OvN_n1eA1rs7-tF1bOPHSKYwjeXa39qpl-SXU5lT73LmeDwn8wq7J0aIIUr6a49FLMn8ftCntG7Ctr9FECAH7TID_A4IKRp8"
+    },
+    {
+      "position": 9,
+      "title": "CVS Pharmacy",
+      "place_id": "ChIJY-Nni4mbskwR674oyZ9eMn4",
+      "data_id": "0x4cb29b898b67e363:0x7e325e9fc928beeb",
+      "data_cid": "9093434637982154475",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b898b67e363%3A0x7e325e9fc928beeb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b898b67e363%3A0x7e325e9fc928beeb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.666661999999995,
+        "longitude": -70.27651809999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY-Nni4mbskwR674oyZ9eMn4",
+      "provider_id": "/g/11c46b9mtm",
+      "rating": 4.1,
+      "reviews": 18,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "449 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
+      "hours": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
+        "sunday": "11\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM"
+      },
+      "phone": "(207) 772-1928",
+      "website": "https://www.cvs.com/store-locator/portland-me-pharmacies/449-forest-avenue-portland-me-04101/storeid=374?WT.mc_id=LS_GOOGLE_RX_374",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal",
+            "Naloxone",
+            "Passport photos"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=374&postalCode=04101&rwg_token=AE37R_hQz7mX4SNKRzoDlQm9ouvrArnMZtQ4ptQVQ5tbZrs0JWrYp6VAJGEcG8UypxScU5FvNeJwEe0QmjBe9sAL2MPxGT0tsg%3D%3D",
+      "user_review": "\"Ten minutes later my prescription was ready for me to pick up.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-4_YpQg0XcQ6cTzZfBaKRUPg7m8m16gfb_cwE7n0YukQ-nFP-k5OAB_1c_d6DqZzVHk4dZGJU0B3WbMk8WhKfuGToS8zTXu-bor6e5DbaNgPJMQ82HhNEbwD65iqAdKRX9TjAmK5_kgLf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1NKr_HicHcTNboIwAADgJ6qUKZWZeIDAJKIOsI6fS2MLtFpp0UJIeEnPe5sl-w7f71sMQ282lvUQywXXmj-a0TQvptXQqGHBdGfx3gBmgLG8KEtwrsCKlH3KYcFSxPBctf41zi4JX3duZyPeUsKmcK1gOcoUqK8ESOfb84nNSI2CZzX_RHJVV7v9BfrLnB6lm4u4HXdYn90ZFyOg-oUaJ6DXE0_2x9T9iMQppFOAnNvTq-Os-MR3r4sdIvmh3U42hBCI_xlQfySjRew"
+    },
+    {
+      "position": 10,
+      "title": "Hannaford Pharmacy",
+      "place_id": "ChIJDR71v3OcskwRLafV7pIbjEU",
+      "data_id": "0x4cb29c73bff51e0d:0x458c1b92eed5a72d",
+      "data_cid": "5011410803242673965",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c73bff51e0d%3A0x458c1b92eed5a72d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c73bff51e0d%3A0x458c1b92eed5a72d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6639367,
+        "longitude": -70.26813
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDR71v3OcskwRLafV7pIbjEU",
+      "provider_id": "/g/1tjl5hvz",
+      "rating": 4.1,
+      "reviews": 44,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "295 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20136\u202fPM",
+        "sunday": "8\u202fAM\u20135\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 761-5967",
+      "website": "https://stores.hannaford.com/me/portland/8351",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"professionale Quality of Care from well-trained Pharmacy!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAQeRGDG71wddORnGguKRQKD3fhcwWZKmjmbIjBNdMZ7AVq4MwkJgTDUR91iDw3LSRLialhjtxH9L-1RY8kYNYwbskm8ZexOPMpHscbDu151Ya7xnB0JI6jfBeY0zHyB967vFRbGEtsw0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5WId5nicHcTNboIwAADgJ6q0YRNZ4gFSBQX86XSm3KTUVqCF2bKyPeTuexuTfYfv71daO5g3z-ukPxN9Lzo-Gv5gvbZc2xnrlScGA5gBxotScjhdVHTkJMFJgFxd74lOxJiRY4b9m2TuUmaqUdWmiXd1UQbRx-dL4dqtOOEzCdEdOz9_J_n92snGTmmYA0TooqU76irTqkXJp_2hGFLDKjyiV0SvwaRjuN3Mm1vMKfxJv-NwHnytSZWsrHFw6RCEEMj_GdBPO_VGhw"
     },
     {
       "position": 11,
@@ -1010,267 +1014,13 @@
         "in_store_shopping": true,
         "delivery": true
       },
-      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=329&postalCode=04103&rwg_token=AE37R_je5z6QHdc0S6faUERNnnggG-WU9YwDZdZ2cQyYc10R3Q8UMbDOdaAt9WPFdNr7ZB6aoiwxjOeC9GCDSiDtGK4t6GywtA%3D%3D",
+      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=329&postalCode=04103&rwg_token=AE37R_inLZBxHVRTnaMH0uPiyau-GHy8dpcPyCdjB48zuQuTkciel8-BwScCQT3uxpZv9lhsLW4UgXiDQvvzeRroB4TQaTgwQg%3D%3D",
       "user_review": "\"The technician at CVS in Portland Maine was extremely helpful.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlKc5ggQ3rar-6611yLjcjqKEpIr8XRcSMFLtHXtOxXA8Eu-zEL2aW054MiSvNgHbEpUiC8yi9szx-tVF7DW7EVdxAtgCU2CuuaC8TqtULxIbTKpll7v_3Mu3NQ_pChBdRH4hMHCpLgeti=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/qAakO3icHcRBjoIwFADQE1VAVNDEBXbqYCgoKsrOYCUtTgcq_VXkkq69jYlv8d4vAaD0zLKkcAe8abgsjS5b1tRQ1jBgzb_FlUZMI20FmyT9C35lxMacp25btGgycZwnvbLrLSJq1fr5lu3iJYUwh3WXBz4xqCd0WBzt8SiudveEh2eisgr7z2qq-w7BYen9HD1yuHQBcJwNsTEF9vc3yGi3Ou8jJaV3P7mxcZP0pLBYXLbhSMQhVpSXUM0fjm3bSHxnqP4AXpRHCA"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlNtRClacmDVDxV3-vh_Aonx4Zy4UMcBDP0mbTs5f3GijoSGsIdLVBzF3YM_lw16QTdmck0AgIDUS5jIlArw6Te6zv9xFKeXOzUjeljZddeOcK1d-YPExGC8pMOn19uhCLB8P2XkhGkjjAw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/P-1jKHicHcTBboIwAADQL6qUIUSX7FBAkSiDKaByMdpWulJaYqsgP-nZv1myd3jvFzOm05-WJZgzqZWqBb1resNKGirNBKvWqjsNsAbaQqttlu_Ft9kG4ozbsAyH0gEPdkJKDtPqOS0S7IcZbC-5dq9O9MvVLtIx2ZT-uHSOyUn0tveTkxY3ENVxWOxcHgt0672ceuNjPizX9JCOBaeCV4TQFK9tAo7ZYoiCWZek0p7fWbDxZ9nHoWFRwznqv3obQgjY_xjIP75hR38"
     },
     {
       "position": 12,
-      "title": "Hannaford Pharmacy",
-      "place_id": "ChIJDR71v3OcskwRLafV7pIbjEU",
-      "data_id": "0x4cb29c73bff51e0d:0x458c1b92eed5a72d",
-      "data_cid": "5011410803242673965",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c73bff51e0d%3A0x458c1b92eed5a72d&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c73bff51e0d%3A0x458c1b92eed5a72d&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.6639367,
-        "longitude": -70.26813
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDR71v3OcskwRLafV7pIbjEU",
-      "provider_id": "/g/1tjl5hvz",
-      "rating": 4.1,
-      "reviews": 44,
-      "type": "Pharmacy",
-      "types": [
-        "Pharmacy"
-      ],
-      "type_id": "pharmacy",
-      "type_ids": [
-        "pharmacy"
-      ],
-      "address": "295 Forest Ave, Portland, ME 04101",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 8\u202fPM",
-      "hours": "Open \u00b7 Closes 8\u202fPM",
-      "operating_hours": {
-        "wednesday": "8\u202fAM\u20138\u202fPM",
-        "thursday": "8\u202fAM\u20138\u202fPM",
-        "friday": "8\u202fAM\u20138\u202fPM",
-        "saturday": "8\u202fAM\u20136\u202fPM",
-        "sunday": "8\u202fAM\u20135\u202fPM",
-        "monday": "8\u202fAM\u20138\u202fPM",
-        "tuesday": "8\u202fAM\u20138\u202fPM"
-      },
-      "phone": "(207) 761-5967",
-      "website": "https://stores.hannaford.com/me/portland/8351",
-      "extensions": [
-        {
-          "service_options": [
-            "Curbside pickup",
-            "Delivery",
-            "In-store pickup",
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "offerings": [
-            "Medication disposal"
-          ]
-        },
-        {
-          "planning": [
-            "Quick visit"
-          ]
-        },
-        {
-          "payments": [
-            "Checks",
-            "Credit cards",
-            "Debit cards"
-          ]
-        }
-      ],
-      "unsupported_extensions": [
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance"
-          ]
-        }
-      ],
-      "service_options": {
-        "curbside_pickup": true,
-        "delivery": true
-      },
-      "user_review": "\"professionale Quality of Care from well-trained Pharmacy!\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmOCXxLzlxkc-lScbN7nqL13uzejQUswYl_CEWwFweH35EUOV9GFfXKzyhkcl4VJHmo1D50s1Ga6rIMwge36jYPuUQaJREBqSbqA82ZhxAHqxoisnMEtvsSR_MMadXTsumXb6sdfuhbiU=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/-i9bA3icHcRNcoIwGADQE0WgKFpnXKCC-IOKiKIbB2IkSkjEL2koh3Tf23TGt3h_byrlE4aGwajdKYQoGFFAXlhwSbjsYFEZxRMQBgSGu11HpetXm0narFrWlBixGOfrPq9Xlq1a8ogS0Cd2mXhH7WsS2D0v2Ry-Z_4tXba_tMSse1gElbCmPROsWea85qEuiO08TluVRNli543rOK_dwdeZNm5QN-IOPPTkD8S7Sxhm13QPqkpzB643RfN7MtKWaZqIfsaI_wPQeUjW"
-    },
-    {
-      "position": 13,
-      "title": "MaineHealth Access To Care - Bramhall St - Portland",
-      "place_id": "ChIJKRJ-aw-cskwRkFLu8DWvjWc",
-      "data_id": "0x4cb29c0f6b7e1229:0x678daf35f0ee5290",
-      "data_cid": "7461812803833057936",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0f6b7e1229%3A0x678daf35f0ee5290&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0f6b7e1229%3A0x678daf35f0ee5290&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.6532078,
-        "longitude": -70.2759076
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKRJ-aw-cskwRkFLu8DWvjWc",
-      "provider_id": "/g/1tgjkwy5",
-      "rating": 3.5,
-      "reviews": 48,
-      "type": "Pharmacy",
-      "types": [
-        "Pharmacy"
-      ],
-      "type_id": "pharmacy",
-      "type_ids": [
-        "pharmacy"
-      ],
-      "address": "22 Bramhall St Coulombe Family Tower, Ground Floor, 22 Bramhall St Ground Floor, Portland, ME 04102",
-      "country": "United States",
-      "open_state": "Open 24 hours",
-      "hours": "Open 24 hours",
-      "operating_hours": {
-        "wednesday": "Open 24 hours",
-        "thursday": "Open 24 hours",
-        "friday": "Open 24 hours",
-        "saturday": "Open 24 hours",
-        "sunday": "Open 24 hours",
-        "monday": "Open 24 hours",
-        "tuesday": "Open 24 hours"
-      },
-      "phone": "(207) 662-2626",
-      "website": "https://www.mainehealth.org/Maine-Medical-Center/Patients-Visitors/Bramhall-Campus/the-Pharmacy?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
-      "extensions": [
-        {
-          "service_options": [
-            "Delivery"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments"
-          ]
-        }
-      ],
-      "service_options": {
-        "delivery": true
-      },
-      "user_review": "\"Edit: This Pharmacy is the only one I know of that is ever open for 24 hrs.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXWOPd9nJ53nUB9P1P4nZ156t4BYPp2UDgh4kv22-1twVBPk5ESV1Vay907EEVv_X2XYhOM-j4TLFot13qdErfLQ8kMbzUCSqBhfJH-AGLQgVtsqpL6_WHpedxVvabZYrhZQw65Q=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/nA_Vt3icHcRdboIwAADgE1Uofw4TH2BDiYHZxlGBF4KAbQTbQjtQb7gj7DZL9j18vz9Ma6k2hjEwe0WFoEP3rbqpEVx3XK8acTeoVKBRQBkB-sR9EOfnI2p9fnBtnoU-gsjhJXQ97YQFklb2QZnTz5YFoF5IiHo3OhFI6qdvrqOIzFVu5QU7puDmfCU7oaE9ttF0TfBbn15e2ftpDNn1EINgn2BKtBpl4lXnWHbtg8z1pSwmVuLFc_F2gaZpAvZ_A_gf5E1Dew"
-    },
-    {
-      "position": 14,
-      "title": "CVS",
-      "place_id": "ChIJY0wGZRScskwRSEhCxjJvvcc",
-      "data_id": "0x4cb29c1465064c63:0xc7bd6f32c6424848",
-      "data_cid": "14392782248011253832",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1465064c63%3A0xc7bd6f32c6424848&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1465064c63%3A0xc7bd6f32c6424848&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.6559156,
-        "longitude": -70.2603742
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY0wGZRScskwRSEhCxjJvvcc",
-      "provider_id": "/g/1tcx13r5",
-      "rating": 3.3,
-      "reviews": 80,
-      "type": "Drug store",
-      "types": [
-        "Drug store",
-        "Beauty supply store",
-        "Beer store",
-        "Convenience store",
-        "Cosmetics store",
-        "Greeting card shop",
-        "Perfume store",
-        "Stationery store",
-        "Vitamin & supplements store",
-        "Wine store"
-      ],
-      "type_id": "drugstore",
-      "type_ids": [
-        "drugstore",
-        "beauty_supply_store",
-        "beer_store",
-        "convenience_store",
-        "cosmetics_store",
-        "greeting_card_shop",
-        "perfume_store",
-        "stationery_store",
-        "vitamin_and_supplements_store",
-        "wine_store"
-      ],
-      "address": "510 Congress St, Portland, ME 04101",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 9\u202fPM",
-      "hours": "Open \u00b7 Closes 9\u202fPM",
-      "operating_hours": {
-        "wednesday": "7\u202fAM\u20139\u202fPM",
-        "thursday": "7\u202fAM\u20139\u202fPM",
-        "friday": "7\u202fAM\u201310\u202fPM",
-        "saturday": "8\u202fAM\u201310\u202fPM",
-        "sunday": "8\u202fAM\u20137\u202fPM",
-        "monday": "7\u202fAM\u20139\u202fPM",
-        "tuesday": "7\u202fAM\u20139\u202fPM"
-      },
-      "phone": "(207) 774-4525",
-      "website": "https://www.cvs.com/store-locator/portland-me-pharmacies/510-congress-street-portland-me-04101/storeid=454?WT.mc_id=LS_GOOGLE_FS_454",
-      "extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "In-store shopping",
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "offerings": [
-            "Medication disposal"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Quick visit"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        }
-      ],
-      "service_options": {
-        "in_store_shopping": true,
-        "delivery": true
-      },
-      "user_review": "\"This CVS is always convenient and the employees are very helpful and nice\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjpq3kqAKgQFG8i0HmrSIrbj4WhflkxsXCk3-bm2SSKw9dPftRLJZoDeiyy6XlxvazxhKEZRplUNz-1TVBipG13r7waHy23E7Is0NKJbQnz996FnkmwH3x7L1d-rwr0ZtocV_M=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/x1aMknicHcRRboIwAADQE1WKNTKW-MEmiuKIyIaGHyMVKba0ta0WuODO4G1MfB_v-U-MkfrTcRhBo1qImlV3XSksuKm4GWHROrXUAGugnWCbpDQIr_KG6C2I63Sx_Ghg1KpspcrrZE8ujHb68E0RKNtxlsXWP28vZrdZF2JeNX0_PbDucRo6EofFTrK_ZADub_7VyKWLlGdPUT9GobfSMInXZcoH358uOG1thDpv456BsgoWRuD8-DOzLoQQkPcY8Be1q0VN"
-    },
-    {
-      "position": 15,
       "title": "Northern Light Pharmacy",
       "place_id": "ChIJtTPtyQacskwR-LquhqcReCI",
       "data_id": "0x4cb29c06c9ed33b5:0x227811a786aebaf8",
@@ -1348,11 +1098,492 @@
         "delivery": true
       },
       "user_review": "\"They work fast and are prompt with prescription.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3-BhXyNXPDmazYbuYKAvNEofZ2e7sn4_hjoY7mKGTmlR_3oFNGFZO27DUBWcMqStpB70kd9mFwI43xFuPCAzBZYiRUM1MlfLlGwW5TNLZWZbb4HEWP8pn-YLIrl5kx8cn21Yo=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/TAxe_XicHcTbEoFAAADQL1pdTZjxUChGrVya7L4YrbS0l9hN-EHf4G_MOA_n-6FaN2pkGIw6vUrKipWtKu9ECl0K3SOSG1WjAFFAGX4K17UfOSCg-xfcp1N-fKOiRUv_AWfyjO3SU8I90KtEHl9GO842B0eGMArxyvamWZCT5LbVTeCZ9WnIw27hOs-wTSf-O8DosskSK2HnmEVd3t_BGOe4KNz5LE8HjQAoXtxZv34OiLAtJMedZZomoP8JED8tKUPS"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXvZkLydwXe9xiQ7TqWdI-sdeInwHisXgvtw9awu6nzsnoY1OFwiNBeScAfMOxhTFht08rJovxsEd9jj_k0i1c35fVR26_OGDePlxAD4PfrhhGZSsSOWztPDowCEqKuox54JYJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rMcu03icHcRJDoIwFADQE1WKMyYuUJxwAIUIujGmFIpgq_xCqxf0DN7GxLd43w-T8gEjwyhZp5UJkZW0BloRwSXlskXE3cgegAggMOzlwQ-jIm7OxeaVqJhaOt8PwmeUrBAkdMXVMoc4a6Syrqru8zdwcTK9ucp3ExoQO916moVzJvGwckWjYZZYt9ulwLlJOr30eGj3L97CoX6pbafrpxVji3MAgRe9pe8INZ0917XQva57csfKxBgj9p8g_gNozkb0"
+    },
+    {
+      "position": 13,
+      "title": "MaineHealth Access To Care - Bramhall St - Portland",
+      "place_id": "ChIJKRJ-aw-cskwRkFLu8DWvjWc",
+      "data_id": "0x4cb29c0f6b7e1229:0x678daf35f0ee5290",
+      "data_cid": "7461812803833057936",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0f6b7e1229%3A0x678daf35f0ee5290&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0f6b7e1229%3A0x678daf35f0ee5290&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6532078,
+        "longitude": -70.2759076
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKRJ-aw-cskwRkFLu8DWvjWc",
+      "provider_id": "/g/1tgjkwy5",
+      "rating": 3.5,
+      "reviews": 48,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "22 Bramhall St Coulombe Family Tower, Ground Floor, 22 Bramhall St Ground Floor, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 662-2626",
+      "website": "https://www.mainehealth.org/Maine-Medical-Center/Patients-Visitors/Bramhall-Campus/the-Pharmacy?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Edit: This Pharmacy is the only one I know of that is ever open for 24 hrs.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmm6fX7bGs4KBQZPwpLbEOzbVn1d_WyJ48y90a5Xt5UBT1ZN9LrvVNG9Z5v3ohYkpfF_R1zFJ1owlOZhwOtDmdOO-8lRYVJPkZHdBWsbabAtjUP6M7fTrYnlDnnQE79NZDvukeqQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WZlFXHicHcRdDoIgAADgE5GyMrOth5xZsxJ1pslLE_9YIpiQrm7YEbpNW9_D9_1QpXq51jRG57NGiIZVT1kNheCq4mpWiE5regkKCaS2PURBnLZdt6yvJtnLxdEOcTD1J7JDb5JwWN7Sl7dYvSw9N67KuNgxxL51GsbE31vYGOeCZm1fu7cIvl0PiokhTCeknK5ECKxYlCVe0OJDaaeS5GSr7pdgeTbreMg4czgPd6blY2d8ttUj3ExQ13VA_xeA_wDf-UWN"
+    },
+    {
+      "position": 14,
+      "title": "CVS Pharmacy",
+      "place_id": "ChIJI8kIr--bskwR_6jBRr6-nnw",
+      "data_id": "0x4cb29befaf08c923:0x7c9ebebe46c1a8ff",
+      "data_cid": "8979824431463508223",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29befaf08c923%3A0x7c9ebebe46c1a8ff&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29befaf08c923%3A0x7c9ebebe46c1a8ff&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657815299999996,
+        "longitude": -70.297176
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI8kIr--bskwR_6jBRr6-nnw",
+      "provider_id": "/g/11c468k1_w",
+      "rating": 3.6,
+      "reviews": 14,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "1364 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
+      "hours": "Open \u00b7 Closes 1:30\u202fPM \u00b7 Reopens 2\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "11\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM"
+      },
+      "phone": "(207) 774-3636",
+      "website": "https://www.cvs.com/store-locator/portland-me-pharmacies/1406-congress-st-west-gate-s-c-portland-me-04102/storeid=804?WT.mc_id=LS_GOOGLE_RX_804",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Naloxone",
+            "Passport photos"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=804&postalCode=04102&rwg_token=AE37R_jDIO_ng8LE1ntoIdH7KkHRKYFu3Yonqmz5sElgNPrT32ZTUi7FD0ZFDARzFGlF-stb8-rP345eQjwPlWFuNE9T9JI23w%3D%3D",
+      "user_review": "\"The new pharmacy check in is  to fast & easy to check in.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknWQ19Nnh1HhZiEitX51hsUwo6oZhAlhapCq2PH2I6E8xHJnVCW3JVbhlcV6BBqvESwmovidydxRHDiRkdBpVMZ9h72aLhR6KKWmlu1i9o76pmk3DoteYCrXOF7KYkCnIGPjGb3dksp8h1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jc0iFHicHcTLcoIwFADQL0IIjEE604UgGqUPSltQdhoYbpqQG00U-5Vd928607M4vz_gnLEPvq8gmg2Ig-qvtr9w1K7XbsZx9AdjPW496y9ZVX40UjdvJHnRQBi0IhduPydgPyek2MJSwdFk57Bk4Zbmizvb6Tprol19AsVrmqbnW_4-jXgT3Xd3r9hKVLJLTf3cJhCHxyeoaFE0o7oSkWBMzSijFbr-kF32r-u4OMhMbzfl1-YUddKaBZDHiQRB4MH_3NN_vwlHng"
+    },
+    {
+      "position": 15,
+      "title": "Genoa Healthcare",
+      "place_id": "ChIJ1ZqlncmdskwRMlNrh-KP79I",
+      "data_id": "0x4cb29dc99da59ad5:0xd2ef8fe2876b5332",
+      "data_cid": "15199525470496052018",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dc99da59ad5%3A0xd2ef8fe2876b5332&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dc99da59ad5%3A0xd2ef8fe2876b5332&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6610669,
+        "longitude": -70.26141609999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1ZqlncmdskwRMlNrh-KP79I",
+      "provider_id": "/g/11rc75vhtf",
+      "rating": 5,
+      "reviews": 5,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "165 Lancaster St Apt P, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 800-4681",
+      "website": "http://www.genoahealthcare.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"I needed medications, transferred, refilled and delivered.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y1-jJxyS8iyYO6Moe4rdFw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=307.41608&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/19kFTHicHc09DsIgGADQ27CVH21qNSFuDibGwamTofQTPkMLASztbbyWt9F4gfc-b5tzSAfGUo4AeUYoARdwqQqKGu-NAxUwUe1HNguW7WvsJ4XuGNTkcZCdqJ7nZb21uHbX5uKhjsOpEN3ftUOYskygorbUlJ8Y_UBNSKTIlhMr9xuyqiK3fEdr0fCWBMzaSk7-y8PPUnD-BXvIOZQ"
     },
     {
       "position": 16,
+      "title": "Vital Care of Portland, ME",
+      "place_id": "ChIJx3zvQhCZskwRcR5RuYWmK8M",
+      "data_id": "0x4cb2991042ef7cc7:0xc32ba685b9511e71",
+      "data_cid": "14063517354664468081",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2991042ef7cc7%3A0xc32ba685b9511e71&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2991042ef7cc7%3A0xc32ba685b9511e71&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.630198899999996,
+        "longitude": -70.32857059999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx3zvQhCZskwRcR5RuYWmK8M",
+      "provider_id": "/g/11mlcvgxdm",
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "10 Donald B Dean Dr Suite 3, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 910-0771",
+      "website": "https://vitalcare.com/locations/portlandme/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnKqJ9dEAlx6QQ6tDJbwXbbhQGyBr_R-Q99mwB0AQVJB3RJhRQ9Y-FDTO6KDj8_6jJQsYzhMzvKdbQGNUmIqV2E256kvTsTIMcCDBjcaO5-wCuQwBOHSlHuPjKsMTWxizYwY7Q2wdBlUrAB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/N5kmmnicHcRBjoIwFADQE1UYjFUmcUFFxRIGP1YdVkYKoTIFlBarXNK1tzGZt3jvl9D6qr4tS4rxqGzbUha9KjreNrpo9Ii3tVVeFeIKKcsLki07NuGNuvnSkw8MgLVPM_ObZQLWT9KdEgSuWxtie3CgZJxQkYCbopXPYhz61eyEKwoqHUQ03MM8g_XPvt7cDs7SmeC_O1NsE_GFTyp-jifILHowJA52Mui3VagidnxchtSkU3BMTuS-88jcfNm2jcT_HDUfJnJGdQ"
+    },
+    {
+      "position": 17,
+      "title": "CVS",
+      "place_id": "ChIJY0wGZRScskwRSEhCxjJvvcc",
+      "data_id": "0x4cb29c1465064c63:0xc7bd6f32c6424848",
+      "data_cid": "14392782248011253832",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1465064c63%3A0xc7bd6f32c6424848&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1465064c63%3A0xc7bd6f32c6424848&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6559156,
+        "longitude": -70.2603742
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY0wGZRScskwRSEhCxjJvvcc",
+      "provider_id": "/g/1tcx13r5",
+      "rating": 3.3,
+      "reviews": 80,
+      "type": "Drug store",
+      "types": [
+        "Drug store",
+        "Beauty supply store",
+        "Beer store",
+        "Convenience store",
+        "Cosmetics store",
+        "Greeting card shop",
+        "Perfume store",
+        "Stationery store",
+        "Vitamin & supplements store",
+        "Wine store"
+      ],
+      "type_id": "drugstore",
+      "type_ids": [
+        "drugstore",
+        "beauty_supply_store",
+        "beer_store",
+        "convenience_store",
+        "cosmetics_store",
+        "greeting_card_shop",
+        "perfume_store",
+        "stationery_store",
+        "vitamin_and_supplements_store",
+        "wine_store"
+      ],
+      "address": "510 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u20137\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 774-4525",
+      "website": "https://www.cvs.com/store-locator/portland-me-pharmacies/510-congress-street-portland-me-04101/storeid=454?WT.mc_id=LS_GOOGLE_FS_454",
+      "description": "Beauty supplies & home health items. Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"I've a satisfied customer of the pharmacy for many years and I like it\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnZX_-GJUsYNjfDGl1ofQc0gQQTkQ7t161ZH17yM4ZlbrFKld05HADH88pOCXPHO5GjuwgawSB9cPPE71FhiSoy2p4Ns3w50hdX44cvrdf2zRg5b1JtaVOdRW3Zvvln9TK9Xj-7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7Jw9VHicHcTbDoIgAADQL0IhNbOth66yWnnJynxphgoZgRPS1Q_2Df1NW-fhfD9M60aNTZMzy6BSUl4-VdkSKXQptEHkw6SNAkQBZU5xHCYnkaUX4K8P6ryrq4XPkawiAmkUJffI1WiIMozc19bO-LVdbXgBHTxd4NGoCeZpiAPHr589zfv9zCNhuHTRit328jVo7J2yegeyIrVt0rVFNXjH1Lmitc6PQRGfrKzruPCSjZfWwJ30CEII2H8CxA_BqELv"
+    },
+    {
+      "position": 18,
+      "title": "Walgreens",
+      "place_id": "ChIJLw9qeXKcskwRXOo5mDGWpiM",
+      "data_id": "0x4cb29c72796a0f2f:0x23a696319839ea5c",
+      "data_cid": "2568905777212942940",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c72796a0f2f%3A0x23a696319839ea5c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c72796a0f2f%3A0x23a696319839ea5c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6626617,
+        "longitude": -70.2632282
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLw9qeXKcskwRXOo5mDGWpiM",
+      "provider_id": "/g/1tj45hpc",
+      "rating": 3.5,
+      "reviews": 60,
+      "type": "Drug store",
+      "types": [
+        "Drug store",
+        "Beauty supply store",
+        "Contact lenses supplier",
+        "Convenience store",
+        "Cosmetics store",
+        "Greeting card shop",
+        "Perfume store",
+        "Stationery store",
+        "Vitamin & supplements store"
+      ],
+      "type_id": "drugstore",
+      "type_ids": [
+        "drugstore",
+        "beauty_supply_store",
+        "contact_lenses_supplier",
+        "convenience_store",
+        "cosmetics_store",
+        "greeting_card_shop",
+        "perfume_store",
+        "stationery_store",
+        "vitamin_and_supplements_store"
+      ],
+      "address": "127 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 771-5631",
+      "website": "https://www.walgreens.com/locator/walgreens-127+marginal+way-portland-me-04101/id=11886",
+      "description": "Prescriptions plus health & beauty items. Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Passport photos"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Customer service good along with products available for my needs\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlu9p6xkBDcBsllZVG-_sbSR58obUFemoj9b3slB2As0zHCf42e2u1NgXYLIGjo6WSAD_kfdztGj_8raKPjdhqJHTdXCdiAbKB7qywspcZXsYdzVIMHXwZKSHwhyakU3wzZv3I=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uWI8snicHcTdEoFAGADQJ1ql_M-4KEabMEYh3TTaXa1abXybpQf0Dt7GjHNxvh-uVA0TwxDc7uRS5oI1wB5EVopVqkPkzchrQAQQGA7ebaOjaMb14FW6c-KCEMnBQylk4a4_ktl-wW6yGGc2CNdywGzx7NKzmNV0N3l8WvleIQfH0Jmn5YW2yivS0eMcbAvK70sc0XhGr04WuMP7W0NNkhhOtD34axzrJAix5u9zubd1mzxtf6q7pmki_p-g6gdZi0Wv"
+    },
+    {
+      "position": 19,
       "title": "CVS Pharmacy",
       "place_id": "ChIJcfeCdYOeskwR9q2wBmqCyOI",
       "data_id": "0x4cb29e837582f771:0xe2c8826a06b0adf6",
@@ -1436,343 +1667,59 @@
         "in_store_shopping": true,
         "delivery": true
       },
-      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=806&postalCode=04106&rwg_token=AE37R_jOiF_ZhBkzE6CxB-jqyRjSFsgD1_TGz39yRx6GnJfkRua8cQHwXGt3H57IhUae6EtnHF3XLJe_yOVfrAh_IBtme7GHLA%3D%3D",
+      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=806&postalCode=04106&rwg_token=AE37R_hWKFZufBBuB-fLTyLarFDASE_2gd5fDftIEGRTW9fwvCPdnAsCJ2Hjuh_UE_oIvn_sfqJ_ahSpL7n3FUsVrReTFMDfdQ%3D%3D",
       "user_review": "\"The check in was quick, Michael the pharmacist was efficient and cheerful.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnqvQf3l-1efTGztZtigiMSaRR5o4qe_59U4UDxH4pgkKQHbOoEwyrRznTEGAkAlhHnG4_KHFQXQ-ywP9OHwtYdKexz85jeg1SRyyVKZy3dgi_r-AGQfZfJidTfatxsKdm1FjACkzro7iL=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/mlbFinicHcTNboIwAADgJ6pAgDhNdmgUaOz8KaJxXIiDtlSwRdoNykt69m2W-B2-17M2ptNLx2lrf8aV4i391bQvlTRUmlmp7g7vNCg10A487EgDY_n4I8xvgUdZlkwmN4KL7fGapqEKHrQIF6fgtB5R0PEGE_SzV9Fg-3SSWZTABrY1kklQYBSTCwF2OCz2aDDfFabj9BHeKPeOqbVnnFu_4qLoAUwIy9lGVBm7mlHj6u7FN7hqpl7Nxdfn4LmuC-r3JZD_GexJAw"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4xPcJouFZenTYQTCXeim4jWHU4VA6kloI_b5jZ0TkDcUMRx2RNwvjnMB1zaJW-nQbfOqlTi5lzwWa1VrB_UDey4vHmVK9nQCPVU7EeQ10D53xIbFXHFVum_0FDiP1lwYpknlEtxmvg0v3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gNmen3icHcRLjoIwAADQE1XaATROMgsVCWpUIKWoGyJN5dcP2vIZL-na25j4Fu_9Ko1p9a9l8dKeFEoVnHWaPaiShkkzoUpYRasB1UBbiyAOccqdMaRb1fkXJvE5wqsTq4RTp0HikMW04WqT5W59gbjxaLKPx5_4MPS13C_R87pNgYzy2_HOceXy55BeEXkss8Rj_04fCLKby2gVkmS2ZhGCnmuPm9w_BT7pRAZ9rwoRH85tI_najKIvYG__DQhCCMrvFMgP1qxH5Q"
     },
     {
-      "position": 17,
-      "title": "CVS",
-      "place_id": "ChIJZWuu_O6bskwRrgCzXaAVo4o",
-      "data_id": "0x4cb29beefcae6b65:0x8aa315a05db300ae",
-      "data_cid": "9989852176948854958",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29beefcae6b65%3A0x8aa315a05db300ae&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29beefcae6b65%3A0x8aa315a05db300ae&engine=google_maps_photos&hl=en",
+      "position": 20,
+      "title": "Kennebec Pharmacy & Home Care",
+      "place_id": "ChIJwYuuygqZskwRSchOUG5EWzA",
+      "data_id": "0x4cb2990acaae8bc1:0x305b446e504ec849",
+      "data_cid": "3484453977285642313",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2990acaae8bc1%3A0x305b446e504ec849&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2990acaae8bc1%3A0x305b446e504ec849&engine=google_maps_photos&hl=en",
       "gps_coordinates": {
-        "latitude": 43.657815299999996,
-        "longitude": -70.297176
+        "latitude": 43.637043899999995,
+        "longitude": -70.32871829999999
       },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZWuu_O6bskwRrgCzXaAVo4o",
-      "provider_id": "/g/1tcvhpmb",
-      "rating": 3,
-      "reviews": 42,
-      "type": "Drug store",
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwYuuygqZskwRSchOUG5EWzA",
+      "provider_id": "/g/11ll9drly1",
+      "rating": 4.6,
+      "reviews": 71,
+      "type": "Medical supply store",
       "types": [
-        "Drug store",
-        "Beauty supply store",
-        "Beer store",
-        "Convenience store",
-        "Cosmetics store",
-        "Greeting card shop",
-        "Perfume store",
-        "Stationery store",
-        "Vitamin & supplements store",
-        "Wine store"
+        "Medical supply store",
+        "Oxygen equipment supplier",
+        "Wheelchair store"
       ],
-      "type_id": "drugstore",
+      "type_id": "medical_supply_store",
       "type_ids": [
-        "drugstore",
-        "beauty_supply_store",
-        "beer_store",
-        "convenience_store",
-        "cosmetics_store",
-        "greeting_card_shop",
-        "perfume_store",
-        "stationery_store",
-        "vitamin_and_supplements_store",
-        "wine_store"
+        "medical_supply_store",
+        "oxygen_equipment_supplier",
+        "wheelchair_store"
       ],
-      "address": "1364 Congress St, Portland, ME 04102",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 8\u202fPM",
-      "hours": "Open \u00b7 Closes 8\u202fPM",
-      "operating_hours": {
-        "wednesday": "8\u202fAM\u20138\u202fPM",
-        "thursday": "8\u202fAM\u20138\u202fPM",
-        "friday": "8\u202fAM\u20138\u202fPM",
-        "saturday": "8\u202fAM\u20138\u202fPM",
-        "sunday": "9\u202fAM\u20138\u202fPM",
-        "monday": "8\u202fAM\u20138\u202fPM",
-        "tuesday": "8\u202fAM\u20138\u202fPM"
-      },
-      "phone": "(207) 774-3636",
-      "website": "https://www.cvs.com/store-locator/portland-me-pharmacies/1406-congress-st-west-gate-s-c-portland-me-04102/storeid=804?WT.mc_id=LS_GOOGLE_FS_804",
-      "extensions": [
-        {
-          "service_options": [
-            "Delivery",
-            "In-store shopping",
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "offerings": [
-            "Medication disposal",
-            "Passport photos"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
-          "planning": [
-            "Quick visit"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        }
-      ],
-      "service_options": {
-        "in_store_shopping": true,
-        "delivery": true
-      },
-      "user_review": "\"they\u2019re super helpful at the pharmacy and always really nice.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYvDyK3p32LeS4w-OyO4YFDowgMc93mWdlqOwPv461IMHSWtV1J0nkFZGgodWBywPJX0l4SSoZSUJ3R-vIOX9ARr18NtaVwTb1bgjv8gJ9ghyEvnkIjj_dneMKaWMAx-ng3uU4=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/UBlzYXicHcRRboIwGADgE1XatTFisgcMc4IiaFXUl0VL8xPAFm1txwk9g7dZsu_he79qa3szDYKupiPQGjr5NPIhtLJS2ZHQtwB6g4RBJoiK9aaNFicXD0va04-V5MyjfMjZaR5rD5kI6a2sunvuC8fGJMkWvLQHkmLVzs_foKtyNvgiPeKOca7PfJ_SLXJJfgyj7YNM1vZy8LsruULjJpCGUA9fTrVJ0_xUSmbLS5lFv0gBfe7ZpycYY1T_L5D6AxW7REQ"
-    },
-    {
-      "position": 18,
-      "title": "Walgreens",
-      "place_id": "ChIJLw9qeXKcskwRXOo5mDGWpiM",
-      "data_id": "0x4cb29c72796a0f2f:0x23a696319839ea5c",
-      "data_cid": "2568905777212942940",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c72796a0f2f%3A0x23a696319839ea5c&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c72796a0f2f%3A0x23a696319839ea5c&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.6626617,
-        "longitude": -70.2632282
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLw9qeXKcskwRXOo5mDGWpiM",
-      "provider_id": "/g/1tj45hpc",
-      "rating": 3.5,
-      "reviews": 60,
-      "type": "Drug store",
-      "types": [
-        "Drug store",
-        "Beauty supply store",
-        "Contact lenses supplier",
-        "Convenience store",
-        "Cosmetics store",
-        "Greeting card shop",
-        "Perfume store",
-        "Stationery store",
-        "Vitamin & supplements store"
-      ],
-      "type_id": "drugstore",
-      "type_ids": [
-        "drugstore",
-        "beauty_supply_store",
-        "contact_lenses_supplier",
-        "convenience_store",
-        "cosmetics_store",
-        "greeting_card_shop",
-        "perfume_store",
-        "stationery_store",
-        "vitamin_and_supplements_store"
-      ],
-      "address": "127 Marginal Way, Portland, ME 04101",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 10\u202fPM",
-      "hours": "Open \u00b7 Closes 10\u202fPM",
-      "operating_hours": {
-        "wednesday": "8\u202fAM\u201310\u202fPM",
-        "thursday": "8\u202fAM\u201310\u202fPM",
-        "friday": "8\u202fAM\u201310\u202fPM",
-        "saturday": "8\u202fAM\u201310\u202fPM",
-        "sunday": "8\u202fAM\u201310\u202fPM",
-        "monday": "8\u202fAM\u201310\u202fPM",
-        "tuesday": "8\u202fAM\u201310\u202fPM"
-      },
-      "phone": "(207) 771-5631",
-      "website": "https://www.walgreens.com/locator/walgreens-127+marginal+way-portland-me-04101/id=11886",
-      "extensions": [
-        {
-          "service_options": [
-            "Curbside pickup",
-            "Delivery",
-            "In-store pickup",
-            "Onsite services"
-          ]
-        },
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "offerings": [
-            "Passport photos"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly"
-          ]
-        },
-        {
-          "planning": [
-            "Quick visit"
-          ]
-        },
-        {
-          "payments": [
-            "Checks",
-            "Credit cards",
-            "Debit cards",
-            "NFC mobile payments",
-            "SNAP/EBT"
-          ]
-        },
-        {
-          "parking": [
-            "Free parking lot"
-          ]
-        }
-      ],
-      "service_options": {
-        "curbside_pickup": true,
-        "delivery": true
-      },
-      "user_review": "\"Customer service good along with products available for my needs\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFj0Cchx1LDnsAXcEEVec_zfHgQDe1Wxpl-OQb9rObeXzKvcnmevUMeAf8fIranXxHQi_M7BaMfJoZjogyzxOEa1wqCRd3Jt5A9qlUsyQCNQd-sezu28mwzY9rJ5U1U0KsN00U=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/_V69jHicHcTRboIwFADQL6q0M0ZZsocOWRQH2CWduBeD9VLmoEVuFewH7h_2NyY7D-fvt3auw-cgaOrpRFurG7gi9MoaB8ZNlG0D3SFRSDDg20z88LczjVQ9svelQV6oOP4EdfDVSoslsN3YNSQXx7DPj1D4zU2ZFm4yBV4tqnVfmmJcie9DOn8t0yqxX2er737M45INl-jjNE3cjIeXRuJdRJk4EQR_fVq0g9-HfTKTTNINZpTKl4FRSkn9vyLmAZ7jRXM"
-    },
-    {
-      "position": 19,
-      "title": "Genoa Healthcare",
-      "place_id": "ChIJ1ZqlncmdskwRMlNrh-KP79I",
-      "data_id": "0x4cb29dc99da59ad5:0xd2ef8fe2876b5332",
-      "data_cid": "15199525470496052018",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dc99da59ad5%3A0xd2ef8fe2876b5332&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dc99da59ad5%3A0xd2ef8fe2876b5332&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.6610669,
-        "longitude": -70.26141609999999
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1ZqlncmdskwRMlNrh-KP79I",
-      "provider_id": "/g/11rc75vhtf",
-      "rating": 5,
-      "reviews": 5,
-      "type": "Pharmacy",
-      "types": [
-        "Pharmacy"
-      ],
-      "type_id": "pharmacy",
-      "type_ids": [
-        "pharmacy"
-      ],
-      "address": "165 Lancaster St Apt P, Portland, ME 04101",
+      "address": "12 Atlantic Pl Ste A-12, South Portland, ME 04106",
       "country": "United States",
       "open_state": "Open \u00b7 Closes 5\u202fPM",
       "hours": "Open \u00b7 Closes 5\u202fPM",
       "operating_hours": {
-        "wednesday": "8:30\u202fAM\u20135\u202fPM",
-        "thursday": "8:30\u202fAM\u20135\u202fPM",
-        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
         "saturday": "Closed",
         "sunday": "Closed",
-        "monday": "8:30\u202fAM\u20135\u202fPM",
-        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
       },
-      "phone": "(207) 800-4681",
-      "website": "http://www.genoahealthcare.com/",
-      "extensions": [
-        {
-          "accessibility": [
-            "Wheelchair accessible entrance",
-            "Wheelchair accessible parking lot"
-          ]
-        },
-        {
-          "payments": [
-            "Credit cards",
-            "Debit cards"
-          ]
-        }
-      ],
-      "user_review": "\"I needed medications, transferred, refilled and delivered.\"",
-      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y1-jJxyS8iyYO6Moe4rdFw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=307.41608&pitch=0&thumbfov=100",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/19kFTHicHc09DsIgGADQ27CVH21qNSFuDibGwamTofQTPkMLASztbbyWt9F4gfc-b5tzSAfGUo4AeUYoARdwqQqKGu-NAxUwUe1HNguW7WvsJ4XuGNTkcZCdqJ7nZb21uHbX5uKhjsOpEN3ftUOYskygorbUlJ8Y_UBNSKTIlhMr9xuyqiK3fEdr0fCWBMzaSk7-y8PPUnD-BXvIOZQ"
-    },
-    {
-      "position": 20,
-      "title": "CVS",
-      "place_id": "ChIJeyPg2SKbskwRmv1vXgYB5fc",
-      "data_id": "0x4cb29b22d9e0237b:0xf7e501065e6ffd9a",
-      "data_cid": "17862684623900769690",
-      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b22d9e0237b%3A0xf7e501065e6ffd9a&engine=google_maps_reviews&hl=en",
-      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b22d9e0237b%3A0xf7e501065e6ffd9a&engine=google_maps_photos&hl=en",
-      "gps_coordinates": {
-        "latitude": 43.7040175,
-        "longitude": -70.2886339
-      },
-      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeyPg2SKbskwRmv1vXgYB5fc",
-      "provider_id": "/g/1tdh3gd8",
-      "rating": 2.6,
-      "reviews": 70,
-      "type": "Drug store",
-      "types": [
-        "Drug store",
-        "Beauty supply store",
-        "Beer store",
-        "Convenience store",
-        "Cosmetics store",
-        "Greeting card shop",
-        "Perfume store",
-        "Stationery store",
-        "Vitamin & supplements store",
-        "Wine store"
-      ],
-      "type_id": "drugstore",
-      "type_ids": [
-        "drugstore",
-        "beauty_supply_store",
-        "beer_store",
-        "convenience_store",
-        "cosmetics_store",
-        "greeting_card_shop",
-        "perfume_store",
-        "stationery_store",
-        "vitamin_and_supplements_store",
-        "wine_store"
-      ],
-      "address": "111 Auburn St, Portland, ME 04103",
-      "country": "United States",
-      "open_state": "Open \u00b7 Closes 10\u202fPM",
-      "hours": "Open \u00b7 Closes 10\u202fPM",
-      "operating_hours": {
-        "wednesday": "7\u202fAM\u201310\u202fPM",
-        "thursday": "7\u202fAM\u201310\u202fPM",
-        "friday": "7\u202fAM\u201310\u202fPM",
-        "saturday": "7\u202fAM\u201310\u202fPM",
-        "sunday": "7\u202fAM\u201310\u202fPM",
-        "monday": "7\u202fAM\u201310\u202fPM",
-        "tuesday": "7\u202fAM\u201310\u202fPM"
-      },
-      "phone": "(207) 797-3393",
-      "website": "https://www.cvs.com/store-locator/portland-me-pharmacies/111-auburn-st-portland-me-04103/storeid=329?WT.mc_id=LS_GOOGLE_FS_329",
+      "phone": "(207) 626-2130",
+      "website": "http://www.kennebecpharmacy.com/",
       "extensions": [
         {
           "service_options": [
             "Delivery",
-            "Drive-through",
-            "In-store shopping",
-            "Onsite services"
+            "In-store shopping"
           ]
         },
         {
@@ -1782,27 +1729,15 @@
           ]
         },
         {
-          "offerings": [
-            "Medication disposal",
-            "Passport photos"
-          ]
-        },
-        {
-          "crowd": [
-            "LGBTQ+ friendly",
-            "Transgender safespace"
-          ]
-        },
-        {
           "planning": [
-            "Appointment required",
-            "Quick visit"
+            "Appointment required"
           ]
         },
         {
           "payments": [
             "Credit cards",
-            "Debit cards"
+            "Debit cards",
+            "NFC mobile payments"
           ]
         }
       ],
@@ -1810,12 +1745,12 @@
         "in_store_shopping": true,
         "delivery": true
       },
-      "user_review": "\"I find what I want at a good price.\"",
-      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGl7rfLpfilJQuO_KBBxQLsfgqZICYReFqQ0IyAWZs4Mj8m41GB2yW5jd98inBFWU-5Oot1RLUY74YKM8ZQHvaIEUTo0TefKw4aPRy1x9rfcvQF7sVKUEh2xrkohdSnGHnKVcmF=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/R1-QjHicHcTbDoIgAADQLyKxbFpbD9ryEnbBMqcvrSFIpWBCpV_YN_Q3bZ2H8_1wrVs1N4yaT0aVlFVNn4p2RApNhR4R2RhVqwBRQBnufovvblDbHYtbdq3X-Lk7I8_rcaxY9SiiZZ5Q_4FhNLhZoazNzWksM_DGQza9lTPnKjw_S8F0J7WZxGluWznaOAUOX5dolR4lPFKG3tZlnwxmP-sYeWHfVieUrvi47-6SlwcRhAKdSOMv3iaEEPD_BIgfNNhERg"
+      "user_review": "\"Returned call quickly and helped fill prescription change quickly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRadv0APs8YH4LpoCS5nZkwkdm-8SipAMqeUUnmObym4KCqsZQeqsezt9guVFSTJVCT3cT4Y390RYDp4QNlnCwXEwZXuVMb3VjmvfTHUIge5wCttQR9Kkv2zt-ILzhxv5_g11mUA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hU4ELnicHcTbboIwAADQL6oUgUSW-EA6DV4nUFB4MVq7MqEXbKHKH-4T_JslOw_n_Vsbo_SH47S1N2FSspb2mj6IFIYKMyGSO0xpQDTQThSnB3zk6eU2wOigZ2Xsb5VEWSCqxjY3DmbZj4p2Hc1zwb-uL-5vUKerhHaajiZkfbHM8LpA2CPYL70QpuWn8pN9K5A9LWx16ovd1SvufPjGcb5iNLDImCQNN80wHQ1Ybcf6OQRn5ro8j-bWhRCC-n8CxB9Lj0ZO"
     }
   ],
   "serpapi_pagination": {
-    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=pharmacy+near+Portland%2C+ME&start=20&type=search"
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=pharmacy+in+Portland%2C+ME&start=20&type=search"
   }
 }

@@ -1,0 +1,1436 @@
+{
+  "search_metadata": {
+    "id": "6a4e683ecf88702421ad6312",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/StnBqnhiO9lWyDPJBCQ8GA/6a4e683ecf88702421ad6312.json",
+    "created_at": "2026-07-08 15:09:50 UTC",
+    "processed_at": "2026-07-08 15:09:50 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/print+shops+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/StnBqnhiO9lWyDPJBCQ8GA/6a4e683ecf88702421ad6312.html",
+    "prettify_html_file": "https://serpapi.com/searches/StnBqnhiO9lWyDPJBCQ8GA/6a4e683ecf88702421ad6312.prettify",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "print shops in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "print shops in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Curry Printing & Copy Center",
+      "place_id": "ChIJP94QGBWcskwRqM_6PySDd3M",
+      "data_id": "0x4cb29c151810de3f:0x737783243ffacfa8",
+      "data_cid": "8320263028305743784",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c151810de3f%3A0x737783243ffacfa8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c151810de3f%3A0x737783243ffacfa8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657013,
+        "longitude": -70.256849
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP94QGBWcskwRqM_6PySDd3M",
+      "provider_id": "/g/1td422kd",
+      "rating": 5,
+      "reviews": 19,
+      "type": "Commercial printer",
+      "types": [
+        "Commercial printer"
+      ],
+      "type_id": "commercial_printer",
+      "type_ids": [
+        "commercial_printer"
+      ],
+      "address": "10 City Center, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134:30\u202fPM",
+        "thursday": "8\u202fAM\u20134:30\u202fPM",
+        "friday": "8\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 772-5897",
+      "website": "http://www.curryprinting.biz/",
+      "user_review": "\"They got the materials done even faster than expected and they look great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnU7tVroZMCRdDXiHF24ZrUZZ8w0KsFbxVy9s3uDjcnY4IGJmfc-9Iq5cKSKnY4znRRYtHlKTFIfq6ChNgXoO3D3bMEAVF7DEKgK3mgGnRpsUkIEJzECcaQP9NLr2LQLsrNQ-S=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3jBpXnicHcjdEoFAGADQJ9qK9ZcZF01_somihu60sqF2s98a9IKewdswbs7F-bwrpVqY6npdYY0JweryDqWkgquSK42KRmctIAoIdGsdxVfL5-lYZVLkSzs5Orvz3OsPcpnm-eRhEPCKZ_YyAd-dC-X7QeAvmhNFZnAbUrIhv-l4kuzVvCZbLzjdRnYVsZ1YYQcXS9fKvLHjEkZww3yetJBeA3fRuTY9xGszCmU_jEOQUYw2s0fPMAxU_aWIfwEpbUOe"
+    },
+    {
+      "position": 2,
+      "title": "XPress Copy Services",
+      "place_id": "ChIJ-UETeUGcskwRT6cY1_UzlS4",
+      "data_id": "0x4cb29c41791341f9:0x2e9533f5d718a74f",
+      "data_cid": "3356646228243294031",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c41791341f9%3A0x2e9533f5d718a74f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c41791341f9%3A0x2e9533f5d718a74f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.652628,
+        "longitude": -70.2837344
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-UETeUGcskwRT6cY1_UzlS4",
+      "provider_id": "/g/1vqtgd34",
+      "rating": 4.9,
+      "reviews": 80,
+      "type": "Commercial printer",
+      "types": [
+        "Commercial printer",
+        "Direct mail advertising"
+      ],
+      "type_id": "commercial_printer",
+      "type_ids": [
+        "commercial_printer",
+        "direct_mail_advertising"
+      ],
+      "address": "17 Westfield St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u201312\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 775-2444",
+      "website": "http://www.xcopy.com/",
+      "description": "Friendly, locally owned printing outlet, specializing in posters, flyers and newsletters.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Quick responses every time, quality printing, and friendly staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbIgYmTSWO9MOirtIfMA5M-hbmB6Zdtsk_AJYngmCV3y_1vOmvcK8LPArgoGeSw_s7c1nHPsZWR1Eo8Lqy0C2oLUIBRgndbcjSYZr6d-CODDqS86Q8jr7DsMUiMb_88AFeCvg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lADD8HicHcRJDoIwFADQE1VAI1YTFxUcUCooDoENCaUWh7baXzFe0Dt4GxPf4n0_jbV3GDnOrel1hNbixp_ADdPKcmU7TEtH3AExQOCQdL25klkViVzusmMypMnZ2OhESZ-ippITv6gtXEuyzJWQwaH3Lr02kS1b4TglRug5z14lDJinFikUx6031Th-vN2gq-N9NNkKVVfskuWF8WsUJGH4yLC_wRczCIHuz7QqMSYzHrRi_PJc10XNf4bUDyH-Q_c"
+    },
+    {
+      "position": 3,
+      "title": "Partners Printing",
+      "place_id": "ChIJO1rXs9SeskwRyvd_Z_rR9mM",
+      "data_id": "0x4cb29ed4b3d75a3b:0x63f6d1fa677ff7ca",
+      "data_cid": "7203175527434155978",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ed4b3d75a3b%3A0x63f6d1fa677ff7ca&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ed4b3d75a3b%3A0x63f6d1fa677ff7ca&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.615295599999996,
+        "longitude": -70.3105084
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO1rXs9SeskwRyvd_Z_rR9mM",
+      "provider_id": "/g/1tkc1qh2",
+      "rating": 5,
+      "reviews": 20,
+      "type": "Print shop",
+      "types": [
+        "Print shop",
+        "Blueprint service",
+        "Commercial printer",
+        "Copy shop",
+        "Custom label printer",
+        "Digital printer",
+        "Invitation printing service"
+      ],
+      "type_id": "print_shop",
+      "type_ids": [
+        "print_shop",
+        "blueprint_service",
+        "commercial_printer",
+        "copy_shop",
+        "custom_label_printer",
+        "digital_printer",
+        "invitation_printing_service"
+      ],
+      "address": "800 Main St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u201312:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 773-0439",
+      "website": "http://www.partnersprintingme.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online appointments"
+          ]
+        }
+      ],
+      "service_options": {
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Very pleasant and professional to work with and the prints turned out great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_42CFxnrT0yi3plx3pomn1gbOuHc2ulNgh-DzsURYJMHvYi62helBTY26l934-zsZBjcCqZN2kxoj7jz5nSZaTKnbiruZic-r7VBXY_lPsaEbBpKGx76qZq1UOHUggIOYP_44hQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BZDcMHicHcRdDoIgAADgE5GKpquth-zPaqmVtuDFJXOgEaBomTfsCN2mre_h-35Y2yo9NQzO7BGVkvKi00VDpGgL0Y6IfBhUaUA00MY8Do_3-Spz4GLdiyYx36WteG8r-RAWzaMuILDjIWVgOej0hHaH4IlKF7KC-wmCLp_YDhg09iuyqHEI772svGoYizO-JXuRl02HSwIa7-JfUcZjfVvlvtpves-tcW2lUZBSuo1QnDkOO85elmmagP0nQPwALO1F1A"
+    },
+    {
+      "position": 4,
+      "title": "Dale Rand Printing",
+      "place_id": "ChIJAd40oWicskwR8u70yHrTyqQ",
+      "data_id": "0x4cb29c68a134de01:0xa4cad37ac8f4eef2",
+      "data_cid": "11874535891826700018",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c68a134de01%3A0xa4cad37ac8f4eef2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c68a134de01%3A0xa4cad37ac8f4eef2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6931736,
+        "longitude": -70.32572859999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAd40oWicskwR8u70yHrTyqQ",
+      "provider_id": "/g/1tcwl4xv",
+      "rating": 5,
+      "reviews": 22,
+      "type": "Commercial printer",
+      "types": [
+        "Commercial printer"
+      ],
+      "type_id": "commercial_printer",
+      "type_ids": [
+        "commercial_printer"
+      ],
+      "address": "508 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20134\u202fPM",
+        "thursday": "7:30\u202fAM\u20134\u202fPM",
+        "friday": "7:30\u202fAM\u20131\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20134\u202fPM",
+        "tuesday": "7:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 773-8198",
+      "website": "https://dalerandprinting.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Online appointments",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_appointments": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Great attention to detail with excellent pricing very knowledgeable staff\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEURkJucpBqRJbVLNpEvANxK6uykrocPK3E5MerJf1C48DiI_0T2fbhBBmtL1nfLRpHRxT139PBylr7dlBqQRnTOkTOC54-oMZr7wrXIrJuhLvDfDKJpUW2BcDXQiNLPgrWzvqMPA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dp8s5XicHcTbDoIgAADQLyI1u289SLoVoiGzy3ppi1SaBgholz_sE_qbts7D-X64tcosHKfh_qCSsmqKzhSaSWELYQdM3p1KGcAMME5A0qwOoh2tUccUbCm67HGqoj5In_Gke9VaMhL70TgpNCq91WgW3jZnNx-WFw7h3WJPlJiqNX3mnj8n8NXo6bWBbUZFvq3z7Wo8AjI56elDHzcadRz3YRnGSO0OQ8jCY3ZLMan04d23CQmWD891XcD_MyB-4nFFQw"
+    },
+    {
+      "position": 5,
+      "title": "Maine Photo Works",
+      "place_id": "ChIJoZRnThGcskwRn27qK06ekPs",
+      "data_id": "0x4cb29c114e6794a1:0xfb909e4e2bea6e9f",
+      "data_cid": "18127162558747668127",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c114e6794a1%3A0xfb909e4e2bea6e9f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c114e6794a1%3A0xfb909e4e2bea6e9f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6787403,
+        "longitude": -70.2880809
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoZRnThGcskwRn27qK06ekPs",
+      "provider_id": "/g/1th6dfwn",
+      "rating": 4.9,
+      "reviews": 67,
+      "type": "Digital printing service",
+      "types": [
+        "Digital printing service"
+      ],
+      "type_id": "digital_printing_service",
+      "type_ids": [
+        "digital_printing_service"
+      ],
+      "address": "905 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 536-0927",
+      "website": "https://www.mainephotoworks.com/",
+      "description": "Digital printing service specializing in fine-art and archival prints for artists, families, and special occasions.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online appointments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "online_appointments": false
+      },
+      "user_review": "\"She is great to work with, professional and my prints always look great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3mJaegT8uHqNunZvaIa0S3x5zrt5nu1O26TnROsDdwh0cjw58IKm2VboibYm_kXKjIaInzU83s7Zn3wHvCpDsGmb7OZ7lMZOamh95W4g9I3klVRau_sdqsdITljsghjBLro8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AviEk3icHcTbboIwGADgJ0KqlYEmXnhYZucBdYiOG1MKaQc9IH8rxgf0HXwbk30X3-sprG1g7PtS4B43hsvSQdkyo22pbY8Z5fMGPAYe-NPddl9PP7H6piVPIre8bp3ObpRQ9IPvwaO1gXb9ePCR6EMMi6ITiFVdEJGVGqS5-ct_1aU-rypCiX4cIwxhpnG3vM2bBXypPIyzUG6ymCoxCk5DPiK4lumBugsUVyhIIivgopqtWxNNuj5CyBP_M0-_AWt_RZg"
+    },
+    {
+      "position": 6,
+      "title": "Print: A Bookstore",
+      "place_id": "ChIJ9ZdqJ2qcskwRM1Yjje6iy3c",
+      "data_id": "0x4cb29c6a276a97f5:0x77cba2ee8d235633",
+      "data_cid": "8632172256239506995",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a276a97f5%3A0x77cba2ee8d235633&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a276a97f5%3A0x77cba2ee8d235633&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6620737,
+        "longitude": -70.2526883
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9ZdqJ2qcskwRM1Yjje6iy3c",
+      "provider_id": "/g/11c59_lxpc",
+      "rating": 4.9,
+      "reviews": 335,
+      "type": "Book store",
+      "types": [
+        "Book store"
+      ],
+      "type_id": "book_store",
+      "type_ids": [
+        "book_store"
+      ],
+      "address": "273 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "11\u202fAM\u20134\u202fPM",
+        "monday": "11\u202fAM\u20134\u202fPM",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 536-4778",
+      "website": "http://www.printbookstore.com/",
+      "description": "Outpost for good reads & literary events. Indie bookseller stocking contemporary titles in a cozy space with book clubs & author readings.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true
+      },
+      "user_review": "\"They were on par for pricing and I love supporting local.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGM-dkp9ITta4levqBkEMZYbHadJ7yaKdyVRAs6NvM7REDf6uokyOQCyBeBF1Rpu-GAjl0M0W-tAfdVAtOLQh3PUkGpn1pk9XUaOjqj197OkhxpsMNrSntgWg70L1LUBucg6CJS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hthvtHicHcRdboIwAADgE1XauEBY4kOLijoKAsO_Nyy1DcW22uLGCXeG3WbJvofv90d6b917EAxyPhPGiIGPjj-Z0Z5rP2PmHgjrAHPABXiflwqnFHTKxttP374N_PUgakUv5-um7XbR1H5006HCLsxfNKpWy1s4GjUVZTIRTtaosiNIcT9ACo_A41t3wL7ISjnfNyq1GlkVn5q26B89iqNCyW_raP6stRdHEcEMZQ0ZmQiTXb34QhBCIP9nQP8BXJJEcw"
+    },
+    {
+      "position": 7,
+      "title": "Minuteman Press - South Portland",
+      "place_id": "ChIJiQDnQpeeskwR2TY0QlfCzQ4",
+      "data_id": "0x4cb29e9742e70089:0xecdc257423436d9",
+      "data_cid": "1066722366785337049",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e9742e70089%3A0xecdc257423436d9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e9742e70089%3A0xecdc257423436d9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6314989,
+        "longitude": -70.2675254
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiQDnQpeeskwR2TY0QlfCzQ4",
+      "provider_id": "/g/119tmsw6k",
+      "rating": 4.8,
+      "reviews": 48,
+      "type": "Commercial printer",
+      "types": [
+        "Commercial printer",
+        "Advertising agency",
+        "Copy shop",
+        "Graphic designer",
+        "Marketing agency",
+        "Print shop",
+        "Promotional products supplier",
+        "Shipping and mailing service"
+      ],
+      "type_id": "commercial_printer",
+      "type_ids": [
+        "commercial_printer",
+        "advertising_agency",
+        "copy_shop",
+        "graphic_designer",
+        "marketing_agency",
+        "print_shop",
+        "promotional_products_supplier",
+        "shipping_and_mailing_service"
+      ],
+      "address": "875 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 799-5767",
+      "website": "http://minuteman.com/us/locations/me/south-portland/",
+      "description": "Local printing business with mail services. Locally owned business for full service printing, plus mail services, graphic design, marketing & advertising.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Doing our printing services with them for years now, just awesome.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE0W6TCGF2GkFxpoJAimIZ3If4THwif2tlU8tWg2bLAgw-g5sitt2Ljci7rMJu8L0o5q1O_Td-_kSep7Z1xlSHJcBy1oqAVrNN8t7zfQX_TP_pfJGn2M0FyAvNYZIObtVcqYHzoEw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/u7VT53icHcRLDoIwFADAE1VKFSEmLqqRXxA1oigbEioUBGmhT1Fv6BG8jYmzmO-nBJBqpmlNOR5xIXiT31XeM9FC3sKIiZvGpUJMIaXRbbir6QrH02jp2MSp7acUPq1uXjL2iknkDlVBoDlYEHOSBZQPiBuqAiDBlVVmv_bvVoCF0embNLqgtN7n0kz0Z7N3fbZ46aKjxz4MLTDfxe6URttUFr7TkjW2X_QRnhNvk8GRdWf3LVbDfNAxxqj8z1D7A7FyRVI"
+    },
+    {
+      "position": 8,
+      "title": "Bayside Print Services",
+      "place_id": "ChIJ0UYMM2ucskwRd_JNgz1Sx4M",
+      "data_id": "0x4cb29c6b330c46d1:0x83c7523d834df277",
+      "data_cid": "9495648763483386487",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b330c46d1%3A0x83c7523d834df277&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b330c46d1%3A0x83c7523d834df277&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.687325099999995,
+        "longitude": -70.3104505
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0UYMM2ucskwRd_JNgz1Sx4M",
+      "provider_id": "/g/1tf6rd4n",
+      "rating": 5,
+      "reviews": 6,
+      "type": "Commercial printer",
+      "types": [
+        "Commercial printer"
+      ],
+      "type_id": "commercial_printer",
+      "type_ids": [
+        "commercial_printer"
+      ],
+      "address": "314 Warren Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 774-0093",
+      "user_review": "\"Bayside prints my stuff extremely quickly and they do a great job!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoXgu7bZnK9_Chko75w6T9sU5eXyL890C16GBK3s_EScgFEhBH7taGtzNeRs4spEMX1kcsvAQQFZSLz0Eq6N-_j3hlMmeiT7taTeuiC8p4sFYZWQciM-Zsbogm7OVFYauCDp7m=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bJWjZ3icHcpLDoIwFADAE1VKEComLhABEwVFUZEN0aZpkU-rr2j0gp7B22jczGo-b6G1grFhNMIacCl5w3pgNyo7zTo9oLI1uAJEAYHhrZO09iKZ856ci27hlr6oJbEfTubCzmb5czlysW860XRhQRlsKQ8DMZ0TfYr0K2EbGIIK4tysKdy9NA2L7fKFg6uToPJiiSZuWZX9csb6yh-pIYTH4pDSKkYFnCVvyWofHk-9P1OknTxMjDESfynqvhS3RDg"
+    },
+    {
+      "position": 9,
+      "title": "Grapheteria Inc.",
+      "place_id": "ChIJCVHiQW2cskwRi22Crh5ODZg",
+      "data_id": "0x4cb29c6d41e25109:0x980d4e1eae826d8b",
+      "data_cid": "10956499362146053515",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6d41e25109%3A0x980d4e1eae826d8b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6d41e25109%3A0x980d4e1eae826d8b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6606382,
+        "longitude": -70.264466
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCVHiQW2cskwRi22Crh5ODZg",
+      "provider_id": "/g/1tf2xd5v",
+      "rating": 4.9,
+      "reviews": 23,
+      "type": "Print shop",
+      "types": [
+        "Print shop",
+        "Art restoration service",
+        "Digital printer",
+        "Digital printing service",
+        "Lamination service",
+        "Photo restoration service",
+        "Photographer",
+        "Photography service",
+        "Picture frame shop"
+      ],
+      "type_id": "print_shop",
+      "type_ids": [
+        "print_shop",
+        "art_restoration_service",
+        "digital_printer",
+        "digital_printing_service",
+        "lamination_service",
+        "photo_restoration_service",
+        "photographer",
+        "photography_service",
+        "picture_frame_shop"
+      ],
+      "address": "143 Kennebec St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20134\u202fPM",
+        "thursday": "9\u202fAM\u20134\u202fPM",
+        "friday": "9\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20134\u202fPM",
+        "tuesday": "9\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 772-3709",
+      "website": "http://www.thegrapheteria.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Had a rush job for some larger prints and they were willing to accommodate.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkPqklcOb0s5Cx8Z0fLDMI8-rRpa7eXM2uy-r-5umDg9uQGNMR3fTKemK4eHuiCUYgKNl2cyEWKUg-MzXDHeKYG3EtMmcWjndz3DE06RP4lzJRNT7ly-a1y2-5lShoYKm7YEyo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rOawT3icHcRRboIwGADgE_1SQURN9mCk0a0rImoU37TWstFSRtu4ckHP4G1M_B6-56OytjWzIJBVNBBaC8md4R3TjeWNHTCtAtEaYAZMMM-zTT3Hdf5XS7a-IBMv_icndPtO6ecEuqI9J_xIQ-ehg9ipVEzdZpnRIrrtCFdkxFfuZ7EvBclkyDw-kL0A2h_TFSflMsKWKnb4ba59lGI0LvKR7L-KbJdID-ehDyGW20qXRCUl9vrjPkQIQfWeQfMCAR5Dgw"
+    },
+    {
+      "position": 10,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJD5P85xScskwRM_wrvKUP_dI",
+      "data_id": "0x4cb29c14e7fc930f:0xd2fd0fa5bc2bfc33",
+      "data_cid": "15203325121573682227",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c14e7fc930f%3A0xd2fd0fa5bc2bfc33&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c14e7fc930f%3A0xd2fd0fa5bc2bfc33&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656867999999996,
+        "longitude": -70.259272
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD5P85xScskwRM_wrvKUP_dI",
+      "provider_id": "/g/1tdzqr3w",
+      "rating": 3.7,
+      "reviews": 43,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "50 Monument Sq, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 773-3177",
+      "website": "https://local.fedex.com/en-us/me/portland/office-0168?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "description": "Packaging supplies & shipping services. Chain providing office & packaging supplies, plus a variety of services such as shipping & printing.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"They are quick to help and make the process easy.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwCwed-yufllYPxmakBiMgq691o0sZKi3tt3qcxQ0wcjJtV14uiyCtP9_UQQfZv2xGDt2tlihIIeEF8FIAmUS26rUjYDBLeR43212HqiHY46dzUB3KnMCIjlAEjzK-lGvTSAc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4rOkIHicHcRLDoIwFADAE1VKS4iauCj4AVEDKia4MaZWKBYq9iHoAb2DtzFxFvP9FAB3M7YsVdBBrnWuRGvEg-saRA0DrisrvxvEDTIWizfJjQWd34kLerVXpbK4r843T67zxh3ZGptjJCkAbXif4I6XSzjYTitfPsSjU5ok1-OT9IspEFCyCEMxmw_nIavSHXEfaZlNvZXYOpTYJGhkkDnu5Z16NKrXflgqNivfEVKL537H-KSzMcao-M9R_QNlnkQW"
+    },
+    {
+      "position": 11,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJpxsAobSbskwRwu6lU5-D9fQ",
+      "data_id": "0x4cb29bb4a1001ba7:0xf4f5839f53a5eec2",
+      "data_cid": "17651159034874949314",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bb4a1001ba7%3A0xf4f5839f53a5eec2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bb4a1001ba7%3A0xf4f5839f53a5eec2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.674206999999996,
+        "longitude": -70.32193
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpxsAobSbskwRwu6lU5-D9fQ",
+      "provider_id": "/g/1tg2k8jz",
+      "rating": 3,
+      "reviews": 52,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "1036 Brighton Ave B, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 822-9845",
+      "website": "https://local.fedex.com/en-us/me/portland/office-1745?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "description": "Packaging supplies & shipping services. Chain providing office & packaging supplies, plus a variety of services such as shipping & printing.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"PLUS, in my experience, they get printing jobs done FAST.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMNgYHkahSdOdNBFZgjGvOeiAKEjy4j2yZhNctLBMGxNjMsKy599wwpjBSW2beOwrsDLZJPFl7Z-7BTFqMiKh7rgFey6-r1qmMow7d1KWuJbftmm5ysw68RB5j6-IPvCTw_QU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SkrOk3icHcRRboIwAADQE9WCDlATP6gTN7EFB8aMn2WWrrUCRVqpveDu4G2W7H28568wptdLCBsxm3CleMPumg1UdYZ1ZkJVC3mvAdVAwzgnh2u8wYR_vl2_RVFnNUFJxeV2zNglTjfSvcipqwShZo_w9kEk1qkLFgtre4mK0_TMMjvo1321y5MmqkCEyuSGL6mIBp4wF4LBv7VY2aj209N9d_4xbRs4bcP5BwpkCN7zcV3ar8NxZX3P84D4n4LuD0x9RKg"
+    },
+    {
+      "position": 12,
+      "title": "Staples Print & Marketing Services",
+      "place_id": "ChIJrRlnQ6KZskwRyAR-xx9TrKU",
+      "data_id": "0x4cb299a2436719ad:0xa5ac531fc77e04c8",
+      "data_cid": "11938008108208358600",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299a2436719ad%3A0xa5ac531fc77e04c8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299a2436719ad%3A0xa5ac531fc77e04c8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6433828,
+        "longitude": -70.327716
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrRlnQ6KZskwRyAR-xx9TrKU",
+      "provider_id": "/g/11kpygqwrq",
+      "rating": 4.6,
+      "reviews": 25,
+      "type": "Print shop",
+      "types": [
+        "Print shop",
+        "Banner store",
+        "Blueprint service",
+        "Copy shop",
+        "Direct mail advertising",
+        "Sign shop"
+      ],
+      "type_id": "print_shop",
+      "type_ids": [
+        "print_shop",
+        "banner_store",
+        "blueprint_service",
+        "copy_shop",
+        "direct_mail_advertising",
+        "sign_shop"
+      ],
+      "address": "443 Western Ave, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20138\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 871-9148",
+      "website": "https://stores.staples.com/me/south-portland/443-western-ave/print-and-marketing-services?cmpid=st_ll_goo&cid=LS:RETAIL:G&utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Listing",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Quality printing & fast turnaround at an affordable price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0G8THhfNwr9dBYqTadcmvHu3kB9okuKaqs0jGevIiuRrfyeOpxniLfdUmQfYldoP6o2fsHTMpuRa7e4zT5SMf1Z7CkP16D6wuKEcItYl07Ix_gN27gjfB1XFe6E5ntnbfcpeShg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/km5CmXicHcTbEoFAAADQL0pbUZjxILcapMiMvJhse6Ha3dpd4Q99gr8x4zyc74cqJeTYNCvq9AjnpEJaohZyphBTPchrkwhpQGlIcxpHSTldgtUwDSiOunZU-FmT5gWsH4F2Sn_ES73OGwnuK_QIb3rf4hfaiSe7bXBxrBOcVQWPXW5jGaRbofe5h_rvdHDYYuvszcrYcudup9cLGKqsAl74vJDI9sgd-9ZpidzFgCl2xVCgAyWTzgIAGPQ_NNgPg2pGpw"
+    },
+    {
+      "position": 13,
+      "title": "Am-At-Uer Service Shop",
+      "place_id": "ChIJPdHAyWycskwRAlYlKmInjDY",
+      "data_id": "0x4cb29c6cc9c0d13d:0x368c27622a255602",
+      "data_cid": "3930559877354968578",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6cc9c0d13d%3A0x368c27622a255602&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6cc9c0d13d%3A0x368c27622a255602&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6595885,
+        "longitude": -70.2614759
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPdHAyWycskwRAlYlKmInjDY",
+      "provider_id": "/g/1tkb4qcq",
+      "rating": 4.4,
+      "reviews": 7,
+      "type": "Print shop",
+      "types": [
+        "Print shop"
+      ],
+      "type_id": "print_shop",
+      "type_ids": [
+        "print_shop"
+      ],
+      "address": "231 Oxford St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 772-7006",
+      "website": "http://printingmaine.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"Their product is excellent and their customer service can't be beat.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZhHEgLIzmDCIFXeKREIESNc3nIHqX2G1Fb6nbBLPx2THmtWohRThytyPFbpv4ID7DV3t__pvG_qS4Wpj1MWoY33HrO14y3wtjTd4hul0-uBpYn7l6dvipUSGwqfzweDKqzL_U=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Quqj5HicHcRdDoIgAADgE5Earra2Hip_YFlZWlovbhJJpYCBml6wM3Sbtr6H7_thWks1M4ySwVEhRFHSRtEXEVxTrkdEVEYhFSAKKGMRbvfPBbow5BYBHipnhb2Urg8udqMtgRyjOh37lpdPeL4Mwvc4RpVOBDvErNd96OWytbEzdU5QZ5ls_ayO7EQ-rE0izhCi186ye9jpR3y1WVOaoFnKM5-Wk2t7l8fI7-rb0FFnXQ9Bdpx3lmmagP0ngP8AQahFMg"
+    },
+    {
+      "position": 14,
+      "title": "Full Court Press, Westbrook , Maine",
+      "place_id": "ChIJXdvj3QyaskwRxn7iQukHLYM",
+      "data_id": "0x4cb29a0cdde3db5d:0x832d07e942e27ec6",
+      "data_cid": "9452219891351453382",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a0cdde3db5d%3A0x832d07e942e27ec6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a0cdde3db5d%3A0x832d07e942e27ec6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.676747399999996,
+        "longitude": -70.3662969
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXdvj3QyaskwRxn7iQukHLYM",
+      "provider_id": "/g/1tzvw4lq",
+      "rating": 4.9,
+      "reviews": 47,
+      "type": "Commercial printer",
+      "types": [
+        "Commercial printer",
+        "Business to business service",
+        "Copy shop",
+        "Custom label printer",
+        "Graphic designer",
+        "Mailing service",
+        "Marketing consultant",
+        "Poster store"
+      ],
+      "type_id": "commercial_printer",
+      "type_ids": [
+        "commercial_printer",
+        "business_to_business_service",
+        "copy_shop",
+        "custom_label_printer",
+        "graphic_designer",
+        "mailing_service",
+        "marketing_consultant",
+        "poster_store"
+      ],
+      "address": "855 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134\u202fPM",
+        "thursday": "8\u202fAM\u20134\u202fPM",
+        "friday": "8\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134\u202fPM",
+        "tuesday": "8\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 464-0002",
+      "website": "http://www.fullcourtpress.biz/",
+      "description": "Professional printer of business cards, flyers, calendars and other items, with a friendly team.",
+      "user_review": "\"They happily got the job printed and at no charge!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSScBgSkSawR2l8kTHSuMCUBqF03cL9-eqmpz9rUPQC-rhQHX65YRgR_oafaCYY5IvZdsBwU9HJlOZeqg5OwboIw2dZ8raUWvvqNYSesDdZBAMgeqqs98XVAwfrpFojKkSNF0BSg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4Mef3nicHcTbCoIwAADQL1ouw9CgB2eI3bwtK30Jm2uS5tymDvrDPqG_CToP5_uph6FXK8No68WMcc5aOioqCe8G2g0zwl8G6xUgCijDjcOkcQOMCWK4waVOzdZuTgEej16GhA8X5OAAKl7925FZnHhA1klwXVp5ytIbLx-ll-fWdioqhXTmBLs2KqhgVqTvfKvNqrBlmV2mSYQ5pmpTFcg9MiqEcuzr2dUP2fv8uW9w6EOE2VrPIYSg_k9A9wP_nUYD"
+    },
+    {
+      "position": 15,
+      "title": "Pickwick Independent Press",
+      "place_id": "ChIJpS60CuyBt4cRQyk6DpV3P4Y",
+      "data_id": "0x87b781ec0ab42ea5:0x863f77950e3a2943",
+      "data_cid": "9673582006687639875",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x87b781ec0ab42ea5%3A0x863f77950e3a2943&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x87b781ec0ab42ea5%3A0x863f77950e3a2943&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.65562,
+        "longitude": -70.26122149999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpS60CuyBt4cRQyk6DpV3P4Y",
+      "provider_id": "/g/11cm49fc5r",
+      "rating": 5,
+      "reviews": 6,
+      "type": "Art studio",
+      "types": [
+        "Art studio"
+      ],
+      "type_id": "art_studio",
+      "type_ids": [
+        "art_studio"
+      ],
+      "address": "536 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 358-9375",
+      "website": "http://pickwickindependentpress.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sx1Fg35bD7qqZWN99BL2qQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=128.94534&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XYro93icHc3dCsIgGADQt_Euf_ZDM_gIIrqKILoIugnnTAU33bS53qbX6m2KXuCcz9ukFOKGkJgmpdJsVQ52US6ugsDae-2UCDZi6XsyM5LMs28HYd02iMHbDi4LO-iybvfrcbxdT5zvjsV4RrK9S2fVkCAqMUmDdf6Jk--wDhFlaCgywAv0EhlY0WBe1WWFgk3SAEX_5eFnYJR-ATr0OM8"
+    },
+    {
+      "position": 16,
+      "title": "The UPS Store",
+      "place_id": "ChIJXQhHdnKcskwR7B_vyKhg9nE",
+      "data_id": "0x4cb29c727647085d:0x71f660a8c8ef1fec",
+      "data_cid": "8211857248598564844",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c727647085d%3A0x71f660a8c8ef1fec&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c727647085d%3A0x71f660a8c8ef1fec&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6627386,
+        "longitude": -70.2643974
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXQhHdnKcskwR7B_vyKhg9nE",
+      "provider_id": "/g/1td1v0yr",
+      "rating": 3,
+      "reviews": 78,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Freight forwarding service",
+        "Mailbox rental service",
+        "Notary public",
+        "Office supply store",
+        "Packaging supply store",
+        "Print shop",
+        "Shredding service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "freight_forwarding_service",
+        "mailbox_rental_service",
+        "notary_public",
+        "office_supply_store",
+        "packaging_supply_store",
+        "print_shop",
+        "shredding_service"
+      ],
+      "address": "110 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 761-0173",
+      "website": "https://locations.theupsstore.com/me/portland/110-marginal-way?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+      "description": "Shipping, packing & business services. Store offering shipping, packaging, printing & other services, plus office supplies.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Very convenient location, short wait, super helpful staff\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEO8eQ8crEZiU2BgLeVq5QkiLDfU0XOEiueNEiy7zXc6GXuGxCBshbwm8JTEVQdS-EflZ594XfKFH0KtbixGAGojMDOfpMijD0HdC3jLjeaMjL6nRUL7bEtA5TcUiEgVwHg4Rq1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tp6IpXicHcThEoEwAADgJ1otpLjzI5o6loS6zj_NWltpsXXhBT2Dt3Hn-_F9P5XWnZqbZlONDSYla2iv6IPIVtNWG0TeTNYpQBRQprffJbWHYpcmLnmgM09HS4ZpdreTmmO_TGEeI97THeIv552TaZD3wXO1VFUx3NzNCWXJ9QhQ2Zzt2SQvt-sQbnXBn4EXSBH5cdlFXPgwvK7GAgt6iQSetocUOwXSnn0iKUcsG0I2OdytxWBBCEH1n4D2ByTCQ9g"
+    },
+    {
+      "position": 17,
+      "title": "Riptide Print Company",
+      "place_id": "ChIJKydnpqmSskwRuE4uyVn8l0M",
+      "data_id": "0x4cb292a9a667272b:0x4397fc59c92e4eb8",
+      "data_cid": "4870638984582024888",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb292a9a667272b%3A0x4397fc59c92e4eb8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb292a9a667272b%3A0x4397fc59c92e4eb8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6491684,
+        "longitude": -70.36625169999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKydnpqmSskwRuE4uyVn8l0M",
+      "provider_id": "/g/1hhl96y4c",
+      "rating": 4.9,
+      "reviews": 77,
+      "type": "Screen printer",
+      "types": [
+        "Screen printer",
+        "Custom t-shirt store",
+        "Embroidery shop"
+      ],
+      "type_id": "screen_printer",
+      "type_ids": [
+        "screen_printer",
+        "custom_t_shirt_store",
+        "embroidery_shop"
+      ],
+      "address": "2 Karen Dr Stop 2, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134\u202fPM",
+        "thursday": "8\u202fAM\u20134\u202fPM",
+        "friday": "8\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134\u202fPM",
+        "tuesday": "8\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 835-0038",
+      "website": "https://www.riptideprint.com/?utm_source=google&utm_medium=mybusiness",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"High quality at great prices with quick turn over time.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_3hmQ853NkDCv4w2LCrQoki_YTe1gEodsPR-T7iHPsEUBwDH6lNVAQPhSRkpGuEPDfNuYErEWgfkzMeum1X8kHO-IbByyhXpNKUN2LcRtv2ZcK9kqhWIpIL0KSqBAtZ_6obiN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-AJAUHicHcTbDoIgAADQLyJv3bceNFk6jdDuvbhFBA4VEszVD_YN_U1b5-F8P9wYpeeWVXFvwKRkFe00bYlsDG3MgMjaYkoDooG2fIwy4a8Kj9fZdOQhES6fw95Nl20mRVmcd9RhUN40zsFuUkZYw33Qh9G4Qgc_w3ybC7XqIA7vqDvDFh7ZXbzXtKud01REGxBfg9eLnxRK9shNSW6e7oUkM_Hgx1jFqZ1sH4FvLsVYXku06B3btgH_T0DzAzdNRIs"
+    },
+    {
+      "position": 18,
+      "title": "Printmail of Maine",
+      "place_id": "ChIJExtFHAmbskwRfp6G-vO28Xg",
+      "data_id": "0x4cb29b091c451b13:0x78f1b6f3fa869e7e",
+      "data_cid": "8714947912935054974",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b091c451b13%3A0x78f1b6f3fa869e7e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b091c451b13%3A0x78f1b6f3fa869e7e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6877365,
+        "longitude": -70.2973098
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJExtFHAmbskwRfp6G-vO28Xg",
+      "provider_id": "/g/1tf9mvs5",
+      "rating": 4.5,
+      "reviews": 13,
+      "type": "Commercial printer",
+      "types": [
+        "Commercial printer",
+        "Digital printer",
+        "Graphic designer",
+        "Mailing service"
+      ],
+      "type_id": "commercial_printer",
+      "type_ids": [
+        "commercial_printer",
+        "digital_printer",
+        "graphic_designer",
+        "mailing_service"
+      ],
+      "address": "75 Bishop St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 878-8000",
+      "website": "http://www.printmailofmaine.com/",
+      "user_review": "\"I reached out to Printmail and they got me exactly what I needed.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFNkbqzHDpkokg5-i5Fvp9nZ3dfQ4KI94HB9dxYqS8d6RFUHQ86WpRP5WtyCjV-K6-Kjz-zthlOQdNHDdRqBHIq8yiuP10YVJx2h2fE6YsYrS4r6fyCGAtL_Ye3D7oxxOWamYzYQQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CTE0EnicHcRRboIwAADQExVQoAMTP1DG6liQYoTUH-MoUARpoVWBG3oEb7Nk7-O9X0wpIVe63jJTqziv2uIuiyHnnSo6peX8pldCglwCqXtxhBsviJrffka-aHhT2aC2g4dwu5NJS2yFO9dCG5eOpD84FCbBEWEHZiKJ7UxN22sKQgjC6wxmxdo9phHyadJv0K53pvoeLwySfo9Ltiw_IZFkOFgDLKftl6d-zqQw_Q8-jvvsciMzwXj9XBiGAdj_Oej-AJ7HRKs"
+    },
+    {
+      "position": 19,
+      "title": "The UPS Store",
+      "place_id": "ChIJUcSVbW-ZskwRmEiglSaOY4Q",
+      "data_id": "0x4cb2996f6d95c451:0x84638e2695a04898",
+      "data_cid": "9539624732071053464",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2996f6d95c451%3A0x84638e2695a04898&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2996f6d95c451%3A0x84638e2695a04898&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6422294,
+        "longitude": -70.32796909999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUcSVbW-ZskwRmEiglSaOY4Q",
+      "provider_id": "/g/1tf79pwb",
+      "rating": 2.6,
+      "reviews": 135,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Freight forwarding service",
+        "Mailbox rental service",
+        "Notary public",
+        "Office supply store",
+        "Packaging supply store",
+        "Print shop",
+        "Shredding service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "freight_forwarding_service",
+        "mailbox_rental_service",
+        "notary_public",
+        "office_supply_store",
+        "packaging_supply_store",
+        "print_shop",
+        "shredding_service"
+      ],
+      "address": "405 Western Ave Ste 13, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20133:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 871-9355",
+      "website": "https://locations.theupsstore.com/me/south-portland/405-western-ave?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+      "description": "Shipping, packing & business services. Store offering shipping, packaging, printing & other services, plus office supplies.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Quick, efficient, polite service!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtw-xmCatKYo-UOcsGYac0yt2RoJwSKC5OLT-cg1w-Z18eAfqhuXjyufZiL0DoXkNVI1zi85QMgon9xAqvW_2WpLJyNKhgEVprFgXa4XYNXO228h2VfzozJPEsvGXfPhQ9enOzTg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MpuKmHicHcRJDoIwFADQE1VK1QRNXBBFIyCDAxQ3hjSldepHW0S4oUfwNia-xft-pDG1nlrWTQ4HAkDceKP5k4EyXJkBg7slao2YRtpykyi9up5p0fs-L01QADrETK-KkuHOkC347S6Yj-Nwj5iwW3S0He5WD9nQS9dUx3OIF0CvUba2-7MzTjcC1OTtPl75ieR16HdRIIWX1c-loOWIFhGNCXEkyaoeej_x9GtFq0SmE67ifi9mrY0xRvI_Q-oHKnlGLQ"
+    },
+    {
+      "position": 20,
+      "title": "The UPS Store",
+      "place_id": "ChIJJa_e2SKbskwRMisAouKBaRc",
+      "data_id": "0x4cb29b22d9deaf25:0x176981e2a2002b32",
+      "data_cid": "1687022345807473458",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b22d9deaf25%3A0x176981e2a2002b32&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b22d9deaf25%3A0x176981e2a2002b32&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7031809,
+        "longitude": -70.2884837
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJa_e2SKbskwRMisAouKBaRc",
+      "provider_id": "/g/1td_b8np",
+      "rating": 3.5,
+      "reviews": 56,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Freight forwarding service",
+        "Mailbox rental service",
+        "Notary public",
+        "Office supply store",
+        "Packaging supply store",
+        "Print shop",
+        "Shredding service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "freight_forwarding_service",
+        "mailbox_rental_service",
+        "notary_public",
+        "office_supply_store",
+        "packaging_supply_store",
+        "print_shop",
+        "shredding_service"
+      ],
+      "address": "91 Auburn St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "8\u202fAM\u20134\u202fPM",
+        "sunday": "10\u202fAM\u20133\u202fPM",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 878-3393",
+      "website": "https://locations.theupsstore.com/me/portland/91-auburn-st?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+      "description": "Shipping, packing & business services. Store offering shipping, packaging, printing & other services, plus office supplies.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The staff is always friendly, efficient, and knowledgeable.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoq0MBGJq0kvJJTQr6vIScNvZLgXYR4hxd03usz2HY0ZlcGHPfX7mjzYu7sPB00DURgt28iUXNQaRZhLqZInenEDhZ6xrWNKI4hVdEINoYN33ozVV5VNbADYiHbxOBY_ahqd8pDA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Nv8-5HicHcRNjoIwGADQEyGf4l8mcQFBBdQO4Ii0G6MFWxVboAUJN_QIcxsT3-L9v7nWpfoxzYJbAyYlK_JG5TWVQudCD6h8mqxUBlWGMu0QRQ97JSvYOeuggkcbBH9RPW39PUUt2bIUx2PeZWA1qh95GEhB1154TWfPe4-bmQodAPcQMz2a3w4pis4x4duK-CIXS5eTaVcf0cYf8yRb-khiZFmyT5JJgi62i2_epft18OnMq2xeuvbiNQQAg3-nhvgA2vBFGA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=print+shops+in+Portland%2C+ME&start=20&type=search"
+  }
+}

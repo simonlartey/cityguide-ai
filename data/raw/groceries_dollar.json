@@ -1,0 +1,1420 @@
+{
+  "search_metadata": {
+    "id": "6a4e67cc59eb3736a716d243",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xWd_v-1FT8npi44E6ZQ1Gw/6a4e67cc59eb3736a716d243.json",
+    "created_at": "2026-07-08 15:07:56 UTC",
+    "processed_at": "2026-07-08 15:07:56 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/dollar+store+near+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/xWd_v-1FT8npi44E6ZQ1Gw/6a4e67cc59eb3736a716d243.html",
+    "prettify_html_file": "https://serpapi.com/searches/xWd_v-1FT8npi44E6ZQ1Gw/6a4e67cc59eb3736a716d243.prettify",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "dollar store near Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "dollar store near Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Dollar Tree",
+      "place_id": "ChIJX7CCq_CbskwROnVYIoS6T4E",
+      "data_id": "0x4cb29bf0ab82b05f:0x814fba842258753a",
+      "data_cid": "9317871230727517498",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf0ab82b05f%3A0x814fba842258753a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf0ab82b05f%3A0x814fba842258753a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7001917,
+        "longitude": -70.2871096
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX7CCq_CbskwROnVYIoS6T4E",
+      "provider_id": "/g/11gwjd260s",
+      "rating": 4.1,
+      "reviews": 116,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "365 Allen Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 536-8257",
+      "website": "https://locations.dollartree.com/me/portland/365-allen-avenue?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"This store have many items price $1.25 only.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-eEZ2brRLwKNYAs780B7hGMbR_3tYlDafWt91dCuhOPgdKztE0DjrB8AHpRDx97kRMF0plK8tcj5IijG-tpkZUtjH8bDKxo3huvsmc1IJuN3PyttKOUN3plXoT6mu8NlqaZgnhA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IvkP6XicHcTdTsIwGADQJyrrbGTFxIvixo-VMheIshvCymjZurWuXwV8Qx_BtzHhXJy_Xw3g_FMUGU1Gylpl6uDrQdoe6h5G0naRch5Jj3zEcvHesgzVWflQDcXbhYsd8wnF00TPV1WxJ7Az6eH0AZP4-BL0OldH_gMZTpthStnCFel1krTFaoad4RRk87g8N3MEri230CxolfKrJTp8-07Gy9cgSH4D4OutIM582s24C1SYr0Opes2eLzHGGOn7EvX_qzJFgw"
+    },
+    {
+      "position": 2,
+      "title": "Dollar General",
+      "place_id": "ChIJRcV7J7ebskwRNi2I9FQ71xM",
+      "data_id": "0x4cb29bb7277bc545:0x13d73b54f4882d36",
+      "data_cid": "1429676642779278646",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bb7277bc545%3A0x13d73b54f4882d36&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bb7277bc545%3A0x13d73b54f4882d36&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6996,
+        "longitude": -70.2886
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRcV7J7ebskwRNi2I9FQ71xM",
+      "provider_id": "/g/11jzzbk6_x",
+      "rating": 3.7,
+      "reviews": 19,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store",
+        "Convenience store",
+        "Discount store",
+        "Drug store",
+        "Gift shop",
+        "Grocery store",
+        "Toy store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store",
+        "convenience_store",
+        "discount_store",
+        "drugstore",
+        "gift_shop",
+        "grocery_store",
+        "toy_store"
+      ],
+      "address": "340 Allen Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 770-6856",
+      "website": "https://www.dollargeneral.com/store-directory/me/portland/25238",
+      "description": "Wide array of items at discount prices. Bargain retail chain selling a range of household goods, groceries, beauty products & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"the product line up is stellar and the prices are honestly unbeatable.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnvekmRqU8Az3Zij-B72IRDqGH0eY-8rg5aT50a89fG3qJu5pFq6arHOqRY2wDKTQYOCxuYSzSKqyraD1etqKapXyshMTh4Wt8mPdCB-j6-A3hQoDwF5TabLOQnaPR5j9A-KLyzQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nQHGvXicHcRNcoIwGADQE30SpVHsjIsg9Q8tBOm0dJdiJKIkhAQRbtgjeJvO9C3e81dYW5tXx7kJd1QoVdx4a3iTK2m5tKNcVU5RG8gNGIfE7_RK3uSdX6tEf3hkcL8vJfizyTYJ9HqDeAZeU2CWYsS8-Xnt6l2L65WesmYT6SSbdEGY0ixaPtrsOBxD3TcsGHOrQ1Z_9UYcUvHyab0qPi19KKdAXEFV0K1wyn72EZUsTnA5JxDu-4EuujFCCMT_Ocg_mdlEZQ"
+    },
+    {
+      "position": 3,
+      "title": "Family Dollar",
+      "place_id": "ChIJo5an2L6dskwRuyAPs0WV-M0",
+      "data_id": "0x4cb29dbed8a796a3:0xcdf89545b30f20bb",
+      "data_cid": "14841776698588864699",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dbed8a796a3%3A0xcdf89545b30f20bb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dbed8a796a3%3A0xcdf89545b30f20bb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6518788,
+        "longitude": -70.2801937
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo5an2L6dskwRuyAPs0WV-M0",
+      "provider_id": "/g/11trpxrmtk",
+      "rating": 3,
+      "reviews": 20,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "256 St John St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 535-8497",
+      "website": "https://locations.familydollar.com/me/portland/256-saint-john-street?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Bargain retailer for household goods. Discount chain carrying a variety of goods, including groceries, household items & beauty products.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"The store was clean, and the staff was friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeJUlDW-rQ9FilCQlS4pNBjaLek7SEt7ITehHAI-N0ioXIQlPIqmCsctgjL1PMKbec7znOtv37q2BVLBkAm-Qzms-evy3Fvff2jxDRlWX3v3w-8GdcEpsgDFJnjN2oyYDqo-3m=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Br_hu3icHcTbEoFAGADgJ_qV1kyYcVEqImmd4pK1NrWHsiuHF_QM3saM7-L7fgpjaj20LF6gDlOKcXrX9EaUNFSaDlHCYrUGokFbXpbiygvpbMuDHG54EF35GPN1r0798pjQyl2Hxo03tJh6MaT2Ve1jzLO4EWNNDCuTbraYnyhx33JpWuQ2jr9L_MoTgN9CA21fKGovF6d8Biue71GLHtCfnElYaxZEM1mmjnodgkYBEqNH17ZtKP4TkD89VkSP"
+    },
+    {
+      "position": 4,
+      "title": "Dollar Tree",
+      "place_id": "ChIJE4crmUyaskwRU9ak2J-5Eis",
+      "data_id": "0x4cb29a4c992b8713:0x2b12b99fd8a4d653",
+      "data_cid": "3103747189397313107",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a4c992b8713%3A0x2b12b99fd8a4d653&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a4c992b8713%3A0x2b12b99fd8a4d653&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6742103,
+        "longitude": -70.3254784
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE4crmUyaskwRU9ak2J-5Eis",
+      "provider_id": "/g/1tczdhnt",
+      "rating": 4,
+      "reviews": 141,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "1100 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 517-9202",
+      "website": "https://locations.dollartree.com/me/portland/1100-brighton-ave?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"It's a good place to get inexpensive household items.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4Wm1eLXyqhJ1MES0Z0asWl4Vmrku8FtdfqPSb5KrNGDk4HOoCrvoGAuBhO3nH9k-wDSrbDIZumuVW3WBuPBJMZWyfjVUm8g7QvGxW7SL3aGbxT4w3PWX0zn7t-mR7LsZNOe7DhQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XiKtHHicHcTbboIwAADQL6qUlKXOxAcQBRW5DEcJb4KVZtBWexHdH_oJ_s2SnYfzfjFjrnrhOCNDs17KfqRWU9VJYagws05yp79q0GmgHT9Pi8GPPcJdmtTPG9u5h3UJG3jSZPQqrgY735jz5ZaX7cdepVE4eHEmV-ouI98GLEMi_hzAFJaqDbeN5bYiiAQ2D3aHhjwvP9U3n_e4uEcPgssEnaL2cfQmlJMa_gpsAP_CiW7SjOKQFcvJhRAC9n8HxB_gR0UD"
+    },
+    {
+      "position": 5,
+      "title": "Pine Tree Shopping Center",
+      "place_id": "ChIJc6zOSkuaskwRt4G6l-an5Fg",
+      "data_id": "0x4cb29a4b4aceac73:0x58e4a7e697ba81b7",
+      "data_cid": "6405429178857587127",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a4b4aceac73%3A0x58e4a7e697ba81b7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a4b4aceac73%3A0x58e4a7e697ba81b7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.674414899999995,
+        "longitude": -70.32458299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc6zOSkuaskwRt4G6l-an5Fg",
+      "provider_id": "/g/1thxknxp",
+      "rating": 4.2,
+      "reviews": 849,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "1100 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 12\u202fAM",
+      "hours": "Open \u00b7 Closes 12\u202fAM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201312\u202fAM",
+        "thursday": "6\u202fAM\u201312\u202fAM",
+        "friday": "6\u202fAM\u201312\u202fAM",
+        "saturday": "6\u202fAM\u201312\u202fAM",
+        "sunday": "6\u202fAM\u201312\u202fAM",
+        "monday": "6\u202fAM\u201312\u202fAM",
+        "tuesday": "6\u202fAM\u201312\u202fAM"
+      },
+      "phone": "(610) 215-7939",
+      "website": "https://brixmor.com/leasing/retail-space/me/portland/pine-tree-shopping-center?utm_source=gmb&utm_medium=Yext",
+      "description": "Open-air shopping center with a variety of retailers, restaurants, and services.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Stocked well, friendly ppl, decent prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkq-Ao7BuF4SLGDIl8ZRah4ZGTsTUP9XhaqcNJBIX4VISS-gQe2pK947oGDVfLNenSe9Do0ZCuQazAIxEAublSTkuRe3_2fpQ_Lh_5C7wQ_uqVxTkdHG03Ln8qKfgDQlMeg1w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wYyPHXicHcRRDoIgAADQE5GUNrOtD8wyy1yEueaPM0LYJNCQ2Tpgd-g2bb2P9_2IYejM0nGkcCdcay6ZNexJtRqYGiZUPxzeGUANMA46ZbhFm7YHSPuh3XokjaNELspzLbwyzk1-OQVXUfc024fJ1SsSQgDHbNYdAs_XcVQ0acYUYUGkYbm2uH6j5LVB9iZJ3tozc6tZ0-EqFdV87Y-4sn3xytv7LoZuqhb9oeERlkfGp-NqnEIIgfhPgfoBkHZDXA"
+    },
+    {
+      "position": 6,
+      "title": "Dollar General",
+      "place_id": "ChIJXS9idbaeskwRnQs6yH1ld6w",
+      "data_id": "0x4cb29eb675622f5d:0xac77657dc83a0b9d",
+      "data_cid": "12427513287656737693",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29eb675622f5d%3A0xac77657dc83a0b9d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29eb675622f5d%3A0xac77657dc83a0b9d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.628146799999996,
+        "longitude": -70.2953974
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXS9idbaeskwRnQs6yH1ld6w",
+      "provider_id": "/g/11fxpxh9qm",
+      "rating": 4,
+      "reviews": 163,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store",
+        "Convenience store",
+        "Discount store",
+        "Drug store",
+        "Gift shop",
+        "Grocery store",
+        "Toy store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store",
+        "convenience_store",
+        "discount_store",
+        "drugstore",
+        "gift_shop",
+        "grocery_store",
+        "toy_store"
+      ],
+      "address": "385 Main St Ste 3101, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 274-7269",
+      "website": "https://www.dollargeneral.com/store-directory/me/south-portland/18068",
+      "description": "Wide array of items at discount prices. Bargain retail chain selling a range of household goods, groceries, beauty products & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Nice and friendly employees and good prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvuddarNma-XUvk7WPSnFFIyfVmotNmCY8WS2gx_8ThwWm5orYPeqI4TqAG8Ns8kxC8yxujr0DA91X2hhLAJ7hvWRWkMpH6AQlAn5BY1_QT8gRSxSszI88M2_BwlrCGCBYtAnP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pyaXIHicHcRJDoIwAADAF5XNrZp4KBgUowQErZyIQWwjtIW2LPpB3-BvTJzDfD9U60atTLOmE4MIQeqyU6UsBNcl10YhmEkaBQoFlImiMK6Q33f3-02G7Aau575a4Cjhvh-8HhcmdMi8DOLEIWMOUzpgNhMyi8o2mKYt2sJQwWr04GvsntLaoKV9dSg9oP2C9viEq2Ozm6O4RnzmZnYep5CckjFR7wDCo5O7Qy29redmGvFoPdiWZQH6vwD8B7BIRMg"
+    },
+    {
+      "position": 7,
+      "title": "Dollar Tree",
+      "place_id": "ChIJd7UJFW6ZskwRw3apy1Q64ag",
+      "data_id": "0x4cb2996e1509b577:0xa8e13a54cba976c3",
+      "data_cid": "12169071804000335555",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2996e1509b577%3A0xa8e13a54cba976c3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2996e1509b577%3A0xa8e13a54cba976c3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.639106899999994,
+        "longitude": -70.3327694
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd7UJFW6ZskwRw3apy1Q64ag",
+      "provider_id": "/g/1td4zg2s",
+      "rating": 3.7,
+      "reviews": 197,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "198 Maine Mall Rd Ste 1, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 618-9124",
+      "website": "https://locations.dollartree.com/me/south-portland/198-maine-mall-rd-suite-1?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Neat, clean, well organized and well stocked.. Friendly staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHyrxUUGBstMOWWsJnxZ67rJZhI_s7Kqe5eWv8ZgWIdHFtnUHjSzekyO1A_FnDmJuuWf-gWGq2c_8K4-h_clTaHCvnKda9AGID2xy0Q_OxzPInjJh9c-gu8WRcNYLn-LUefh_-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7i9JmnicHcRLDoIwFADAEz3BP5i4QIkUUPFHGtk0ptY2ig-hRcELegZvY-Is5vtRxjz0xLJy1e_IopC5qLWoeIFGoOnw4m7JhwauQVveZr29eYS0VZOmwUybVUKpjrDJRuMqylTI9DguxVDQp5NJGp7JwmBKrvu3uLVJ12ML9O9RXdMLSBqUPc6ceACK8fxwIvMnxueT6wWh32tae8uS5r0J8Ropl4OsHbrj6-MSYZmKi2IwfXVt2wb1nwP-AMMIRUw"
+    },
+    {
+      "position": 8,
+      "title": "Dollar Tree",
+      "place_id": "ChIJEUxlgawxs1IRDW9i4QzggXA",
+      "data_id": "0x52b331ac81654c11:0x7081e00ce1626f0d",
+      "data_cid": "8107007150169157389",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x52b331ac81654c11%3A0x7081e00ce1626f0d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x52b331ac81654c11%3A0x7081e00ce1626f0d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.0615865,
+        "longitude": -93.306456
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEUxlgawxs1IRDW9i4QzggXA",
+      "provider_id": "/g/1tdclm07",
+      "rating": 4.2,
+      "reviews": 354,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "5930 Earle Brown Dr Ste 100, Brooklyn Center, MN 55430",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u201310\u202fPM",
+        "thursday": "9\u202fAM\u201310\u202fPM",
+        "friday": "9\u202fAM\u201310\u202fPM",
+        "saturday": "9\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u201310\u202fPM",
+        "tuesday": "9\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(612) 238-9425",
+      "website": "https://locations.dollartree.com/mn/brooklyn-center/5930-earle-brown-drive-suite-100?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"The store is well stocked, organized and clean.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvg2RNhFGzwalAAMvDSnD9uPf8YFAofiViCGwewXQkdPNwYBEjhbfQPZBtzwdLuGOFfhOCbNX86lI7cqHg4FPHY9Ys0BH14Epo-m76vOcv5SKHZwIoytZvN1pR7nbcGNphkJgc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Mg1vz3icHcRRboIwAADQE1XAqYjJPopacJulQGKEP6nQKth2trTRC3oGb7Nk7-O9X9wYpVeeN_CPCZOSDe2o2zuVwrTCTKi8eUxpQDXQHiQ47yGybFpgjpKnOw0Q7u2mFJtoJN2yQlB2l8NlnbjWHfP-TLCr4u2VN11O6tg83flnTDLU8Wzd4ONyMexC-puyGSJpFVXaj9NgtlUS3MKFzaidl99p7XbyYWqLA1WEoqEJVrz_YvTTBb7vA_4_BeIPlj9FLQ"
+    },
+    {
+      "position": 9,
+      "title": "Dollar Tree",
+      "place_id": "ChIJ7ywesm8vs1IR7bL10nAP4Uo",
+      "data_id": "0x52b32f6fb21e2cef:0x4ae10f70d2f5b2ed",
+      "data_cid": "5395610805816636141",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x52b32f6fb21e2cef%3A0x4ae10f70d2f5b2ed&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x52b32f6fb21e2cef%3A0x4ae10f70d2f5b2ed&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.0651344,
+        "longitude": -93.2490191
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7ywesm8vs1IR7bL10nAP4Uo",
+      "provider_id": "/g/11pvmy3y4c",
+      "rating": 4,
+      "reviews": 166,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "775 53rd Ave NE, Fridley, MN 55421",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(612) 843-2220",
+      "website": "https://locations.dollartree.com/mn/fridley/775-53rd-avenue-ne?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"The employees were very friendly and the store was well stocked.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjtl6gYTOX_2OruPz4RcOp2SgOdOaQaqUTJVxLkptemLLpHk5haviLy09gojrXvfJAXCgwgyG2Fhtg9o_8lbzJF2TKOU6vvOxDE17T7gNvIyIkB2XmwHckta6udu-e_A288N0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GoYqXnicHcRRboIwGADgE1Vq5xBN9oBuqIxQdWjwibBa_84C7Wgp4gF3h93GxO_h-_8T1moz97xKvIxAKah4Z3jLVGN5Y0dM1R5og5hBxgu36U6G0dVWPpwymheEtt32PtkzqskX0DMtd-XvIYuPt0Rqy-sk0Wv5Kkr3kwx4Bura5u4Sh_kSehhWJBIWZqoIqu97HJHskx585-jt_WM8zaaQus2wkQuS1_2aSVv63blDvAhJEKT4rR9jjJF4zlDzAKuQRVA"
+    },
+    {
+      "position": 10,
+      "title": "Dollar Tree",
+      "place_id": "ChIJF-zsPoOeskwRRAC1e-1OMJc",
+      "data_id": "0x4cb29e833eecec17:0x97304eed7bb50044",
+      "data_cid": "10894294280498905156",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e833eecec17%3A0x97304eed7bb50044&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e833eecec17%3A0x97304eed7bb50044&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.635183999999995,
+        "longitude": -70.2542721
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF-zsPoOeskwRRAC1e-1OMJc",
+      "provider_id": "/g/1q64prblc",
+      "rating": 4.1,
+      "reviews": 64,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "50 Market St #15, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(302) 466-5930",
+      "website": "https://locations.dollartree.com/me/south-portland/50-market-street-15?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Well stocked, clean neat, one of the better managed stores I've seen\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFk_QAgR_dt1uI05FSOGyCbx7UHW_XfnCT-3KMg3xJbj80mBV8-3zbFBc7atEGDCxgAxAhNYu-t3kuMXssAWdHFdDGSxooKQTsDlZXrNx2EHmMIpNmW7EHZwN47J_nF28sgkMF7tQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/azPpJHicHcRRboIwGADgE1WqnSlZsocKFNTQjekG8kKkYMmAlviX2HlDj7DbmOx7-P4enbUTvHre0JGFMkYN7QztVRptW20X0oyemgBJQOCxD5H1jPdVxtRn1djlvMVrfniPf4Pa0a8kr4qLDo6I7FNF3K7-8fG4-fYRudd8I-nZRnEYOMUc68RpRpb0c1oAsLxJeBPGB2fMPjtCOJTFVbhVlIzpdhJjTqOkvIkXuqs0X_mg-pRTm73dlhhj1P0vkX4CiLVETw"
+    },
+    {
+      "position": 11,
+      "title": "Dollar Tree",
+      "place_id": "ChIJUReFnVkxs1IRxkN9LP1tBrk",
+      "data_id": "0x52b331599d851751:0xb9066dfd2c7d43c6",
+      "data_cid": "13332464681017492422",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x52b331599d851751%3A0xb9066dfd2c7d43c6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x52b331599d851751%3A0xb9066dfd2c7d43c6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.0306746,
+        "longitude": -93.3347106
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUReFnVkxs1IRxkN9LP1tBrk",
+      "provider_id": "/g/1tdzwc21",
+      "rating": 4.1,
+      "reviews": 314,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "4072 Lakeland Ave N, Robbinsdale, MN 55422",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(612) 315-0413",
+      "website": "https://locations.dollartree.com/mn/robbinsdale/4072-lakeland-ave-n?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"They are well stocked and very clean!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRoJjX9OWlnOzYVgiQYHCe2xu6vGYAPn12v_N4YzWe__di1u1WgWJd2NOmUFY-36f6nB7K5R5pMDrsIErfdHKvplX-ygYU7nWPmlpetplvanxB4y0C4luA-I2LMb-rDuAiP_Y=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZxtWDnicHcRJDoIwAADAF5VNxGjioeKuLJpg7YkolIKWtqEtLg_0D_7GxDnM91NrLdXEtlk9sKgQlBGjSFcIrgnXViFam0oFCgWUDdP4cIero9jezuMEMZ688Yk2B7wOifc0Qb_CMOWu1-exj9-I5HnZuMZFFG1LL07abInBIKgCPhvthsehjOad2iy6qlzvesnO4EVxNuIobZkkWrL-wp8z_-WEPjMQbLx9dAXd3MAmzfH04TqOA-r_BeA_GqFETA"
+    },
+    {
+      "position": 12,
+      "title": "Dollar Tree",
+      "place_id": "ChIJD7XG62sxs1IRbi0PNZbixJ4",
+      "data_id": "0x52b3316bebc6b50f:0x9ec4e296350f2d6e",
+      "data_cid": "11440518088191061358",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x52b3316bebc6b50f%3A0x9ec4e296350f2d6e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x52b3316bebc6b50f%3A0x9ec4e296350f2d6e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.06993,
+        "longitude": -93.3260909
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD7XG62sxs1IRbi0PNZbixJ4",
+      "provider_id": "/g/11g2_d98jp",
+      "rating": 4,
+      "reviews": 140,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "6330 Brooklyn Blvd, Brooklyn Center, MN 55429",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(612) 843-2202",
+      "website": "https://locations.dollartree.com/mn/brooklyn-center/6330-brooklyn-blvd?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Service guarantee"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"I love shopping here I can always find something great here for a good price\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAER0kb-T-_VF1KdbIzlbe6pkAQsLBZXvEuTVRC0593S0_URiAEZsAhEd18uL3e33Vf0qFMpey-b7J_fpgMWwvCKSpZhyBLTAxg2vbiSh3D8tfTmrvSHuepZDXr78Ph2BKKRl5-FEQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OoTydXicHcTbDoIgAADQLyIxVllbD6i4Smt5yZovbihC05QE7fKHfUJ_09Z5ON-P0FqqlWE0Ak141_GGDYr1Rddq1upJ0d0MLhUoFFAGPh7CGpMI1hQkIE890y_p9t1QNpc1DlVgZ5eRDEkaOXC2RDHMT9EVk0xhQUrTGgLEEEorePf2kr0AXezySvL9-TE6fiwz8bKDBD_5dKTXWCDX0lVy68d4MzCZuZd-YR3F1Pb9qJkBj4TrhwkhBOJ_Adofa39EEQ"
+    },
+    {
+      "position": 13,
+      "title": "Dollar Tree",
+      "place_id": "ChIJD1pNWAAls1IRmTt3g36ouYc",
+      "data_id": "0x52b32500584d5a0f:0x87b9a87e83773b99",
+      "data_cid": "9780033327136717721",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x52b32500584d5a0f%3A0x87b9a87e83773b99&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x52b32500584d5a0f%3A0x87b9a87e83773b99&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.1159405,
+        "longitude": -93.2628701
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD1pNWAAls1IRmTt3g36ouYc",
+      "provider_id": "/g/11z51sxxlp",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "8151 University Ave NE, Fridley, MN 55432",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20138\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": false
+      },
+      "user_review": "\"The store Manager is very friendly and  nice.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WSOuW8NizbMfzBmSWY0EGg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=85.380005&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZoifanicHc0xCsIwFIDh22QzeVUKVQiCIE7q0KE4SZqmyYO0eTRpqz2N1_I2Frd_-v7vx6VE8SBETIMxaUIzE76MjxtS3IZgvVGEkevQiSkTyY1d3Sv0R1J9wEZW5X2sihsu9bVdTl1ZPeB8sUzXT-3R9ElGowbtuJ1XcQgNtxTZLAtgTu637K3WzvmuAICcESbtJLD_pQ2TzAB-gTs5lw"
+    },
+    {
+      "position": 14,
+      "title": "Mallside Plaza",
+      "place_id": "ChIJ8Qj54XGZskwRlgVu-Xsv34g",
+      "data_id": "0x4cb29971e1f908f1:0x88df2f7bf96e0596",
+      "data_cid": "9862653918476895638",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29971e1f908f1%3A0x88df2f7bf96e0596&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29971e1f908f1%3A0x88df2f7bf96e0596&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6397408,
+        "longitude": -70.3328022
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8Qj54XGZskwRlgVu-Xsv34g",
+      "provider_id": "/g/12j07_xmx",
+      "rating": 4.2,
+      "reviews": 949,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "198 Maine Mall Rd, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "description": "Shopping center offering stores including Dressbarn, Guitar Center, DSW, and 5 Guys.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Well stocked and organized\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFssRbvAAsId2XzRDUNtTKTjdOfvfiOngvH7EcpXO5JSQLYp01JxyOrbH97yoFLMvrK8o4yTkPOYlyAjvcwUcAM-UGrdnlgOYsoeyd2GIk3lO91mBMszenFwVOXUpUSiuiv6pxF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YSwi03icHcRNcoIwGADQE0VAba2dcRGnBfzBqJAObA0xIDHJ8MVgvKBn6G2c8S3e_7Ox1sB3EMhmMhJaC8lvwHumleXKjpi-BsIAYoAgwPvdocMxwPHkMIZVPS4fxx-6s8WmuNTk7M4tUcKls19mSvKxzg_byoTR-u5Jf0rnM6_jbeb6zZee-qLbk0p6fHFsoAxniCZ9raQgFWju63Gy6iaSzKPrMoMHV_HwR0pqaN7eWvdp7vFiiMIwRM17htQL8VxGrQ"
+    },
+    {
+      "position": 15,
+      "title": "Dollar General",
+      "place_id": "ChIJR7BcfD8us1IRGROe7L0JHZ8",
+      "data_id": "0x52b32e3f7c5cb047:0x9f1d09bdec9e1319",
+      "data_cid": "11465330937678402329",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x52b32e3f7c5cb047%3A0x9f1d09bdec9e1319&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x52b32e3f7c5cb047%3A0x9f1d09bdec9e1319&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.050550799999996,
+        "longitude": -93.248879
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR7BcfD8us1IRGROe7L0JHZ8",
+      "provider_id": "/g/1tz71157",
+      "rating": 3.7,
+      "reviews": 467,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store",
+        "Convenience store",
+        "Discount store",
+        "Drug store",
+        "Gift shop",
+        "Grocery store",
+        "Toy store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store",
+        "convenience_store",
+        "discount_store",
+        "drugstore",
+        "gift_shop",
+        "grocery_store",
+        "toy_store"
+      ],
+      "address": "865 45th Ave NE, Hilltop, MN 55421",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(612) 263-6419",
+      "website": "https://www.dollargeneral.com/store-directory/mn/hilltop/10799",
+      "description": "Wide array of items at discount prices. Bargain retail chain selling a range of household goods, groceries, beauty products & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Organized and clean!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGP39Ve3W-5GrfzUmD40WM8-o5ZIB76qtSFisaUfdPt2WSE1UNq0gRsznp8ugzjrXBcaURkzv8_OdjrXlhN407cf-tfkmifCmavJIuO6YP5794eMILZwHSSd1cz0BYqxfT2kd-7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RIYbjnicHcdJDoIwAADAF1WKgKCJB3BBjCKCiHoxpLRFWQq0qOkHfYO_0XiZZD7vXIiGTxSlzLUBZYyWuOe4Q6wWuBYDxCqFNhwgDrhiB_6-sN1AGx-xlgDD7YiMq7kOk60FmHHxHHPUimh542lMskAMk2ihxn4Lachl3Vg9lffu5KA0Dgv5sK677Ncy93VoIgIEKaobmVXpY-31u9E5MMyxjrfe5vJcRVGmIgmdc_sih2GRAXP6VCGEIP-LQP0FFLdEIw"
+    },
+    {
+      "position": 16,
+      "title": "Dollar Tree",
+      "place_id": "ChIJ4_JrQBIvs1IRZ3lTRyP3FU4",
+      "data_id": "0x52b32f12406bf2e3:0x4e15f72347537967",
+      "data_cid": "5626675040361871719",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x52b32f12406bf2e3%3A0x4e15f72347537967&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x52b32f12406bf2e3%3A0x4e15f72347537967&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.084752699999996,
+        "longitude": -93.2202992
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4_JrQBIvs1IRZ3lTRyP3FU4",
+      "provider_id": "/g/1hc1_vy27",
+      "rating": 4.2,
+      "reviews": 313,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "2120 Silver Lake Rd NW, New Brighton, MN 55112",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(952) 641-3492",
+      "website": "https://locations.dollartree.com/mn/new-brighton/2120-silver-lake-road?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Wide range of products at bargain prices. Chain offering a mix of household items, beauty products, food & more at discount prices.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Easy to grab deals and huge selections.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmmYNWDTVVrIAN1_AGgWH_TNjWm-A9_GNQOljga6D67mMdmL4Br0dWrSXykYGHl2d55cZTKkI9K5Oa4Q4T3Pv7peUfzXvd-VAA7ZJ0k4iQwufvry5FHwgcqp1HhFXbCi1SsfcGig=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IV9f8nicHcRJDoIwAADAF1WKskQTD1UE3KpEZLsQLFAQCtgiRH_oE_yNiXOY76fo-04sJKkuZhPatrTOniLjpG36rOknpGUS7QQgAggJnbFToQ1jIfYN1_P4FmE5Rhb17djFd58BNI8t7JzqO000Q9PZMWUHZcVh6vNL8KpCy66nqaqSyN1X2_lePSWKo7iz86B32TV_B0MKPIT0aAcrpXTGZz7wl2raIyWPTrYLM7itS_kicmKVdDnKEEJQ_Ceg-QFw6ERy"
+    },
+    {
+      "position": 17,
+      "title": "Family Dollar",
+      "place_id": "ChIJK-polQyaskwRrdBPGvL1TMQ",
+      "data_id": "0x4cb29a0c9568ea2b:0xc44cf5f21a4fd0ad",
+      "data_cid": "14144950949836214445",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a0c9568ea2b%3A0xc44cf5f21a4fd0ad&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a0c9568ea2b%3A0xc44cf5f21a4fd0ad&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6765584,
+        "longitude": -70.36761109999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK-polQyaskwRrdBPGvL1TMQ",
+      "provider_id": "/g/1v7py21p",
+      "rating": 3.8,
+      "reviews": 139,
+      "type": "Dollar store",
+      "types": [
+        "Dollar store"
+      ],
+      "type_id": "dollar_store",
+      "type_ids": [
+        "dollar_store"
+      ],
+      "address": "880 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u201310\u202fPM",
+        "thursday": "9\u202fAM\u201310\u202fPM",
+        "friday": "9\u202fAM\u201310\u202fPM",
+        "saturday": "9\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u201310\u202fPM",
+        "monday": "9\u202fAM\u201310\u202fPM",
+        "tuesday": "9\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 464-4838",
+      "website": "https://locations.familydollar.com/me/westbrook/880-main-st?utm_source=google&utm_medium=organic&utm_campaign=maps",
+      "description": "Bargain retailer for household goods. Discount chain carrying a variety of goods, including groceries, household items & beauty products.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"They carry an array of different products at great prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDH6iH-s0WoPPN4vejwFe1JEL-tFtnaasUJPDLaSM5fdp1CEjcTytpsDdBnYgQJrvCDUt7R3_5UOKz_iqVN_i_8eJ3NqPZQk3H4HRmKAbI7d2yxzSa1iJsl3Ncq-F04gf1cUlV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WLm2I3icHc1LcoIwAADQE0WSBtTpjAvkMxhtDCo4dsPQEAOKCZBUqxf0DL2NnW7e9v0-a2s78-44bY1HUmvZim8jBq6VFcqOuL44sjOAG2Acn9H07EdhMm4SYOBeM0bdqzjdYoFItAI2tqosTUZYuCq3H96x6lAQnfju_leE1VwdZEqGaxBmdrLBhZetl4-i6XNaNMVUEEx79pmeceImm8vS_1pMqrf7z2NbooaYFlPegxi68oh41uazG4IQgvpfDtQLKy9EAw"
+    }
+  ]
+}

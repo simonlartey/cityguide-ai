@@ -1,0 +1,1547 @@
+{
+  "search_metadata": {
+    "id": "6a4e680a31aafedc1ef12d93",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pRdWSSUpS8CnY4ZeJ2t0gg/6a4e680a31aafedc1ef12d93.json",
+    "created_at": "2026-07-08 15:08:58 UTC",
+    "processed_at": "2026-07-08 15:08:58 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/hiking+trails+near+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/pRdWSSUpS8CnY4ZeJ2t0gg/6a4e680a31aafedc1ef12d93.html",
+    "prettify_html_file": "https://serpapi.com/searches/pRdWSSUpS8CnY4ZeJ2t0gg/6a4e680a31aafedc1ef12d93.prettify",
+    "total_time_taken": 0.85
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "hiking trails near Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "hiking trails near Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Fore River Sanctuary",
+      "place_id": "ChIJVdWricmbskwRPCfRPyQ-N3Q",
+      "data_id": "0x4cb29bc989abd555:0x74373e243fd1273c",
+      "data_cid": "8374230357529143100",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bc989abd555%3A0x74373e243fd1273c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bc989abd555%3A0x74373e243fd1273c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.666554,
+        "longitude": -70.3172208
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVdWricmbskwRPCfRPyQ-N3Q",
+      "provider_id": "/g/11gfk18l9j",
+      "rating": 4.7,
+      "reviews": 231,
+      "unclaimed_listing": true,
+      "type": "Hiking area",
+      "types": [
+        "Hiking area",
+        "Tourist attraction"
+      ],
+      "type_id": "hiking_area",
+      "type_ids": [
+        "hiking_area",
+        "tourist_attraction"
+      ],
+      "address": "157-169 Rowe Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 775-2411",
+      "website": "http://trails.org/OUR-TRAILS/FORE-RIVER-SANCTUARY",
+      "description": "Tranquil hiking trail with a waterfall winding through woods, marsh and bridges.",
+      "extensions": [
+        {
+          "activities": [
+            "Hiking",
+            "Loop trail",
+            "Easy trail",
+            "Walking"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "user_review": "\"It\u2019s a lovely hiking area with a waterfall, marshlands, and boardwalks.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkh3ML8utOTKVEORM7RI-KP8_4krkbDZ9Me_ygmzOUH-lcj1fucJfK970BGBnwc98k-ikuiV0qOmkBRiXTV7bKlJOTDwMUW9J1xdPeVqvFYfTsUMWUXninrWwQvZ8rrsG6JuJ_s=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hRjkfXicHcTbboIwAADQL6qUaARMfBhh4sqaMlLA-UJCVy4rFO1F1B_0G_wbE8_DeT46Y0564zhDt1y009QO3Gqu2CQNl2bBptFpTxowDbTzsc9SWopuib99awhNik-SYS_7AknqVyuhRB0dA8yrWzveSb4HA_t3G8tQkwQeDONQzizwBeiF7Qt4JqMIs_5AC69OBkRoNOO8DJB7_Ut5cb7sfhuqc1zmB9lLVc4_l6OvlI7XyKJKb2cXQgi69wzIFzOYRQo"
+    },
+    {
+      "position": 2,
+      "title": "Presumpscot River Preserve",
+      "place_id": "ChIJjUFaPdOEskwRsvs4u1eb50c",
+      "data_id": "0x4cb284d33d5a418d:0x47e79b57bb38fbb2",
+      "data_cid": "5181280697418578866",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb284d33d5a418d%3A0x47e79b57bb38fbb2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb284d33d5a418d%3A0x47e79b57bb38fbb2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7200211,
+        "longitude": -70.2817682
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjUFaPdOEskwRsvs4u1eb50c",
+      "provider_id": "/g/11cnbtwyds",
+      "rating": 4.8,
+      "reviews": 239,
+      "unclaimed_listing": true,
+      "type": "Nature preserve",
+      "types": [
+        "Nature preserve",
+        "Tourist attraction"
+      ],
+      "type_id": "nature_preserve",
+      "type_ids": [
+        "nature_preserve",
+        "tourist_attraction"
+      ],
+      "address": "99 Overset Rd, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 775-2411",
+      "website": "http://trails.org/our-trails/presumpscot-river-preserve/",
+      "description": "Tranquil riverside park with a waterfall, hiking trails, for-leash dogs and open spaces.",
+      "extensions": [
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Gentle, relaxing out-and-back hike with absolutely stunning views.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsqMsCv3lHeCKJwxSBuOljvRJ3BE4cKttndblXQqDs6EJnnhaxzyKWAkGLDNjaFBSk6AxrPmK4zKPzEz9Cprh4uLSxD3yXCGPXJ3RlBFGDsULm-4tg3c0_N19wlCM_FadC7zLF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hC55mHicHcTdCoIwGADQJ1oak8KgC50_4axMC70LW-KwOc1vpu0Fe4beJuhcnO-HK9XDxjAEx4u662pRjVANrJOqkmrButaoe0AMEBjOLk3OuYTnHsgLi11FaDTNmTseRfNKI-z6FqNKyftNFKenBys_kpKXs37T3HmEsXdoysDNHitnHpKWWpom2tc26QdujXE2e_hdkDApIpwKNwg9uMQtslSNmXk9LO1JkP01KO9kreNgOy1N00T8P0PyB9M4RP8"
+    },
+    {
+      "position": 3,
+      "title": "Eastern Promenade Trail",
+      "place_id": "ChIJF-vHdUScskwRnxf18teLrtE",
+      "data_id": "0x4cb29c4475c7eb17:0xd1ae8bd7f2f5179f",
+      "data_cid": "15109167559484970911",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c4475c7eb17%3A0xd1ae8bd7f2f5179f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c4475c7eb17%3A0xd1ae8bd7f2f5179f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6620541,
+        "longitude": -70.2438225
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF-vHdUScskwRnxf18teLrtE",
+      "provider_id": "/g/11hbqv6y47",
+      "rating": 4.7,
+      "reviews": 243,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Eastern Promenade, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "Closed",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 775-2411",
+      "description": "Scenic waterside trail that leads to a beach that\u2019s dog-friendly.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Swings"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Really nice trail, picturesque, peaceful and a lot of benches to relax.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnNEn4HPEZjbJsSMHjBgDNAEVH-UhomNIFF6c52MpW2NlDT1B3p3BEnLq9lhMwYeNmjvgkdrJHoiudeHfn_wefhDzybHVVsTbcKnFQXovC5NHD4L0RtLkP-vdF0aw7xhUkkaRoR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LySQOnicHcRJDoIwAADAF1WquEQTDyCQqtAgIi4XI6W2srRoC6gf9A3-xsQ5zPfDta7VzDBKbvaYlKykjaIPIoWmQveIrAxWK0AUUIaFojDeC-yKIQrdU56u1DZAuc0cbLkJAjsuK7z0vDEZDYJ6P8ClE_dtszZtV_j3acmD7khxlbesyB4rJG9NRtFVnDt65c77laIkUXFK1sLbHGS7GGHkDH0Yab8IQZt58NJNnnxXFJdIRvOuDyEE_D8B4gdAQ0UL"
+    },
+    {
+      "position": 4,
+      "title": "Jewell Falls - Rowe Trailhead",
+      "place_id": "ChIJcXsdZ9KbskwR7RUMgiPLhGI",
+      "data_id": "0x4cb29bd2671d7b71:0x6284cb23820c15ed",
+      "data_cid": "7099022266008868333",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bd2671d7b71%3A0x6284cb23820c15ed&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bd2671d7b71%3A0x6284cb23820c15ed&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6681823,
+        "longitude": -70.32079039999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcXsdZ9KbskwR7RUMgiPLhGI",
+      "provider_id": "/g/11fn2w680d",
+      "rating": 4.6,
+      "reviews": 89,
+      "unclaimed_listing": true,
+      "type": "Hiking area",
+      "types": [
+        "Hiking area"
+      ],
+      "type_id": "hiking_area",
+      "type_ids": [
+        "hiking_area"
+      ],
+      "address": "167 Rowe Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 775-2411",
+      "website": "https://trails.org/our-trails/fore-river-sanctuary/",
+      "description": "Short and long woodland trails with maps of the area, leading to a waterfall.",
+      "extensions": [
+        {
+          "activities": [
+            "Birdwatching",
+            "Hiking",
+            "Easy trail",
+            "Walking"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "user_review": "\"Great hike shaded from heat kids enjoyed it so much fun.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHIPUuGuylsxU5P7QwrZVdkGechN5o_jd4S-ot2To01gdx1wChpDrp2DO07Ye-jLWuF3qGD6-njtN5z7Sygn7nZ47Og15Uov85ulK7rfGSSFyraDzrr9luC0yE8xHYhGzZ334E=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Bv-bUnicHcTbboIwAADQL6oUoasz8cGAFqNRJjIjL4sptQ2rLfYyLj_oN-xvTDwP5_8pnGvtPAikiCZcay6Zt8xQrRxTbkL1PeCtBdQCGyyzY34637NNXnriB2n7EuX4qzPVd_1LGBV7pH-aOi6AdtOThiGv-7BLRJuadpoeIL4w0OzOfh09SPoBVOP2aMTFwBVWVYwPPESl_pshL7fY3EhRrAdzTUdjPqVP4LCa9dlFkLGKoni16EIIIRDvKVAvhm9Ekg"
+    },
+    {
+      "position": 5,
+      "title": "Wolfe's Neck Woods State Park",
+      "place_id": "ChIJ7Ta2ZW6AskwRHMj-Q7B3ZcA",
+      "data_id": "0x4cb2806e65b636ed:0xc06577b043fec81c",
+      "data_cid": "13863618626868660252",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2806e65b636ed%3A0xc06577b043fec81c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2806e65b636ed%3A0xc06577b043fec81c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.8225918,
+        "longitude": -70.08446909999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7Ta2ZW6AskwRHMj-Q7B3ZcA",
+      "provider_id": "/m/0ds74ct",
+      "rating": 4.8,
+      "reviews": 1468,
+      "type": "State park",
+      "types": [
+        "State park",
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "state_park",
+      "type_ids": [
+        "state_park",
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "426 Wolfe's Neck Rd, Freeport, ME 04032",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8:30\u202fPM",
+      "hours": "Open \u00b7 Closes 8:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138:30\u202fPM",
+        "thursday": "9\u202fAM\u20138:30\u202fPM",
+        "friday": "9\u202fAM\u20138:30\u202fPM",
+        "saturday": "9\u202fAM\u20138:30\u202fPM",
+        "sunday": "9\u202fAM\u20138:30\u202fPM",
+        "monday": "9\u202fAM\u20138:30\u202fPM",
+        "tuesday": "9\u202fAM\u20138:30\u202fPM"
+      },
+      "phone": "(207) 865-4465",
+      "website": "http://www.maine.gov/cgi-bin/online/doc/parksearch/search_name.pl?state_park=31&historic_site=&public_reserved_land=&shared_use_trails=&option=search",
+      "description": "Guided nature walks & osprey-watching. Park composed of woodland, estuary & rocky coast, known for guided nature walks & osprey-watching.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Barbecue grill",
+            "Picnic tables",
+            "Public restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Beautiful scenery and hiking trails with a mixture of ocean views and woods.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDvAcvosCILryF6ueiCdGptfV6XZNnOfrtxyiEhgPxhwK89XT_rHQ9PP1PdiGmQkkbYt3ozjiLDI_indFJPJ2A8xUXRFweiA0VxajeuqLfJ5PfWt-6dqqkICJbMqr1F3G9gZlT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/56txmnicHcThEoEwAADgJ5pKp5M7P7ooJYwL8cex1jZlq20pXtAzeBt3vh_f90O1rtXEMCpqD4gQpMKtwhIJrjHXAyQeBqkVQAoow1vsYHqsZk8PPYXyo0S-AqfFzM_DWhcHJzuv-aaQun-xOSWwp91y7GbpRS62LoQWzFn42Jbl7aRt8b6zZBZdGM-DGMZDb9zvs13QYeaZh_56x22TFPEIFkcNnLxpysiPb6tGWoEduuRcpdPOMk0T0P8I8B8ozUZM"
+    },
+    {
+      "position": 6,
+      "title": "Fore River Trail",
+      "place_id": "ChIJQco2S--bskwRfLFA3oHt9qE",
+      "data_id": "0x4cb29bef4b36ca41:0xa1f6ed81de40b17c",
+      "data_cid": "11670776626412564860",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bef4b36ca41%3A0xa1f6ed81de40b17c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bef4b36ca41%3A0xa1f6ed81de40b17c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6573214,
+        "longitude": -70.3024523
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQco2S--bskwRfLFA3oHt9qE",
+      "provider_id": "/g/11bzs2wwsz",
+      "rating": 4,
+      "reviews": 27,
+      "unclaimed_listing": true,
+      "type": "Hiking area",
+      "types": [
+        "Hiking area"
+      ],
+      "type_id": "hiking_area",
+      "type_ids": [
+        "hiking_area"
+      ],
+      "address": "Hobart St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 775-2411",
+      "website": "http://trails.org/our-trails/fore-river-trail/",
+      "extensions": [
+        {
+          "activities": [
+            "Hiking",
+            "Point-to-point trail",
+            "Walking"
+          ]
+        }
+      ],
+      "user_review": "\"The mosquitoes will welcome you enthusiastically.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-h9BjKzXYVAu1aYXUnpYjW4c7UkcT-5ZXkcXZqQB53LNfLojw68XYOwapexiMyEeCG2rQBTOVHS7fFEb59xxp-4qQAzDZMbsJ3Wpu7e3wxRwbJmXYGmRe74zZpKN4EaUJlUdh=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/z4LqiXicHcRdEkJAAADgE20UUs30QEmjXyK73tiWTditZVYu2Bm6TTN9D9_3Q9uWi4WiVFQbFYwVFekEeWHWtKRpR5jVSsEFwAIIxdoG5zCuAJ3b5W6A6Gp14xTBqOGojHVsRg8cAiOBDwyTp28b2v6Y71kppzOITjLlpL8f3g5ZuZOXb4en6_Zi5hsnM-Z9z4H-9K1hnRwy4Wkx70yiyT6QmVdD5NYBMfUh4buj7qSRV0U3upRjVVUB_Y9B8wNUs0Sv"
+    },
+    {
+      "position": 7,
+      "title": "Back Cove Park",
+      "place_id": "ChIJRz9MjXGcskwRcugJLUcr6_E",
+      "data_id": "0x4cb29c718d4c3f47:0xf1eb2b472d09e872",
+      "data_cid": "17432074367365933170",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c718d4c3f47%3A0xf1eb2b472d09e872&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c718d4c3f47%3A0xf1eb2b472d09e872&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.665568,
+        "longitude": -70.26390479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRz9MjXGcskwRcugJLUcr6_E",
+      "provider_id": "/g/1tdm7y1h",
+      "rating": 4.5,
+      "reviews": 169,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Back Cove Trail, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 808-5400",
+      "website": "https://trails.org/our-trails/back-cove-trail/",
+      "description": "Waterfront multiuse trail & green space. Large park featuring a 3.5-mile, waterfront loop trail for jogging & biking, plus open green space.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Bring your partner for an intimate walk and great photos.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm-UBSnbnseOAB2N_UQNz87a5Bi2BM7D9o7bCs5lZ_qO4zbL7gVcpjPuGgXxLKvhk8Frib3uvO-8aIBB4osJ4UTtBOJsIzvAxCaJrnYxWUxyZ8vL-lwSij-P0FSLWdZxiDJ5XqYbQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JtdyWXicHcTdEoFAGADQJ1qFmmLGRcv4SRRJdGPa1WyR3fRtWb2hR_A2ZpyL8_3kUlYw1rQyH_aYEKzMGshqKrjMuOxR8dBYBYgCAs1Z7oND_EARDjnhkPkOHmwv0W7b2VZq4mKAN9ZsJCwyBbNMLk_f6IhnsSOtbkGzYCflrdv8bs_rggyb1kd2usLYEOAa0UFi34VV1zpqmro1P6s4Uu_Ebj1UvsLihgJ9HnrxNVHFzDVPzzPZTV59XddR_p8i_gPAeEVW"
+    },
+    {
+      "position": 8,
+      "title": "Back Cove Trail",
+      "place_id": "ChIJNf0lOnucskwRKlFDks39RWM",
+      "data_id": "0x4cb29c7b3a25fd35:0x6345fdcd9243512a",
+      "data_cid": "7153402642511909162",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c7b3a25fd35%3A0x6345fdcd9243512a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c7b3a25fd35%3A0x6345fdcd9243512a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.671242,
+        "longitude": -70.2587468
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNf0lOnucskwRKlFDks39RWM",
+      "provider_id": "/g/11c59r1tyt",
+      "rating": 4.6,
+      "reviews": 26,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "6\u202fAM\u201310\u202fPM",
+        "friday": "6\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u201310\u202fPM",
+        "sunday": "6\u202fAM\u201310\u202fPM",
+        "monday": "6\u202fAM\u201310\u202fPM",
+        "tuesday": "6\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 775-2411",
+      "website": "https://www.trails.org/trail/back-cove-trail/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Very well maintained trail loop (about 3 miles) around Back Cove.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRnCDpn-mWB8rPk5VYOVQ9VpLetzJEaH3slyXnCox0JQFpWsu-qIwEfT5OXh93Vn6DtnA-MvdHEVKsIHfVm21NgOY9dT6dIxejqG0nXCIIfgpd2qKTC_jOJ1hR33miZeG25_U3dw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eYwfP3icHcRRboIwGADgE1UKDWYs2YNDlKIbSrDgXoyhpZ3C32LrcN7QI-w2Jvsevr-Hcs7YV8_rFJlIrWUnrlZcGg1OgJs0uveksaixyHqztNiU1bmAeG4A9dX7y2VzDtk-Z9uImbVw9yw5psR2vzXE-oaz7cJU9ooGOiZtGea1igiD6dzBDH388DRhK0vTlvWB_ynzfcTLKac3cRqWGOqY0lYaHgyrMj6c8sxXBSH995dYBuFhR_j4NvoYY6T-bxA8AeYPRMo"
+    },
+    {
+      "position": 9,
+      "title": "Capisic Brook Trail",
+      "place_id": "ChIJ7VO3o8CbskwRAj-VCRSK200",
+      "data_id": "0x4cb29bc0a3b753ed:0x4ddb8a1409953f02",
+      "data_cid": "5610229579484839682",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bc0a3b753ed%3A0x4ddb8a1409953f02&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bc0a3b753ed%3A0x4ddb8a1409953f02&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.666877,
+        "longitude": -70.3069484
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7VO3o8CbskwRAj-VCRSK200",
+      "provider_id": "/g/11f3xjzrtm",
+      "rating": 4.6,
+      "reviews": 25,
+      "unclaimed_listing": true,
+      "type": "Hiking area",
+      "types": [
+        "Hiking area"
+      ],
+      "type_id": "hiking_area",
+      "type_ids": [
+        "hiking_area"
+      ],
+      "address": "Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 775-2411",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Birdwatching",
+            "Hiking",
+            "Jogging",
+            "Point-to-point trail",
+            "Easy trail",
+            "Walking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "user_review": "\"It was absolutely beautiful to walk along!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmX9f2BeDJiwsRT1kzOGtXKkdBjXh-RvHiwDYPcuz_jQQCuqi_gjlOLon1mXMX_edMO15P_piAO5oeSOKFREm9oyd3cNEy7zrqliYSwF_oVA5S_Dqy3qGmVpOTbs7CMeHZV4YVC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JHmXbXicHcRRCoIwAADQEy01kyjow9SSymYqNvsZNJfOnNM2E71gZ-g2Qe_jfT-lUq1ca1pdmrNCiKKmvaQvIhpFGzUjgmtFKwGRQGq2H4XJlaPVY76l7oENMkqM5wT3Ch2f-bZCJYjePhvcLCT9hKvLxek7houqhifRGBwFCNM8gIYV4pbZ0BI0hsdd5PGVGHOTnL1xOb26mmXxsMMita0Yu91odnuetjC5y6UTUP-WLrLU2QyGruug_E9A8wPrHkX7"
+    },
+    {
+      "position": 10,
+      "title": "Western Promenade",
+      "place_id": "ChIJQ5iZmAScskwRFOtZ9g53rG0",
+      "data_id": "0x4cb29c0498999843:0x6dac770ef659eb14",
+      "data_cid": "7902822352274713364",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0498999843%3A0x6dac770ef659eb14&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0498999843%3A0x6dac770ef659eb14&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6484005,
+        "longitude": -70.27594739999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ5iZmAScskwRFOtZ9g53rG0",
+      "provider_id": "/m/0g9z10r",
+      "rating": 4.7,
+      "reviews": 604,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "Valley St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u20139\u202fPM",
+        "saturday": "7\u202fAM\u20139\u202fPM",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 808-5400",
+      "website": "https://www.portlandmaine.gov/1303/5957/Western-Promenade",
+      "description": "Elevated park with trails & scenic views. 18.1-acre park featuring scenic trails around bluffs, plus statues & stately 19th-century homes.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Scenic views and lots of free parking.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmWTmNoxjo1jGByRaVS-lPzOKo0UwajznaHw70ILCKjT9VIhiBo9razDBTIHCJZOPdeOBq0z8-O6pjevtQp968KpDeJ7qGbp2qreLV8JKn41MB8vgyF7OhiR_ULUPn9jNQoZbL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5J8UDnicHcRNjoIwGADQE1WKYwRMXEw1yp8WETBxYxAbagP9Cq2iXHDO4G0m8S3e548bo_TCshr-M6kB6oY9NOsrkIZJM6mgtWqlUaWRtn79NMlObXvK2j28BNhiS95pWRxRk4w0ApwPpRhl6Q8ODuJVJDKvCPidgNeX45pkgb8KzzS5MUo6PLqIzpVgT3NQ3tyN1JqFTre9qmnXs7hww0jO7B1xn_V741B-Ty95nCfSE_sDnK_xcrAxxoh_r5D8B4oARJw"
+    },
+    {
+      "position": 11,
+      "title": "Cascade Falls Trail",
+      "place_id": "ChIJZzXWb6WjskwRiM2I4bXUdN4",
+      "data_id": "0x4cb2a3a56fd63567:0xde74d4b5e188cd88",
+      "data_cid": "16029670851356446088",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a3a56fd63567%3A0xde74d4b5e188cd88&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a3a56fd63567%3A0xde74d4b5e188cd88&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.542846499999996,
+        "longitude": -70.4074026
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZzXWb6WjskwRiM2I4bXUdN4",
+      "provider_id": "/g/11g8ctpkq2",
+      "rating": 4.7,
+      "reviews": 173,
+      "unclaimed_listing": true,
+      "type": "Hiking area",
+      "types": [
+        "Hiking area"
+      ],
+      "type_id": "hiking_area",
+      "type_ids": [
+        "hiking_area"
+      ],
+      "address": "Cascade Rd, Saco, ME 04072",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "website": "http://sacobaytrails.org/trails/cascadefalls",
+      "description": "Little wooded attraction featuring the titular falls plus trails and a fairy village.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking",
+            "Loop trail",
+            "Easy trail",
+            "Walking"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "user_review": "\"Nice wooded short trails leading to a waterfall.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktx-nB919Y0R_ErLnImOMOFdwa5n9BD-TIG5nUe_I16Zdcq-evdAsVXRWkl7fyKTpOHg8SnptgWplE7264w67ro0WgAuLagMwGfgDN8xkmxRAwMihUC1Da1ly_78g1OrBPXCg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4JkKgHicHcTdboIwGADQJ6q0Ovkx8QLEKVGGQRzqDSGlfiyUttJq8QV9h73Nkp2L8_tujVF64Ti8nU1ASuDsodlApTBMmAmVvQNKI6qRdsJtfijKzoxIRAEJLjiv1sNeJH2WZp-NreciiGJUJJu5OLEqIe61oXfEnk2ov8952XHv9toVKtuCfxTKQKn42pu6H9b1BolLCB_7GlK7uUH85Y9dP-ahTX_a04rENeGvyvOBZEN0OK9gaQnGGLX_UyT-ANYTQ78"
+    },
+    {
+      "position": 12,
+      "title": "Portland Head light Cliff Walk",
+      "place_id": "ChIJebJsyq-fskwRROKoZFHgjS4",
+      "data_id": "0x4cb29fafca6cb279:0x2e8de05164a8e244",
+      "data_cid": "3354583937646649924",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29fafca6cb279%3A0x2e8de05164a8e244&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29fafca6cb279%3A0x2e8de05164a8e244&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6234902,
+        "longitude": -70.2090338
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJebJsyq-fskwRROKoZFHgjS4",
+      "provider_id": "/g/11s5sd5p68",
+      "rating": 4.6,
+      "reviews": 22,
+      "unclaimed_listing": true,
+      "type": "Hiking area",
+      "types": [
+        "Hiking area"
+      ],
+      "type_id": "hiking_area",
+      "type_ids": [
+        "hiking_area"
+      ],
+      "address": "12 Captain Strout Cir, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "extensions": [
+        {
+          "activities": [
+            "Hiking",
+            "Point-to-point trail",
+            "Easy trail",
+            "Walking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "user_review": "\"I walked the entire Trail and it is in good shape!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnN2Po0F56lom-Jqjo8okuJ-eL-ma3i3e_WAp_H482p2MoWU9K6bx12CRgqzfEg7Fo6Xwd30hVG7XjqboEElXWLoOgapKXC3Tw8lFTV4vpEm2aksfZE2JfkTGnBPQIkmTpCf08_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vAKJXXicHcRRboIwGADgE1Vqq4gmPjhSdOgUTSfEF4KslEnbv1gU4wU9g7dZsu_he7_qrrNu5nmqpgMJIJW4OXEtwXTCdIMStCetQ6VDzlusDglPzZYkgKOxr0CjuL1AAM0tRmKDdEF_qcjThc1Xo4BY8gXp93Ttnx9DEh5k-6yYnETgZ_0PxfVxOcku7RkYU1m6gZ0s7DoLKe8DFfHj6G6ZJkXjqhMjcdXwpflI9p-N5jascJDP-yHGGNX_l8j8Aeu7Q54"
+    },
+    {
+      "position": 13,
+      "title": "Brook Trail",
+      "place_id": "ChIJ2RSZGICcskwRmLWbByLeNn8",
+      "data_id": "0x4cb29c80189914d9:0x7f36de22079bb598",
+      "data_cid": "9166758329297122712",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c80189914d9%3A0x7f36de22079bb598&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c80189914d9%3A0x7f36de22079bb598&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6796959,
+        "longitude": -70.26489049999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2RSZGICcskwRmLWbByLeNn8",
+      "provider_id": "/g/11dxqbjz0j",
+      "rating": 4.7,
+      "reviews": 28,
+      "unclaimed_listing": true,
+      "type": "Nature preserve",
+      "types": [
+        "Nature preserve"
+      ],
+      "type_id": "nature_preserve",
+      "type_ids": [
+        "nature_preserve"
+      ],
+      "address": "814-832 Baxter Blvd, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 844-0114",
+      "extensions": [
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Water view, unpaved wide trail and small parking lot behind Payson Park\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm70u_PrKrw-9Why7Eun11tOrmSFzrC3madBNa6QtlTrTg9EMLrf4xme116zQtMjS6CwQ00eQtH0s50AN4Vpm3Ig5SsaoJo1pQ2O6_O24iTsEUwbA_2OqUC1e5VX9r2a32qOU0b8Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bZfLsHicHcTbboIwGADgJ6r8LQfHEi8YYVE3KZXT7giyrmgoxbaE6Rv6CHsbk30X39-jt3Yyr44z9O5KKCUGPhuuOzVaPtpVp6QjJoM6g4wTbY9ZUcs1zE2mP_SCwrq_rZN5xNhSLfP3u45d2X6_pW3A7FDoQoTJ4VP_eL-SYxzcmT1c8iBeGABndgvGhyj1qkm6O-HnplV7hSdGaNBQ4p0Lk5TLKWoIvZYx5n71FWrSuuRKSzi9sM2CAQD1_3dofAKsXUOf"
+    },
+    {
+      "position": 14,
+      "title": "Bayside Trail",
+      "place_id": "ChIJtSlBxnycskwR_QCZuxWLCsM",
+      "data_id": "0x4cb29c7cc64129b5:0xc30a8b15bb9900fd",
+      "data_cid": "14054198512620994813",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c7cc64129b5%3A0xc30a8b15bb9900fd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c7cc64129b5%3A0xc30a8b15bb9900fd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6739032,
+        "longitude": -70.2571032
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtSlBxnycskwR_QCZuxWLCsM",
+      "provider_id": "/g/11j0bkhh3y",
+      "rating": 4.6,
+      "reviews": 81,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "I-295, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 775-2411",
+      "website": "http://trails.org/our-trails/bayside-trail/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Very nice, flat and safe path.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOl9dsuGxy3iuYQzcdqE9-C0V2xLQBtuZCe3B3jwl8rQKKVPu_C8BCJylHmYxGAMt85Kl0dQVsBfvutx6WFRg_AnGS0TG7IXHWTdSpjYRDykyZrmwWLo6RqScBR2Uh_TODP6_Zhw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YRDWoXicHcRBjoIwAADAF1WqRMRN9kBRQXEjFAThwqEgVUuLtF3AH_qE_c0mzmH-3lSpTn4ZBqPmrBGiYbWWdU8EVzVXMyJao-kkIBJIw_FxmGT8xNaV1N44mTedRy9SPbdr4MJ0MR4jpHTh1iYy7wOz-ygI0lCXro3cw8T8Nh8950fZy4DBKkoluv5qNVrZDjelw70YJt5qf_GzpIq7e44302Mq-nbIjsLCz5ggvDjTMjltQqss6PA9zCGEgH4mgP8DIM5F5w"
+    },
+    {
+      "position": 15,
+      "title": "Bradbury Mountain State Park",
+      "place_id": "ChIJhaROUul8skwRLBc0gtCK7KE",
+      "data_id": "0x4cb27ce9524ea485:0xa1ec8ad08234172c",
+      "data_cid": "11667853362752395052",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb27ce9524ea485%3A0xa1ec8ad08234172c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb27ce9524ea485%3A0xa1ec8ad08234172c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.8992268,
+        "longitude": -70.1791503
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhaROUul8skwRLBc0gtCK7KE",
+      "provider_id": "/m/0661qwh",
+      "rating": 4.7,
+      "reviews": 1336,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "528 Hallowell Rd, Pownal, ME 04069",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 688-4712",
+      "website": "https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=12",
+      "description": "Small mountain with mixed-use trails. Small, glacial mountain with camping, plus trails shared by hikers, horses, bikes & snowmobiles.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Barbecue grill",
+            "Picnic tables",
+            "Public restroom",
+            "Slides",
+            "Swings"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The trails are groomed nicely, well marked, and easy to follow.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm3gJQRdj5Wc1OxZJ9Quo_wZOI6Os9PUIqb9Gtyms-ZAMpRk06Ozk-hL4GlSdTGifZ_qS6pWvD_KDzsXNt49DjRHslc0x9rcC4b6cIgxjfgWWFV7LA7ZVu5oYfARM57Q1V2onM4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bBVi63icHcTdboIwGADQJ6qUyU-6ZBdEIuBkSFWqvSGxQBkCRb-i6Av6DHubJZ6L8_eqtR7g0zDaej6TSsm2HKG8CtXrstczoTpDDoAEIDC8kG52rJvLVUqLxmbCTCa-Iumo8jtPIicBstlHlxMJ9KMDxL14oGfsJM8zqtdW0G6LXfBb8fyydQZ28_Nv_wmHH20Rv6EhtAJP5CoW1skRkZyaSjK2zNy15_JstNWx8mhsu6mZfag-tr7uJsYY1e8F6v8BVG1ECw"
+    },
+    {
+      "position": 16,
+      "title": "Mackworth Island State Park",
+      "place_id": "ChIJe_hWqZWcskwRITCxpiE24ms",
+      "data_id": "0x4cb29c95a956f87b:0x6be23621a6b13021",
+      "data_cid": "7773835424953348129",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c95a956f87b%3A0x6be23621a6b13021&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c95a956f87b%3A0x6be23621a6b13021&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.689746899999996,
+        "longitude": -70.2347149
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe_hWqZWcskwRITCxpiE24ms",
+      "provider_id": "/g/11c0xzgmwy",
+      "rating": 4.8,
+      "reviews": 525,
+      "unclaimed_listing": true,
+      "type": "State park",
+      "types": [
+        "State park",
+        "Tourist attraction"
+      ],
+      "type_id": "state_park",
+      "type_ids": [
+        "state_park",
+        "tourist_attraction"
+      ],
+      "address": "Andrews Avenue off, US-1, Falmouth, ME 04105",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 781-6279",
+      "website": "http://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=57",
+      "description": "Island refuge with trails & seabirds. Tranquil haven with rocky beaches & shorebirds, plus a round-the-island trail & views of Casco Bay.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Picnic tables",
+            "Public restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Great hike trails, beach front, very quiet, peaceful\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnM2fUWkS2Fk1nWHoA66rSVCBqLjep6k2kLFLUyRINcnrmLpM572rhNd5sH21JXNf2IPF-4DRIzH86X6T6cKO4E6K61EqA6ej3CVGXteIs4K6NJRONTU5-_1kHeXhJs197QMC6Oug=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uZJmXXicHcRNcoIwGADQE0VIhM-2M11QFMNfsAjCzkWMZIwmSOJ09IYeobdxxrd4_0_p3Gi_PO8s57PBmOEsblZM3GgntJtxc_GG0SJukfUiWm-aTpfk2HZqSxKFdUdNBDBtd_HPtTiJERRRRVK09zplXE-XYizDBZkkO4SWEpz17EjSTYKCZZ0-6Af00ADPq2AFOeDVNQJxmse7de9EaoMcWFZXrGlDtMeKil5mFn8ufssYqtvw_Yd930fyPUf6BefVQZU"
+    },
+    {
+      "position": 17,
+      "title": "Oat Nuts Park Trail",
+      "place_id": "ChIJhfNRqy-bskwR_olZ39rQW1s",
+      "data_id": "0x4cb29b2fab51f385:0x5b5bd0dadf5989fe",
+      "data_cid": "6583084918800747006",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b2fab51f385%3A0x5b5bd0dadf5989fe&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b2fab51f385%3A0x5b5bd0dadf5989fe&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.712769699999996,
+        "longitude": -70.2852
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhfNRqy-bskwR_olZ39rQW1s",
+      "provider_id": "/g/1tkv9cb0",
+      "rating": 4.7,
+      "reviews": 83,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "189 Summit St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 775-2411",
+      "website": "http://trails.org/our-trails/oat-nuts-park-trail/",
+      "description": "Park featuring hiking and cycling trails plus views of the Presumpscot River.",
+      "extensions": [
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Lovely walking trails that lead to the Presumpscot River.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlbLOVAviUVWghIe3xW7Nf1YwgybXd86v500JdQRSFUoXmwUp9Xi2feT8SJ1TF8MZmvAcjZW24gpIW8FUXnaXMtY5LDoZ18H0Ujb3ix7WD_nFMfMnjcwU7I0UjIlIvmHoaE-mU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jxJ6qHicHcjNboIwAADgJ6oUGVJNdiBxhBrxl9rKZZFSCoS2xFZwL7h32NtodvkO399v49xgV57XN8FMGiN78bDizo12QrsZN8qTgwXcAuvF6emQ077c7i_x2JILlQ0WwZNGu9q_TvKnZBVajCGEm-p4OifEMDWRYcnaeS1ydN74eYKyQo0x7wo6_5ADpighTN9Y5q7hdm0KH6WQdGXQPiO6_tZJVme64xOJ8Ltxj0eVmtsXUORz8iGEoPmXA_0C7vFDrg"
+    },
+    {
+      "position": 18,
+      "title": "Mayor Baxter Woods",
+      "place_id": "ChIJ-YRlHpmbskwR6BqgfFPD99g",
+      "data_id": "0x4cb29b991e6584f9:0xd8f7c3537ca01ae8",
+      "data_cid": "15634179394780535528",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b991e6584f9%3A0xd8f7c3537ca01ae8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b991e6584f9%3A0xd8f7c3537ca01ae8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6766291,
+        "longitude": -70.29036409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-YRlHpmbskwR6BqgfFPD99g",
+      "provider_id": "/m/03gxc07",
+      "rating": 4.6,
+      "reviews": 210,
+      "unclaimed_listing": true,
+      "type": "Park",
+      "types": [
+        "Park",
+        "Tourist attraction"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park",
+        "tourist_attraction"
+      ],
+      "address": "555 Stevens Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u201310\u202fPM",
+        "thursday": "6:30\u202fAM\u201310\u202fPM",
+        "friday": "6:30\u202fAM\u201310\u202fPM",
+        "saturday": "6:30\u202fAM\u201310\u202fPM",
+        "sunday": "6:30\u202fAM\u201310\u202fPM",
+        "monday": "6:30\u202fAM\u201310\u202fPM",
+        "tuesday": "6:30\u202fAM\u201310\u202fPM"
+      },
+      "website": "http://trails.org/our-trails/baxter-woods/",
+      "description": "Leafy nature preserve with walking paths. Pine forested, dog-friendly park offering shaded trails for walking, running & cycling.",
+      "extensions": [
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Great, well maintained paths..\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmo5YkOUjwxb5PyLykyVvL07G5c3GCKpgdNEFweqgSbAXxmlbVKNaADxqriXEjpcy06AFDqYuWFRpzSELZ_EPLbtzacm7S44fhmLBQKbpEMOqUvGHIf0oITEAG1sbioqwg9SpvJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OBD9H3icHcRLEsEwAADQE1VjqgwzFkFaNCj13xiJSmnTJBL9XdAZ3MaMt3jfT2KM1APbzhKnxYRgWfzW8YuK3MS5aVHBbSa1RbWlbTjdhNsDF-4pXe2eZUXcsMZ1Wu8LDHq-Sx1_HEh2WyKvjBWLCDxWPCP7YHmFk0q9Hkf0lLQGXehN1Ol98DayiRA-X1CIiWmulPeiTueecDxaB0SixUrtCn86uwMx2yLotzV5CFWyfiSL-bBsAwCs5D-18h_p9kYQ"
+    },
+    {
+      "position": 19,
+      "title": "Two Lights State Park",
+      "place_id": "ChIJMWoDzXBgrUwRsoO3ss7gGmU",
+      "data_id": "0x4cad6070cd036a31:0x651ae0ceb2b783b2",
+      "data_cid": "7285382525591454642",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cad6070cd036a31%3A0x651ae0ceb2b783b2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cad6070cd036a31%3A0x651ae0ceb2b783b2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5596889,
+        "longitude": -70.2044583
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMWoDzXBgrUwRsoO3ss7gGmU",
+      "provider_id": "/m/0479j_f",
+      "rating": 4.7,
+      "reviews": 1593,
+      "type": "State park",
+      "types": [
+        "State park"
+      ],
+      "type_id": "state_park",
+      "type_ids": [
+        "state_park"
+      ],
+      "address": "7 Tower Dr, Cape Elizabeth, ME 04107",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20137\u202fPM",
+        "sunday": "9\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 799-5871",
+      "website": "http://www.maine.gov/cgi-bin/online/doc/parksearch/search_name.pl?state_park=28&historic_site=&public_reserved_land=&shared_use_trails=&option=search",
+      "description": "Coastal park with scenic views & trails. 41-acre oceanfront park offers twin lighthouses, shoreline trails & scenic views amid a rocky coast.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Picnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "amenities": [
+            "Barbecue grill",
+            "Picnic tables",
+            "Public restroom",
+            "Swings"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"... shoreline and a well-maintained system of trails & paths.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBZUEqvD9PVajVfsozgdCr0GiGty4nVlLca4VRFaq470hhK-0xxNB-alI5gv5u0Sy6aSLzoxH_d3y-cLvp0CCdwMsPBfmFVvpFHyCQNuO5BNDeWx_Scm31rnB80V09FYKb-I79=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6H8JT3icHcRBjoIwFADQE1W-AVQmcTFFESMiI1qjG1MLthpokRYEL-gZ5jYmvsX7fwtjKv1jWYWwB1wpXuSNzmumpMmlGTBVWrzSiGmkrd9wm-wOEp_280c78xJC7-Sq1Ytnfg2L28L0jiRFxKhDtgF9OGMQYoWg62KMaLF0ees2kPYjmkYv1YXnzO4Ri9oKfD97rnWCr2VA2ioIe_8vbjYujmf5oTunrLSHtcQTIOAFx9UFLcfe9DkEACS-MyQ_fbNECg"
+    },
+    {
+      "position": 20,
+      "title": "The Eastern Trail",
+      "place_id": "ChIJoyG2-TuiskwRFvdtkdAJaHk",
+      "data_id": "0x4cb2a23bf9b621a3:0x796809d0916df716",
+      "data_cid": "8748253067564939030",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a23bf9b621a3%3A0x796809d0916df716&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a23bf9b621a3%3A0x796809d0916df716&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5848386,
+        "longitude": -70.3333871
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoyG2-TuiskwRFvdtkdAJaHk",
+      "provider_id": "/g/11btxgg1vh",
+      "rating": 4.7,
+      "reviews": 200,
+      "unclaimed_listing": true,
+      "type": "Hiking area",
+      "types": [
+        "Hiking area",
+        "Tourist attraction"
+      ],
+      "type_id": "hiking_area",
+      "type_ids": [
+        "hiking_area",
+        "tourist_attraction"
+      ],
+      "address": "Saco, ME 04072",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 284-9260",
+      "website": "http://www.easterntrail.org/",
+      "description": "Flat, graveled former rail track with scenic views of the Scarborough Marsh, a wildlife refuge known for birds.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "activities": [
+            "Biking",
+            "Birdwatching",
+            "Hiking",
+            "Jogging",
+            "Point-to-point trail",
+            "Easy trail",
+            "Walking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "user_review": "\"Beautiful length of the eastern trail.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmneglehhv-inAsDor58XUbkB9bkRErB7vSyLIXxof0ZoUZCZdA9PHvKfq8yUlv1awHX4JHM-a6aOf2U6EyUI8dEjrks6muLhlVYk68UijDS1jqD3fw_EZ8Bh2zRturhZuku0VM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YEp1yHicHcrNToMwAADgJyoUUCxLPMAgYbplC9jJejHAgEKh3foD4gv6DL6Nxst3-n6-qdY3tbHtkXpWJ0Q3NkY1shZcN1xbtZjs7qZArYCywzQ7vb1PvPlLlM6g56GKhXxEBa5YFFQsS2T0NOfrfld8ihYSgcmWXMPglM6v7R2teJydckmLh5f0AEq_PLYu9pMV79A1GSRT_mT2dDxfmI9wP8S5M9xjr10-EoIi6n5l2khKDDPwfHheHAghoP_WgP8Cx_VFqw"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=hiking+trails+near+Portland%2C+ME&start=20&type=search"
+  }
+}

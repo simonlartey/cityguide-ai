@@ -1,0 +1,1172 @@
+{
+  "search_metadata": {
+    "id": "6a4e67e4b9dbc45d7f1c1713",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TJzLyA5j9tq_fNKwiirNhg/6a4e67e4b9dbc45d7f1c1713.json",
+    "created_at": "2026-07-08 15:08:20 UTC",
+    "processed_at": "2026-07-08 15:08:20 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/coworking+spaces+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/TJzLyA5j9tq_fNKwiirNhg/6a4e67e4b9dbc45d7f1c1713.html",
+    "prettify_html_file": "https://serpapi.com/searches/TJzLyA5j9tq_fNKwiirNhg/6a4e67e4b9dbc45d7f1c1713.prettify",
+    "total_time_taken": 0.93
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "coworking spaces in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "coworking spaces in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Cloudport CoWorking MultiSpace",
+      "place_id": "ChIJXxjSAGqcskwRyS1XLvVYd94",
+      "data_id": "0x4cb29c6a00d2185f:0xde7758f52e572dc9",
+      "data_cid": "16030379208716266953",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a00d2185f%3A0xde7758f52e572dc9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a00d2185f%3A0xde7758f52e572dc9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.661699,
+        "longitude": -70.25118599999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXxjSAGqcskwRyS1XLvVYd94",
+      "provider_id": "/g/11c1q7_m5j",
+      "rating": 4.9,
+      "reviews": 160,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "63 Federal St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 400-2560",
+      "website": "https://cloudportme.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Great CoWorking space, friendly staff, good amenities.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5KJWBE8XqS-bid7PxrPwIR8xlxHxFt73psvVlQpcINXYeNvrVJjetXRiie3mBro6NVa2jKjuhhLj7nMJZ2eweB-gEj7wpkhON3VtL9OpnDI2oyUnF1VJeMU_LMcvbapuAbGo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CtCJsXicHcRRboIwGADgE1UQMtEle4AMHAgVXaxsLwbqH0rFtqOFsgvuDt5mid_D9_hjxij96jg98xetlG0Po4aBSmFAmAWVd6dVGlGNtBOW-HALk5dddo7idfXziZruGpTzUNr0uJ77-WNOTOArPZH-oGiKqy_A00AyDqY6dh3492iQK0xqj-_4yFjOA1Fk3x5YiFAb88CqG9tjn5h8s1fiPfXk70kkS5JBcbrkBZ2aWo1hs5Vvdum6LmLPKRL_dwBFnw"
+    },
+    {
+      "position": 2,
+      "title": "Think Tank Coworking",
+      "place_id": "ChIJmQSW0mqcskwRrSJ9jGT67s4",
+      "data_id": "0x4cb29c6ad2960499:0xceeefa648c7d22ad",
+      "data_cid": "14911130726030975661",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6ad2960499%3A0xceeefa648c7d22ad&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6ad2960499%3A0xceeefa648c7d22ad&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656016,
+        "longitude": -70.2613856
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmQSW0mqcskwRrSJ9jGT67s4",
+      "provider_id": "/g/1tksmzbv",
+      "rating": 4.7,
+      "reviews": 48,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space",
+        "Event venue"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space",
+        "event_venue"
+      ],
+      "address": "533 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 994-5661",
+      "website": "http://www.thinktankcoworking.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "user_review": "\"They had Private seating with fast, reliable, and secure WiFi.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2hXrdWo3kPmGvrYVJLJZXvjRaQimsNIotA_UgGimhRhOw2ppEdsK5X0wQUI8_MJBwDCxJgVDCCb1h3Wzmv3TX_FinKFRM_l8_h87yUBT2ACHRZZ3h_rhdPlRCLukJ0ZE8de3pBg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XRwlsnicHcTdboIwGADQJ0IqjZEs2QVUBevPoBFFbhoHpB-D0oZW0L3hHmFvY-K5OP9_YK02H67bAZ4JpURX3009lKq3dW9npZKu0MYpjWPcIDmmbRB7kA_VReE2kdE4XM90T4t8_GG3tJHmuFU24JmIGgkMviZP63VldoscTWm29fmBhtOKPKg4rwj5ngO-_MoRn3K-afrdhh1453Pwl88sPHkBiVlRYOADVEnHyP7eUlSs_arGOhSf0xwh5MD70ulfP-9FiQ"
+    },
+    {
+      "position": 3,
+      "title": "coworkHERS",
+      "place_id": "ChIJt5hnMWucskwRTUtfxpBRzIU",
+      "data_id": "0x4cb29c6b316798b7:0x85cc5190c65f4b4d",
+      "data_cid": "9641170584538663757",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b316798b7%3A0x85cc5190c65f4b4d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b316798b7%3A0x85cc5190c65f4b4d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6587789,
+        "longitude": -70.2576303
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt5hnMWucskwRTUtfxpBRzIU",
+      "provider_id": "/g/11gdv44t2l",
+      "rating": 4.9,
+      "reviews": 18,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space",
+        "Conference center",
+        "Event venue",
+        "Social club",
+        "Wellness center"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space",
+        "conference_center",
+        "event_venue",
+        "social_club",
+        "wellness_center"
+      ],
+      "address": "411 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 536-1184",
+      "website": "http://www.coworkhers.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "user_review": "\"Easy to book and such a great space to meet!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQuJ830DR0AOkaZvIyvvRUKwz-ebq2Cjt3_hqHChL_3lA9tCaLlSbmnnz7Q7v-ZgPYPoY2lcOHEKuNGn0ajah4N1Q7otDkooGE9NzeqLKumG5R3FCaUXD1JQFJDgr2rBwHbL12=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Y3t5x3icHcTRqoIwAADQL1pOV1jBfTAtTcWcEVQvMcfYyLmlm8r1B_uG_iboPJzPW1j7MlvHkQItuNZcssGwnmplmbILqluHvwygBhgnKAvcBAke0jWCUQWDU0Pu4_F_HKtLNs2A1Z0XPi16iC4JRf5AMtjYkOTyXLdKzT72R3Dn5a3UN0_SU7LPhiJWkDyJWBYu9rWNGq3j_aaYWZdnQxuvKnQIyeUauSk-pBHvvX43JXXuen-TCyEE4jcF6gtCrkPU"
+    },
+    {
+      "position": 4,
+      "title": "Cloudport CoWorking",
+      "place_id": "ChIJe-rIRqGdskwRIAiqIDcb5xc",
+      "data_id": "0x4cb29da146c8ea7b:0x17e71b3720aa0820",
+      "data_cid": "1722375306077669408",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29da146c8ea7b%3A0x17e71b3720aa0820&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29da146c8ea7b%3A0x17e71b3720aa0820&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.660747799999996,
+        "longitude": -70.2488401
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe-rIRqGdskwRIAiqIDcb5xc",
+      "provider_id": "/g/11w43ptlc8",
+      "rating": 5,
+      "reviews": 14,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "16 Middle St 2nd Floor, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 400-2560",
+      "website": "https://www.cloudportme.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Friendly people and great spaces.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWFYCAk-1iW7d38OKeT_eq4tjbPOvzeNO-wr5k3L9A4-89b4pllL4HT0GOGDM0GwmxUNHwyS35GJXgqUcIJXP2Mk6IA_vE69HYywhgWWyMm6xu1_E74by-PvOS8XI2CzXqp48jtQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lCiRaHicHcRdDoIgAADgE6GYaNrWAytTK8VWTXtykxiW_0GS3bAjdJu2vofv-yml7MVC1-vS1HjX8Zo9BXvQrpWslRrtGp33AlABhI6T-FBhL91cVrgCxi2dX02H7NgpZwOS9yIh45vFBKiHVZl7FyPguAXq63qPghP0ib-OoK-a1zkO1HQ0LX-b8eFMw22WzKLKDnE-erYbXCZV8jSdosZ-PY3cm6NiAslIjk4WzlbvbOiRc5eHpTIghKD8T0H7Ax7gQ1g"
+    },
+    {
+      "position": 5,
+      "title": "SoPoCo.Works",
+      "place_id": "ChIJSQGT1rWeskwR72lyFik8EjI",
+      "data_id": "0x4cb29eb5d6930149:0x32123c29167269ef",
+      "data_cid": "3608012398645111279",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29eb5d6930149%3A0x32123c29167269ef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29eb5d6930149%3A0x32123c29167269ef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6295159,
+        "longitude": -70.2947294
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSQGT1rWeskwR72lyFik8EjI",
+      "provider_id": "/g/11f3zv_wdj",
+      "rating": 5,
+      "reviews": 12,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "1486 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "website": "http://sopoco.works/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Fantastic workspace, clean, modern and well designed.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4fSTscsVHqJsSXzMkT8kbgsvF2G9UXLqNwvRvKDaoDsRE8Z2VoJXJuywWisc27SUeMu2HFODPEfJP9swRJpsIVvQRnrRV6n1vAOuAY6ujS5MO6Pj9Rw9CsY67O8YwYxhn6VEpHA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kZ97s3icHcRbUoMwFADQFVEotQGc6UdGXqZSaGhT8E8zPCw0gV6SqDt0Ce7GGc_H-f3pl2WCR9se-82qk7IbGwXNnUuxNGJZcXmzuwksDhbYuDgcB5w8tOUJOLB0JlBW39lw8of3DnTsJsG5epkPRlO9D99kCDTyX10mSUXUl7l8AHe98txkyk3jPCyilhQBGEomeGb6SMWdMiTWGucK10hdy22Wo-IaUBM8QY283K9N_dkLxKIpxTuzdhzH6v_nlvgDOo5FnQ"
+    },
+    {
+      "position": 6,
+      "title": "CoLab Coworking",
+      "place_id": "ChIJSXvmzgSbskwRxwR0JeCRR7I",
+      "data_id": "0x4cb29b04cee67b49:0xb24791e0257404c7",
+      "data_cid": "12846396853984691399",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b04cee67b49%3A0xb24791e0257404c7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b04cee67b49%3A0xb24791e0257404c7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6790421,
+        "longitude": -70.3684356
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSXvmzgSbskwRxwR0JeCRR7I",
+      "provider_id": "/g/11mz879tf2",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "90 Bridge St Ste 3149, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "website": "https://colabcowork.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Love working at CoLab in the mill!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFib2KPeqbqSKYuOzcfDS4t0XLjmsKTLP37DsoTrxa68oq0UHgEM16puojyRDrtjnhSeIro3m7wT77xjxfb6qz7QsUGTyW4Hd9rcUT65rHc72FjavglkPlorWAI20MonFpy6Z3vZ_AwEsGa=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xpVSXHicHcTBboIwGADgJ0IquHaa7ECCiEE3HCVuXhboalmF_tAWAV_Ss29jsu_wPe6Vta1ZuW5d-TMBIGreG64ZKMuVnTFoXNEahxnHuEH6frgE0V_pJSnvyi5LvvuPGzuH2cKir51sTEJ3qU9CA1SPBX6FDuWxWO_nuO1BTp-htlJVGd9q8BsyUEJGOZ5L3N3IweQbOh0X8e9Ss5ziFx0z4kWyuIr6ktagj8HWQ3tQUTvhk389_QTD2myKt2GOEHKq_5mjnhjBSKQ"
+    },
+    {
+      "position": 7,
+      "title": "The Wave Portland",
+      "place_id": "ChIJFysFHACdskwR9DvcOnOB-D4",
+      "data_id": "0x4cb29d001c052b17:0x3ef881733adc3bf4",
+      "data_cid": "4537518956484508660",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d001c052b17%3A0x3ef881733adc3bf4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d001c052b17%3A0x3ef881733adc3bf4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6658269,
+        "longitude": -70.2513072
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFysFHACdskwR9DvcOnOB-D4",
+      "provider_id": "/g/11y7chd_dk",
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "34 Romasco Ln, Portland, ME 04101",
+      "country": "United States",
+      "website": "https://www.waveportland.com/",
+      "extensions": [
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAED8TqnicOp3yOr4AlNT-OkPcaU8x5CTnUNJQVh1ZPbCsMgOnRMR_qRAvCTN5-KlEt9_QMTcOzI6t3qvcWYg5TOxYOlCEJx5lAROUiP16jQnKEvn88i90EQ21ZjkIfzgDT1tcJvSRZAtmg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/StppxnicHcTBboIwGADgJ6pQGQZNPDTYgxgo7YoLXMz2BwtSC9jK0IfcfW9j4nf4_v8a5wa78TzdBAvV90rXd1vfoDeuNm4B_dVTg0VgkfVInvGO0F0kR9MCG4IHu30QnUnEuhy-i2gOY2mKLOHHBlf5T2xTxYxIxWkUZIplFqKDpm594qkE9tyvXDBO8FWqULK5ZDqmyRxqIljR5nh14eZAJxNF7dqnfImrS7c_P9VOYgfJ9Ckq4q5q-4t930fNe0DmBRSpRlU"
+    },
+    {
+      "position": 8,
+      "title": "Executive Office Centers",
+      "place_id": "ChIJpRH3jRScskwRM_SFGxkOok8",
+      "data_id": "0x4cb29c148df711a5:0x4fa20e191b85f433",
+      "data_cid": "5738164376222168115",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c148df711a5%3A0x4fa20e191b85f433&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c148df711a5%3A0x4fa20e191b85f433&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6535832,
+        "longitude": -70.2541198
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpRH3jRScskwRM_SFGxkOok8",
+      "provider_id": "/g/1tc_w5xh",
+      "rating": 5,
+      "reviews": 26,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space",
+        "Conference center",
+        "Office space rental agency",
+        "Executive suite rental agency",
+        "Video conferencing service",
+        "Virtual office rental"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space",
+        "conference_center",
+        "office_space_rental_agency",
+        "executive_suite_rental_agency",
+        "video_conferencing_service",
+        "virtual_office_rental"
+      ],
+      "address": "254 Commercial St Ste 245, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 773-8890",
+      "website": "http://www.executiveportland.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"It\u2019s a great location with nice facilities and reasonable prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLCfrK0FaL9WRdnw5FScAzojPp7vUNepaSXhWUfhHfpcYkdVYAua0odUR431kF3EABSO6eRbW76TjJobh-OqBBlHfozXxPuAfqG4XMoYcpHHtk14xp1JHfZMH3lFUXVJ7Hrb-C=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ILC3N3icHcTbboIwGADgJ6qUwCRb4kUxqw3zgCAn76C0NML4Ky3T-IJ7Bt_GxO_ie_4ra7X5cpxBeYsOoBvEbMTEYbRitAsOv06nDeIGGYfE-2NP6HYtpx9M6-1nkbTj7YOmnDzgEuvgL9sLXaelKjKpmNS86tu8InONoc0S33N76n2TMD0sRdIUwfJ0iaBR6HANw4FJeJT3eCbyuvHLHVRcM2Z7179rN2LyvGPeQLMyjwI2NWi9urkYY6TeczS-AF42RDg"
+    },
+    {
+      "position": 9,
+      "title": "Factory 3",
+      "place_id": "ChIJe6z_yFqbskwR5Tl_xMY5NwE",
+      "data_id": "0x4cb29b5ac8ffac7b:0x13739c6c47f39e5",
+      "data_cid": "87602243619994085",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b5ac8ffac7b%3A0x13739c6c47f39e5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b5ac8ffac7b%3A0x13739c6c47f39e5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6596857,
+        "longitude": -70.28437559999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe6z_yFqbskwR5Tl_xMY5NwE",
+      "provider_id": "/g/11h7v733fl",
+      "rating": 5,
+      "reviews": 362,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space",
+        "Art center",
+        "Art school",
+        "Art studio",
+        "Makerspace",
+        "Metal working shop",
+        "Wood working class"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space",
+        "art_center",
+        "art_school",
+        "art_studio",
+        "makerspace",
+        "metal_working_shop",
+        "wood_working_class"
+      ],
+      "address": "105 St James St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20139\u202fPM",
+        "thursday": "6\u202fAM\u20139\u202fPM",
+        "friday": "6\u202fAM\u20139\u202fPM",
+        "saturday": "6\u202fAM\u20139\u202fPM",
+        "sunday": "6\u202fAM\u20139\u202fPM",
+        "monday": "6\u202fAM\u20139\u202fPM",
+        "tuesday": "6\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 358-9412",
+      "website": "https://factory3.org/?UTM_source=GBP_Listing&UTM_medium=Organic",
+      "description": "Creative studio hosting classes on woodwork, weaving, sewing, welding and more.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Fun, inclusive space with excellent resources and great atmosphere.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyx1TEYTc4SRTHXJI_JzKJbwyFFjx_LwNTrLjXkYYszd-6E7XIJgxNEveengZwhradgyZZUO9OEQ960W0iCQayjoy1xaihKygeIzDsV6c3mKYrP5ItlP5Bm3bmreL19_j8eBOs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Pz5YgXicHcRJDoIwAADAF1VKUBQTDy4QWcKiqMCFYG1aEahpq1A-6Bv8jYlzmO-HSvkUS01rqDEhjJEGvwTmiHUSd3KCWKuRpwBIAKGt4zB5rB016Kmdp2h6PKT7zHNLb_S9a68cpx7KoA9THtTZI8_FeAOmPc9cjwyh_ca4I0VPeXUjqihOkRXZiWXCC7xvk0rVTOlDdae-Itgdd-JsIqP1cx7PXNnEs01rXFuOA90q6wXeRGLV6xBCQP8j0P0AzY5FyA"
+    },
+    {
+      "position": 10,
+      "title": "Working Well",
+      "place_id": "ChIJ__KfrI2dskwRw8mXtyGZX5k",
+      "data_id": "0x4cb29d8dac9ff2ff:0x995f9921b797c9c3",
+      "data_cid": "11051720380683635139",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d8dac9ff2ff%3A0x995f9921b797c9c3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d8dac9ff2ff%3A0x995f9921b797c9c3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.639519899999996,
+        "longitude": -70.2534913
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ__KfrI2dskwRw8mXtyGZX5k",
+      "provider_id": "/g/11xnndr06z",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "72 Ocean St Ste 105, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135:30\u202fPM",
+        "thursday": "9\u202fAM\u20135:30\u202fPM",
+        "friday": "9\u202fAM\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135:30\u202fAM",
+        "tuesday": "9\u202fAM\u20135:30\u202fPM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAET1hzX6dfhvPtPD-536TEUm3-9krmC79lNyM24HBMNHykX76WCjKtJvZtnlQ8P0zmEurCR7fmVefBNRfIGAhLUVt8UE7-W_GV57_BRQShMjeZMpM8uv5oELxzaczLAoyGFZ0-Ij-AO9yE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2KVBIXicHcTBToMwAADQL-roRCiYeCissilFwMEWLstSCw1QSmhB4SO9-zcmvsP7_RHGjPrJsnph7xqlmp7Pmk9MDYYPZseUtJpRA6aBtnCaZB0m573Yru5nLZbUpAfg2O6ZFNIGfjfJEPl9stKHx2NAk-PaXZF7Cds387pUZugzL4WbJPMU5qiWJa-DJK9PERZxURqvIAhcblHpoFuQZx-CtryiI_XmxVEk_t7ubIuxWqOXCoJTC_C7v5Lnrz2EEIj_GRj-ALtlRWo"
+    },
+    {
+      "position": 11,
+      "title": "Open Bench Project",
+      "place_id": "ChIJWdwSSfmbskwRxPSAA_eAMr4",
+      "data_id": "0x4cb29bf94912dc59:0xbe3280f70380f4c4",
+      "data_cid": "13705158414445900996",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf94912dc59%3A0xbe3280f70380f4c4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf94912dc59%3A0xbe3280f70380f4c4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6538518,
+        "longitude": -70.2803405
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWdwSSfmbskwRxPSAA_eAMr4",
+      "provider_id": "/g/11b7f433jk",
+      "rating": 4.8,
+      "reviews": 64,
+      "type": "Makerspace",
+      "types": [
+        "Makerspace"
+      ],
+      "type_id": "makerspace",
+      "type_ids": [
+        "makerspace"
+      ],
+      "address": "971 Congress St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 329-8606",
+      "website": "http://obportland.org/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Maker spaces can be really underwhelming, but this one is amazing.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhuHpSPmUhU0vNJR1mRArrldzXIqZD46QoBa7VVp5fCbz7USpZdb-nBBP-5tqHumWxMUI3EhooHxxQBchAB2vpOOlThQYw1v1NHDyN703kARe661egrpZMTsvykqUPHQSD02gl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/phAVZXicHcRRboIwAADQE1VamZCY-NEOk2oiUrBu42_W2iYUWmhB9IKewdss2ft475cOwfl1FBkdL5S1ysjRy0HYLsguLIRtI-U8EB74CBc5a_BWj9RVRcs1h1O-L1Fb4mEw1-f3rq-zj4RZ8puez251-7w8U165-noBHSEFWIWeju3XfOC7eKutpfPMiNCYLCd3PJqTZj93NKGcZo88hXGDS5kkSKrB1YeTnx5NzwvKqgwuldncEYQQ6P8F6P4Ae45Eug"
+    },
+    {
+      "position": 12,
+      "title": "Six City Center Executive Offices",
+      "place_id": "ChIJoyQfIxWcskwRjlWylEvFRvM",
+      "data_id": "0x4cb29c15231f24a3:0xf346c54b94b2558e",
+      "data_cid": "17529915527994168718",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c15231f24a3%3A0xf346c54b94b2558e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c15231f24a3%3A0xf346c54b94b2558e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657041299999996,
+        "longitude": -70.25668399999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoyQfIxWcskwRjlWylEvFRvM",
+      "provider_id": "/g/11bv1cls9w",
+      "rating": 4.8,
+      "reviews": 4,
+      "type": "Office space rental agency",
+      "types": [
+        "Office space rental agency",
+        "Executive suite rental agency"
+      ],
+      "type_id": "office_space_rental_agency",
+      "type_ids": [
+        "office_space_rental_agency",
+        "executive_suite_rental_agency"
+      ],
+      "address": "6 City Center, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 558-6200",
+      "website": "https://sixcitycenter.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Online appointments",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_appointments": true,
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE8GHIHw34M9wOTUBha8yt7DFpfN3Vw_6AobNhfwTFi6sN3vy6Wz4bqyUILqyRGXZrpmyeSbz8FOqSFqak2TojwzqAIu0hdZQgzMY9dt47404PqNj6NC58DN-AMxR-S_k2B9sJN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kmJc_HicHcTdFoEwAADgJ5pGk3KOi4XI0VD5vXGUNEprNma9oGfwNs7xXXzfD5WyFn3DKKnZyhnLy-wpskfKKplVspWyu5HXAqQCCAMvyarAY3sy9afKRIGjFvHapSdby97Iqy_E3KijhVlC6EXF3tUSxHxpa9ughOu1P-c6nOwOj_qusyhpbG_BI4-fik7Mbqrh2H9Cej6s8ibYO2eJegiiJSc3iwy79ogAHLxDEB2LjuuIGRmoNoQQ0P8pqH5WvUQb"
+    },
+    {
+      "position": 13,
+      "title": "Think Tank Yarmouth",
+      "place_id": "ChIJOfzp4TSBskwR20TvkxgZAeo",
+      "data_id": "0x4cb28134e1e9fc39:0xea01191893ef44db",
+      "data_cid": "16861786073203688667",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb28134e1e9fc39%3A0xea01191893ef44db&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb28134e1e9fc39%3A0xea01191893ef44db&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7972342,
+        "longitude": -70.1787653
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOfzp4TSBskwR20TvkxgZAeo",
+      "provider_id": "/g/11b5qsxlfc",
+      "rating": 4.8,
+      "reviews": 11,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "40 Lafayette St Ste 2, Yarmouth, ME 04096",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 613-5862",
+      "website": "http://thinktankyarmouth.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Great space in a convenient location with terrific customer service.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_jjcvzkQ6wffN-YXrq5qKQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=115.05843&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jH3zvnicHc3NDcIgGADQbbiVH7WmmnxxABOT3vTUUKRApYUCgjqNa7mNxgXe-7x1Sj7uCYkpSJmykcWbh7Sx8hwr55SV3JuIhZtIZiTp-9TP3NiD57MzV-jGUeTXrd2WYThVl3NY6uXYItF3who5J4iSB6GxKj8xuCtWPqICDUUadiv05AUYqzGtm80aeZOEBor-y-AyMEq_rBU6Dw"
+    },
+    {
+      "position": 14,
+      "title": "Biddeford Coworking",
+      "place_id": "ChIJneSCvfikskwRkmBzEA-tlnA",
+      "data_id": "0x4cb2a4f8bd82e49d:0x7096ad0f10736092",
+      "data_cid": "8112862058966638738",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a4f8bd82e49d%3A0x7096ad0f10736092&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a4f8bd82e49d%3A0x7096ad0f10736092&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.4931112,
+        "longitude": -70.4531708
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJneSCvfikskwRkmBzEA-tlnA",
+      "provider_id": "/g/11cjj1h_kq",
+      "rating": 4.9,
+      "reviews": 17,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "40 Main St, Biddeford, ME 04005",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(774) 768-4465",
+      "website": "http://www.biddefordcoworking.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Highly recommend Marc and his coworking space.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGyPTF4qPylyhqTSr_ABC0uG9i52QvhblZL_gtMxM0Rodiwr6lZ--XggWbrssnnls40zwhe5QQHWt9_ohwb84b50SM2os97qkT767bTrrPrzYr3Ttk-7QecVs1YvGE2cwfI2A4P=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RkLM73icHcRRbsIgGADgE2GxttYu8aEzWk3sApPM6UsTEMEUwfKjrF5wZ_A2S_Y9fK9fHcIN3pLE6MlIOaeMvIP0wtkgbRgJd03UDZAABElFPmhX1QNhq6wngxl0z3a-rd4X-F6XlzylD83Ncduq0Pw0-NOdLtFPzRGhb6X23ANYayDDz6hlTul6H8rW6chnGc_xrkkdlEXfsWJacOY98c-Dn7DQoYJK8QXjw6NepiKeN2mVkXkcY4yR_l8g-wfPJkVT"
+    },
+    {
+      "position": 15,
+      "title": "SYNC Gorham",
+      "place_id": "ChIJe5ygKZCRskwRsQQvjq6H7f8",
+      "data_id": "0x4cb2919029a09c7b:0xffed87ae8e2f04b1",
+      "data_cid": "18441545232931554481",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2919029a09c7b%3A0xffed87ae8e2f04b1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2919029a09c7b%3A0xffed87ae8e2f04b1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6789725,
+        "longitude": -70.4434026
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe5ygKZCRskwRsQQvjq6H7f8",
+      "provider_id": "/g/11hhl7v8rk",
+      "rating": 5,
+      "reviews": 4,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "28 State St, Gorham, ME 04038",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 272-4431",
+      "website": "http://syncgorham.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"I\u2019ve rented a space for over a year and love it!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZFjenEjxi6NPRgLgkz2kXhSysntybwufVCLAPMiZbnqyPxHpVRvT151wmLQQfIZ-7Wr0K_wTxeo1hbcWK_G6r0bJeNe7Q2j3qmu6wr1ycX_zJXD_JN5IamtjsiUSY0hFPFbhbIQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UtA5SHicHcRdboIwAADgE1VaDZiY7IHMoSAjrb_IC7FNbQFpkZYVvOGOsNuY7Hv4_n6ltZ1Zed5DLmZCa_Hgg-E908pyZWdMt57oDGAGGC_EGWnCbRHVXH3VYxVkeC9S0bzmTS4Pk1F2om64nz_TEH9XBVXPCY_b7rz_OSIfuTYl5B4XYHnp4a50x5FrJCm77MpN0EOa8IwvybxePNshcD2aWF6-knxdJpkf31pbm-p0uEIZ4YhKGpMPhyCEQP7PgHoDtfhHEg"
+    },
+    {
+      "position": 16,
+      "title": "B-Side Creative Studios",
+      "place_id": "ChIJF6Bz8Q2dskwRR83agW6w1U8",
+      "data_id": "0x4cb29d0df173a017:0x4fd5b06e81dacd47",
+      "data_cid": "5752698087707168071",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d0df173a017%3A0x4fd5b06e81dacd47&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d0df173a017%3A0x4fd5b06e81dacd47&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6566451,
+        "longitude": -70.25773199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF6Bz8Q2dskwRR83agW6w1U8",
+      "provider_id": "/g/11g0vzh4w9",
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "24 Free St #101b, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open now",
+      "website": "https://www.facebook.com/bsidecreativestudios/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmDPJM7RNSu6GRLgmNBh9iBoqB_lLJCcJ8hRE8_gtkQ_pQ0nqNK7qjMUSf_YMmJoE14d75aC6ErZZwySzR5iZJor45jFS8bM_T036XM_jjpfzbzoYaTW_c-30c_EOfIaMbmNLT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1HAAiHicHcTbboIwAADQL6rUIJeZ7EEQzTpa5WJUXhqo0IqUAq0x4wf3Df7Nkp2H8_4Vxgx6bVmdsBdcKd7VT11PTPWm7s2CKWnxQQOmgbY2R5I8Nnu5PSLspSR7uvs05pIE4uMeqDGgXYxChnyRRj7l5pHQIYH9SL69scWnrKFXLJGKlqub55ShG01F8frJ5tS5F0hNK6fdZX6FaQ5t94Jp2w7NXM3qWuZnyoANGY0OzVeJK0ni_PO1hBAC8T8D_R8a70QN"
+    },
+    {
+      "position": 17,
+      "title": "Opus Virtual Offices Portland",
+      "place_id": "ChIJi5JCFhWcskwRvvohCKEjn-k",
+      "data_id": "0x4cb29c151642928b:0xe99f23a10821fabe",
+      "data_cid": "16834213106667354814",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c151642928b%3A0xe99f23a10821fabe&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c151642928b%3A0xe99f23a10821fabe&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6569961,
+        "longitude": -70.256723
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi5JCFhWcskwRvvohCKEjn-k",
+      "provider_id": "/g/11c0rvwx8l",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Office space rental agency",
+      "types": [
+        "Office space rental agency",
+        "Business center",
+        "Executive suite rental agency",
+        "Virtual office rental"
+      ],
+      "type_id": "office_space_rental_agency",
+      "type_ids": [
+        "office_space_rental_agency",
+        "business_center",
+        "executive_suite_rental_agency",
+        "virtual_office_rental"
+      ],
+      "address": "6 City Center, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(888) 898-9868",
+      "website": "https://www.opusvirtualoffices.com/virtual-office/maine/portland/location-1112/?utm_source=gmb&utm_medium=organic&utm_campaign=portland6",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"We've found them easy to work with and their pricing is transparent.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExeVuArBms8zvvkoFjOZrvfYnfYZ-_z7Pd9VTNimfgnvLLhGQoxewKsK5TW__HJ30vhZUAmOW0gLGxlYl1pGCo1MJ3iZniRQrBNQGK8eDLdLGtxQTBKICMO-ZzPe1vMSBtZ8Mgp64S5iI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IyWQi3icHcRLjoIwAADQE1VKUAcncQHO2FHKp4oaumGBpUWhJbRWwiHdz21MfIv3_xLG9PrbcVrhzbhSvGUPzYZKScOkmVWqc3ivQaWBdoIsIffgd2TnRzCEnfYna-9qe0vpYOtC1gUF5fSVXVfnPGm6mkuLsUBEjewZ6WiRX8ryb-9BK-gp6NIL5BiNbdG6PdooN957DZXNgQxhQlDksx98xciMJA-j3SZOAZ0y5tr4GBrqx7xfzo-LZrd-uhBCID5XQL4BDqxHrA"
+    },
+    {
+      "position": 18,
+      "title": "FreeportWerkes",
+      "place_id": "ChIJl71j7Rx_skwRLwApv0t_p0I",
+      "data_id": "0x4cb27f1ced63bd97:0x42a77f4bbf29002f",
+      "data_cid": "4802947490920333359",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb27f1ced63bd97%3A0x42a77f4bbf29002f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb27f1ced63bd97%3A0x42a77f4bbf29002f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.8561815,
+        "longitude": -70.1014391
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl71j7Rx_skwRLwApv0t_p0I",
+      "provider_id": "/g/11fl9jmnl8",
+      "rating": 5,
+      "reviews": 7,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "5 Depot St, Freeport, ME 04032",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 406-3205",
+      "website": "http://freeportwerkes.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"My experience at Freeport werkes was nothing but grand.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUMEni_uX0kHelKGZYxZIVK1FG9f6_TCUwwqKg80i0Oc5GILWSDmyNuqPEW_UmHIozhPU0K1ShRdCMenGeuFxB6lxtdn-S8zeTMg67PtI6tB-VMe2xUdzXC-SKXsFPrp28yhFmhA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WuIi2XicHcTBDoIgAADQLyKxlllbB7MwRxZllHXxgAQtBQuc5h_2Cf1NW-_wvh9pbW1mjlPK0UBoLUreGP5iWlmu7IDpyhG1AcwA4wRku38EiCYrdc-bDD7WvMTR9dJd4xN2UTS9efkxpG37xMKHd7hj4yjenNNl9d42T7I657Rax7qXhELspvJQhAlXEW9Qt_DKzhYKpH7Pj4nwJsTGnl2AU8KHHS36LAQpzgwir3rovyWqZDBvXQghkP8ZUD_LkEUA"
+    },
+    {
+      "position": 19,
+      "title": "Regus",
+      "place_id": "ChIJ51TzDPadskwRTCYVE_0ac3o",
+      "data_id": "0x4cb29df60cf354e7:0x7a731afd1315264c",
+      "data_cid": "8823425769198134860",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29df60cf354e7%3A0x7a731afd1315264c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29df60cf354e7%3A0x7a731afd1315264c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6585283,
+        "longitude": -70.25733199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ51TzDPadskwRTCYVE_0ac3o",
+      "provider_id": "/g/11vjfwv6s9",
+      "rating": 3,
+      "reviews": 2,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space",
+        "Business center",
+        "Office space rental agency",
+        "Virtual office rental"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space",
+        "business_center",
+        "office_space_rental_agency",
+        "virtual_office_rental"
+      ],
+      "address": "400 Congress St Unit 300, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 220-1625",
+      "website": "https://www.regus.com/en/us/6552?utm_source=google_uberall&utm_medium=places&utm_campaign=uberall&utm_content=uberall",
+      "extensions": [
+        {
+          "service_options": [
+            "Online appointments"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_appointments": true
+      },
+      "user_review": "\"Great location and team members\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGywqri5jqKNWSY-uaXqFbhZfXZ0HAQh5scniEvKBujJmyX8wda85EVXpf-dGaA80R_2lH4BQ64mbD6MbdguKi1Ldp7TT37aJtsN0tbDKD1xM2zE7FphtQVCLw7nsEoMf4nanTAf2FtAOTI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iXcoV3icHcRLjoIwAADQE1UKgpBJXFQBPwgOShTdmFI-RaEttgzqJV3PbUx8i_f_pkoJ-aNpDR2PKs6rpuhlcSecqYKpEeGtVgkJiARSQ79RfEOL59Dda-vaBdFxfwI9Tjs_o-cyPcMliqklCau9v2DWX9ftM3WGHDuWd0hFCfIFRg7cXYxmac7iidlm7iTM8qoPan2TCztJxjZeKxlBlbmBqz9C4-XZvqAqPsw3g82kx8PSZJglqDR8hbbJajroEEJAvxPAPq_8Rt4"
+    },
+    {
+      "position": 20,
+      "title": "Attach\u00e9 Business Center",
+      "place_id": "ChIJaQD_RnelskwRjZNiKFAgcxw",
+      "data_id": "0x4cb2a57746ff0069:0x1c7320502862938d",
+      "data_cid": "2050017784030729101",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a57746ff0069%3A0x1c7320502862938d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a57746ff0069%3A0x1c7320502862938d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.4874825,
+        "longitude": -70.4443205
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaQD_RnelskwRjZNiKFAgcxw",
+      "provider_id": "/g/11fr6z86bh",
+      "rating": 5,
+      "reviews": 10,
+      "type": "Coworking space",
+      "types": [
+        "Coworking space"
+      ],
+      "type_id": "coworking_space",
+      "type_ids": [
+        "coworking_space"
+      ],
+      "address": "180 Pool St Ste 100, Biddeford, ME 04005",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 618-8894",
+      "website": "http://www.attachebusinesscenter.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"The space was clean, organized, and quiet.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkO4PeaDSfLuqujC5tMvGX0MuD-jFJrEwZrbIsH0XO9nI2U_SxQVzj0P3-Icus5ifIM8lgsWpSmLsxBowvEkA-rJ_T7Bbdhwz1vJDp9dV7BTfsGuGIFNmyzi6Weu1FRKGrA44X=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/brJkP3icHcRJkoIwFADQE0WC4tRVvQARDIpi40C5sTQGkCmYn4DNBT2Dt7HKt3jvVyplDT-aVqSDXsJ5UjAFTFBeSVbJHuWlltSAKCDQzGC9zU0n3xgBu9hhvFIPlc2G0m_cCPvKRpnjiXl7ElcCCxxtphXp78_hc3voMhwMEKEKhveY-JMigWMdlit4Wrxt5rmJhHfeja3rLW07vfHseno7jK1dDK5yibMu_7v76MiU7vwtXWEaRvTb6hhjlH6nqPoAg2JE8Q"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=coworking+spaces+in+Portland%2C+ME&start=20&type=search"
+  }
+}

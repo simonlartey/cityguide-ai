@@ -1,0 +1,1562 @@
+{
+  "search_metadata": {
+    "id": "6a4e6831ee028ad5a60e04c5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gWXfwW2op252mQLzhJF6Mw/6a4e6831ee028ad5a60e04c5.json",
+    "created_at": "2026-07-08 15:09:37 UTC",
+    "processed_at": "2026-07-08 15:09:37 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/mental+health+clinics+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/gWXfwW2op252mQLzhJF6Mw/6a4e6831ee028ad5a60e04c5.html",
+    "prettify_html_file": "https://serpapi.com/searches/gWXfwW2op252mQLzhJF6Mw/6a4e6831ee028ad5a60e04c5.prettify",
+    "total_time_taken": 1.48
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "mental health clinics in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "mental health clinics in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Mental Health Program at Casco Bay Recovery",
+      "place_id": "ChIJMQPlWkSbskwRWQevDDqz8to",
+      "data_id": "0x4cb29b445ae50331:0xdaf2b33a0caf0759",
+      "data_cid": "15776869506534541145",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b445ae50331%3A0xdaf2b33a0caf0759&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b445ae50331%3A0xdaf2b33a0caf0759&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6743914,
+        "longitude": -70.3196883
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMQPlWkSbskwRWQevDDqz8to",
+      "provider_id": "/g/11yb06xx5b",
+      "rating": 4.8,
+      "reviews": 23,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic",
+        "Mental health service",
+        "Psychiatrist"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic",
+        "mental_health_service",
+        "psychiatrist"
+      ],
+      "address": "989 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 518-7363",
+      "website": "https://cascobayrecoverymh.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"Highly recommended for any outpatient mental health needs.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9xwCbMJM6NF7FqFWrNzNKU29uI8fEtHNyFAo5jtbe4B1WcACExqw9L5OzHAsTkjW8Gsn2NCiMUenQzbV8YUmrpqtqKeTaWdnNBH2XJumGzO_WkTr4YURCMRcIFsS2Q-xYBYi_1Kbs06cm=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J7V1tHicHcRNcoIwGADQE0V-qhY600VgDCglFoWmrJySRlAkAb4wIJd07W0607d4z0eldQtvhnGrXhalUuVNDCB6rqQWUi-4aoyyBcQBgYE_aVLjwJ1Gv4h38ZqSV9IR1tOZRpntDlvnvNEhvROsVlddiKVnMY79zdSN7sdqP4cY0vrKnACkTf1LnAmZzMWXk2dN33a6i0T6w34l9UL7ezc0wbw_sTrtl3l28OMD3xI42gmaci-_nKyoAHPNm_fRMk0TVf9zJP8AdFVHIg"
+    },
+    {
+      "position": 2,
+      "title": "Casco Bay Mental Health Center",
+      "place_id": "ChIJwR6TzJybskwRrSGo3BJm7Vo",
+      "data_id": "0x4cb29b9ccc931ec1:0x5aed6612dca821ad",
+      "data_cid": "6552005264091390381",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b9ccc931ec1%3A0x5aed6612dca821ad&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b9ccc931ec1%3A0x5aed6612dca821ad&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6778652,
+        "longitude": -70.2798664
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwR6TzJybskwRrSGo3BJm7Vo",
+      "provider_id": "/g/1th1tnc6",
+      "rating": 5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic",
+        "Family counselor"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic",
+        "family_counselor"
+      ],
+      "address": "205 Ocean Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 773-7993",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pWxoA4XNbu0zF8rMcAfMpA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=26.080095&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/19CCBnicHc3BDcIgFADQbbgJv42a1oQYLt7qVW-GUgoktPwALdVpXMttNC7w3udtc8Z0YizlqHVenS7oNu3TDiU1IRivJbpEVZjYWrFsl6mfpfNnlHNwA8fbFsT-fu0XeF2a2CkxdiiI6h_KOz1nnrSMylJTfmIMAzWYSOENEMvbmjxl4fWRQgPQHgi6rCwH8l_GsPIK4AuAZzmV"
+    },
+    {
+      "position": 3,
+      "title": "MaineHealth Behavioral Health - Lancaster St - Portland",
+      "place_id": "ChIJMVPs-mycskwR3Qofr2YUMIQ",
+      "data_id": "0x4cb29c6cfaec5331:0x84301466af1f0add",
+      "data_cid": "9525135643145865949",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6cfaec5331%3A0x84301466af1f0add&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6cfaec5331%3A0x84301466af1f0add&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6610669,
+        "longitude": -70.26141609999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMVPs-mycskwR3Qofr2YUMIQ",
+      "provider_id": "/g/11b6ln3w4s",
+      "rating": 2.4,
+      "reviews": 51,
+      "type": "Mental health service",
+      "types": [
+        "Mental health service",
+        "Addiction treatment center"
+      ],
+      "type_id": "mental_health_service",
+      "type_ids": [
+        "mental_health_service",
+        "addiction_treatment_center"
+      ],
+      "address": "165 Lancaster St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20136\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20136\u202fPM",
+        "tuesday": "7\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(844) 292-0111",
+      "website": "https://www.mainehealth.org/Locations/Maine-Behavioral-Healthcare/Portland-165-Lancaster-ST-11524988",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"The providers themselves are excellent.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfinLe0ihslrKCw7ccSDm-Yc4_I11WOOX9UF-sEM4vbnFHGDsIPZa1ySVj4FZsqqnop_t8svI25kT6On31yNgZG4YDiNSXIbJ9lpcuY-4P3cRNvJ0IeIMgTClUmsFsNUOfccsO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NXZPqnicHcTRTsIwFADQLyprXREx8YEwhkVpp2PK9kLgpnSDrh3cMsIX-g3-DQnn4fz_1SF0-BpFto4Hxntj9QX1GbwL2oUB-DYyHRJAgtEkk1_HyWzfuE9Nmxrt-WN6HQHkSUtK4BvB2K9S63GREpwteb9z6fs8QZFVW3bLfw48rfB0cr7bhBfsxdPwuHpWLmY3aao5L5NG5muxW4xtB5eS8CyGb9kvqNBiaVZTW7SYoizUHgDV25VRSkn9GIi7AzQuRD4"
+    },
+    {
+      "position": 4,
+      "title": "LifeStance Therapists & Psychiatrists Portland",
+      "place_id": "ChIJcXgyDJibskwRLDsmm58L7Co",
+      "data_id": "0x4cb29b980c327871:0x2aec0b9f9b263b2c",
+      "data_cid": "3092859824227367724",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b980c327871%3A0x2aec0b9f9b263b2c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b980c327871%3A0x2aec0b9f9b263b2c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.663199999999996,
+        "longitude": -70.2713636
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcXgyDJibskwRLDsmm58L7Co",
+      "provider_id": "/g/1v27v2ss",
+      "rating": 4.6,
+      "reviews": 94,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic",
+        "Child psychiatrist",
+        "Counselor",
+        "Family counselor",
+        "Marriage or relationship counselor",
+        "Medical clinic",
+        "Mental health service",
+        "Psychiatrist",
+        "Psychologist",
+        "Psychotherapist"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic",
+        "child_psychiatrist",
+        "counselor",
+        "family_counselor",
+        "marriage_counselor",
+        "medical_clinic",
+        "mental_health_service",
+        "psychiatrist",
+        "psychologist",
+        "psychotherapist"
+      ],
+      "address": "11 Baxter Blvd 2nd Floor, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 828-4026",
+      "website": "https://lifestance.com/location/portland-me-11-baxter-blvd/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://book.lifestance.com/find-care/booking/provider-matches?state=me&partner=gr&license_key=140126&zip_codes=04101&sort_order=most_available&distance=10&modality=in_office,video_visit&utm_source=gmb&utm_medium=organic&utm_campaign=locations&utm_content=rwg&rwg_token=AE37R_gl5dlwuWvM6YsijAIsM-FzoR28Zb-1yBBJNwdeXQqn01UUfQ5KJFz2LJMwhoY7x7EiyD-3pIuhfBlbZg_0WV0N0K8UYg%3D%3D",
+      "user_review": "\"I\u2019m grateful for the availability of these online psychiatric services!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIdIpQ1ezON2GNYXxhgya2HVzipO8Z4KoA0qwMJigAtZ1i2RSQU4kGss75jS4OdtwD-ZlAEFIjPjZQpwYc_XuWNtK_XMuac8yZQ0iCg8J1DYSqPohwStsvJIbYdaGvSzBhzk7Z=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_pOAenicHcRdboIwAADgE1UKskhMfOh0MjACtdmEvhhWSMuPtNpilQt6Bm-zxO_hez2FMUovHacX8xmXkvf1qOsrk4OpBzNj8uxwpQHTQDsoS3CHtlEVKezWU5p4YVLkd8Efpff9OzUqDai_kwhe7D5uODLUbbwDwT9-F2q9-GiJn1bGbgDt0dc2arOWYmULdsrHY2J2p3w_lix4UAybNQ9id1OQSyaFJUbf4uivqMrwRqZPMXULurIuhBCI9wwM_3ihRY0"
+    },
+    {
+      "position": 5,
+      "title": "LifeStance Therapists & Psychiatrists Portland",
+      "place_id": "ChIJFa5Hb_ydskwRgDcpfsxkK1E",
+      "data_id": "0x4cb29dfc6f47ae15:0x512b64cc7e293780",
+      "data_cid": "5848879370523457408",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dfc6f47ae15%3A0x512b64cc7e293780&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dfc6f47ae15%3A0x512b64cc7e293780&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.664636699999996,
+        "longitude": -70.2700732
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFa5Hb_ydskwRgDcpfsxkK1E",
+      "provider_id": "/g/11fl78n6wy",
+      "rating": 4.3,
+      "reviews": 133,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic",
+        "Child psychiatrist",
+        "Counselor",
+        "Family counselor",
+        "Marriage or relationship counselor",
+        "Medical clinic",
+        "Mental health service",
+        "Psychiatrist",
+        "Psychologist",
+        "Psychotherapist"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic",
+        "child_psychiatrist",
+        "counselor",
+        "family_counselor",
+        "marriage_counselor",
+        "medical_clinic",
+        "mental_health_service",
+        "psychiatrist",
+        "psychologist",
+        "psychotherapist"
+      ],
+      "address": "53 Baxter Blvd Ste 3, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 553-3070",
+      "website": "https://lifestance.com/location/portland-me-11-53-baxter-blvd/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://book.lifestance.com/find-care/booking/provider-matches?state=me&partner=gr&license_key=140126&zip_codes=04101&sort_order=most_available&distance=10&modality=in_office,video_visit&utm_source=gmb&utm_medium=organic&utm_campaign=locations&utm_content=rwg&rwg_token=AE37R_hso_V45FXX0IEojuAfw3Iq44tFt-sqPUrpNMLlsDBY1h8iZ3D3JO4zMaUlLgMTDhQyVxtwRAWJSMaR7D9JwgthyoCNcA%3D%3D",
+      "user_review": "\"I had only a short wait to get in to see my new therapist.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEybmcvS8NambpggtTPieXWblMWuhtQ-XIuMvWOws3CUZdA3nbJPcGhUTJmXw0jz6PK7oyJV120VaAPnny2dWVtgLpG6FfmRfKCqGpUlAccTMmscxu36ajG2npz7MGUXKsVUR9LYg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mrUTrnicHcTdboIwGADQJ6pUSFCXeNEY1wiiVSng7uAT2zn6M1tk-IZ7BN9myc7Fef1K7617C4JORhNhjOja3rV3MNq32k_AqEBYh8AhFxC2O3yR9dgoeJzmu1o1Vgifs8-2KpsuK3vpD6ja9Nmj3A8uWvGPC4l0kzCgkueJqgZ8e8YsnZkxKaYhLmrCtB7DS1l4sbU0fr-q4zVdfVPLOwKQZ8rBTx_F9Y2G2j5nGeVV6gp-XGzPYjlMMcZI_g9I_wGZrkbA"
+    },
+    {
+      "position": 6,
+      "title": "Bishop Health",
+      "place_id": "ChIJq5kuuDibskwR9QuLYXK9FlA",
+      "data_id": "0x4cb29b38b82e99ab:0x5016bd72618b0bf5",
+      "data_cid": "5771008271482293237",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b38b82e99ab%3A0x5016bd72618b0bf5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b38b82e99ab%3A0x5016bd72618b0bf5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6359609,
+        "longitude": -70.3551505
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq5kuuDibskwR9QuLYXK9FlA",
+      "provider_id": "/g/11lh32m4l8",
+      "rating": 4.7,
+      "reviews": 130,
+      "type": "Psychiatrist",
+      "types": [
+        "Psychiatrist",
+        "Counselor",
+        "Mental health clinic",
+        "Mental health service",
+        "Psychotherapist"
+      ],
+      "type_id": "psychiatrist",
+      "type_ids": [
+        "psychiatrist",
+        "counselor",
+        "mental_health_clinic",
+        "mental_health_service",
+        "psychotherapist"
+      ],
+      "address": "100 Gannett Dr Ste A, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 742-8558",
+      "website": "https://www.bishophealth.com/portland-maine/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Latino-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"if you're struggling with your mental health, this is the place to be.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG--bfPbE-4RxK3xRwPRZhkc_DtPbSsyZLclsMDotrJO9xeF9aURu8D1U1NqLhcDZFuTnkou0Ix-nVrSpFXOFYiAoQprr0KBWz8WHoi7LrNQIO4B_cced7iDVwdRUd6XwTnGLwWpA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IrNtTHicHcTbboIwGADgJ6qUaDws2QWmQ52MQxVQboz8dJTA2q4tKdsb7hF8G5N9F9_jj1urzIvnDXw-a6VsBzYapkEKy4SdgfzyWmUQGGS8II2zPtghVH-m9Rta0Ok4n6hLacV7uBGb1ifzU0UwmA8irX5PNhMLN_ecjmvi5378HXEgVTieRS9HfJiQKPRJhZckvHaBzJTW-Lgtf9flXnarSMfZIVlsbwCsWXWkcA3Nm-XFncUucqUKXp2PMUb8f0DiCRV1Rfs"
+    },
+    {
+      "position": 7,
+      "title": "Mental Health Associates of Maine LLC",
+      "place_id": "ChIJk_txD5GbskwR4MmEQTaVnDw",
+      "data_id": "0x4cb29b910f71fb93:0x3c9c95364184c9e0",
+      "data_cid": "4367529798902532576",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b910f71fb93%3A0x3c9c95364184c9e0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b910f71fb93%3A0x3c9c95364184c9e0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6705341,
+        "longitude": -70.2893717
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk_txD5GbskwR4MmEQTaVnDw",
+      "provider_id": "/g/11dx91vckf",
+      "rating": 2,
+      "reviews": 10,
+      "type": "Mental health service",
+      "types": [
+        "Mental health service",
+        "Medical group"
+      ],
+      "type_id": "mental_health_service",
+      "type_ids": [
+        "mental_health_service",
+        "medical_group"
+      ],
+      "address": "251 Woodford St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20137\u202fPM",
+        "thursday": "7\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 773-2828",
+      "website": "http://mentalhealthassociates.me/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHR8oP6iXMfeWLz4kXQ4gZuGOl1HxD2jKkIICGo3hXxLk_NJl9ANTjDyIvUofDisom2ifHaNI1hSr_HKJlEFU6n8aijWv0OSjJN56Agta09HoU7UAxJZGqWqguih7aAInQ4eGlo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NBe1CHicHcTdboIwGADQJ0KKMvxJvGjGRouuio5AvDGElLZQ-6ktir7gnsG3Mdm5OK8_6dzZLnxfy8lIAAjNe8uvNRjHjRvVcPLF2Xq19ayPtyzrMNnNYBup8qfhxfoZdmUWikOfbHRAhnjcrjpKPxOYyHJYd0eW6jlmv238oLccmlhZOI1VQypGA7m_Hskq1V_feWRmlWqLG9rs25R9RFi4Cs0J5NMcD-khuRQX0Ss5rTA1WcgTDct7gBDy5P-1Z95H8ER5"
+    },
+    {
+      "position": 8,
+      "title": "Pillars Health Group - South Portland",
+      "place_id": "ChIJCasp3VWZskwRZTWcLfX64g8",
+      "data_id": "0x4cb29955dd29ab09:0xfe2faf52d9c3565",
+      "data_cid": "1144753186244670821",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29955dd29ab09%3A0xfe2faf52d9c3565&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29955dd29ab09%3A0xfe2faf52d9c3565&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6420647,
+        "longitude": -70.340251
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCasp3VWZskwRZTWcLfX64g8",
+      "provider_id": "/g/11xvds9dy5",
+      "rating": 4.8,
+      "reviews": 43,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic",
+        "Mental health service"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic",
+        "mental_health_service"
+      ],
+      "address": "707 Sable Oaks Dr #10, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 600-4344",
+      "website": "https://pillarshg.com/?utm_source=gbpsp1",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "user_review": "\"Pillars is an incredible mental health treatment center.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEO7INmPOdGiu-3PmrqcqdEGW9Aevhz5_GbdaPaHAXGMKvIkzFKRgiS1jtJl7W975tOsGVaXB7m-fjt40tVwppejs5V_tKMfW2iGbiewxCiRFuEUHl7i7bEsYuwsJFGrSus-YcoyAIyYfrn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7yQKT3icHcTRboIwFADQL6rgHGlcsodugYpEYZqBPBkoBYpAkXsr6k_67N-YeB7O81EjDvBlWW29mFVaV600IEehe5Q9zoTurGoAIoCAxaLt34m5IfW3XRQWXBmyiLrxLM6Fy5Mlk5f67hx5XmRRtmIHvgku_unuBbtK7ecNrluaLKmDIfA4O_zQjpQNftoYT8MgG3DiIwabMvlQPFdyuv6qnWfc_1VLFc1dSM0Ea4-PewMkFfrG_Ftajv33NLdtm9TvBelf2PBIzQ"
+    },
+    {
+      "position": 9,
+      "title": "Spurwink Adult Behavioral Health",
+      "place_id": "ChIJ6cOBQwGdskwRFnABuyx6S54",
+      "data_id": "0x4cb29d014381c3e9:0x9e4b7a2cbb017016",
+      "data_cid": "11406344813780496406",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d014381c3e9%3A0x9e4b7a2cbb017016&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d014381c3e9%3A0x9e4b7a2cbb017016&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.659112199999996,
+        "longitude": -70.2612828
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6cOBQwGdskwRFnABuyx6S54",
+      "provider_id": "/g/11v0vsvm04",
+      "rating": 3.3,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic",
+        "Non-profit organization"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic",
+        "non_profit_organization"
+      ],
+      "address": "62 Elm St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+        "thursday": "8:30\u202fAM\u20134:30\u202fPM",
+        "friday": "8:30\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 535-2096",
+      "website": "https://spurwink.org/adult-and-family/adultbehavioralhealth/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"Very caring people, patient, fare, non judgemental.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fjx2psQ5jQctDpofIJSErw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=164.63286&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/h4LA8XicHc3BDcIgFADQbbgJtGpTTYgXPeitcQBDKQUaCj_wLXUb13IbjQu893lbRMhHxjImrXFxuoBbtc8bkNTEaLyW4DJVcWZLxdA-5z5I508gQ3SDGKe1htztp07hGeJ4vd0vqRDVP5R3OqDIWiZlqSk_McWBGsikiJYTKw41eckiqmZHm23dNgQcKis4-S9jXETF-RerxDoe"
+    },
+    {
+      "position": 10,
+      "title": "MaineHealth Behavioral Health - Portland",
+      "place_id": "ChIJVeDeXQWcskwRpWcVk5KI0-U",
+      "data_id": "0x4cb29c055ddee055:0xe5d38892931567a5",
+      "data_cid": "16560730417885702053",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c055ddee055%3A0xe5d38892931567a5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c055ddee055%3A0xe5d38892931567a5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6515746,
+        "longitude": -70.2735857
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVeDeXQWcskwRpWcVk5KI0-U",
+      "provider_id": "/g/11fn51kq88",
+      "rating": 2.7,
+      "reviews": 39,
+      "type": "Medical Center",
+      "types": [
+        "Medical Center"
+      ],
+      "type_id": "medical_center",
+      "type_ids": [
+        "medical_center"
+      ],
+      "address": "216 Vaughan St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 662-2221",
+      "website": "https://www.mainehealth.org/Locations/MMC-Psychiatry-Department/Portland-216-Vaughan-ST-11525242",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"I felt heard, and they were able to help me.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBWXoCHk6sNbSLx6qLVeyLatAi7zZLpFCRXTlLWZbj9iEBkzQJW6kjY73CBw-cROAyVJj4YYsxbhcmkKsIrTL90rL5deKpGh7je9MG8bNyDURm-Fenp-P77-gzh1vltiEHbGEQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1xucpXicHcRZEoIgAADQE5E2lWQzfaiZLWRpi9lfECOKCgktesHO0G2a6X2874dpLdXEMEo26GVCZCV9KNoQUWta6x4RlZFJBYgCynB2YcQd303OwltwS4V4j97WHZ1oi67ayWF3QXLuxedDiZILLuzcd3kXrRKLFykceO4LkHjrtKdVMUxT9caMVHytls0B2WaDRje6lgGDBbU3wRiH7ewYV2BOawl2EIKsY_1nqXN_gQM_mr76pmkC9p-A-gdpD0R-"
+    },
+    {
+      "position": 11,
+      "title": "Hand of Mercy Health Care",
+      "place_id": "ChIJT6bJNdCbskwR1YGKKjuvMMU",
+      "data_id": "0x4cb29bd035c9a64f:0xc530af3b2a8a81d5",
+      "data_cid": "14209049493005566421",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bd035c9a64f%3A0xc530af3b2a8a81d5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bd035c9a64f%3A0xc530af3b2a8a81d5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6521616,
+        "longitude": -70.3336186
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT6bJNdCbskwR1YGKKjuvMMU",
+      "provider_id": "/g/11j2ykh03f",
+      "rating": 3.7,
+      "reviews": 41,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic"
+      ],
+      "address": "30 Blueberry Rd, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 747-5226",
+      "website": "https://homhealthcare.org/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtbnafY5u317tVy0A0y_6SUNz9IIF19pEHs1LhhFZ3mfxCtBaY7NmWrRPpjk8lMksmq0JtnSJ9dJdn2HdYg1-WEVpcVOuv7IuGJXPYMGQloTaIk9iD6lSnDm76GY_JYs1WQJ_Rpx00Rfnh=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NdW063icHcRLcoIwAADQE0WSMoXSGRdYFchUykfBuGFo-KQlv5rQai_ZdW_jjG_x_v-Ytdo8Ow5n7mJUauT9bPozVdL20i6oEs6oDaAGGCfM0nwKY_su24E8zi7ybXWFIbw2XnlIf4Mk2aJAb2KDXhnbnlwxXF7sqiV-KupzkenP6YnvJiO-ILayxEGHO_kQd2REoN5UmlZv87efzBE-ZmQX5Vzt22QKPtYeL-Va-F5EGkwMqnPcFPoCYTFItvxBEELA7lMgb3OZRu4"
+    },
+    {
+      "position": 12,
+      "title": "LifeStance Therapists & Psychiatrists South Portland",
+      "place_id": "ChIJcdFTzc6ZskwRKMc6ZMRJaRw",
+      "data_id": "0x4cb299cecd53d171:0x1c6949c4643ac728",
+      "data_cid": "2047248613460592424",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299cecd53d171%3A0x1c6949c4643ac728&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299cecd53d171%3A0x1c6949c4643ac728&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.642072899999995,
+        "longitude": -70.3402638
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcdFTzc6ZskwRKMc6ZMRJaRw",
+      "provider_id": "/g/11q41q75fp",
+      "rating": 4.7,
+      "reviews": 97,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic",
+        "Child psychiatrist",
+        "Counselor",
+        "Family counselor",
+        "Marriage or relationship counselor",
+        "Medical clinic",
+        "Mental health service",
+        "Psychiatrist",
+        "Psychologist",
+        "Psychotherapist"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic",
+        "child_psychiatrist",
+        "counselor",
+        "family_counselor",
+        "marriage_counselor",
+        "medical_clinic",
+        "mental_health_service",
+        "psychiatrist",
+        "psychologist",
+        "psychotherapist"
+      ],
+      "address": "707 Sable Oaks Dr Ste 230, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 387-0801",
+      "website": "https://lifestance.com/location/south-portland-me-707-sable-oaks-dr/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://book.lifestance.com/find-care/booking/provider-matches?state=me&partner=gr&license_key=140126&zip_codes=04106&sort_order=most_available&distance=10&modality=in_office,video_visit&utm_source=gmb&utm_medium=organic&utm_campaign=locations&utm_content=rwg&rwg_token=AE37R_j402i9qsSuQgkzRfAc9E3xfE5H5xaGtbofLhH-gFAGdPeu86-8DrSu7ls7A432_-VizJ_3Al8PQBO4QtWjd2YgAY94Pw%3D%3D",
+      "user_review": "\"I have a psychologist and a psychiatrist through lifestance.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2mmfDbxSF3Y5LVtLWNlMON2IxtAL1lEA35Of1dnINiraYTrIzOIiC0963v08iYRBH4g5tFcP8XsrBj9WRf9OvbbQZapjwetv7-bf3yCP9u7rkpJfM0cUfpHHQj0CMEuB32QPF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-Lvz8HicHcRJDoIwAADAF1UKFRUTD4ASMKxuiDeplEWWpi2LftA3-BsT5zDfTyEE5WtJqgs0y7sur7OeZwx3rchaMcNdI-WUA8wBl_TQj566pTQN2abT0UKJ6l6EG_u1F_iKMwndleudjtSAyI_W8Ut2T07MeQdOaUJtgQa4KpODYc9zVVg4XF05MyotPhAtGNI0ut1pNWZiWIKUoJcZav2SPemeeBCfCbXtqIKmt-sNpEShtRllCCEo_mPQ_gDfxEMs"
+    },
+    {
+      "position": 13,
+      "title": "Peace Behavioral Health Portland Maine Psychiatrist",
+      "place_id": "ChIJP8IDYXqbskwR6J6e10o8KXo",
+      "data_id": "0x4cb29b7a6103c23f:0x7a293c4ad79e9ee8",
+      "data_cid": "8802633238815088360",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b7a6103c23f%3A0x7a293c4ad79e9ee8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b7a6103c23f%3A0x7a293c4ad79e9ee8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6683775,
+        "longitude": -70.3013299
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP8IDYXqbskwR6J6e10o8KXo",
+      "provider_id": "/g/11w2425cbd",
+      "rating": 3.6,
+      "reviews": 14,
+      "type": "Psychiatrist",
+      "types": [
+        "Psychiatrist",
+        "Child psychiatrist",
+        "Child psychologist",
+        "Counselor",
+        "Doctor",
+        "EMDR psychotherapist",
+        "Mental health clinic",
+        "Mental health service",
+        "Psychologist",
+        "Psychotherapist"
+      ],
+      "type_id": "psychiatrist",
+      "type_ids": [
+        "psychiatrist",
+        "child_psychiatrist",
+        "child_psychologist",
+        "counselor",
+        "doctor",
+        "emdr_psychotherapist",
+        "mental_health_clinic",
+        "mental_health_service",
+        "psychologist",
+        "psychotherapist"
+      ],
+      "address": "560 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 200-4789",
+      "website": "https://peacebh.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"I had never journeyed into the mental health realm of medicine.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEwuNt9vEcoIaYPD2wbMhGH94j0y-C-tWR8zN2N1mdaldfia983gIJb3wmYkhhDerdwlD-FAEvFfgTv3DloPTXt7IB20GPzdwJFc40P2HGr1BL_7Hr2oGTeO8wXSRmNHh2M3ik=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/W_bS9XicHcRdboIwAADgE1VKayKY7AHHTzHadUoyfVqglNZRqKGVZl7QM3gbE7-H7_lQzl3tOgi0wgtpjNTiZsXEzejE6BbcDIG8WsAtsEHC6HefkMzfqIvnjJuyPrMU-WavChIv_-A_-ATu5xDdKaLh0Na67S51HGFZbhvsh3OvVCqm1usU5Ek2552sZpxqw6qTW5UbBAt2b_0250vIECmmcLP7XZEJmaISX5E_HQ8DJQrt8aX_8CGEEKj3HIwvEQdDSw"
+    },
+    {
+      "position": 14,
+      "title": "Evolve Psychiatry and Counseling",
+      "place_id": "ChIJj2yBjLyfskwRV8y-CUhCnSM",
+      "data_id": "0x4cb29fbc8c816c8f:0x239d424809becc57",
+      "data_cid": "2566280239839628375",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29fbc8c816c8f%3A0x239d424809becc57&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29fbc8c816c8f%3A0x239d424809becc57&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6663004,
+        "longitude": -70.2775731
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj2yBjLyfskwRV8y-CUhCnSM",
+      "provider_id": "/g/11l5gsnslw",
+      "rating": 5,
+      "reviews": 2,
+      "type": "Mental health service",
+      "types": [
+        "Mental health service",
+        "Psychiatrist",
+        "Psychotherapist"
+      ],
+      "type_id": "mental_health_service",
+      "type_ids": [
+        "mental_health_service",
+        "psychiatrist",
+        "psychotherapist"
+      ],
+      "address": "1 William St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20133\u202fPM",
+        "tuesday": "8\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(207) 272-5647",
+      "website": "https://paula-gentile.clientsecure.me/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXoLWF3m5Jcbth_sUlYqMuRUu_IXfbecL7mE3TX5RptnDYZErHXUZPylFg-oxU-EyWVCUvPmeCUaNlutxPNMOVr4AJA9J4Wc-OYivSBHuuVxhXsPIGt8Se7Adx7oWJHRdAdojyvw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iv1NZnicHcThEoEwAADgJ5pyceHOjyHSkYnV8sexpmG1tC31iB7B27jz_fi-H651pSaWJbjTy6XMBTOK1VSWmpW6R2Vh5ZUCVAFlQRTun9AjcpMsnWIY0KvmZ4VF-tqaCJvzmtyujG7cwnOOZBhVulykJ6_2CT6hTixzIFsMvC6J57hBBZvjSyiMblG43cX1AAZwHAwSCnbpvTnMfGPilhOF1is9OjAXZq0rk8CPMpjJR9e8p---bduA_6eg_AFWnkal"
+    },
+    {
+      "position": 15,
+      "title": "Alpinist Mental Health LLC",
+      "place_id": "ChIJxzTl3dabskwRkh0E7Xbh_c4",
+      "data_id": "0x4cb29bd6dde534c7:0xcefde176ed041d92",
+      "data_cid": "14915325441819811218",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bd6dde534c7%3A0xcefde176ed041d92&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bd6dde534c7%3A0xcefde176ed041d92&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6850677,
+        "longitude": -70.2687684
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxzTl3dabskwRkh0E7Xbh_c4",
+      "provider_id": "/g/11nb5g3fcl",
+      "rating": 5,
+      "reviews": 4,
+      "type": "Counselor",
+      "types": [
+        "Counselor"
+      ],
+      "type_id": "counselor",
+      "type_ids": [
+        "counselor"
+      ],
+      "address": "535 Ocean Ave #2, Portland, ME 04103",
+      "country": "United States",
+      "phone": "(207) 707-3447",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hKShd6nBCvlEk59p7X4nGg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=138.07536&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_14cFHicHc1LDsIgFADA27ATqLUfTYiJxrhw6cadoRSBSOGlPEFv47W8jcYLzHzeFhHShrGEs9aYnS7gntqnBUhqYjReS3CJqjixXDG0j2kI0vktyBDdKOzpbMc27PbZH-7NGrrLKhwNUcNVeacDiqTlrCw15SfOcaQGEimi58SK9ZK8ZBFV3VPeNXVLwKGygpP_cotZVJx_AWjxOVM"
+    },
+    {
+      "position": 16,
+      "title": "MaineHealth Behavioral Health at Spring Harbor",
+      "place_id": "ChIJMxtzw4CZskwRSBYVYti_8Cs",
+      "data_id": "0x4cb29980c3731b33:0x2bf0bfd862151648",
+      "data_cid": "3166241474120848968",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29980c3731b33%3A0x2bf0bfd862151648&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29980c3731b33%3A0x2bf0bfd862151648&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6534568,
+        "longitude": -70.34409819999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMxtzw4CZskwRSBYVYti_8Cs",
+      "provider_id": "/g/1tg7rm9n",
+      "rating": 2.6,
+      "reviews": 76,
+      "type": "Mental health service",
+      "types": [
+        "Mental health service",
+        "Psychiatric hospital"
+      ],
+      "type_id": "mental_health_service",
+      "type_ids": [
+        "mental_health_service",
+        "psychiatric_hospital"
+      ],
+      "address": "123 Andover Rd, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201311\u202fPM",
+        "thursday": "7\u202fAM\u201311\u202fPM",
+        "friday": "7\u202fAM\u201311\u202fPM",
+        "saturday": "7\u202fAM\u201311\u202fPM",
+        "sunday": "7\u202fAM\u201311\u202fPM",
+        "monday": "7\u202fAM\u201311\u202fPM",
+        "tuesday": "7\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 761-2200",
+      "website": "https://www.mainehealth.org/mainehealth-behavioral-health",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"My child was recently a patient at this clinic for one week.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzJNplZkDrsqRuppCGnULjxauoAZESpNG6-3-DvdkmcOmlVWkCuke-U_l2ORV9XtcyqCG2Q-QVNB5alEw1sHJaUoajO7MxN9FbNN1IbpSGXs7EtOtFoHKasAIJ-wMWDyYF41Ge=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K0KpPnicHcRbjoIwFADQFV0Bn3GS-UAeVRyLaMDHj6m1gdhCq7eIusFZw-xmEs_H-futrDX45TiqGvRKrUslWhR3rhsrGtvjunZKg8AR0PHXNJN-9E6oUUcZ3vG2aY0JSJP_XJ-s1f4x2hpKxjCA8HGRNU9rVexk0EoB-Un1000x3Vv-ugWkn0FW0NmIqajzcJ6wXLNrOlk96TQ-U-otzmZL9jiJbGpjPV8y9BcJdKtd-DrEQ4-I785zXReqzxyaf7kNRLM"
+    },
+    {
+      "position": 17,
+      "title": "Cortex Behavioral Health",
+      "place_id": "ChIJnQTJNkOdskwRnzl5kalmNIk",
+      "data_id": "0x4cb29d4336c9049d:0x893466a99179399f",
+      "data_cid": "9886639960461228447",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d4336c9049d%3A0x893466a99179399f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d4336c9049d%3A0x893466a99179399f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6576211,
+        "longitude": -70.2573989
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnQTJNkOdskwRnzl5kalmNIk",
+      "provider_id": "/g/11h6mnps9k",
+      "rating": 3.9,
+      "reviews": 15,
+      "type": "Medical group",
+      "types": [
+        "Medical group",
+        "Doctor",
+        "Psychiatrist",
+        "Psychotherapist"
+      ],
+      "type_id": "medical_group",
+      "type_ids": [
+        "medical_group",
+        "doctor",
+        "psychiatrist",
+        "psychotherapist"
+      ],
+      "address": "1 City Center Ste 8130, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134:30\u202fPM",
+        "thursday": "8\u202fAM\u20134:30\u202fPM",
+        "friday": "8\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 221-0635",
+      "website": "https://www.cortexbehavioral.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Cortex Behavioral Health will help you!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2k0gYEGBb-jlFtLX6VoVKjESwE8UHKG1Kfb0YinIm8BQqZhabdvVWIAJNSvVVev-hY2A8fjG1u76QaCCWiSHMNt3kAwAH3HCtCsYuXW6iv7opuxnLS7c-jtPSYSIwMy7vbC8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lhRn6nicHcRLjoIwAADQE1WKJEBMXNQGAVEiaSzUnVSkfGxxWsp4Qe_gbSaZt3jfjzBm0hvHGYW3apVqx2bWzQ9X0jTSrLh6Ou2kAddAO-icFwOK1gNsWRTvatCPe3OsfKpo1kdkicJLksVu9qgh62T6DHfF6ypu9d3SMkWHnFhKGwsEW6Pw0cfuHPjFDeOyI8kpN96AFpR4CTZYs7kq_c4Gapp_5ZEEHPTmTBhJl9M7sDUOt4sLIQTifw7kH6RQQ2s"
+    },
+    {
+      "position": 18,
+      "title": "Pine Tree Recovery Center",
+      "place_id": "ChIJawxVqAWbskwRUGtlYT2X-iA",
+      "data_id": "0x4cb29b05a8550c6b:0x20fa973d61656b50",
+      "data_cid": "2376378043274193744",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b05a8550c6b%3A0x20fa973d61656b50&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b05a8550c6b%3A0x20fa973d61656b50&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6877563,
+        "longitude": -70.294251
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJawxVqAWbskwRUGtlYT2X-iA",
+      "provider_id": "/g/11g230jdqf",
+      "rating": 4.6,
+      "reviews": 310,
+      "type": "Mental health clinic",
+      "types": [
+        "Mental health clinic",
+        "Alcoholism treatment program",
+        "Counselor",
+        "Addiction treatment center",
+        "Mental health service",
+        "Psychiatrist",
+        "Psychologist",
+        "Psychotherapist"
+      ],
+      "type_id": "mental_health_clinic",
+      "type_ids": [
+        "mental_health_clinic",
+        "alcoholism_treatment_program",
+        "counselor",
+        "addiction_treatment_center",
+        "mental_health_service",
+        "psychiatrist",
+        "psychologist",
+        "psychotherapist"
+      ],
+      "address": "17 Bishop St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 618-9611",
+      "website": "https://www.pinetreerecovery.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They offer rehab options and IOP so if you really want it, they can help.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZpyXD5fkQ89OB2fnDY_JEXBfRNSaXKiZ0XltJiXsrF-IsSXg8zpPWEDtymR7914_UiauX_HiYI4L8Khw6-jI9XFAZrmBIIdHR0xyyyRjPxMNJehnzPMJjX-BMLG85p72zp2Ge=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2hMmPHicHcRLDoIwFADAE1Uq_sDEBQTRoiBijE82xGChIJSG1mi5oGfwNibOYr4fppSQS8No2GRUdl3Z0Kekfd5xRbka5V1rlEKiXCJpOHF0fDh-KjR4s-JxtOyDaxbcu2bBGtwiiU432FUphkYFFcjeR0SeoLQGEV_WntJtsrDH0-xc3Z6Qbasrme6tHXvNUU1s8J20b11C7tsEv7XWSR2_wyigjA9xGNSA3HC_sWZiYQ7C3NDVa4wxRux_jvgPKh1D5g"
+    },
+    {
+      "position": 19,
+      "title": "Family Psychiatric Services",
+      "place_id": "ChIJT8UvYYmbskwR1a9V4Rf7w_E",
+      "data_id": "0x4cb29b89612fc54f:0xf1c3fb17e155afd5",
+      "data_cid": "17421043863582519253",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b89612fc54f%3A0xf1c3fb17e155afd5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b89612fc54f%3A0xf1c3fb17e155afd5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.667049,
+        "longitude": -70.2790253
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT8UvYYmbskwR1a9V4Rf7w_E",
+      "provider_id": "/g/1td5l90p",
+      "rating": 3.7,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Psychiatrist",
+      "types": [
+        "Psychiatrist"
+      ],
+      "type_id": "psychiatrist",
+      "type_ids": [
+        "psychiatrist"
+      ],
+      "address": "500 Forest Ave Unit 7, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 518-9543",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aKjgttQeLqPWu5ZrmGdbJw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=111.30046&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/x9dLvnicHc1NDgExFADg23SnP_6CpLGUYMFKYiOdztM-6UyrfabcxrXchrjA933eniiVlRCFMgANCDXhE0IZJcNdjC6ASVi4jZ0YlCD_6JreYFgn00dstdndHNER9vfD6TE7527TNtvKbHOxAaEnXcBk67mrPzHHlrtUWNULybxejtnLVK2U4hMpp3OWkKzXkv2Xaxy0kvILs_s6KA"
+    },
+    {
+      "position": 20,
+      "title": "Miriam Adele MSN, Psychiatric Nurse Practitioner",
+      "place_id": "ChIJUaYHFmydskwRy7FQeMEYv80",
+      "data_id": "0x4cb29d6c1607a651:0xcdbf18c17850b1cb",
+      "data_cid": "14825595717553271243",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d6c1607a651%3A0xcdbf18c17850b1cb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d6c1607a651%3A0xcdbf18c17850b1cb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6632161,
+        "longitude": -70.27141379999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUaYHFmydskwRy7FQeMEYv80",
+      "provider_id": "/g/11x7z3wt0c",
+      "rating": 4.9,
+      "reviews": 14,
+      "type": "Psychiatrist",
+      "types": [
+        "Psychiatrist",
+        "Addiction treatment center",
+        "Doctor",
+        "Marriage or relationship counselor",
+        "Medical clinic",
+        "Mental health clinic",
+        "Mental health service",
+        "Nurse practitioner",
+        "Psychotherapist"
+      ],
+      "type_id": "psychiatrist",
+      "type_ids": [
+        "psychiatrist",
+        "addiction_treatment_center",
+        "doctor",
+        "marriage_counselor",
+        "medical_clinic",
+        "mental_health_clinic",
+        "mental_health_service",
+        "nurse_practitioner",
+        "psychotherapist"
+      ],
+      "address": "11 Baxter Blvd 2nd Floor, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 828-4026",
+      "website": "https://lifestance.com/provider/nurse-practitioner/me/portland/miriam-davidson/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        }
+      ],
+      "user_review": "\"Follow up mental health also maintained connections.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxtJHLDno-dFRPk7iRlQdtlJAgNoarYVxSXkYPBmafRFQXAiFJNb5i6IXsmETyRSvRWwcpiTET0xiFR-xZjQYQEUlELKaHsFp64MN9xLmiv5omqu_Bx5StQfhcuodUeaf0gaJA5KIHa5ue=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YglIGHicHcTBToMwAADQL-qo0c5o4qGLNIwhoYVN8GJqKaXSUlzLVr_Ss39j4ju8358xhMU_JokZbzfKOWXk6uVZuDnIOWyEs4laPBAe-ARXJZ0wiSHPiufZgZ6warrXzNA-mByr0vFzd4p1O3XVzvKBEdpiTfLyA-ntvvU2bb5ZfWGvV7HoJm1g1ISB-PZJO5oeTVoceObJsr17KR9iYfUFOfu1vu8iqgMdRrG6_ij5ABXPMTrsM45W-XS9gRCC8X8B5j8a2Uiw"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=mental+health+clinics+in+Portland%2C+ME&start=20&type=search"
+  }
+}

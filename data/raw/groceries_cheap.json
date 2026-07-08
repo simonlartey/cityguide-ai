@@ -1,0 +1,2157 @@
+{
+  "search_metadata": {
+    "id": "6a4e67c471ff8ccb736cbd01",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YiVkU_y7i8Z5_6W-HSp_3w/6a4e67c471ff8ccb736cbd01.json",
+    "created_at": "2026-07-08 15:07:48 UTC",
+    "processed_at": "2026-07-08 15:07:48 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/cheap+grocery+stores+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/YiVkU_y7i8Z5_6W-HSp_3w/6a4e67c471ff8ccb736cbd01.html",
+    "prettify_html_file": "https://serpapi.com/searches/YiVkU_y7i8Z5_6W-HSp_3w/6a4e67c471ff8ccb736cbd01.prettify",
+    "total_time_taken": 1.12
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "cheap grocery stores in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "cheap grocery stores in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Whole Foods Market",
+      "place_id": "ChIJ7zDiKWycskwRbupeFHa_7fM",
+      "data_id": "0x4cb29c6c29e230ef:0xf3edbf76145eea6e",
+      "data_cid": "17576915434565724782",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6c29e230ef%3A0xf3edbf76145eea6e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6c29e230ef%3A0xf3edbf76145eea6e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.663448599999995,
+        "longitude": -70.2584734
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7zDiKWycskwRbupeFHa_7fM",
+      "provider_id": "/g/1td6xqqs",
+      "rating": 4.2,
+      "reviews": 2344,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Deli",
+        "Fresh food market",
+        "Grocery delivery service",
+        "Health food store",
+        "Natural goods store",
+        "Organic food store",
+        "Produce market",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "deli",
+        "fresh_food_market",
+        "grocery_delivery_service",
+        "health_food_store",
+        "natural_foods_store",
+        "organic_food_store",
+        "produce_market",
+        "supermarket"
+      ],
+      "address": "2 Somerset St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 774-7711",
+      "website": "https://www.wholefoodsmarket.com/stores/portland-me?utm_source=google&utm_medium=organic&utm_campaign=listings",
+      "description": "Mainstay for natural & organic food. Eco-minded chain with natural & organic grocery items, housewares & other products (most sell wine).",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Electronics",
+            "Glass bottles",
+            "Metal cans",
+            "Plastic bags",
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Big selection of organic food reasonably priced\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkyYY4CaDdy0GO5C1Bd3_II5OyqMdl5M22TIjRSjjkmdzwOxPGQImkThrMZWWvIrQ0ewdf40r3K5rx5qGDEBRD5k0WsGrgHkV7Hh2RhmAEAHtE2iVekJrqC5ruxH5gQxwRUBBpCw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DJYMeHicHcRLjoIwAADQEyEVbExMXPALrQYRxpHgxhhaWynftk7BG3qEuY2Jb_H-31zrQW1su-HugvU9a-hTUVn1naadXlR9a7NBWZWylO0dD5nwkJjLchXcQjKDOIXB0ifuFWOYzmNCGpg4zgnX-U9di5a8TDod4wy34sRlcimKPywzQA25r4B091BOcIzDyM9DKEChYsmQOK8Rd3LeepGHdOQ8zlTs5BhA-ZwQZNlk8l_fHwKzNUsAgMW_V1b3AbQRRQc"
+    },
+    {
+      "position": 2,
+      "title": "Portland Food Co-op",
+      "place_id": "ChIJj0r_PmqcskwRsduqFIMVCQA",
+      "data_id": "0x4cb29c6a3eff4a8f:0x9158314aadbb1",
+      "data_cid": "2556927522036657",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a3eff4a8f%3A0x9158314aadbb1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6a3eff4a8f%3A0x9158314aadbb1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.660994099999996,
+        "longitude": -70.252803
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj0r_PmqcskwRsduqFIMVCQA",
+      "provider_id": "/g/11b6ry38mr",
+      "rating": 4.4,
+      "reviews": 577,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "supermarket"
+      ],
+      "address": "290 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 805-1599",
+      "website": "http://www.portlandfood.coop/",
+      "description": "Spacious market for local produce, plus organic goods and bulk staples.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"A good co-op with quality (and reasonably well priced) produce.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqH93i8QEBXMRQrhjy5c2zx4NVJMIBMpvl51RJ_vGXlkOwlG3NFvvFqSCKXMHrOJt2e7LpYSYZ524Vak9avCp8l0KAXzFIPmMjTBqzyOCFDPf5Lf7tu7Z_T6rekT1Zb7nNT2HA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ibZ8MXicHcRJDoIwAADAFyGbiJp4ALQiWhYhBrkQbCooFQqtRfmgb_A3Js5hvp-Kc8qWskwqfVK2bUnwk-EetQ3HDZ-g9iGXlEmISUy2Qj-qLdC5C_02jzZ2Co9RX93fBtLG19Q_eXBnQyqIoR69XGxTUgcD2eo-EAJ0sbNPodsHHteweaDn-JwZ2vRU1ItCOHROlL2VjmAXPuA9sbvxHThgHV6Nw9XkTzPLk1mP60TNLmbjJ5prrQZVURSp-o-k5gcK4UON"
+    },
+    {
+      "position": 3,
+      "title": "Hannaford",
+      "place_id": "ChIJvVhE63OcskwR1_Vf4Dr3w24",
+      "data_id": "0x4cb29c73eb4458bd:0x6ec3f73ae05ff5d7",
+      "data_cid": "7981494796875199959",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c73eb4458bd%3A0x6ec3f73ae05ff5d7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c73eb4458bd%3A0x6ec3f73ae05ff5d7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6639522,
+        "longitude": -70.2681516
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvVhE63OcskwR1_Vf4Dr3w24",
+      "provider_id": "/g/1tm8dl9q",
+      "rating": 4.3,
+      "reviews": 2198,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Shopping mall"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "shopping_center"
+      ],
+      "address": "295 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 761-5965",
+      "website": "https://stores.hannaford.com/me/portland/8351",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Pharmacy"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Glass bottles",
+            "Plastic bags"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Always great produce-delicious n fresh seafood-n low prices\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF99ZMoMqDbCeNUq2yQbibq9kTsODkgb4cAAjmL_bCb0l4fhoeVIHV4Xl90DaMaq6IU5ilRow4ra-XAUFk5f4Sh44LorByXSwiMYNL9TlZCt6oEKpMCGWaNXe3w--bxMBXD5sPC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zehVsXicHcRRboIwGADgE1W6WUi6xIdadDOjqFNc54uhTaGMyg-0C_OEO8NuY-L38P3_2RB6_xJFzs5nNUDtzI83o4YumC7MNFyjuvdIe-Qjtsv3LVtTehYghlRxkxfD822vGjXQ9ui3aVsrohn7vmYXxRV2pLJgTpu3E5GO4rQU5ZBsirhxHzCRsUSSFes2rsjBEpLBuLzJw9SIrzyjR3fmIYHVey_462eZSzOfEFK_YinT2O_4YnrCGCP7WKPuDjBWQ60"
+    },
+    {
+      "position": 4,
+      "title": "Save A Lot",
+      "place_id": "ChIJf4qPGQacskwRrAmUbiHtM2w",
+      "data_id": "0x4cb29c06198f8a7f:0x6c33ed216e9409ac",
+      "data_cid": "7796836107753359788",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c06198f8a7f%3A0x6c33ed216e9409ac&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c06198f8a7f%3A0x6c33ed216e9409ac&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6522448,
+        "longitude": -70.2802394
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf4qPGQacskwRrAmUbiHtM2w",
+      "provider_id": "/g/1w0h7355",
+      "rating": 4,
+      "reviews": 354,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Discount supermarket",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "discount_supermarket",
+        "supermarket"
+      ],
+      "address": "268 St John St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 772-0622",
+      "website": "https://savealot.com/stores/24022?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+      "description": "Source for discount groceries. Discount supermarket chain carrying brand-name & private-label grocery items.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"WOW,What a savings on my\nFood budget\nA Great place to save A LOT of money\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBIF62_Gp06oRhjqBEcgjWQxZdjj239b-e6vRwTnZdk9N9XER1c1tffWt1cqR0I8KFLpxFfIByjigCkxh16O2Q9llHV9MZxKtRJd3vBoQinVJEIzcHaKSParUaHspFg_TcQif9=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oFvEsHicHcTdboIwGADQJ6q0kJB1yS5kAUE2Z-vfwo1hH9BSWFttVdwL7hl8myU7F-fxK7237jkIRhnNhDFibC-uPYPRvtV-BuY7ENYhcMgF8_WKDfNFUmRxeFxYHBsu1SlJQagDm6pGqTCiX6iNr_y21VUz0BX9TDkB4rvu4AmcOC6eyuzNTllXJHfVi9dhkiT-CBkdx3xP36up9HzZRNfEsF7vl2nxA3ldbtb1eVfnzmbiuAXWd_TlRjDGSP4PSP8BHaREeA"
+    },
+    {
+      "position": 5,
+      "title": "Trader Joe's",
+      "place_id": "ChIJG_DLfXKcskwRTimnVXc44QI",
+      "data_id": "0x4cb29c727dcbf01b:0x2e1387755a7294e",
+      "data_cid": "207509143025035598",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c727dcbf01b%3A0x2e1387755a7294e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c727dcbf01b%3A0x2e1387755a7294e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.661814799999995,
+        "longitude": -70.2646208
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG_DLfXKcskwRTimnVXc44QI",
+      "provider_id": "/g/1tj57crj",
+      "rating": 4.6,
+      "reviews": 3885,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Cheese shop",
+        "Health food store",
+        "Liquor store",
+        "Natural goods store",
+        "Organic food store",
+        "Produce market",
+        "Supermarket",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "cheese_shop",
+        "health_food_store",
+        "liquor_store",
+        "natural_foods_store",
+        "organic_food_store",
+        "produce_market",
+        "supermarket",
+        "wine_store"
+      ],
+      "address": "87 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 699-3799",
+      "website": "https://locations.traderjoes.com/me/portland/519/?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "description": "Specialty grocer with housebrand items. Grocery chain with a variety of signature items, plus produce, dairy & more (most sell wine & beer).",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "offerings": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"The produce looked wonderful and priced reasonably.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGNtzcmobGBwbHONqtutIpmcIdyPR306_whPxA8JwMqAeYiwlwcCr-RcTPMo8NGiF3Fra2tFosPFE23IYv6mPtjWjgosvesNsLwwbmbRrviOi8Z6iIfnNx8x4NcQlwlKH-eDrPqw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9MHJRnicHcTRToMwFADQL-pgwxCyxAfUwXBb1xETM1-MXCt0thR677joH_oJ_o2J5-H8_nREA66jyHbJovW-tfqKOoDvSfe0AO-idkABKDDKlTx95ptS0jc435R33GyPcqQrVYOD6v1L1UmcvnKn5jx75MOY67Nhy3AfRA1P6uAzWZoiKcLbigqPqtiskuo8pU7R5fnSepw0StwzN66pw2SOJntJTfXRyzmbbyScLNvdVuiHoEa-5WUcx6L7H0T_B777R-A"
+    },
+    {
+      "position": 6,
+      "title": "Shaw's",
+      "place_id": "ChIJH4t4R-6bskwRPYloQnEZ14k",
+      "data_id": "0x4cb29bee47788b1f:0x89d719714268893d",
+      "data_cid": "9932435477425064253",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bee47788b1f%3A0x89d719714268893d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bee47788b1f%3A0x89d719714268893d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6575062,
+        "longitude": -70.2977049
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH4t4R-6bskwRPYloQnEZ14k",
+      "provider_id": "/g/1tdvty06",
+      "rating": 3.9,
+      "reviews": 682,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Butcher shop",
+        "Deli",
+        "E-commerce service",
+        "Florist",
+        "Grocery delivery service",
+        "Organic food store",
+        "Produce market",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "butcher_shop",
+        "deli",
+        "e_commerce_service",
+        "florist",
+        "grocery_delivery_service",
+        "organic_food_store",
+        "produce_market",
+        "supermarket"
+      ],
+      "address": "1364 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 774-7661",
+      "website": "https://local.shaws.com/me/portland/1364-congress-st.html",
+      "description": "Supermarket with a deli & a bakery. Supermarket chain offering meat, produce & other staples, plus deli & bakery items.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bags"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Clean store, competitive prices, kind and helpfull staff, beautiful Deli!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6MbROIuF-QtnT9N5KKTRG90HdG4cQQXXmEDmhwMw5mCTEjnNLlg1nAgl3YQTBCWA_SOf8K2XQmzgEbcEJ7nUiblF4DMYAGMMR3gOg80WGDewOENUHf5Bp-0jplk8O1MxtQyq9Mw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ueTmm3icHcRRboIwAADQE1WKiIKJH1UKblhqGUb8WkLForYFbU03b-gRvM2SvY_3fnXWDmbuebILRqLvhWwfpr3zXttW2xHvlScGA7gBxkPbgl1ROiVNST8eKWBWV3ER5nlVZjFcH7MJZ6yuFU5U54gL1arCF11spPA1EjI4sGq52qPvL3qK8nHN1FPghuPPmd6dG5lOEnJAGSFlIKiI4D5LWkdxsVufwuUA4GWQ14j65Mey31tM3ML5EELQ_c-B_gMrY0Nk"
+    },
+    {
+      "position": 7,
+      "title": "La Bodega Latina Grocery Store",
+      "place_id": "ChIJDasU1w6cskwR4zW89lMygyw",
+      "data_id": "0x4cb29c0ed714ab0d:0x2c833253f6bc35e3",
+      "data_cid": "3207462695821129187",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0ed714ab0d%3A0x2c833253f6bc35e3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0ed714ab0d%3A0x2c833253f6bc35e3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6549469,
+        "longitude": -70.2754726
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDasU1w6cskwR4zW89lMygyw",
+      "provider_id": "/g/1v42fdbl",
+      "rating": 4.5,
+      "reviews": 225,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "supermarket"
+      ],
+      "address": "863 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 761-6661",
+      "website": "https://www.instagram.com/labodegalatina/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"They have economic prices and a wide variety of Hispanic goods.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCHf50Q9KpoUw4eX5v92DGD0czCv1KeuAoxmRFhVUDlRjBfzwc4K_sy_z-2s567Bm6IYgC5wEyZ_xes3Z5fXo7SG8JH28Am6oViFzSjIL2L-bwMRMl-GrA6dYlY6NHs_9DTCtVgw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fDTTxHicHcRBjoIwFADQE1Uq0iomLiqMoKhRHIm4IZlOKWqhxF-tckOP4G1MfIv3flXGtDB2HFUNelJrqcQNxJXrxojG9LiuHdkC4oDAYZv19sKiIC4J3vpJq_fWEwdy990wCjHvgns_ETemH3U6q7J9qNLztOws95ICnkWHXCB0OK3pPJcBsT_PY_EQMDiS8qCHu2i0iN0Rq6nOTrNud54v3SX6s6t0pVB0ZfQ_Vzldx1D44W9gMmknto8xRtV3jpoPeKREAw"
+    },
+    {
+      "position": 8,
+      "title": "ALDI",
+      "place_id": "ChIJUajyfACbskwR6dYsueaP-kM",
+      "data_id": "0x4cb29b007cf2a851:0x43fa8fe6b92cd6e9",
+      "data_cid": "4898385765830809321",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b007cf2a851%3A0x43fa8fe6b92cd6e9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b007cf2a851%3A0x43fa8fe6b92cd6e9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.674882,
+        "longitude": -70.324967
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUajyfACbskwR6dYsueaP-kM",
+      "provider_id": "/g/11z12zzc52",
+      "rating": 3.9,
+      "reviews": 93,
+      "type": "Supermarket",
+      "types": [
+        "Supermarket",
+        "Discount supermarket"
+      ],
+      "type_id": "supermarket",
+      "type_ids": [
+        "supermarket",
+        "discount_supermarket"
+      ],
+      "address": "1100 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20138\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "9\u202fAM\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(855) 955-2534",
+      "website": "https://info.aldi.us/stores/l/me/portland/1100-brighton-avenue/fn60",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"I walked out with a cart full of $200 worth of groceries!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWWVp3duYddjyDzZdQDVGJ5i2KfBmKl_p63Nch_AB15B-qLIk9OmY7QJn3Dnx4W_k6QqxmU3e6HXj_xLzSx_i9JV45irV09vmNnw-hqOL9xsdL-skIVl3d051AkyJlYcNe_ga31UWpFvhD=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0q3aYHicHcTNboIwAADgJ6oUKyyYeICQOZGgxFiGl8a0HcX-UCxq9SV33tuY7Dt8f79imqxbBoESaNYNQ6f4zfErHczEzTSjgw466wB1wAXpvqplum4abBG7tYxdnvnrxOocr4uon29_Mr1VxMaoooKkWRhlYCw3Mtnp9qMuDMqNXzRExvXo9RHx-Ov7Qnz5OnjSJwVeRP0Vw-SuK_MAYtyViXesBE5usEIMRmEqn4VqacVJd0bhsbGfd5GvHiGEEIj_KTBvffVHCg"
+    },
+    {
+      "position": 9,
+      "title": "Hong Kong Market",
+      "place_id": "ChIJzUpKlwicskwRrku40o8zhhs",
+      "data_id": "0x4cb29c08974a4acd:0x1b86338fd2b84bae",
+      "data_cid": "1983329378711915438",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c08974a4acd%3A0x1b86338fd2b84bae&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c08974a4acd%3A0x1b86338fd2b84bae&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653790099999995,
+        "longitude": -70.27921119999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzUpKlwicskwRrku40o8zhhs",
+      "provider_id": "/g/1vhkk4g4",
+      "rating": 4.5,
+      "reviews": 308,
+      "type": "Asian grocery store",
+      "types": [
+        "Asian grocery store",
+        "Supermarket"
+      ],
+      "type_id": "asian_grocery_store",
+      "type_ids": [
+        "asian_grocery_store",
+        "supermarket"
+      ],
+      "address": "945 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "9\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 772-8688",
+      "website": "http://hongkongmarketmaine.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Great selection of Asian products with good prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEx5WFMG07iIb7JERfgDpXP9w87rXvB0C_7xFT-W5Y6CEh7zknC0tQhdYuZZ1p_OF0aRZkqN8GnXOWUaANxgTb7D97SzZNKHRmpuwFqlgKqvwermeYRXixKeWCc_ldJlr-RyeY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/H5DVSXicHcTbDoIgAADQLyJprai2Hsy0i8uSal5eXBFBExEFL_WB_UN_09Z5ON8PN0bpuWUJPhqwsmSCNprWpJSGSjMgZWExpQHRQFv2MQhz2-3HkbdfQ_Tc3tDOxQ-2UvFx1k1RHbdL6GSo984gGicTx-XonUsHmpDfkyZNhyo7ePCK07wKpmsZH6LL1Q56dr6h1Qyd3mngb3Chms6rBPOrtqN1QRMcP3ufRg7JxH0naoBfNFl0Qwgh4P8JkD-zV0SN"
+    },
+    {
+      "position": 10,
+      "title": "Shaw's",
+      "place_id": "ChIJJa_e2SKbskwR5p7xcjvzzKQ",
+      "data_id": "0x4cb29b22d9deaf25:0xa4ccf33b72f19ee6",
+      "data_cid": "11875133754126212838",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b22d9deaf25%3A0xa4ccf33b72f19ee6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b22d9deaf25%3A0xa4ccf33b72f19ee6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.702414499999996,
+        "longitude": -70.2880275
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJa_e2SKbskwR5p7xcjvzzKQ",
+      "provider_id": "/g/1hc764wq6",
+      "rating": 4,
+      "reviews": 479,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Butcher shop",
+        "Deli",
+        "E-commerce service",
+        "Florist",
+        "Grocery delivery service",
+        "Organic food store",
+        "Produce market",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "butcher_shop",
+        "deli",
+        "e_commerce_service",
+        "florist",
+        "grocery_delivery_service",
+        "organic_food_store",
+        "produce_market",
+        "supermarket"
+      ],
+      "address": "91 Auburn St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 797-4304",
+      "website": "https://local.shaws.com/me/portland/91-auburn-st.html",
+      "description": "Supermarket with a deli & a bakery. Supermarket chain offering meat, produce & other staples, plus deli & bakery items.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Pharmacy",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bags"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"A very nice store that is well stocked and has good prices on groceries.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHi7Vaxb_6tUEBts8qdF1fH0iuF17sAQQmBOaPI-ysDPDOP6bCKDE_4u6HrRkJz0KeilFSq3MYYW7ryk3ISwMshoR6_WdwPHnm5t4VDAUZbcz85mrg6LYMVTOgHgtmm7oZppIxc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0E7B6nicHcRLDoIwFADAE1VK0GJMXKBIiooUPxjcEKlYCJQirwT1gp7B25g4i_l-Cq1bmBlGXVgjoZSo8x7yjqtG540ecSUN0QLigMBw2C6qHFra8fWZpUSfVgsN08fNM-8Ul71n2uBEkVyEV-ajF7jMDRnJlht3lY57Qrt9tX7jTV7W3uFhBUlytrtXZfmHIYBC7Ul6vg2MNnKix7HrnC4Zf08nshNkmwTxMRRUaCltdWlb_8nng4kxRsV_jpofKzZEuw"
+    },
+    {
+      "position": 11,
+      "title": "Peace Food Market",
+      "place_id": "ChIJbwnQZ2ucskwRwAkIyg07CoM",
+      "data_id": "0x4cb29c6b67d0096f:0x830a3b0dca0809c0",
+      "data_cid": "9442424499145804224",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b67d0096f%3A0x830a3b0dca0809c0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6b67d0096f%3A0x830a3b0dca0809c0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.659814499999996,
+        "longitude": -70.2581462
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbwnQZ2ucskwRwAkIyg07CoM",
+      "provider_id": "/g/1vvdttqm",
+      "rating": 4.4,
+      "reviews": 65,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "supermarket"
+      ],
+      "address": "21 Chestnut St Unit 102, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "8:15\u202fAM\u20139:30\u202fPM"
+      },
+      "phone": "(207) 541-3969",
+      "description": "Tiny shop stocked with groceries (including Middle Eastern options) alongside friendly service.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Cheap prices & a very helpful/polite cashier.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9ANy5ARroesqtOar7ls46A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=175.52351&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WlScPXicHc3bDcIgFADQbfiTRxVrTYjpApq4gKH0CiS0IFyL3ca13EbjAud83g4xlSNjBTMALh5q8i8IZZM0tTHaADr5Qk2c2CIYuuc0zNqHU9Jz9KPq-vMq-2uOUB540bkNZbfviRluJniYURXQ2Thq60_McaQ2FVLVgROnuoasuirRSiqbrRQkeTROcfJf7nFRgvMvfKU5jw"
+    },
+    {
+      "position": 12,
+      "title": "Milly\u2019s Market",
+      "place_id": "ChIJLSEYdgCdskwRE_u3A9KpBt8",
+      "data_id": "0x4cb29d007618212d:0xdf06a9d203b7fb13",
+      "data_cid": "16070719039788808979",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d007618212d%3A0xdf06a9d203b7fb13&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d007618212d%3A0xdf06a9d203b7fb13&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6581992,
+        "longitude": -70.2570509
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLSEYdgCdskwRE_u3A9KpBt8",
+      "provider_id": "/g/11xrjj33y_",
+      "rating": 5,
+      "reviews": 18,
+      "unclaimed_listing": true,
+      "type": "Market",
+      "types": [
+        "Market"
+      ],
+      "type_id": "market",
+      "type_ids": [
+        "market"
+      ],
+      "address": "201 Federal St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "8\u202fAM\u20137\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "website": "https://www.instagram.com/millysmarketme/",
+      "extensions": [
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "user_review": "\"Lots of items to choose from and prices were reasonable.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2knINqQw8ZMef49RePKn5WsaUlYl46EmG9HKUsStweM1W0L4Dsa8SHhdgygnvppIV4J9livXlfSJWUvFZUVnoHB7D6uwxFZ36iPff3ktdKJsWxcNLyRPv-42eGUW-xUE4Jm-oRHRYTFHZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vyygVHicHcTbboIwGADgJ6qgVJQlu9AoVlDCYbXKnamlGErL9lcOT7nrvY3Jvovv77e2toMPx1G1N5PGSCVeIH640VZoO-OmdWQHiAMCZ5MmWbMJF40-Jt_ZsC7PosJBLtJYLxncqbop7O_bQ0BiCoUdxHnO3BPewX1dkPohJ6n7rjtecBSoZ39VVREx2oclvWhDtqud_xrGsPT8Z1pVXmMfcQRs5MlpytMe4YU4UIZGusdRi0xO8ttXSMrPYe66Lqr_50i_AZzaRxU"
+    },
+    {
+      "position": 13,
+      "title": "Union Wharf Market",
+      "place_id": "ChIJGet3Rj6cskwRih_96Nf8v0I",
+      "data_id": "0x4cb29c3e4677eb19:0x42bffcd7e8fd1f8a",
+      "data_cid": "4809840931312050058",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3e4677eb19%3A0x42bffcd7e8fd1f8a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3e4677eb19%3A0x42bffcd7e8fd1f8a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6547262,
+        "longitude": -70.2539278
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGet3Rj6cskwRih_96Nf8v0I",
+      "provider_id": "/g/11f3trr301",
+      "rating": 4.3,
+      "reviews": 43,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Cafe",
+        "Coffee shop",
+        "Takeout Restaurant",
+        "Restaurant",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "cafe",
+        "coffee_shop",
+        "meal_takeaway",
+        "restaurant",
+        "supermarket"
+      ],
+      "address": "1 Union Wharf, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 756-6230",
+      "website": "https://unionwharfmarket.com/",
+      "description": "Specialty shop for local food & products. Upmarket grocery offering coffee & snacks, plus pantry items sourced from area producers.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I appreciate the quick convenience and high quality, fair price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEE5st6Fq2q4EBjJ_FY_XqcNyiIYd2cw-u5g9QkwHYQ7uqsT24F4qkzIjMHSooDbC61RhPvkseP3RQwGij0rIcNtln_sqk-Bi1YGJPQ4BTP74w7AZV0KeRJkX_7ON5ni0U9uQzF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KtiXjnicHcTdboIwGADQJ6oULBKXeAEKCkbWIltkNyTrGn7KWutX1swX3DPsbUw8F-f_r7f2Ci-eN_XLRad1N4kZxI1rZYWyC66_ve4KiAMCL6Ylk3GahmBXmQkMSZOxaLOmvRhe_g558xVwh-awWzPpDg2LZgN1QDJi5D0fT4ez1rvP7cqvevojQdBlxdx-GPEt56WdVAtGomTwm31BGUlqGhEXxR_v-CiqQl7a6LUM1YDf1jO7ZxvnY4xR_5wj9QA5_0Pd"
+    },
+    {
+      "position": 14,
+      "title": "Sun Market",
+      "place_id": "ChIJ1-XGNhGcskwRkxlcvhwAzH4",
+      "data_id": "0x4cb29c1136c6e5d7:0x7ecc001cbe5c1993",
+      "data_cid": "9136677867480684947",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1136c6e5d7%3A0x7ecc001cbe5c1993&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1136c6e5d7%3A0x7ecc001cbe5c1993&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6533558,
+        "longitude": -70.2641269
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1-XGNhGcskwRkxlcvhwAzH4",
+      "provider_id": "/g/1vl9r2g3",
+      "rating": 4.5,
+      "reviews": 358,
+      "type": "Asian grocery store",
+      "types": [
+        "Asian grocery store",
+        "Oriental goods store"
+      ],
+      "type_id": "asian_grocery_store",
+      "type_ids": [
+        "asian_grocery_store",
+        "oriental_goods_store"
+      ],
+      "address": "626 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 772-8675",
+      "description": "Compact store featuring an array of Asian groceries and snacks, plus kitchenware and spices, and sake.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"I like having a variety of spices with cheap prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkL62cSs2WF8EmjNhTz3ZXujqZVeiHf0ML6k5jZqomw9SnlySwKFPWnb4bIEhRvAnwyj62sK34Yg7ZwD8pEhjWdJ_N5CYfgJXHyp0hx50p2rog6tE1AZI7isbo8c_xDUjsR8mCTA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/he428nicHcTdboIwGADQJ0IqCOISLxqp8Zc4cUN6Y0LF1gJt9atW9oZ7BN9myc7Fef8Kaw18-H4rwgHXmrf1A-o708rWyg6Y7nxuwGPggY932WeDSbOJA5ZDUMwT0slMHH5CenzIG_2ur4sL2m7iJpL0pjs3yVXb52493xWqGlVLIvZPrFwv4wDW4ajkY-rSxBAhi_PqlEWz8sJXx0VvkHhFyAR3zWNLhpgux1eodMJOr_RLwj7pZgc8dUOEkCf-Z576AxFnRac"
+    },
+    {
+      "position": 15,
+      "title": "Shaw's",
+      "place_id": "ChIJGeXS1IKeskwRh-TRVL6kl7I",
+      "data_id": "0x4cb29e82d4d2e519:0xb297a4be54d1e487",
+      "data_cid": "12868935597608264839",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e82d4d2e519%3A0xb297a4be54d1e487&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e82d4d2e519%3A0xb297a4be54d1e487&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6370225,
+        "longitude": -70.254178
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGeXS1IKeskwRh-TRVL6kl7I",
+      "provider_id": "/g/11h_w2cgf_",
+      "rating": 4,
+      "reviews": 1001,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Butcher shop",
+        "Deli",
+        "E-commerce service",
+        "Florist",
+        "Grocery delivery service",
+        "Organic food store",
+        "Produce market",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "butcher_shop",
+        "deli",
+        "e_commerce_service",
+        "florist",
+        "grocery_delivery_service",
+        "organic_food_store",
+        "produce_market",
+        "supermarket"
+      ],
+      "address": "180 Waterman Dr, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 799-8149",
+      "website": "https://local.shaws.com/me/south-portland/180-waterman-dr.html",
+      "description": "Supermarket with a deli & a bakery. Supermarket chain offering meat, produce & other staples, plus deli & bakery items.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bags",
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Got 2 huge containers of precut strawberries for $10 total.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGI3IQv2DcL6evlo3TH9mDSvhITjzccAdH6hmmQeiF3tiqmJ44XhBp0MZxKnA1vGi0_juKli3hSoCL2r5eVYR_Am68Tk9U6Q3iB_JyZeejRTYpRFhRvUAJOvpBHTswGfA8F0OyqlQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/77eWRnicHcRLcsIgAADQE8WgaEadcUHq5KdViaRjssmC0kCEgIL4uWGP4G0607d471_unLHLMJQcjjqtO8lull2pHhwb3IhqFXbGBtQGNkSHHT6jNIc59pM13UbMSw1JtlDro-c56V-Uou8s4kphJhLoxEUV0-mJxwZ8No_NgMY-FaDtbxspID_qj-3kOmNfddkiFc3JeVFFGIq4LZ4NY31JalMmvPQVKvbexBmx9_QHzROwf14kXt3HAICA_0-D4Q_VC0Ux"
+    },
+    {
+      "position": 16,
+      "title": "Micucci Grocery Co.",
+      "place_id": "ChIJr9PmvEGcskwR7zMppHcd2v0",
+      "data_id": "0x4cb29c41bce6d3af:0xfdda1d77a42933ef",
+      "data_cid": "18291965236211168239",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c41bce6d3af%3A0xfdda1d77a42933ef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c41bce6d3af%3A0xfdda1d77a42933ef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6603411,
+        "longitude": -70.2496163
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr9PmvEGcskwR7zMppHcd2v0",
+      "provider_id": "/g/1tk22jpz",
+      "rating": 4.8,
+      "reviews": 649,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Deli",
+        "Pizza Takeout",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "deli",
+        "pizzatakeaway",
+        "wine_store"
+      ],
+      "address": "45 India St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135:30\u202fPM",
+        "thursday": "8\u202fAM\u20135:30\u202fPM",
+        "friday": "8\u202fAM\u20135:30\u202fPM",
+        "saturday": "8\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135:30\u202fPM",
+        "tuesday": "8\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 775-1854",
+      "website": "http://micuccis.com/",
+      "description": "Grocery store selling Italian meats and wines, plus deli eats, fluffy pizza and slab pizza.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "offerings": [
+            "Flowers",
+            "Pharmacy"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"Great store with very reasonable prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmR61R8rqTey_OO5AhvXauXCtz40TwgB7TZ65qmxx2VAqq8vfFIa5YEO-qonbaE_wCBUEUxUNlHObRo7bbHgXxt_7IWXku541YxRHdKSBlRAAwRVGnpgpVhq9XS9lu02SrpgDd=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J4kgHHicHcTbToMwAADQL-ook8tm4kOZKIvJmOVi5wvhZpus9ELLqP7gvsG_MfE8nN87s1aZR8_j7GFDpaR8XMw491LYUdhNLyePKgN6A4yHzqf3K0onHPl4N-ty_G7yPETsRtqFHOxPAMuVJnH5GYV6cm5bI613t6-XYxte0hxoKbo2bdZDUqWVq048yzss467LKHG2iY8f5LqEgX9xOBveioRjhFZcvwpFVc30nhR7vsBtMSv6PDytPoQQsP97IP4AeZNFHA"
+    },
+    {
+      "position": 17,
+      "title": "Sindbad Market",
+      "place_id": "ChIJVaFHD5CbskwRHXYZi-YZSAQ",
+      "data_id": "0x4cb29b900f47a155:0x44819e68b19761d",
+      "data_cid": "308525052441753117",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b900f47a155%3A0x44819e68b19761d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b900f47a155%3A0x44819e68b19761d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6723138,
+        "longitude": -70.285434
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVaFHD5CbskwRHXYZi-YZSAQ",
+      "provider_id": "/g/1td3l5wb",
+      "rating": 4.5,
+      "reviews": 100,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "supermarket"
+      ],
+      "address": "710 Forest Ave #3, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8:30\u202fPM",
+      "hours": "Open \u00b7 Closes 8:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138:30\u202fPM",
+        "thursday": "9\u202fAM\u20138:30\u202fPM",
+        "friday": "9\u202fAM\u20138:30\u202fPM",
+        "saturday": "9\u202fAM\u20138:30\u202fPM",
+        "sunday": "9\u202fAM\u20135:30\u202fPM",
+        "monday": "9\u202fAM\u20138:30\u202fPM",
+        "tuesday": "9\u202fAM\u20138:30\u202fPM"
+      },
+      "phone": "(207) 879-4469",
+      "description": "Market featuring Middle Eastern spices and meats, plus friendly service.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"They have amazing prices and products.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgfQYyWCOSRIR4l3abO3fKCsxKUytHkYPgpmHBCj_WAruoSpUhJ8Ey6zjrtdF9pm0VEBNaP9VSQFk0GmlXyQdO5z5i2x5xkY88Sa0w0xQPFMhnTPTLJndjU5qozi8FSTX5w88SWj156Skr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aHhbmXicHcpLcoIwAADQEyGxGAc70wUyovVHYkBk5VDARAJJSuLwuaRrb2Onm7d6ryczRulP266ZM6FS0rp86LLNpTClMJNcNjZV2sq1pW0PHTH31vSG0yHxQ3L6Ps1qJ_sJndvO1_0uHsyGp4iqZrP0q2vitQ9JVMy27mqYj1VrimChGnBeLY8ZWpwJDjhYN_VlwEUIR3j_6GHPU9clGehAj1FwYCJC0X4riiqGv3K8uwGJLrD7K0k1hXPC269uCgCw2L-5Jd7UoEd8"
+    },
+    {
+      "position": 18,
+      "title": "Browne Trading Market",
+      "place_id": "ChIJ-wVMFD6cskwRau4lnCbM1mg",
+      "data_id": "0x4cb29c3e144c05fb:0x68d6cc269c25ee6a",
+      "data_cid": "7554449891161140842",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3e144c05fb%3A0x68d6cc269c25ee6a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3e144c05fb%3A0x68d6cc269c25ee6a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6541861,
+        "longitude": -70.2549264
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-wVMFD6cskwRau4lnCbM1mg",
+      "provider_id": "/g/1260gkgk2",
+      "rating": 4.8,
+      "reviews": 225,
+      "type": "Seafood market",
+      "types": [
+        "Seafood market",
+        "Gourmet grocery store",
+        "Wine store"
+      ],
+      "type_id": "seafood_market",
+      "type_ids": [
+        "seafood_market",
+        "gourmet_grocery_store",
+        "wine_store"
+      ],
+      "address": "262 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 775-7560",
+      "website": "http://www.brownetrading.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Great stuff, but be prepared to pay\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWvHDgoMN_EON_WzMz4NK9RkpSc7Tvmv0Ktjqz99OaDWlTMLsWTjhJttH8zyJCRxBqizQ715az9xDuUG1wlwlI6ZbkH3e-FoPOPLO1uHmOatjY34S_UQgNshem_Hj7S_WT5Ris=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ImIouXicHcRdboIwAADgE1UgqMiSPbjh1qm0_JlmvjTYNK1QKNoCrhfcGbzNkn0P3_NXWjuYF89TMlwIrYXio-F3pnvLe7tguvPEYAAzwHjbDOXtFpIJJkKniO4wosSlbokOcdEOJYuqqZv8g21uLo5xnRBVpUdDqkburYUb97N_Lx5vt6vLo2BVu_iRjKfPYFaz-lqfLy0MOfjQGc6OOBhhh2vbfIfLkp5ygYzkHYVNVFJSrYqreZ0D3_eB_J-B_g-vM0V4"
+    },
+    {
+      "position": 19,
+      "title": "Hilltop Superette",
+      "place_id": "ChIJuShGHWicskwRmqd6gcuRjjg",
+      "data_id": "0x4cb29c681d4628b9:0x388e91cb817aa79a",
+      "data_cid": "4075355016053565338",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c681d4628b9%3A0x388e91cb817aa79a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c681d4628b9%3A0x388e91cb817aa79a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.665646599999995,
+        "longitude": -70.2485382
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuShGHWicskwRmqd6gcuRjjg",
+      "provider_id": "/g/1trvl0n3",
+      "rating": 4.1,
+      "reviews": 162,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Beer store",
+        "Convenience store",
+        "Liquor store",
+        "Restaurant",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "beer_store",
+        "convenience_store",
+        "liquor_store",
+        "restaurant",
+        "wine_store"
+      ],
+      "address": "135 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u20139\u202fPM",
+        "saturday": "7\u202fAM\u20139\u202fPM",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 773-8000",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"Basically two meals for $10.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGo5ymdV28pCYM7q6vW8p80cK9CoG22GGOSRTcbOSzOR09v14NE2uByHaUGfPnQWl5pZrqSj3C5QOT1CkZ3IAXFNUdwFEd6f-nlDXUyCNvfXJ6UMTqxsP60B9NwKnQxofshUdRxoA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CDD4VXicHcRLcoIwAADQE0UCFARnXGAKqTqGbxTdteE3ikkwyMcbeoTepjN9i_f7bvpeqpWmtY25qIWo2_KpygcTvC95v2DirtVSAaaA0ryIxDcPC2u-F0fDkeh8WHb2cHKkA9neRQIbBsZhmmTsJ0xfYQLdQf8gvvHczF_fFFcRj0-tJS-PLr2ayIrDTEe3i7n18oDQYgz8wq4Abz9zOiMyVPnOpoesm1Rkw41Lxj2PJ1GphhbJJLz1qEMIQfM_A_wPM81D_Q"
+    },
+    {
+      "position": 20,
+      "title": "Veranda Asian Market",
+      "place_id": "ChIJVSc8HpCbskwRjMZ72RUJoQI",
+      "data_id": "0x4cb29b901e3c2755:0x2a10915d97bc68c",
+      "data_cid": "189442648774002316",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b901e3c2755%3A0x2a10915d97bc68c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b901e3c2755%3A0x2a10915d97bc68c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.671690399999996,
+        "longitude": -70.2843273
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVSc8HpCbskwRjMZ72RUJoQI",
+      "provider_id": "/g/11_pqcx3h",
+      "rating": 4.4,
+      "reviews": 660,
+      "type": "Asian grocery store",
+      "types": [
+        "Asian grocery store",
+        "Japanese grocery store"
+      ],
+      "type_id": "asian_grocery_store",
+      "type_ids": [
+        "asian_grocery_store",
+        "japanese_grocery_store"
+      ],
+      "address": "695 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 874-8001",
+      "description": "Asian grocery store offering a wide selection of products such as produce, noodles, frozen foods, and banh mi.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Food",
+            "Prepared foods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Best price for kimchi i've found in the area.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFc7h09xqR9n2ZWQCOrMIw3ZJLhUkQDt3T38mVfq7yKGTJ1NwcBPM2vKZ_Uy9pp-XbNvFALWcVr8xlzd7wjlKIhBi9chZixsAdMh7CGpJhkEKJPI7IwlQqpR-TlDutC5FcXN3Izg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IH03wHicHcTdboIwGADQJ6qgzVJZsgtEIQVhYPAn3Jj4gXyOCoVWC77hHmFvY7Jzcf5-UWupPi1LIJ3VXVeL6qGqAbpWV62eQXe3aqkIKKIsN02yxg18YGg7Y79z2kVxzLzvIeaGFuEW90221jSny_vh2rMpCvJwnhhYpfHiGRXn_eRISU6X5Om72yMchuUoXiUzPyLiuLo5gMVtVG4ZI_MCGWKzicKUM25E1ssdycX6ob0PH04J5a_6y8xt2yb4P5D2Dbg1RSU"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=cheap+grocery+stores+in+Portland%2C+ME&start=20&type=search"
+  }
+}

@@ -1,0 +1,1286 @@
+{
+  "search_metadata": {
+    "id": "6a4e67d5bf04d5aa52ae715b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6-sT2WuDNJZtpZrKR1s35A/6a4e67d5bf04d5aa52ae715b.json",
+    "created_at": "2026-07-08 15:08:05 UTC",
+    "processed_at": "2026-07-08 15:08:05 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/short+term+rentals+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/6-sT2WuDNJZtpZrKR1s35A/6a4e67d5bf04d5aa52ae715b.html",
+    "prettify_html_file": "https://serpapi.com/searches/6-sT2WuDNJZtpZrKR1s35A/6a4e67d5bf04d5aa52ae715b.prettify",
+    "total_time_taken": 1.01
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "short term rentals in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "short term rentals in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland Maine Rentals",
+      "place_id": "ChIJETK6URGcskwRJPRqT4YN4pU",
+      "data_id": "0x4cb29c1151ba3211:0x95e20d864f6af424",
+      "data_cid": "10800209726897058852",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1151ba3211%3A0x95e20d864f6af424&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1151ba3211%3A0x95e20d864f6af424&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.661122399999996,
+        "longitude": -70.2564785
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJETK6URGcskwRJPRqT4YN4pU",
+      "provider_id": "/g/12333qn98",
+      "rating": 4.6,
+      "reviews": 41,
+      "type": "Apartment rental agency",
+      "types": [
+        "Apartment rental agency"
+      ],
+      "type_id": "apartment_rental_agency",
+      "type_ids": [
+        "apartment_rental_agency"
+      ],
+      "address": "225 Cumberland Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 774-5358",
+      "website": "https://www.portlandmainerentals.com/",
+      "description": "Seasonal, clean and spacious apartments in a variety of neighborhoods, plus property management.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online appointments",
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_appointments": false,
+        "onsite_services": false
+      },
+      "user_review": "\"Units well equipped and comfortable.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnLgtZTBNpgdyCmcutivKNegcQP74HJ7UJ69Do-GmhlMTSNiefMJzPT8o4jdQSXncsRKbx0xP9XrQ4jhPwPBgSGLTnt6gl1zbGl02LKRiui9mOvzvmCUPrRh-Qkw04E65smEk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pygttnicHcRdDoIgAADgE5FUZtnWQ1mzqRmoba1HicDkxwlqecDu0G3a-h6-74db25i14wg-nzCtmaCdoS3RylJlJ0RLhzUGEAOMs0UprrehSpi9Fbu0Yfd3IElnqz5OKSMYLd1jtLxEnr_XIJRcnIo8rejjFI2oWGn3ecf5VRGTxeULvpB_bbH75GhAO5aHSaGsx8R0LEMBZ0mcVV3ly3M_9jK4oDbjANcDdA_ewshDvRmmEELA_xOgfm3yRRE"
+    },
+    {
+      "position": 2,
+      "title": "Princeton on Back Cove",
+      "place_id": "ChIJkyZIvYmbskwRBM1OcFnNCWM",
+      "data_id": "0x4cb29b89bd482693:0x6309cd59704ecd04",
+      "data_cid": "7136460868565257476",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b89bd482693%3A0x6309cd59704ecd04&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b89bd482693%3A0x6309cd59704ecd04&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6676931,
+        "longitude": -70.2760863
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkyZIvYmbskwRBM1OcFnNCWM",
+      "provider_id": "/g/1tp07q0l",
+      "rating": 3.9,
+      "reviews": 36,
+      "type": "Apartment complex",
+      "types": [
+        "Apartment complex",
+        "Apartment building",
+        "Apartment rental agency",
+        "Condominium complex",
+        "Condominium rental agency",
+        "Real estate rental agency"
+      ],
+      "type_id": "apartment_complex",
+      "type_ids": [
+        "apartment_complex",
+        "apartment_building",
+        "apartment_rental_agency",
+        "condominium_complex",
+        "condominium_rental_agency",
+        "real_estate_rental_agency"
+      ],
+      "address": "100 Forest Park, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 387-4483",
+      "website": "https://www.backcoveapts.com/?switch_cls[id]=64174&utm_source=google%20-%20entrataseo&utm_medium=organic&utm_campaign=gmb&utm_content=websiteclick",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Maintenance",
+            "Outdoor Space",
+            "Pets welcome"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "amenities": [
+            "Fitness center"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The staff is quick to respond and very friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyl4pkX4CIn-1pQIoJODyHRYPFk4rHEwTYquJysNH-1q4AWaIAB5vLfowQqhMjjHbcd7ZDjZ7E7kvznMuxG9YPcVAgW4TcBXEptLrb14gXLMhwxl5ONCrVPGo6sw8VXG5g1d3s=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2VqaQnicHcRBjoIwAADAF1VoLIuaeCjKAgYQjEHwtla2DWBbaLHiB32DvzFxDvN-Ma2lWllWx-YzKgTt6lHVAxFc11zPiLhZVCpAFFAWztK8xf7UIdmWaBNxAGUeid1-O4WHKvtt0RD65lj1425SaQhgj_DpL8Kec4__hcl7ljRNeCFX97xtzq7vtvcnT8ZHsKwyUmB6Qkfilb7U8XCBiJZxwsyjc_bpZiiyQPwosyjKwKHwOldrA23bBuw7AfwDWPNElw"
+    },
+    {
+      "position": 3,
+      "title": "Ahmed rentals",
+      "place_id": "ChIJ0_fJXIadskwRl5TIs29WDgo",
+      "data_id": "0x4cb29d865cc9f7d3:0xa0e566fb3c89497",
+      "data_cid": "724611627810854039",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d865cc9f7d3%3A0xa0e566fb3c89497&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d865cc9f7d3%3A0xa0e566fb3c89497&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6548547,
+        "longitude": -70.2759275
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0_fJXIadskwRl5TIs29WDgo",
+      "provider_id": "/g/11t13stcdq",
+      "rating": 4,
+      "reviews": 8,
+      "type": "Real estate rental agency",
+      "types": [
+        "Real estate rental agency"
+      ],
+      "type_id": "real_estate_rental_agency",
+      "type_ids": [
+        "real_estate_rental_agency"
+      ],
+      "address": "871 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 200-5503",
+      "website": "https://ahmedrentals.com/",
+      "user_review": "\"Unit was nice, clean, and located in a safe area.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGou6HMm3SIoqQ48l_0IIUE9aJqWhbAZK29ci9xJJt3w1pE_gHT25OBbLyqUoarUPW2db5ie1ovoLUEAE5NIGmYITO-C_lNL52PG86kiwqvLekw8YUfElvwV4ok11_olwt8OgMQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cjEDT3icHcTdboIwGADQJ6pQEAMmXrClwSLyk9kZd0Okq4VQ-MBWqk-4Z9jbLNm5OL8_rTGT3jqOav2VBJBKPLS4cxiNGM2Kw-DISSOukXbiMq_6OIHHZn8c_A8Kc7UOVe1Sykh0Tedz28RfBy_iXfRMU-NbPJFa7k9eULw12WtmcL2z8ux9N0EnMCyQMRKTIKfJcKGnAr3XKs8Cr0zCTd_ZeclEb8MLuxG12M819BjXoKwJC3msdha7rova_zka_wDsvEPR"
+    },
+    {
+      "position": 4,
+      "title": "Apartment Mart",
+      "place_id": "ChIJGUfpGBGcskwRjy5VlNo5VkI",
+      "data_id": "0x4cb29c1118e94719:0x425639da94552e8f",
+      "data_cid": "4780071665454624399",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1118e94719%3A0x425639da94552e8f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1118e94719%3A0x425639da94552e8f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653419799999995,
+        "longitude": -70.2658467
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGUfpGBGcskwRjy5VlNo5VkI",
+      "provider_id": "/g/12cp188jd",
+      "rating": 2.9,
+      "reviews": 30,
+      "unclaimed_listing": true,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building"
+      ],
+      "address": "657 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 773-1814",
+      "user_review": "\"Had a great experience and rented from them for almost three years.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYUiBPtOs4DXt8fvavMd1Wg1093ZwRVHhuNvG5UqegNh0sGk1OFB7aqhHzZPFvD_BneAqu_L-YXw4sl0vlr-aK3G9tUiH1en0M6F3XkhphRPI3sCBt12ZQd2max-IXP-79sdEJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MjdL_HicHcRLDoIwFADAE1Va6w8TF6AC_rCaoMjGEKitAQv4SjFe0DN4GxNnMd-P1LqGqWWVkvZEVYmSt8CfWaU0V7qXVQ9L1IAyQGA5LDwUjn-J7i7TexgsYj25mdTscnIWBNs06Y6nQLah8YdRw0UoMfgF2XvuOG1k8E6YZxZXV3Gnaa9bdIm7AZTYlE-Ubqhv6-geEK7wbuTRuJC1PLIVhbmrST855P1H-kKrmKGxDflyPesIxhjJ_xlSPzLLQ4Q"
+    },
+    {
+      "position": 5,
+      "title": "Princeton Pines",
+      "place_id": "ChIJxz-XCAWbskwRMqPz-bR9Sz0",
+      "data_id": "0x4cb29b0508973fc7:0x3d4b7db4f9f3a332",
+      "data_cid": "4416762075807982386",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b0508973fc7%3A0x3d4b7db4f9f3a332&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b0508973fc7%3A0x3d4b7db4f9f3a332&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6925126,
+        "longitude": -70.29881739999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxz-XCAWbskwRMqPz-bR9Sz0",
+      "provider_id": "/g/1tx4nz8l",
+      "rating": 4,
+      "reviews": 57,
+      "type": "Apartment complex",
+      "types": [
+        "Apartment complex",
+        "Apartment building",
+        "Apartment rental agency",
+        "Condominium complex",
+        "Condominium rental agency",
+        "Real estate rental agency"
+      ],
+      "type_id": "apartment_complex",
+      "type_ids": [
+        "apartment_complex",
+        "apartment_building",
+        "apartment_rental_agency",
+        "condominium_complex",
+        "condominium_rental_agency",
+        "real_estate_rental_agency"
+      ],
+      "address": "1375 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 387-4466",
+      "website": "https://www.princetonpinesapts.com/?switch_cls[id]=64174&utm_source=google%20-%20entrataseo&utm_medium=organic&utm_campaign=gmb&utm_content=websiteclick",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Fitness center",
+            "Gender-neutral restroom",
+            "Maintenance",
+            "Outdoor Space",
+            "Pets welcome",
+            "Swimming pool"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Smooth move in, good amenities, overall amenities and stay are very good\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJ2vsPdzqfW4ECjtOZIwVQCzlJhP3LGHjvxNMqL8BXL5m8qNn9msX7-HQkU-Nsgp2r_ryxCHCrsO_B0_5mfuzSmNAnilePpstPdi2vjmexrCvVn4x7s0SSVn8P6nM0fL4cmA8jYBoe4xmW=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DPpBonicHcTBboIwGADgJ6p0iMqWeIDGiAZrCRHdLhxqAZG20L9ix0t69m2W7Dt871djbQ9fntc181mtdd2JBwjDtbJC2RnX0qt7QBwQeBGj2T1K9v4I7DoN1TnYkNYef3bPIiNTt2_YPN0m7ejoYUjD-JIuZDhQ9SnhskJJdj8hCnXvm9L8OpIQA8cyxuVCVo8plzRSt06wHiy73vyxlcIZMhYqcCvAeV6okC3VAVdpwGUUtt-xFoGT5_XzA2OMmv85Un8VfUjE"
+    },
+    {
+      "position": 6,
+      "title": "Apartment Locator | Johnson Realty",
+      "place_id": "ChIJS8Li6g2cskwR8J3UbDV2REU",
+      "data_id": "0x4cb29c0deae2c24b:0x454476356cd49df0",
+      "data_cid": "4991244258864569840",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0deae2c24b%3A0x454476356cd49df0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0deae2c24b%3A0x454476356cd49df0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.656850899999995,
+        "longitude": -70.2694628
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS8Li6g2cskwR8J3UbDV2REU",
+      "provider_id": "/g/1vrq972p",
+      "rating": 4.4,
+      "reviews": 33,
+      "type": "Property management company",
+      "types": [
+        "Property management company",
+        "Apartment rental agency"
+      ],
+      "type_id": "property_management_company",
+      "type_ids": [
+        "property_management_company",
+        "apartment_rental_agency"
+      ],
+      "address": "76 Park Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 774-9303",
+      "website": "http://www.rentwithus.com/",
+      "user_review": "\"Will rent with them once I return to the area.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAET73VHxZH5SxpYSzwKxE9sAJjEfC769IV1TzmRHvvu3-UVK9zg_9ZU5Abju0Tksq2nvQUhRqlcWyzQHgdyXTjESALiU38YoSoAMYTJLeS1Bk3CNcxLkqOif7HgEpPkCQDrTths=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_PzRbXicHcRdboIwAADgE1VgDTJM9lCxSaf4gy1MfDFZh60UKdiCyAU9g7cx2ffwvZ7S2sbMHKeScCK0FlXRmeLGdW2L2k64vjqiMYAbYBy02yQKYRbAjAxH4tOhyel4Xw04NGhZ4nMUTMPvzGPjdU_6voMgzVbhKE7hMfXRb9m5TJn2o-6TVO7biv88xoSIv8eBlZii-JLCz1xTjdY5W8YF9eYKRhs-xKrdXs4BEbjZqShZ3JiV5uvuua4L5P8c1G9a0kUI"
+    },
+    {
+      "position": 7,
+      "title": "Morton Leasing",
+      "place_id": "ChIJp1RSyiCdskwR00-9-wDq6zw",
+      "data_id": "0x4cb29d20ca5254a7:0x3cebea00fbbd4fd3",
+      "data_cid": "4389859551747067859",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d20ca5254a7%3A0x3cebea00fbbd4fd3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d20ca5254a7%3A0x3cebea00fbbd4fd3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6565996,
+        "longitude": -70.2609336
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp1RSyiCdskwR00-9-wDq6zw",
+      "provider_id": "/g/11jr9s3qpl",
+      "rating": 4.6,
+      "reviews": 52,
+      "type": "Real estate rental agency",
+      "types": [
+        "Real estate rental agency"
+      ],
+      "type_id": "real_estate_rental_agency",
+      "type_ids": [
+        "real_estate_rental_agency"
+      ],
+      "address": "511 Congress St Ste 101, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 475-6994",
+      "website": "https://www.mortonleasing.com/",
+      "extensions": [
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        }
+      ],
+      "user_review": "\"We rented our property with no friction and maximum value.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGo83Z36hPX6jKPlvnrFPnecGCFVAnv5fbr-6v3aDyDeS_lxujNtteeQcPt04ct9K-bEdT3zxexKTrKmTYf6gX2ZAs5I_5ARGe85kALNL-F5S_eKMxRICe3k6tgvGtxI4meeKjA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9BhqWHicHcRbisIwFADQFcV2jAkq-BF0WkqcErWI408ZM9eUPhJprjW6QdfgbgTPx3k9K8SLn0dRW9GRcc60cPXQa2cRLI606yJz8UR74iOh8k0jUjelR8ordeC1VO1g-0RZ0Oky2Qs7sPOpJ3ygf6v7CnZlG651jgiw0QrjicaZJKfv_4I-AgRZ9LIrfs_cHMZH4VlWMrFNYcoasc7XJGG7EuRP2GZLoA1HM6QYskkHIGuxuH3FcUyqz5rYN1ZdRFs"
+    },
+    {
+      "position": 8,
+      "title": "Nightingale Apartments",
+      "place_id": "ChIJd4iGMnmdskwRQHRpf1QQqdc",
+      "data_id": "0x4cb29d7932868877:0xd7a910547f697440",
+      "data_cid": "15539969944319521856",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d7932868877%3A0xd7a910547f697440&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d7932868877%3A0xd7a910547f697440&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.651387799999995,
+        "longitude": -70.2650056
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd4iGMnmdskwRQHRpf1QQqdc",
+      "provider_id": "/g/11vjfxt_4p",
+      "rating": 5,
+      "reviews": 19,
+      "type": "Apartment complex",
+      "types": [
+        "Apartment complex"
+      ],
+      "type_id": "apartment_complex",
+      "type_ids": [
+        "apartment_complex"
+      ],
+      "address": "144 State St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 261-1360",
+      "website": "https://liveredfern.com/buildings/nightingale/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Business center",
+            "Elevator",
+            "Fitness center",
+            "In-unit washer/dryer",
+            "Maintenance",
+            "Outdoor Space",
+            "Pets welcome"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Beautifully done building, great management, maintenance and amenities!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIa-fjK1HAB3SzGvq-3mufobJryGd-hg5W0X3qhggp31zII8fJcu5cjlnYw11xFdtHKFuhlE9Gy9MnVIucEMVgcQ2dPjjx3UeK5B6gGkx9_X0aK15yk5Mmg_WYqGulRUbkFC0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SqvwtHicHcRbjoIwFADQFVXaaWrEZD7QSEWC8RFfX0YL3AZKC7ZVcIHuYXYziefj_H2kc62dBoGSdATGgCq8LR7CaFdoNxKmCaC1SFhkg2iz3tZRnNxQWaVkGc3o_s2fHaKNL8199Rh4jiSwEz7TTgK0lLyTZFKuhGeiUvryIqSPc7dMYy_VIuRDmOlj4sUiO4LY_uSbqurpoUjZbAy87sPrGd9SwoaaZQ1cT5eOe7U73Ot4jn9fBGOM5HeB9D_3gUQB"
+    },
+    {
+      "position": 9,
+      "title": "Great group stays Portland",
+      "place_id": "ChIJvXPNO6CbskwRSMs0FJokkxM",
+      "data_id": "0x4cb29ba03bcd73bd:0x1393249a1434cb48",
+      "data_cid": "1410511352479664968",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ba03bcd73bd%3A0x1393249a1434cb48&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ba03bcd73bd%3A0x1393249a1434cb48&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6663248,
+        "longitude": -70.2801874
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvXPNO6CbskwRSMs0FJokkxM",
+      "provider_id": "/g/11h_446hr1",
+      "type": "Short term apartment rental agency",
+      "types": [
+        "Short term apartment rental agency"
+      ],
+      "type_id": "short_term_apartment_rental_agency",
+      "type_ids": [
+        "short_term_apartment_rental_agency"
+      ],
+      "address": "38 Noyes St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 619-4545",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1DqO2P0ExxZLhlkGf-okIw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=144.04723&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9wMCUXicHc1LCsIwFADA22TXfGrBDwQ3FREEXbuRNE2T0LQvNs-m3sZreRvFC8x83g4xph1jCSdjcPYmR7-YkIqoqAWwwajoE9UwsFkwdM-hGZUP-6hG8K0U9eNSXvlhWW5nF_pjV0B_ykQ3dx28GVEmoybtqM0_cYKW2phIlhtOnNyW5KWyFFVFebUuVyR61E5y8l86mKXg_AtwZzl2"
+    },
+    {
+      "position": 10,
+      "title": "Latitude at South Portland",
+      "place_id": "ChIJ2eQz5NWZskwR6fFVRoXzZEY",
+      "data_id": "0x4cb299d5e433e4d9:0x4664f3854655f1e9",
+      "data_cid": "5072446834062258665",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299d5e433e4d9%3A0x4664f3854655f1e9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299d5e433e4d9%3A0x4664f3854655f1e9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.629753099999995,
+        "longitude": -70.3230361
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2eQz5NWZskwR6fFVRoXzZEY",
+      "provider_id": "/g/11kfq057h_",
+      "rating": 4.3,
+      "reviews": 132,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building",
+        "Apartment complex"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building",
+        "apartment_complex"
+      ],
+      "address": "350 Clarks Pond Pkwy, Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 466-6226",
+      "website": "https://www.livingatlsp.com/?utm_source=GMB&utm_medium=organic",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Business center",
+            "Elevator",
+            "Fitness center",
+            "In-unit washer/dryer",
+            "Maintenance",
+            "Outdoor Space",
+            "Pets welcome",
+            "Swimming pool"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Pet-friendly rentals in a safe and convenient location.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEP4FSuRtM6zHXj3spDTg8N3XoGX1eqgnOduGmHi0_BbvhZubh16p4NV4bNZ0sRrRmYZE-gqM0LS09bHcm9mJ1DfId8ztMENHY2FYSj9tiFWW3JjvTqpTZgXCREy8GCdKDmx8xK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5nynOXicHcRJDoIwAADAF1WKEAMmHlQ2UaoCUeBiQsEWtLTY4vZB3-BvTJzDfD9UKSGnmnalxohwTq71IOsb5p2qOzXCnGlESIAlkNp8h_aXubszvWSIVTR5B1lrSOGkxEJGxv1Mr3vSbavBZ0EDT4vyTouhpPpEmOhglqiAMr7FLC9cQPoIbhJolwFmNgt157yqrLeKXBTkYy9PWls13vFohO097UVakGwZuy_LX1Zrhz2t53r20CGEgP7HoPsBKbxD-g"
+    },
+    {
+      "position": 11,
+      "title": "The Linden",
+      "place_id": "ChIJHY5rtF-dskwRNvRVtFgygJI",
+      "data_id": "0x4cb29d5fb46b8e1d:0x92803258b455f436",
+      "data_cid": "10556492883120485430",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d5fb46b8e1d%3A0x92803258b455f436&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d5fb46b8e1d%3A0x92803258b455f436&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6632064,
+        "longitude": -70.2636426
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHY5rtF-dskwRNvRVtFgygJI",
+      "provider_id": "/g/11qm333ylv",
+      "rating": 3.6,
+      "reviews": 88,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building"
+      ],
+      "address": "132 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134:30\u202fPM",
+        "thursday": "8\u202fAM\u20134:30\u202fPM",
+        "friday": "8\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 337-9952",
+      "website": "http://www.thelindenportland.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Business center",
+            "Elevator",
+            "Fitness center",
+            "Outdoor Space",
+            "Pets welcome"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvackZLtGhPAggtkBdAbY0d2kkwVaj8nyfuTSRi34hgDVDoeB4ZTgaEufck4catMXhpje75ETr0RHP-tO-Q8nO_cpg4e8B6DXsjbpyKyK3M-o7dmDDPteMfF4l_lSWYr3UX9W_Yw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VyZ28nicHcTdboIwGADQJ6pUqcqW7AJSfxJloqKCNwRLaaXYNvRjhEfcI_g2S3YuzvtXAlj36Xmt9CfCGNHy3vGOGQ1cw4SZlyesQ8wh54XJ91GFm5-SqfseNjIJhQAVVeEjx9VMqeFaNoEe6z49n54-kYJeqeERuaeiXPU1U4SVEGfSNnw5X6UdPm0TBAd0DPShYFYQHkQLmrnmYcfduPNjZJbVi9IEeFyvSVu051ve-Zfs41bkw9cwxRgj-T9D-g9RJ0X5"
+    },
+    {
+      "position": 12,
+      "title": "The Armature",
+      "place_id": "ChIJGbUMzxKcskwR69x7A-7dzs0",
+      "data_id": "0x4cb29c12cf0cb519:0xcdceddee037bdceb",
+      "data_cid": "14830034637308026091",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c12cf0cb519%3A0xcdceddee037bdceb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c12cf0cb519%3A0xcdceddee037bdceb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6588553,
+        "longitude": -70.2644176
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGbUMzxKcskwR69x7A-7dzs0",
+      "provider_id": "/g/11sw6rs8t0",
+      "rating": 4.2,
+      "reviews": 27,
+      "type": "Furnished apartment building",
+      "types": [
+        "Furnished apartment building",
+        "Apartment complex",
+        "Apartment building"
+      ],
+      "type_id": "furnished_apartment_building",
+      "type_ids": [
+        "furnished_apartment_building",
+        "apartment_complex",
+        "apartment_building"
+      ],
+      "address": "52 Hanover St, Portland, ME 04101",
+      "country": "United States",
+      "phone": "(207) 204-3411",
+      "website": "https://thearmatureportland.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Business center",
+            "Concierge",
+            "Elevator",
+            "Fitness center",
+            "Hot tub",
+            "In-unit washer/dryer",
+            "Maintenance",
+            "Outdoor Space",
+            "Pets welcome",
+            "Swimming pool"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"You can't beat the amenities in this building as well.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFM-JbWi7GmEtSFs6rk19Qv1HB7lMCvVU0KljHMb082z8YtHKQ-e_96P9PtxTuIZA5dte21FELBZihuOxltsDJYqXmnLfGbmVnl26p4egnbWrXLldUBGJNLyOznOgsAxAp1CQE8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6cz43nicHcRbcoIwFADQFUUSVITO-BGUR3kzLb5-nAHToIaA5KLoBruG7saZno_z91sDdOpD00Q9nfC25YINivVVK4FJmFRto_FOoUohpdEsya_UjVFQbs8Lr3Hgy1VGfyVWfie-vRDx6r4pcCguflxiU3-Ze_DDHLGjZWRWBuP38Hmg8xMwnbhOZB_O9ZCOAtQ62N92jYx-vLLZSKEb3YxxWW77XSROhe0FSfRMXzLlio60I6vcMZcPgjFG9f8Vkm_n00P_"
+    },
+    {
+      "position": 13,
+      "title": "Princeton Village",
+      "place_id": "ChIJXYWzIvObskwRPICYT4EVMJg",
+      "data_id": "0x4cb29bf322b3855d:0x983015814f98803c",
+      "data_cid": "10966288737777516604",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf322b3855d%3A0x983015814f98803c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf322b3855d%3A0x983015814f98803c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6632919,
+        "longitude": -70.286354
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXYWzIvObskwRPICYT4EVMJg",
+      "provider_id": "/g/12cnpsmp5",
+      "rating": 3.6,
+      "reviews": 14,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building",
+        "Apartment complex",
+        "Apartment rental agency",
+        "Real estate rental agency"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building",
+        "apartment_complex",
+        "apartment_rental_agency",
+        "real_estate_rental_agency"
+      ],
+      "address": "216 Brighton Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 536-5446",
+      "website": "https://www.princetonproperties.com/apartments/princeton-village/?utm_source=google%20-%20entrataseo&utm_medium=organic&utm_campaign=gmb&utm_content=website%20click",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "In-unit washer/dryer",
+            "Outdoor Space",
+            "Pets welcome"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Affordable considering the location in Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHwfndle0w7xkfoZeV4ed-0DEvUVWMpENNrsARxDPvisXlCVj2dJWiStWYcjE-PhY9hg85v6hSURtmRshs_vPbH5rRY6LH6qMS0bpjEpCad8yE-rJ20isc5kcLJLe7p-wqeY2l=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MLlIknicHcTdCoIwGADQJ1ouS_uBLsQGIiqmpNlN1JxOXW75La0n7Bl6m6Bzcb4frrWCrWEIvpjVUtaCPYENVPaa9XpG5d2oFSAKCAwnjg6d43lT1ZeC4Wn16ip5ZtmSlQjvyXjM8lCRKBrASV77eGzgJNysNUs_b1KdF7QlKObFhtdra7R5ekz0PQEOlzG-edaQFHbg2Y8wxTfVEuVey_WboME3cQPU6mjgB2yl0PRghSl20xxjjPh_ivofwtZFWw"
+    },
+    {
+      "position": 14,
+      "title": "Island View",
+      "place_id": "ChIJaWpWKGScskwRHHgz-fYKbzU",
+      "data_id": "0x4cb29c6428566a69:0x356f0af6f933781c",
+      "data_cid": "3850308262284195868",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c6428566a69%3A0x356f0af6f933781c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c6428566a69%3A0x356f0af6f933781c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6704588,
+        "longitude": -70.2519533
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaWpWKGScskwRHHgz-fYKbzU",
+      "provider_id": "/g/1v_0jbt1",
+      "rating": 3,
+      "reviews": 5,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building",
+        "Apartment complex"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building",
+        "apartment_complex"
+      ],
+      "address": "151 North St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20134:30\u202fPM",
+        "thursday": "8:30\u202fAM\u20134:30\u202fPM",
+        "friday": "8:30\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8:30\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 774-9669",
+      "website": "http://myislandviewapartments.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Elevator",
+            "Fitness center",
+            "Maintenance",
+            "Outdoor Space",
+            "Pets welcome"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "On-site parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"3 years and still love the sunrise and sunset from my patio!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEz-tDGMm9ZJHhgmQZ6BCm7Bqewy29sY5pABO_UGJ5-JNnNAoRRmYEbrdxxikOsIk_T4ymNRDVTVmrForz7PMaJVywOWmOhCj8_e-isSTa843X4nZaiFzqi3KlRqP9pl_LLko-c2P6oItk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_Nv2RXicHcRJDoIwAADAF1VQcMHEA4gbKiAiCheCtaFY2gKtQXikd39j4hzm-8FSVmKuKCXWBjnneYleAjWQM4mYHEBOlbwSAAogFNN3T8Rc9UDamyM1EmeLc3pKJtaSTq0atd3IEPG4Mi0vvWycMXBc5po8CGi8ujeP97sgntiRNNQ76gZ2FEa0WfOmn_rHzIm61rtSDy-fsxSBQpzDbKZrN50lWbHu60Lbl0HtG1WZHg6EAzjyJ3wnyaIdqqoK8H8I2A9n70eO"
+    },
+    {
+      "position": 15,
+      "title": "Princeton Ridge Apartments",
+      "place_id": "ChIJZ7TNngWbskwRauwTPBoL6hQ",
+      "data_id": "0x4cb29b059ecdb467:0x14ea0b1a3c13ec6a",
+      "data_cid": "1507029232613846122",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b059ecdb467%3A0x14ea0b1a3c13ec6a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b059ecdb467%3A0x14ea0b1a3c13ec6a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6904543,
+        "longitude": -70.29955439999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ7TNngWbskwRauwTPBoL6hQ",
+      "provider_id": "/g/12cnq485p",
+      "rating": 3.3,
+      "reviews": 13,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building"
+      ],
+      "address": "1350 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 573-7099",
+      "website": "https://www.rentinportlandme.com/portland/princeton-ridge/conventional/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Fitness center",
+            "In-unit washer/dryer",
+            "Outdoor Space",
+            "Pets welcome",
+            "Swimming pool"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I am thankful that in the short time I needed to move my unit opened up.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8WLkbz75X-2fiwHKVzjHkoDIiH_Ys5gXL2Xtessebuj7ZDPjI7ZC0RZmEgoPMT6iM7GCAAtVUHOsam9EXVSRnvh42zKcKhV_NA8bOXTvAQAK1Oz_wnv_IQe-lRdDMedYgzgTY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6NTB5nicHcTbboIwGADgJ6ogzuFMvGjADYLIQcYKN2TUruXUGv8KSV9wz7C3Mdl38f39Cq1vsLesUWxWXCk-sgewO1VSM6lXVE0WvwGigMDC6Tkb8Pvu6zS0xt0S5Px0SxCVpg8G5Ydd0FSw5eTkEM0AWPvo3dpP-9CtPTuvpyNXaVy8drH74WGsy88gge_p7UjKSy5n8eKYiEaibM541yakmHGGo3VimkXOTZgxNOZXP2bXihteVIdlbds2Ev9TJJ9MvkS1"
+    },
+    {
+      "position": 16,
+      "title": "Apex Luxury Rentals",
+      "place_id": "ChIJVVVVVQWFskwRReYhi2vFc2Q",
+      "data_id": "0x4cb2850555555555:0x6473c56b8b21e645",
+      "data_cid": "7238346091800946245",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2850555555555%3A0x6473c56b8b21e645&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2850555555555%3A0x6473c56b8b21e645&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.738410099999996,
+        "longitude": -70.2048927
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVVQWFskwRReYhi2vFc2Q",
+      "provider_id": "/g/1tm2988_",
+      "rating": 4.3,
+      "reviews": 39,
+      "type": "Apartment rental agency",
+      "types": [
+        "Apartment rental agency"
+      ],
+      "type_id": "apartment_rental_agency",
+      "type_ids": [
+        "apartment_rental_agency"
+      ],
+      "address": "317 Foreside Rd, Falmouth, ME 04105",
+      "country": "United States",
+      "phone": "(207) 899-5001",
+      "website": "https://www.apexrentalproperty.com/",
+      "description": "Property-management firm handling rentals, including furnished condos and homes.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "user_review": "\"Very reliable and responsive to renter\u2019s concerns.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHi6ypoD_VXxFRdI0uQlfJKsJrOuQeIgbf9u5C6p5sE5snTPnk4jNGjKTDkaPc0kZ-HOPUD9s67vNxbx1siVxNmQFjwW4LDcrKb-_buxJ-PxezSt0NueFK5sR4su2qErroUaG49=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6Ad_jnicHcTdDsEwGADQJ6oV22QSF2KGTarzHzdiVZtt2unXUl7QM3gbiXNxvp9C6wb6jlMX3VYuZV5zA1wxKTQXusXkzckbQAwQOENK0mo4vfqvRobH7d5Gy_MMm7S-xAnEamFSPsuzS2C8kd94MPZArKmo3JJMymQdVifKcHVA0wXdhAH4vQexmW3DdWvJLY3K586dh0wlGTpmxsaIWv5eaUwMjxIPli6Yzn2slNycJm4weLYxxqj4z5D4AaOiRVg"
+    },
+    {
+      "position": 17,
+      "title": "Port Property",
+      "place_id": "ChIJG_6Cdw6cskwR8WFDYtxaKGE",
+      "data_id": "0x4cb29c0e7782fe1b:0x61285adc624361f1",
+      "data_cid": "7000945523335324145",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0e7782fe1b%3A0x61285adc624361f1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0e7782fe1b%3A0x61285adc624361f1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6565996,
+        "longitude": -70.2609336
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG_6Cdw6cskwR8WFDYtxaKGE",
+      "provider_id": "/g/1tmz6jrl",
+      "rating": 3.9,
+      "reviews": 327,
+      "type": "Property management company",
+      "types": [
+        "Property management company",
+        "Apartment building",
+        "Apartment rental agency",
+        "Leasing service",
+        "Property maintenance",
+        "Real estate rental agency"
+      ],
+      "type_id": "property_management_company",
+      "type_ids": [
+        "property_management_company",
+        "apartment_building",
+        "apartment_rental_agency",
+        "leasing_service",
+        "property_maintenance",
+        "real_estate_rental_agency"
+      ],
+      "address": "511 Congress St #103, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134:30\u202fPM",
+        "thursday": "8\u202fAM\u20134:30\u202fPM",
+        "friday": "8\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 761-0832",
+      "website": "http://www.portproperty.com/",
+      "description": "Easygoing rental business, offering a variety of modern properties for rent, many of which are pet-friendly.",
+      "extensions": [
+        {
+          "service_options": [
+            "Online appointments",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_appointments": true,
+        "onsite_services": true
+      },
+      "user_review": "\"They have beautiful apartments at a reasonable price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyVYVcs_1B5L9WxktdVyiDxrPvzw47GYjbcqV5CnTszn1z86MMikvNg7pdeDyAf_7-c-QKSz13X_rAZDPjsGImHHrEIhiPHBpvl7Xdzfq_0tlQqsJOkkuRBSa5yCls7VoEJnw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TqVLdHicHcRRboIwGADgE1Ugip0mewAhoFMHsnTiC9GCgK0t8FeQHtA7eJsl-x6-96tSqoGlYfBqOimlLHnxgKKjUqhCqAmVd6NsAFFAYDjRPmaOP5KUUMgs194ufp9M5WSsvWcX9XqY4SC9XWhL7JX4AS0s_THf7WrW70vc5IU3OtcMI4rir0Rb02PWOScvukGwvodh56-rOgrdpuf4mOtrm5mKxy1svhl7HNzkbI8rDphIfyOGz8EyTRNV_1Mk_gCgxkYE"
+    },
+    {
+      "position": 18,
+      "title": "Terrace Pond Apartments",
+      "place_id": "ChIJVf8BU-6askwRrJ2Etqbnl0M",
+      "data_id": "0x4cb29aee5301ff55:0x4397e7a6b6849dac",
+      "data_cid": "4870616225237212588",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29aee5301ff55%3A0x4397e7a6b6849dac&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29aee5301ff55%3A0x4397e7a6b6849dac&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.699605299999995,
+        "longitude": -70.3215847
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVf8BU-6askwRrJ2Etqbnl0M",
+      "provider_id": "/g/1thlz0z9",
+      "rating": 3.6,
+      "reviews": 17,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building"
+      ],
+      "address": "723 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "phone": "(207) 317-5820",
+      "website": "http://www.pizzomgmt.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Management and maintenance are both friendly and caring.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHovHOpb_jSz4SrSWOCSb4fv-I96U1LOZryYBpzSIucWTqtfpx05_GDCzwYE-qafdnXPCSDD4gyn4TJ2qBeCoHOmO6c50JTcJ4zMskiVCwE2XtO7Kbw-AJP-ezJ2UUqCeISLAXG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UHJXO3icHcRdkoIgAADgE5FkVLPN7INhk1Ib7qBlvTRJqP0BCmVxwT3D3qaZvofv_6-2VpuJ513rQa9SqrqKuxEtV9IKaXtc3bxKG8ANMF6QrH4vQaQeEdXF_swcYi3bUMwKVD5A_DXK-ku6a1_bqXYsvvNN2thSP-FwPw-x67Yz0BzKo8wTzMIQVS-JUuI3U4FVRG90xIeQpJwg92MupzXuZn5u6XhRdCAgCRCO-FnWYBGzZZDPv7s-hBDUnzmQb2riRA4"
+    },
+    {
+      "position": 19,
+      "title": "Crescent Heights Apartment Suites",
+      "place_id": "ChIJ15OgJw-cskwRADubCSoWT3c",
+      "data_id": "0x4cb29c0f27a093d7:0x774f162a099b3b00",
+      "data_cid": "8597114583479171840",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c0f27a093d7%3A0x774f162a099b3b00&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c0f27a093d7%3A0x774f162a099b3b00&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6545065,
+        "longitude": -70.27547849999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ15OgJw-cskwRADubCSoWT3c",
+      "provider_id": "/g/11g0m4l05z",
+      "unclaimed_listing": true,
+      "type": "Furnished apartment building",
+      "types": [
+        "Furnished apartment building"
+      ],
+      "type_id": "furnished_apartment_building",
+      "type_ids": [
+        "furnished_apartment_building"
+      ],
+      "address": "25 Crescent St, Portland, ME 04102",
+      "country": "United States",
+      "phone": "(207) 774-1400",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c_ZpossnTMjORHE97yq9Lw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=325.70663&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RK6eWHicHc3BDcIgFADQbbgJ1MbWmhBPJh40JsaTl4ZSBAyFbz8Wu41ruY3GBd77vG1KgBvGMI1ap8npDO6lPS5AUhOj8VqCQ6riwKaCJfscuiCd34IM0fVCtVeIiOFyvJ_O-11Tz4_mkInqWuWdDkmglqOy1OSfOMaeGkCSxZoTK5olmWUW5XJFa15VJQGXlBWc_JdbnETB-RedHjnm"
+    },
+    {
+      "position": 20,
+      "title": "Olde english village",
+      "place_id": "ChIJK1i1m0aZskwRMaFPw-_PaPo",
+      "data_id": "0x4cb299469bb5582b:0xfa68cfefc34fa131",
+      "data_cid": "18043900535740801329",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299469bb5582b%3A0xfa68cfefc34fa131&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299469bb5582b%3A0xfa68cfefc34fa131&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6357498,
+        "longitude": -70.3124389
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK1i1m0aZskwRMaFPw-_PaPo",
+      "provider_id": "/g/1trxjwmr",
+      "rating": 4.3,
+      "reviews": 28,
+      "unclaimed_listing": true,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building",
+        "Apartment complex",
+        "Apartment rental agency"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building",
+        "apartment_complex",
+        "apartment_rental_agency"
+      ],
+      "address": "503 Westbrook St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 774-3337",
+      "website": "https://oldeenglishvillage.net/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "user_review": "\"The facility is clean, plenty of parking and great upkeep of the grounds.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeEzdv_9McINF4M--VV3ZCi5V1ptSYLw5leQ63xnuNRk28sefh-1gLcuKhorS1IN0tZ5qCjzHz0MWJO_EeqRUQFJC1B-65aIMpvCHBvBhC0Je7YjB-FWLRM-JT0V5EMzQ6qNnc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Yl5jrHicHcTdboIwGADQJ_qkHSv-JF5IAxGk3cANozdmqZWq2IItaHjBPYNvY-K5OM9_5VxjZ55XK39UGVPVsrPyJox2UruRMFevaiwIC9ZbfPP8sohkNBz6_ZSJhMefDKAs_R09kRI3br3N7qSWeeA_dMeLy8fEyqMCXGWiWylzW-OEI7cjLT0PywGxTfq1j2Rb_OZxSnEIAflLWNPTZdiHiqJUjrfnEOJNVjBIf1BJIjbkQcu1mN8xQgjUewH6BbrwQjc"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=short+term+rentals+in+Portland%2C+ME&start=20&type=search"
+  }
+}

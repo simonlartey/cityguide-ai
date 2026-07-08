@@ -1,0 +1,1770 @@
+{
+  "search_metadata": {
+    "id": "6a4e68548c60ca415e2f862a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FP3dadMAFW_Q_f5hv7YWNg/6a4e68548c60ca415e2f862a.json",
+    "created_at": "2026-07-08 15:10:12 UTC",
+    "processed_at": "2026-07-08 15:10:12 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/cheap+car+repair+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/FP3dadMAFW_Q_f5hv7YWNg/6a4e68548c60ca415e2f862a.html",
+    "prettify_html_file": "https://serpapi.com/searches/FP3dadMAFW_Q_f5hv7YWNg/6a4e68548c60ca415e2f862a.prettify",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "cheap car repair in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "cheap car repair in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Ocean Street Auto Repair",
+      "place_id": "ChIJw8zPTb-eskwRloeoAPXzfu8",
+      "data_id": "0x4cb29ebf4dcfccc3:0xef7ef3f500a88796",
+      "data_cid": "17257499055733901206",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ebf4dcfccc3%3A0xef7ef3f500a88796&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ebf4dcfccc3%3A0xef7ef3f500a88796&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6295648,
+        "longitude": -70.2922844
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw8zPTb-eskwRloeoAPXzfu8",
+      "provider_id": "/g/1hf1lg008",
+      "rating": 4.6,
+      "reviews": 190,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Oil change service",
+        "Transmission shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "oil_change_service",
+        "transmission_shop"
+      ],
+      "address": "310 Main St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 767-7073",
+      "website": "http://oceanstreetautorepair.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"These guys did it for alot less and are\na small local business.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjH6swmDUHgTiYc2Am9-aySe6WJDm5UpXbxtfrsfHEHfSaWlYE67zoTfJDJuh14nPsR-N0V3k1BUEfcymOykC0TMilLs-WADOMgFZ4kz919oovBYHYHzp-6uQU07oWOGltUacN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pw6AJnicHcRLDoIwFADAE1WKHwwmLlDQhij4oSLusKFFaSnxFRUu6Bm8jYmzmO-nNKaBmWXJcjQQWgtZtFA8mK5NUZsB08oSDSAGCCxvF-0rb30nDryUT4lIbhkbespFeXcsnDT01YQ25-vb8AdwEhB-zFOZBc601wkP_bAt7XG9gwOK8GlU2QsacNapuKuWONne5AZQ6vnxVqwu46p3bVfr5yIjGekb5LR7iqc6jdfS0JxF85eNMUblf4bqH1MmRD8"
+    },
+    {
+      "position": 2,
+      "title": "Cumberland Avenue Garage",
+      "place_id": "ChIJ53xzvGmcskwRoIoCcADiPk0",
+      "data_id": "0x4cb29c69bc737ce7:0x4d3ee20070028aa0",
+      "data_cid": "5566134680983603872",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c69bc737ce7%3A0x4d3ee20070028aa0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c69bc737ce7%3A0x4d3ee20070028aa0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6636197,
+        "longitude": -70.25183369999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ53xzvGmcskwRoIoCcADiPk0",
+      "provider_id": "/g/1tdfmwdy",
+      "rating": 4.8,
+      "reviews": 95,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "122 Cumberland Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u201312\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 775-0493",
+      "website": "http://www.cumberlandavegarage.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Went to Cumberland Ave Garage after my previous garage closed in portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUYVD33kNudwxLfd-ZkEHYVclVA9cvTVenBd1HXKy9WuX6MoViduSAuBR-vArUlPtsiyMJsRX3FJ33YH73h-I6rK4kPUln_WPuMfUYhnGex79xBpYOBMpXnCaKZ1f5SSWbW-QBcg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yn8FIHicHcRdboIwAADgE1Ug9Scs8aHdVCZDUaRQX5ZZCjXUltAW8Yg7grcx8Xv4nv_C2s58eJ4UcNJo3UjuDO-ZVpYrO2H65jWdAcwA46F0d2jRKqfkC8J256r7-FNX4NyuIkqYJChkw4lwhasgKuNHWLhynmhyrVyGHD6CAfW5TK25PpKtOZZwvYWQRgsowPe8j6dtmkv1W6QuqXMq1IaPi3DEHd3jpCvV5198DupZlhWXAhwwa5b3wPd9IN4zoF7rGkUJ"
+    },
+    {
+      "position": 3,
+      "title": "Auto Care Plus Tire & Service",
+      "place_id": "ChIJOT16kkaZskwRclpFvP6tonU",
+      "data_id": "0x4cb29946927a3d39:0x75a2adfebc455a72",
+      "data_cid": "8476528758256654962",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29946927a3d39%3A0x75a2adfebc455a72&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29946927a3d39%3A0x75a2adfebc455a72&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.634875099999995,
+        "longitude": -70.3152363
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOT16kkaZskwRclpFvP6tonU",
+      "provider_id": "/g/12hz0lrkz",
+      "rating": 4.6,
+      "reviews": 499,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Auto air conditioning service",
+        "Auto electrical service",
+        "Brake shop",
+        "Car inspection station",
+        "Mechanic",
+        "Oil change service",
+        "Tire shop",
+        "Transmission shop",
+        "Wheel alignment service"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "auto_air_conditioning_service",
+        "auto_electrical_service",
+        "brake_shop",
+        "car_inspection_station",
+        "mechanic",
+        "oil_change_service",
+        "tire_shop",
+        "transmission_shop",
+        "wheel_alignment_service"
+      ],
+      "address": "509 Westbrook St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20135:30\u202fPM",
+        "friday": "7:30\u202fAM\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 417-4913",
+      "website": "https://www.autocareplus.com/service-locations/south-portland/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://schedule.autoops.com/b22e4b3098e5484a9797bc6b9821356f?rwg_token=AE37R_jkl-AgCm1oUMTMOK29e3ZJ7J129y948ocFZQSCOi1pnYjozs2IaEYRche0dlaAi98CPYqL2A5fezDnlDvSB-4rWcKewA%3D%3D",
+      "user_review": "\"Cannot say enough good about Auto Care Plus in South Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSXsrVDsgLgeroRP3oRxddc1SnO6NVCGA8jYJX2XdKMiZ5it3hGejfN2XeG-0Yfrb_RfYBKO6pB06njR-o0T9aOSfmEO-TRXhP0QJ33T3Q03y9VPo62FRviewBCfUc3rcZ1PdsnQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WpWl0XicHcRdboIwAADgE1UKzcg08QGcI9EJpSApvBgt_YFpS9o65xE9grcx8Xv4ng_l_eQWQXBWaCaNkWd-ddwyoz3XfsbMJZCTA8wBFyQ4L3-TrKLONl9O_khuDcHIkP--Z2GlizhvVlnyObYbGtF-uxu6j8EjlfFR5BHlGYCtsKcDEW26LeIphbEeCTCwnh-LSlzWBagJVRiWG4RqVEJ0nzfYxNE3-Rv4LV2JPUOWdSHunS6XtxBCCNR7BvQLl9pDvg"
+    },
+    {
+      "position": 4,
+      "title": "Auto Care LLC",
+      "place_id": "ChIJ0TGKGwCbskwRXlHAjAz3ygo",
+      "data_id": "0x4cb29b001b8a31d1:0xacaf70c8cc0515e",
+      "data_cid": "777705518947914078",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b001b8a31d1%3A0xacaf70c8cc0515e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b001b8a31d1%3A0xacaf70c8cc0515e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.700804399999996,
+        "longitude": -70.25948509999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0TGKGwCbskwRXlHAjAz3ygo",
+      "provider_id": "/g/11fb3d8rm4",
+      "rating": 4.7,
+      "reviews": 69,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "1041 Ocean Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20132\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(908) 249-8639",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHL5gDDnmQaaDKbDA24VUEV2e-EoMojQOAIoQcnxEexFt83n-TYjGjL5iVxrjrcowFAUKKh_FKU2RBb4KPmF_PcRQ23LkUv8KH4E_p5CWi_YwOieDc4DeXc6P9PnIRM7J2IMNVH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8exjeXicHcxLEoIgAADQE5GG2m-mBYWmoQVOWq2cYhg_JThB6Q07Q7epafOW7_OujOn0wrLulTMqlSrv4qnFgytphDQjrlqr7DTgGmgL0R27oTD2Soxlyy4XTK4YQTfP_BwK4KtENWyPIsW4HHwxBGbmSHA4N5sm9up8eDS_tw9QRkhVBCSD6erqEtoGBeUpg058y14zErp-0XnrY12c-30tMHexOPEJnVMZpcl0C6Nkl4fLfmzbNqj-ciC_4ABCyQ"
+    },
+    {
+      "position": 5,
+      "title": "Woodford Street Garage",
+      "place_id": "ChIJfU7SdJGbskwRSCUc40gyfFk",
+      "data_id": "0x4cb29b9174d24e7d:0x597c3248e31c2548",
+      "data_cid": "6448084055117014344",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b9174d24e7d%3A0x597c3248e31c2548&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b9174d24e7d%3A0x597c3248e31c2548&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6700313,
+        "longitude": -70.2893856
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfU7SdJGbskwRSCUc40gyfFk",
+      "provider_id": "/g/1vxvhg52",
+      "rating": 5,
+      "reviews": 53,
+      "unclaimed_listing": true,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "260 Woodford St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u201311\u202fAM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 773-6115",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Straight shooters with fair prices for parts and labor.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHI5G1aiiYTq75TjOse8YicXAf8DRIpXJIx4x5juu9R0WA23vwCmHrwQeFgnJmsCu9OA3AlMPSY912GPAXPd60f5HIFqqmotW1VBIgQ_-8z2p8Kfu3hS-bT3EOF0-CwHMC_hpTl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ftuHvXicHcRRboIwAADQE1UKFYUl-6hMpBoHKJnwZWYtLQq02HYYL-gZvI3J3sd7PYUxSn84TivQhEvJW2Y1u1HZG9abCZWdw5UGVAPt4Ow7v-KE-Cv3t2mqYpj7xSXVLKgaWuI6-NoRVa7JfXr3L9aGO3jAHvoboy65jTmLeb_udGTDFCPcbrN9FbreKsNldp7B2k9IPAydNAf3Z0F4fgTBw1PBprZI7MGpQMs0hiAak210FKpoP0cXQgjE_xT0b81TQpU"
+    },
+    {
+      "position": 6,
+      "title": "Parry Motors",
+      "place_id": "ChIJ08YIJAebskwRmqIIvSiKwt8",
+      "data_id": "0x4cb29b072408c6d3:0xdfc28a28bd08a29a",
+      "data_cid": "16123601523514581658",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b072408c6d3%3A0xdfc28a28bd08a29a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b072408c6d3%3A0xdfc28a28bd08a29a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6875907,
+        "longitude": -70.3060388
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ08YIJAebskwRmqIIvSiKwt8",
+      "provider_id": "/g/119wz8xq2",
+      "rating": 4.9,
+      "reviews": 143,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "202 Warren Ave Ste 600, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 899-0622",
+      "website": "http://parrymotors.com/contact_us",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Undeniably the best place to bring your car in the greater Portland area.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoLOWyyBo2PoOnAzyWIW__mRJIECLf867tN1kZANcu5RfmOm-kQ5jrnAWQa7AKCEfWC3e1xiuYDN9I8OLijyq180Cg1Iy_IUv0LlCiHHSCcQ_7zJWeAFSritAtbSNvbcnJhTFRtA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZS9CEHicHcTdboIwGADQJ6q0MwpbsovPqrOMFAGXZt4QbcqPQOtocatvuEfwbZbsXJzHb-Pc1b4EQd_MZ7Uxda8mq0ZptFPazaQZgvpqkbTIBrDnWQdvJkmF9yvztDephrsXTJTlkMdsQ5MqWoaOk-4IXE6LvBrSAXXZ4jJqENkphHe6qQSdK_LTTp9r_syiNGkv_otEmNaE-ZJ93HDS03a3K6jMyvAeCwXbYmwduHPBb2ep4-awzR28fhOMMWr-l0j_AbtURM8"
+    },
+    {
+      "position": 7,
+      "title": "Meineke Car Care Center",
+      "place_id": "ChIJ84ZQvwubskwR0m-NG-5MPI8",
+      "data_id": "0x4cb29b0bbf5086f3:0x8f3c4cee1b8d6fd2",
+      "data_cid": "10321209031574515666",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b0bbf5086f3%3A0x8f3c4cee1b8d6fd2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b0bbf5086f3%3A0x8f3c4cee1b8d6fd2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.686764,
+        "longitude": -70.2922622
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ84ZQvwubskwR0m-NG-5MPI8",
+      "provider_id": "/g/1hc28_8bc",
+      "rating": 4.7,
+      "reviews": 677,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Auto radiator repair service",
+        "Auto tune up service",
+        "Brake shop",
+        "Mechanic",
+        "Muffler shop",
+        "Oil change service"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "auto_radiator_repair_service",
+        "auto_tune_up_service",
+        "brake_shop",
+        "mechanic",
+        "muffler_shop",
+        "oil_change_service"
+      ],
+      "address": "1155 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "7:30\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 370-6149",
+      "website": "https://www.meineke.com/locations/me/portland-243/?utm_source=google&utm_medium=organic&utm_campaign=gbp_website",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://booking.shopgenie.io/?shop=meineke&preselect_account=meineke-243-portland-3290384388&rwg_token=AE37R_hjEfdembcGx19m9j-xzYO3xTibRyfGoQzFclgQWZyw80v4HdEn2beuOqi5cFHfC0VgzFk1uszHI00ssSJgYAZIPzgxqQ%3D%3D",
+      "user_review": "\"... more reasonable than having it towed to Massachusetts for repair.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEY7cXZFCScb9n-sexI_1TPVzkfNTZLr_ncGNdzgCRvsASVikpOfSksJfNzGQ9nrO_OCM0453549na_S1RdgWMogHpGmi9jxGHR-2AAExj53OwxAdulv8J67v533ROvwr7HDPg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cMtnEXicHcRJDoIwAADAF5XFioiJhwYRJEoRCC4XogWKgi2hWAgP9A_-xsQ5zPdT9X0rVqraVFChnNOmeIuiI5z1BesVwl8qbQUgAggVhcGxRs7FJOfr1o7J3WJAFOMu05MwneoySK77LmPEDfKJ2pEUKE4fdYvLuBZ-GUzu0WIdzrB90OYGNOYWu2WxHuX0dODUa93Xw3qOrheBGULO-DQgHkaUvxu59BemNCCMsBw609uEdD3omqaB6j8B7AcmH0Pm"
+    },
+    {
+      "position": 8,
+      "title": "Midas",
+      "place_id": "ChIJz7LSwI6bskwR6uGEclnulSY",
+      "data_id": "0x4cb29b8ec0d2b2cf:0x2695ee597284e1ea",
+      "data_cid": "2780390412911960554",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b8ec0d2b2cf%3A0x2695ee597284e1ea&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b8ec0d2b2cf%3A0x2695ee597284e1ea&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6683948,
+        "longitude": -70.2813343
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz7LSwI6bskwR6uGEclnulSY",
+      "provider_id": "/g/1hm26zw_2",
+      "rating": 4.2,
+      "reviews": 179,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Auto air conditioning service",
+        "Brake shop",
+        "Muffler shop",
+        "Oil change service",
+        "Tire repair shop",
+        "Tire shop",
+        "Transmission shop",
+        "Wheel alignment service"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "auto_air_conditioning_service",
+        "brake_shop",
+        "muffler_shop",
+        "oil_change_service",
+        "tire_repair_shop",
+        "tire_shop",
+        "transmission_shop",
+        "wheel_alignment_service"
+      ],
+      "address": "570 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135:30\u202fPM",
+        "thursday": "8\u202fAM\u20135:30\u202fPM",
+        "friday": "8\u202fAM\u20135:30\u202fPM",
+        "saturday": "8\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135:30\u202fPM",
+        "tuesday": "8\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 619-1641",
+      "website": "https://www.midas.com/store/me/portland/570-forest-avenue-04101/?shopnum=4259&utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.midas.com/store/me/portland/570-forest-avenue-04101/appointments?shopnum=4259&utm_source=googlemaps&utm_medium=reserve&merchant_id=midas-4259&rwg_token=AE37R_itJhykaTmHn_VnHUFfpk9fwWdMvDw-JCFmBpO6TuVQnyR_aQ0AJ2WJY9l737BLbHYvzDUljOSy5WkA3TIIfmC9pskmlQ%3D%3D",
+      "user_review": "\"It was a minor repair and I was out in under 15 minutes with NO charge.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZAfx-X9KUAMUlB2XsdDhcrsasIFp7Ii-EBr8CUJ05M08qDx1MI4FtQ8z4oeZha2S1Te7IdsyTw5PFn8dCdUMqEQzAkEuiFDfG3ltJmpuf8HVK6kRPMoZJCI9cNDsbVupHHQCMnY1rwtKb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GDwlmHicHcTbboIwGADgJ6oUj3XJLioHKaQGNjGOOy2FGrCt_CU4X3LXe5sl-y6-3x_lnIU3z-vVYtYa0_ZyBDkIo53UbibM3WstIAEIPJofio4mFW2e6LzNSsrLfjc_Qx0qMcAFWGw37Iai3UCCMsUrjskjfPqcLWNXkNfSyEpd5p_-UW5YDd_HaZXHmtRBXfJHVLxoF423OGz2i96ldzs2JDll6-4j56ZKA7YVhxCup9EmSRFw_eUPk8uu75OPMUbqf4H0Hw--Rlo"
+    },
+    {
+      "position": 9,
+      "title": "East Deering Auto",
+      "place_id": "ChIJiZZ0LtedskwRWkrqByUFQOA",
+      "data_id": "0x4cb29dd72e749689:0xe040052507ea4a5a",
+      "data_cid": "16158921119610063450",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dd72e749689%3A0xe040052507ea4a5a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dd72e749689%3A0xe040052507ea4a5a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6806948,
+        "longitude": -70.2576085
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiZZ0LtedskwRWkrqByUFQOA",
+      "provider_id": "/g/11zb61w_9y",
+      "rating": 5,
+      "reviews": 29,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "513 Washington Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20134\u202fPM",
+        "thursday": "7:30\u202fAM\u20134\u202fPM",
+        "friday": "7:30\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20134\u202fPM",
+        "tuesday": "7:30\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 878-0080",
+      "website": "http://www.eastdeeringauto.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"This is the best auto repair shop in Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDAMmKgQ69fB8MSN-OHZxzM1Z7YTdqSjLMb0TriWfL0R93TAdU6GfkQtsLhePqJBaAI5EL8vSftgMIbcgGlZHLbVwEzT7ko1UePXgTiz9o7dIqLPe51YnRxkhPlWHaKP6EfURB8NR6-FM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ojy7kXicHcTbboIwAADQL6qUGLks2QNkCGjLCpQ5eZPSiwOp2G4aPnLv_s2SnYfz_FXWXs2L44xqvZJay5F_G35jerJ8siumL468GsAMME5EinKI0rcIX_ay9EIRB7guwHvWPhbstv6R9nP9hXAH6e18EAhW4ZpGfeOlYiitQYqTeRefonyToOCnFlbivGMyHdsMdR_3ZKH-oN2Gk09Jz0uo_T6fEeEb9zhVj0GR8ZCd9sRLRFPFQVF5YItf7y6EEKj_GZj-ANKdRak"
+    },
+    {
+      "position": 10,
+      "title": "Rick Harmon's Automotive Service & Repair",
+      "place_id": "ChIJbwFXnwubskwR65vZV4qEZnA",
+      "data_id": "0x4cb29b0b9f57016f:0x7066848a57d99beb",
+      "data_cid": "8099306709586648043",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b0b9f57016f%3A0x7066848a57d99beb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b0b9f57016f%3A0x7066848a57d99beb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6866805,
+        "longitude": -70.2908642
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbwFXnwubskwR65vZV4qEZnA",
+      "provider_id": "/g/1tf6g78t",
+      "rating": 4.9,
+      "reviews": 63,
+      "unclaimed_listing": true,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "31 Morrill St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 797-8700",
+      "website": "https://www.facebook.com/Rick-Harmons-Automotive-Service-153678328014851/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They\u2019re fair with prices and only fix what you need.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gZ8I4Wr3XRvGE7MB6FCRxQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=172.389&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aDGvG3icHc1RCsIgGADg2_iWui3aFkhQVPTQQ3speglzpoKbon-6LtO9uk3RBb7v89YAPi4JiRCkhGRk9maSNs48x8o5ZSX3JmLhBpIKAvo53Edu7Mrz0ZmeqWtzmJ9DdenSflsf14vdpptOSNxvwho5AouSB6Gxyj8xuB4rH1FmDUWatSV68cyKusRV0yJvQGhG0f94uMQKSr_L2jhi"
+    },
+    {
+      "position": 11,
+      "title": "Hamilton Service Station Inc",
+      "place_id": "ChIJJ3-wSwmcskwRBiJ2r7bWat0",
+      "data_id": "0x4cb29c094bb07f27:0xdd6ad6b6af762206",
+      "data_cid": "15954800710029550086",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c094bb07f27%3A0xdd6ad6b6af762206&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c094bb07f27%3A0xdd6ad6b6af762206&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6563051,
+        "longitude": -70.2757614
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ3-wSwmcskwRBiJ2r7bWat0",
+      "provider_id": "/g/1tfbmy3m",
+      "rating": 5,
+      "reviews": 94,
+      "unclaimed_listing": true,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Car repair and maintenance service"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "car_repair"
+      ],
+      "address": "205 Park Ave, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 773-1930",
+      "website": "http://www.hamiltonsservicestation.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"That saved me over $1000.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE79QEl0sHR_xWxbCWjRla7NZYWAoJDKegcHAcdkxq0EF2C4kuzKskXeeThoy4d_F1czdr1dRMvBtsbUx3hw2qTFY9_y4623-xyhd1K1nQc7fcq7LArrQPiOriX-u5O3fjuM0kfuQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/q-oLx3icHcTbToMwGADgJ-poASUz8aJOyCLuULKFzRvi_ha6FenowZW9oY_g25j4XXy_P9K5q32Kol4ms07rrhfeCgN6cGJwM9BfUXe1CCyyEd2umaJ5Nmd5j-2yakIdTov6UvWf2frjWFP99lqKDpYUuAojzot4kSp_L606CLGTekp5UxC4c0N4tfp-cfa0D4m8xeOuOM6bKX2MExQmyUlJBgZZC2P2To1h2_PGnA_IP2yS9uJXWLWePd8IxhjJ_wENfxNZRdY"
+    },
+    {
+      "position": 12,
+      "title": "A&A Auto",
+      "place_id": "ChIJB61eLHCbskwRsqFVsq5T3wQ",
+      "data_id": "0x4cb29b702c5ead07:0x4df53aeb255a1b2",
+      "data_cid": "351091305739559346",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b702c5ead07%3A0x4df53aeb255a1b2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b702c5ead07%3A0x4df53aeb255a1b2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.687169999999995,
+        "longitude": -70.29658069999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB61eLHCbskwRsqFVsq5T3wQ",
+      "provider_id": "/g/11sr5db533",
+      "rating": 4.7,
+      "reviews": 54,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "70 Bishop St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 671-5217",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They quickly fixed the issue for a super reasonable price as well!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOI-uL0P7zJrRPccTBObN1egx5F2L3UuS8pjkPTvDMhll_RWA4x7KmJDoumfiE2FRWQswTUqB6RmZxaeo6U8HPlbz7kktcoPybgY8MuNI2T5KlQieveAA-C9O0fA_rN_UBPOI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RC9lGnicHcTbDoIgAADQLyLJLlpbD9hVLUXTtXpxyQhLFBMo6wP7h_6mrfNwvp9CqUZODYMXgx4TgnGqJW2JqBWtVY-IymCNBEQCaSAcRCVahy7QW4itt9fGmJDECfOgT1k3WpnbQar3dnMrcfJY7ArOs_iAhp3lV95C6OpyXZqr-BDJZ5LenXFcnbozFePU3mCev62yVETgV86O9k4HrpmMfB5d6YMiBOaTEF5Q1gZZ6uDQnT37EEJQ_Ceg_gH4m0P1"
+    },
+    {
+      "position": 13,
+      "title": "Northeast AutoWorks",
+      "place_id": "ChIJa_JAIwCbskwRkkmli1xT-4I",
+      "data_id": "0x4cb29b002340f26b:0x82fb535c8ba54992",
+      "data_cid": "9438229101029968274",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b002340f26b%3A0x82fb535c8ba54992&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b002340f26b%3A0x82fb535c8ba54992&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7234684,
+        "longitude": -70.3408352
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa_JAIwCbskwRkkmli1xT-4I",
+      "provider_id": "/g/11b6s_pslz",
+      "rating": 4.8,
+      "reviews": 332,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Air conditioning repair service",
+        "Auto accessories wholesaler",
+        "Auto body shop",
+        "Auto radiator repair service",
+        "Tire shop",
+        "Transmission shop",
+        "Wheel alignment service",
+        "Wheel store"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "air_conditioning_repair_service",
+        "auto_accessories_wholesaler",
+        "auto_body_shop",
+        "auto_radiator_repair_service",
+        "tire_shop",
+        "transmission_shop",
+        "wheel_alignment_service",
+        "wheel_store"
+      ],
+      "address": "650 Bridgton Rd, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 899-1355",
+      "website": "https://www.northeastautoworks.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Car was repaired in a timely manner at a reasonable price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiem6w5XrGbUd22SsAH8BL-bSV3A6vYxAH4DwpCPJkM5rup_e5lHbjaZhdQYM2ltL8EGzZf9OQSGNcOO2xYcSkE4LEWtkSByRzws5sx6aK7Ol88xxxo7kLq6S4jlCfEb9G-KZF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YEhZrXicHcTvEoEwAADwJ5qSStz5MEwdkez8qS9OM8WmpY2mF_QM3sad34ff91MoVcmhYfCi18mFyDl9SloTUSpaqg4RdyOvJCASSAOuVzGD6ErvbuMcaj_bni0LSxh44xBkeNeD7ivRMLCnTTVZz9nSqZ_VkTo8yG6ntDjHydLiKvSQ36aXQRRjf0WiyNIJwQzZIdorhsfvTdtIR2r3tOhH3PO01qLPwoeL7RufXFA28MEinY2armmaoPhPQPkDFgJD7Q"
+    },
+    {
+      "position": 14,
+      "title": "Paulin's Tire & Auto Care2",
+      "place_id": "ChIJRQ4GBKCbskwR0CVJDh8yezE",
+      "data_id": "0x4cb29ba004060e45:0x317b321f0e4925d0",
+      "data_cid": "3565498638958929360",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ba004060e45%3A0x317b321f0e4925d0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ba004060e45%3A0x317b321f0e4925d0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6828089,
+        "longitude": -70.2909365
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRQ4GBKCbskwR0CVJDh8yezE",
+      "provider_id": "/g/1tq6jp8s",
+      "rating": 4.6,
+      "reviews": 207,
+      "type": "Tire shop",
+      "types": [
+        "Tire shop",
+        "Auto parts store",
+        "Auto repair shop",
+        "Car dealer",
+        "Used car dealer"
+      ],
+      "type_id": "tire_shop",
+      "type_ids": [
+        "tire_shop",
+        "auto_parts_store",
+        "auto_repair_shop",
+        "car_dealer",
+        "used_car_dealer"
+      ],
+      "address": "1036 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 797-9453",
+      "website": "https://www.paulinstire.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Really helped us out of a jam when we were traveling through Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbzOXgCPg7p_HrjGknh-v0_9t3x3QEmF5fZQ6-pu--pdG-gxPqq2CdbK0coJsa0A2s8aJG-s-KpHWjE-y8fYdalJNG_oHcT8-fj220jllEqrWwDhDJg9iGxKmRLvhecIbO6H5mtw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ykvR73icHcRLDoIwFADAEz2pEBRNXBDFIhgFY-JnQ6BAKxZaaBX0hh7B25g4i_l-mNZSzQ2DM2tEhaC8eKiiI6LRRaNHRNQGlQqIAmW40S6-uzh77890GdGpTPyuwveGwRMlM20NVuzVa7u8xhOQDwCZY6BD1LbmMs9CRESgUuSaykkDDApC6Z8qD15OeclTHuxwInxydKCsTBNVnHttd-pXbBXQ2Q0PYX3YPllBNtl-4tu17hf9GCEE7D-B5gerB0TC"
+    },
+    {
+      "position": 15,
+      "title": "Duval's Service Center",
+      "place_id": "ChIJmY2sMb-eskwR1bzW3PLpoZw",
+      "data_id": "0x4cb29ebf31ac8d99:0x9ca1e9f2dcd6bcd5",
+      "data_cid": "11286559370463591637",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ebf31ac8d99%3A0x9ca1e9f2dcd6bcd5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ebf31ac8d99%3A0x9ca1e9f2dcd6bcd5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6268124,
+        "longitude": -70.2821318
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmY2sMb-eskwR1bzW3PLpoZw",
+      "provider_id": "/g/1tf815w4",
+      "rating": 4.7,
+      "reviews": 206,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Auto electrical service",
+        "Brake shop",
+        "Car inspection station",
+        "Tire shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "auto_electrical_service",
+        "brake_shop",
+        "car_inspection_station",
+        "tire_shop"
+      ],
+      "address": "20 Park Ave, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 799-7314",
+      "website": "http://www.duvals.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Best car repair place in greater Portland and So Portland!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAbWdsx-tHdJqsVdaRfSkLgc74_QB3-RMlZo2yN0u6hIbOIr0uF3g5NtUkSIHc_E8aVpZUpBeXDOebwovExoI2cpN-i7cUUl8Paqa1mqYZoNE-z4ySgMv1J9AkRaK3MuCfNuOAPA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ktju23icHcTbDoIgAADQLyIxu289UNm0Ek1nF18aImHTBAO6_WGf0N-0dR7O91NqLdXEsurS6XAheM2MYjcqGs0a3aHianGpAFVAWSjC2wp5KN8X6gm0V6xatStIfE6qDafD3mk7c0Ac1JnovjA0g9LPQ_8GzdLhfazTKvE9enJHZCezVM7YYRGy_CHu7lP4XSoxuAxpmtajiLTEvrbHTGAXvHuvhAd3ezVGVUzWTmDmZ2xCFKHpw4YQgvI_Bc0P99ZFMQ"
+    },
+    {
+      "position": 16,
+      "title": "New England Imports",
+      "place_id": "ChIJO684R_abskwR7ow3mv9Hcd4",
+      "data_id": "0x4cb29bf64738af3b:0xde7147ff9a378cee",
+      "data_cid": "16028671711917870318",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf64738af3b%3A0xde7147ff9a378cee&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf64738af3b%3A0xde7147ff9a378cee&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657833,
+        "longitude": -70.2831616
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO684R_abskwR7ow3mv9Hcd4",
+      "provider_id": "/g/1tgdsr2z",
+      "rating": 4.7,
+      "reviews": 47,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop",
+        "Auto electrical service",
+        "Auto tune up service"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop",
+        "auto_electrical_service",
+        "auto_tune_up_service"
+      ],
+      "address": "55 St James St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fPM",
+      "hours": "Open \u00b7 Closes 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20133\u202fPM",
+        "thursday": "8\u202fAM\u20133\u202fPM",
+        "friday": "8\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20133\u202fPM",
+        "tuesday": "8\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(207) 772-0199",
+      "website": "http://portlandforeignauto.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Told me service wasn\u2019t needed a couple times and saved me an expensive job.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDFU2fO0OK9XtiFvZZ86wLb8JuWaG9aaAlEKySbrVYzvB-0gkiAjQS-SG36am369aJDAVKpcWau6skBy8nllBJhouYByhslxpzk9_DnG7eNVixYKrZnckNfz0sfG556Yy36IAn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JXiEHnicHcRRDoIgAADQE5GUi7StD5zF0mY1l6U_jZiKQeAEK71gZ-g2bb2P9_1wa1uzdBzJ3UmtdS3L3pQd08qWyk6Yfjh1awAzwDj4kBwFJuHmNKv2cB_7F9tsnkXhodfu5kX9mRKfUizX8ZDeuiwfnwGAtWjw_ZiClLiIPlzk0yjEWdyyM-2REcHgKSmDiOs-DwZu5LsdhX8NFVmUSda887grFBNJNUJTkfkc5YOLtlitXlMIIeD_GVA_LUBErQ"
+    },
+    {
+      "position": 17,
+      "title": "Cottage Road Service Center",
+      "place_id": "ChIJv_Bb3MydskwRmX5Yj_tvxEo",
+      "data_id": "0x4cb29dccdc5bf0bf:0x4ac46ffb8f587e99",
+      "data_cid": "5387554180474371737",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dccdc5bf0bf%3A0x4ac46ffb8f587e99&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dccdc5bf0bf%3A0x4ac46ffb8f587e99&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6473763,
+        "longitude": -70.2331126
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv_Bb3MydskwRmX5Yj_tvxEo",
+      "provider_id": "/g/1th0xz00",
+      "rating": 4.7,
+      "reviews": 73,
+      "unclaimed_listing": true,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "5 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 767-9090",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Best place to repair your car in maine.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZl2_zycG_5sf2CJliW6ZF6E0KlpdGHTjUdttMLPFU-PVzFbhI4_2fpxTP6poVAeSywwG0D_eObditbK_NTJryE6Bp99mrSDxPr0p2tXtRklBnXVl7xkBxdJqQYPVdC-IaYJA-2g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QKEGmnicHcRNcoIwGADQE0XSaOnojAtQQbFqFMSfTaYkESyRRPI5gDf0CN6mM32L934VAMaOHEcV_V6uda7kw8qa6wpkBT2ub05uLOIWWcej623pzc-KsGfHQ_ZpL2QSqevBPQfuDC-VEeE8-d0LgNU3DfaIps8gKxYDRi6mTahrdOrJuGuaEE-Z3GTiCtmSrZOo7maub4bDWx1PW1pjQ-AIu1L51TFVX23ptyK6b080FRO0-DlFHiL5uPnAGKPif46qPxBuRbE"
+    },
+    {
+      "position": 18,
+      "title": "Mowatt's Automotive",
+      "place_id": "ChIJLVCjeGiaskwRE_oC7RRLQoM",
+      "data_id": "0x4cb29a6878a3502d:0x83424b14ed02fa13",
+      "data_cid": "9458204720679287315",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a6878a3502d%3A0x83424b14ed02fa13&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a6878a3502d%3A0x83424b14ed02fa13&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.687034999999995,
+        "longitude": -70.31246399999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLVCjeGiaskwRE_oC7RRLQoM",
+      "provider_id": "/g/1tf15gtb",
+      "rating": 4.9,
+      "reviews": 54,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "352 Warren Ave Ste 4, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u201312\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 878-1265",
+      "website": "https://mowatts.lovable.app/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"they did an honest and excellent job fixing my car at a reasonable price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWAW0C6rIzfIdElBocVa7SjUJ7dedhLMXeqrNOmxoNKhRa7_aYHnPxPst9mCH7gtZp7-4egnLNSL8MWkjbwoFiDwTYampo9wAHu0AieHbdCCDrmB-RTxyG1ri_EyUvz51zlEXXeE-9Xrrr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Jj_sSnicHcRLcoIwAADQE0XC-EnpTBcRsdgi4hd042BIE5QkmMSCXNK1t3HGt3jPB7e2Np-OU_F-jynFKnozVBMlLZW2R5RwWG0AMcA4OImXFzxNcQr9kZ51f7MiqMaK7HK0Pm9_UEELHs0zetXxQrQq_uWrHB3zfSiTNjHWE36ImD3UCAwok1G8jj7m6eV8atS0nDSbfS5q5TU4vEFc0vBU-P5EizFYbdr7t6vLY3Df_ndDt6uCLKMB8DKt9VfjQggBf0-AfAHx10iB"
+    },
+    {
+      "position": 19,
+      "title": "Paulin's Tire & Auto Care 3",
+      "place_id": "ChIJLaplCgicskwRybqliRFGLoY",
+      "data_id": "0x4cb29c080a65aa2d:0x862e461189a5bac9",
+      "data_cid": "9668742491148761801",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c080a65aa2d%3A0x862e461189a5bac9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c080a65aa2d%3A0x862e461189a5bac9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.651353,
+        "longitude": -70.2787304
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLaplCgicskwRybqliRFGLoY",
+      "provider_id": "/g/1tmpvl22",
+      "rating": 4.9,
+      "reviews": 165,
+      "type": "Tire shop",
+      "types": [
+        "Tire shop",
+        "Auto parts store",
+        "Auto repair shop",
+        "Car dealer",
+        "Used car dealer"
+      ],
+      "type_id": "tire_shop",
+      "type_ids": [
+        "tire_shop",
+        "auto_parts_store",
+        "auto_repair_shop",
+        "car_dealer",
+        "used_car_dealer"
+      ],
+      "address": "235 St John St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 774-5508",
+      "website": "https://www.paulinstire.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Not 30 min later I was back on the road for an amazing price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHstabZ9C47-wyTwKSOV5bk63Hb0dlJEkYi4wYduP0TKpKrFy1CNAmYqmWZp9Ghy2ilmaxQI0nNVPi1PY30le1KBn5h1VUqr_GCsomwSx1JQD6NCIrX9_VpAztXQpcyVHeCL68=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wC1D-nicHcTbboIwAADQL6q0Q3Es8QHrBWVhEF0VX4zUhhJ6k9ZU_MD9g39jsvNwXn_cOWO_gkDwcNRo3Qh2t6ynWjmm3IhqGTTGAmqBDZIiL7skte5Sn2I8ngI_7H22-yGTuovCtIZXsV12VTv21fVewH1msn41IJwnsrrJw8nEaz58tEJeHuUGqpwULSqqEAqGsrmacER-b_15ja2WfvdA23IR5XjTH-MzMcnTHUtDB5Iy_B19zjyCEAL-PwXqDfxMQ_8"
+    },
+    {
+      "position": 20,
+      "title": "Kardash Auto repair",
+      "place_id": "ChIJWTUXdZeeskwRKxK4lCpDo_M",
+      "data_id": "0x4cb29e9775173559:0xf3a3432a94b8122b",
+      "data_cid": "17555949622583104043",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e9775173559%3A0xf3a3432a94b8122b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e9775173559%3A0xf3a3432a94b8122b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6265431,
+        "longitude": -70.2814278
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWTUXdZeeskwRKxK4lCpDo_M",
+      "provider_id": "/g/1tgp0ddk",
+      "rating": 4.9,
+      "reviews": 57,
+      "type": "Auto repair shop",
+      "types": [
+        "Auto repair shop"
+      ],
+      "type_id": "auto_repair_shop",
+      "type_ids": [
+        "auto_repair_shop"
+      ],
+      "address": "48 Bowdoin Ave Unit 2, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 841-4065",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Oil change"
+          ]
+        },
+        {
+          "amenities": [
+            "Mechanic"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"This guy is the absolute best mechanic  in Portland\u00a0\u2026\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcaMb_DhO1hpqTY1F42HKNfbd-_ghvUNPig9AN2-VLnx57v5ahxiWlP3N0xVr4tW9ySamWFQ5zP4V7Zfg8FG_E0YBgVHiNdk8siQO7W26dkzpvPpGILL45DUzgIcvPLtg3xUhk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PJezuXicHcRLDoIwFADAE1XKT9TEBUZRI9YSBYIbggVfCQjVVkQu6Bm8jYmzmO-HKyXkTNNqbo6gbaEunrJ4sLZRRaNGrL1pICRiEknNpSSoXI9l-0u65Aedi_sp0T3L2OzI9ZKjFHgXElrC1CUGivymt53OznhfxjU1Ce6jh6Xi6fuY3WIvsAdqRc75ChNvna5wsoBoU5K8msgyODixMc6rQXRUrLe-b9nLcIAt66ivwOxDXs1fOsYY8f8MNT8L-EQE"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=cheap+car+repair+in+Portland%2C+ME&start=20&type=search"
+  }
+}

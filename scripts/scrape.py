@@ -28,7 +28,7 @@ for line in _env.splitlines():
 
 # ── Config ──────────────────────────────────────────────────
 
-CITY = "Portland, OR"
+CITY = "Portland, ME"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "raw"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -39,10 +39,35 @@ SERPAPI_BASE = "https://serpapi.com/search"
 
 
 SEARCHES = [
-    # ── Restaurants ──
+    # ── Food & Dining (College Student Essentials) ───────
     {
-        "name": "restaurants_best",
-        "query": f"best restaurants in {CITY}",
+        "name": "restaurants_cheap",
+        "query": f"cheap restaurants in {CITY}",
+        "category": "restaurant",
+    },
+    {
+        "name": "restaurants_affordable",
+        "query": f"affordable restaurants in {CITY}",
+        "category": "restaurant",
+    },
+    {
+        "name": "restaurants_fast_food",
+        "query": f"fast food near {CITY}",
+        "category": "restaurant",
+    },
+    {
+        "name": "restaurants_pizza",
+        "query": f"best pizza in {CITY}",
+        "category": "restaurant",
+    },
+    {
+        "name": "restaurants_coffee",
+        "query": f"best coffee shops in {CITY}",
+        "category": "restaurant",
+    },
+    {
+        "name": "restaurants_late_night",
+        "query": f"late night food in {CITY}",
         "category": "restaurant",
     },
     {
@@ -50,109 +75,227 @@ SEARCHES = [
         "query": f"best brunch spots in {CITY}",
         "category": "restaurant",
     },
+    # ── Groceries (Budget-Friendly) ──────────────────────
     {
-        "name": "restaurants_food_carts",
-        "query": f"best food carts in {CITY}",
-        "category": "restaurant",
+        "name": "groceries_cheap",
+        "query": f"cheap grocery stores in {CITY}",
+        "category": "groceries",
     },
     {
-        "name": "restaurants_date_night",
-        "query": f"romantic date night restaurants {CITY}",
-        "category": "restaurant",
+        "name": "groceries_farmers",
+        "query": f"farmers market near {CITY}",
+        "category": "groceries",
     },
     {
-        "name": "restaurants_hidden_gems",
-        "query": f"hidden gem restaurants {CITY}",
-        "category": "restaurant",
+        "name": "groceries_dollar",
+        "query": f"dollar store near {CITY}",
+        "category": "groceries",
     },
-
-    # ── Groceries ──
+    # ── Housing (College Student Needs) ──────────────────
     {
-        "name": "groceries_best",
-        "query": f"best grocery stores in {CITY}",
-        "category": "grocery",
-    },
-    {
-        "name": "groceries_organic",
-        "query": f"organic farmers market {CITY}",
-        "category": "grocery",
+        "name": "housing_apartments",
+        "query": f"apartments for rent in {CITY}",
+        "category": "housing",
     },
     {
-        "name": "groceries_specialty",
-        "query": f"specialty food stores {CITY}",
-        "category": "grocery",
-    },
-
-    # ── Services ──
-    {
-        "name": "services_salon",
-        "query": f"best hair salon in {CITY}",
-        "category": "service",
+        "name": "housing_short_term",
+        "query": f"short term rentals in {CITY}",
+        "category": "housing",
     },
     {
-        "name": "services_fitness",
-        "query": f"best gym fitness studio {CITY}",
-        "category": "service",
+        "name": "housing_roommate",
+        "query": f"roommate sublet in {CITY}",
+        "category": "housing",
+    },
+    # ── Study Spaces (Quiet & Productive) ────────────────
+    {
+        "name": "study_cafes",
+        "query": f"quiet study cafes in {CITY}",
+        "category": "study",
     },
     {
-        "name": "services_repair",
-        "query": f"best shoe repair cobbler {CITY}",
-        "category": "service",
+        "name": "study_libraries",
+        "query": f"public libraries in {CITY}",
+        "category": "study",
     },
     {
-        "name": "services_wellness",
-        "query": f"best spa massage {CITY}",
-        "category": "service",
+        "name": "study_coworking",
+        "query": f"coworking spaces in {CITY}",
+        "category": "study",
     },
-
-    # ── Entertainment ──
+    # ── Shopping (Discount & Thrift) ─────────────────────
+    {
+        "name": "shopping_thrift",
+        "query": f"thrift stores in {CITY}",
+        "category": "shopping",
+    },
+    {
+        "name": "shopping_discount",
+        "query": f"discount shopping in {CITY}",
+        "category": "shopping",
+    },
+    {
+        "name": "shopping_pharmacy",
+        "query": f"pharmacy in {CITY}",
+        "category": "shopping",
+    },
+    # ── Entertainment (Nightlife & Activities) ───────────
     {
         "name": "entertainment_nightlife",
-        "query": f"best nightlife bars in {CITY}",
+        "query": f"bars and nightlife in {CITY}",
         "category": "entertainment",
     },
     {
-        "name": "entertainment_music",
-        "query": f"best live music venues {CITY}",
+        "name": "entertainment_live_music",
+        "query": f"live music venues in {CITY}",
         "category": "entertainment",
     },
     {
-        "name": "entertainment_parks",
-        "query": f"best parks things to do {CITY}",
+        "name": "entertainment_hiking",
+        "query": f"hiking trails near {CITY}",
         "category": "entertainment",
     },
     {
         "name": "entertainment_museums",
-        "query": f"best museums {CITY}",
+        "query": f"museums in {CITY}",
         "category": "entertainment",
     },
-
-    # ── Health ──
+    {
+        "name": "entertainment_parks",
+        "query": f"parks in {CITY}",
+        "category": "entertainment",
+    },
+    # ── Fitness (Gyms & Yoga) ────────────────────────────
+    {
+        "name": "fitness_gyms",
+        "query": f"cheap gyms in {CITY}",
+        "category": "fitness",
+    },
+    {
+        "name": "fitness_yoga",
+        "query": f"yoga studios in {CITY}",
+        "category": "fitness",
+    },
+    {
+        "name": "fitness_trails",
+        "query": f"running trails in {CITY}",
+        "category": "fitness",
+    },
+    # ── Health (Urgent Care & Mental Health) ─────────────
+    {
+        "name": "health_urgent",
+        "query": f"urgent care in {CITY}",
+        "category": "health",
+    },
     {
         "name": "health_pharmacy",
-        "query": f"best pharmacies in {CITY}",
+        "query": f"pharmacy near {CITY}",
         "category": "health",
     },
     {
-        "name": "health_urgent_care",
-        "query": f"urgent care clinic {CITY}",
+        "name": "health_mental",
+        "query": f"mental health clinics in {CITY}",
         "category": "health",
     },
+    # ── Essential Services (Laundry, Dry Cleaning, Print) ─
     {
-        "name": "health_dental",
-        "query": f"best dentist in {CITY}",
-        "category": "health",
+        "name": "services_laundromat",
+        "query": f"laundromat in {CITY}",
+        "category": "services",
     },
-
-    # ── Shipping ──
     {
-        "name": "shipping_post_office",
+        "name": "services_dry_clean",
+        "query": f"dry cleaning in {CITY}",
+        "category": "services",
+    },
+    {
+        "name": "services_print",
+        "query": f"print shops in {CITY}",
+        "category": "services",
+    },
+    {
+        "name": "services_hair",
+        "query": f"hair salons in {CITY}",
+        "category": "services",
+    },
+    # ── Transportation (Gas, Bike, Bus) ──────────────────
+    {
+        "name": "transport_gas",
+        "query": f"gas stations in {CITY}",
+        "category": "transport",
+    },
+    {
+        "name": "transport_bike",
+        "query": f"bike shops in {CITY}",
+        "category": "transport",
+    },
+    {
+        "name": "transport_bus",
+        "query": f"bus routes near {CITY}",
+        "category": "transport",
+    },
+    # ── Auto Services (Car Repair, Oil Change) ───────────
+    {
+        "name": "auto_repair",
+        "query": f"cheap car repair in {CITY}",
+        "category": "auto",
+    },
+    {
+        "name": "auto_wash",
+        "query": f"car wash in {CITY}",
+        "category": "auto",
+    },
+    {
+        "name": "auto_parts",
+        "query": f"auto parts in {CITY}",
+        "category": "auto",
+    },
+    # ── Pet Services (Vet, Pet Stores, Dog Parks) ────────
+    {
+        "name": "pets_vet",
+        "query": f"veterinary clinics in {CITY}",
+        "category": "pets",
+    },
+    {
+        "name": "pets_stores",
+        "query": f"pet stores in {CITY}",
+        "category": "pets",
+    },
+    {
+        "name": "pets_dog_parks",
+        "query": f"dog parks in {CITY}",
+        "category": "pets",
+    },
+    # ── Banking & Finance (ATMs, Banks, Credit Unions) ───
+    {
+        "name": "finance_atm",
+        "query": f"ATMs in {CITY}",
+        "category": "finance",
+    },
+    {
+        "name": "finance_banks",
+        "query": f"banks in {CITY}",
+        "category": "finance",
+    },
+    {
+        "name": "finance_credit_union",
+        "query": f"credit unions in {CITY}",
+        "category": "finance",
+    },
+    # ── Shipping & Post (Post Office, UPS, FedEx) ────────
+    {
+        "name": "shipping_post",
         "query": f"post office in {CITY}",
         "category": "shipping",
     },
     {
-        "name": "shipping_shipping_centers",
-        "query": f"shipping UPS FedEx center {CITY}",
+        "name": "shipping_ups",
+        "query": f"UPS shipping near {CITY}",
+        "category": "shipping",
+    },
+    {
+        "name": "shipping_fedex",
+        "query": f"FedEx shipping near {CITY}",
         "category": "shipping",
     },
 ]

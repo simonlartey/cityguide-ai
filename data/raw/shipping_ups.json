@@ -1,0 +1,1158 @@
+{
+  "search_metadata": {
+    "id": "6a4e688428c7fb967627dc14",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/yaHrpkkFqfrvYFNAFJIJUg/6a4e688428c7fb967627dc14.json",
+    "created_at": "2026-07-08 15:11:00 UTC",
+    "processed_at": "2026-07-08 15:11:00 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/UPS+shipping+near+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/yaHrpkkFqfrvYFNAFJIJUg/6a4e688428c7fb967627dc14.html",
+    "prettify_html_file": "https://serpapi.com/searches/yaHrpkkFqfrvYFNAFJIJUg/6a4e688428c7fb967627dc14.prettify",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "UPS shipping near Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "UPS shipping near Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJLUC9nQGhToYROuHZ14H5vqw",
+      "data_id": "0x864ea1019dbd402d:0xacbef981d7d9e13a",
+      "data_cid": "12447660756166107450",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea1019dbd402d%3A0xacbef981d7d9e13a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea1019dbd402d%3A0xacbef981d7d9e13a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.835282299999996,
+        "longitude": -96.67212669999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLUC9nQGhToYROuHZ14H5vqw",
+      "provider_id": "/g/11ftkjbs2w",
+      "rating": 4.3,
+      "reviews": 7,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "10306 Ferguson Rd, Dallas, TX 75228",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-174898.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Very helpful and friendly\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFzfTpZ5rH-B6VwB5Tw9Wwe7eZ_or8Tz2sAO2fYIkHucPNZNQOHOQs1GdGNmoOf_P3-8HrlOl-GUbKceN85uJimCQlitHv7vLO_iF8AoCiDHdgon3rVsq7_tQ1a0X0UI4q5PQr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ti345XicHcTbDoIgAADQLyIxM62tB6spXQaymZUvrhAvC8UAc-sH-4b-pq3zcL6f2pheLy1L1M6kkrISfNBcMdkZ3pkJk61V9RowDbQVxJg-gih8l0mfuQqB9Twd124yLs4j93iWS-Un76kOyLS87h5oYDHOMCWIUG1HRYRbSco8doCPlCACRKf7gXHsu8O-aTdUNAa9vNeR5E3oB3LTbFFRyc5RqX56uaH2DV7gaTd7ujFVq9GGEIL6PwPdDyliQ_M"
+    },
+    {
+      "position": 2,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJqzyIrNqlToYRYRlrXdj2yiQ",
+      "data_id": "0x864ea5daac883cab:0x24caf6d85d6b1961",
+      "data_cid": "2651202739801626977",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea5daac883cab%3A0x24caf6d85d6b1961&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea5daac883cab%3A0x24caf6d85d6b1961&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.8132581,
+        "longitude": -96.62339
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqzyIrNqlToYRYRlrXdj2yiQ",
+      "provider_id": "/g/11hfbkx12y",
+      "rating": 3.8,
+      "reviews": 26,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "1655 N Town E Blvd #100, Mesquite, TX 75150",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/mesquite/access-point-location-167856.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Great place to drop off packages, easy acces and friendly people\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjP-GisLPnd4U0OMw8BQ_LNHM7U0l9VEjiiEqWRSK6XzZn2-9riNm_DERwTpn4MD86OmMkv7Pnqbi3-qlAF4e8LBQnT17oH0Fmn7dk8cbssS8f6FcJAsktZ4UIjli9RTZAA-SO2w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4HujrHicHcTbToMwGADgJ-roNgLFxIsug6FyPqjhZsk6BoXyF_ZXSXxDH8G3WeJ38f399sbM-GRZqt9vOq071X5hexcaTAtmI_RkdTMSgQQtniX5yMMhIyeJUQZXu6ZpvLJDfo6SMHZrqrx3f5DSXz6K8s35_GlgR7y7TKbz0S_WagY7PjInneLx281gucg9WRQP7JZFhxyqratDGkzgXkcmLogluzmBeOU4msauXwYlvaJqOCdluluf1y2llPT_CwIPT4pDhw"
+    },
+    {
+      "position": 3,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJJw25eKyhToYRDspL2KVZ5qo",
+      "data_id": "0x864ea1ac78b90d27:0xaae659a5d84bca0e",
+      "data_cid": "12314628799924521486",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea1ac78b90d27%3A0xaae659a5d84bca0e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea1ac78b90d27%3A0xaae659a5d84bca0e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.8381247,
+        "longitude": -96.6956014
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJw25eKyhToYRDspL2KVZ5qo",
+      "provider_id": "/g/11ftkj3n1x",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "10014 Garland Rd, Dallas, TX 75218",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20137\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-174650.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEL5pLBGzVGON_t8hRTSwYVtUZogi2Vq_fOEOYirdUFrREJD8cgI5_dRRdhpuPrJmOXpO6FeLWfFBQrRDA7OUlvjnJw5wv6fbvI3sEKkGlz_ty9Y_x8u1qagCV34kc_hWc3j9HL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z_nfGXicHcThEoEwAADgJ0qRiDs_QkU6YxT5s2PVRmmzrcILegZv48734_t-qFJcjnW9pGaHMEbKrJaZwKxSWaU6mN11wqWGpSZ1Z7PeFo4bWjyc-u_YB2ukbAr3uzaJVXRi5NqLHygHLkiuIo08Ad1gbmOytFAKYUp5vRHBHRw5GHhZeMi96VbAuTMEUdncqqC12maQX5qlKd1V4ZdvpF6jBD3tuvs4k1ls9guM6AGbt9EinLRdwzA0-h9r1Q-o30WL"
+    },
+    {
+      "position": 4,
+      "title": "UPS Authorized Shipping Provider",
+      "place_id": "ChIJrbtKvdG1NYYR5J7VMhm1neA",
+      "data_id": "0x8635b5d1bd4abbad:0xe09db51932d59ee4",
+      "data_cid": "16185291755671101156",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8635b5d1bd4abbad%3A0xe09db51932d59ee4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8635b5d1bd4abbad%3A0xe09db51932d59ee4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 33.4419799,
+        "longitude": -94.42091169999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrbtKvdG1NYYR5J7VMhm1neA",
+      "provider_id": "/g/11p_7bmljy",
+      "rating": 4.8,
+      "reviews": 6,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "1107 S Merrill St, New Boston, TX 75570",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20136\u202fPM",
+        "thursday": "7\u202fAM\u20136\u202fPM",
+        "friday": "7\u202fAM\u20136\u202fPM",
+        "saturday": "7\u202fAM\u20136\u202fPM",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20136\u202fPM",
+        "tuesday": "7\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(903) 314-5004",
+      "website": "https://locations.ups.com/us/en/tx/newboston/authorized-shipping-provider-217188.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Easy drop off,  good service\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2kPlPpfSRyDtBGocVXRrQK6QxjZI35HhGvB9GoNO_FxCQ8R3oye-CznqP2eBI8Ign1oShrOmKJ8H2yK8p2vNx5BJFViXzec9rMIVYMHNviA_gI4-OSJ6Gp8EwO6jvQSwoReJG6Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cQW6p3icHcRNjoIwGADQE1UQlNRJXICjpRCBQkJ0Ni6aTqtivw7t8OMNPcLcZhLf4v29lHPGfnhep8KFBJCd-LWi56Cd0G7B4eFJYxG3yHpxVbB7vA_uVVeZ76aeP11CgLenumd5xKbbFw3XqSJDsiFQlJfDtGO4DmEWaPfUP1UgEoqp1EtoVF8-8gynwZxjEwzFtE6yQ3s9PQXf9Efano9pMVzji6QrVDZZRAzej2V0G1gzQi0yErHtuPR9H6n3HOl_ssdEWg"
+    },
+    {
+      "position": 5,
+      "title": "UPS - Distribution Center",
+      "place_id": "ChIJCTP1d3-dToYR9Jb9Y0HIzg8",
+      "data_id": "0x864e9d7f77f53309:0xfcec84163fd96f4",
+      "data_cid": "1139067938947307252",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864e9d7f77f53309%3A0xfcec84163fd96f4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864e9d7f77f53309%3A0xfcec84163fd96f4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.884222799999996,
+        "longitude": -96.8810946
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCTP1d3-dToYR9Jb9Y0HIzg8",
+      "provider_id": "/g/1hhh498_z",
+      "rating": 3.3,
+      "reviews": 281,
+      "unclaimed_listing": true,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service"
+      ],
+      "address": "2925 Merrell Rd, Dallas, TX 75229",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7:30\u202fPM",
+      "hours": "Open \u00b7 Closes 7:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137:30\u202fPM",
+        "thursday": "10\u202fAM\u20137:30\u202fPM",
+        "friday": "10\u202fAM\u20137:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20137:30\u202fPM",
+        "tuesday": "10\u202fAM\u20137:30\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "http://www.ups.com/",
+      "description": "Chain offering shipping and mailing services.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"This is a good facility..very fast I. Delivering packages and precise.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5_FcXSGcB6qcKAcflqPNHb3OF-p2b49IK2umxgSTkxKZ7th9WNIB1NZz3_5fUn7vJnqBUh1t115gYwn2du5MUoItlNyRq-ciUl9e6ug0UwDbemCgqjjzd7dHYyiUDq7LfgzlPRw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/d3RaE3icHcRRboIwGADgE1UoDAlL9gAzTMbWMbXZ9MWEn9KqpaW2DOWGHsHbmOx7-O434Vxvnz1PinDGteaSDZadQSvHlJuB7jzeWwQWWS-tyPcpzaN9Dr_rN8jmBsoUWmkqsqzDrxz1Qf2UFGUwdBe-3pwu5S52IvkhRYbJbgr3UUtV_PeuTEYFdhhHfDuqoBmiT6oLJ8l1ZRAcqEzYfOA-HRc16165OR6nJm6W2-uBLkz80fJJVqvxZcS-7yPxPyD1ALMlRbk"
+    },
+    {
+      "position": 6,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJC9eseHelToYRPIiAuYWp5Qk",
+      "data_id": "0x864ea57778acd70b:0x9e5a985b980883c",
+      "data_cid": "713162507816044604",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea57778acd70b%3A0x9e5a985b980883c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea57778acd70b%3A0x9e5a985b980883c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.7714984,
+        "longitude": -96.598625
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC9eseHelToYRPIiAuYWp5Qk",
+      "provider_id": "/g/11j5sf2zx6",
+      "rating": 4.4,
+      "reviews": 18,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "500 N Galloway Ave Ste 2, Mesquite, TX 75149",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11:45\u202fPM",
+      "hours": "Open \u00b7 Closes 11:45\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201311:45\u202fPM",
+        "thursday": "7\u202fAM\u201311:45\u202fPM",
+        "friday": "7\u202fAM\u201311:45\u202fPM",
+        "saturday": "7\u202fAM\u201311:45\u202fPM",
+        "sunday": "7\u202fAM\u201311:45\u202fPM",
+        "monday": "7\u202fAM\u201311:45\u202fPM",
+        "tuesday": "7\u202fAM\u201311:45\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/mesquite/access-point-location-175503.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Excellent service and excellent employee\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxyyRebjOua6uwS_raeCCOvbxlf2HsGk92EYQk6PPnjfUKCusIJN-oKu13xyHxBQqwOHxKVYODSynZeeEU-uNMx8XtnYqquR7zsZP0vLf4Jlblz6uFQFUlnealZmEuW1uW41PU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_MRm6XicHcRLDoIwFADAE1VADX4SF4ogikLRoMLGACkQqa3YPilc0DN4GxNnMd9PJeVTzDWNVqNByXlJCQjyyjmThMlBzh9a-RQoF0hoS-yH9XKjuu5IsnsAqQnt6fZKiWUF70zRYuiKTT0b2nFYmxizexF5FojtzkfcA2OkOletwqYNXOWd42B96lhCiB0h8A9qepUsbho4TnqRYP29L8Y7mtHeBCd0IspISpOHDRcDLmMDR4vW0HUdVf9zxH4qKkar"
+    },
+    {
+      "position": 7,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJWcTRALOhToYRqxFO7bZ0Mb8",
+      "data_id": "0x864ea1b300d1c459:0xbf3174b6ed4e11ab",
+      "data_cid": "13776921064117244331",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea1b300d1c459%3A0xbf3174b6ed4e11ab&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea1b300d1c459%3A0xbf3174b6ed4e11ab&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.811897699999996,
+        "longitude": -96.70238409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWcTRALOhToYRqxFO7bZ0Mb8",
+      "provider_id": "/g/11jfpw48np",
+      "rating": 4.6,
+      "reviews": 7,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "8555 Ferguson Rd, Dallas, TX 75228",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-174732.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Friendly staff took my package and made the process easy!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGeyIXmEPnqzUShZnzO5kNl9lYLU2osxjTytMh8tgQjRVGi8C64YbQwWdtApc4EXWE8sqteXE_WSiojrEnGjLlI4kT1hD7I1etwVXizblvPfue1GGr5tJkrMfMfsRokV6gOma7Gqw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DyYb-HicHcRNjoIwGADQEyGgqGjigsw0DUYU_AGczURraaGlBfopyg3nCHMbE9_i_f9xgMYsbVvyyYhpzSS9G9oRrYAqGBFd26wxFjGWsYN4m4gA01eY1yhW7XA68B817KZiKxfyvDmNtXlWxxdE3AeWVPsUl_7XzDtfkz67QdAQD-UZ8k0LNEe_2aHUVYcUrjYy9MTR5d_z0KXQp3k5XOUjLu7Uxbibwlp0UREVZq9FOmO7-jLHbb_qXcdxLP6ZWOoNu51Hrw"
+    },
+    {
+      "position": 8,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJJ85r-ayfToYRUqPJQGTYoT0",
+      "data_id": "0x864e9facf96bce27:0x3da1d86440c9a352",
+      "data_cid": "4441068632659305298",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864e9facf96bce27%3A0x3da1d86440c9a352&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864e9facf96bce27%3A0x3da1d86440c9a352&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.8116245,
+        "longitude": -96.7812776
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ85r-ayfToYRUqPJQGTYoT0",
+      "provider_id": "/g/11jfpvqjc1",
+      "rating": 3.7,
+      "reviews": 3,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "2350 N Fitzhugh Ave, Dallas, TX 75204",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-169860.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHc5VwyDUkq_3dMbTXFsQfKKNLLajbh2rgOq4mCZZPfCT_EZvt249gzP3okmzPCaT46Qy0P-vd2JI97LMwMtvUHCc0WsvgXsKv3QMg2IU94QMcCK8tcABVAC5PM29Uz7zGEGfoxXQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/shworXicHcRdDoIgAADgE5GEWtnWg9G_UrBpOV-akeIypYKwvGFH6DZtfQ_f91NqfVNjy7qWdk9IKa75U-UPLhudN7rHZW2JmwJcAWX5dMsqf8XdffuexdX9aJ_JKUoWihVBsA3D7HIq0UPs7k6N05QWODrOU6OR44mO2rKqO4qzyBmwN6TAnNFm7Q1D0hJt4hXm8KCMSFRgbEYEWseewwjHwUhzf7r3sUsJ8uJu2C3ny0K-EjZp-xBCUP7noPkBz3tESA"
+    },
+    {
+      "position": 9,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJb04NRR-lToYR5Vi2F-ifZ8s",
+      "data_id": "0x864ea51f450d4e6f:0xcb679fe817b658e5",
+      "data_cid": "14656859331479623909",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea51f450d4e6f%3A0xcb679fe817b658e5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea51f450d4e6f%3A0xcb679fe817b658e5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.81464,
+        "longitude": -96.5966052
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb04NRR-lToYR5Vi2F-ifZ8s",
+      "provider_id": "/g/11ftkj0nkd",
+      "rating": 4,
+      "reviews": 4,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "3601 N Belt Line Rd, Sunnyvale, TX 75182",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/sunnyvale/access-point-location-174834.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Quick and easy.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQw8AJpkc_OYq1vQncidHtGdyThYuOVS1jW7r5nrPDrtKrfmlIKT5rOX7WZp7yuigVkx-YgsS8dOJOoGp45hK_XsJB2AuHFiPYdI4IphxT_kkG7MkL_lrIkF7M0CfPNFJ3pmEk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6AG5FnicHcRJDoIwAADAF1VAJTUmHnBhVQuRoHjhUKDFQlvb4vJC3-BvTJzDfD_UGKmXltXT2YQIQfpm1I3CgpuGmwkWg0WkBlgDbXnpMWPeLnsuvFgyXKHy7jwyjrs6NEH9zmk5ouLk3M5QuVylW2US1Q59lOSuQhd4vkr4HjtSsBcoiT4tahQjEci5S5PqouP11BtDv0vLOppHkr7yirEAHti-6lXEfHiwN2169OOZHHZs9XRs2wb0Pwb8B98ARYA"
+    },
+    {
+      "position": 10,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJi4TC_vCfToYRkynpLXnRgKw",
+      "data_id": "0x864e9ff0fec2848b:0xac80d1792de92993",
+      "data_cid": "12430165289934072211",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864e9ff0fec2848b%3A0xac80d1792de92993&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864e9ff0fec2848b%3A0xac80d1792de92993&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.8567371,
+        "longitude": -96.75044989999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi4TC_vCfToYRkynpLXnRgKw",
+      "provider_id": "/g/11ftkht42b",
+      "rating": 3.6,
+      "reviews": 7,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "6474 E NW Hwy, Dallas, TX 75214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11:55\u202fPM",
+      "hours": "Open \u00b7 Closes 11:55\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u202fAM\u201311:55\u202fPM",
+        "thursday": "12\u202fAM\u201311:55\u202fPM",
+        "friday": "12\u202fAM\u201311:55\u202fPM",
+        "saturday": "12\u202fAM\u201311:55\u202fPM",
+        "sunday": "12\u202fAM\u201311:55\u202fPM",
+        "monday": "12\u202fAM\u201311:55\u202fPM",
+        "tuesday": "12\u202fAM\u201311:55\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-169604.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"It was very convenient, and UPS picked up my package up the same day.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFimDmVpuFsc4gujAnXrUf2Wu6MGIUPFGDwy6-LfG1LUBEIUk6FHLr0S5DvvPtJPCAS4uou7ZB71qgHDRvARynFERkl6fF1Utec-HnX_ETaX0TXLVEe8l2ngkh23vr8E995-4A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KiJGM3icHcRdDoIgAADgE5FoZj9bD5SgNWumUa6X1hhiqWACti7YHbpNW9_D9_1UxnR64ThNNR4JpUTDreY9U9JwaUZMtY7oNGAaaAel-0ONyL0N21NniWa-sA8ki56W3tkGu2hDUxKFr3cAkjJyE7rCG1oHJE56mE_CYUjNNl2j3LfKTi-rqfsUcZgNKHtLgrO6CUriUsMZiGVxxcdbAY9FcsJ81nhS1JU3HvoZns8nwEfLlwshBNV_BuQPxPpCcg"
+    },
+    {
+      "position": 11,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJ3XNnQrOlToYRKe7jQY2VGd0",
+      "data_id": "0x864ea5b3426773dd:0xdd19958d41e3ee29",
+      "data_cid": "15931929590728224297",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea5b3426773dd%3A0xdd19958d41e3ee29&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea5b3426773dd%3A0xdd19958d41e3ee29&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.7449594,
+        "longitude": -96.5829311
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3XNnQrOlToYRKe7jQY2VGd0",
+      "provider_id": "/g/11jfpw57ns",
+      "rating": 4,
+      "reviews": 24,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "904 E Cartwright Rd, Mesquite, TX 75149",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/mesquite/access-point-location-174826.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Easy to drop off packages at this location\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEm2H7_qltVjqnL4v2figBoIdI9aQluatB1X71sOqTNR048HqKGDhkmcJeioarDZ_8TuXEW_DDSngjKWG0coUKKBpwmGw0q9OqXBvswQif7THRsOB3XRaFemVr95tF_E1SRHRS33w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OqVkn3icHcRRDoIgAADQE5mYNrOtj5imZctEK9ePc0RoCYhgnLEjdJu23sf7flqtB7Wy7b51Z1QI2pNJkRELrgnXMyyYTQdlYWUpe3M65q9NxOaJX8teX56SH7z3_NFRKHb3XdDk_dRo6FS-ozJZHhHwlolM47B9MbwnnWjG8FYvy6mKrnUYFpw-02sMsDinKRwMiw2QQSYr-FYm7x5-mSCVQbdCzZawyxgs9LaOnAIlqHBdszYOAMBq_2OL_wAHGkU6"
+    },
+    {
+      "position": 12,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJryt6p4iZToYRoieVx5zvxZA",
+      "data_id": "0x864e9988a77a2baf:0x90c5ef9cc79527a2",
+      "data_cid": "10432007568515999650",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864e9988a77a2baf%3A0x90c5ef9cc79527a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864e9988a77a2baf%3A0x90c5ef9cc79527a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.8001782,
+        "longitude": -96.7829033
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJryt6p4iZToYRoieVx5zvxZA",
+      "provider_id": "/g/11jfpvw921",
+      "rating": 3.7,
+      "reviews": 7,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "4202 Ross Ave, Dallas, TX 75204",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-174036.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Always a very Swift, Nifty, Smooth transaction;\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHevgIKX0pFRC0zOdY1X6YfUF8YJ7MTaFuNs1kwMxq1LMDQ9_iMzUHyoz6MwnXiS1e4axfZi28K4TOeFsMTcJ9DBd6235H2zZ7wf9xUIEvWQ8rglUzALOd2-RMROnY0hA3IbTVAmg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MCv4yHicHcRRboIwAADQE1VaYAgmftQ5AmpFEBT8WVwphYgtWhTWG-4Iu42J7-P9_9V936mZYbS1NeFS8pY9FLtTKXom-gmVV4N3ClAFlIF32_iCA_bk4TqHnZ98Qh2VBcqdosp8t1hNSXr2H1uFLgMZb2hDlrH33RCdBb9SO2QQebNHzD6P1akx3bWdRsxXJKUrb7koHdP6CEx9mg6VN2bh1_MYu3feZhpvotIECUkiUcAaW-FPesBXPh8QhBDU7ykQL4KqQ9I"
+    },
+    {
+      "position": 13,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJvcdaEFAfTIYRuK09PLDA3dE",
+      "data_id": "0x864c1f50105ac7bd:0xd1ddc0b03c3dadb8",
+      "data_cid": "15122454986937445816",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864c1f50105ac7bd%3A0xd1ddc0b03c3dadb8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864c1f50105ac7bd%3A0xd1ddc0b03c3dadb8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.9459747,
+        "longitude": -96.6835086
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvcdaEFAfTIYRuK09PLDA3dE",
+      "provider_id": "/g/11ftkhx3y5",
+      "rating": 4.3,
+      "reviews": 16,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "2129 E Belt Line Rd CVS, Richardson, TX 75081",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/richardson/access-point-location-174362.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Very convenient location.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKosP66zKJkhd3Qq-GQHhiOxGJ-GOvuy_xo0NLlvX9DNvuaTiNrC93v0CcLbBNnpodF5iM7IyiyTyOCx88n1ab_xPuj5nfrL7ga_q2NqosRZme8VIzzLOqmExg7CCAkwBnPxnZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DMBqB3icHcRJDoIwAADAF1WqhEUTD1gVFyxgjDFeCBZsEWiBAhY-6Bv8jYlzmO-HtW0lF5pWMH1ChaBF2sm0IYK3KW8nRJQarSQgEkjNCXCYO9ujkIFpjsdDzhI9rIEb7ljmK_cAXL_vhkgJiL2iv83XuO_iS4YbNNd7iIj3WGFeiWRrZCdrP2TDZfCRsm0-jR-RCrqXwZ-NZ9E4qme4FvJ8L1P7uh9Hz6_LjaIWQk7-XvFA8fvyPYUQAvafAP4DqaBGGw"
+    },
+    {
+      "position": 14,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJJzWihbCjToYRC7rlcUSExKs",
+      "data_id": "0x864ea3b085a23527:0xabc4844471e5ba0b",
+      "data_cid": "12377163105424488971",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea3b085a23527%3A0xabc4844471e5ba0b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea3b085a23527%3A0xabc4844471e5ba0b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.7337973,
+        "longitude": -96.6834899
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJzWihbCjToYRC7rlcUSExKs",
+      "provider_id": "/g/11ftkj7j3s",
+      "rating": 4.4,
+      "reviews": 26,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "1235 Buckner Blvd, Dallas, TX 75217",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11:55\u202fPM",
+      "hours": "Open \u00b7 Closes 11:55\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u202fAM\u201311:55\u202fPM",
+        "thursday": "12\u202fAM\u201311:55\u202fPM",
+        "friday": "12\u202fAM\u201311:55\u202fPM",
+        "saturday": "12\u202fAM\u201311:55\u202fPM",
+        "sunday": "12\u202fAM\u201311:55\u202fPM",
+        "monday": "12\u202fAM\u201311:55\u202fPM",
+        "tuesday": "12\u202fAM\u201311:55\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-174861.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"The guy that took my package was very nice and professional.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZaVG3Ao-WZYMJ09oeVaq74-Nam1llFoqcx94qra1JycwHZ_NbzHM3LSR2rVxXhC6qBkx8d3LHleh0ksNHOIBfyGT-I31z66UWlwbMA6ws359hFEL4ZbVQw5ses3lqbs82K7kXAg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K9OO83icHcTdboIwGADQJ6oUCyhLvChGrA7wZ4rKjYGuowmVWj6Wom-4R_BtTHYuzutP9v0dPhxHSTKqta6V-AXRcd32ou1HXN-c-g6IAwKHbrNdQ1lR5ktCNToVl3SNQy3y0kw8lJU3V6lYGz6EnulKd_3glhXXrHqylCRf-3GXD2c5D0zUDNNvkjAlJG4gY5tV9PNYHtCKuM8gOJ6UrVIaWCB-KONF4hVVvrM-CCDKVDAdf06aM61n1sUYI_k_R-0bh3pEGQ"
+    },
+    {
+      "position": 15,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJGSJr4k0DTIYRMa9fLOIb10M",
+      "data_id": "0x864c034de26b2219:0x43d71be22c5faf31",
+      "data_cid": "4888406578754989873",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864c034de26b2219%3A0x43d71be22c5faf31&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864c034de26b2219%3A0x43d71be22c5faf31&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.9070725,
+        "longitude": -96.5702171
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGSJr4k0DTIYRMa9fLOIb10M",
+      "provider_id": "/g/11j5sdv3zv",
+      "rating": 3.9,
+      "reviews": 22,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "3430 Lakeview Pkwy, Rowlett, TX 75088",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/rowlett/access-point-location-174735.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Easy and fast\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDkeYLqUYYkak7iQ1J2pBHskJIWJI4aOsS1L1iE8P9tC7p7N2bbcwbMTOld7UyXHJXaaDVZmX7s2eO6excfQc_HYh7wYoifIOMl8KKajgS90RMBhOODLpi0FajmKUZi8vRQ6Jn1w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/t-KfkHicHcRRboIwAADQEyEtWyya7EPHDBSworJRf5ZSK60F2q3dmEfcEbzNkr2Pd_-V3lu3DMNePsw6Y7pefDnxyc3oxehn3AxhZ13AXeDC1W5b6dUm0YIWHzWlmmmkKogju06dxtkbzh4ZcQdYQPUS7xb-GVm0jdqWT215JP0Z1bcmxQ1jyetpaJCLBJmLH36p-HtKJZqoUZeMlH2c5-zaHRZgX64lIUlhFdiw65DXJxV_76s5HuH0NEEAQCD_58H4B51PRIU"
+    },
+    {
+      "position": 16,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJufVDyc6XToYR1vmqXnA_zuY",
+      "data_id": "0x864e97cec943f5b9:0xe6ce3f705eaaf9d6",
+      "data_cid": "16631300225782970838",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864e97cec943f5b9%3A0xe6ce3f705eaaf9d6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864e97cec943f5b9%3A0xe6ce3f705eaaf9d6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.6870566,
+        "longitude": -96.78915049999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJufVDyc6XToYR1vmqXnA_zuY",
+      "provider_id": "/g/11ftkjbs2t",
+      "rating": 4,
+      "reviews": 56,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "5050 S Lancaster Rd CVS, Dallas, TX 75216",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-175259.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "description": "Mailing and dropoff service for prepackaged shipments, plus pickup point for redirected items.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"UPS is a great place to receive and mail off package.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5Jz_ke9iZkM3L6vW6d2981dVKMnJ-tRFviybS0vVyHkj3Y3BZrV8nVFZJHb0qnhqdDysQHSWR66WBwRfK8L8a6H1BWD5d403JM3H55GJ-7JKB4aA4_pXlI6Zo_inuWghZB4jH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hqgEL3icHcTRroIgAADQLyIxlKytB1nzcjFb2SZdXlypV0wDC7LZD_YN_U1b5-G8X9La3iwcp5NoUmtdd9XdVLdCK1spOyn0xal7AwoDjBNuN7s2jHz2zNtq3og2QWs8cFxO54FbZnGiGLBpNDTjaQ-HbKTtGf0hIm5ZoLJIMHqCVyWv5Wo0O7rnKcacPNL_OFgHR0xdwld-6UHEEkR9_4eBGYuJdwy9vD90v1jovFF3XktBvDNdPlwIIZDfC6A-ozxB8g"
+    },
+    {
+      "position": 17,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJX3ngrcefToYR9aLNiwr41ew",
+      "data_id": "0x864e9fc7ade0795f:0xecd5f80a8bcda2f5",
+      "data_cid": "17065819087169233653",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864e9fc7ade0795f%3A0xecd5f80a8bcda2f5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864e9fc7ade0795f%3A0xecd5f80a8bcda2f5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.85385,
+        "longitude": -96.7686373
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX3ngrcefToYR9aLNiwr41ew",
+      "provider_id": "/g/11j5sdvcy_",
+      "rating": 4,
+      "reviews": 8,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "5500 Greenville Ave Ste 700, Dallas, TX 75206",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-167876.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQI3vhT4X_2MLKuvTZWJqyRygr8dQrHKULRoacNDUaRExcVJyoYuAugmqnef9fV1p3mbKS9V82yijYyDHz1NNCNyt_DIAJGQFe9CdZOEXMeVmqBK-JjkMOKrq5NhzPemRclWje=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bRbd-HicHcTvEoEwAADwJ5pK3MmdDxHStBTlzxfHzCatVVuYF_QM3sad34ff98OUquTQMApmd6gQtCCtJA0WpSKl6mDBDVpJgCWQhrtC8d3144X9YJve7tgNl7B9bA7boNaJps3gEjc-TJeJOGHkpadk-sJZoMW-dVvK65JcnWtmVTY_w7WTDbr6lu-1578thCZIq6O3cIN5PCPO5HKIpruQZLweQxDk9zCCTd1H7L0iPMHFNiejp2WaJmD_MSh_sjZFow"
+    },
+    {
+      "position": 18,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJBzvXMaafToYRHKI41t_b9MY",
+      "data_id": "0x864e9fa631d73b07:0xc6f4dbdfd638a21c",
+      "data_cid": "14336325268245357084",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864e9fa631d73b07%3A0xc6f4dbdfd638a21c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864e9fa631d73b07%3A0xc6f4dbdfd638a21c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.8140333,
+        "longitude": -96.7521148
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBzvXMaafToYRHKI41t_b9MY",
+      "provider_id": "/g/11ftv44gxc",
+      "rating": 3.4,
+      "reviews": 5,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "6420 Gaston Ave, Dallas, TX 75214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-180160.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Quick and easy, located inside CVS right by the entrance\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAET-IkpESmTzkWj5Iz1w43VUEWD7Q3yehavJ4Ogs21QK4ocTslCmJGu8wONt0AyPIeoAnfhQDkyAB-QaZ56MQ3c6gljCO_-btY8eKONe0NIRMQGZzCM7ZkR7lmV5w3MxqkTeQQqQA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IBsOpHicHcTdboIwGADQJ6qUlR-zxIuKhKAB_BQ1crO4pmtjC8W1ivCGPsLexmTn4vy9pHO9_fQ8LclMGCM0v1v-y0zneOdmzLSe6C1iFlmPbktQNK1Rrvp039aTOl3DfPKHgBwP6WkVAxm5vDzWQSXshw-bwLDa6qRdZ_f5UJUO03Gbc0O7HwkrNdIlgksTRgUQFgl9Taov9O3Oc76pSo7LfFdA1kxJETdqF-v2GA6keN5UzQFuQBeDjzFG8n-GujeVNERS"
+    },
+    {
+      "position": 19,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJZdkIhO4hTIYRS1c6F91kArA",
+      "data_id": "0x864c21ee8408d965:0xb00264dd173a574b",
+      "data_cid": "12682810401368987467",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864c21ee8408d965%3A0xb00264dd173a574b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864c21ee8408d965%3A0xb00264dd173a574b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.957574,
+        "longitude": -96.8159769
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZdkIhO4hTIYRS1c6F91kArA",
+      "provider_id": "/g/11jfpvpy0d",
+      "rating": 3.1,
+      "reviews": 18,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "Prestonwood Town Center, 5301 Belt Line Rd Ste 101, Dallas, TX 75254",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 742-5877",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-167883.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Great service and nice employees very ready to help/assist.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFY5-GIS9hv_hd7iexkhJp_hXtAucUg6pbmbhYb7o00liCLO6VTFx9RfH9oXOuWFpZdxMj3_Qxx_gQyhb-hmmDNbWDlP-O6i2mnYHwa4IyQ5VYlIs-9n14lHhzqFOXvd2VBe1Wr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9rpXkHicHcTbTsIwGADgJyrrOIzMhIspmRtRxkB38GaxXe0_6AnaQfEFfQbfxsTv4vv9AeeMfQgCAbMJ15oLNlp2oVo5ptyEahlwYxG1yAbJbluekrRdoOf8EMO1g345MH-CjemgcclI33lkiCTQkqXGWAxPL0VUvaU-3n9lsW6KsU7NR-9fj7Ou9L7j5R0IAinXW1KvxQ4V0TCVqs1un_P8Xi6qVuQWxSqciwy-z2nRXPtp9cjC-rK6hRhjBP9TpP4ArDpFTQ"
+    },
+    {
+      "position": 20,
+      "title": "UPS Access Point location",
+      "place_id": "ChIJ43ruZnKjToYRPouL6njsVcY",
+      "data_id": "0x864ea37266ee7ae3:0xc655ec78ea8b8b3e",
+      "data_cid": "14291588996605381438",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x864ea37266ee7ae3%3A0xc655ec78ea8b8b3e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x864ea37266ee7ae3%3A0xc655ec78ea8b8b3e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 32.7612812,
+        "longitude": -96.68422989999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ43ruZnKjToYRPouL6njsVcY",
+      "provider_id": "/g/11tx9j6ln9",
+      "rating": 3.2,
+      "reviews": 6,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "2947 S Buckner Blvd, Dallas, TX 75227",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9:30\u202fAM\u20136\u202fPM",
+        "thursday": "9:30\u202fAM\u20136\u202fPM",
+        "friday": "9:30\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "9:30\u202fAM\u20136\u202fPM",
+        "tuesday": "9:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(214) 275-8066",
+      "website": "https://locations.ups.com/us/en/tx/dallas/access-point-location-228618.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Always friendly and fast!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHktxq5ZMeXJt5CiruOF49sr5ecvol-aovp2Bi61wysQlo4zqLjMFbCoPKtmqDlSkxIUCjs_i-Dgnlz6Z3SryZtWDmf5l9qlnGnpbQMQQT1t_lEFtp0px3jxY-9AHfurKCalHzXCB5yKMWy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PTETYHicHcTdboIwGADQJ6rAEBOW7AKLyMbYbHTRcWO0qfx9tKX9UOAld723WbJzcX5_KkRtnx0HKn9RKlWCGKwwXEkUEhdcdU6pLeGWWCfafbA2Slsc-6DIxekNA1qb4TNZhtYEgt8VkIu666d1vfIek2WglnP_3uTJlapdhl0fw74dX79oY881iUsJ86rw92Yq8Bh3twDCHuRW6ivLGTt4eIZNgtrVo9-M3ySM0ttgMnqBdD7RdTBl-XF6eXiu65Lqf07kH4uSSbM"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=UPS+shipping+near+Portland%2C+ME&start=20&type=search"
+  }
+}

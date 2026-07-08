@@ -1,0 +1,1783 @@
+{
+  "search_metadata": {
+    "id": "6a4e686571577fd2a8e7ed52",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VFZN3_Mu7xuOB4PPgE6mIQ/6a4e686571577fd2a8e7ed52.json",
+    "created_at": "2026-07-08 15:10:29 UTC",
+    "processed_at": "2026-07-08 15:10:29 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/pet+stores+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/VFZN3_Mu7xuOB4PPgE6mIQ/6a4e686571577fd2a8e7ed52.html",
+    "prettify_html_file": "https://serpapi.com/searches/VFZN3_Mu7xuOB4PPgE6mIQ/6a4e686571577fd2a8e7ed52.prettify",
+    "total_time_taken": 1.29
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "pet stores in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "pet stores in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "The Fish & Bone",
+      "place_id": "ChIJKTJasT-cskwRtvaIK0gPVbY",
+      "data_id": "0x4cb29c3fb15a3229:0xb6550f482b88f6b6",
+      "data_cid": "13138424290565748406",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fb15a3229%3A0xb6550f482b88f6b6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fb15a3229%3A0xb6550f482b88f6b6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6594457,
+        "longitude": -70.24839279999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKTJasT-cskwRtvaIK0gPVbY",
+      "provider_id": "/g/1thggmqt",
+      "rating": 4.8,
+      "reviews": 256,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Gift shop",
+        "Pet store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "gift_shop",
+        "pet_store"
+      ],
+      "address": "5 India St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20137\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 773-5450",
+      "website": "https://www.thefishandbone.com/",
+      "description": "Trendy, warm pet shop stocking a wide selection of dog and cat food and treats as well as toys and accessories.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Friendly staff and great variety of pet supplies!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIecKimz27OvCqm1Huuo0E29gLPqSKRLFH8DMuwwkb5lF45Z0rucYoskceeegiDk0mLuERN3KanfQIGbbIhpMTLj6a8pDCuO6OuhozRcUOKWGbmAJMLEr3Z_bJBi3gUUj7q14=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GlS0KnicHcRdDoIgAADgE5mY2t_Wg6WWiZqWa_XSghGYIiqSmwfsDt2mre_h-35Y3zdypesVMydUCFoRJUmHRd2Tup9gwXXaSA1LTerOMU5Lxw8IDgs-TufJe9tyY6-UAN50SeGxPYUZ9PcLN1LDUCK78i37BjqFr0KWmBBCC7cEHCovi83wUT_TYIdQwJroDF-zx6JxtyqZJYqJMcN5El52iDuHCHqdebujw6YwaZ6_5q1hrQcDAKCx_1irfyhkRDg"
+    },
+    {
+      "position": 2,
+      "title": "Uncommon Paws",
+      "place_id": "ChIJL6c26T-cskwRTYCsi_hWKo0",
+      "data_id": "0x4cb29c3fe936a72f:0x8d2a56f88bac804d",
+      "data_cid": "10172038333864902733",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fe936a72f%3A0x8d2a56f88bac804d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3fe936a72f%3A0x8d2a56f88bac804d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6569454,
+        "longitude": -70.2536053
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL6c26T-cskwRTYCsi_hWKo0",
+      "provider_id": "/g/11ddxr91yq",
+      "rating": 4.8,
+      "reviews": 147,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Pet store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "pet_store"
+      ],
+      "address": "21 Exchange St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20138\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(888) 549-7297",
+      "website": "http://www.uncommonpaws.com/",
+      "description": "Family-owned shop specializing in handmade leashes, collars, and other gear for dogs, plus toys and treats.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"Extremely friendly owners with high quality, handmade leashes/collars/etc.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEle-ZN2fgKTCI52hFJ_kjT-SxEQEbtAL90isMSGtVUJS3slEG92qkKUQdhYa3-R0a0yHW7hcxJeIKoHTLxx4awSC42E9GxmmysgCfZs6Zh4T6QJcxiuQen15iH0rTVSDPoRQ8k=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eNM7O3icHcRbjoIwFADQFVUq4AMTPwjTAUGNtVUz_Bjs1BZ5VL011hW6htnNJJ6P8_fW1l5h5nmtDgbKGNXKB8i7ML2VvR0I03nqCkgAAi_erGkTk1aicu2fVcGTxcjX3_mxuXDEHKHkZONlhGtYsdTudzkLoCVp5N-aYkd_9U8VoC2u8Cs7TLRwuVwUJuNL58LqyZLQJ1Hquu4FKjmXMC51yMc0F65-UNkPR3WG73zPvjZmS6fN_DnEGCP9WaD-H9e7Q3w"
+    },
+    {
+      "position": 3,
+      "title": "Pet Supplies Plus Portland",
+      "place_id": "ChIJ2RiVofmbskwRCkNs_jEOLDA",
+      "data_id": "0x4cb29bf9a19518d9:0x302c0e31fe6c430a",
+      "data_cid": "3471165020680504074",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf9a19518d9%3A0x302c0e31fe6c430a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf9a19518d9%3A0x302c0e31fe6c430a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7028994,
+        "longitude": -70.2881767
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2RiVofmbskwRCkNs_jEOLDA",
+      "provider_id": "/g/11sj_1hnfy",
+      "rating": 4.8,
+      "reviews": 80,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store"
+      ],
+      "address": "91 Auburn St Ste M, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 331-3263",
+      "website": "https://www.petsuppliesplus.com/store/me/portland/4579-portland/4579",
+      "description": "Food & supplies for small home pets. Chain carrying natural & U.S.-made pet supplies, plus services such as grooming & adoption.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Wonderful, knowledgeable staff and a great selection of dog and cat food.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGloyUDqP1XA6gYi_4OgOuSc-PyIOeqEWAzjBrq-xh5SR3r_MSnJeBLkA9pssiYIYDZk4ihKDQLQE54tTw9f3ClIvBNKohzo5tvvzKuBLaGHW0MXRDHHIhyz845CAOox2n2nTk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-DYiOnicHcTLDYIwAADQiQrIx4iJhwJGEBQQjOLFmKa2CLZACwoDuoPbmPgO7_uhUjZiqao1NRTCOalxL3CHOJOYSQXxp0oaAZAAQoXJPq3gpubj0WuT2RnOSVFezZjEfYZAMgYxbtcnOD2crgVvamUHo7vuMrbFTlRBuxGiLILCu1RmSUMvjdK1Zcr8Zd8Ntw4GZx9yOnFLDsMU9k502_gnbXc-eL4f0HFamJYLY_7Wmc7yavWaaZoG6H8E2A8vxkRR"
+    },
+    {
+      "position": 4,
+      "title": "Petco",
+      "place_id": "ChIJ8Qj54XGZskwRQJvLCQYT86s",
+      "data_id": "0x4cb29971e1f908f1:0xabf3130609cb9b40",
+      "data_cid": "12390267916481436480",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29971e1f908f1%3A0xabf3130609cb9b40&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29971e1f908f1%3A0xabf3130609cb9b40&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6385315,
+        "longitude": -70.3332008
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8Qj54XGZskwRQJvLCQYT86s",
+      "provider_id": "/g/1tdc4v50",
+      "rating": 4.2,
+      "reviews": 808,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Fish store",
+        "Goldfish store",
+        "Pet store",
+        "Reptile store",
+        "Tropical fish store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "fish_store",
+        "goldfish_store",
+        "pet_store",
+        "reptile_store",
+        "tropical_fish_store"
+      ],
+      "address": "220 Maine Mall Rd, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20138\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 772-9119",
+      "website": "https://stores.petco.com/me/s.-portland/pet-supplies-sportland-me-296.html?utm_source=google&utm_campaign=locallist_296_pcc",
+      "description": "Retailer dedicated to pet supplies. Chain with pet food & supplies such as toys, beds & pet technology products, plus medication.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"They offer a solid selection of the products our animals use and prefer.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdMaFx5RcmGK8Z8B444aCxi6iQzNa9Ufh01nGgW9jyi2xS5skqnoyQCemH3ODAO20WMl-GrXIC9SqKzPOJhBhtwlfUnWkGssyUnG9VUyybu2QhpfrECZYEFtQr9ho8AgDabgFoLg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ott4b3icHcRdDoIgAADgE5Fk1qStBzOlf6NmVm9GCqaCCS3phh2h27T1PXzfD9e6UWPLqvigx6RkVfZUWUul0JnQPSprizUKUAWU5e22pPSC2yYNu-Ge1njlXtyp4zip3xWjgry3KYpzDvsCswTdTWF3h6EqH0Ia4mf1fBDNvMiGyaYCuD0tfHR4rN67aMmnXL-qPBZJiZUyscDoGBtzfdqEN3kb-JdzEGrSIi5dj83SKwvlmk1efQgh4P8pED_OSEXG"
+    },
+    {
+      "position": 5,
+      "title": "Pets On Point and The Dog Wash Etc.",
+      "place_id": "ChIJxaVzB5-bskwRMmAyYdvDesE",
+      "data_id": "0x4cb29b9f0773a5c5:0xc17ac3db61326032",
+      "data_cid": "13941670943474737202",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b9f0773a5c5%3A0xc17ac3db61326032&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b9f0773a5c5%3A0xc17ac3db61326032&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6826564,
+        "longitude": -70.28957369999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxaVzB5-bskwRMmAyYdvDesE",
+      "provider_id": "/g/1tvrz9_9",
+      "rating": 4.9,
+      "reviews": 240,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Pet groomer",
+        "Pet trainer"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "pet_groomer",
+        "pet_trainer"
+      ],
+      "address": "1037 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 797-7082",
+      "website": "http://www.dogwashetc.com/",
+      "description": "Self-serve dog-washing station that also sells pet foods, toys and treats.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Pets on Point are always, friendly, knowledgeable, and all around fantastic.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuOVRziogEF32gYEVJsXsRlFK4ZlLmAL3nzzKUk0thikUwEWz2BJISszUSVZg_PMNVnkrf-9dFVxBhkzFfw3BlXOdqWqfb7DzgfzYfggCdndBTaWJglmhuXV95-Nmlt2bd9gGdqA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_wF1rnicHcRRToMwGADgExUQNAaTPYCCChvgJoXtxQilf0lLO9YSlt7QI-w2JvsevtsfM-asX1xXsMABpUAMix4uvZJmkMbp1eTCWaNeI-1GVfHFo4-lxHs7KkjSwIdjgjPd6r1I88eT2E7RNpDW5jX3DBt5vSaN9ePs86BtfcAn-Kl2BZb8QlFIUnyNGbcpXYNYtCWZm5l2z28WqD1SgFciSfz922QgJra0OHxCxSSM35EQ3skcbdYHz_MQu98j-Q-A80c5"
+    },
+    {
+      "position": 6,
+      "title": "The Animal House",
+      "place_id": "ChIJ8emy4U6askwReSGoJag4wsI",
+      "data_id": "0x4cb29a4ee1b2e9f1:0xc2c238a825a82179",
+      "data_cid": "14033841683677323641",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a4ee1b2e9f1%3A0xc2c238a825a82179&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a4ee1b2e9f1%3A0xc2c238a825a82179&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6781265,
+        "longitude": -70.32963029999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8emy4U6askwReSGoJag4wsI",
+      "provider_id": "/g/11b6xbxw2q",
+      "rating": 4.8,
+      "reviews": 139,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Dog cafe",
+        "Pet store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "dog_cafe",
+        "pet_store"
+      ],
+      "address": "11 Main St Ste 5, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 887-9638",
+      "website": "http://www.theanimalhouse.net/",
+      "description": "Pet supply and food store, including all-natural items alongside toys.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true
+      },
+      "user_review": "\"Excellent selection and very reasonable prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHA69OxiG6R3ZU-FVxTuIM-SP3HNG-W4uIrFfRpVJm5aWWj3fvbZnpoDJ50vUlKqrp5q7Aj8iX06fVZNPyq-A2rsvpXhUuJ5AA2N81-feA_sCSzZcmBfgm4Jm85UTYbjbeuCRto3w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QlLC1HicHcTdboIwGADQJ_qkWsuYyS46jT-YIUMB5WYZTQsipYW26PaGe4S9zZKdi_P7U1urzcLz2hpPKqWqljvDB6Y6yzs7YUp6lTbADBiPxtH7jW6p_3x4XDd-gosU1tnj5HZvcIzxNtpAPne7YS0SnYWSfOZ5g8VYFp1Wq5CgMW33_aBJ_0Sb4HpGvsiKKP7qgc4GM-pznbqQUDqLgikITj_M8vhdMPkqKjkPZUDS06VsSu6WiVX4_nKfIoSg_p9B9wdXwkRX"
+    },
+    {
+      "position": 7,
+      "title": "Pets On Point",
+      "place_id": "ChIJQf6F-2ybskwR2-j2_ocIZnw",
+      "data_id": "0x4cb29b6cfb85fe41:0x7c660887fef6e8db",
+      "data_cid": "8963861488518752475",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b6cfb85fe41%3A0x7c660887fef6e8db&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b6cfb85fe41%3A0x7c660887fef6e8db&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6830644,
+        "longitude": -70.2898099
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQf6F-2ybskwR2-j2_ocIZnw",
+      "provider_id": "/g/11fjtw29kq",
+      "rating": 4.8,
+      "reviews": 45,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Pet groomer",
+        "Pet trainer"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "pet_groomer",
+        "pet_trainer"
+      ],
+      "address": "1037 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 797-7082",
+      "website": "https://petsonpoint.me/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"The staff are phenomenal and the selection of food and dog treats is great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGm3EvKLpnV1KiH8sI1P2M6FXNsQc6PYKvHe-8-tVvHtfUakXq9tt_76YfDqvv_kMfNTvmtxdIT8ctHlKMM2eaOgehJLyGd_75O5fQaiIGJilviicaynWKQLkyP4C4WWA8FCKQo80sWzlcj=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xXE-3HicHcTbboIwGADgJ6qAB6xLvCAeAAtIEyd6RUgtUCkt2n_d8CW93tss2Xfx_b5bgMF8OI5sZ5NG60byL8OfTCvgCiZM904zGMQMMk6QZ7QLwn62syQZ1NkjIsIm9vJp6u8vmaHMz6_ERhxhBGcbQf1ZdZfHCqBc-td6-7C27NI6O9kefm7xCTOIJEnTKa-ODW8PyRjeyuXiuKhpJeLwIKQVglWjKghNujGfb-ZFEeD9hlCNXVO8JLuvvz3XdVH7P0PqD54AR7U"
+    },
+    {
+      "position": 8,
+      "title": "General Store For Pets",
+      "place_id": "ChIJ0eUhhFeDskwRYB7w-UMk3I4",
+      "data_id": "0x4cb283578421e5d1:0x8edc2443f9f01e60",
+      "data_cid": "10294142722636783200",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb283578421e5d1%3A0x8edc2443f9f01e60&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb283578421e5d1%3A0x8edc2443f9f01e60&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7195427,
+        "longitude": -70.2339001
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0eUhhFeDskwRYB7w-UMk3I4",
+      "provider_id": "/g/1tdxvmcn",
+      "rating": 4.6,
+      "reviews": 45,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store"
+      ],
+      "address": "204 US-1 #2, Falmouth, ME 04105",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 781-6550",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Best prices, best selection, and beautiful staff!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTo9FUlltozLYpVpc46diEi8nnnxdjqkTJEWY1ffv0HP4MAm_mew_3tkysaFEpuu_4rSu5grmCi5RTi_ka31366YeE7hJ4a4JRb3dNf9v5ki0ry8pqXBCpgb7M-dDEo_WsTKuU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/p3teYHicHcRdbsIgAADgE2FpoFWX-FAdxtRpnKu6PpFKKUVawAL-7II7g7dZsu_he_223lv3FkVdi0bCGNHx4PjAjPZc-xEzfSSsA8wBF2W77afKVoWZLg9d583PR2mPluG0lkROtNaP-nJVRU5OZdw0N7ja4U3W057fKfLq6aolsSFQPHyFRAz9Qib7QlJVoRilacnJuM1xhfP9GdXbZnpLlITDc2Kv3_OFFefxBtTvxNCTK9bhMLvHEELQ_s-A_gPl20WK"
+    },
+    {
+      "position": 9,
+      "title": "PetSmart",
+      "place_id": "ChIJW_l_5huZskwRt6rDWg5r75c",
+      "data_id": "0x4cb2991be67ff95b:0x97ef6b0e5ac3aab7",
+      "data_cid": "10948086928557451959",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2991be67ff95b%3A0x97ef6b0e5ac3aab7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2991be67ff95b%3A0x97ef6b0e5ac3aab7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.623137299999996,
+        "longitude": -70.3407024
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW_l_5huZskwRt6rDWg5r75c",
+      "provider_id": "/g/11clzj3386",
+      "rating": 4.2,
+      "reviews": 504,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store"
+      ],
+      "address": "700 Gallery Blvd Unit B, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 289-2738",
+      "website": "https://www.petsmart.com/stores/us/me/scarborough-store2437.html?utm_source=google&utm_medium=organic&utm_campaign=google-my-business",
+      "description": "Mainstay for pets & related supplies. Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Everything I needed for our new family member and helpful staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgHqFR71WIUmbbqHYNAEqljeWiifCe0zYD33zQaYyCEgYDWf2BOL2Blfj2q19uPeeQld1hLhBda42aGILBgcLC1RPtFwnfqyLxHz7f3L58FZ_HLrUEtTDLxMX4A9XmO7iN-4xA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cGNs0HicHcTbboIwAADQL6pQwKBL9lBu1qRDMDPAXgzWXnAFrK0R-cF9g39jsvNwXn_S2qv5cBwl_YUYR6HY3bAbHQfLBrugY--IqwHUAOOgIi9_ERZYZ_sQVttDfzpp3OQo1erCqq7jMXPnJvH9uWybZ5yKJqm4F-2IFyl-8TRc3wvGSnWGksjo3AZeu9mSSFASw31hs8fA9ZNMeA65T5ar7OeIye2Q2u-ETF91gNZ1vwu7HAQT-nxA13WB_J-C4Q0dLkNq"
+    },
+    {
+      "position": 10,
+      "title": "Pet Supplies Plus South Portland",
+      "place_id": "ChIJW7SH5lWfskwRmlTsVwa5oYQ",
+      "data_id": "0x4cb29f55e687b45b:0x84a1b90657ec549a",
+      "data_cid": "9557123321152951450",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29f55e687b45b%3A0x84a1b90657ec549a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29f55e687b45b%3A0x84a1b90657ec549a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6352184,
+        "longitude": -70.25480379999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW7SH5lWfskwRmlTsVwa5oYQ",
+      "provider_id": "/g/11kbtpc3rj",
+      "rating": 4.7,
+      "reviews": 87,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store"
+      ],
+      "address": "50 Market St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 331-4062",
+      "website": "https://www.petsuppliesplus.com/store/me/south-portland/4581-south-portland/4581",
+      "description": "Food & supplies for small home pets. Chain carrying natural & U.S.-made pet supplies, plus services such as grooming & adoption.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Friendly staff and a great selection of quality pet products!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKjVXlWRiOWG5mW5XN80JQdB8qw-_tY549oVK9HJNzbUvpsHe5s7VXPnulzvqiAATYfOOmyRhczlG8tcboRLiQGZm7yeND9cOu-ahs8egaopAzKgeuEKdWorgukSjIKO9R5pXL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tQHuwXicHcRdDsEwAADgE9UmNDaJhwqGymrDfrwIVe3o1tKW2AWdwW0kvofv-xHWajP0PCl6Ha4Ul8wZ9qCqsayxHapqj2sDqAHGQ-s4uaEZvmaFzNOK5BGsc1jEgb9MzuPg_gIHW8J-qDIczpdxe9o9tZkzaAZZsW6cbJ_3CqFteSGkfqeCtjIKLD2pdFUl0b4evFk8CSlx4ChMwPhRadRiztwUn3P14O62uS4wCVOoi9Xo1fV9H4j_FDQ_kAVF7w"
+    },
+    {
+      "position": 11,
+      "title": "Pet Quarters",
+      "place_id": "ChIJYQRGewWZskwRTohhGqqqlA4",
+      "data_id": "0x4cb299057b460461:0xe94aaaa1a61884e",
+      "data_cid": "1050652260647929934",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299057b460461%3A0xe94aaaa1a61884e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299057b460461%3A0xe94aaaa1a61884e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6284358,
+        "longitude": -70.3460557
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYQRGewWZskwRTohhGqqqlA4",
+      "provider_id": "/g/1tdc4v4y",
+      "rating": 4,
+      "reviews": 334,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Pet store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "pet_store"
+      ],
+      "address": "486 Payne Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20138\u202fPM",
+        "friday": "9\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20138\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 885-5005",
+      "website": "http://www.petquartersne.com/",
+      "description": "Pet store offering a range of products for dogs, cats, and other animals, plus fish tanks.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Friendly staff, great selection of dog food\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWkuwWX4n1ZNFPBQga0dT23CAwn_wp-XfHsFVFaXkvYV7zj_h7y0M_q-E8rVYlwa6UHbysnzEZTpIYHoeXbIMlVGw_f70jPYl3AKNWA8sJb2H-pG74R6mkFL312fK6M73f1keKtg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2ExCrnicHcRdboIwAADgE1UKNdSY7KEzVhQhuDh-fCGApcTWtrN1jd5wR9htTPwevv-_yTljl0EgJzTjWnPJ7pbdBq0cU2426GvAjQWDBTYgRX4QhFbi7qt6rsJTTovPA-_g-RihFfGq9QbUY2JpSbta_DYlfl7aCT9g1v6A9eJWNtJ38XfSP6x6rk9Hs20Szep-m8ly49sRw0vRSETSvCILu-ujBJgNnn_FV0H3KIzGNM4wGkPBUsc_fAghBNP7AagX3RRESw"
+    },
+    {
+      "position": 12,
+      "title": "Pet Supplies Plus South Portland Grooming",
+      "place_id": "ChIJhRsRwLifskwRHgsJAe0BALw",
+      "data_id": "0x4cb29fb8c0111b85:0xbc0001ed01090b1e",
+      "data_cid": "13546829796566698782",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29fb8c0111b85%3A0xbc0001ed01090b1e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29fb8c0111b85%3A0xbc0001ed01090b1e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.635239999999996,
+        "longitude": -70.25434
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhRsRwLifskwRHgsJAe0BALw",
+      "provider_id": "/g/11ym815y0z",
+      "rating": 3,
+      "reviews": 2,
+      "type": "Pet groomer",
+      "types": [
+        "Pet groomer"
+      ],
+      "type_id": "pet_groomer",
+      "type_ids": [
+        "pet_groomer"
+      ],
+      "address": "50 Market St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 331-4062",
+      "website": "https://www.petsuppliesplus.com/dog-grooming",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"My dog with fur gets a baths and a nail trims.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFw_Sgo6lCM9nX8orp6h44-WaJI6xjXNN67MoJqRADhD_npVlviO1xsashdAxtpObHQl6e-Aeb0fLmuaZnpCb8nD9dZQBO1PeoEJKtN8FCx8iJTee2HfHXsZsEegxz9NWueQWeVb6vC8iyH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/M43q1XicHcTBboIwGADgJ6rAZmox2aEDDbJZZC5CuBjA3xatbWeLdntJz3ubJfsO3-9DOGfsPAikeJ5wrbmE0cK118qBcpNeXwJuLOotsgHdsPJMl_f9lmssk3WsaqKvBovpFFVtvsL-VDOGZ2udf33QVKR7ZXbyNhSRt60VB-qdKbqslBgQhS48vl_GtlEm6YhK40NTvhbRBvQif3OMLBNPhvwT4Ck7ZrVt7AK4_4lZNUJZwa7Dt4QM39nLPQrDEIn_e6T-AMECR-8"
+    },
+    {
+      "position": 13,
+      "title": "Paws Applause Natural Pet Supply",
+      "place_id": "ChIJaah9xLOYskwR82q82tZhkSg",
+      "data_id": "0x4cb298b3c47da869:0x289161d6dabc6af3",
+      "data_cid": "2923225208560839411",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb298b3c47da869%3A0x289161d6dabc6af3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb298b3c47da869%3A0x289161d6dabc6af3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.5912617,
+        "longitude": -70.3333469
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaah9xLOYskwR82q82tZhkSg",
+      "provider_id": "/g/1tdxkgn7",
+      "rating": 4.3,
+      "reviews": 86,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Pet groomer"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "pet_groomer"
+      ],
+      "address": "27 Gorham Rd #106, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 885-0077",
+      "website": "http://www.pawsapplause.com/",
+      "description": "Pet store in Oak Hill Plaza offering grooming services.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Have a Huge selection of cat food, treats and toys.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzus0c4PfypNPpW0kIfDOmzLTYl5HayB4cnDlMF-L4AEKjMkVYMTj4ianDzgr_9cQ-rAaiS4z-Ffo45qa6LK2E6GfE7rgGs2Nu0FUf7JgCA5chCDUInctV7JJXbkI0bfPp8J9P=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PDpu8XicHcRbjoIwFADQFVWqFlETP6o8BAFrfH8ZvKFFwbZDS4xscNYwuzGZ83H-fitrtZk7TlONB0Ip0ZSdKVtQ0pbSDkC9HKENAoOMQ1m-q2nUdwYDYfyjc6bPuI65v3316eHauOvisyQg_SYLUUposHlm9emaHZ7kUUi_F-1tBjvU0uKxJz0KuSLuTzFJN6NgEvHAa0VkRnmHwyP3ErGiLlQr_xhLsCcvSS73OsZ3zvQ0mbHFe4gxRtX_gOQXJsBDOw"
+    },
+    {
+      "position": 14,
+      "title": "Pet Quarters",
+      "place_id": "ChIJr_EbnliDskwRAPyvHq9L0Ec",
+      "data_id": "0x4cb283589e1bf1af:0x47d04baf1eaffc00",
+      "data_cid": "5174719187354909696",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb283589e1bf1af%3A0x47d04baf1eaffc00&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb283589e1bf1af%3A0x47d04baf1eaffc00&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7226626,
+        "longitude": -70.2329871
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr_EbnliDskwRAPyvHq9L0Ec",
+      "provider_id": "/g/1tgfpqvg",
+      "rating": 4.5,
+      "reviews": 40,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store"
+      ],
+      "address": "Parking lot, 240 US-1, Falmouth, ME 04105",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 781-7774",
+      "website": "http://www.petquartersne.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"Good selection, super kind & helpful staff\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG587noSaq8U0bBUPlKJIU26uHwHMflkY7liw2wWoZyA7GMp2SfpwC5P66X2qC2YWFU5b2Lqp2GIIqwTccpjL07pzKBHqXyC9-D60W0JCVjCOsNcy9W44zLOEmm-dPm9vRi2L_MxA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7b-LZnicHcTdFoEwAADgJ5pmVHKOiwyVivwk3DhMilbbLCZv6BG8jXN8F9_3k9c1l31No3mnlTGW0fQh0zthVZ1WdYuwUsu4BEQCqdnRbFHYjt4zK7Y6il4MT8M4ov7Ui5HxcJUbXmixM-lVIZWwfWObTsjR6sIV1iPD2CKB0S6ZxPoJBYIjx_OEWhPCbwE0-dsfumLbYAuMDJjAKd7c8FzOSGMl3e47mI_LEpyj0nouryg4hC97oNoQQpD_J6D6AU7lQ20"
+    },
+    {
+      "position": 15,
+      "title": "Easy Aquariums - Westbrook",
+      "place_id": "ChIJIwlanJeQskwRVCCWE60Mst4",
+      "data_id": "0x4cb290979c5a0923:0xdeb20cad13962054",
+      "data_cid": "16046902359771979860",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb290979c5a0923%3A0xdeb20cad13962054&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb290979c5a0923%3A0xdeb20cad13962054&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.704132099999995,
+        "longitude": -70.3262483
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIwlanJeQskwRVCCWE60Mst4",
+      "provider_id": "/g/1hhwdks3r",
+      "rating": 4.7,
+      "reviews": 463,
+      "type": "Aquarium shop",
+      "types": [
+        "Aquarium shop",
+        "Pet store"
+      ],
+      "type_id": "aquarium_shop",
+      "type_ids": [
+        "aquarium_shop",
+        "pet_store"
+      ],
+      "address": "24 Bridgton Rd Ste 1, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM Thu",
+      "hours": "Closed \u00b7 Opens 11\u202fAM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "11\u202fAM\u20136\u202fPM",
+        "friday": "11\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "11\u202fAM\u20136\u202fPM",
+        "tuesday": "11\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 808-8363",
+      "website": "http://www.easy-aquariums.com/",
+      "description": "Aquarium, reptile and pet shop featuring tanks stocked with saltwater and freshwater fish and other aquatic life.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"We\u2019ve gotten lots of fish here and two ball pythons and a blue tongue skink.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0qo2FG3v0YwJ0mOdVEA2O8N_QQ1oCuzb1oCV1lobOQNdRvLJnL5yBJ-2Rowj3FLXdeHvjweAaAtmRH9niCnRoVey79dGe2XFxBJ3MT_zoHPpkBtxXLvp4yw8XQvlj_S-BLdo-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F9mjWHicHcRBjoIwFADQE1UKaNRJZlGMSEgFi4bgiihtQIR-nNZWvOCcwdtofIv3-m-0HtSP43SNP6kB6k7clfirQGoh9aSC3qkHhSqFlEN2CbuSEN_ACze-wUcb4z7l-Zp46SIpGXNhdX-eP-duB-eUJTwzNJZ0NgYx8jKwrR_SgovItFaQE9F9Fi3lZSUzyMU4X_KN8IrwEcT-9lA-IdoN10A_CmqG6WgXBTNdW-5RQDmgX-tijFHzvULyDQ33RHU"
+    },
+    {
+      "position": 16,
+      "title": "Port Grooming & Pet Care Center",
+      "place_id": "ChIJo2oxzomeskwRvSuDeMqSxk0",
+      "data_id": "0x4cb29e89ce316aa3:0x4dc692ca78832bbd",
+      "data_cid": "5604328184612072381",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29e89ce316aa3%3A0x4dc692ca78832bbd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29e89ce316aa3%3A0x4dc692ca78832bbd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6259291,
+        "longitude": -70.2500431
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo2oxzomeskwRvSuDeMqSxk0",
+      "provider_id": "/g/1tdh8124",
+      "rating": 4.8,
+      "reviews": 52,
+      "type": "Pet groomer",
+      "types": [
+        "Pet groomer"
+      ],
+      "type_id": "pet_groomer",
+      "type_ids": [
+        "pet_groomer"
+      ],
+      "address": "472 Ocean St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fAM Thu",
+      "hours": "Open \u00b7 Closes 5:30\u202fAM Thu",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135:30\u202fAM",
+        "thursday": "9\u202fAM\u20135:30\u202fPM",
+        "friday": "9\u202fAM\u20135:30\u202fPM",
+        "saturday": "9\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 767-2456",
+      "website": "https://www.facebook.com/profile.php?id=100063719550124",
+      "description": "Relaxed shop for pooches and cats selling food, supplies and treats as well as doing grooming and self-serve bathing.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"Excellent service and prices\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_0PtyubPKbEVr38HJ68v2emCxwYsozfuBrd-Kgp4Mpf3jJghK5bCz-62ljX4xN8OINI78CChXu33pOc_WMvE0ydTUIZLpbz1Vw_3J7ZxNNENEEl--v6UVzcXKyirvspBnDMM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SVeBm3icHcRdDoIgAADgE6EUZa6thzRaapJtZdaLm2hQmTDB3wN2h27T1vfwfT9ca6mWpllyZDAhWFk0qqipqHRRaYOKt8mkAlQBZa4jcnyttymM9NBkUZDhuEb2zrfsdlq83b67KjHeG6fOQcDkLJR39PQZD-aZOwJrWj6TWU_sg0e8he26PGkQkgeaXsIWwyE_nb3bXmbjJO5S5C9uPSGYYFwC0FrneKRJMDzqVkmn2oThqptACAH_T0H1A_9kRAc"
+    },
+    {
+      "position": 17,
+      "title": "You Dirty Dog--Self Serve Dog Wash",
+      "place_id": "ChIJGfp90EaZskwRAQbnLtYzQyE",
+      "data_id": "0x4cb29946d07dfa19:0x214333d62ee70601",
+      "data_cid": "2396816421694146049",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29946d07dfa19%3A0x214333d62ee70601&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29946d07dfa19%3A0x214333d62ee70601&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6351539,
+        "longitude": -70.3174075
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGfp90EaZskwRAQbnLtYzQyE",
+      "provider_id": "/g/1hd_9hdft",
+      "rating": 4.9,
+      "reviews": 109,
+      "type": "Pet groomer",
+      "types": [
+        "Pet groomer"
+      ],
+      "type_id": "pet_groomer",
+      "type_ids": [
+        "pet_groomer"
+      ],
+      "address": "85 Western Ave, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 772-2275",
+      "website": "https://www.youdirtydogmaine.com/",
+      "description": "Self-service option for pet owners to wash their dogs, plus grooming services like nail clipping.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Easy dog wash stations with perfectly placed supplies\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFL4qi2NhMI-efk8XY6BNss6KbDX2qmkJNv9_0852NzenXF71qDto7a_B19BVE9YLDaF30MyT-zrKwWUGbt4IOHJPg88mrm7jTLvGtFTr1a4ixuaY-BVEhaa0AkQv_WTxwbcmTQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8hdrp3icHctdDoIgAADgE5FoltrWg87szyg3Kn1yyEjKkBTS6oKdodvUevnevs-ba31TE8O48uGglLK8srtiLZW1ZrUeUCmM8qYAVUAZ_g4llR_FdnO2EN8sATtVbpqNA6TUeF2EqdWIaoU6L4fuyEIvVqeRYzahlg7JA9MLDjMvi0MSDeHmicGrXffH_bzQ9nK7WO1K1xWtcC447uY6wq1J7PPjTjLwa5wQ6FdJlx_xoy-owMm0NyGEgP-loP4Cqo5DVg"
+    },
+    {
+      "position": 18,
+      "title": "PetSmart",
+      "place_id": "ChIJ37OUpvikskwRyBZpoN4454Q",
+      "data_id": "0x4cb2a4f8a694b3df:0x84e738dea06916c8",
+      "data_cid": "9576685661451785928",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2a4f8a694b3df%3A0x84e738dea06916c8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2a4f8a694b3df%3A0x84e738dea06916c8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.4731009,
+        "longitude": -70.5115817
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ37OUpvikskwRyBZpoN4454Q",
+      "provider_id": "/g/1tfs0nyn",
+      "rating": 4.3,
+      "reviews": 867,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store"
+      ],
+      "address": "208 Mariner Wy, Biddeford, ME 04005",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 283-6546",
+      "website": "https://www.petsmart.com/stores/us/me/biddeford-store1366.html?utm_source=google&utm_medium=organic&utm_campaign=google-my-business",
+      "description": "Mainstay for pets & related supplies. Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Always find what I need for my pets, friendly, helpful staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGUGyx2Px6uOBWsVnNXEs6cku7YKfCx6z3NFuA-axAX_wC74PEBSR4bagKoXVkMmCsvKCBAc0IbHTrHqA7LhIU66j7jBOBDmo3MEBPmth-yx0IQTbn4nh5mejnelx2D3-m0s2E=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/r_5fGHicHcTdboIwGADQJ6p0gCUx2UWLCARFnH_sapGmowHaOr-idQ_oO_g2Jp6L83xIa88w87xBBpPWmHYQI4gLN9oKbSfcKK89A-KAwKNVuelpuk_vzq8cGdfsCAdd1gkQ3o_Rd_EbO_IflIuRopOj9c8tjsIqYduvsDm1hakP_UrFcC1iRjnOm2x3yf5otJT5npAu6tiazZUJVgmrlJXo7nC-2TU61HKqRKfF4Px5gBQGP_m8fWCMkXzPkX4B1zRDNA"
+    },
+    {
+      "position": 19,
+      "title": "The Black Dog General Store - Portland",
+      "place_id": "ChIJmR_WSj6cskwR05K0bq7PLX0",
+      "data_id": "0x4cb29c3e4ad61f99:0x7d2dcfae6eb492d3",
+      "data_cid": "9020093976781558483",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c3e4ad61f99%3A0x7d2dcfae6eb492d3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c3e4ad61f99%3A0x7d2dcfae6eb492d3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6554395,
+        "longitude": -70.2538599
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmR_WSj6cskwR05K0bq7PLX0",
+      "provider_id": "/g/1tj45hp6",
+      "rating": 4.2,
+      "reviews": 51,
+      "type": "Clothing store",
+      "types": [
+        "Clothing store"
+      ],
+      "type_id": "clothing_store",
+      "type_ids": [
+        "clothing_store"
+      ],
+      "address": "215 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 791-2724",
+      "website": "http://www.theblackdog.com/",
+      "description": "Casual clothing & gift retailer. Retailer selling casualwear, accessories & gifts with its signature dog logo for men, women & kids.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"A little pricey but quality clothing.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsZj4x1UnjDd24DRHUrarq8gwOYbr3MRCC96ZDTMO_ENFTVPD2C8gHnMZQ--HbiRL_qJXshOqaPGO-CokkNLC81tAJSB25afdWNoFyZroOgX67jAiJDdji8dIDgvAdL4lHtzMFxw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/R4GeTHicHcRLcoIwAADQE0U-UqXOdBGT0pQBgtQvGwcJhl8TSWKx3rBH6G2c8S3e_19tzEUvLKuvpxMuJe-rq65UKYWphJmU8tviFw1KDbQF02TVQaLz1rs5G9Fi5no4IxtVqMHnIz2c1DTOEHqd5Xgd0-N7Eqy3KXaRz4mI8xUA5NRk0XEI97qmQ5F-UIBk1yUR8h0Dw6-l-1Kc2S6RwW-uJOX72byFTYhZ2_jsE_MfyCKvJ-YeB7fxbXRs2wb18xKIB2chRDQ"
+    },
+    {
+      "position": 20,
+      "title": "Petco",
+      "place_id": "ChIJG8S0_Xx4skwRWqNkLoTi2kU",
+      "data_id": "0x4cb2787cfdb4c41b:0x45dae2842e64a35a",
+      "data_cid": "5033584590881858394",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2787cfdb4c41b%3A0x45dae2842e64a35a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2787cfdb4c41b%3A0x45dae2842e64a35a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.93208,
+        "longitude": -69.9844143
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG8S0_Xx4skwRWqNkLoTi2kU",
+      "provider_id": "/g/1tdd4w8m",
+      "rating": 4.1,
+      "reviews": 528,
+      "type": "Pet supply store",
+      "types": [
+        "Pet supply store",
+        "Fish store",
+        "Goldfish store",
+        "Pet store",
+        "Reptile store",
+        "Tropical fish store"
+      ],
+      "type_id": "pet_supply_store",
+      "type_ids": [
+        "pet_supply_store",
+        "fish_store",
+        "goldfish_store",
+        "pet_store",
+        "reptile_store",
+        "tropical_fish_store"
+      ],
+      "address": "131 Topsham Fair Mall Rd #1, Topsham, ME 04086",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 721-8680",
+      "website": "https://stores.petco.com/me/topsham/pet-supplies-topsham-me-1868.html?utm_source=google&utm_campaign=locallist_1868_pcc",
+      "description": "Retailer dedicated to pet supplies. Chain with pet food & supplies such as toys, beds & pet technology products, plus medication.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"... pup had an accident, there was easy access to cleaning supplies.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEycOwGxjaYwodJV6VZ7iUeVgfgkYECVfAP8bfH1kAOi3KfONSUrmuGypmy-IthkgOSCk2No_Xv4AF94mQWVCnaJfkRPitSAiwuVPSa_AurMTK8C09Tc3nAU_O363AvebZVd7GUXg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xU8eTnicHcTdboIwGADQJ6rgSvxLdvGFOKZGikM68YZgbQtWWkKLyCP6CHsbk52L8_eqnGvtyvPuFZ5IY-Sd95Z3zGjHtZsw03iytYhZZD1I4oOC9cjIED1vZT6Y65bO6HleZ5xKIVW-DqmAZHER31MFpMY7QeI065o-GttmRBtXKUnSUH3Epjg9AvhaBs3hl4a63Ar1k9QuhXroaZKWBfTd_rhbhP7yyLCGrCB4huHBL2d6nUfZSX4OU9_3UfU_Q_oNT6BFsA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=pet+stores+in+Portland%2C+ME&start=20&type=search"
+  }
+}

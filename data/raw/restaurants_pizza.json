@@ -1,0 +1,3141 @@
+{
+  "search_metadata": {
+    "id": "6a4e67b1ff596ed454e1521b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/i_PRwJgJiuAGGpJZNZIH5A/6a4e67b1ff596ed454e1521b.json",
+    "created_at": "2026-07-08 15:07:29 UTC",
+    "processed_at": "2026-07-08 15:07:29 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+pizza+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/i_PRwJgJiuAGGpJZNZIH5A/6a4e67b1ff596ed454e1521b.html",
+    "prettify_html_file": "https://serpapi.com/searches/i_PRwJgJiuAGGpJZNZIH5A/6a4e67b1ff596ed454e1521b.prettify",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best pizza in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best pizza in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Pizzaiolo",
+      "place_id": "ChIJJZWtcROcskwRGkaYb_dBagk",
+      "data_id": "0x4cb29c1371ad9525:0x96a41f76f98461a",
+      "data_cid": "678427224857658906",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c1371ad9525%3A0x96a41f76f98461a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c1371ad9525%3A0x96a41f76f98461a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.657343999999995,
+        "longitude": -70.262019
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJZWtcROcskwRGkaYb_dBagk",
+      "provider_id": "/g/11bv6l7sps",
+      "rating": 4.5,
+      "reviews": 879,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Delivery Restaurant",
+        "Takeout Restaurant",
+        "Restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant"
+      ],
+      "address": "360 Cumberland Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 12\u202fAM",
+      "hours": "Open \u00b7 Closes 12\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u201312\u202fAM",
+        "thursday": "10\u202fAM\u201312\u202fAM",
+        "friday": "10\u202fAM\u20131\u202fAM",
+        "saturday": "10\u202fAM\u20131\u202fAM",
+        "sunday": "10\u202fAM\u201312\u202fAM",
+        "monday": "10\u202fAM\u201312\u202fAM",
+        "tuesday": "10\u202fAM\u201312\u202fAM"
+      },
+      "phone": "(207) 536-7210",
+      "website": "http://pizzaioloportland.com/",
+      "description": "Long-standing, counter-serve pizza joint. Compact counter-serve spot selling NYC-style pies and slices, meatball subs, plus salads.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "All you can eat",
+            "Beer",
+            "Cocktails",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"The pizza was hot crunchy and the crust was absolutely to die for.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjBlbI3BmQc_4IhulKkQYHDUxJpL1HRLGIJDlpKKP3IMjBCVMZrOIPHKQ5K0N9BxxYeQ0j5OFgdXxMlT_EmnW75Cb8N1y3i_AX9zUMyzB0mRTaUUQCL0h-c26-qaP9s5sYNEsA8A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G6mBXHicHcTvEoEwAADwJ5qWhNz5sFU0qzQn5EvHdE3WH5ZT3tAjeBt3fh9-349o20bNNE0KY5DXdS6zp8oevK7arGoHvC61vFGAK6A0FIXshtwCyzMxcMl4OiLiKemNJZ4Td6vG172NvyQrRzaURgYJCmzvguNjTSKPMpPC0MJdl2QMFuZ6kV8OXSC3qVtW-4lpn6eh3hvXFB2sdxz0bwzLzfYUx8z2oQB8OAb3U2QpUyWhq9AUzV86hBCI_xxUP0eqQwM"
+    },
+    {
+      "position": 2,
+      "title": "Flatbread Company",
+      "place_id": "ChIJqyFRgUCcskwRTP7usErHlok",
+      "data_id": "0x4cb29c40815121ab:0x8996c74ab0eefe4c",
+      "data_cid": "9914330753312685644",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c40815121ab%3A0x8996c74ab0eefe4c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c40815121ab%3A0x8996c74ab0eefe4c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6573151,
+        "longitude": -70.2498526
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqyFRgUCcskwRTP7usErHlok",
+      "provider_id": "/g/1tyywqcv",
+      "rating": 4.6,
+      "reviews": 2611,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Family restaurant",
+        "Restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "family_restaurant",
+        "restaurant"
+      ],
+      "address": "72 Commercial St #5, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 11:30\u202fAM",
+      "hours": "Opens soon \u00b7 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u20139:30\u202fPM",
+        "thursday": "11:30\u202fAM\u20139:30\u202fPM",
+        "friday": "11:30\u202fAM\u201310\u202fPM",
+        "saturday": "11:30\u202fAM\u201310\u202fPM",
+        "sunday": "11:30\u202fAM\u20139\u202fPM",
+        "monday": "11:30\u202fAM\u20139:30\u202fPM",
+        "tuesday": "11:30\u202fAM\u20139:30\u202fPM"
+      },
+      "phone": "(207) 772-8777",
+      "website": "http://www.flatbreadcompany.com/",
+      "description": "Wood-fired pizzas made in clay ovens. Wood-fired pizzas with organic ingredients & free-range meats, made in traditional clay ovens.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Fireplace",
+            "Great beer selection",
+            "Great cocktails",
+            "Great wine list",
+            "Live music",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Braille menu",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Organic dishes",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXR5eXdxY3YYADoDCPAN&g2lbs=AEzIGDt13WVKv0EF85vw2JXwoUG1m9sseAN8Kzfak95eHR9AQk0ylKFGQXcD1FVWrk3yfmH7dVgV&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "join_waitlist": "https://www.google.com/maps/reserve/v/waitlist?c=q9KDr8Sp1tw&source=pa&opi=79508299&hl=en-US&gei=sWdOarCRLNfAp84PtaWdoAo&sourceurl=https://www.google.com/search?hl%3Den%26tbm%3Dmap%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sA-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:2!2s1i:0,t:11886,p:A-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:2!7e81!12e5!17sA-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:58!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26gl%3Dus%26q%3Dbest%2Bpizza%2Bin%2BPortland,%2BME",
+      "user_review": "\"The pizza has a thin crust cooked perfectly and extraordinary toppings.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQH-fmeX6Kyl_9zHMfGKZ4Um06bTGNanh4lrqvgORcNmmIr0CiXf0bGejICqZukVSiD2oRH6hDIkaEZ8NFBjINJGPiGf9o6mQCyEk1bFx2q7Lq5bTPeqxeMZBP75bPYFP_Lnhz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fvOSnHicHcRZEoIgAADQE5G02TLTR1miLYRtU_40waCYAiG22AU7Q7dppvfxvh9RVTc7dJxCtBup1mnB75aXTKuKq6rBtHTSmwXMAuuMCY7ysR8FIJH86C7q4jx4B6sELeLOXkKX7hC-KNEpSvNI1xuGpQxL6GXHBFLEr6Fn4nt-2GbTlt4ErpiG-WUW97E_uYZ4jkiGkoF2ZeTVs7xJ_VfL9JamS3eEmxdfxRPS61Jy8sl5qcR79GxCCIH4z4D6AUNSREc"
+    },
+    {
+      "position": 3,
+      "title": "ZA",
+      "place_id": "ChIJi70UOxqdskwRONqItm1t7aY",
+      "data_id": "0x4cb29d1a3b14bd8b:0xa6ed6d6db688da38",
+      "data_cid": "12028390497757747768",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d1a3b14bd8b%3A0xa6ed6d6db688da38&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d1a3b14bd8b%3A0xa6ed6d6db688da38&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6578483,
+        "longitude": -70.260094
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi70UOxqdskwRONqItm1t7aY",
+      "provider_id": "/g/11x6r65fdk",
+      "rating": 4.7,
+      "reviews": 100,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant"
+      ],
+      "address": "25 Preble St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 11:30\u202fAM",
+      "hours": "Opens soon \u00b7 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u201310\u202fPM",
+        "thursday": "11:30\u202fAM\u201310\u202fPM",
+        "friday": "11:30\u202fAM\u201310\u202fPM",
+        "saturday": "11:30\u202fAM\u201310\u202fPM",
+        "sunday": "11:30\u202fAM\u201310\u202fPM",
+        "monday": "Closed",
+        "tuesday": "11:30\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 536-0705",
+      "website": "https://www.piz-za.net/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Comfort food",
+            "Happy hour drinks",
+            "Quick bite",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4NnI2NWZkaxgAOgMI8A0%3D&g2lbs=AEzIGDuC6bVwfQ_9_DeoJ4BenZY7i5A4ZgbMmK-3Gl1DcJgND_Ur-PR0xwLogeb9mfXueGgB8egy&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The best crust, delicious toppings, and great service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhECmfABOr9Y-pqBsj_170lK3eDKVa950tpJD7Y2tfjxe1OdMFzrECOoD5eVDUplPCWDGhcIYvR4Wzb-FEhQQwoQbMZ8DnPm-j56nFFUMKb2YVhlW11DMFv18zTnjK-AogRgNq0M-Z3sVEj_6xSpJru6CTtnUrj7bcKwOoBqB31Wwfvz7VqBZms=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fmzNTHicHcTBboIwAADQL6q0IqBLdgAKy2QMcQKBixlYaAi0pa3g-FO_ZNcle4f3_KVaC_ViGAM1Nx3n3UDuisiGM02Y3jR8NDqhgJD88WO4H7cdpoE_tq6XyEMJxOSp_oocOEQmwVH-fbCgFkfslFvd9g-CklscrjLwE44tkuNMDCe_wG-0eS_n865YaxAGNE0XntZxtcfsNILeslkYZnFUb8ucDgVCOA5ntF8vrI-Ay7tz9znBGFSmyoP-aj--xFHebf-iWSZ7p26iJeHe5JmoWNp5dfLJq0b1uiAIIaD_N4D9AcFoVFs"
+    },
+    {
+      "position": 4,
+      "title": "Pizza Villa",
+      "place_id": "ChIJryd_vQicskwRndatXT9UfIQ",
+      "data_id": "0x4cb29c08bd7f27af:0x847c543f5dadd69d",
+      "data_cid": "9546597941249955485",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c08bd7f27af%3A0x847c543f5dadd69d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c08bd7f27af%3A0x847c543f5dadd69d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.65349,
+        "longitude": -70.2788949
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJryd_vQicskwRndatXT9UfIQ",
+      "provider_id": "/g/1tczpzmg",
+      "rating": 4.4,
+      "reviews": 466,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Italian restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "italian_restaurant"
+      ],
+      "address": "940 Congress St, Portland, ME 04102",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201311\u202fPM",
+        "thursday": "11\u202fAM\u20131\u202fAM",
+        "friday": "11\u202fAM\u20131\u202fAM",
+        "saturday": "11\u202fAM\u20131\u202fAM",
+        "sunday": "11\u202fAM\u201311\u202fPM",
+        "monday": "11\u202fAM\u201311\u202fPM",
+        "tuesday": "11\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 774-1777",
+      "website": "https://pizzavillaportland.com/",
+      "description": "Old-school, family-run pizza institution. Low-key, old-fashioned family pizzeria offering pan-baked pies, sandwiches & a cash-only bar.",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Serves local specialty",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "user_review": "\"Fun atmosphere, great pizza & beer, wonderful service!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuM42uXPYXoe93LmaJMCdQOMkD1LvxzDGYt4SsaYnp1XiRKXt2F_4qfDPB3tnc174aib7He1hzD5IC7AkwOLWCasT-jz6Eadg6aBF5Vzu5qLp1znuUSrDq0N4qXFvUV-eZBf7G=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/m5mZiXicHcRLjoIwAADQE1WoFMmYuAAqfgYU_8WNqbWCg7ZgWzW9oGeY25j4Fu__XWndqL7jXCuvU0pZXrlR_M6k0FzoDpM3p2wUYAooJ8xnizocmwx1DckLIvmPl97oNItPi3lWY5g-XhaPCo1WihaigeSy_CW6mxxQe8Z55GnBYIDo5RiMOaws9idxENbPebqLqVqDP9sb0lPZo1Hib63x27SBVpjN6o5bd4Zakjw2W8D30TkYDZ7QdV1QfWdAfAAQ6kOt"
+    },
+    {
+      "position": 5,
+      "title": "Lazzari",
+      "place_id": "ChIJ_0IANRGcskwRovRDqBtoDmU",
+      "data_id": "0x4cb29c11350042ff:0x650e681ba843f4a2",
+      "data_cid": "7281872115501102242",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c11350042ff%3A0x650e681ba843f4a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c11350042ff%3A0x650e681ba843f4a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.653540299999996,
+        "longitude": -70.263876
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_0IANRGcskwRovRDqBtoDmU",
+      "provider_id": "/g/11dyz4lbhb",
+      "rating": 4.3,
+      "reviews": 905,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "unclaimed_listing": true,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant"
+      ],
+      "address": "618 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM",
+      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u202fPM\u20131\u202fAM",
+        "thursday": "12\u202fPM\u20131\u202fAM",
+        "friday": "12\u202fPM\u20131\u202fAM",
+        "saturday": "12\u202fPM\u20131\u202fAM",
+        "sunday": "12\u202fPM\u20131\u202fAM",
+        "monday": "12\u202fPM\u20131\u202fAM",
+        "tuesday": "12\u202fPM\u20131\u202fAM"
+      },
+      "phone": "(207) 536-0368",
+      "website": "https://www.lazzariportland.com/",
+      "description": "Casual joint for Italian cooking. Warm, low-key outlet serving Italian fare from pasta to wood-oven pies & veggies plus a full bar.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFkeXo0bGJoYhgAOgMI8A0%3D&g2lbs=AEzIGDtgXwAh7uawIlVIocyLqJt7Ygs306riJHtCZTvwHtbOhEjufi2yRsjbMunoSnl0rKTXaY37&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Pizza is amazing, the crust is so fluffly yet crispy in all the right ways.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHngN4IRcR-9H-JHOwIoLRx20laEsLGH0JxVYh27qhpY4N7MrOv5F4Z61Z4IcYhVEYR4mefAmAP9Vex95og9RsFlsYgP5AvNsvVhP21q5svZWSpV5zuV9rWkInlkHWiCNzxuEc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/r8hpqXicHcRRboMgGADgE1HRQRuW7IEsdth01LEEg28LYdCoYP3Vmh5wd9htlux7-H5_wjyP8JxlfXja-ZR87xZwk01xdnHe2TRkfgRkAUHGa_nRcRG9JJWyCjGBTuJyr9JZbQXuv0o4vwl82rQJxeEWRkPk4X26rPRI2n3eksqaoEujyOC--cBrpt3GaPJMwbEH42vKVwmrDnWR3yisbfM5avpYNJuarop9J5rrq3xsS2lf7jnGGIX_LYp_fp5DrQ"
+    },
+    {
+      "position": 6,
+      "title": "Portland Pie Company",
+      "place_id": "ChIJ_SpdkhWcskwRTIFdDmikAqc",
+      "data_id": "0x4cb29c15925d2afd:0xa702a4680e5d814c",
+      "data_cid": "12034361921111949644",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c15925d2afd%3A0xa702a4680e5d814c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c15925d2afd%3A0xa702a4680e5d814c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6530023,
+        "longitude": -70.2576165
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_SpdkhWcskwRTIFdDmikAqc",
+      "provider_id": "/g/1hc141yw2",
+      "rating": 4.2,
+      "reviews": 900,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Family restaurant",
+        "Delivery Restaurant",
+        "Takeout Restaurant",
+        "Pub",
+        "Restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "family_restaurant",
+        "meal_delivery",
+        "meal_takeaway",
+        "pub",
+        "restaurant"
+      ],
+      "address": "51 York St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20138\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20138\u202fPM",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 772-1231",
+      "website": "https://portlandpie.com/",
+      "description": "Gourmet pizza with flavored crusts. Flagship of a regional pizzeria & pub known for flavored crusts, from basil or beer to gluten-free.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Serves local specialty",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "user_review": "\"The dough was light and crunchy with the perfect amount of cheese.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9QcGhapl0lNsO9Jc0BRgBlqZi4EH1smL6Z7VswTY33sWCmUjwautOk2hm6aEMCBla52XdUBOmNR3WHpcI5XuGRiTA8uS9gMMuCjmsMQdL0EMF6LdpsHvl6pT_KNmcffHXxxp0Cw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/39ZrhXicHcRRboIwGADgEwFFlA2TPQBB2EZBGCj6YkjBFmyh298Or-gRdpslfg_f34MpJWFrWZw5Jp1nynsN_Q-ZJ9VPyiSzsKgEg4ABlr_PipsfewWJWSs54hnk3gdBQUkD_n0e1lFig0jd88sBlurkOHAMRT0urVb5bcWE20Y4DHi7WTVdHeQiK51jIsn7ptFxOVT-q_7yKMY6HAXgoktRhHdu2klIfrkrq8tnJsj1mjT3u0Th8rbYCCGDPSfG9A-8A0Ur"
+    },
+    {
+      "position": 7,
+      "title": "Cargo Pizza Company",
+      "place_id": "ChIJj2VvSwCbskwROsg-YYOXN_k",
+      "data_id": "0x4cb29b004b6f658f:0xf9379783613ec83a",
+      "data_cid": "17957988629691156538",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b004b6f658f%3A0xf9379783613ec83a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b004b6f658f%3A0xf9379783613ec83a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6835033,
+        "longitude": -70.2903722
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj2VvSwCbskwROsg-YYOXN_k",
+      "provider_id": "/g/11x0zzrl27",
+      "rating": 4.8,
+      "reviews": 141,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "American restaurant",
+        "Chicken wings restaurant",
+        "Hamburger restaurant",
+        "Pizza Takeout"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "american_restaurant",
+        "chicken_wings_restaurant",
+        "hamburger_restaurant",
+        "pizzatakeaway"
+      ],
+      "address": "1053 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 536-1550",
+      "website": "https://cargopizzacompany.com/?utm_source=Google&utm_medium=MyBusiness",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Quick bite",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4MHp6cmwyNxgAOgMI8A0%3D&g2lbs=AEzIGDuGQLlWl-rEZjK0gUtzztQ3pbVSWKK_Er7I-L6nIRl6ChuKKIwZbAgmnNhqtfd0stjY3Bip&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Thin crust, fresh dough with char, loaded with toppings, quality cheese.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTy1gXCJatcPgTUsiqiHu2WWXHE35rPwwpSdNXadQBMZsv0GRQYajB0rxv6UeYvAtcZO1EeZVxf374YVlkdQ9-beHHhRHSy09vQs90r1CdjGny7qhoWUsNnlVpGrPg8_MZHz3WsDmNppiO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F4efNXicHcTbboIwGADgJ6qUsc2xZBd4CM0SkaocbwwrXYtiW_tXkL2k13ubJfsuvt-HdM7Au-f1MpgJrUXPb8At08px5WZMXzxhADFA4EVpQs8ROUy-KJefjWOpOGTQXTtyeyqKkqyDF5uOo9m3Sdm0dLGpYcDxjlbNaYHtfXjNeDVEjtVbf83r_P4dzJ-rvD-3NERfnBC5I_sJhwOFEFt_2Z5iNc2vUhcZJKrPTWxT8Xbc1OQnKGB1SYzpth-jjzFG8n-G1B_21kh0"
+    },
+    {
+      "position": 8,
+      "title": "Monte's Fine Foods",
+      "place_id": "ChIJuUrDxqGbskwRg66shaEo5R4",
+      "data_id": "0x4cb29ba1c6c34ab9:0x1ee528a185acae83",
+      "data_cid": "2226230265002110595",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ba1c6c34ab9%3A0x1ee528a185acae83&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ba1c6c34ab9%3A0x1ee528a185acae83&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.685490699999995,
+        "longitude": -70.26852099999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuUrDxqGbskwRg66shaEo5R4",
+      "provider_id": "/g/11fhts74m1",
+      "rating": 4.7,
+      "reviews": 729,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Pizza Takeout",
+      "types": [
+        "Pizza Takeout",
+        "Grocery store",
+        "Sandwich shop"
+      ],
+      "type_id": "pizzatakeaway",
+      "type_ids": [
+        "pizzatakeaway",
+        "grocery_store",
+        "sandwich_shop"
+      ],
+      "address": "788 Washington Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20138\u202fPM",
+        "friday": "11\u202fAM\u20138\u202fPM",
+        "saturday": "11\u202fAM\u20138\u202fPM",
+        "sunday": "11\u202fAM\u20136\u202fPM",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 613-9873",
+      "website": "http://www.montesportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Comfort food",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFmaHRzNzRtMRgBOgMI8A0%3D&g2lbs=AEzIGDvQg4Zc7dY1ptYgwBGMqzWjI7JJIhuKXcnLOp5C8mXJe72CsCfmid9inEVJYOBk2pLZI4Vd&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"... best crust ever and quality ingredients makes for a top quality pizza.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEps_kz5hfhn5lcF9-qt7b0GPj30qAEsgayhe9hRV-M1_yl7llYbghuUv_OdUIYWWsasaPeXF6v1J0J7uUoSyeQXogeSekxr_YdKYy6mawsYxMWwtb8BSHRA2jGVfjqutliXmo7BoFhsaE0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SsHeaXicHcTdboIwGADQJ6qUGUWX7AIT8C86lCD0ipRa-wmFgl8R2Uvu2rdZsnNx3r9gbYufjqNhOlHGKC17lA9hGisbOxGmdlSLRCBBx4-Op8oPWsyrnxncoJlpES5JZ72CrqNySjs_QMVHkEs4X8jBzUftac0KBX3yzL-vyZalKXLkkczC-dPd0Z3XJyYe5SkzSsayej1ydt2zcV7zAdnrkA62WKzizdn_KNeXW9n1Vt-z2ngrEwLygH4NLqWUwP-CNH9UxUm7"
+    },
+    {
+      "position": 9,
+      "title": "Angelone's West",
+      "place_id": "ChIJrzMXqBKaskwR3H_1rAKcuV4",
+      "data_id": "0x4cb29a12a81733af:0x5eb99c02acf57fdc",
+      "data_cid": "6825658245562335196",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a12a81733af%3A0x5eb99c02acf57fdc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a12a81733af%3A0x5eb99c02acf57fdc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.676400199999996,
+        "longitude": -70.3623096
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrzMXqBKaskwR3H_1rAKcuV4",
+      "provider_id": "/g/1vf9bzbv",
+      "rating": 4.8,
+      "reviews": 359,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant"
+      ],
+      "address": "768 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20138\u202fPM",
+        "friday": "11\u202fAM\u20138\u202fPM",
+        "saturday": "11\u202fAM\u20138\u202fPM",
+        "sunday": "Closed",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 854-9122",
+      "website": "https://www.facebook.com/Angelones-158016566887/",
+      "description": "Longtime, family-run pizzeria known for quick bites, including pepperoni, green peppers, and onion pies.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Historic",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"The pizza is light and crisp with a wonderful sauce that is not too sweet.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1ozwHXOYc26ibRrnNKAgmCl_4CgKnGIhMw89NXjWo94ZSxJOVRtwzjA7VoREj8jTZ6m7MnJNxzP7Z1M1I5-4GIkzaVCUYqXp8imisSqLoezMIIBXR1rGsnW07-oXPGvyUVTCP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wPWRXXicHcRRboIwGADgExXoRMAlPiBxWB3IULDyYmZDCgj9kXZDe0HP4G1M_B6-56NSqpefptlWE4MD8Lb8k-XAQKhSKINBZ_JeIiaRNP0k_rn4Xxj0uKLbI_tw6nM6iHjj8y5oT3bANyIkVTR6s5g2B5jZxe623uapGnXjuzmky8Zr9oXTuZFYxzeduAWOMJkiOyQX_ZsH2fFKe6_uarm7fkOpI0IWNMVDKMXBchHQJPy_Z_k-SOYjtiwLVe8ZEi9ONURb"
+    },
+    {
+      "position": 10,
+      "title": "Tipo Restaurant",
+      "place_id": "ChIJiczJsJybskwRP93OtTb9RUE",
+      "data_id": "0x4cb29b9cb0c9cc89:0x4145fd36b5cedd3f",
+      "data_cid": "4703443797278645567",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b9cb0c9cc89%3A0x4145fd36b5cedd3f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b9cb0c9cc89%3A0x4145fd36b5cedd3f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.677596,
+        "longitude": -70.2810962
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiczJsJybskwRP93OtTb9RUE",
+      "provider_id": "/g/11c2q30htr",
+      "rating": 4.5,
+      "reviews": 458,
+      "price": "$20\u201350",
+      "extracted_price": 20,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Restaurant"
+      ],
+      "type_id": "italian_restaurant",
+      "type_ids": [
+        "italian_restaurant",
+        "restaurant"
+      ],
+      "address": "182 Ocean Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u20139\u202fPM",
+        "thursday": "4\u20139\u202fPM",
+        "friday": "4\u20139\u202fPM",
+        "saturday": "4\u20139\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "4\u20139\u202fPM"
+      },
+      "phone": "(207) 358-7970",
+      "website": "http://www.tiporestaurant.com/",
+      "description": "Airy stop for Italian-inspired plates. Bright neighborhood venue offering elevated Italian fare such as wood-fired pies & handmade pastas.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Healthy options",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/9UMG0Lr8-5M?source=pa&opi=79508299&hl=en-US&gei=sWdOarCRLNfAp84PtaWdoAo&ahbb=1&sourceurl=https://www.google.com/search?hl%3Den%26tbm%3Dmap%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sA-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:2!2s1i:0,t:11886,p:A-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:2!7e81!12e5!17sA-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:58!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26gl%3Dus%26q%3Dbest%2Bpizza%2Bin%2BPortland,%2BME",
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjMnEzMGh0chgAOgMI8A0%3D&g2lbs=AEzIGDuRBU2rx7JuVPv23PchbYZgLvjpweAtgY_MwmA-ihQlgSqqN7TPEZ_qMz0sbPDWIlKtFTSf&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The crust is chewy deliciousness that reminds me of the pizza I had in Rome.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLEjq2WvFgukmSNO-EUSZ7Leu30B4HWfgK0Fe69EzuD4OSRpYAbgco7S24mk5cK5Kza9GYmS-WGADU6XR5I3UTau89VVS9Q45OJ1pkcFDTru7A5H6-6__MvlvRA8xXZx8RalnDkg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/arb-YXicHcTbDsEwAADQL6qVrbtIPFR2wTBWM7zINNVFt3V0HfGHPsHfSJyH8_2UXdeqsWFUpTngUvKKacUeVDYda7oBlbXBWwWoAsrAm_VW4GgZ3O6jvA-5FjVZJyDIyMlZMm3CqTXLrzyGIbO94K19KyFpe8QXTqVDRlYtEI1R_C686FgTkEfYz-xDiuZmtiu06-33xNtaKFkMW0FDf_fQDkYzG9jn86qv-hS7r8Pp5aZF1fiCT55DCCEo_1PQ_AAB-EKt"
+    },
+    {
+      "position": 11,
+      "title": "Brickyard Hollow Brewing Company",
+      "place_id": "ChIJe3yVSJCdskwRtx0kvXGwvRg",
+      "data_id": "0x4cb29d9048957c7b:0x18bdb071bd241db7",
+      "data_cid": "1782775030059638199",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d9048957c7b%3A0x18bdb071bd241db7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d9048957c7b%3A0x18bdb071bd241db7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.659140099999995,
+        "longitude": -70.24892799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe3yVSJCdskwRtx0kvXGwvRg",
+      "provider_id": "/g/11nm9md3n4",
+      "rating": 4.4,
+      "reviews": 530,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "American restaurant",
+        "Brewery",
+        "Family restaurant",
+        "Brewpub",
+        "Pizza Takeout"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "american_restaurant",
+        "brewery",
+        "family_restaurant",
+        "brewpub",
+        "pizzatakeaway"
+      ],
+      "address": "9 Commercial St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201311\u202fPM",
+        "saturday": "11\u202fAM\u201311\u202fPM",
+        "sunday": "11\u202fAM\u201310\u202fPM",
+        "monday": "11\u202fAM\u201310\u202fPM",
+        "tuesday": "11\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(207) 808-8247",
+      "website": "https://brickyardhollow.com/",
+      "description": "Industrial-chic space for upscale pizzas. Craft beers, gourmet pizza & protein bowls in an airy, industrial-chic venue with exposed pipework.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Live music",
+            "Live performances",
+            "Trivia night"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Food at bar",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFubTltZDNuNBgAOgMI8A0%3D&g2lbs=AEzIGDt28zf6QHV4yONWGPFuepcZkW_bKeYzpMB4vKdHteAVmqZ1zyhxdfN7zCVXo4cFkokh_rs2&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The beer cheese was creamy and the pizza was crispy and very flavorful.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfD-kN8Ph7ptg5TdpOh_2QgRVrpr7Us98lmYFeIPo3UfPIyeVHYAX0BfrCMclsHV00d1XH0ts7lC9NTEQoSMMl5T_y3wiUTPze3YET4PpXVpcuH3J0gKrpCyq-8wGWH3lCXk1-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g8AQP3icHcRRkoIgAADQE5EYNVoz-2FmUTu6WGj61QchNJKwQOPYBTvD3mZneh_v7y29N24dBEqimdBaKP503DI9eD74GdOPQBgHmAMuSEhR9knWbUFfxERGxoslvZkfeZ2X4lRbY6PKrWL1aHf8QDSqOnKYeI3bpIGbzqY5Uw7XEN7CBkPvIpWuCpqV-pznakmvExrvFSUvjtqMLohpasOeGB2h-LYmnX5BPO4vGKm06UPwNYYQQiA_MzD8AyXxQ6c"
+    },
+    {
+      "position": 12,
+      "title": "Micucci Grocery Co.",
+      "place_id": "ChIJr9PmvEGcskwR7zMppHcd2v0",
+      "data_id": "0x4cb29c41bce6d3af:0xfdda1d77a42933ef",
+      "data_cid": "18291965236211168239",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c41bce6d3af%3A0xfdda1d77a42933ef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c41bce6d3af%3A0xfdda1d77a42933ef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6603411,
+        "longitude": -70.2496163
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr9PmvEGcskwR7zMppHcd2v0",
+      "provider_id": "/g/1tk22jpz",
+      "rating": 4.8,
+      "reviews": 649,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Deli",
+        "Pizza Takeout",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "deli",
+        "pizzatakeaway",
+        "wine_store"
+      ],
+      "address": "45 India St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135:30\u202fPM",
+        "thursday": "8\u202fAM\u20135:30\u202fPM",
+        "friday": "8\u202fAM\u20135:30\u202fPM",
+        "saturday": "8\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135:30\u202fPM",
+        "tuesday": "8\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(207) 775-1854",
+      "website": "http://micuccis.com/",
+      "description": "Grocery store selling Italian meats and wines, plus deli eats, fluffy pizza and slab pizza.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "offerings": [
+            "Flowers",
+            "Pharmacy"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"The crust is thick and chewy and doughy and delicious;\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3cPTxGM-YXJC517AMXzwMi4h7-AD9kZSBiXAoh68DwQuHbC4JAP3tz-pv_Zx8zhT92kf5sGZmnXB9NcZtilErPQkMvU8fw8VzRdkETQFFCqy7www4BUrl8EfKoi5wzKO1ZVfQkA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Dz9tonicHc5BjoIwAADAF1VAQIqJh4Kg0aCgYNheNtkKlBQp0mq1P_QJ_kazlznP-0WlHMTcMDpqTxrOm666iWokvJdVLyeEX4xmEIAIIAyU7jKGYpuk-WOVgJ9yE7qWh5JSq6R1qAfQ0mf4GLQl4nQGlyq7rf9CZ4NSW2ow3H_xA2qa-1NWu2KFL30Z-DuCZdtFY5qx5F7AWsGTPpxZlGdxHF6fnlLKCYqxg1G95a2r9HZv4VP9fSyUZZomoP8S0H8AalxExg"
+    },
+    {
+      "position": 13,
+      "title": "OTTO",
+      "place_id": "ChIJDVgmAhScskwRt-jU9f4C05E",
+      "data_id": "0x4cb29c140226580d:0x91d302fef5d4e8b7",
+      "data_cid": "10507745649654818999",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29c140226580d%3A0x91d302fef5d4e8b7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29c140226580d%3A0x91d302fef5d4e8b7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6546392,
+        "longitude": -70.2622068
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDVgmAhScskwRt-jU9f4C05E",
+      "provider_id": "/g/1tdwppqq",
+      "rating": 4.4,
+      "reviews": 1046,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant"
+      ],
+      "address": "576 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "11\u202fAM\u201310\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 358-7090",
+      "website": "https://locations.ottoportland.com/otto-538d53766be0?y_source=1_MTI3ODAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "description": "Gourmet pizzeria with custom options. Local pizza chain specializing in thin-crust, gourmet pies with create-your-own options.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Comfort food",
+            "Happy hour drinks",
+            "Late-night food",
+            "Quick bite",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRkd3BwcXEYADoDCPAN&g2lbs=AEzIGDtb4qtEvHSmzogfZbiJfbcIujRRIsMcCt8qZ8rKXk0jurqeuwZPXnUPBR2Q6ME3i3cgBIMA&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Loved the crust, the service was fantastic and friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG03U_IEK9qrZn5zUg8Fhzf9xztO5f9d3hanMC3VORl4vbd7-XJVZSOtXfnqS2r_OJ9BYgmY5Itq1ewaQztkZMB2-2pjgt1GL1eBKvYN2FTT5jc53Svjgg_VhRWIbDQK-wS1WKtSw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EYKJr3icHcTbboIwGADgJ6pQaqMs2YV4CjJlWAXhhmgtbRDLob9geMM9wt5myb6L7_dHATTmw7IqRSayrmUlXkZ0vNYgNEx4_bRkYxA3yFiL70P0WGxtcs79deC2XabpeJbzjRoL9z1CSAv3TtRV75ckDo_VtL_dZ-iyizMWwqXQLXO6PNy5XiqfKfWhxWK4RiM8sr3nIKcpJeDtFxZe0KcHZ3M60ZJTwvpSyjxWx8S_raIADQwnAbDhc8C2bSP1P0f6D78pRME"
+    },
+    {
+      "position": 14,
+      "title": "Portland House of Pizza",
+      "place_id": "ChIJg5nQUBabskwR2hn8SyJ4qRs",
+      "data_id": "0x4cb29b1650d09983:0x1ba978224bfc19da",
+      "data_cid": "1993256398787189210",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b1650d09983%3A0x1ba978224bfc19da&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b1650d09983%3A0x1ba978224bfc19da&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6991193,
+        "longitude": -70.2870143
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg5nQUBabskwR2hn8SyJ4qRs",
+      "provider_id": "/g/1w6r7wjt",
+      "rating": 4.3,
+      "reviews": 535,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Catering food and drink supplier",
+        "Family restaurant",
+        "Takeout Restaurant",
+        "Pizza delivery"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "catering_food_and_drink_supplies",
+        "family_restaurant",
+        "meal_takeaway",
+        "pizza_delivery_service"
+      ],
+      "address": "1359 Washington Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20138\u202fPM",
+        "monday": "11\u202fAM\u20138\u202fPM",
+        "tuesday": "11\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 797-9030",
+      "website": "http://portlandhouseofpizza.com/",
+      "description": "Mainstay for pizza & calzones. Longtime area go-to for pizza & other basic Italian eats in casual digs or for takeout & delivery.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Late-night food",
+            "Quick bite",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Has changing table(s)",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXc2cjd3anQYADoDCPAN&g2lbs=AEzIGDs3KuDCsNk1TAus_PYhSGAJiQGwBXJArLjthIp_9rPhmVLaEywQuGGc-G4uRZ7HvwIuBWeo&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"This pizza place is a hidden gem\u2014every bite bursts with flavor.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfdbxncKS5pm4PlnQtGxbHJLX0CTAp8bLQVETC-Jy1GwY-qeH1DfRj4P09kK4tn93h23HC1tRhsLd5kTPIcFvGOJTk3EhwoBqrYaDiMdEwUdytduKeKDz9nHdx9UD9bv1n_Jyf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nB8hk3icHcThEoEwAADgJ5o25c7c-ZFKqVDE8ctpW42yxUblBT2Dt3Hn-_F9P1zrRk0Mo-bmoJSyrNlTsQeRQjOhB0TejLJRgCigDDtZpZU9L2jeCRJtR83NSmqRar_LgzA-QCezm3Eep3svc0DYI789gjsLkFtsrlYCcRVZWmCTD83AQXrDVUxHVZYsyPzlr8OsMj3eytn9cTy7lyX12h3tNX1GLHLfWAS0wzsX5y8kTmFfTFsEIQT8PwHiBxuoRFg"
+    },
+    {
+      "position": 15,
+      "title": "ViA VECCHiA",
+      "place_id": "ChIJk9hQsy2dskwRBLzMyTOu3Fs",
+      "data_id": "0x4cb29d2db350d893:0x5bdcae33c9ccbc04",
+      "data_cid": "6619357089779989508",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d2db350d893%3A0x5bdcae33c9ccbc04&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d2db350d893%3A0x5bdcae33c9ccbc04&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6558752,
+        "longitude": -70.25371919999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk9hQsy2dskwRBLzMyTOu3Fs",
+      "provider_id": "/g/11hf8m3wxx",
+      "rating": 4.5,
+      "reviews": 1118,
+      "price": "$30\u201390",
+      "extracted_price": 30,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant"
+      ],
+      "type_id": "italian_restaurant",
+      "type_ids": [
+        "italian_restaurant"
+      ],
+      "address": "10 Dana St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u201310\u202fPM",
+        "thursday": "4\u201310\u202fPM",
+        "friday": "4\u201311\u202fPM",
+        "saturday": "4\u201311\u202fPM",
+        "sunday": "4\u201310\u202fPM",
+        "monday": "4\u201310\u202fPM",
+        "tuesday": "4\u201310\u202fPM"
+      },
+      "phone": "(207) 407-7070",
+      "website": "https://vvoldport.com/?utm_source=google&utm_medium=mybusiness",
+      "description": "Stylish choice for classic Italian eats. Chic Italian eatery offering brunch staples, small plates, seafood & steak, plus wine & cocktails.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": false,
+        "delivery": false
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/PSNqCEbbsJs?source=pa&opi=79508299&hl=en-US&gei=sWdOarCRLNfAp84PtaWdoAo&ahbb=1&sourceurl=https://www.google.com/search?hl%3Den%26tbm%3Dmap%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sA-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:2!2s1i:0,t:11886,p:A-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:2!7e81!12e5!17sA-fBEt8btgj9VMd9jwI_DpSyEYZT9dg:58!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26gl%3Dus%26q%3Dbest%2Bpizza%2Bin%2BPortland,%2BME",
+      "user_review": "\"his pizza reflects his mortal spirit and you can taste it.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpwhREVAcDpBeBe3S72p5CWj-f7RgAfaay7yRyWaAsIgyzYY9YviZD3TUaQvOEsCs3YyOdLuWcrxuG0cHeshYl1tmJhbufo1RZ_KbD4HSHXt4yWGMh8TWHmNYI7DueVDl6MntzwA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gmgfenicHcRNcsIgGADQE2GSRk3bmS5QHNFWrfEHceNEJNA2CYwfGPGGHqG3cca3eP937ZyF9yiqdNpRxqhKepBnYRonG9cRpo6UBSQAQYS_58s_TG2r89EWC2IHciDTVfZie0P2i8osV7gsipCFPLACw0SFG-dv_PKzJ-l6UywvixEMIeVhcfryTJyvfhwLKkHzKnH1VB99aZJ8f_g8ki5d0Z3rBjae6dc1o_WcTzLi5ZZU_Vnjbi3-aJM4jpF-LlDzADFYRko"
+    },
+    {
+      "position": 16,
+      "title": "Off Track Pizza",
+      "place_id": "ChIJj--HTJmdskwRVAWwq0HsVDI",
+      "data_id": "0x4cb29d994c87ef8f:0x3254ec41abb00554",
+      "data_cid": "3626783366737560916",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d994c87ef8f%3A0x3254ec41abb00554&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d994c87ef8f%3A0x3254ec41abb00554&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6569016,
+        "longitude": -70.2534878
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj--HTJmdskwRVAWwq0HsVDI",
+      "provider_id": "/g/11y4qb8lw2",
+      "rating": 4.3,
+      "reviews": 154,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant"
+      ],
+      "address": "15 Exchange St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 1\u202fAM",
+      "hours": "Open \u00b7 Closes 1\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20131\u202fAM",
+        "thursday": "11\u202fAM\u20131\u202fAM",
+        "friday": "11\u202fAM\u20132\u202fAM",
+        "saturday": "11\u202fAM\u20132\u202fAM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "11\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 808-8007",
+      "website": "https://www.offtrackpizza.com/?utm_source=google&utm_medium=mybusiness",
+      "description": "Casual, counter-serve joint serving New York-style pies and slices for lunch and dinner.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Comfort food",
+            "Late-night food",
+            "Quick bite",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5NHFiOGx3MhgAOgMI8A0%3D&g2lbs=AEzIGDtvCplCSN0WeqcS6YQL8_4e0uuq6CiY7IVJVDm49OGXcrU5ciqGL-FbmuvedDSEub3utZPO&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Crispy, thin crust - very close to a NY pie flavor!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGyxhpbgU-U5mVFgdUXtXKg3np5643h6aQysQb5yvSYgeSxfleChqHd0HOD97AFG3nqBrlPwDflUnmnPw7YIeVCHqEBlC52vnzng5FnO41qm1T7cOlNZPZc0bK4SpYgR7t0RUOHTikeUS3A-GGOoSlfFFRAT9NJ36fXOpU08GWCFmwl3A6ExMQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PN2_RnicHcRLUoMwAADQE1GC4WOdcUGhAa02_FKhO4GQOIYkfCzgTT2JW2d8i_fzy-dZTw-mKTjcMaWYoF8THRslZyrnXaN6k-nJ0KNaN9N_ae2QR9vKdc2IQZz-glhLyrk8MSi149qQu-_pNqW1s93yitF87QQN-BC3IMbh3vNRBOVwGEWyhJ0gspfJ4lVP9BLEw_EgAufuJr8lc5DEtjX0VuE1WJyvybUB9cnOdcUybwYZwXHx8UlJDn0jirDKRYdQ5hf78zN0uxJrAu6jtwD1i4C-e1xf08fFAgAY_P_GkH-etlQ_"
+    },
+    {
+      "position": 17,
+      "title": "Kozeta's",
+      "place_id": "ChIJIQISVa-askwRugx5YUPlvDs",
+      "data_id": "0x4cb29aaf55120221:0x3bbce54361790cba",
+      "data_cid": "4304567421420244154",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29aaf55120221%3A0x3bbce54361790cba&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29aaf55120221%3A0x3bbce54361790cba&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.72106,
+        "longitude": -70.338561
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIQISVa-askwRugx5YUPlvDs",
+      "provider_id": "/g/11b5pjc20_",
+      "rating": 4.7,
+      "reviews": 251,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Pizza delivery",
+        "Pizza Takeout"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "pizza_delivery_service",
+        "pizzatakeaway"
+      ],
+      "address": "597 Bridgton Rd, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(207) 797-7344",
+      "website": "https://www.kozetashousepizza.com/",
+      "description": "Pizza eatery with traditional Greek pizza and an array of other sandwiches, pasta dishes and subs.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Private dining room",
+            "Quick bite",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiNXBqYzIwXxgAOgMI8A0%3D&g2lbs=AEzIGDsFY9tTUw9Xcwp5aneN27Qh07BY7rvibAis3DcCckPeMhVjKagT5Hg9yFXsOfc3Xqw9Lx08&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The pizza has a crispy crust and the tomato sauce is sweet.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8hDsqVBsonYU2cutqOACiWOeko9xqXDZ9GPjr4i5pFir1XA6OFGFWOHx6fFCM-0xq5X1wrV7BwjaL7td4CHXsFq1DOZRFeIGVLBz_TiT8MtyppioPJd16Cv2FFRVhQtSaT1-ryg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Sf3pzXicHcRZEsEwAADQE0UbSy0zPrpMikGKqvJjTEQTS7PS1g0dwW3MeB_v-2HWSjNynDvrtAohijt9GqqJKC0tbYuIh1NIA4gBxvGT5ermxwMWGZUFRpT7bZs8rcJ-yHeY3sSwVnl0GMbJVXd5TyKuYe57GMVohye1d0HhAri16uWw0lk_qK6ned-eu-EkN0jBCB_WiE7jbB68jylPBwvbSMlFMjtDL3y1EVpnbGU3pxQC3RTjCrquC9h_Asof3AlE4A"
+    },
+    {
+      "position": 18,
+      "title": "Riverton Station Pizza, Bar & Grill",
+      "place_id": "ChIJ8yojWVabskwR_GYKIdbmMIw",
+      "data_id": "0x4cb29b5659232af3:0x8c30e6d6210a66fc",
+      "data_cid": "10101827771543742204",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b5659232af3%3A0x8c30e6d6210a66fc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b5659232af3%3A0x8c30e6d6210a66fc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.696784099999995,
+        "longitude": -70.3060687
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8yojWVabskwR_GYKIdbmMIw",
+      "provider_id": "/g/11tjm93cmz",
+      "rating": 4.8,
+      "reviews": 187,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant"
+      ],
+      "address": "1569 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 3:30\u202fPM",
+      "hours": "Closed \u00b7 Opens 3:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "3:30\u20139\u202fPM",
+        "thursday": "11:30\u202fAM\u20139\u202fPM",
+        "friday": "11:30\u202fAM\u201310\u202fPM",
+        "saturday": "11:30\u202fAM\u20139\u202fPM",
+        "sunday": "11:30\u202fAM\u20138\u202fPM",
+        "monday": "Closed",
+        "tuesday": "3:30\u20139\u202fPM"
+      },
+      "phone": "(207) 805-1115",
+      "website": "https://www.facebook.com/rivertonstation?mibextid=LQQJ4d",
+      "description": "Casual hangout featuring beer, cocktails, and pub grub, including pizza.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Live music",
+            "Serves local specialty",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Quick bite",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"The service was awesome, pizza was homemade, and prices are very reasonable.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzjLmNfifNm4BMR8tFnFAz0FueJUv98FdrHOPu002lv6aYQmGue_kIE7RwnvVIKcjNzWIytOnI_5USsomjohXw0_DQiofJHKMYDAVnsBYSrasV59zcoARmYdan32RFe0fapTET4w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zN8OB3icHcTLDYIwAADQiYAqqGjioQaqiCIgopwIqeUnbQktENnQEdzGxHd4308pZSs2mtaUulpwXjSkF6TDnEnCpIo51YpWKFgoQoO-F7zgfqpP1Mur3KPG7hyaEjEEJ4B6crwNaxM9u8PF7wGYN8MySwK670n6cuxVOLIhdlxce9PdecsLc9LF7So4rXn5GEFqBRXPjwf3nFgwZmKXXLtMxIv1hDkMafLMmD4PEQF51kZ2ZIzbcQYAUMr_WGE_PCtGSA"
+    },
+    {
+      "position": 19,
+      "title": "Noble Pizzeria & Barbecue",
+      "place_id": "ChIJBcV_NQCbskwRBic7vO1NaQE",
+      "data_id": "0x4cb29b00357fc505:0x1694dedbc3b2706",
+      "data_cid": "101698150053127942",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b00357fc505%3A0x1694dedbc3b2706&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b00357fc505%3A0x1694dedbc3b2706&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.674904,
+        "longitude": -70.2953939
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBcV_NQCbskwRBic7vO1NaQE",
+      "provider_id": "/g/11y412vpgp",
+      "rating": 4.7,
+      "reviews": 156,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Barbecue area",
+        "Restaurant"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "barbecue_spots",
+        "restaurant"
+      ],
+      "address": "476 Stevens Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 3\u202fPM",
+      "hours": "Closed \u00b7 Opens 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "3\u20139\u202fPM",
+        "thursday": "3\u20139\u202fPM",
+        "friday": "12\u20139\u202fPM",
+        "saturday": "12\u20139\u202fPM",
+        "sunday": "12\u20139\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 536-1395",
+      "website": "https://noblepizzaandbbq.com/",
+      "description": "Laid-back pizzeria featuring thin-crust pies, BBQ platters and burgers.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Comfort food",
+            "Hard liquor",
+            "Quick bite",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5NDEydnBncBgAOgMI8A0%3D&g2lbs=AEzIGDvFc_gaXpmNxutNx_BWRSfHnXmozl6IoEAPYgB5jPQmw8CW4pLFfJO7qKVr6LhV-kQlGcvN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Thin, crispy/chewy crust, perfect amount of toppings.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHTIgQLWuOrCnvVGIqk_ov_UYQitB3-lBWiHNtUSV6DbhwGfItTwOWFx1Kh7_ysaQ3-nlGEZVJSh3gP9DwfpIqv-vB9yWNdi5rXuvCfXbq2tImIX_joXFfgfdswpfnaoAMRlx6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VKs37XicHcRZEsEwAADQE0VLB8OMj7aoWLqgCz8dqklKJG2TJpzQGdzGjPfxvh8iZS2mhkGJ1cOcY1p2omwLzmTJZK_gTwPXAhQCCMMO_ehhe6sjxNE27YLWZSrxYPPIucrjU1RJxwLUSauVL-NDMppfifYQlEcdpMtXf0PG-VtcIgsw6i3OyfpALBxO5hrVsFFAOZN36t-qYZt1ykXZtRlI-IRZfufZEmF0E7pG7MLt3Z6-RjPdN00TkP8FYD_TxkaT"
+    },
+    {
+      "position": 20,
+      "title": "Friends & Family",
+      "place_id": "ChIJU2o0f8GdskwRDXRmOMQrfv8",
+      "data_id": "0x4cb29dc17f346a53:0xff7e2bc43866740d",
+      "data_cid": "18410200448496989197",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29dc17f346a53%3A0xff7e2bc43866740d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29dc17f346a53%3A0xff7e2bc43866740d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6543999,
+        "longitude": -70.2629713
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU2o0f8GdskwRDXRmOMQrfv8",
+      "provider_id": "/g/11rx1r61w_",
+      "rating": 4.8,
+      "reviews": 97,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Restaurant",
+        "Wine bar",
+        "Wine store"
+      ],
+      "type_id": "pizza_restaurant",
+      "type_ids": [
+        "pizza_restaurant",
+        "restaurant",
+        "wine_bar",
+        "wine_store"
+      ],
+      "address": "593 Congress St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM Thu",
+      "hours": "Closed \u00b7 Opens 4\u202fPM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "4\u20139\u202fPM",
+        "friday": "4\u20139\u202fPM",
+        "saturday": "4\u20139\u202fPM",
+        "sunday": "4\u20139\u202fPM",
+        "monday": "4\u20139\u202fPM",
+        "tuesday": "Closed"
+      },
+      "phone": "(207) 536-4022",
+      "website": "http://www.friendsandfamilymaine.com/",
+      "description": "Cozy restaurant and market featuring pizza, small plates, and an eclectic selection of wines.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Comfort food",
+            "Happy hour drinks",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFyeDFyNjF3XxgAOgMI8A0%3D&g2lbs=AEzIGDu8uMvWTBJ4aoJUIdeZbRmDdZPlmOBHvcchZdmGLy7_3W5tJK9Nr-oDs5J3wHIu7pPECXDP&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sWdOarCRLNfAp84PtaWdoAo&ei=sWdOarCRLNfAp84PtaWdoAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The crust was perfectly thin and crunchy on the edges.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFnBEZr5ZYvoOlEMix4eOE2BmjIIBvmmTVVeplkkG01xu9TQcmC3xSvjrceKnD6V1CouHtH6r_b_NC-ARNx0IlCiVFQ7oTYO1QOH_tVtujAzoqtQgclBTKs7UQ7Ffk7FwRojaGqx_rTgBB7E34JToJWIThI_-XXdSpK0ef8MDws9PeoiT5tjhugSw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/E2ufxXicHcTdVoIwAADgJ0JGomTndMH4ESQlZJF6w6k5N2AwHANWb9qrdNU5fRffzy9Tqh-eTJOz5YIKQTkZByKx6BTp1AKL1qT9YPRS6C_TfbnaPgs7GFzk6nKeRMqDfaVtkgYPsK3jGE5ti4qC9LxptsDS4wZluPWWOp9qiUnS-evC8sQYqWgty8_y4Bnu8aBBzL2qCDNHoHNqZWlUqkKNtfst7iqjmEOUDM5b5oS3xgnno6g_tnddSkQhdIKlvUNi9x4jFpfG6XTN-wSQ2-Pen4fNKxEVWqmajTSfn2cLAGCw_7HR_QH8DFdt"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+pizza+in+Portland%2C+ME&start=20&type=search"
+  }
+}

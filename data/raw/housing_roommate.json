@@ -1,0 +1,269 @@
+{
+  "search_metadata": {
+    "id": "6a4e67d950d43e1bbb45add9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jYY6cb6oB4gD1-lwzlQHRQ/6a4e67d950d43e1bbb45add9.json",
+    "created_at": "2026-07-08 15:08:09 UTC",
+    "processed_at": "2026-07-08 15:08:09 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/roommate+sublet+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/jYY6cb6oB4gD1-lwzlQHRQ/6a4e67d950d43e1bbb45add9.html",
+    "prettify_html_file": "https://serpapi.com/searches/jYY6cb6oB4gD1-lwzlQHRQ/6a4e67d950d43e1bbb45add9.prettify",
+    "total_time_taken": 0.53
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "roommate sublet in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "roommate sublet in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Great group stays Portland",
+      "place_id": "ChIJvXPNO6CbskwRSMs0FJokkxM",
+      "data_id": "0x4cb29ba03bcd73bd:0x1393249a1434cb48",
+      "data_cid": "1410511352479664968",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29ba03bcd73bd%3A0x1393249a1434cb48&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29ba03bcd73bd%3A0x1393249a1434cb48&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6663248,
+        "longitude": -70.2801874
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvXPNO6CbskwRSMs0FJokkxM",
+      "provider_id": "/g/11h_446hr1",
+      "type": "Short term apartment rental agency",
+      "types": [
+        "Short term apartment rental agency"
+      ],
+      "type_id": "short_term_apartment_rental_agency",
+      "type_ids": [
+        "short_term_apartment_rental_agency"
+      ],
+      "address": "38 Noyes St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open now",
+      "phone": "(207) 619-4545",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1DqO2P0ExxZLhlkGf-okIw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=144.04723&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9wMCUXicHc1LCsIwFADA22TXfGrBDwQ3FREEXbuRNE2T0LQvNs-m3sZreRvFC8x83g4xph1jCSdjcPYmR7-YkIqoqAWwwajoE9UwsFkwdM-hGZUP-6hG8K0U9eNSXvlhWW5nF_pjV0B_ykQ3dx28GVEmoybtqM0_cYKW2phIlhtOnNyW5KWyFFVFebUuVyR61E5y8l86mKXg_AtwZzl2"
+    },
+    {
+      "position": 2,
+      "title": "Latitude at South Portland",
+      "place_id": "ChIJ2eQz5NWZskwR6fFVRoXzZEY",
+      "data_id": "0x4cb299d5e433e4d9:0x4664f3854655f1e9",
+      "data_cid": "5072446834062258665",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299d5e433e4d9%3A0x4664f3854655f1e9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299d5e433e4d9%3A0x4664f3854655f1e9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.629753099999995,
+        "longitude": -70.3230361
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2eQz5NWZskwR6fFVRoXzZEY",
+      "provider_id": "/g/11kfq057h_",
+      "rating": 4.3,
+      "reviews": 132,
+      "type": "Apartment complex",
+      "types": [
+        "Apartment complex",
+        "Apartment building"
+      ],
+      "type_id": "apartment_complex",
+      "type_ids": [
+        "apartment_complex",
+        "apartment_building"
+      ],
+      "address": "350 Clarks Pond Pkwy, Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 466-6226",
+      "website": "https://www.livingatlsp.com/?utm_source=GMB&utm_medium=organic",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Business center",
+            "Elevator",
+            "Fitness center",
+            "In-unit washer/dryer",
+            "Maintenance",
+            "Outdoor Space",
+            "Pets welcome",
+            "Swimming pool"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "user_review": "\"Apartments look nice, bit expensive but good if you got a roommate.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEP4FSuRtM6zHXj3spDTg8N3XoGX1eqgnOduGmHi0_BbvhZubh16p4NV4bNZ0sRrRmYZE-gqM0LS09bHcm9mJ1DfId8ztMENHY2FYSj9tiFWW3JjvTqpTZgXCREy8GCdKDmx8xK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5nynOXicHcRJDoIwAADAF1WKEAMmHlQ2UaoCUeBiQsEWtLTY4vZB3-BvTJzDfD9UKSGnmnalxohwTq71IOsb5p2qOzXCnGlESIAlkNp8h_aXubszvWSIVTR5B1lrSOGkxEJGxv1Mr3vSbavBZ0EDT4vyTouhpPpEmOhglqiAMr7FLC9cQPoIbhJolwFmNgt157yqrLeKXBTkYy9PWls13vFohO097UVakGwZuy_LX1Zrhz2t53r20CGEgP7HoPsBKbxD-g"
+    },
+    {
+      "position": 3,
+      "title": "The Linden",
+      "place_id": "ChIJHY5rtF-dskwRNvRVtFgygJI",
+      "data_id": "0x4cb29d5fb46b8e1d:0x92803258b455f436",
+      "data_cid": "10556492883120485430",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d5fb46b8e1d%3A0x92803258b455f436&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d5fb46b8e1d%3A0x92803258b455f436&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6632064,
+        "longitude": -70.2636426
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHY5rtF-dskwRNvRVtFgygJI",
+      "provider_id": "/g/11qm333ylv",
+      "rating": 3.6,
+      "reviews": 88,
+      "type": "Apartment building",
+      "types": [
+        "Apartment building"
+      ],
+      "type_id": "apartment_building",
+      "type_ids": [
+        "apartment_building"
+      ],
+      "address": "132 Marginal Way, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4:30\u202fPM",
+      "hours": "Open \u00b7 Closes 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134:30\u202fPM",
+        "thursday": "8\u202fAM\u20134:30\u202fPM",
+        "friday": "8\u202fAM\u20134:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(207) 337-9952",
+      "website": "http://www.thelindenportland.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Business center",
+            "Elevator",
+            "Fitness center",
+            "Outdoor Space",
+            "Pets welcome"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvackZLtGhPAggtkBdAbY0d2kkwVaj8nyfuTSRi34hgDVDoeB4ZTgaEufck4catMXhpje75ETr0RHP-tO-Q8nO_cpg4e8B6DXsjbpyKyK3M-o7dmDDPteMfF4l_lSWYr3UX9W_Yw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VyZ28nicHcTdboIwGADQJ6pUqcqW7AJSfxJloqKCNwRLaaXYNvRjhEfcI_g2S3YuzvtXAlj36Xmt9CfCGNHy3vGOGQ1cw4SZlyesQ8wh54XJ91GFm5-SqfseNjIJhQAVVeEjx9VMqeFaNoEe6z49n54-kYJeqeERuaeiXPU1U4SVEGfSNnw5X6UdPm0TBAd0DPShYFYQHkQLmrnmYcfduPNjZJbVi9IEeFyvSVu051ve-Zfs41bkw9cwxRgj-T9D-g9RJ0X5"
+    },
+    {
+      "position": 4,
+      "title": "The Casco",
+      "place_id": "ChIJjboaUACdskwRTrslq48BtDM",
+      "data_id": "0x4cb29d00501aba8d:0x33b4018fab25bb4e",
+      "data_cid": "3725604508305570638",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29d00501aba8d%3A0x33b4018fab25bb4e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29d00501aba8d%3A0x33b4018fab25bb4e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.658262,
+        "longitude": -70.256975
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjboaUACdskwRTrslq48BtDM",
+      "provider_id": "/g/11w5610wdf",
+      "rating": 4.5,
+      "reviews": 14,
+      "type": "Apartment complex",
+      "types": [
+        "Apartment complex",
+        "Apartment building"
+      ],
+      "type_id": "apartment_complex",
+      "type_ids": [
+        "apartment_complex",
+        "apartment_building"
+      ],
+      "address": "201 Federal St, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 261-1048",
+      "website": "https://liveredfern.com/buildings/the-casco/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Business center",
+            "Fitness center",
+            "Outdoor Space",
+            "Pets welcome"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"You cannot go wrong leasing from them!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEq72v98dw0lpfNsqHItED1brNACh4WrftQPV3PR9pWMlfpsRd9PMm8ghhD9mjoE5saOC87AopEThh_13Lj_1FMvOiODDKNO9mL7wKnZXd03lNpajM-qUG10DHq_a5moCNyNEtw-Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/06PQH3icHcRJroIwAADQE1Va0UBNXBBahygFjFPcEGSq2NJCq-Qf8R_B25j4Fu_zz63VZuE4gruTRqlGVC9TDYXqbNXZSaGk02gDCgOMEyQsfQa096Zv7JcjFLpmpt9sLSXoPrAg5LPLUNs0ObvJAetLJGptDiVOIuk3nBMsW0XnJo9D3wuUpkfOM-Tu2wytonf8iAnZsRjLvTfuutu1hK5gOm8j0J_WCJJNn-VzqUL2x6gdQbocEYQQ8N8F6L61uERq"
+    }
+  ]
+}

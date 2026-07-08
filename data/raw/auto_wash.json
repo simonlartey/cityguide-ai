@@ -1,0 +1,1384 @@
+{
+  "search_metadata": {
+    "id": "6a4e685831a6014362769889",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UeZtBqOcGJkv067paqnu2g/6a4e685831a6014362769889.json",
+    "created_at": "2026-07-08 15:10:16 UTC",
+    "processed_at": "2026-07-08 15:10:16 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/car+wash+in+Portland%2C+ME//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/UeZtBqOcGJkv067paqnu2g/6a4e685831a6014362769889.html",
+    "prettify_html_file": "https://serpapi.com/searches/UeZtBqOcGJkv067paqnu2g/6a4e685831a6014362769889.prettify",
+    "total_time_taken": 0.73
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "car wash in Portland, ME",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "car wash in Portland, ME"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Washville Car Wash",
+      "place_id": "ChIJqz010xGbskwRwZ6oOXc6GGw",
+      "data_id": "0x4cb29b11d3353dab:0x6c183a7739a89ec1",
+      "data_cid": "7789039839280144065",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b11d3353dab%3A0x6c183a7739a89ec1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b11d3353dab%3A0x6c183a7739a89ec1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6863084,
+        "longitude": -70.29220699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqz010xGbskwRwZ6oOXc6GGw",
+      "provider_id": "/g/11yqq_qbg2",
+      "rating": 4.8,
+      "reviews": 208,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "1139 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20137\u202fPM",
+        "thursday": "7\u202fAM\u20137\u202fPM",
+        "friday": "7\u202fAM\u20137\u202fPM",
+        "saturday": "7\u202fAM\u20137\u202fPM",
+        "sunday": "8\u202fAM\u20135\u202fPM",
+        "monday": "7\u202fAM\u20137\u202fPM",
+        "tuesday": "7\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(207) 536-1287",
+      "website": "https://washvillecarwash.com/portland/",
+      "extensions": [
+        {
+          "amenities": [
+            "Membership"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"Jimmy made an awesome wash outstanding with his incredible customer service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBc9-QMMARuAmiMONJN9wnVR-NilwogX9Uy7RKyFjK0eS3X2URvZaSculrnHF0vtBCgrXtTFYfMbRGR4wDROharnx8xvjcMZlWXv5lcZ0PGVXbFTKJTbpGDtzRaqFVSNRdYzyXAywwj1h2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uy392nicHcTBboIwAADQL6pUndlYskOdKUbSqgVZ5QaVtbLaMlqo-JM772-W7B3e74_yvnOvUaTVciatlboZXNMLa3xj_EzYWyQ7B4QDLkIHevxC27WIwZEQxAZ0u5I93dE4mIIBetXBSh6fpmeWTrhNYZMt-eLExrLKxKB7s8Vw9Ot32XOf4_MnqVnCnsKG7VXVm_vLfWwFKfUHH1dalPCQFLzGebrL6y7Z-AervnGRUXY5PyaOphDauVq8hTmEEKj_BTB_wLVIgw"
+    },
+    {
+      "position": 2,
+      "title": "ScrubaDub Car Wash (Portland)",
+      "place_id": "ChIJ88t__QubskwRLqI2KXJJjcI",
+      "data_id": "0x4cb29b0bfd7fcbf3:0xc28d49722936a22e",
+      "data_cid": "14018941969740767790",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b0bfd7fcbf3%3A0xc28d49722936a22e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b0bfd7fcbf3%3A0xc28d49722936a22e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6877615,
+        "longitude": -70.2926205
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ88t__QubskwRLqI2KXJJjcI",
+      "provider_id": "/g/1wzt1ztr",
+      "rating": 4.6,
+      "reviews": 510,
+      "type": "Car wash",
+      "types": [
+        "Car wash",
+        "Self service car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash",
+        "self_service_car_wash"
+      ],
+      "address": "1185 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20138\u202fPM",
+        "thursday": "7:30\u202fAM\u20138\u202fPM",
+        "friday": "7:30\u202fAM\u20138\u202fPM",
+        "saturday": "7:30\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20136\u202fPM",
+        "monday": "7:30\u202fAM\u20138\u202fPM",
+        "tuesday": "7:30\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 797-2828",
+      "website": "http://www.scrubadub.com/portland-car-wash/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Undercarriage cleaning"
+          ]
+        },
+        {
+          "amenities": [
+            "Car vacuum",
+            "Free vacuums",
+            "Membership",
+            "Towels"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Car wash always does a great job keeping my car sparkly clean!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMlNHyKrrMousw6o2Bcjgu6fAjsyuzomCwsG1mh5U1TODNK8DRbtsp-ZPT6fsbBBLgcVvpPw0dZW83O30NCg-zoSX-8quc4IZbV5_1GRj9IlSa3_EtU2QG095VT8l-nbyR_zE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7w4RIXicHcThDkJAHADwJzpOYmrrA2VqlSTUfLFcnOk4-d9lPGDv0Nu09fvw-34qITpYqiqrdIVyTlkhoegJb0XRCoXwRqUdIAIIVDvwz0_bPTJ_O-77_sglDCafOaSm0iztGkY58WY9gKc1lRFr0Wnj761NmAvoUBpEZgm54xwoSd5dMOBHerX0k479NUUTv9yQ9ZJkvkvzxMg0L6wXO3a565kr4tnZwwsjiSyG2nwMs8ldDRrGGFX_CWp_V1tD6w"
+    },
+    {
+      "position": 3,
+      "title": "Alltown Car Wash",
+      "place_id": "ChIJWwJDs_GbskwRHXH7RFM-0Tc",
+      "data_id": "0x4cb29bf1b343025b:0x37d13e5344fb711d",
+      "data_cid": "4022064469579100445",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29bf1b343025b%3A0x37d13e5344fb711d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29bf1b343025b%3A0x37d13e5344fb711d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.667260899999995,
+        "longitude": -70.2796801
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWwJDs_GbskwRHXH7RFM-0Tc",
+      "provider_id": "/g/11vxxdm6fy",
+      "rating": 2.8,
+      "reviews": 5,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "518 Forest Ave, Portland, ME 04101",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u201311\u202fPM",
+        "thursday": "5\u202fAM\u201311\u202fPM",
+        "friday": "5\u202fAM\u201311\u202fPM",
+        "saturday": "5\u202fAM\u201311\u202fPM",
+        "sunday": "5\u202fAM\u201311\u202fPM",
+        "monday": "5\u202fAM\u201311\u202fPM",
+        "tuesday": "5\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(207) 253-1591",
+      "website": "https://alltowncarwash.com/locations/l/portland/518-forest-avenue/4564640",
+      "extensions": [
+        {
+          "offerings": [
+            "Undercarriage cleaning"
+          ]
+        },
+        {
+          "amenities": [
+            "Car vacuum",
+            "Membership",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"The car wash is easy to access and works well.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIjyS395yVv3TOkq_GMEHZDjCnOGmLmnnHZsz2v69j1N6C4Fd5BHwy5teSdLHZQjYe-ExmkQVysAEUtLYXmTXkKsg4_ckZWAa1nAEEXsLdwQMlozi1NGxOIk_ufeoHkLpUiuVRkL4QKeaz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/i25kPHicHcTBboIwAADQL6qAgIlLPHSuUmMFO5UhF2JKB1LaMltE-EnP-5sle4f3-6qt7cyb47S1P6u0rlreG35nWlmu7Ixp6VSdAcwA48BDTAXcbJvx6C_DMX34p0T8FNEe4fyjWaskkkQqhXMzzR-LZePFi3WwKcN3PIyh5ceS4Jw2Fw7QUwqajgaisyWXTJ4ysTNVUDCRf8GrpyBCmSHlQPetnm5eHD2TrSj6b66xIN351qefggR0x6_TavBc1wX1_wyoP7pxSG8"
+    },
+    {
+      "position": 4,
+      "title": "Wash N Go",
+      "place_id": "ChIJKZCDE1easkwRhsaSgRPP-NM",
+      "data_id": "0x4cb29a5713839029:0xd3f8cf138192c686",
+      "data_cid": "15274185818912245382",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a5713839029%3A0xd3f8cf138192c686&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a5713839029%3A0xd3f8cf138192c686&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6869776,
+        "longitude": -70.3231933
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKZCDE1easkwRhsaSgRPP-NM",
+      "provider_id": "/g/1tnhxyfp",
+      "rating": 3.2,
+      "reviews": 126,
+      "unclaimed_listing": true,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "585 Warren Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9:09\u202fPM",
+      "hours": "Open \u00b7 Closes 9:09\u202fPM",
+      "operating_hours": {
+        "wednesday": "9:09\u202fAM\u20139:09\u202fPM",
+        "thursday": "9:09\u202fAM\u20139:09\u202fPM",
+        "friday": "9:09\u202fAM\u20139:09\u202fPM",
+        "saturday": "9:09\u202fAM\u20139:09\u202fPM",
+        "sunday": "9:09\u202fAM\u20139:09\u202fPM",
+        "monday": "9:09\u202fAM\u20139:09\u202fPM",
+        "tuesday": "9:09\u202fAM\u20139:09\u202fPM"
+      },
+      "phone": "(207) 619-0033",
+      "extensions": [
+        {
+          "offerings": [
+            "Undercarriage cleaning"
+          ]
+        },
+        {
+          "amenities": [
+            "Car vacuum"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Car came out clean and the service is simple and easy to use.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvz0XoRAVkRUe-MogozAqSXBHTzokXNiiGnJGLLKh621Dvzuv_kJq5bszhUEoaGKYIL8KcBpM0Vv7dx2mfuvy-VUwppm8P8W-9Sg_kPOa7trNuiPyvoS3UaGcsnNUl91LkXGU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UYm3A3icHcRRboIwGADgE1WKRkUTHzCaTkGGsjJ8MqyylhT6V1uq9oC7w26zZN_D9_sjrNVmGQSdmIw4AO-awTR3Bso2yo4Y9AHXBjGDTBDn2VHGW-dxBae4lCfaoANw8PGtqNZvHx5klbUtUXuSpomYjcON84O7yP1t-mW8oFuoSXLepVHC1vqASze_Psf99-BeqKQPrfsojz7RouAXmb_Xc3vPhjZ_OSgmtCbMqIx2izCVFaGrR4gxRuJ_htQflAtFrQ"
+    },
+    {
+      "position": 5,
+      "title": "Jiffy Car Wash & Detail Center",
+      "place_id": "ChIJI6ODA7aeskwRUFFG4L8z8GQ",
+      "data_id": "0x4cb29eb60383a323:0x64f033bfe0465150",
+      "data_cid": "7273370297397825872",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29eb60383a323%3A0x64f033bfe0465150&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29eb60383a323%3A0x64f033bfe0465150&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.627750299999995,
+        "longitude": -70.29460139999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI6ODA7aeskwRUFFG4L8z8GQ",
+      "provider_id": "/g/1tgwrw77",
+      "rating": 4.3,
+      "reviews": 199,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "396 Main St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 772-4423",
+      "website": "http://www.jiffycarwash.me/",
+      "extensions": [
+        {
+          "amenities": [
+            "Car vacuum",
+            "Free vacuums",
+            "Membership"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"They did an AMAZING job cleaning/ detailing & washing my car!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsdxC4o_V58Iv0UefCCL9YONM2o-VaGvduboQp_slkLSmhdzI4fG0qyfOKPS0w4mlHiAd4CN_11RWHl3hnoyM0UZ5TSYVYazwiSNafUlbDNM_ztt9WVNU5uBORFUG014Ebms5n=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DzKjwHicHcRdDoIgAADgE5FYuGVbD2ZmrcTK0NmL858mggVmecHO0G3a-h6-74cq1cmFpjE6m9RC1KzsZfnIBVclV5NctFrdSZBLIDXriE-N5cjiZSORhMZ894SkrGz7YMY-9qYChKn7LPpMnLpEsuYQtLQYd6hy4f1d-ftjAAfUsu3NKpCNE10_R1s2o1y8PUiuxiWIwzgdh1uA04qwbI29ZFTKjEJMjH7lnzfEhTpyslYafDnoEEJA_-eA_wBcTkR1"
+    },
+    {
+      "position": 6,
+      "title": "Crystal Clean Car Wash",
+      "place_id": "ChIJi0G7N3mfskwRFHJpNvm0qwA",
+      "data_id": "0x4cb29f7937bb418b:0xabb4f936697214",
+      "data_cid": "48331203470258708",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29f7937bb418b%3A0xabb4f936697214&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29f7937bb418b%3A0xabb4f936697214&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.633352599999995,
+        "longitude": -70.2590707
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi0G7N3mfskwRFHJpNvm0qwA",
+      "provider_id": "/g/11g1dvhb5t",
+      "rating": 3.9,
+      "reviews": 224,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "696 Broadway, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 536-1736",
+      "website": "http://crystalcleanme.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as veteran-owned"
+          ]
+        },
+        {
+          "amenities": [
+            "Car vacuum",
+            "Free vacuums",
+            "Membership"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Great car wash the water is always clean water.. prices are great\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE77AKmtdmSLJMcipak-Fxk6CvVJixYR5NVQvxaeef-chBq3bcg3tDM_ajOsr-pTh4rZBLqMYUKkkf-Mx8qVNMT-S-JK1jKEpoQE0tHd309a3gG9thHht6ymT4S83LMBtV2rEs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vMt-x3icHcTdboIwGADQJ_qkWuZfsgtwbAYojoEkemNYra1WaKHfHHtB32FvY-K5OP93hWjd0vOuio6kMfIqfpzouWlRtDjipvGkdcAdOC_4zHIdRLNZkDR4bIo0Zvxsaw3vg56ublV8HnZfL1mV34ZaiBNwFXb0m0uKb-xQXzauB1sqv9-Hacd220TrE7Bh3lUZK6GAOBlfksiaPCK4PlKyqKn8WKBaK5z-NaVfzGnKQqwmfeRef8eEEFDPObQPG45DsA"
+    },
+    {
+      "position": 7,
+      "title": "ScrubaDub Car Wash (South Portland)",
+      "place_id": "ChIJUy1Hp22ZskwRPgKvcqiMRFQ",
+      "data_id": "0x4cb2996da7472d53:0x54448ca872af023e",
+      "data_cid": "6072132852708737598",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb2996da7472d53%3A0x54448ca872af023e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb2996da7472d53%3A0x54448ca872af023e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.637416699999996,
+        "longitude": -70.3339179
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUy1Hp22ZskwRPgKvcqiMRFQ",
+      "provider_id": "/g/1trsxlr2",
+      "rating": 4.6,
+      "reviews": 433,
+      "type": "Car wash",
+      "types": [
+        "Car wash",
+        "Self service car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash",
+        "self_service_car_wash"
+      ],
+      "address": "425 Gorham Rd, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20138\u202fPM",
+        "thursday": "7:30\u202fAM\u20138\u202fPM",
+        "friday": "7:30\u202fAM\u20138\u202fPM",
+        "saturday": "7:30\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20136\u202fPM",
+        "monday": "7:30\u202fAM\u20138\u202fPM",
+        "tuesday": "7:30\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 772-1838",
+      "website": "http://www.scrubadub.com/south-portland-car-wash/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Undercarriage cleaning"
+          ]
+        },
+        {
+          "amenities": [
+            "Car vacuum",
+            "Free vacuums",
+            "Membership",
+            "Restroom",
+            "Towels"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Friendly, fast, and efficient car washing service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcRq9cZ1R9HGM5AuSkH3eQasdm_7Fw1AVfyKVkqBazN7tvoWIv3lgIHz7Im1QaW3tWINdMD8EH_Q755WL_sO4OqEsh6h_Osjc3G8ARzwr73i8H6SfWsMWfAd1OtSBGbf3W3gGX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TG0r_nicHcRNjoIwGADQEyE0HSyauKhRKVFAILHGDcECrfJT8auS4YJzhrmNiW_x_v-UMQ9Y2nar8ExqLdvqBdVT6N5UvZkJ3dnyAZYAC2x6jJKG7kQ6LMQFpQvmhy59ZQ3DVVJA2eVkNyJ6qn_3p2ZYF1NEzFvz4I1bGbCJBB1KCo4ND6Iy3HhblifEdfkhh_gnHrag5iqP4S6w79F0Gp8E3zw2z2oOIa9piWKTrf1rjTmW_nk1IsdxLPVdWP0HB-VDXQ"
+    },
+    {
+      "position": 8,
+      "title": "Portland's Ultimate Car Wash",
+      "place_id": "ChIJG30DS5qbskwR5iXNvlJmPlg",
+      "data_id": "0x4cb29b9a4b037d1b:0x583e6652becd25e6",
+      "data_cid": "6358632229468186086",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b9a4b037d1b%3A0x583e6652becd25e6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b9a4b037d1b%3A0x583e6652becd25e6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6819979,
+        "longitude": -70.2912663
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG30DS5qbskwR5iXNvlJmPlg",
+      "provider_id": "/g/11c5xsydgz",
+      "rating": 3.3,
+      "reviews": 54,
+      "type": "Self service car wash",
+      "types": [
+        "Self service car wash"
+      ],
+      "type_id": "self_service_car_wash",
+      "type_ids": [
+        "self_service_car_wash"
+      ],
+      "address": "798 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 775-1516",
+      "extensions": [
+        {
+          "amenities": [
+            "Car vacuum"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3EJ4hvjLfN9rOGbdUEjrtZ27nmSUCrQYDQ_G8QxfLl4Z3OCCBQq4LKSXCrIMzYD4HFoIf-dcmDmdwz42WOuOh8y-aaaLIQpqxd-TLBVdF9Mafc3Q3cNzi8maVKU_fH2ABxSITgA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fsGO-3icHcTbboMgAADQL6I6IZldsgcvtXWlOmLt7aVhILJOxAJdrX-4T9jfLNl5OL8_0rnBvnheJ-Gs1brtmpttDNO9a3o3Y1p57WABs8B60XtBvqIMLt6Q_L5gUcxNufzg9eJi3Cl47lVVJ4YcU3JehmQUuEMnWCZJTK4Ir6tDYvLNdEzRKtO5AJypVPH7hIJ9eStl-ACUUpyT4TpysMXxjmfzDRUMEsiK6TNUdLeuz2IVRPFY5ds2er0_-b4P5P8M9H-SQURF"
+    },
+    {
+      "position": 9,
+      "title": "Ultimate Car Care",
+      "place_id": "ChIJGTWdw_CaskwRKtfbb9WHxu0",
+      "data_id": "0x4cb29af0c39d3519:0xedc687d56fdbd72a",
+      "data_cid": "17133531183152092970",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29af0c39d3519%3A0xedc687d56fdbd72a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29af0c39d3519%3A0xedc687d56fdbd72a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6945769,
+        "longitude": -70.32245089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGTWdw_CaskwRKtfbb9WHxu0",
+      "provider_id": "/g/1v6qh6pn",
+      "rating": 4.9,
+      "reviews": 35,
+      "type": "Car detailing service",
+      "types": [
+        "Car detailing service"
+      ],
+      "type_id": "car_detailing_service",
+      "type_ids": [
+        "car_detailing_service"
+      ],
+      "address": "565 Riverside St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 773-1891",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Amazing low price!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOd5RIyDLTRDHMK0cagKIO0NHeV_RZCXg_GfvddbgOM6xNKRtcAHmsyEYAoho3-rlycWwva-JK6Pj3Sai31oWSNiKJg3CO4cYbeMvwMhZhomY1WE-DiNdM7vFkypPuyf1WvTLocg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/08gV7XicHcTRToMwFADQL-ooqc7ExAcypmxdC7JFZC8Lu3QtDrhk7Yr9RD_BvzHxPJzfH-PcZJ-jqDdsoRF1r-5W3QBHp0a3ABwiPVkCltgoKeT7Ncny9rHchHR3KNNMcAqN5pucykx9nMrj6lOf3i6-bc86F8tvyUsHSTbYsK4TNMjIrQ9Qzb4hW74svti-6ViM1V52fKvZKn-A-qyEn4U5GhzquFqTtJOtePKv1zAV93CJK3_YIeiXOaaUEvM_kPEP0URFrw"
+    },
+    {
+      "position": 10,
+      "title": "Portland Detailing",
+      "place_id": "ChIJ8_DIJmKbskwR2xsh2PxPm9Y",
+      "data_id": "0x4cb29b6226c8f0f3:0xd69b4ffcd8211bdb",
+      "data_cid": "15464041692883131355",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b6226c8f0f3%3A0xd69b4ffcd8211bdb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b6226c8f0f3%3A0xd69b4ffcd8211bdb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6909419,
+        "longitude": -70.2583349
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8_DIJmKbskwR2xsh2PxPm9Y",
+      "provider_id": "/g/12hqzzlsl",
+      "rating": 4.7,
+      "reviews": 47,
+      "type": "Car wash",
+      "types": [
+        "Car wash",
+        "Car detailing service"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash",
+        "car_detailing_service"
+      ],
+      "address": "275 Presumpscot St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20135\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20135\u202fPM",
+        "tuesday": "7:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 772-0769",
+      "website": "http://www.portlanddetailing.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"The car is always sparkling clean and they even clean my all weather mats!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_7WgRABcxM8ezkcGdQSQW63ELp5Xg_pox1fIEr7VxcLrDaSR98_IhMN-KKz1sb5k2_iWameZzfaqGhoNRI7Hl6EXk4igIF6_q2PhhY6AQF81X9jdZk-ajobIHsjhksi5dILZy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1R-CJHicHcRdDoIgAADgE5Fa-VNbD7Y0mebStjRfmCGBYkJiy7xgZ-g2bX0P3_fDhkGqtaa1bDGjQtCWPBXpsegG0g0zLO4alQpgBZTmHuOEuz6yM5q6WzweHDJxvK-SU5JZCy-SZk6RFKNxg15vn0cc9bvylK4cBNkhBmE4Gepq8jmqs_JOiulWPvZMxCm0g9bycr6sKfQt9JgfGbtYbuI7Rr5qqoKDshFXGKiGcVWbFYyK9-Zl6LoO2H8Muh89p0R1"
+    },
+    {
+      "position": 11,
+      "title": "Pristine Detailing, LLC",
+      "place_id": "ChIJMSXnKS2bskwRX_bonD3hoJU",
+      "data_id": "0x4cb29b2d29e72531:0x95a0e13d9ce8f65f",
+      "data_cid": "10781865162666735199",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b2d29e72531%3A0x95a0e13d9ce8f65f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b2d29e72531%3A0x95a0e13d9ce8f65f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6805436,
+        "longitude": -70.2885405
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMSXnKS2bskwRX_bonD3hoJU",
+      "provider_id": "/g/11h555t5rn",
+      "rating": 4.5,
+      "reviews": 57,
+      "type": "Car wash",
+      "types": [
+        "Car wash",
+        "Car detailing service"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash",
+        "car_detailing_service"
+      ],
+      "address": "955 Forest Ave, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 400-5868",
+      "website": "http://www.pristinedetailingllc.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The price was on point and they did it all in under 4 hours.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGF21Qt9TEkuLeI26yotXyPh_gdt8bpSPpYoaHq2eFwDWHL5pdmG8WS2qfDpc6FPolsUEx1afW3Q6XVsV5ERhbFfsG0sEUfp_RSstlFTESiunDlVPtIWwLdYTp-ckFk6t-B-ADjXA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PlR-83icHcTdCoIwGADQJ1r-RFJBF4abBRIzTe0qak5XLrf6PrEesUfobYLOxfl-FKKFpeNoNZ20xrRaDiCfwvQoe5wIc3daC0QAASfku7QLY-Z7KS5y2g2J3PrB22D15urU1ji_2IzbozlvHr5kY1Rukpmt7_G8zPxHE1kRMG40HOjLOzflNA2qAooZ3asLayB2gR4ae9pngJrlNLsOfaQLjttyTOpjbonoWBcgWZMwulXhavRc1yXqvyD9DxVhRak"
+    },
+    {
+      "position": 12,
+      "title": "EZ Clean Car Wash",
+      "place_id": "ChIJYUbxffuZskwR73BQF3J8bn0",
+      "data_id": "0x4cb299fb7df14661:0x7d6e7c72175070ef",
+      "data_cid": "9038298331638427887",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb299fb7df14661%3A0x7d6e7c72175070ef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb299fb7df14661%3A0x7d6e7c72175070ef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6467612,
+        "longitude": -70.3564292
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYUbxffuZskwR73BQF3J8bn0",
+      "provider_id": "/g/11y2hb_tt6",
+      "rating": 3.7,
+      "reviews": 105,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "959 Spring St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20138\u202fPM",
+        "saturday": "6\u202fAM\u20138\u202fPM",
+        "sunday": "6\u202fAM\u20138\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 346-0932",
+      "website": "http://facebook.com/EZCleanCW",
+      "extensions": [
+        {
+          "amenities": [
+            "Car vacuum",
+            "Free vacuums"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"There were two different car washes, touch free and gentle touch.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVq_jGMpLuqAkbFrze1Odcnnu0HwB67hqXRERSIaRUsbIbVBf0e7_ZMw0nsA1Xd6E_boc90h5mU9mZ9YXmDQoVzEUhA8PfOxI7MIBMcR8hzVoD6nCQW0l8BR97Of0NQntCIciZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uGh2RXicHcRNjoIwGADQEwEfMfJj4qIoYhMR6QQG2RCpharQgi1hwgXnDN5mknmL9_nlWg9qY1kdX5mtlG3HJsXeVArNhDap7K12UAZVhrLQ5Zy-UJSP1TOKh9M0old9eC_MTu5UiAmOc-C4fCxISL7wjWSqxnUeNMDcqoxnEArZxd0Jq1pSH_i6z_y-9K9Fv09lvoQZR96lSX6wG-MgpsTjSy73jtil39B5AfHdpIFzKvQO00e5nW0AMPj_1BB_bF1EAw"
+    },
+    {
+      "position": 13,
+      "title": "Every Detail - Ceramic Coatings and Paint Protection Film",
+      "place_id": "ChIJ29Q6kHabskwRYSkplDhylL4",
+      "data_id": "0x4cb29b76903ad4db:0xbe94723894292961",
+      "data_cid": "13732726751088945505",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b76903ad4db%3A0xbe94723894292961&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b76903ad4db%3A0xbe94723894292961&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6879115,
+        "longitude": -70.3168737
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ29Q6kHabskwRYSkplDhylL4",
+      "provider_id": "/g/11t1rb8mdk",
+      "rating": 5,
+      "reviews": 131,
+      "type": "Car wash",
+      "types": [
+        "Car wash",
+        "Car detailing service"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash",
+        "car_detailing_service"
+      ],
+      "address": "429 Warren Ave #10, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20134\u202fPM",
+        "thursday": "8\u202fAM\u20134\u202fPM",
+        "friday": "8\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134\u202fPM",
+        "tuesday": "8\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(207) 250-0017",
+      "website": "https://www.everydetailme.com/?utm_source=google&utm_medium=organic&utm_campaign=google-business-profile",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://app.urable.com/virtual-shop/OkQnnPVxrtx5g0fPtRHq?rwg_token=AE37R_iRMoGwIzPkqpH1wkKzcOG6HfLlGEsvRw7etN0DD-j5tqSG3x-1qfsqiKlIQrwvAT71tRcIBqmbXeVqu1zyFLPbtf1gng%3D%3D",
+      "user_review": "\"My car looked practically brand new when I picked it up.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwL28xfHAjpcPB7T3vq4jtIOLUbN5KLRJ3FM_-N3CgOI3gM5FtmqjKoZ3-IxKs10Fl5d3Gr3l9sPkX2SI1tULP18u_CLCI-CrtLrrEULsxZBwMVhzbzNm96smP_gANSjdlCp_U=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-_zba3icHcTdboIwGADQJ6qAHVOXeIGNaEep9YfFeENCYSVYKParg_iCPsPexsRzcf6ftXM9fHmervFEGaN0dYfKStO5qnMTaVpP9YAkIPAiwffXaD2w6Xz83UZNL8VqdsJ_t4_G0R3LCh4m7PCN4zRHHBO1o1ilYezaW5OYC0Z0TCDwYx2WeGOxXoC4nqdHGriMiWB-zwkjFBHrmLXrjMF4WQ3pT_0oHrxdfEIrchXxY1Nq0ufZcgh830f1e4m6F6rVQ1g"
+    },
+    {
+      "position": 14,
+      "title": "Care Clean Mobile Detailing",
+      "place_id": "ChIJmwOBxM0nyq4RmxXrJirdjSA",
+      "data_id": "0xaeca27cdc481039b:0x208ddd2a26eb159b",
+      "data_cid": "2345774154041202075",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xaeca27cdc481039b%3A0x208ddd2a26eb159b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xaeca27cdc481039b%3A0x208ddd2a26eb159b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6899383,
+        "longitude": -70.29523069999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmwOBxM0nyq4RmxXrJirdjSA",
+      "provider_id": "/g/11lp82tx46",
+      "rating": 5,
+      "reviews": 101,
+      "type": "Car wash",
+      "types": [
+        "Car wash",
+        "Car detailing service"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash",
+        "car_detailing_service"
+      ],
+      "address": "14 Eleanor St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6\u202fPM",
+      "hours": "Open \u00b7 Closes 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20136\u202fPM",
+        "thursday": "6\u202fAM\u20136\u202fPM",
+        "friday": "6\u202fAM\u20136\u202fPM",
+        "saturday": "6\u202fAM\u20136\u202fPM",
+        "sunday": "6\u202fAM\u20136\u202fPM",
+        "monday": "6\u202fAM\u20136\u202fPM",
+        "tuesday": "6\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 712-6833",
+      "website": "https://caredetailingcar.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "extensions": [
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"Very friendly staff and made my car look brand new!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoZY7OMFt5MvEOkPNr8Fsrt-Oa7zSwi654uW7IqEZUxY8mYbQEqWXrsadl7E5eK0uLHIW6ejbt1uVhrTaExbQx1EwlSs9SK20a9qcE2UrgxOYBEXiSW_SIkhVIeY69fGkkdoY3NmZqHnif=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fxhwP3icHcRBjoIwAADAF1WKCsgme9CkKHEFSVexXAzUSrFApS1C_KRnf2PiHOb94sbc9Y9l1Xw2KaUsa9ZrpqhsDWvNhMrGKu8aUA20tdxHiVgGMiNevAuMs3ugWOwjtQi0MiDOvSceKteZ96kXdig7jGTRkCJBXXpSOr_UHnLYFvZ_mzB12a0wdn_k6j9HY5GMNhpqrH28ncLc7yiaHlQ5xmSFThVOzzgU_Bgy4vrXtRAXSWZRk3Wbtrr-DjaEEPDvFLQfrPtH1w"
+    },
+    {
+      "position": 15,
+      "title": "Golden Nozzle Car Wash",
+      "place_id": "ChIJSxFsX_OYskwRK7ZEF-XR07Y",
+      "data_id": "0x4cb298f35f6c114b:0xb6d3d1e51744b62b",
+      "data_cid": "13174104116856927787",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb298f35f6c114b%3A0xb6d3d1e51744b62b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb298f35f6c114b%3A0xb6d3d1e51744b62b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6039293,
+        "longitude": -70.3669185
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSxFsX_OYskwRK7ZEF-XR07Y",
+      "provider_id": "/g/11g81dqbny",
+      "rating": 4.1,
+      "reviews": 182,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "284 Payne Rd, Scarborough, ME 04074",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20138\u202fPM",
+        "thursday": "7\u202fAM\u20138\u202fPM",
+        "friday": "7\u202fAM\u20138\u202fPM",
+        "saturday": "7\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "7\u202fAM\u20138\u202fPM",
+        "tuesday": "7\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(207) 219-8851",
+      "website": "http://www.goldennozzlecarwash.com/",
+      "extensions": [
+        {
+          "offerings": [
+            "Undercarriage cleaning"
+          ]
+        },
+        {
+          "amenities": [
+            "Car vacuum",
+            "Free vacuums",
+            "Membership"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Great customer service, easy and fast car wash.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHahctzu0GcKZHJx5VKVcQhTqj9KcV_OUE6YObGA0JLF4gNHSTPwWwD-mSfWlB3_mcdBo1Ivhdl7tJVq0bum2xG3Gs4Bm3ZcVx5XButQ53t-XvsRN1jCcRLoDjODLnwpdXNgfkG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eA5_v3icHcRRboIwGADgE1WKFY0mewBxRSAg6gr6YvQH2yCluBYhu6Bn2G2W7Hv4ft_CmE6vLKsRZMKV4k3V6-obVGuq1kxASYt3GoFG2nJ3SfZwg6sA89NjCtE5CEeHRQwycXzWywjYJf3azE_pjbo4jD9nPAkOx92QDz6Sh3veeOQiofSUvX2JslmYkD3xrZfTkRKqZ54kZ2CjU3i9yRxiUPHS-8Su17CPlV-nftwOXVkk_P6gH4ONMUbif0DtH0lZRJU"
+    },
+    {
+      "position": 16,
+      "title": "Simply Detailed LLC",
+      "place_id": "ChIJn2LOk3ybskwRuL9cnN8T_KU",
+      "data_id": "0x4cb29b7c93ce629f:0xa5fc13df9c5cbfb8",
+      "data_cid": "11960456561511153592",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29b7c93ce629f%3A0xa5fc13df9c5cbfb8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29b7c93ce629f%3A0xa5fc13df9c5cbfb8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6961156,
+        "longitude": -70.2893472
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn2LOk3ybskwRuL9cnN8T_KU",
+      "provider_id": "/g/11z8jvbkgh",
+      "rating": 5,
+      "reviews": 2,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "10 White Birch Ln, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4:30\u202fPM",
+      "hours": "Closed \u00b7 Opens 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "4:30\u20137:30\u202fPM",
+        "thursday": "4:30\u20137:30\u202fPM",
+        "friday": "4:30\u20137:30\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "4:30\u20137:30\u202fPM",
+        "tuesday": "4:30\u20137:30\u202fPM"
+      },
+      "phone": "(207) 317-6975",
+      "website": "https://simplydetailed.co.site/",
+      "extensions": [
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"My car looks extremely clean, and I loved the fresh aroma you added.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-HL6F5f6ZqlMrxik-qbxMZAA7X5ZVy7N8BWyk9ufhOJe-6sJXLdu-VVwr4xegYddYa64-Bp_6Vbzn0ZquG7VFA5VUvVrqRvUgREAhnuy9oNoT_jmvpnbmf8gHGhwLgFXunUzkOasjTkgc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TEgh_nicHcTdboIwGADQJ_oEMym6ZBc1GRiD6Ix0yI2RUtpZaIFSfnzJXe9tTHYuzt-v6PvGvDtOJd4WXGteMWtYR7XqmeoXVNcObwxQA8bBp_hL4hB2EQq8EmVtdeimHwltPh0yjP3Uy8jsx-vt9yw3thTHPQNk9mlUWCBk7FYT49eiuN7RCrbNDZH8qdystaFPAuyRZCBdex4Sfv7EQtl5o2N9uT3qoVF5Xa75LhRjxIPUquQpj3fzuEhOP8al67og_qegXrChSPY"
+    },
+    {
+      "position": 17,
+      "title": "Luxury Detailing Maine",
+      "place_id": "ChIJj1MM4h_eV2oR1QaLcP-I6TU",
+      "data_id": "0x6a57de1fe20c538f:0x35e988ff708b06d5",
+      "data_cid": "3884786784269960917",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x6a57de1fe20c538f%3A0x35e988ff708b06d5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x6a57de1fe20c538f%3A0x35e988ff708b06d5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.7020276,
+        "longitude": -70.2870433
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj1MM4h_eV2oR1QaLcP-I6TU",
+      "provider_id": "/g/11w90xb6h5",
+      "rating": 5,
+      "reviews": 45,
+      "type": "Car detailing service",
+      "types": [
+        "Car detailing service"
+      ],
+      "type_id": "car_detailing_service",
+      "type_ids": [
+        "car_detailing_service"
+      ],
+      "address": "18 Brook Rd, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:30\u202fPM",
+      "hours": "Open \u00b7 Closes 6:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20136\u202fPM",
+        "friday": "7:30\u202fAM\u20136\u202fPM",
+        "saturday": "7:30\u202fAM\u20136\u202fPM",
+        "sunday": "7:30\u202fAM\u20136\u202fPM",
+        "monday": "7:30\u202fAM\u20136\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(207) 807-6770",
+      "website": "https://app.urable.com/virtual-shop/IQlYjZyF1i2XilEiEKB5",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://app.urable.com/virtual-shop/IQlYjZyF1i2XilEiEKB5?rwg_token=AE37R_jgI42ZAUxhWeImEABqywo_F5VobfnthuZ3MkDfoMMeKPTr7GEhqJrVq4c1z0p0fWijuhmZC6QMMz59Bs8R6okc7QqVUQ%3D%3D",
+      "user_review": "\"My car looks brand new \u2014inside and out.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERjeHNP8k2XyBCwxnFlx0CIJWb9iaY4Bc_UiP_XFykcBhAMarbTH6z94FsKfIpiag0kuVa8RyV86zcPehdvWTkmLJVs8lM8Ybz2z6HOgwa09tQrm3lWWTA3suiBdxW0xA2O9pwlTONtcRR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OooMkHicHcTbboIwAADQL0I6MKQs2UMhEtQJSJDqkym1tthyCS3j8pN79m-W7Dyc968wpteftq2Eu-FdxxUbNRto1xrWmg3tGpv32qLa0jbKkrNEu_zF4iSD0rkuQTjNbaRmEO4PuPJrctsG9H6ps_s1WiQNBDqRoSpib_W3kT4-931NOJBjSWC-lNBbacbE4wcXsvk-lBqqE7xVq7N6cconAnxzHhpXYVwgV4918JgxmJGT-v2kijQxNM-_pg8AgCX-p1b7B9Y1SCs"
+    },
+    {
+      "position": 18,
+      "title": "Circle K | Car Wash",
+      "place_id": "ChIJB3pGUWufskwRXqfOFyAoNCA",
+      "data_id": "0x4cb29f6b51467a07:0x2034282017cea75e",
+      "data_cid": "2320523826306131806",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29f6b51467a07%3A0x2034282017cea75e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29f6b51467a07%3A0x2034282017cea75e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.629546999999995,
+        "longitude": -70.29382
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB3pGUWufskwRXqfOFyAoNCA",
+      "provider_id": "/g/11kps_2j93",
+      "rating": 3,
+      "reviews": 2,
+      "type": "Car wash",
+      "types": [
+        "Car wash"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash"
+      ],
+      "address": "327 Main St, South Portland, ME 04106",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(207) 842-2900",
+      "website": "https://www.circlek.com/store-locator/US/south-portland/327-main-st/4707018?utm_source=google&utm_medium=local&utm_campaign=google-local",
+      "extensions": [
+        {
+          "amenities": [
+            "Membership"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPLts2BHr9e-WT_zlSyeFtSDXGJx6E7OuaAYU8hVhK-2LXbAbTZS7P2ZHQ2dpe5FP2xKOag5YMro8hM-bjfusWeMTw3Z3DD0luVhW5LvZmwepsWFezR5NNgSMKWhpVrp5YYvUW=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tZ61fXicHcRLDoIwFADAE1WwpP4SFxhEIh9RkAobI_hso0gbWkS9oGfwNibOYr4frrVUM8OouTVgQrAaOgVtJRoNjR5U4m4wqVClkDLsONrebC8OtMILr50CounxXScvcHXiHFbr52g53nQnO99PeMZ9hINDaZdpkYxjXHhbfJZA3Bg__c2JkTxsxYSHqLxeOkUhTHursBzHrLuMUxI8insPUlEX3jsSRSwJfcpl1kqS5489nfdD0zQR_1-h5gcWykRv"
+    },
+    {
+      "position": 19,
+      "title": "Tom & Jerry's Car Wash",
+      "place_id": "ChIJPy8lskOaskwRXwKSulsTUf4",
+      "data_id": "0x4cb29a43b2252f3f:0xfe51135bba92025f",
+      "data_cid": "18325449643440341599",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cb29a43b2252f3f%3A0xfe51135bba92025f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cb29a43b2252f3f%3A0xfe51135bba92025f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.680106099999996,
+        "longitude": -70.3427066
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPy8lskOaskwRXwKSulsTUf4",
+      "provider_id": "/g/1tjdqybs",
+      "rating": 4.3,
+      "reviews": 89,
+      "type": "Car wash",
+      "types": [
+        "Car wash",
+        "Car detailing service"
+      ],
+      "type_id": "car_wash",
+      "type_ids": [
+        "car_wash",
+        "car_detailing_service"
+      ],
+      "address": "307 Main St, Westbrook, ME 04092",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "8:30\u202fAM\u20135\u202fPM",
+        "sunday": "8:30\u202fAM\u20135\u202fPM",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(669) 226-8796",
+      "website": "http://www.tomjerryscarwash.com/",
+      "extensions": [
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "book_online": "https://www.google.com/maps/reserve/appt/place/ChIJPy8lskOaskwRXwKSulsTUf4/mid/%2Fg%2F1tjdqybs?sourceurl=https://www.google.com/search?gl%3Dus%26hl%3Den%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sf-kLFrSI75sOhiMO1fgv_OMo1LgW0vw:2!2s1i:0,t:11886,p:f-kLFrSI75sOhiMO1fgv_OMo1LgW0vw:2!7e81!12e5!17sf-kLFrSI75sOhiMO1fgv_OMo1LgW0vw:40!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26tbm%3Dmap%26q%3Dcar%2Bwash%2Bin%2BPortland,%2BME",
+      "user_review": "\"Decent rates car is clean always\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4BUJ-XuKPJskOMOnZfUIzTcX3hG4jgps-UxED-E7c5hw52TSaYYOVpQbpG7lTA8kByw-wfGmmhjmHIbw_7rRCsvieBo828hnrGwYMYtuosmI4Y9q7M24jcQbZMrm12M5W8WtL7A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/T0dxqnicHcpRboIwAADQE9UiQopL_ICNMNQOURjUn2U0SAXaMlqsekOP4G2W7ed9veeDaT2oFwh7tpg1UjZ9Pal6pFLoWugZlRw2gwJUAQX93Ufa-aET5GtQTpvdWnUJTsTxlMf3jJYLFjntX86v4RsIEXWZce3s8E1I8jmk1RChPvO9LrgZYE4R56zl73FlvtC4f1WXcx1Iz_aYGCNDMNGTVDx2yPIHYdtpaVod8cjnNnYLr9Bb5K_M3LIswP6lQPwC0fZFAA"
+    },
+    {
+      "position": 20,
+      "title": "Prestige Tint & Detail | Coatings, Window Tinting & Paint Protection Film",
+      "place_id": "ChIJhw4hF2WHrUwRuUAF3felmJU",
+      "data_id": "0x4cad876517210e87:0x9598a5f7dd0540b9",
+      "data_cid": "10779548192094896313",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4cad876517210e87%3A0x9598a5f7dd0540b9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4cad876517210e87%3A0x9598a5f7dd0540b9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 43.6867342,
+        "longitude": -70.2907371
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhw4hF2WHrUwRuUAF3felmJU",
+      "provider_id": "/g/11l3p4lckc",
+      "rating": 4.7,
+      "reviews": 337,
+      "type": "Car detailing service",
+      "types": [
+        "Car detailing service",
+        "Vehicle wrapping service",
+        "Window tinting service"
+      ],
+      "type_id": "car_detailing_service",
+      "type_ids": [
+        "car_detailing_service",
+        "vehicle_wrapping_service",
+        "window_tinting_service"
+      ],
+      "address": "43 Morrill St, Portland, ME 04103",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(207) 857-7380",
+      "website": "https://www.prestigeautodetailingllc.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://orbisx.ca/app/booknow/VSSSW?rwg_token=AE37R_jZYi5m-6CbC9CRwhjF_Bpn8btvaOE8_zi7LEDo9HjTFIkQbS30nkHn0IFznSDLo2rmPgZ5qoKQoIvVnbD3ckusWHCjFw%3D%3D",
+      "user_review": "\"Cleaned my car perfectly and great time.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHLWmPUGlKw1ZLmDkeidviz8zPjY4S6OmgFxff4G_xa0ZJFCPNfrft8ii4YXZ_SJtLWZW9ZN7CYmhmOSO097xlvKkY17MeeSw-3G4HonknAAzcFz1jDQidZV9tgv3uy4bw1ZQctw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/b-TDDXicHc1dDoIgAADgE5E4WWZbD66mrcyfuTJ5aUWIpEALUvOGHaHb1Hr5Xr_PuzbmrueW1dbOhCnFWvrU9EGUNFSaCVHCYncNiAba8tM4a_xwHRUi3YfttrdxJFYN5deOj7MxvZUonyaCBUNVofA0nCHeBMs0rh6VmXGOyiM-5RsTFbjwcOwuS1GLJE-g5w5tt21K291RmvfACdFayUb6_kiC0b6tMn7FB8-wznm-0OXXZsT0i96GEIL6LwHyCxrxRfc"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=car+wash+in+Portland%2C+ME&start=20&type=search"
+  }
+}
