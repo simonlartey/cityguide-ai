@@ -1,0 +1,16 @@
+# ── CityGuide AI Config ──────────────────────────────────
+# Rename this file to `local` and fill in your values.
+# It is gitignored — your secrets stay private.
+
+# Your SerpApi key for scraping Google Maps data
+# Get one free at https://serpapi.com/dashboard
+SERPAPI_API_KEY=your_serpapi_key_here
+
+# Your LiteLLM API key
+LITELLM_API_KEY=your_litellm_api_key_here
+
+# LiteLLM base URL (host where your LiteLLM proxy is running)
+LITELLM_BASE_URL=http://litellm.colby.edu:4000/v1
+
+# LiteLLM model name
+LITELLM_MODEL=qwen-3.6-27b
