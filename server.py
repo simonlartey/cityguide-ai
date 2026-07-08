@@ -10,8 +10,11 @@ Usage:
 """
 
 import json
-import re
 import os
+import re
+import threading
+import time
+import webbrowser
 from pathlib import Path
 
 from flask import Flask, request, jsonify, render_template
@@ -272,4 +275,12 @@ def ping():
 if __name__ == "__main__":
     print(f"🤖 CityGuide AI loaded {len(places)} places")
     print("🚀 Running at http://localhost:5000")
+    
+    # Auto-open browser on first run (not on debug reloads)
+    if not os.environ.get("WERKZEUG_RUNNER"):
+        def open_browser():
+            time.sleep(2)
+            os.system("open -a Google\\ Chrome http://127.0.0.1:5000")
+        threading.Thread(target=open_browser, daemon=True).start()
+    
     app.run(port=5000, debug=True)
