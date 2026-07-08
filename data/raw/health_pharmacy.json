@@ -1,0 +1,1754 @@
+{
+  "search_metadata": {
+    "id": "6a4e587d9a1f2c530d4a5178",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/V0i9Q2z2sEZyyJdI_uI3fw/6a4e587d9a1f2c530d4a5178.json",
+    "created_at": "2026-07-08 14:02:37 UTC",
+    "processed_at": "2026-07-08 14:02:37 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+pharmacies+in+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/V0i9Q2z2sEZyyJdI_uI3fw/6a4e587d9a1f2c530d4a5178.html",
+    "prettify_html_file": "https://serpapi.com/searches/V0i9Q2z2sEZyyJdI_uI3fw/6a4e587d9a1f2c530d4a5178.prettify",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best pharmacies in Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best pharmacies in Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Brooklyn Pharmacy",
+      "place_id": "ChIJZwoEq3sKlVQRNNC7NGWq438",
+      "data_id": "0x54950a7bab040a67:0x7fe3aa6534bbd034",
+      "data_cid": "9215396614183309364",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a7bab040a67%3A0x7fe3aa6534bbd034&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a7bab040a67%3A0x7fe3aa6534bbd034&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.500499399999995,
+        "longitude": -122.65436349999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZwoEq3sKlVQRNNC7NGWq438",
+      "provider_id": "/g/1tgnrcd_",
+      "rating": 4.8,
+      "reviews": 255,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "3131 SE Milwaukie Ave, Portland, OR 97223",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 234-8348",
+      "website": "https://brooklyn-pharmacyrx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Brooklyn Pharmacy is locally owned and provides excellent customer service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLSRvMSpOvo3kjgxVqx9vyFfoTKYGbLVpSRm50UJm1VJqQHO_xSrqU3cgT5T-L3_QyCe06TWAFI-Tbv55Td-qcSsFF-dCGv4VGieYTKhUI2sdCPphGjJ2bXr93bqgoh8YP1Ip5DFbs2MPw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dXiTD3icHcTBboMgAADQL6KizGVdsoNxwWrtqgVdPTUBGaytAuKo_cqd9zdN9g7v71fNs3GvQXBVaCW1llfx48TE9TiLcV5xPQTSOMAdcEFSfdSXBJfk4HfE7L1Gl7NcWrus_R1_abrtMla2hhyGGDbFELaFrTf700Im2yAuaUxBiU71PRXwmX4mOAeU-TimPbCcOIxBn2b-qc2-RUe3qskj16eVUdm5iNhxWiNmpVYvXRXmJn7HzEW76vZ2CyGEQP3PwfgAoR9GqQ"
+    },
+    {
+      "position": 2,
+      "title": "LECARE Pharmacy",
+      "place_id": "ChIJOe0ck3ehlVQRZr7CHQlB0hc",
+      "data_id": "0x5495a177931ced39:0x17d241091dc2be66",
+      "data_cid": "1716505915391393382",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a177931ced39%3A0x17d241091dc2be66&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a177931ced39%3A0x17d241091dc2be66&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.534808999999996,
+        "longitude": -122.62044909999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOe0ck3ehlVQRZr7CHQlB0hc",
+      "provider_id": "/g/11nfq1b9vq",
+      "rating": 4.8,
+      "reviews": 259,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "1619 NE 42nd Ave, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(971) 358-6888",
+      "website": "https://www.lecarepharmacy.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Amazing locally owned pharmacy, always quick and friendly!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTembdNyiVTbK8--PVaUFALFEP9RHkZOe-O-zuofUmdMYOevkpd3cKBjHVxAk2Kr4zjHyBqqp_XT1qSW8HrCup3I8ESY5ksxA23f6VhLYnHsBVUL0PvbytjZvZRXhjHfiHZTXnEw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8hXop3icHcRRboIwAADQE1VQtgWX7KMskC6gMIUO-FlGKVQqbaEFxRt6BG9jsvfxHndmjNLvlnVmzqqVsj3TSdORSGGoMCsie6tVGhANtAWT_TeHQUr7qt4vJ5xWoQtAgv-yAEaBn2wPiJcxBTG4TbLJ-npXxHTmqnZI6HUIXyHfhOPLrUOLNwzqN0_Xw_HHRePnpJwv1z8Wr1xf4cZp3jCLCoG0h7PITuZqMV05l4ecdag5oTLNhX_5uKxt2wbsfwLEE_CdRd4"
+    },
+    {
+      "position": 3,
+      "title": "Fairley's Pharmacy Inc",
+      "place_id": "ChIJoTHMAEmhlVQRQMLMBDUOs5A",
+      "data_id": "0x5495a14900cc31a1:0x90b30e3504ccc240",
+      "data_cid": "10426693183169413696",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a14900cc31a1%3A0x90b30e3504ccc240&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a14900cc31a1%3A0x90b30e3504ccc240&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.548333299999996,
+        "longitude": -122.5886111
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoTHMAEmhlVQRQMLMBDUOs5A",
+      "provider_id": "/g/1tdrf25h",
+      "rating": 4.2,
+      "reviews": 164,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Coffee shop"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "coffee_shop"
+      ],
+      "address": "7206 NE Sandy Blvd, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135:30\u202fPM",
+        "thursday": "9\u202fAM\u20135:30\u202fPM",
+        "friday": "9\u202fAM\u20135:30\u202fPM",
+        "saturday": "9\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135:30\u202fPM",
+        "tuesday": "9\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(503) 284-1159",
+      "website": "https://fairleyspharmacy.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Pride of ownership: helpful professional pharmacists, kind efficient staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtbU0u4m3tQT_sNaePYIxxMlKo3JGnAePOa0G7IUUOmR0OFVHbNUTcbo0buiXK8jdcYpkzz6MZvfWDyPrJYQZ3a2FTwV-ysyCUwpzA-At6IzU8MxUdN6AMwlJsfiIZcQkQ_W2uQA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/N0H8eXicHcRJDoIwAADAF1UqGDQmHhoNCoalhoJwMVAKKEsJLbL80Cf4GxPnMN9PKWUn9opSl9qq4Lyo2SBYT3krWStXlDdK0QlABRAK8hxcIUOmBA6bRpPYfwgnYV5kTpNdX7lmnVvEPDeB561JiNvcoGsEl9QhPk05TIfn_bp7ZTTqqmXR7fidh6fZ660Ix1qiGv4YgFnMRzJ2CwJI6uZCdvZEMkdH9lhbIn-aMcUVfoTqgNFhXEMIQfmfgvYHGwNF_A"
+    },
+    {
+      "position": 4,
+      "title": "NewEra Pharmacy",
+      "place_id": "ChIJDXYADTEKlVQRu467f4VyG6c",
+      "data_id": "0x54950a310d00760d:0xa71b72857fbb8ebb",
+      "data_cid": "12041343946404368059",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a310d00760d%3A0xa71b72857fbb8ebb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a310d00760d%3A0xa71b72857fbb8ebb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4899427,
+        "longitude": -122.6524247
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDXYADTEKlVQRu467f4VyG6c",
+      "provider_id": "/g/1tdcr74z",
+      "rating": 4.4,
+      "reviews": 111,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "1286 SE Holgate Blvd Ste. C2, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 222-4822",
+      "website": "https://newerapharmacy.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Their compounded meds arrive promptly, work well and are affordably priced.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJp6BjsZO4afftEHkXv-ghdAUyJdS7ayNFA75kxQUKXG0Suq7E-2KpEBqUWNC6fw4qazlUvaa6biEQU9s7UH7ApJi_muSDiCAEX7EgfZ1K0uU26A2_OsDf3Ut-ATF2dL9L2tCF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2DqNNHicHcRdDoIgAADgE6FEJautBzLMabOcsVwvjVTQNMXA_i7YGbpNW9_D9_2Uxig9t-2mHFuy62RTDLq4ZV1ritZYWXe1pdIg00DbZBfFNfEC5Swv-ridcCEM9ev0DmSZE_YK8gTzV-QRPK2fMQvTNUyGHlOAQkWXPTtEriMek56_G3bn3DlXNGYzjZmPiQqq03VIVpVLaIqpFMdRCAeGHIJOW70SY2YA2Xso38w2yLje4jGCEILyfwbaHwYaQrI"
+    },
+    {
+      "position": 5,
+      "title": "Lloyd Central Compounding Pharmacy",
+      "place_id": "ChIJhzTbraiglVQRI-KsqrFZGPw",
+      "data_id": "0x5495a0a8addb3487:0xfc1859b1aaace223",
+      "data_cid": "18165367716606435875",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a8addb3487%3A0xfc1859b1aaace223&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a8addb3487%3A0xfc1859b1aaace223&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5348336,
+        "longitude": -122.6387352
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhzTbraiglVQRI-KsqrFZGPw",
+      "provider_id": "/g/1tdqzf99",
+      "rating": 4.3,
+      "reviews": 130,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "2606 NE Broadway Ste b, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 281-4161",
+      "website": "http://www.lcrx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Great staff, great compounding pharmacy.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEasOhfWQ5v660XzBzUfXjYiM3-x7MRZMN29YJfkjit4zPLYsr62d6i-np079EdXZF3DR-_mxfhH5U1G5E4rYzxFwaaxbSzhIBFOdBFAfBiDpLDKn4jUJ92N086Nc8aL5K9EeuWJw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/O3Yr43icHcRJDoIwAADAF1XKVsTEAwRQEXALEbwYLJSCWgitQvpDn-BvTJzDfD9UiJ4vFOVB9VnddfWjevFqwB0TFRMz3D2VuucAc8AVZ58c7o5f8B0l54P5Rghm0pUpydq8iXUwWfHxEieanYfk3jbCkPso5wPSStQA1kPL9svsEujeEVyfE6FrM1VXpm8MuZyCsSim20nSjRvsSjdwiNt4feRtmdGmoa0lcI4SPC8ic2v71escjstRhRAC-h8D9gNzxENr"
+    },
+    {
+      "position": 6,
+      "title": "division pharmacy inc",
+      "place_id": "ChIJVVVVVcahlVQRn2mAcqlpKTE",
+      "data_id": "0x5495a1c655555555:0x312969a97280699f",
+      "data_cid": "3542478758395013535",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1c655555555%3A0x312969a97280699f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1c655555555%3A0x312969a97280699f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5334321,
+        "longitude": -122.5573075
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVVcahlVQRn2mAcqlpKTE",
+      "provider_id": "/g/11kh1_h0l8",
+      "rating": 4.9,
+      "reviews": 38,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "10240 NE Halsey St, Portland, OR 97220",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u201312\u202fAM",
+        "thursday": "10\u202fAM\u201312\u202fAM",
+        "friday": "10\u202fAM\u201312\u202fAM",
+        "saturday": "12\u202fAM\u20131:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u201312\u202fAM",
+        "tuesday": "10\u202fAM\u201312\u202fAM"
+      },
+      "phone": "(503) 261-0303",
+      "website": "https://www.divisionpharmacy.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Great people, wonderful personal service for prescriptions and vaccines.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlIpMDbEleab5YjZ-d8oRI_RTqYhoq13pf1YdyZy1XOHQlRgDYtXqI5f4CQrmY4fMcLObsblKyeIi-jG2q59Rg1_y40EqpA6oXg4tbbj5a-lugEOSp4gkOTGtJC4l2M_zzX_tq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RNHFznicHcTBDoIgAADQLyIlsVVbB1fOrMy0DtLFBSFmJCC4pj_YN_Q3bb3D-35qa5VZOo6ovQmXkgvWG9ZR2VrW2gmVL4crA6gBxglOx-wZRCJWyYaEgt2Ij5sruM9lHpf5ReNaauipCuL7cB1gkW4zkfMNtoWO_Qqts-6FUZXQQ0oMEfuBxQ_QRFPtL3IOywG5oVbBTBYcWUIa_wZEz8P0rBB_ppfI7tZITJNyHIvS6tUbuq4L6v8UtD9-Z0UY"
+    },
+    {
+      "position": 7,
+      "title": "Gateway Medical Pharmacy | Long Term Care and Compounding Pharmacy",
+      "place_id": "ChIJgZ6EI3KhlVQRbDat8ms6eU0",
+      "data_id": "0x5495a17223849e81:0x4d793a6bf2ad366c",
+      "data_cid": "5582557448409790060",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a17223849e81%3A0x4d793a6bf2ad366c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a17223849e81%3A0x4d793a6bf2ad366c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.531033,
+        "longitude": -122.562626
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgZ6EI3KhlVQRbDat8ms6eU0",
+      "provider_id": "/g/1s047m038",
+      "rating": 4.3,
+      "reviews": 62,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Drug store",
+        "Health consultant",
+        "Health counselor",
+        "Medical clinic"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "drugstore",
+        "health_consultant",
+        "health_counselor",
+        "medical_clinic"
+      ],
+      "address": "1125 NE 99th Ave, Portland, OR 97220",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20135:30\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20135:30\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20135:30\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20135:30\u202fPM"
+      },
+      "phone": "(503) 254-7383",
+      "website": "https://www.gatewaymedicalrx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"This pharmacy is pretty good at filling my prescriptions in a timely manner.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG39DWXrW5H0Ksak0zQkoIKq0jEzZVcYdK8-6QkGwc_qc65tPQObJ1Q9vFPbNPvBPXRU1s28pqjZP-AS8694KOeja-GBT0qRrwLn4abpu_dXB-8a3zDj2dQnJa1ga2EGHPVS3r2kA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aYE6BXicHcRdCoIwAADgEy2npmjQg2JZGbX1o9aLzCmKq03dVPCGHaHbBH0P3_dTK9XKlaa9anNRCVG9ykGWPRVclVwtqHhrVSsBlUBqHjph5oWmGyRpn1g7GEnC4IyZ2EcdbDbzM6aPInKAjVk40ayjtqUQPucHHbvjFuUnNPoovdx1aTht1zwR8K6O7S6jc9kQEPo32F366ciXJG-HrEh94BBzDhqjwPxA9IoYm3CH4qvZG8xbTzqEENT_KeA_SB5DKg"
+    },
+    {
+      "position": 8,
+      "title": "Bowman's Hillsdale Pharmacy",
+      "place_id": "ChIJZdKtzgALlVQRYS0e37X04tM",
+      "data_id": "0x54950b00ceadd265:0xd3e2f4b5df1e2d61",
+      "data_cid": "15268034748708957537",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b00ceadd265%3A0xd3e2f4b5df1e2d61&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b00ceadd265%3A0xd3e2f4b5df1e2d61&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4785052,
+        "longitude": -122.69368879999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZdKtzgALlVQRYS0e37X04tM",
+      "provider_id": "/g/11_r_c__9",
+      "rating": 4,
+      "reviews": 67,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "6256 SW Capitol Hwy, Portland, OR 97239",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 244-7582",
+      "website": "http://www.facebook.com/BOWMANSHILLSDALEPHARMACY",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Friendliest pharmacy, always has my prescriptions and fills them accurately.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExpHkXePrFqOU6siEuvO5CnAvKYznIVljx9g0iRw5Hbo6RRBPdnz5drhVV_7XMZsRw98Ge3GfEISocV8mBF3yX_M05gunbpd4jSriih3jTNm_P_SjXTZgHS_iZ6n4YU6crzIbwfw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JuoQk3icHcTbDoIgAADQLzJppl22HqxZulaZljNf2EQEvICBRvmHfUJ_09Z5ON8P7ftOrUyzodaECEEaPCgskeA95v0EidYknTKQMpTphqdL7Xqvzq9THMrd43xzFPOG59necvd5uI88SJrqtSSARdr2c-FE0SYs-GgXkiYJnKfHTEV6udhja196QSxQsmg3O-udwiOwycDzrphVsWSMWtX11MIQxlV6zYgfQ5Y5fHa_OUiOQa5LvdZTAIBB_yOD_wBoc0bN"
+    },
+    {
+      "position": 9,
+      "title": "Credena Health Pharmacy at PPMC Plaza",
+      "place_id": "ChIJSRSts-CglVQR_SyvuvQi6EM",
+      "data_id": "0x5495a0e0b3ad1449:0x43e822f4baaf2cfd",
+      "data_cid": "4893199429637451005",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0e0b3ad1449%3A0x43e822f4baaf2cfd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0e0b3ad1449%3A0x43e822f4baaf2cfd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.526751499999996,
+        "longitude": -122.6116313
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSRSts-CglVQR_SyvuvQi6EM",
+      "provider_id": "/g/1wf21kvw",
+      "rating": 4.4,
+      "reviews": 84,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "5050 NE Hoyt St Suite 142, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 215-6296",
+      "website": "https://www.providence.org/credena-health",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Pharmacy staff is knowledgeable, efficient, and caring.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-A1RVxK7szgi723TWSpOD6jZBbsAMOgiS2NZ-vqpP757Bwpsofmx__gUegc1rZSy1eC6_zov0rkUYxYOwVhrq0OVBb_FUlBk-p3ZGNrKRMJhG9fuXddEOD_xJIekIu55m_Js-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g4SYvHicHcRLDoIwFADAE1WKBIkmLsBfxEhVBJVNE2ttlU9rHwh6Qc_gbUycxXw_sq41jCyrkE5PKCUK3gA3TFU1r-oeU6UlNCAGCCx_E21zf4Z8e5d2Kw_e4ub1nf0h1mQ6uGfBGfw1Ebe4H2Xo-dAbz_WCVoO6lh2lIuGC2SaLXzafDOhbPbHJk1N3Im0qzQOTNDjTeVIEOdJOtojMarcO5WJ4bY6Xy4xMaRcueb5sXLekIaBxa2OMkfzPUPUDX9dE8A"
+    },
+    {
+      "position": 10,
+      "title": "Capsule",
+      "place_id": "ChIJXYqf6OkJlVQRhhlID8jUmxU",
+      "data_id": "0x549509e9e89f8a5d:0x159bd4c80f481986",
+      "data_cid": "1557072051901569414",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509e9e89f8a5d%3A0x159bd4c80f481986&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509e9e89f8a5d%3A0x159bd4c80f481986&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.526224,
+        "longitude": -122.68311519999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXYqf6OkJlVQRhhlID8jUmxU",
+      "provider_id": "/g/11tdn__gnz",
+      "rating": 3.8,
+      "reviews": 28,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Delivery service",
+        "Drug store",
+        "Vitamin & supplements store"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "delivery_service",
+        "drugstore",
+        "vitamin_and_supplements_store"
+      ],
+      "address": "416 NW 12th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 483-5353",
+      "website": "https://capsule.com/get-started?utm_source=GMBlisting&utm_medium=organic&utm_campaign=portland-or",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "user_review": "\"Your prescriptions are delivered to your door within 12-24 hours for free!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJuHaMb2RYpH1PYTfyxjWV4LSq3xPRUS1cQ4z-pWLB4R63_JSqPBEe38mU7dR30bTX1e_f4IN4litwHOJneSogZRxCoYMSFKv1P6cD9nihl18nL0xoF0QKc-SuWHctM_db8hx_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TM0y73icHcRRbsIgAADQE2FBiKsmfuim62qrFHRd_WlWxKJWqEIVd0HPsNss2ft4v0_lXGtHQdAo3KuNqRvZWXkVRjupXU-Yc1C3FggLbDChy-w0eY-76Dut-qxoI0SL9f7hj_knSfgFe8o2HImM_IA2T6aEDXAZ8wudziQOz5uXHcOwWn8hWe7Jx5I0B3ePVrGW3NRb5l9NkfL54oboQLwN9UE1KNQJ9GYOs4UAvMsj4dJyV4XKl-M7ghAC9b8A-g_dK0N0"
+    },
+    {
+      "position": 11,
+      "title": "Walgreens Specialty Pharmacy",
+      "place_id": "ChIJBwr4MvUJlVQRSWuaorx_E2U",
+      "data_id": "0x549509f532f80a07:0x65137fbca29a6b49",
+      "data_cid": "7283305470546832201",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f532f80a07%3A0x65137fbca29a6b49&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f532f80a07%3A0x65137fbca29a6b49&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5315374,
+        "longitude": -122.6989761
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBwr4MvUJlVQRSWuaorx_E2U",
+      "provider_id": "/g/11f5tb49bl",
+      "rating": 3.6,
+      "reviews": 18,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Medical supply store"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "medical_supply_store"
+      ],
+      "address": "1215 NW 23rd Ave, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20131\u202fPM, 1:30\u20136\u202fPM",
+        "thursday": "8:30\u202fAM\u20131\u202fPM, 1:30\u20136\u202fPM",
+        "friday": "8:30\u202fAM\u20131\u202fPM, 1:30\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20131\u202fPM, 1:30\u20136\u202fPM",
+        "tuesday": "8:30\u202fAM\u20131\u202fPM, 1:30\u20136\u202fPM"
+      },
+      "phone": "(503) 937-4984",
+      "website": "https://www.walgreens.com/locator/walgreens-1215+nw+23rd+ave-portland-or-97210/id=21151",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"Time sensitive medicine was sourced after no other Walgreens had in stock.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGzctrDn4oDe7CYKwZqhjbbpFXtpAAJ7w92s0nyukBI2Oxwi1WgR4Gj5Afy7gIflo_xUl3tWs-ULpJah0bZ9lWt5p4GjCUmXw33i7hvem7w1uIwiqK2ix75d_aPig8zXdUo29d8ag=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JmTXGXicHcrRroIgAADQLyJRc2TbfaBazWr31t2c1ktTJKAQKDCsP-wT-ptaL-fpvJ7cOWPHQSB5PGBaM0k7S69EK0eVGxDdBsxYQCywAd78bs948SDuOlNDPaNoulv5_YWf6trMS2cwXiKfRhaqe3eeZNFf70VYsP_h4pTg4x2x7Cj1oc9l7AoL8rVZVhzW-1QWLjGfNM3b0sexQPxGW-TDLvPisopEj5LmUG0EGz3KJtdR2owq9uNDCCHgXwlQb2IoRnE"
+    },
+    {
+      "position": 12,
+      "title": "Walgreens Pharmacy",
+      "place_id": "ChIJLUz4HO2glVQRVCm-sNkl-Xc",
+      "data_id": "0x5495a0ed1cf84c2d:0x77f925d9b0be2954",
+      "data_cid": "8644982576617761108",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0ed1cf84c2d%3A0x77f925d9b0be2954&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0ed1cf84c2d%3A0x77f925d9b0be2954&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.516280599999995,
+        "longitude": -122.6215792
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLUz4HO2glVQRVCm-sNkl-Xc",
+      "provider_id": "/g/11cn95zldn",
+      "rating": 2,
+      "reviews": 59,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Medical supply store"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "medical_supply_store"
+      ],
+      "address": "940 SE Cesar Estrada Chavez Blvd, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM"
+      },
+      "phone": "(503) 238-6053",
+      "website": "https://www.walgreens.com/locator/walgreens-940+se+cesar+e+chavez+blvd-portland-or-97214/id=3890",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Drive-through",
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal",
+            "Naloxone"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"A decent pharmacy with good service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnEjREVMYpBw4MCB3dX2S8K7eM6BzKvBIhLecWO-d7he1sTSPPFEJBDcaqPXedLU-yA7t0pyILXbe7GpBjDY1mMsd07wbo0HD22NGIraVYNuSsFR3xaSOEn0RkKNyyxH6x5H4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mkLHBnicHcRLcoIwAADQE0XCp8ZxpgsiQSgfEVqFJYQMGT9JNLGAB_QO3qYzfYv3fnFjlF5b1oW7i0HK4cIemt2pFIYJs6Dyag1KA6qBtvwi3599IsipJIesUXj0sg12-9qpVgli2RI_k18c85TR4w70iDNbf1dFEZIvHND2VtSsT3_A7CMD1RyndcfQVuFT0NjXTPcQjZ2EUeA4-Ta-t4cmf1Q6LN2prXZEwPKc5PM8RcvpI_I-RxtCCPj_FIg_a_pChw"
+    },
+    {
+      "position": 13,
+      "title": "Safeway Pharmacy",
+      "place_id": "ChIJ2ZJnQxoKlVQRzMJnuK9VQBs",
+      "data_id": "0x54950a1a436792d9:0x1b4055afb867c2cc",
+      "data_cid": "1963663650734981836",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1a436792d9%3A0x1b4055afb867c2cc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1a436792d9%3A0x1b4055afb867c2cc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.515803899999995,
+        "longitude": -122.6848665
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2ZJnQxoKlVQRzMJnuK9VQBs",
+      "provider_id": "/g/12qh3whln",
+      "rating": 2.6,
+      "reviews": 112,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Drug store",
+        "Vitamin & supplements store"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "drugstore",
+        "vitamin_and_supplements_store"
+      ],
+      "address": "1030 SW Jefferson St, Portland, OR 97201",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM"
+      },
+      "phone": "(503) 205-1860",
+      "website": "https://local.pharmacy.safeway.com/safeway/or/portland/1030-sw-jefferson-st.html",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Pharmacy is always polite and fast in servicing me.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkpJdJplY5e3f--9_Pv2vVLJISgOGvxUM-obGrna5jiQmrQUUFZPi7pJ-qTJOOfkMd3VuiGKI5rdnZA13bzlBjw66RZj0GcxLlOQh2t31UoTErLxWLSni9z3zh4I2pNDxWRXG-9TN3eCWl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1YgTQ3icHcTbToMwAADQL-q4VGYw8QGdNlTGZYMxeTGudBTo2tp2jPCTPu9vTDwP5_7LrFXmyXE4g6tOyo7Tq6GaSGGpsCsiL06nDCAGGCfK02KM0KhwixX_DCg8AxB-5ZM_HRIc77sMTXO1BfKEtPgOhr646KKq3pu8f1QY_JQ4y87jtoWHa48-4kC3ook8eFr4y3Bbr3fN4CIyJzwrmG-hV8nyTSdznexFHy5wYQ-xr9LNXO-OCIRlCulrzZ9vnuu6gP1PgPgDiNFGwg"
+    },
+    {
+      "position": 14,
+      "title": "Northwest Compounders Compounding Pharmacy",
+      "place_id": "ChIJHZhTS-9ylVQRIVOMdvfVyVI",
+      "data_id": "0x549572ef4b53981d:0x52c9d5f7768c5321",
+      "data_cid": "5965534440251478817",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549572ef4b53981d%3A0x52c9d5f7768c5321&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549572ef4b53981d%3A0x52c9d5f7768c5321&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4582573,
+        "longitude": -122.79370949999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHZhTS-9ylVQRIVOMdvfVyVI",
+      "provider_id": "/g/12mkw7c1x",
+      "rating": 4.8,
+      "reviews": 334,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Pharmaceutical lab",
+        "Veterinary pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "pharmaceutical_lab",
+        "veterinary_pharmacy"
+      ],
+      "address": "8505 SW Creekside Pl #110, Beaverton, OR 97008",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 7:30\u202fAM",
+      "hours": "Opens soon \u00b7 7:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20137:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20137:30\u202fPM",
+        "friday": "7:30\u202fAM\u20137:30\u202fPM",
+        "saturday": "8\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20137:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u20137:30\u202fPM"
+      },
+      "phone": "(503) 352-3811",
+      "website": "http://www.northwestcompounders.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"The pharmacists are professional, kind, and extremely helpful;\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgT8ImXp5j63Q9w8D6bE0weOU_n84BczDHCh43MXD6iLlRb64xlNDZZRdvFZI9jAmXF4mKK6RbC1YxT7EmsjYVyH-6mzlvPm9I-3F6ptuPtb92OcNgyd32D1Pwpkm-xqM6MiEi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/owzcyHicHcRRDoIgAADQE5EaRtrWh4UuV5q6auZPm-RQA6Sg1C7YGbpNW-_jfT-11lItDIPVcEK7jrLqqaoH6YSuhJ6QjhtUKkAUUIaXxOnN8-nBCXkuZy2Cqds7GJW-2Vf740U49oq88WZd2zDKMWp2LCuRPbAYF0V2fQVF6LYezwObb7coK9fWeTjMfa7a82ncAMTf7JVwNwQwQFI_E1260z2J6XiFU2wlvbxxMNwjFDV-s-wt0zRB_Z8A8QOgyEL3"
+    },
+    {
+      "position": 15,
+      "title": "Safeway Pharmacy",
+      "place_id": "ChIJ_4LXdnuglVQRbRrVGAWlvJk",
+      "data_id": "0x5495a07b76d782ff:0x99bca50518d51a6d",
+      "data_cid": "11077910624734616173",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a07b76d782ff%3A0x99bca50518d51a6d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a07b76d782ff%3A0x99bca50518d51a6d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4969342,
+        "longitude": -122.6220118
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_4LXdnuglVQRbRrVGAWlvJk",
+      "provider_id": "/g/1tl1n4qq",
+      "rating": 2.9,
+      "reviews": 74,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy",
+        "Drug store",
+        "Vitamin & supplements store"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy",
+        "drugstore",
+        "vitamin_and_supplements_store"
+      ],
+      "address": "3930 SE Powell Blvd, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM"
+      },
+      "phone": "(503) 772-4445",
+      "website": "https://local.pharmacy.safeway.com/safeway/or/portland/3930-se-powell-blvd.html",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"The staff of this pharmacy are extremely helpful and professional.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECAdAUulDxaKhtgMbo9ShagQEc03k_Oj3qOWMGYfDORdVXL2kQL_PN3nJJ-ccl68r57X5oSScD8mBN1Lnixwr8zZW03Wu07ARNTiPH_8CiTS_HjCasoqj3JNlNC3C_ijy8rXndEVWn-uE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Vx76SXicHcTBboIwAADQL6rUNc5uyQ61kBmGBUSF7dKwgi1QW6UlOj_S-_5myd7h_T6U92f3GgRaoZm0Vup2cu0orPGt8TNhT4E8OyAccAHJWD6QiJKG7Ccd3uoP5eXm274UqpZ5JCAaeNqjS1pu3j-PYbptDlXyNOQJzxgycQyE0M94XCyrhS0KEeLTis0T092uI75_lRCVE1ySLdt12Zpj2u0Kvu5p7eylRzHTjCLKu_4Hj5VpokNpwBS9XecQQqD-F8D8AQpQRio"
+    },
+    {
+      "position": 16,
+      "title": "CVS Pharmacy",
+      "place_id": "ChIJXUPmMa8LlVQRrJHo1qWwTF4",
+      "data_id": "0x54950baf31e6435d:0x5e4cb0a5d6e891ac",
+      "data_cid": "6795000164116894124",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950baf31e6435d%3A0x5e4cb0a5d6e891ac&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950baf31e6435d%3A0x5e4cb0a5d6e891ac&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.523843799999995,
+        "longitude": -122.6845359
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXUPmMa8LlVQRrJHo1qWwTF4",
+      "provider_id": "/g/11fp8cqljc",
+      "rating": 3.9,
+      "reviews": 73,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "105 NW 13th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20131:30\u202fPM, 2\u202fPM\u201312\u202fAM",
+        "sunday": "12\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM"
+      },
+      "phone": "(503) 327-0233",
+      "website": "https://www.cvs.com/store-locator/portland-or-pharmacies/105-nw-13th-ave-portland-or-97209/storeid=11282?WT.mc_id=LS_GOOGLE_RX_11282",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=11282&postalCode=97209&rwg_token=AE37R_jW96qElMuFfXYVXxyyxJzixYIHFqZwiRIfyX5eNHe2Eu_tEPMgBn7uJ5fDx4GIOPfslprZ4q1bNohGytSZOEnZLce0LA%3D%3D",
+      "user_review": "\"Inventory and cleanliness!!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmevpEph2GIaNaxSGG5NE3N6uOb28xjQO0EMKvv0hKFVmCC3Rw_uR0raVNHD_tDXBwkxdUJ5LH7ongXF0hevKYqeJa74LEzH30sWb2vme0fxoI8Tf9DTklEUES1_mAE4isJay1BmRMrbU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oaYZqHicHcRNcoIwGADQEyEfoNV2pguUCILGiuLPigk0EgshlISAHtK9t-lM3-K9nkypRn6YZsWcUSFEUdFO0jYXtaK1GuWCm0UjjVwa0nS_8K50fU51gxpm-yuCybD3_QlGDn7rtpk9G352W0CbSGtg0fLIFwsn7tMuhpYcceClyjvP-3L4TsLJOpiKujgvgVEdXX5pSKbjNXoEDshTZmtO4TqI1exwffcOZYUStLdS7qLxTYbkbs15vGmz5LO3AMBg_-dG_QcOKkZB"
+    },
+    {
+      "position": 17,
+      "title": "CVS Pharmacy",
+      "place_id": "ChIJbWJiE0ALlVQRFTWqqodQhR0",
+      "data_id": "0x54950b401362626d:0x1d855087aaaa3515",
+      "data_cid": "2127194942616515861",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b401362626d%3A0x1d855087aaaa3515&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b401362626d%3A0x1d855087aaaa3515&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5108532,
+        "longitude": -122.68037059999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbWJiE0ALlVQRFTWqqodQhR0",
+      "provider_id": "/g/11j0_nw9pg",
+      "rating": 3,
+      "reviews": 107,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "345 SW Harrison St, Portland, OR 97201",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "11\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM"
+      },
+      "phone": "(503) 327-0234",
+      "website": "https://www.cvs.com/store-locator/portland-or-pharmacies/345-sw-harrison-st-portland-or-97201/storeid=11292?WT.mc_id=LS_GOOGLE_RX_11292",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=11292&postalCode=97201&rwg_token=AE37R_iJ_GJUsxNYZCdoAH3iEjOBanPVwR7v4lvzvltTCjyfD4iLn2xDCycA4udNvZVIJBPraTaSBvstardRa01YOQcXqUljzQ%3D%3D",
+      "user_review": "\"The pharmacy is good and always has our prescriptions in stock.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzfYLnmlmo4T9ORcY9K2yFV0m1r1cr2WlYOaccBzMOtgVl_tx9DHsonKRbdH3Lo9GexOxhgvPHClOVTyB_iFGOD-oHKUhcLxl27QqP2ez0ixcAVjRhin_48QacYZqKhtdjnZBA9hRhRt4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oBdZoXicHcTRToMwFADQL-oojGTWxAdwbiSghWZi2AuZd10vs7Qbrdrxkb77Nyaeh_P7g95f3H0UaVwulLVKy08nJ7DGS-MXYMdIXRwBR1yU1S_NR_Y0n7rKjHq06Y5xAR0rk9umpWM8xTAlb7rjB4B8fuZetbr3ga0LZ00p3o_FsrJsKwMPqL7q4lHzdnfL-2Gz5Wtii_IVoQo6WTXXOpEzHQJk7VngYPr0rjlAt7-W6I9ns88zhgKFTx--Y0opwf-BmD-63Ugt"
+    },
+    {
+      "position": 18,
+      "title": "CVS Pharmacy",
+      "place_id": "ChIJYTQjgxGklVQRyl91BeDxF-Q",
+      "data_id": "0x5495a41183233461:0xe417f1e005755fca",
+      "data_cid": "16435871309578461130",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a41183233461%3A0xe417f1e005755fca&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a41183233461%3A0xe417f1e005755fca&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.577075699999995,
+        "longitude": -122.56506089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYTQjgxGklVQRyl91BeDxF-Q",
+      "provider_id": "/g/1vm7b526",
+      "rating": 3.4,
+      "reviews": 46,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "9401 NE Cascades Pkwy, Portland, OR 97220",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "11\u202fAM\u20131:30\u202fPM, 2\u20135\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20137\u202fPM"
+      },
+      "phone": "(971) 230-1931",
+      "website": "https://www.cvs.com/store-locator/portland-or-pharmacies/9401-ne-cascades-pkwy-portland-or-97220/storeid=17551?WT.mc_id=LS_GOOGLE_RX_17551",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal",
+            "Naloxone"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "book_online": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=17551&postalCode=97220&rwg_token=AE37R_iWqNtbHFtty-qi78LZc4GulYlQuu4lCmahPgvQ-cr_B7D9b3wBf5hRo4TbUkLTw0QPQ9gR-GpYjDIdBtOcTcDzwWig2Q%3D%3D",
+      "user_review": "\"Chelsey the pharmacist is one of the most wonderful people to interact with.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhhG7wluYrAXRlxoTZHSUMEGpnr_Q6i-qAVteAOd5GlSyQWiT_7RqZ-zwkWpayGiaEBNIFLdtpNvjqifpqAF_ZHmXKn_xDej1cQzpTcWIYK97j5QjD10TD_mRLFzz3Yw4ga0aIm76BsUMj=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/i5ChQHicHcTNboIwAADgJ6qUOCVbskMNPxKVrYhDuDSkdpRa2kLrUF5yZ99myb7D9_zlzhn75nmSLxet1q1kN8tGqpVjyi2o7r3WWEAtsB76zPAVRZwnwSRv1YjOubzrot4eT4coMWokeN2BAX05hj4uq0QeH7jsChLkQw3m6Vqa5pF0TbTJ0nh_cSb7EUP3bQYUk3rbn3eK3EMmfIpnU9AyrXavgVhhEfqwCEmf7-N5XlbTS9vAJu2D9caeDuJ98iGEgP9PgfoDSPhInQ"
+    },
+    {
+      "position": 19,
+      "title": "Walgreens Pharmacy",
+      "place_id": "ChIJOxJERfYJlVQRPEPk_hOT-DY",
+      "data_id": "0x549509f64544123b:0x36f89313fee4433c",
+      "data_cid": "3961077586362385212",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f64544123b%3A0x36f89313fee4433c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f64544123b%3A0x36f89313fee4433c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5239032,
+        "longitude": -122.6947773
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOxJERfYJlVQRPEPk_hOT-DY",
+      "provider_id": "/g/11cn960cjb",
+      "rating": 2.3,
+      "reviews": 55,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "2103 W Burnside St, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "thursday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "friday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20131:30\u202fPM, 2\u20136\u202fPM",
+        "monday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM",
+        "tuesday": "9\u202fAM\u20131:30\u202fPM, 2\u20138\u202fPM"
+      },
+      "phone": "(503) 295-6480",
+      "website": "https://www.walgreens.com/locator/walgreens-2103+w+burnside+st-portland-or-97210/id=4495",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal",
+            "Naloxone",
+            "Passport photos"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"The pharmacy tech who took care of me just now was friendly and efficient.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwV1EHg_rCah2bJ7pOs16aWRnbE3yg74TcVi0aRx1DnkIb8Qj5yZaMkzmASMywa-YXq3HJs86st0RKwVhqUh45qR1CEoFbu-41aeKcZbu5dWRVmQf--zWvzxxWk0Q0GI6ahm6Y-Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WZ0OM3icHcTbTsIwGADgJ_pZ6w4QEy8WHG4Q0BbdgBvS1tnKWLvRjh3e0EfwbUz8Lr7fH-VcYx8976r8mTRGXsvOljdhtCu1mwlTe7KxICxYL37bkSpe9TlOUnm-LZl64Ot582pxxAqqeeKPch68i_wbMTrgZ11lfEEu4Xhi22qq4_127BkcD62fru0isg7RTZ-r9kMFYUvxMjEr3kGAWbkRJ96FnwXNa_IFMBX3aRiKChH0kkVM1dERyFOPEUKg_heg_wC9wESy"
+    },
+    {
+      "position": 20,
+      "title": "CVS Pharmacy Specialty Services",
+      "place_id": "ChIJ-c76XOUJlVQRI4jHFioxRsM",
+      "data_id": "0x549509e55cfacef9:0xc346312a16c78823",
+      "data_cid": "14070988142606256163",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509e55cfacef9%3A0xc346312a16c78823&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509e55cfacef9%3A0xc346312a16c78823&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5322217,
+        "longitude": -122.6990142
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-c76XOUJlVQRI4jHFioxRsM",
+      "provider_id": "/g/1thkwzz8",
+      "rating": 3.1,
+      "reviews": 56,
+      "type": "Pharmacy",
+      "types": [
+        "Pharmacy"
+      ],
+      "type_id": "pharmacy",
+      "type_ids": [
+        "pharmacy"
+      ],
+      "address": "1309 NW 23rd Ave, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 295-7941",
+      "website": "https://www.cvsspecialty.com/wps/portal/specialty?WT.mc_id=LS_GOOGLE_02819",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Medication disposal"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Love love love this place and so grateful to always get our meds on time!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEmrQovSATb9lyDndD8ru_xInG8IyvWTAfcpejg8ot3-_hqxSTyzLTSGJyhvzixQ5sGfnqqQEEQzfntiuvhnSCurvlMTUwN-5HzsI_EFZSc2YH81zO5Xc4NTNxvkzvbMEBkHzo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/L8kTPXicHcTbDoIgAADQL0Lt4mZtPViR2spi0Lq8uEUqpYIKkvKB_UN_09Z5ON8PU6qWc9su2cTKhcjLtJNpSwVXKVcWFZWd1xJQCaTtH2NU-LBqkdDYJ_dZOaz5Y-21XdJHPPCiQZ-Jn9E6feWeUBOQsKbHZDA7goPtwLR59siVQcabBkGITMbVs9OM41XX6nJPTu8YuKGRUQI3N0zH19AbmYN7odOYxL0ujL7v4bIIjVi8R47jAPafAv4DOxJHbQ"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+pharmacies+in+Portland%2C+OR&start=20&type=search"
+  }
+}

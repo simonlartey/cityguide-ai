@@ -1,0 +1,1962 @@
+{
+  "search_metadata": {
+    "id": "6a4e585c88aca40f0f017081",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/j2qm5qH9_GktXDz_ZfTqYQ/6a4e585c88aca40f0f017081.json",
+    "created_at": "2026-07-08 14:02:04 UTC",
+    "processed_at": "2026-07-08 14:02:04 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+gym+fitness+studio+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/j2qm5qH9_GktXDz_ZfTqYQ/6a4e585c88aca40f0f017081.html",
+    "prettify_html_file": "https://serpapi.com/searches/j2qm5qH9_GktXDz_ZfTqYQ/6a4e585c88aca40f0f017081.prettify",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best gym fitness studio Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best gym fitness studio Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Me Fitness Studios",
+      "place_id": "ChIJLSABqxCnlVQRaymECTpVZYQ",
+      "data_id": "0x5495a710ab01202d:0x8465553a0984296b",
+      "data_cid": "9540125093410384235",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a710ab01202d%3A0x8465553a0984296b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a710ab01202d%3A0x8465553a0984296b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5589624,
+        "longitude": -122.66181429999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLSABqxCnlVQRaymECTpVZYQ",
+      "provider_id": "/g/1tm8k926",
+      "rating": 4.5,
+      "reviews": 119,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Massage therapist",
+        "Personal trainer",
+        "Physical therapy clinic",
+        "Pilates studio"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "massage_therapist",
+        "personal_trainer",
+        "physiotherapy_center",
+        "pilates_studio"
+      ],
+      "address": "4943 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 7:30\u202fAM",
+      "hours": "Opens soon \u00b7 7:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20137\u202fPM",
+        "thursday": "7:30\u202fAM\u20135\u202fPM",
+        "friday": "7:30\u202fAM\u20131\u202fPM",
+        "saturday": "8\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20137\u202fPM",
+        "tuesday": "7:30\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 282-7900",
+      "website": "http://www.mefitstudios.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "online_classes": false
+      },
+      "user_review": "\"I really enjoy the open space, quality of equipment, and overall vibe.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkqsRK0HpMTX9_Xgh37_leR325YBwJWSHRvWCgI24BJ2Nu0NxrKI-bfSIOS198aT3qxVPYIIYgheWbjXXeI8LNEPWcXDUE4xxy1Dha1AnXny0uJ9ZUaE7Ub_dZ4TFwQWaT1BC_vFsI35Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PMv_m3icHcTNboIwAADgJ6q0FKMs2QEUQ3Fj_NrihUDt2kxW0ILgS-6-t1my7_D9_qhxHMyLZXUKr2Tfy05MRtx5r0ehxxXvvy05GMANMJaXxOnVC683kx1hOLwXzK2ZVHhTdyLD9rry54jmYfagO0lsx4_seILxcj8S0H7m5CNH7rYp8G05JRUhlVSCtl-MCbJ9i4OEcrYvA2dZnmivGuRppp9witxz2QSbsq0vZ6c4zCltCuTv6sfBELxOX2cEIQTqfw70H6lJRQw"
+    },
+    {
+      "position": 2,
+      "title": "Vive Fitness",
+      "place_id": "ChIJKRWyPdeglVQRuudYg8KAF_4",
+      "data_id": "0x5495a0d73db21529:0xfe1780c28358e7ba",
+      "data_cid": "18309244383013693370",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0d73db21529%3A0xfe1780c28358e7ba&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0d73db21529%3A0xfe1780c28358e7ba&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5370948,
+        "longitude": -122.6203166
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKRWyPdeglVQRuudYg8KAF_4",
+      "provider_id": "/g/11b5wk02p3",
+      "rating": 5,
+      "reviews": 108,
+      "type": "Fitness center",
+      "types": [
+        "Fitness center"
+      ],
+      "type_id": "fitness_center",
+      "type_ids": [
+        "fitness_center"
+      ],
+      "address": "1969 NE 42nd Ave, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u20139\u202fPM",
+        "thursday": "5\u202fAM\u20139\u202fPM",
+        "friday": "5\u202fAM\u20139\u202fPM",
+        "saturday": "5\u202fAM\u20139\u202fPM",
+        "sunday": "5\u202fAM\u20139\u202fPM",
+        "monday": "5\u202fAM\u20139\u202fPM",
+        "tuesday": "5\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 894-8981",
+      "website": "http://www.vivefitnesspdx.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "user_review": "\"His workouts are always really beneficial and informational!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1CQ_9NZSlWvH-ZygzawcXfeAOSgPvx17AlvVdx5lRbog3aS4I1SCPHtt2f68i778wkD6nrROBKOGZTv1FSQzFHIhWUJvXibAQDbsF1CMSqLZjYRNbOfJtnfgtTLPG96FkLdND=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CRYpJHicHcRLcoIwAADQE0WIWhBnuogwgEr5BYtl05EIQUkTNWlQLugZvE1n-hbv9eyUusilYbBuNqFCUNb8yuZGBFcNVxMifgx6kYBIIA2UxlmPAuhm305cYVbqEFQPOh4Gsm8blGCa6ju0EdOfx_sby2tBZwc8X0PspqFS09ZanGx7MfSexW95stomQVVo6ONs9MN1V-42en-qUebV0ofuB75G1fkrj-uk3SjeUlVEaeBYfh8dY-99gKZpgu5_AvgfPt1EFA"
+    },
+    {
+      "position": 3,
+      "title": "Lone Fir Fitness",
+      "place_id": "ChIJnVIU95WglVQR-mDGZUfLQ_8",
+      "data_id": "0x5495a095f714529d:0xff43cb4765c660fa",
+      "data_cid": "18393768810621853946",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a095f714529d%3A0xff43cb4765c660fa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a095f714529d%3A0xff43cb4765c660fa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5194835,
+        "longitude": -122.6364643
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnVIU95WglVQR-mDGZUfLQ_8",
+      "provider_id": "/g/1262p_vrk",
+      "rating": 5,
+      "reviews": 169,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Physical fitness program",
+        "Massage spa",
+        "Massage therapist",
+        "Nutritionist",
+        "Personal trainer",
+        "Pilates studio",
+        "Yoga studio"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "physical_fitness_program",
+        "massage_spa",
+        "massage_therapist",
+        "nutritionist",
+        "personal_trainer",
+        "pilates_studio",
+        "yoga_studio"
+      ],
+      "address": "2839 SE Stark St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20137\u202fPM",
+        "saturday": "8\u202fAM\u20134\u202fPM",
+        "sunday": "8\u202fAM\u20133\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(503) 345-9664",
+      "website": "http://www.lonefir.fitness/",
+      "extensions": [
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Extremely clean facilities, high end equipment, great location, good vibes.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeGfbdAJsyfHeqcC05h-3miMdlLVBnz9kSWlS6Cjhyk5oKMXPBnMvEpNUqfs67pdcMNozNkHBVhAAr8Cu83U-0qkrPiJtM-VBsL3Z3CpCm3krTsNs4V5TYZ0smhKEtMKY0jYfa=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AMKkrHicHcTdboIwGADQJ6rUdPizZBelMRKxDUbFwd0shWqhLXx1i76gz-DbLPFcnNdTh-DhM4o6TSatc22nbqBG6WxQNkyk66PWA5KAIKK52BmaqnVzrukG7k2qBslwrBHpL7zutkViH0uzP3X7Gbvqu4ldxr_zxPLflRfHoYHZ3NeSC_cQJk0KTem4YLcFOSI8mDG_bAJHRQJbUhHmWU_MeAABH0V8KCsMvc5WgWclvpbNz9ffFGOM9HuJ7D99C0Ss"
+    },
+    {
+      "position": 4,
+      "title": "Peak Performance - NE Portland Gym",
+      "place_id": "ChIJ63QyUt6mlVQRt-QgyPjO9GY",
+      "data_id": "0x5495a6de523274eb:0x66f4cef8c820e4b7",
+      "data_cid": "7418782054090859703",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a6de523274eb%3A0x66f4cef8c820e4b7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a6de523274eb%3A0x66f4cef8c820e4b7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.558951099999994,
+        "longitude": -122.6380251
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ63QyUt6mlVQRt-QgyPjO9GY",
+      "provider_id": "/g/1tcxpcw5",
+      "rating": 4.9,
+      "reviews": 267,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Athletic club",
+        "Fitness center",
+        "Yoga studio"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "athletic_club",
+        "fitness_center",
+        "yoga_studio"
+      ],
+      "address": "2640 NE Alberta St, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(503) 288-4500",
+      "website": "http://peakperformancepdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "outdoor_services": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Fantastic gym, great equipment, and very friendly staff would 100% recommend\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyMUtNPe5hLC7Ufqyo07II8280vTbUt0Exv3kGjsuYNwhaCs64koe4sDNs7rIOHkr7pq02n9YGM7m1UMnQU0R0BZbFO9NykANfCT4EYCjgDh4PFzFGuV0EP1nideOWIwnUv5u6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kjr6f3icHcRBjoIwFADQEyEfRasms0AEJJGCE6vBnWKlWm2RX0C8oGeY20ziW7y_jzCmwrlt38VoUGpd3nmDvC60MlyZQaEfdlmhVaCFtpfRjfSCPmGGZnws1j5hl2evgcTxdDiFdntiBoJXO5LRDZucduLo48SVmru4pEjqOF3JmlRPGKpZHiXk4bBEbRj8wuJwCtMZ7aVHL_7WDXL_Vi6Fm4XvMGp2EGSOup55uo87xdpxM_npHACwxPfCUv8IdkN6"
+    },
+    {
+      "position": 5,
+      "title": "Portland Integrative Fitness",
+      "place_id": "ChIJP_XfRgqnlVQRwIf2gst_sX4",
+      "data_id": "0x5495a70a46dff53f:0x7eb17fcb82f687c0",
+      "data_cid": "9129218431708989376",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a70a46dff53f%3A0x7eb17fcb82f687c0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a70a46dff53f%3A0x7eb17fcb82f687c0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.509777,
+        "longitude": -122.6623001
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP_XfRgqnlVQRwIf2gst_sX4",
+      "provider_id": "/g/1tfqqntc",
+      "rating": 5,
+      "reviews": 108,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Health consultant",
+        "Personal trainer",
+        "Physical fitness program",
+        "Physical rehabilitation center"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "health_consultant",
+        "personal_trainer",
+        "physical_fitness_program",
+        "physical_rehabilitation_center"
+      ],
+      "address": "350 SE Mill St Ste 5A, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20137\u202fPM",
+        "thursday": "6\u202fAM\u20137:30\u202fPM",
+        "friday": "6\u202fAM\u20133\u202fPM",
+        "saturday": "8\u202fAM\u201312\u202fPM",
+        "sunday": "Closed",
+        "monday": "6\u202fAM\u20137\u202fPM",
+        "tuesday": "6\u202fAM\u20137:30\u202fPM"
+      },
+      "phone": "(503) 308-9504",
+      "website": "http://www.portlandintegrativefitness.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Great trainers and a super supportive environment!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9zgLuOUD1V6wB6wbGs1dEjLKaevQOVg1xJZE7HfAJ_5yJmvtsj6ONBVR-DvNR8yvEafMUgAal2Gyy-HPP1Y6YqaVkDZgNE-rJb4uN8oZ2A1TbWt0cz83Gq0HRo9e9lHcShsm1LCAqyNda=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NU-qCHicHcTBboIwAADQL6q0uiEs2aFKA0FWECdGLkuptUSBii2w-pOe_Zsle4f3etbG3PSH4zT1YiaVko0YtLhz1RnRmRlXrSNvGnANtIMzur1i4j9kMqT7ABXutHKnKtToRC7JholxmxYS_cYlWUZnHP-827gdjb64KV0VOQhGmnt2JOz8tZeYNfPQWhBlGTq6x54V16CUlIB7XL0N1FPlHKPv6mAgf3iLsIdRrnzhNxHf1bpFyRr3lp7Y54QghKD-n4PuD05hRlw"
+    },
+    {
+      "position": 6,
+      "title": "K Fit Studio",
+      "place_id": "ChIJB-EeWb6glVQRh0KwjqQyb0o",
+      "data_id": "0x5495a0be591ee107:0x4a6f32a48eb04287",
+      "data_cid": "5363561363571491463",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0be591ee107%3A0x4a6f32a48eb04287&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0be591ee107%3A0x4a6f32a48eb04287&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.521617,
+        "longitude": -122.63768809999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB-EeWb6glVQRh0KwjqQyb0o",
+      "provider_id": "/g/11clls55rg",
+      "rating": 4.9,
+      "reviews": 50,
+      "type": "Physical fitness program",
+      "types": [
+        "Physical fitness program"
+      ],
+      "type_id": "physical_fitness_program",
+      "type_ids": [
+        "physical_fitness_program"
+      ],
+      "address": "2725 SE Ash St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "5:30\u202fAM\u20137\u202fPM",
+        "thursday": "5:30\u202fAM\u20137\u202fPM",
+        "friday": "5:30\u202fAM\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "5:30\u202fAM\u20137\u202fPM",
+        "tuesday": "5:30\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(971) 373-8499",
+      "website": "http://www.kfitstudiopdx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "book_online": "https://www.mindbodyonline.com/explore/locations/k-fit-studio?rwg_token=AE37R_jaMSJkMx1ircuAVAtjDAO24W_IjIkUGe_-IH00WvF6gIlX7C1KwGReR_jBmGnGnOBY8NnGR7MI-vlIyfHaZKUNC_tqxQ%3D%3D",
+      "user_review": "\"The classes are friendly and fun, while being a great workout.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5eMWWHasaZwLzHubac8sTyV9cQEy74ESx9o7A1gx-DzULkpnlJJ4rbp-AjTdNnL0e1St6FhLaP207WLCuFx76UK6L5hrGU2o0xiliyN7mp9qhMv9ImzJ6rj6SDxXvrZ_3m9s=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g3-iX3icHcRRboIwAADQE1WKYrsu2QdRnGOVaBAx_hisDVWh7dqihQPuDt7GxPfxnv_COW0_g6ARk1GtVN3wznLDlHRcuhFTbVBrC5gFNojX2eYWJ1O-KstlZavDgw7L7lSxD7vtd4Rtkh5HSe6JwnFYezAfCnrTsknTyJw0iK_bcyYp5GHu0ELQaj2GuKSzbuExKn4RnQrzXYwV9Jfm0me41eRPrO7kpx1SZK4on_v93RyOk5bYr0cIIQTiPQPyBQFJRBs"
+    },
+    {
+      "position": 7,
+      "title": "MUV Fitness SE Portland",
+      "place_id": "ChIJXT2R6cWhlVQR3USnYiqef5E",
+      "data_id": "0x5495a1c5e9913d5d:0x917f9e2a62a744dd",
+      "data_cid": "10484272362422748381",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1c5e9913d5d%3A0x917f9e2a62a744dd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1c5e9913d5d%3A0x917f9e2a62a744dd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5169551,
+        "longitude": -122.5569082
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXT2R6cWhlVQR3USnYiqef5E",
+      "provider_id": "/g/11pd24vlwd",
+      "rating": 4.7,
+      "reviews": 3207,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Fitness center",
+        "Personal trainer"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "fitness_center",
+        "personal_trainer"
+      ],
+      "address": "10414 SE Washington St, Portland, OR 97216",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u201311\u202fPM",
+        "thursday": "5\u202fAM\u201311\u202fPM",
+        "friday": "5\u202fAM\u201310\u202fPM",
+        "saturday": "6\u202fAM\u20138\u202fPM",
+        "sunday": "6\u202fAM\u20138\u202fPM",
+        "monday": "5\u202fAM\u201311\u202fPM",
+        "tuesday": "5\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(503) 719-5731",
+      "website": "https://www.muvfitness.com/southeast-portland/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna"
+          ]
+        },
+        {
+          "amenities": [
+            "Child care",
+            "Restroom",
+            "Swimming pool",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "online_classes": false
+      },
+      "user_review": "\"Good equipments, good energy, and amazing personal trainers!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuXsN4g9euBMcxTddmaKQp5Mk1QURrL-7pmFfalVLyMTjAu-Inh7s8bl8YonxdrKGOLULXy-dgowg_I6DbgY-rhtWXrtRQA0Rtm1sJOWrSPAmRilssJ2-TrmNtAJu5UMbaG2kH_A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VH0tpnicHcTdboIwGADQJ_oEdE5n4kXNNhUBBWHilYGCraM_pF8b9RF9BN_GxHNxng9ubY8zzxN8NGBaM9E6bA3VyrbKDqiWHusRKAJ6ZJekHflxJSYf7Kt1i5je8qaR1Sbtx3EXpEVmIpj08vdcib_oHuf_xMFa8QlOazE9anVrzGa5jYqovEPD9JWd1p_fNTuC4fZQGpulxM-sDDDcHsx-R2R2EYjhEHIjE0tCNy7iuloOu9WJzK-B7_vA31NQL1U5Rk4"
+    },
+    {
+      "position": 8,
+      "title": "Barry's Portland",
+      "place_id": "ChIJj2ZBp-kJlVQRjauNCCT1yz0",
+      "data_id": "0x549509e9a741668f:0x3dcbf524088dab8d",
+      "data_cid": "4452922191696997261",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509e9a741668f%3A0x3dcbf524088dab8d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509e9a741668f%3A0x3dcbf524088dab8d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5317376,
+        "longitude": -122.6812155
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj2ZBp-kJlVQRjauNCCT1yz0",
+      "provider_id": "/g/11fn7jsms5",
+      "rating": 4.9,
+      "reviews": 127,
+      "type": "Gym",
+      "types": [
+        "Gym"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym"
+      ],
+      "address": "1210 NW 10th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:30\u202fPM",
+      "hours": "Open \u00b7 Closes 6:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fAM\u20136:30\u202fPM",
+        "thursday": "5\u202fAM\u20136:30\u202fPM",
+        "friday": "6\u202fAM\u20135:30\u202fPM",
+        "saturday": "7\u202fAM\u20131\u202fPM",
+        "sunday": "7\u202fAM\u20131\u202fPM",
+        "monday": "5\u202fAM\u20136:30\u202fPM",
+        "tuesday": "5\u202fAM\u20136:30\u202fPM"
+      },
+      "phone": "(503) 773-0124",
+      "website": "https://www.barrys.com/studio/portland",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The sweetest staff, amazing trainers, and a great place to make friends!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-Ofg3j0ZwWxiMJ75aARcpB_D9_qclZOo1kCN89rB1Tg3qVjwT9G2y59WvNOu8gvf1CFkam2pF73dTgHPN5UHzD_AhtAJoZvEZFnEGWtr__tpj4GJeGAElyovEY6X5tqrkp1Tb8w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qyTBqHicHcTLDYIwAADQiQoURMHEQ1U-IRHQoCiXRisUAWmhFdQNHcFtTHyH9_2UUnIxV9WmNBTKGG3yh8h7wlqZt1Ih7K5SLgARQKgoDrc18kFUUKPSsjF93jbBzDyjHeFLvLZxR5osYrBehZbdL2FCje5QjYnt6S_TTocwelh0KODKrc93nbsz45pQPw7Nvf9eY1RKFLBscDK3dbxU9hhLXk28IPeQ07zY4JymR1N2fc1hcrHGxQg1TQPlfwLaH5hqRPw"
+    },
+    {
+      "position": 9,
+      "title": "PulsePDX",
+      "place_id": "ChIJ31z9KgoKlVQRtXUzQjiHDAI",
+      "data_id": "0x54950a0a2afd5cdf:0x20c8738423375b5",
+      "data_cid": "147641563494970805",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0a2afd5cdf%3A0x20c8738423375b5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0a2afd5cdf%3A0x20c8738423375b5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5329889,
+        "longitude": -122.6267889
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ31z9KgoKlVQRtXUzQjiHDAI",
+      "provider_id": "/g/1pp2ty2vm",
+      "rating": 4.9,
+      "reviews": 116,
+      "type": "Physical fitness program",
+      "types": [
+        "Physical fitness program",
+        "Fitness center"
+      ],
+      "type_id": "physical_fitness_program",
+      "type_ids": [
+        "physical_fitness_program",
+        "fitness_center"
+      ],
+      "address": "3602 NE Sandy Blvd, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:45\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:45\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:45\u201311:15\u202fAM, 4:30\u20139\u202fPM",
+        "thursday": "8:15\u201310:30\u202fAM, 4:30\u20139\u202fPM",
+        "friday": "8:45\u201311:15\u202fAM, 4:30\u20137\u202fPM",
+        "saturday": "7:45\u202fAM\u201312\u202fPM",
+        "sunday": "7:45\u202fAM\u201312\u202fPM",
+        "monday": "8:45\u201311:15\u202fAM, 4:30\u20139\u202fPM",
+        "tuesday": "8:15\u201310:30\u202fAM, 4:30\u20139\u202fPM"
+      },
+      "phone": "(503) 985-8355",
+      "website": "http://www.pulsepdx.net/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true
+      },
+      "book_online": "https://www.mindbodyonline.com/explore/locations/pulsepdx?rwg_token=AE37R_je2NSk2KdvJTovEUQMGVmQ22vfPmfT3wmT6CxkGVHcjY9IKruXtbKSlPseEqe3uHBw07t0NZeL5A69y1fCUb0uamXzmw%3D%3D",
+      "user_review": "\"Friendly all-inclusive dance style fitness.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGntQNb_U0F-AtZ1pUso8stHQg1Vnp02ne4z-gVv9DFuwWG8SWW6Q4n-B34yF-fItYEf60GD305PlCGElfR_22LhCwJFkKnaTh1fKayV0RVnsBbTtaU5cYdJB0nBMaCuj8uVVRg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sTAnjHicHcRbjoIwFADQFVUuDw2azAeg4GuMoJToj8EKbRRvyfQyRDfoGtyNiefjvF-KqDUTy2qUO5Bay6bqTPUnNFKFNBD6bsnWMGGYsYLtJr0FCVK6OZ9yiFlAR7vNjfYNzVNpc2zBwcp7Msn_x9O464vE3xXFKPWQha73iFm9oMOsHkEydWG4baJk1tTZyXHWKuqX8W2F5V7Z9ap8cMg4mvC8pzIfisNlGQKGv2XUXf2O80z-9DYAMPVdMPwAwz1C8w"
+    },
+    {
+      "position": 10,
+      "title": "Peak Performance - N Portland Gym",
+      "place_id": "ChIJC8CwPrunlVQR2-kF46-O8Oo",
+      "data_id": "0x5495a7bb3eb0c00b:0xeaf08eafe305e9db",
+      "data_cid": "16929187885364931035",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a7bb3eb0c00b%3A0xeaf08eafe305e9db&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a7bb3eb0c00b%3A0xeaf08eafe305e9db&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5768832,
+        "longitude": -122.69081539999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC8CwPrunlVQR2-kF46-O8Oo",
+      "provider_id": "/g/1hhn4vljp",
+      "rating": 4.8,
+      "reviews": 112,
+      "type": "Fitness center",
+      "types": [
+        "Fitness center",
+        "Athletic club",
+        "Gym",
+        "Yoga studio"
+      ],
+      "type_id": "fitness_center",
+      "type_ids": [
+        "fitness_center",
+        "athletic_club",
+        "gym",
+        "yoga_studio"
+      ],
+      "address": "2310 N Lombard St, Portland, OR 97217",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(503) 688-5130",
+      "website": "http://peakperformancepdx.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"It's well run,  clean, great hours, abd has nice variety of equipment.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHa0FnFNdkH9PlJU8wyVfyYYsOIzOQ8ym0YnzJx8wqw-K7-FxIibZs3LAkeIa6g_1rBj382pg7_8NEewU_uJo9Je2VJDokKAPSxjbbu9SSKPb4SMvhbmjJ04dWxI0f6Ix5WK-PT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oLzVonicHcTbboIwAADQL6pUcVqW7AHjCC0b1uAl-EIs1CKXlllYiz_oN_g3Jp6H83yUfd_pT8dpSncilBINHzS_5Ur2XPaTXLWO6DTINdCOT-Nt7YdnGMggLurQow3ZIzMeLmOa6g2-b7ZobGEq78Qi82dAtASBxVd20u6PX3N8XohseltVLpp1Ypmh-JubfTYQ5RE-O5C1qiOfJrZibPCSJKJsnvz-l6ytCJwXR4vhZYHtxzECdPdlphBCUL7PgXwBXg5EJQ"
+    },
+    {
+      "position": 11,
+      "title": "PDX Fitness Zone",
+      "place_id": "ChIJ7eBemN2hlVQReW8CVxbfQxE",
+      "data_id": "0x5495a1dd985ee0ed:0x1143df1657026f79",
+      "data_cid": "1244083209126440825",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1dd985ee0ed%3A0x1143df1657026f79&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1dd985ee0ed%3A0x1143df1657026f79&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.496955199999995,
+        "longitude": -122.6241991
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7eBemN2hlVQReW8CVxbfQxE",
+      "provider_id": "/g/11jvp_9qpr",
+      "rating": 4.9,
+      "reviews": 77,
+      "type": "Fitness center",
+      "types": [
+        "Fitness center",
+        "Gym",
+        "Nutritionist",
+        "Personal trainer"
+      ],
+      "type_id": "fitness_center",
+      "type_ids": [
+        "fitness_center",
+        "gym",
+        "nutritionist",
+        "personal_trainer"
+      ],
+      "address": "3714 SE Powell Blvd, Portland, OR 97202",
+      "country": "United States",
+      "phone": "(503) 974-6678",
+      "website": "https://www.pdxfitnesszone.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"It is inclusive, clean, equipped with very knowledgable trainers.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKwyxp0b6izvZZnHbVfzBSgWDAiXcQpc2-Z4A_lHtOoYJ_mcyyB71JBWEdJbrSFehrmMRiirfz-YbyTvjDO31y6KTakS0XOmtlcnWrfwhx01cQk2t5c_4ghj2XGySHY2G7TrcOCQR3i_pI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/82S_lHicHcTbToMwGADgJ-oosENi4gU4B7IoMogcboj8QtsBbdPWsfKSXvs2Jn4X3-8PNUbqB8eZqL8hQpCp_9a9AsFNz80GxOwQqRFopJ3g_S0bg-i82LvE3Z6tt6bhcfcxrGFOymPAKsgkeKjZBu0Um1TUSTuDteHBTcLy-SvpVH7qqZpfL4ypYUV1Z4vb9Zj6rt2fi88xx1U6mwl4qYaF3rEL2eiZHbRbQq9eFdk8rr3oUChIn7KLz1r58ri4GGNE_wfE_wBEaUio"
+    },
+    {
+      "position": 12,
+      "title": "Portland Strength Collective",
+      "place_id": "ChIJ_yqBy1gLlVQRTK9VLCnSaNI",
+      "data_id": "0x54950b58cb812aff:0xd268d2292c55af4c",
+      "data_cid": "15161599219822079820",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b58cb812aff%3A0xd268d2292c55af4c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b58cb812aff%3A0xd268d2292c55af4c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.51395,
+        "longitude": -122.661092
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_yqBy1gLlVQRTK9VLCnSaNI",
+      "provider_id": "/g/11ldvwwlsz",
+      "rating": 4.9,
+      "reviews": 32,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Weightlifting area"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "weightlifting_area"
+      ],
+      "address": "1225 SE Grand Ave, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closes soon \u00b7 8\u202fAM \u00b7 Reopens 12\u202fPM",
+      "hours": "Closes soon \u00b7 8\u202fAM \u00b7 Reopens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u20138\u202fAM, 12\u20131\u202fPM, 3:30\u20137:30\u202fPM",
+        "thursday": "6\u20138\u202fAM, 12\u20131\u202fPM, 3:30\u20137:30\u202fPM",
+        "friday": "6\u20138\u202fAM, 12\u20131\u202fPM, 3:30\u20136:30\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "10\u201311\u202fAM",
+        "monday": "6\u20138\u202fAM, 12\u20131\u202fPM, 3:30\u20137:30\u202fPM",
+        "tuesday": "6\u20138\u202fAM, 12\u20131\u202fPM, 3:30\u20137:30\u202fPM"
+      },
+      "website": "https://portlandstrengthcollective.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Latino-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as veteran-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "user_review": "\"Amazing coaches, awesome community, highly recommended.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCDKOu34f5Md2dpatlwWGaVLWjwVT6-Tqgk0vIz4nE77uERmbl1uXMzf68f2HO7qXNX9b4WOARa7poV2285epMknhQc7_vJm3BcKk4QoLUjPst4UrFko4KezMKtagt6tNlQ9zd=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XUdtTHicHcTdboIwGADQJ6ogVKomu2DzbyIgRIE7g6WU2NJW-yEJL7hn2Nss2bk4vz8dgLFrx5GdP-Nac8kGy15UK2AKZlT3DjcWUYusE56TTIS7r02UDj5uF3HjNaYGOZb7ujiVj7G4BOjy5MJ9f09YbQkZtnl_l_Ohiqc2WLbeISXPKqlWd1ymYV4TowvPWy6YiYXqMkpu72Pvf9JI4Eyfro-zBXx97YTGEZviCGoOASQyW03Nxzh3XRd1_1Ok_gAg60Rw"
+    },
+    {
+      "position": 13,
+      "title": "United Athletic Club - Eastside",
+      "place_id": "ChIJrRJc4aCglVQRemDuyZh59Ik",
+      "data_id": "0x5495a0a0e15c12ad:0x89f47998c9ee607a",
+      "data_cid": "9940703974643359866",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a0e15c12ad%3A0x89f47998c9ee607a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a0e15c12ad%3A0x89f47998c9ee607a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5148927,
+        "longitude": -122.6563541
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrRJc4aCglVQRemDuyZh59Ik",
+      "provider_id": "/g/11h10n7gl",
+      "rating": 4.9,
+      "reviews": 137,
+      "type": "Gym",
+      "types": [
+        "Gym"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym"
+      ],
+      "address": "930 SE Taylor St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(503) 719-6028",
+      "website": "http://www.unitedathleticclub.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        }
+      ],
+      "service_options": {
+        "outdoor_services": true,
+        "onsite_services": true,
+        "online_classes": false
+      },
+      "user_review": "\"Friendly staff, well equipped, super clean and affordable!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvcxHDJQFgfY8aQw64zJ2E3bULcI80YDYu99VuVZbmnOHZTFqUNyf8i9GqK2VdQY36fJj-30AVN_dhyiMeUoPDU56yY0GBlimmqv0KjCTWPh70sQN6FyZy-avqfh61LVNAkEjQbLob38w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yKrrh3icHcTNboIwAADgJyoU6zpYsgMT0SHraCI15WKkAgWBysrP6kPuvrdZsu_w_f7IcbzrF9tuJbIqpaq2mHTxJVQ_Fv1oCdXZ1V0DoYG2_YTQmx_O4nsfRDSsSu5e6ILXj2i1RXkai3cX8oBPnscmluVd_7nPjuGQElO6tbcbDit2pRzhMmoAgj4j56s09UeRqiRIn7DhcPfW1l03zPDQbI6nRD5DTQkOTWbAZR5KiZ2YEf-2bWgeqxy5y-viQAiB_F-A_g_aVUXM"
+    },
+    {
+      "position": 14,
+      "title": "Hollywood Fitness",
+      "place_id": "ChIJW-VGMS-hlVQRmCOxF-X--r4",
+      "data_id": "0x5495a12f3146e55b:0xbefafee517b12398",
+      "data_cid": "13761591871282422680",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a12f3146e55b%3A0xbefafee517b12398&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a12f3146e55b%3A0xbefafee517b12398&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.540393699999996,
+        "longitude": -122.6095699
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW-VGMS-hlVQRmCOxF-X--r4",
+      "provider_id": "/g/1hdzd5_gt",
+      "rating": 4.5,
+      "reviews": 334,
+      "type": "Gym",
+      "types": [
+        "Gym"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym"
+      ],
+      "address": "5223 NE Sandy Blvd, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(503) 281-4776",
+      "website": "http://www.hollywoodfitness.net/",
+      "extensions": [
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "user_review": "\"A clean, well maintained, friendly, independent 24 hours gym.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiia5MSKfocGaBkCsep8poIzcm5145lOWNbGfcBgJl9n3A6CRhnaLoidKVBNPr_sSPzu10pgJH4neDJGbT_jGv8vn_enFH-K17iPC-pA18iHJXwvU-crROH59Go5mrQs3HGU9a=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nHkh0HicHcRdDoIgAADgE5Eyo7StB7UFaZn9WL05I0RKgYnp5gU7Q7dp63v4vp-q67RZWFZdOROuFK_Z27CWKtkx2U2oaiyuDaAGGMtPk8PLJ0IUaHeKS0VxEbxCw7Sr1WakDYJTVO-vyR2XNOBR7UnHn4XHShZbJR7xJUjSNjendHxDW_OITCVbRfh-zp-4d3uZM7kmIIZzkYZA-9AVJLoNfQZoe9wT5GGFmvZgHIIzr1gO0LZtUP2nQP4AS4dDyQ"
+    },
+    {
+      "position": 15,
+      "title": "Prism Moves",
+      "place_id": "ChIJlbugAQ-nlVQREiWuzjQCIkw",
+      "data_id": "0x5495a70f01a0bb95:0x4c220234ceae2512",
+      "data_cid": "5485949721919759634",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a70f01a0bb95%3A0x4c220234ceae2512&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a70f01a0bb95%3A0x4c220234ceae2512&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5557514,
+        "longitude": -122.6618651
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlbugAQ-nlVQREiWuzjQCIkw",
+      "provider_id": "/g/11h_bvmnx7",
+      "rating": 4.8,
+      "reviews": 44,
+      "type": "Fitness center",
+      "types": [
+        "Fitness center",
+        "Gym",
+        "Non-profit organization",
+        "Physical fitness program"
+      ],
+      "type_id": "fitness_center",
+      "type_ids": [
+        "fitness_center",
+        "gym",
+        "non_profit_organization",
+        "physical_fitness_program"
+      ],
+      "address": "4515 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fAM \u00b7 Reopens 12\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fAM \u00b7 Reopens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u20139\u202fAM, 12\u20131\u202fPM, 4:30\u20138\u202fPM",
+        "thursday": "Closed",
+        "friday": "6\u20139\u202fAM, 12\u20131\u202fPM, 4:30\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "6\u20139\u202fAM, 12\u20131\u202fPM, 4:30\u20138\u202fPM",
+        "tuesday": "6\u20139\u202fAM, 12\u20131\u202fPM, 4:30\u20138\u202fPM"
+      },
+      "phone": "(503) 298-5636",
+      "website": "https://prismmoves.org/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Shower"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "user_review": "\"The trainers here have helped me discover I am stronger than I think I am.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHm7OGQShdwAlqk9gv6J58MH0kIqxqB30iqrLTOpq9HaU1OgYVkvEb_63Z85tZKijzRDydWK6fQrIFHzgaFXVOgBm2I5h-i5I2juU8glRWz9QkR8AaA_dVsZ_dmiVq5o6dziA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hbjh2HicHcRdboIwAADgE1WqpAgme6hRBv4xcKLyQhjFthYopVU3Drg7eBsTv4fv-c-M6fTMsmpmj6iUtK5uuupL2ZqqNaNSNhbtNCg10Bb-2sUC-0EzjT7jPSMPXCvh0buzQu42gCJUv2puQ676zXfUKS8oDuOInlNxX_7kjp25yGRrfh2SxR85rp1L3Id-MNDCP6URnTeTEDHAUTi53g4urZPj4MUicXGBc5LqLCcNTxWSDhk4_niMIYSAvS9B-wL0XEQq"
+    },
+    {
+      "position": 16,
+      "title": "Ritual Training",
+      "place_id": "ChIJQQ524X4KlVQRUFbVtLNJ__s",
+      "data_id": "0x54950a7ee1760e41:0xfbff49b3b4d55650",
+      "data_cid": "18158313258762982992",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a7ee1760e41%3A0xfbff49b3b4d55650&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a7ee1760e41%3A0xfbff49b3b4d55650&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5055711,
+        "longitude": -122.65435459999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQQ524X4KlVQRUFbVtLNJ__s",
+      "provider_id": "/g/1tg5zblz",
+      "rating": 4.7,
+      "reviews": 143,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Body shaping class",
+        "Boot camp",
+        "Fitness center",
+        "Physical fitness program",
+        "Personal trainer"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "body_shaping_class",
+        "boot_camp",
+        "fitness_center",
+        "physical_fitness_program",
+        "personal_trainer"
+      ],
+      "address": "2410 SE 11th Ave, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fAM \u00b7 Reopens 5\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fAM \u00b7 Reopens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u201310\u202fAM, 5\u20137\u202fPM",
+        "thursday": "6\u201310\u202fAM, 5\u20137\u202fPM",
+        "friday": "6\u201310\u202fAM, 5\u20137\u202fPM",
+        "saturday": "8\u201310\u202fAM",
+        "sunday": "Closed",
+        "monday": "6\u201310\u202fAM, 5\u20137\u202fPM",
+        "tuesday": "6\u201310\u202fAM, 5\u20137\u202fPM"
+      },
+      "phone": "(971) 266-3222",
+      "website": "https://www.ritualtraining.co/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Great coaches and healthy, adaptable workouts for all levels.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMQjo32mR08z8R7jG72Lc84e7nPnngnVeZ4aAk5LGvHzkukqaHi6SR8sSsNP2qQ_QxnTH0SUxttBBx_2vQf8-cqC9mHMeGoPzrwL4Vb36FPzJZleI3kN7kUJkQQGXQJQ3wYWwoGA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-JNulXicHcRRboIwGADgE1UqRalL9oBL1kqQ9IfpNl-MNhW00IqtQrjhjuBtTPY9fM-_2vurewuCpiaTytqqUXenbtIar4yfSNsG1dUh6ZALEpGDTvgaLpaEbYHpSIv4wuIwkzRSsRHGVGardtEh0bOMPfio77o78PO8LKgrXS7CDvYwmC-Oy83g_XI57MMHnCiS3cei5WvFrBhvfRZtj2T-KcZ016gV0XmsN6kGYD-QAul_v3vLkvd-ijFG9f8SmReqz0TR"
+    },
+    {
+      "position": 17,
+      "title": "Chromacore",
+      "place_id": "ChIJQWtkxPgJlVQReHNK6EhxGKk",
+      "data_id": "0x549509f8c4646b41:0xa9187148e84a7378",
+      "data_cid": "12184613349799654264",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f8c4646b41%3A0xa9187148e84a7378&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f8c4646b41%3A0xa9187148e84a7378&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.535206699999996,
+        "longitude": -122.6945736
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQWtkxPgJlVQReHNK6EhxGKk",
+      "provider_id": "/g/1hhnf_khx",
+      "rating": 5,
+      "reviews": 248,
+      "type": "Fitness center",
+      "types": [
+        "Fitness center",
+        "Exercise equipment store",
+        "Gym",
+        "Personal trainer",
+        "Physical fitness program",
+        "Pilates studio",
+        "Wellness center",
+        "Women's personal trainer"
+      ],
+      "type_id": "fitness_center",
+      "type_ids": [
+        "fitness_center",
+        "fitness_equipment_store",
+        "gym",
+        "personal_trainer",
+        "physical_fitness_program",
+        "pilates_studio",
+        "wellness_center",
+        "womens_personal_trainer"
+      ],
+      "address": "2055 NW Savier St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7:30\u202fPM",
+      "hours": "Open \u00b7 Closes 7:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:15\u202fAM\u20137:30\u202fPM",
+        "thursday": "5:45\u202fAM\u20137:30\u202fPM",
+        "friday": "6:15\u202fAM\u20136:30\u202fPM",
+        "saturday": "7:45\u202fAM\u20131\u202fPM",
+        "sunday": "7:45\u202fAM\u20131\u202fPM",
+        "monday": "6:15\u202fAM\u20137:30\u202fPM",
+        "tuesday": "5:45\u202fAM\u20137:30\u202fPM"
+      },
+      "phone": "(503) 828-4481",
+      "website": "https://www.chromacore.co/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "online_classes": false
+      },
+      "user_review": "\"Great workout, beautiful space, and the kindest people!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeyfVkPKNzE4MDftLANLVENaQgVc4DPkheFFa_6WRyk4_MunBc2p1HoSgmVvD9Y0nBx_pUFG6mfYI4faKydAr6eNMgafWqVltAkXdOWsUGjvyjTjKkbPrro8ENBGokidd4whs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PAgbrnicHcTbToMwAADQL-KmDZkmPpRw2QJU5qTIE2GlFym0SLtN9oH-g39j4nk4vz_C2sU8e94kHl2uNZ_oxdCVaGWpsi7Rs8cX4xDjGA9W6ChhQjeGZZWjewLKmNkCogInqD9yTEBcSUHTtO_C5m2ToCsvKiIPS7DXJz7ja_zU-ir67pY6zcKZtQfA-nwb4BpSVPKeNV94slB-DK-NqbPxuo3vYy7P1brqXYKiTMvPYQA3YV5uge_7jvifOOoPUftFyA"
+    },
+    {
+      "position": 18,
+      "title": "Fulcrum Fitness",
+      "place_id": "ChIJU0zhhz6nlVQREiBePbJ3Vt0",
+      "data_id": "0x5495a73e87e14c53:0xdd5677b23d5e2012",
+      "data_cid": "15949066737796653074",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a73e87e14c53%3A0xdd5677b23d5e2012&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a73e87e14c53%3A0xdd5677b23d5e2012&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.551331,
+        "longitude": -122.6613728
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU0zhhz6nlVQREiBePbJ3Vt0",
+      "provider_id": "/g/1tf_h3l3",
+      "rating": 4.8,
+      "reviews": 95,
+      "type": "Gym",
+      "types": [
+        "Gym",
+        "Boot camp",
+        "Chiropractor",
+        "Fitness center",
+        "Massage therapist",
+        "Weight loss service"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym",
+        "boot_camp",
+        "chiropractor",
+        "fitness_center",
+        "massage_therapist",
+        "weight_loss_service"
+      ],
+      "address": "3934 NE Martin Luther King Jr Blvd, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7:30\u202fPM",
+      "hours": "Open \u00b7 Closes 7:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "5:30\u202fAM\u20137:30\u202fPM",
+        "thursday": "5:30\u202fAM\u20137:30\u202fPM",
+        "friday": "5:30\u202fAM\u20137:30\u202fPM",
+        "saturday": "7:30\u202fAM\u20132:30\u202fPM",
+        "sunday": "7:30\u202fAM\u20132:30\u202fPM",
+        "monday": "5:30\u202fAM\u20137:30\u202fPM",
+        "tuesday": "5:30\u202fAM\u20137:30\u202fPM"
+      },
+      "phone": "(503) 956-2513",
+      "website": "https://www.fulcrumfitness.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "online_classes": false
+      },
+      "user_review": "\"Awesome diverse group of badasses working out and awesome trainers.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqGC0_6VAkPSkXJhoTPLPsaPy3N0-X8LBVQr68TOcEBMr1YFga2HhxaKFqsWGTCRWMR9wUn_7yLj_Y1UXFsOznwUbRxjXVKQZJdx2J5dUtq8gXs08gSADwZX9RHOw70lFNYpjGDIgrUhOH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HTZcEHicHcTNboIwAADgJ6oUjYpLdsAfYIhQkGLxQlglbYC1QLsUfcmd9zZL9h2-3x-u9aDeLKvnqwWTkvXNt2omKoVuhF5Q-WWxQQGqgLJcFKedG4z-AVabwu3QtSMhlzmKkKrRcxVDQJxoX6TTxskTetpfJrv0WL0M-FyfvVHd_PyQ3S7ZzmBRbZ9RW5U2Jp5KXsLgz2xuSXFO7-FjXobrB9ajw4iCDru6R3MnuyxIzBb2XlwOrX_8YBPmSfBubAgh4P9TIP4ANbZGkw"
+    },
+    {
+      "position": 19,
+      "title": "Studio 45",
+      "place_id": "ChIJZcaBQ4ALlVQRhxMcw0N3qqU",
+      "data_id": "0x54950b804381c665:0xa5aa7743c31c1387",
+      "data_cid": "11937484895218832263",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b804381c665%3A0xa5aa7743c31c1387&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b804381c665%3A0xa5aa7743c31c1387&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5047345,
+        "longitude": -122.654322
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZcaBQ4ALlVQRhxMcw0N3qqU",
+      "provider_id": "/g/11h6ys3bl_",
+      "rating": 4.9,
+      "reviews": 252,
+      "type": "Pilates studio",
+      "types": [
+        "Pilates studio"
+      ],
+      "type_id": "pilates_studio",
+      "type_ids": [
+        "pilates_studio"
+      ],
+      "address": "1100 SE Division St #110, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 8\u202fPM",
+      "hours": "Open \u00b7 Closes 8\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20138\u202fPM",
+        "thursday": "6\u202fAM\u20138\u202fPM",
+        "friday": "6\u202fAM\u20131\u202fPM",
+        "saturday": "6\u202fAM\u20138\u202fPM",
+        "sunday": "6\u202fAM\u20138\u202fPM",
+        "monday": "6\u202fAM\u20138\u202fPM",
+        "tuesday": "6\u202fAM\u20138\u202fPM"
+      },
+      "website": "http://www.studio45.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Online classes"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "online_classes": true
+      },
+      "user_review": "\"The workouts push you to your limit but leave you feeling so strong.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEX5Mn75PJc736ue7UYdlmlzWP28lylzGwivzrzKty98Hvd1fWE__DFzR9WtGaxc7Rp5o-5wYGcsu_itsCB70ejy9T7Ms6_X6um_sFozH8LPE66MjRkIzUewexKsDWIY9c4Hhc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9YI6RXicHcRJDoIwFADQE1VwoAUTFw4IDhgkGmTVmG8FtVDiLyI9oHfwNia-xft-Cq1rHFuWLIa9XKlcigbFE1SlRaV7oEorr5EAErSm8W7_mPonJ6qYE6-BDWkj2DG7yFKaNB64spMmaG8v8zQb3Xlu-Lr0r6nP-WJpEi_VwfkNLKkdRZw2CwAbftM4nzFb3DvvwCKk_ESbkuNSmdDdxj6l0T15rMxRtOK9wUW6yjwYhQVM2r5t26T4D6T6AVUMRQ8"
+    },
+    {
+      "position": 20,
+      "title": "Ignite Fitness",
+      "place_id": "ChIJa8ze7LinlVQR_1EDsVMSlvw",
+      "data_id": "0x5495a7b8ecdecc6b:0xfc961253b10351ff",
+      "data_cid": "18200755094725808639",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a7b8ecdecc6b%3A0xfc961253b10351ff&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a7b8ecdecc6b%3A0xfc961253b10351ff&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5587933,
+        "longitude": -122.6357522
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa8ze7LinlVQR_1EDsVMSlvw",
+      "provider_id": "/g/11krc64n9q",
+      "rating": 5,
+      "reviews": 38,
+      "type": "Gym",
+      "types": [
+        "Gym"
+      ],
+      "type_id": "gym",
+      "type_ids": [
+        "gym"
+      ],
+      "address": "4928 NE 29th Ave, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20137\u202fPM",
+        "thursday": "6\u202fAM\u20137\u202fPM",
+        "friday": "6\u202fAM\u20133\u202fPM",
+        "saturday": "8:30\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "6\u202fAM\u20137\u202fPM",
+        "tuesday": "6\u202fAM\u20137\u202fPM"
+      },
+      "website": "http://getignitefit.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Membership required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"Clean, great equipment, great coaching\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG56yVe6phhuJU4ma5jBzbYLX2zwMrcbdEmiGqqYd97W-1TjDcwmcW3kP8CmCv5BAybOL7Hl6RRJcC6piMTqeSyfDbWlufsgm3m_S--LqQyGOKoCT5Uq8Zw_iU_VfDSO0hgAP3z=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6MDB0HicHcTbEkJAAADQL1qU6DLTg0ujKaKQ6sVkrV1lrW3J8IN9Q3_TTOfhfD-kbRuxkuWKqBJmDFeoE-gFWd2iupUgozJuBIACCNkIDsen4Wj6cEZ6Q0i3i2f0rj3MMbu6l-nYey-Y5RtaOpxf8-U8AZPoYcOewkR9BguLWm_NNIbMd-fbSj-ddtDSm9KLOAqHws6SqisEpipNQwBcfhwcf8-sSIv54tanZZyeCzv0FYKNQB3X_URRFED-Q1D_AINSRPA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+gym+fitness+studio+Portland%2C+OR&start=20&type=search"
+  }
+}

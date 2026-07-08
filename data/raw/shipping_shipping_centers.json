@@ -1,0 +1,1425 @@
+{
+  "search_metadata": {
+    "id": "6a4e58909f070099cb6227e9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zZejNl-QhnE2Z0Jvm-NiCg/6a4e58909f070099cb6227e9.json",
+    "created_at": "2026-07-08 14:02:56 UTC",
+    "processed_at": "2026-07-08 14:02:56 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/shipping+UPS+FedEx+center+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/zZejNl-QhnE2Z0Jvm-NiCg/6a4e58909f070099cb6227e9.html",
+    "prettify_html_file": "https://serpapi.com/searches/zZejNl-QhnE2Z0Jvm-NiCg/6a4e58909f070099cb6227e9.prettify",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "shipping UPS FedEx center Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "shipping UPS FedEx center Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "FedEx Ship Center",
+      "place_id": "ChIJC8Q8AnunlVQRleawrorrgak",
+      "data_id": "0x5495a77b023cc40b:0xa981eb8aaeb0e695",
+      "data_cid": "12214302645274338965",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a77b023cc40b%3A0xa981eb8aaeb0e695&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a77b023cc40b%3A0xa981eb8aaeb0e695&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5549894,
+        "longitude": -122.6973376
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC8Q8AnunlVQRleawrorrgak",
+      "provider_id": "/g/1tj8947j",
+      "rating": 2.8,
+      "reviews": 301,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "logistics_service",
+        "mailing_service",
+        "packaging_supply_store",
+        "shipping_company",
+        "shipping_service"
+      ],
+      "address": "4344 N Port Center Way, Portland, OR 97217",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/or/portland/mria?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-YEXTLISTFEDEXSC",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I was able to pick up my package here and their customer service was great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRV9v3frAZDsQFqBNsLpFgzAnCa7ofpYKwqFT7nI8dzbSv354LY5DRN7pO2xL2MWIF0V6Kg14jmfpcMG2-CGE4FMx7SF6Jelc6XvLNcwipBhi0xCW2pPw60pnp8MwmwY0b-b05=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Bb2dMHicHcTdEoFAGADQJ1qt_plxkViDimKQO63aULtfNm3jBT2DtzHjXJzvp2xbkGNNq0pjwIRgVf6S-ZMK3ua8HVBRawwkohJJzdtG8cMjyWHUGcXTO89kTJppJAMg7O1x_-KIAtK1asje4Uv3-s52nWGZQWrNksiBjd4HenhcEnyw12xo3usCaLjQkb-YmyTsnR2xV3lF7VMXRFTdYFrecO8fddgqGwMHN1S1SnGGMmxN1BBjjMr_FPEf7ExDAw"
+    },
+    {
+      "position": 2,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJiwIoCtqglVQRQ75fcAnN6Xk",
+      "data_id": "0x5495a0da0a28028b:0x79e9cd09705fbe43",
+      "data_cid": "8784777988586585667",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0da0a28028b%3A0x79e9cd09705fbe43&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0da0a28028b%3A0x79e9cd09705fbe43&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.534707,
+        "longitude": -122.622675
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiwIoCtqglVQRQ75fcAnN6Xk",
+      "provider_id": "/g/1tfzm16m",
+      "rating": 3.7,
+      "reviews": 163,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "1547 NE 40th Ave, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "12\u20136\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 460-0085",
+      "website": "https://local.fedex.com/en-us/or/portland/office-0995?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Fast service, and very helpful\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH13GW12ytoSkzjXlcIYeb9Lj1uYKh7IyNj-zUV1lsaPCus01uc9l5Tvm-GKX9AqTdnBXlzEPrC7Iqjm0QkqAAa78eySVOE4fygaCZ8M2LtsJR3PhtmcTsdIGFi_k4tB4Tw2vrRXg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5cNVZnicHcTdboIwGADQJ6q0gEFMdlGJMvwbClP0ZmG1a4VCha9o4A19BN_GZOfivJ7SmBtMLUtJZyS0Fop3wFuma8NrM2K6ssQNEAMEFo23u5J-Eic8Ers3OimHIlMsOvFff12Q7rSSXtRvCzR8H4iCPA46wKRjvhqn9wqFq8ynTXqpZ5ka5nEbeFFTVHhXNpTm3oT3yeFr7v71Ig_Ok429NrDcO7E0FUvhEoWL60_pmpmbPux7u8_Ex4NgjJH8n6H6DejfRXI"
+    },
+    {
+      "position": 3,
+      "title": "FedEx Ship Center",
+      "place_id": "ChIJNwji8pqmlVQRQF_anTltt_c",
+      "data_id": "0x5495a69af2e20837:0xf7b76d399dda5f40",
+      "data_cid": "17849855742335147840",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a69af2e20837%3A0xf7b76d399dda5f40&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a69af2e20837%3A0xf7b76d399dda5f40&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.577855799999995,
+        "longitude": -122.60944289999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNwji8pqmlVQRQF_anTltt_c",
+      "provider_id": "/g/1hc1dhf3g",
+      "rating": 3.7,
+      "reviews": 202,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "logistics_service",
+        "mailing_service",
+        "packaging_supply_store",
+        "shipping_company",
+        "shipping_service"
+      ],
+      "address": "5159 NE Cornfoot Rd, Portland, OR 97218",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137:30\u202fPM",
+        "thursday": "9\u202fAM\u20137:30\u202fPM",
+        "friday": "9\u202fAM\u20137:30\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137:30\u202fPM",
+        "tuesday": "9\u202fAM\u20137:30\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/or/portland/pdxrt?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-YEXTLISTFEDEXSC",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Ordered a live snake shipped from Florida overnight live animal shipped.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwC2SSy21J17R64gjesfsePpD5-_iDT44ywb8iSVOvLOf5Zn9lAWFc8hsrTwUfLDRe374SN4krbNhw42p0VRBsnATX4c-5Hb72p-7RO6M9vXlCXLKLwc3ehrN1q-OGbHedhVU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/owqMpXicHcRLDoIwFADAE5VvATVxgRIlioCASNyYUAtFsFQe0nhB7-BtTJzFfD9sHAUsVLVjplL3fd3RF9CB9HykfFRI_1BrAYgAAtWNw2Pr-nJtpOnb0He6k9i4vlOogMbCs9C18TKM37KcNWkeTUFUWRc-79zzhswYDJk8VYGXUNPBaYjboQyZxIbQ8mQF3M0KTJDll44hkJNE9mE-Fd26CPaBJCZlQ6g_UbQtfXpj-WkpdU3TEPtPEP8Bb8hCSA"
+    },
+    {
+      "position": 4,
+      "title": "FedEx Ground",
+      "place_id": "ChIJORR5CJqnlVQRqlV2s0VwJiU",
+      "data_id": "0x5495a79a08791439:0x25267045b37655aa",
+      "data_cid": "2676950473184269738",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a79a08791439%3A0x25267045b37655aa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a79a08791439%3A0x25267045b37655aa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5714514,
+        "longitude": -122.70520409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJORR5CJqnlVQRqlV2s0VwJiU",
+      "provider_id": "/g/1tf9mzf_",
+      "rating": 2.7,
+      "reviews": 221,
+      "type": "Trucking company",
+      "types": [
+        "Trucking company"
+      ],
+      "type_id": "trucking_company",
+      "type_ids": [
+        "trucking_company"
+      ],
+      "address": "6447 N Cutter Cir, Portland, OR 97217",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://www.fedex.com/en-us/shipping/ground.html",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Claudio went above and beyond to make sure I received my holiday package.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCYE8ky62tKAuW9fGo0QPA-3Hj9X6Tm3gw4xB3Wgj-rzKbQ7kpeUcaeEwqhyKaeo69rYiC-HRajvint6E77YSswNlwJsPIkLQihENnGtZGQPMJ5NsSt5uRx6LPgZBvSn0DtHK7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bXlSsnicHcTdboIwGADQJ6p0MspYsgtUAhMlrWxxcIdN1_Jji_TD6l7QZ9jbLNm5OL8PBTDaV88blL-QxshBzFZM3GgQGhbcnD05WsQtsl5MC9bH6bpKXvo7WUIez8foOzWY0Rj5WRd9kY-zL93zbeUfZYemn_zEwn4Un7wRibuoe94IQ6KpatcoOzTdtdVAkjCsSuuKwW0tfe93rFVJoVOoU0b326CwJQTz4UZ2VNara6nxBrI8fHNPGGOk_udI_wEqKERr"
+    },
+    {
+      "position": 5,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJXUORiKGhlVQRJZcopRO_mjU",
+      "data_id": "0x5495a1a18891435d:0x359abf13a5289725",
+      "data_cid": "3862609721519806245",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1a18891435d%3A0x359abf13a5289725&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1a18891435d%3A0x359abf13a5289725&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5178685,
+        "longitude": -122.56277619999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXUORiKGhlVQRJZcopRO_mjU",
+      "provider_id": "/g/1wk7qkz2",
+      "rating": 3.2,
+      "reviews": 232,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "9738 SE Washington St U, Portland, OR 97216",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "12\u20136\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 256-0236",
+      "website": "https://local.fedex.com/en-us/or/portland/office-5153?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Caleb was incredibly helpful making return shipping labels.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOzbXyvMkU_n6CkjNISZjOW8ZCMA-hY2tW1iZ8gZijptg_4uiNYC7AtmlJTYqNxrP6p6u3mimc37cH6ZeUZvr0_4vrg4D-QnGWBPbDVwv5xJfIFTkFcusOveBf8ic0gBO39Xc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NZ9_6XicHcRJDoIwFADQE1WqIKKJC4bgkAgYB6QbEn9qKUNBWupwQO_gbUx8i_f9FEp1cmEYdWGOWNuymg6S9tAKRYUaQdsYrJMIJJKGm0T7yl3H7-vlpXfVKRe2X5XR5kDKOHWIv3NRkU1UOubEYYSXnWK5NfAo82euaurtMbtHzz6xO3swG96AOYO1TeiJ6B7nlu6ZFaC9WKVecg3ODz19bm-b8FiFMMhYU-_mcMDMi835BZaPMcYYFf8BiR9X-0S7"
+    },
+    {
+      "position": 6,
+      "title": "FedEx Shipping Center",
+      "place_id": "ChIJ7-MfTXCllVQR3zY_Yikss_Q",
+      "data_id": "0x5495a5704d1fe3ef:0xf4b32c29623f36df",
+      "data_cid": "17632485522339215071",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a5704d1fe3ef%3A0xf4b32c29623f36df&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a5704d1fe3ef%3A0xf4b32c29623f36df&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5723486,
+        "longitude": -122.5826943
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7-MfTXCllVQR3zY_Yikss_Q",
+      "provider_id": "/g/11hf3s60ph",
+      "rating": 2.7,
+      "reviews": 74,
+      "unclaimed_listing": true,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service"
+      ],
+      "address": "6756 NE Alderwood Rd, Portland, OR 97218",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 3:30\u202fPM",
+      "hours": "Closed \u00b7 Opens 3:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "3:30\u20137\u202fPM",
+        "thursday": "3:30\u20137\u202fPM",
+        "friday": "3:30\u20137\u202fPM",
+        "saturday": "1\u20133:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "3:30\u20137\u202fPM",
+        "tuesday": "3:30\u20137\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://www.fedex.com/en-us/home.html",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Who went way above and beyond to help me with a shipment status change.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXI8iGi3o-dmuMyCZ2AoSH8JLn5dCnHsF7DuOc9Rmey-307UrHIPnZ3114CYALVL01kuYqqoB-0LR6zmdADNQ-EQNzSxfLg2cbpprL6GvWmgOKyZdCnl6y7CLBVwe1fnOYVMNFrg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7UwJvXicHczRFoEwAADQL5o2UTjHw0TCKnFEPVqzHG2rVsgf-gR_w_FyH-_nnTdNqSeGUeRmjyvFC9ZqVlMlGyabHlXC4KUGVANt4G0Q3bB7Wo2uy6upQCZav3PSPlZ7b7Qmcpg50tOuPW9DOt4J1gET2ofaW21laiI0cBJMYgLRrU2qSs0AJDvrJTI8DyKwiILX_nkhvE_PZVkTa3k_Ch5uuvSXFlZnO2QWPxi6yDCJ_cCt-fSBIIQg_0uB_AI4FUPe"
+    },
+    {
+      "position": 7,
+      "title": "FedEx Authorized ShipCenter",
+      "place_id": "ChIJAUiCT2WhlVQRsZFipA78Lgg",
+      "data_id": "0x5495a1654f824801:0x82efc0ea46291b1",
+      "data_cid": "589685741049778609",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1654f824801%3A0x82efc0ea46291b1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1654f824801%3A0x82efc0ea46291b1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.512232,
+        "longitude": -122.628554
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAUiCT2WhlVQRsZFipA78Lgg",
+      "provider_id": "/g/11ng6zkm6j",
+      "rating": 4.4,
+      "reviews": 19,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "logistics_service",
+        "mailing_service",
+        "packaging_supply_store",
+        "shipping_company",
+        "shipping_service"
+      ],
+      "address": "3439 SE Hawthorne Blvd, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "12\u20135\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(971) 279-5151",
+      "website": "https://local.fedex.com/en-us/or/portland/00m8c?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-YEXTLISTFASC",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They made sure to help me find the best, most affordable shipping option.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVVKvNpOPWhbSy3UabdD8sJqQpU9pYnRleNFKY3rIWsjCxY483UKq-MEpCbPYvDuh0lmPDmygHZojPrpWd_enWy1nr96L0rBLj2jb2vft51K3dsV-NTsJEWcLoLCRGuCesC8xjBH6EnVNP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yWhlznicHcTBToMwAADQL-ooqy7MxMNWUBxYuyk0eDFSKk2FtmsLjq_c2b8x8R3e71WGYP1dFA0SrXpj-kFMXjhudBA6rLgZo956wD3w0Y6S4_cur-tiJvaFMtm-Lqj6bLs08Yfz0VZb2-jTIMhD0SD3xLzCl-YmQVVxBs-ZxS1t5nSScBhpOi59_m4UdZZ1H0KzJdZuuymh25dqrdr1_BVu4wJ1vgbkzR8yxktT4tPjhIXHyUXt802ma0Lvf2IIIZD_c6D_AOVdR6o"
+    },
+    {
+      "position": 8,
+      "title": "FedEx Authorized ShipCenter",
+      "place_id": "ChIJQ8Rr4BWhlVQRMD_KJGWmcIk",
+      "data_id": "0x5495a115e06bc443:0x8970a66524ca3f30",
+      "data_cid": "9903598533926862640",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a115e06bc443%3A0x8970a66524ca3f30&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a115e06bc443%3A0x8970a66524ca3f30&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.537144399999995,
+        "longitude": -122.619637
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ8Rr4BWhlVQRMD_KJGWmcIk",
+      "provider_id": "/g/11vc2k6lzw",
+      "rating": 5,
+      "reviews": 2,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "logistics_service",
+        "mailing_service",
+        "packaging_supply_store",
+        "shipping_company",
+        "shipping_service"
+      ],
+      "address": "2000 NE 42nd Ave D, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 477-5450",
+      "website": "https://local.fedex.com/en-us/or/portland/00vn1?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-YEXTLISTFASC",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGEme48HHG9vS_P_i-lklQY4oLrXDpQ1CQW2_036usUbFwjhtRmSKFIMTv5f2xAE2CE_yZRqUwgQbpnzEydSm_A79eCpf0LY9HA_7QG6H729OMBMCGbqwMfTCR-e75fgXTAhOSTtsHXSadT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IJRCu3icHcTNboIwAADgJ6pU_GEs2aF2SJfJtLRG3KURLK0TaLVV1Jf0vLdZsu_w_T6199a9BkGjRwNljGrkxclzZTovOz-oTBso60DlgAvQ6oseUZq0cvxCSBpfmViJA2iODd2OzeJcvFs6xHQTCjiaXty6nPc_2uct-5x_ZPw6qcMbSkKciPt3flr3ipa2eyT3PWsFimKJbQ0X25ggEdF0SqIwXmazDKflqc9qjnMgo0mtCo70knHvSMF2e_7WDyGEQP9fge4PLiBF-A"
+    },
+    {
+      "position": 9,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJRQmFu0ynlVQR7m4STWrkvqU",
+      "data_id": "0x5495a74cbb850945:0xa5bee46a4d126eee",
+      "data_cid": "11943234407043854062",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a74cbb850945%3A0xa5bee46a4d126eee&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a74cbb850945%3A0xa5bee46a4d126eee&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.534555,
+        "longitude": -122.65900409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRQmFu0ynlVQR7m4STWrkvqU",
+      "provider_id": "/g/1vjdps7p",
+      "rating": 3.4,
+      "reviews": 174,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "1605 NE 7th Ave, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "12\u20136\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(503) 284-2129",
+      "website": "https://local.fedex.com/en-us/or/portland/office-5139?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Bri welcomed me with a smile and quickly helped me get my package shipped.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEHNdiryGVz6bGY3h_RSEElHCat3UEz4VpkfpmEkzToHhKVZkIJypR_KYmcJOTx4OomfwrV8Qq9PIGrvGQcM7hjha9bEdKSFPmSLWaigrjw5jrUNsKW6Q0qPBUCD2VZN8_uTaG8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/s6dKSHicHcTdFoEwAADgJ0qRnzjHRZhFpFRzuOlk0lRrs43oBT2Dt3GO7-L7fohSXE50vSJmJ2csr7KHzARmtcpq1cGM6jmXGpaa1G3fC0obON7lJt4QtcMzPJok2YcAVM48VWYM2j7i5ZVTULYRc4iLTuVq_eb7xD1SvN5Fr_6O0WsjkBXcx_4KiicM8HZECpKOz-DihkufhptDestF0QwKEXvSPQwD4-7P4vmih06elTyiFFrTpmsYhkb-Y63-Ac8IRXg"
+    },
+    {
+      "position": 10,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJa5R97wUKlVQR-lCXKVw_MVs",
+      "data_id": "0x54950a05ef7d946b:0x5b313f5c299750fa",
+      "data_cid": "6571102996377587962",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a05ef7d946b%3A0x5b313f5c299750fa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a05ef7d946b%3A0x5b313f5c299750fa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.518982,
+        "longitude": -122.674455
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa5R97wUKlVQR-lCXKVw_MVs",
+      "provider_id": "/g/1tg34y7_",
+      "rating": 3.5,
+      "reviews": 98,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "221 SW Alder St, Portland, OR 97204",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 224-6550",
+      "website": "https://local.fedex.com/en-us/or/portland/office-5165?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Never shipped anything with FedEx before it was super easy and fast.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGunxrWUu7V7oajKWnTtB7kt_Qthmix08fV--tnsghlZAW51Fnta0PfDpnHbkjw_Cfjbv5Ti9EzxCsQRpXvSWx4mqGdTw-5jVP7YaZIuLyceaCqVB2Fb4wzw_rdxV0qCa9XNKcb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/l8xCcXicHcTbboIwGADgJ6rUKUFNdoGobNEY2LA4b0gph8qhBfpjqy_oM_g2JvsuvteTA3RqZVkNn01KKcsmH1U-MCkgFzBhsrXKTiGmkLLc4BjWrj8KM8Sn0SGOpNU-FhGsnRqSEHh7NXhREIRAqJI3Fze2pzsBFAfFphNfaV3pxCuq9GZH1-X2YTwV_nTn229s5m3vZ5FGdkUC549evsfDneXU68n6Y5fO9UMnQ2YI7j26PB_3LP3UU4wx4v8zJN4yoUbb"
+    },
+    {
+      "position": 11,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJ-_20Y_4JlVQRbutQhjFyOso",
+      "data_id": "0x549509fe63b4fdfb:0xca3a72318650eb6e",
+      "data_cid": "14572085101343075182",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509fe63b4fdfb%3A0xca3a72318650eb6e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509fe63b4fdfb%3A0xca3a72318650eb6e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.53006,
+        "longitude": -122.68298399999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-_20Y_4JlVQRbutQhjFyOso",
+      "provider_id": "/g/1yh7_rcvv",
+      "rating": 2.6,
+      "reviews": 84,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "1136 NW Lovejoy St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 219-9641",
+      "website": "https://local.fedex.com/en-us/or/portland/office-2097?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Fantastic service, friendly and helpful workers.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsPrbzdT-S42L7xfyNiuPNpUjv2FmoVZcLurxCmx2IT7BM17Si5kiLzvCqRtDhSh8UvAol_8jRnGHmcSVLeiMKRtnBRw72i-kgAFEatL516QCzGIW3A_fbI0ja5FWDqr8vRsGI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/618uSXicHcRJDoIwAADAF1UWRYiJhwqCxEqwuCReiFakZWmRFkQ-6Bv8jYlzmO-HKtXIhaZVdDrJhcirrJNZSwRXGVcTImotbyQgEkgNxtG-hBsZt7fxfgDJzET28HhHrIuj5lj0pl-L04Wgrh3cejDDg73aGXbCrJKhsXefWHk0oc6xh6JKnQLzYFOT5IQytttixVf4ZZsMlDn011eFLGO-d8cgPE9h-riFenG1_LP3bJ0eyyBcvgxd1wH9TwD_AaNPRL4"
+    },
+    {
+      "position": 12,
+      "title": "FedEx Authorized ShipCenter",
+      "place_id": "ChIJd8zoWbehlVQRSSK2DNEtoks",
+      "data_id": "0x5495a1b759e8cc77:0x4ba22dd10cb62249",
+      "data_cid": "5449968874956399177",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1b759e8cc77%3A0x4ba22dd10cb62249&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1b759e8cc77%3A0x4ba22dd10cb62249&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.535157,
+        "longitude": -122.64875599999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd8zoWbehlVQRSSK2DNEtoks",
+      "provider_id": "/g/11ng6zkm36",
+      "rating": 4.8,
+      "reviews": 6,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "logistics_service",
+        "mailing_service",
+        "packaging_supply_store",
+        "shipping_company",
+        "shipping_service"
+      ],
+      "address": "1631 NE Broadway, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "12\u20135\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 284-6092",
+      "website": "https://local.fedex.com/en-us/or/portland/37677?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-YEXTLISTFASC",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Everyone I have interacted with here has been genuinely kind and helpful.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5qJwtsPyaNGTjwiauO7VmpUc-naNl6LFKj1uEG1eAMEXhrrOHsDil-k8oCaS6DvkG73xBiDe3CL1RMBl_5c1U3IPI4Pmt1UxpDQ9qqdEh-Le1oWPjooWTVXU6yV-TTGawIvY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NViRmnicHc1dEoFAAADgE63aicKMh-hHJIsKT2Zn7bTV1la7iQu6g9swXr7X7_NmSjVyrmmcGaNMiIzTXtKOiFrRWo2IqLSskYBIIDUbRYfS9ibtZlASvXDkx8WQ435vpVWTEFDjiJuhty1g7_qQ2jv3wrpuv5ZOzkE5FSt8Mp1H6VvGc5k71FiF8Lhb8tuEwMQIUDBGlYLJs3EOs7a9uwyEFIozKoQ4x-klMV8piGMfD8HjuhigruuA_f3NXw2FQ84"
+    },
+    {
+      "position": 13,
+      "title": "The UPS Store",
+      "place_id": "ChIJSdHd-M-glVQRZZvi5XTwqfE",
+      "data_id": "0x5495a0cff8ddd149:0xf1a9f074e5e29b65",
+      "data_cid": "17413713819068439397",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0cff8ddd149%3A0xf1a9f074e5e29b65&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0cff8ddd149%3A0xf1a9f074e5e29b65&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5327816,
+        "longitude": -122.62841329999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSdHd-M-glVQRZZvi5XTwqfE",
+      "provider_id": "/g/1td005vb",
+      "rating": 4.2,
+      "reviews": 347,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Freight forwarding service",
+        "Mailbox rental service",
+        "Notary public",
+        "Office supply store",
+        "Packaging supply store",
+        "Print shop",
+        "Shredding service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "freight_forwarding_service",
+        "mailbox_rental_service",
+        "notary_public",
+        "office_supply_store",
+        "packaging_supply_store",
+        "print_shop",
+        "shredding_service"
+      ],
+      "address": "3439 NE Sandy Blvd, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "12\u20135\u202fPM",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 230-1808",
+      "website": "https://locations.theupsstore.com/or/portland/3439-ne-sandy-blvd?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Good and efficient service with a nice range of shipping options thank you\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9Znie4ySesljcS_kHcKNPyMNlMfxbb6HzLBnl2qAyuKWef3EYEIM0YYScJUUVkVAbRnSraHocW5J67XjbFfQZ0n6T2zUkV6mcyEV8SLodx8rENKJd3_g9IxyQ8pGThliYmpp8hqOYEvuq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1V_kk3icHcTBToMwGADgJ2LUochMPGBSx2DgsIPZXRb5V-hGaQsFpXtJz76Nid_h-_3h46jNk-sK7i0apRrBJsMGUHJkclyA6txGGweMY9xwl-VtuF4d5YXdW8KMuAI5tREk2c6mmUjruar86LZ9kWLZh3ZKDqz2MMWbFFFKIC6Ksi3D6l2S4TNScHiI_cePa_Va50ck_f3yVrSl34HFZUC26jwHA86S-OydmtVmtnmg13suLrTTOuD9G8VfU__8fYcQcvj_4Mg_BaNImQ"
+    },
+    {
+      "position": 14,
+      "title": "FedEx ShipSite",
+      "place_id": "ChIJ58Vk8H-hlVQRhWd_hwF_Iz8",
+      "data_id": "0x5495a17ff064c5e7:0x3f237f01877f6785",
+      "data_cid": "4549619693119301509",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a17ff064c5e7%3A0x3f237f01877f6785&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a17ff064c5e7%3A0x3f237f01877f6785&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5329775,
+        "longitude": -122.5618516
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ58Vk8H-hlVQRhWd_hwF_Iz8",
+      "provider_id": "/g/11r9wff1h1",
+      "rating": 2.8,
+      "reviews": 18,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "type_id": "mailing_service",
+      "type_ids": [
+        "mailing_service"
+      ],
+      "address": "9908 NE Halsey St, Portland, OR 97220",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/or/portland/00hk1?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Smooth shipping site.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHm0P4vysAFze_WV-cGvymtt80k_TKTvvAfAsjgqAJ-GCFbZ_M0cfl_e69EZvvGox26ws6VVcFwuByHbcgvV75NvyKMTLK-_dMZdV7VrVRLiLARmFdsZ6yjHHjGAj-5JpaJXhww=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/erLtunicHcTdboIwGADQJ6pUJ6hLdtEtA8KPYYbUhZtGSi0iUPQr7boX3DPsbUw8F-f_r9V6glfP69uXhVRK9mIGcedq1GLUC64GT06AOCDwSLH_upJ4wMXaOCDhr2BHinhk3KD1Fl9ZmZbGkDOBTt5IgqKPsK5Yjvm5ZyLYfVbGROpnFVgIKOWhnd9dXHNp6MbfG5fmZZYi1uRVQzf0Tg_ZJSOHIWygClwXx11EOuQn0yn5bq19s0uMMWqfczQ-ALbnRYM"
+    },
+    {
+      "position": 15,
+      "title": "FedEx Authorized ShipCenter",
+      "place_id": "ChIJ3SNuK42hlVQRbu8C80bLluc",
+      "data_id": "0x5495a18d2b6e23dd:0xe796cb46f302ef6e",
+      "data_cid": "16687748974853156718",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a18d2b6e23dd%3A0xe796cb46f302ef6e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a18d2b6e23dd%3A0xe796cb46f302ef6e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.526195,
+        "longitude": -122.53939
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3SNuK42hlVQRbu8C80bLluc",
+      "provider_id": "/g/11px9m32lh",
+      "rating": 3.3,
+      "reviews": 14,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Logistics service",
+        "Mailing service",
+        "Packaging supply store",
+        "Shipping company",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "logistics_service",
+        "mailing_service",
+        "packaging_supply_store",
+        "shipping_company",
+        "shipping_service"
+      ],
+      "address": "11954 NE Glisan St, Portland, OR 97220",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "12\u20138\u202fAM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 261-1575",
+      "website": "https://local.fedex.com/en-us/or/portland/96464?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-YEXTLISTFASC",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Very kind people and they helped me with dropping off packages.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOcXYHEhl6roLzWruqq_8liLVcRIBdyfp9nq67OrroVH2-jf4OmVR20BUarYIerBCPk1cYEuR-UFwRBNH7QHmYEIxff3W61R1qE2RxWf0J0j66R_VlkeuhwY_QKXZh60GeQ7CkOSjaSNUt=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JocreHicHcTBboIwAADQL6oUXIou2UFMHagBqQHsLsTUlg4KhbYEt5_ceX-zZO_wfn-kc6N99Twl16tG60bx2XLD9OD44FZM914zWsAssN7ukubdDmfsRmMsFTL6_F2ZeZrqjfo8l4wk0eNLjNthQmFmjC7jALTiJetLEsCouBuacBPtL53PKJ4JKA4LidI4zOOe4uQpxLpCPvEnHJBnJeARtgiRulQdn-VC6_x0-5AIvvM83HfZtb1f08K9LT6EEMj_GRj-AKZDRtM"
+    },
+    {
+      "position": 16,
+      "title": "FedEx ShipSite",
+      "place_id": "ChIJZ-rV22uhlVQRT94ODolnulk",
+      "data_id": "0x5495a16bdbd5ea67:0x59ba67890e0ede4f",
+      "data_cid": "6465594053387804239",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a16bdbd5ea67%3A0x59ba67890e0ede4f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a16bdbd5ea67%3A0x59ba67890e0ede4f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.520534,
+        "longitude": -122.66240889999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ-rV22uhlVQRT94ODolnulk",
+      "provider_id": "/g/11ng836wbc",
+      "rating": 4.1,
+      "reviews": 9,
+      "type": "Mailing service",
+      "types": [
+        "Mailing service"
+      ],
+      "type_id": "mailing_service",
+      "type_ids": [
+        "mailing_service"
+      ],
+      "address": "323 SE Martin Luther King Jr Blvd, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "Closed",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(800) 463-3339",
+      "website": "https://local.fedex.com/en-us/or/portland/00hh6?cmp=LOC-1001545-3-2-971-1110000-US-US-EN-GPLFEDEXONSITEL",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGMKj79bTv0m7g0NKpfiH9Akv8Xyr305QnSEPtxrL7YFey6CCh_73heko9ku3-xwECQlQ_ca2a_ok3N66Al0JFbh7fJgpGf2B5ksM-iP9U_OBbHqtCaDXe9WYpkYnZSvnYEOp8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yBcXKXicHcRdDoIgAADgE5EUS6KtBzOr9WO6amkvThlCYUBCVhfsDt2mre_h-36Ec8aOPa8RqMe15g17WNZSrRxTrkf1zePGAmqB9YIkTmWw2K6vmFSHDt4wh_Ha1JclCWQ3yt4tgsNU7aPEvdoNzufs7YehKDASTGoiHwi8nlGYNmlBy0FZaIli3w8auJpXAtcrbhb1YDqUdgsuCTkWu2m1vLuwnGWMnHIjc3XedyqPdmY0efYhhED8p0D9ALTQQ3E"
+    },
+    {
+      "position": 17,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJN7cWavAJlVQRAcdixaMS6iQ",
+      "data_id": "0x549509f06a16b737:0x24ea12a3c562c701",
+      "data_cid": "2659959024516253441",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f06a16b737%3A0x24ea12a3c562c701&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f06a16b737%3A0x24ea12a3c562c701&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.526112999999995,
+        "longitude": -122.69864799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN7cWavAJlVQRAcdixaMS6iQ",
+      "provider_id": "/g/1tkl308p",
+      "rating": 4,
+      "reviews": 70,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "475 NW 23rd Ave, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "12\u20136\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 222-4133",
+      "website": "https://local.fedex.com/en-us/or/portland/office-5162?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"I ship all my packages here and love the safe enviro they provide.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSj0HUxvEhdxj0ibZiWJEMU73F2ZXZpVYCwatMLWafr2FcmKFoPBA0FCUZZ_ynT25aQCbvLXDikshWK72KaoitUcEc6tvyuBTHm_2rxLCtCrBriFH9uzA6JLOe7RVe3DP5bfglAQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iqxGHHicHcRRboIwAADQEyG1RIlL_CiVhghu4ERcfwx0lVaBkrYg7oY7grcx8X2857-wtjcfrtsIb1YrVTd8MFwz1Vne2RlTrVv3xmHGMS5KP7Mbir6vIMqnMRS_0xXIispiG-5y3yOQnmh__MH30u6SorxoSFgbE5UGCBCcU3p-dAe4KDNcjclpI29GFLEP41JJm7OQLe34GIJD1J6hnhJssQ60JNFq-EPLbfLF_f2Re5t0UV3qBmXr-xwA4Ij3zOle9jNFVA"
+    },
+    {
+      "position": 18,
+      "title": "The UPS Store",
+      "place_id": "ChIJhbNxdsWhlVQRQ-Z1omDlC1I",
+      "data_id": "0x5495a1c57671b385:0x520be560a275e643",
+      "data_cid": "5912071139059164739",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1c57671b385%3A0x520be560a275e643&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1c57671b385%3A0x520be560a275e643&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.497777299999996,
+        "longitude": -122.58152279999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhbNxdsWhlVQRQ-Z1omDlC1I",
+      "provider_id": "/g/11gxjyqrgy",
+      "rating": 4.6,
+      "reviews": 162,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Freight forwarding service",
+        "Mailbox rental service",
+        "Notary public",
+        "Office supply store",
+        "Packaging supply store",
+        "Print shop",
+        "Shredding service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "freight_forwarding_service",
+        "mailbox_rental_service",
+        "notary_public",
+        "office_supply_store",
+        "packaging_supply_store",
+        "print_shop",
+        "shredding_service"
+      ],
+      "address": "7901 SE Powell Blvd B, Portland, OR 97206",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "11\u202fAM\u20134\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 894-8626",
+      "website": "https://locations.theupsstore.com/or/portland/7901-se-powell-blvd?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Staff was very kind and helped me with some shipping issues.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsOXjgcC3njch4vwRsxaRlgW2XReVZ8Wrfea3MhywrVghGEEwVgG04TLcUpED6kh15G4tJQH8-TU8Da9paV0xfW2QyipvmnvjZ-t0JewVgKiw8nSd9zy7LLmRVrTOW2O5OOWRHlw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F0TGcnicHctRboIwAADQE1UqoKLJPswkEGSrdNga_0itLQiloZWKN9wRdhvNft7f-_uV1mqz8bxWBjPR96Lld8MH1ivLlZ2xvvOENoAZYLzt4bu4bVODTo1gn4FqmAxHh82jwq2g_glzco7ocOVV8CUnNxAhkzh2RCQwLHN21PFueZPzRRLarEgjUB6jXbXWFYGPK_WLqdZjp8bmDCzM-Lvtaxepn8v6Oa3yvMNkKBH10QIhitPWfbg5hBDIfxlQL0vBRg0"
+    },
+    {
+      "position": 19,
+      "title": "UPS Authorized Shipping Outlet",
+      "place_id": "ChIJb1yugnqhlVQRTkcnQBCW0i4",
+      "data_id": "0x5495a17a82ae5c6f:0x2ed296104027474e",
+      "data_cid": "3373924067393881934",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a17a82ae5c6f%3A0x2ed296104027474e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a17a82ae5c6f%3A0x2ed296104027474e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.512242199999996,
+        "longitude": -122.6285513
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb1yugnqhlVQRTkcnQBCW0i4",
+      "provider_id": "/g/11q9txz184",
+      "rating": 3.5,
+      "reviews": 12,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Mailing service",
+        "Shipping service"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "mailing_service",
+        "shipping_service"
+      ],
+      "address": "3439 SE Hawthorne Blvd, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "11\u202fAM\u20134\u202fPM",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(971) 279-5151",
+      "website": "https://locations.ups.com/us/en/or/portland/authorized-shipping-outlet-153445.html?utm_source=google&utm_medium=organic&utm_campaign=rio",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"It makes shipping items so much faster.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMS1i8qT-vFWxyAmIbDIELFfdzuNDJyc7LAon4tikqRkUg2Yq_Z-7xRhX-xqnqiQx9hAPXdqlO16t39HIY3suMIbewnZDVdMnsJKLE1ea2WOXiuL-_MLMFw8wy-eUe21MWEEnZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sl-TB3icHcTbboIwGADgJ_qFgvGwxIsmlIi2njYFuTFaKiVga20R2AvuGfY2S_ZdfL8_0rmn_fC8RoajUuuyEa0VL66VE8qNuH545dMCt2A9vNvsa0zYJ6pm5gvecdoP-JHcooTQ-F58t5toNfApxVqNXVWbQ30sg7O55DDtDzKD3ihT7fu5xLusMM0WTVw4Xybn0LYsuYlO5dGpYMqu1pQgcQ3SbVa1FC6MsribdQOIowgQSwlR-aJDvu-D_J-D-gOAjkSv"
+    },
+    {
+      "position": 20,
+      "title": "FedEx Office Print & Ship Center",
+      "place_id": "ChIJ7U1HURsLlVQRo9BYYmeryeU",
+      "data_id": "0x54950b1b51474ded:0xe5c9ab676258d0a3",
+      "data_cid": "16557953965524308131",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b1b51474ded%3A0xe5c9ab676258d0a3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b1b51474ded%3A0xe5c9ab676258d0a3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.471360999999995,
+        "longitude": -122.68615799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7U1HURsLlVQRo9BYYmeryeU",
+      "provider_id": "/g/1tht14w8",
+      "rating": 3.8,
+      "reviews": 57,
+      "type": "Shipping and mailing service",
+      "types": [
+        "Shipping and mailing service",
+        "Business center",
+        "Fax service",
+        "Office supply store",
+        "Packaging supply store",
+        "Passport photo processor",
+        "Poster store",
+        "Print shop",
+        "Promotional products supplier",
+        "Sign shop"
+      ],
+      "type_id": "shipping_and_mailing_service",
+      "type_ids": [
+        "shipping_and_mailing_service",
+        "business_center",
+        "fax_service",
+        "office_supply_store",
+        "packaging_supply_store",
+        "passport_photo_processor",
+        "poster_store",
+        "print_shop",
+        "promotional_products_supplier",
+        "sign_shop"
+      ],
+      "address": "7421 SW Barbur Blvd #140, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 245-0474",
+      "website": "https://local.fedex.com/en-us/or/portland/office-1190?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Fine reliable way to hold a FedEx package for pick-up.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLmm252X1Idezrvq5QoOu-DzAQsjHpNSbTsf4UabQzNkGYe-h1-GsP2Gn7XtzhcpMgORoxl6ulaBUl7zefNkEePtaUrXdBptovRLouX_PWjtPPJzOag3sWyAMrHmpzKRRI2GWO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/veoY2XicFcxJDoIwFADQE5XJKTFxgdGAylBQAq4M1lIihVZ-cegFPYO3UTdv-T7vWikJc9Pk9chgQjBOB6A9EZ2inTKIaE0mARFAYLo4ShrXD9rWmTiFvblQ3d9vk0TEA1ppN4GrL6P9-QDVOCvPiY4a70hRbSMPsON1s0LpmsiQxal48unAy2XGZ5pWUbOmWJVZX1yWUol7GoihOOH8qjDe6rhkI8hfbtj7rdS7NN04Xh4vHrZlWb_8L0HdF-CTRp0"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=shipping+UPS+FedEx+center+Portland%2C+OR&start=20&type=search"
+  }
+}

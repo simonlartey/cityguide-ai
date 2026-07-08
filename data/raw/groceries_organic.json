@@ -1,0 +1,1802 @@
+{
+  "search_metadata": {
+    "id": "6a4e584d5b92f8a7328e29e5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mYBjZycedOVu-HPb3Gux2Q/6a4e584d5b92f8a7328e29e5.json",
+    "created_at": "2026-07-08 14:01:49 UTC",
+    "processed_at": "2026-07-08 14:01:49 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/organic+farmers+market+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/mYBjZycedOVu-HPb3Gux2Q/6a4e584d5b92f8a7328e29e5.html",
+    "prettify_html_file": "https://serpapi.com/searches/mYBjZycedOVu-HPb3Gux2Q/6a4e584d5b92f8a7328e29e5.prettify",
+    "total_time_taken": 1.31
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "organic farmers market Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "organic farmers market Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland Farmers Market at PSU",
+      "place_id": "ChIJB0EQHhcKlVQR5TRMxGLN3QA",
+      "data_id": "0x54950a171e104107:0xddcd62c44c34e5",
+      "data_cid": "62431793936872677",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a171e104107%3A0xddcd62c44c34e5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a171e104107%3A0xddcd62c44c34e5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5123034,
+        "longitude": -122.6848342
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB0EQHhcKlVQR5TRMxGLN3QA",
+      "provider_id": "/g/11b7gqdnpw",
+      "rating": 4.8,
+      "reviews": 1132,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "1803 SW Park Ave, Portland, OR 97201",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "8:30\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 241-0032",
+      "website": "https://www.portlandfarmersmarket.org/our-markets/psu/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The aroma of live cooking and freshly picked produce is a foodies dream.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZTc5q1eGdcALJ7pUJcicMD5H5o7b6tYmi8X32AwTnWjf6p6ktCprqDJCbO81l52mKFhf6gN8CbHzL9N4_i5T3Fs3QYBB6ZSv_HpJ36iUQAg_CXxavvrb8OmHy1U5r_ZicknbGIQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eZaT3XicHcRRboIwGADgEyFg14omPlQMMlSUCJnyQtZ_WDqgrbSi2w13hN1myb6H7_ensVabhet2DZpwpXhX3009gJK2lnYCqne5Ng4Yx7j0mGYtjcoc8M2vNx9Ad8lMFwkI2K9xjNWMEXvpRXBGU_rI5dvnlWjS2lAPt3USskPgd3jab6PmSngahCz-3s3Tl0rgHEUGZZfVipSnsYp1gogoMsqr8Px8H8eBBYc-_vILPFSlgFayzWu2fPie5znN_-DIP1d_RAU"
+    },
+    {
+      "position": 2,
+      "title": "Montavilla Farmers Market",
+      "place_id": "ChIJ2_zQOAGhlVQRUkCDTT3UgCQ",
+      "data_id": "0x5495a10138d0fcdb:0x2480d43d4d834052",
+      "data_cid": "2630335542142910546",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a10138d0fcdb%3A0x2480d43d4d834052&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a10138d0fcdb%3A0x2480d43d4d834052&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5189562,
+        "longitude": -122.5842701
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2_zQOAGhlVQRUkCDTT3UgCQ",
+      "provider_id": "/g/11cffc6qg",
+      "rating": 4.7,
+      "reviews": 542,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Food court",
+        "Grocery store",
+        "Organic food store",
+        "Tourist attraction"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "food_court",
+        "grocery_store",
+        "organic_food_store",
+        "tourist_attraction"
+      ],
+      "address": "7700 SE Stark St, Portland, OR 97215",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM Sun",
+      "hours": "Closed \u00b7 Opens 10\u202fAM Sun",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "10\u202fAM\u20132\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 902-4858",
+      "website": "http://www.montavillamarket.org/",
+      "description": "Year-round spot with locally grown foods. Farmer's market open year-round that features local produce & other foods from rotating vendors.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Wonderful variety of locally grown produce, locally made products\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQ90R7gzYhXC-EoWjaYrPTqb9W1VAC0AwuX4b2W6OFkZPqrn15DX0mzUz7cTKviXBZQoV3ZFTvNTBrdOjnjD_bYgOyAbAAaXdmlZdQOEtuVSqJL8SCf4RIbcXkf34AVDsoFZSc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WoMcgHicHcRdboIwAADgE1WKMBUTHypIolsEhEHpy2ILFvlphRaMXHBn8DZL9j18799K64faGkZbWQsuJW_LUZUDk0KXQi-Y7Az-UIApoAwUnqMG-ZEDL2s-5xV2wUFm9TUfwqSnTmamyIXoOWKbLrNV4Dck7AdhfngYdvP3vGbJ53THexLJ1CJ-Mp2T_VAEtai9H5rz4IUoQldcdC0pouCgxzTuT1-b2L3ZlyNluLlZNko9JX0Ss93ThBCC6n8GxB8hKkRO"
+    },
+    {
+      "position": 3,
+      "title": "Hollywood Farmers Market",
+      "place_id": "ChIJSbrgiNeglVQRZpItOq7afa0",
+      "data_id": "0x5495a0d788e0ba49:0xad7ddaae3a2d9266",
+      "data_cid": "12501388582485594726",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0d788e0ba49%3A0xad7ddaae3a2d9266&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0d788e0ba49%3A0xad7ddaae3a2d9266&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5364977,
+        "longitude": -122.6174849
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSbrgiNeglVQRZpItOq7afa0",
+      "provider_id": "/g/1tfcbwvm",
+      "rating": 4.7,
+      "reviews": 391,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Grocery store",
+        "Produce market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "grocery_store",
+        "produce_market"
+      ],
+      "address": "4420 NE Hancock St, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 8\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "8\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 709-7403",
+      "website": "http://hollywoodfarmersmarket.org/",
+      "description": "Produce, crafts, honey and baked goods are sold at this farmers' market, often with live music and coffee.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"A really great selection of local organic veggies.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuaKyGiBjquAN_bJfGtgY96jGE278Q4VwSfT3fX_UuqwmcyBj9GAzTzLfNYMwAleWHqLfzOYaBcBOXz72USbCAww404UYvLm6YTmskdFR0n_l1IylUBp_S-NUs-14hzTnHgAHt=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GtMQxXicHcRdboIwAADgE1WKEv-SPbSLKzqGc9Bpn4h2tIilgC1r6AV3ht3GxO_h-_-rrO3MOghUNZvItpWqHEx55622pbYT3jaB7AzgBpgAfaaHGyLD-X0kV1z3A0qLy04QK9lqXpPNdLE8RN8uE_lMnAo69K7hI65XBPncJyJlHw6p8hj3ifB7dsYc709-MaXZ5RU5F8GIst-kmbO8Mbefty-oCxVuR0VxV2QgpQaEUeVzHUsU2xcXQghB9ZwD_QCYIkUL"
+    },
+    {
+      "position": 4,
+      "title": "Woodstock Farmers Market",
+      "place_id": "ChIJzdQeSKcKlVQR7gqvKx6afZw",
+      "data_id": "0x54950aa7481ed4cd:0x9c7d9a1e2baf0aee",
+      "data_cid": "11276338496378178286",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950aa7481ed4cd%3A0x9c7d9a1e2baf0aee&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950aa7481ed4cd%3A0x9c7d9a1e2baf0aee&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.478882399999996,
+        "longitude": -122.61502449999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzdQeSKcKlVQR7gqvKx6afZw",
+      "provider_id": "/g/1wc47p71",
+      "rating": 4.6,
+      "reviews": 180,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "4600 SE Woodstock Blvd, Portland, OR 97206",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM Sun",
+      "hours": "Closed \u00b7 Opens 10\u202fAM Sun",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "10\u202fAM\u20132\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(971) 208-5522",
+      "website": "https://woodstockmarketpdx.com/",
+      "description": "Sunday market for produce & local foods. Outdoor market (Sundays, June-October) offering products from area growers & food artisans.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "user_review": "\"So much selection and tons of lovely people.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiQ7jq8JsIaOZ04oviCDhgHZmCmYLykaTypBCRjlZWFvHSKZSYEC4m45rgK0J-Irh-mf_Lm_KhfNSm7-pu0eIZR6TBTPEfVroQyP7MV82Dc2xRHMtBE93q4iXrTuxJfFljXXTTWQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UepKT3icHcRJDoIwAADAF1WqoqiJB0GUxYWlUezFmAZakFJsi8oTfYK_MXEO8_0wrVu1MIyajQdUCFrnncolEY3OGz0gghu0VYAooIxVdIjvq20ZW9VjFij_dsTQFM_SWTPqYe7wy66_31Df2k5S1fi8eXppiNOL65jcnEgawgD4kgFeXHf8GrLikHILtB3MfZxMkY0itzhJEfeRtT_NRmsyeifeXtvufPwwy0yi7h0Um7rKMoTO8fI1hBAC9p-A5gfTj0TY"
+    },
+    {
+      "position": 5,
+      "title": "St. Johns Farmers Market",
+      "place_id": "ChIJPeZS0QGolVQR-VPHV5vn9_g",
+      "data_id": "0x5495a801d152e63d:0xf8f7e79b57c753f9",
+      "data_cid": "17940062295032288249",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a801d152e63d%3A0xf8f7e79b57c753f9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a801d152e63d%3A0xf8f7e79b57c753f9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.590947799999995,
+        "longitude": -122.75054259999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPeZS0QGolVQR-VPHV5vn9_g",
+      "provider_id": "/g/11bztcp5y6",
+      "rating": 4.7,
+      "reviews": 224,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "N Charleston Ave &, N Central St, Portland, OR 97203",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 9\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "9\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 841-5522",
+      "website": "http://www.stjohnsopportunity.org/",
+      "description": "Market showcasing the area's crops, plus a mix of baked goods, flowers and other farm-fresh products.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Purple asparagus is amazing, very fresh produce with great variety.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN42Ipag301RXxnAReWNta7fVaOwNu17g6y1knyt7DNg5O6xdig-CfHFkE0YWjiGK6XaTGeiovv1qeEhnNjwH3Z-l8OEAX8xhzf8-TAnnpbB2u8J_coNWdSqva1nlYejJftIjkYUxG7aV2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kQdQOHicHcTbToMwGADgJ-poYQIx8aI6hM2k6JwDvDG1Ky0H_zJbDttLeu3bmPhdfL8_2rnB3nper4OVMkb1crTyWxhwEtxKmC9PDRYJi6xHn9lLRzO29rcDVwEm-3IBupcFczyqjzyf2UgiFV5IBxcXbZi6ycPl1Cj0UGePXYKrom3Sp7Dkh1Q2ZprIWSYaWDtnwTvq4zyhZbzoax2jAwUYPu_9Md59CMOK0-t54gT6Sra72m3brnpb0ogf_buZYIyR_l8g-ANzkUd3"
+    },
+    {
+      "position": 6,
+      "title": "Growers Outlet.",
+      "place_id": "ChIJvSJiLz-ilVQRpM1u0HKdfqY",
+      "data_id": "0x5495a23f2f6222bd:0xa67e9d72d06ecda4",
+      "data_cid": "11997199573810335140",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a23f2f6222bd%3A0xa67e9d72d06ecda4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a23f2f6222bd%3A0xa67e9d72d06ecda4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5266667,
+        "longitude": -122.49694439999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvSJiLz-ilVQRpM1u0HKdfqY",
+      "provider_id": "/g/1vyxj3lb",
+      "rating": 4.7,
+      "reviews": 1098,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store"
+      ],
+      "address": "Parking lot, 16145 NE Glisan St, Portland, OR 97230",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 7:30\u202fAM",
+      "hours": "Opens soon \u00b7 7:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20136:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20136:30\u202fPM",
+        "friday": "7:30\u202fAM\u20136:30\u202fPM",
+        "saturday": "7:30\u202fAM\u20136\u202fPM",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20136:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u20136:30\u202fPM"
+      },
+      "phone": "(503) 256-3629",
+      "website": "https://www.thegrowersoutlet.com/",
+      "description": "Year-round farmer's greenmarket. Farmer's market offering seasonal produce from local vendors, plus gourmet foods & a garden center.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Flowers"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"The fruit and veg are fresh, fantastic, and locally sourced.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHE982p4bCT28UHJgu-5KhFHabGTTlKGlUAf486XKWaqq4PK3oRSMOXjqrAgNT2e_Gb5O63Vm_d89MLRzJGgmvSfjBD7F_7OSLQ6xycep0nd_4HGh5M-v0iG8ZHqo0tK3jTrPNUjQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pLx1h3icHcRLcoIwAADQE0VSfsbOdEE_JmPkJ8E63TASYyIFAiRa2xt6BG_jTN_i3W_K2sE8O06rvJnUWrbibMTEdW9Fb2dcd44cDOAGGCfKkvw7Ih8L5A5-_cZcVJKVPIOAqiXZ15ixluK2jI4-Cnf0cz-OfkY9vSnidNeMUyQT5ooK10EaetuuOqBFvN78rbDsLsWxeX2fL6t5Wqzz8PrLxQD7Q-UTrIIYXOAJoy8yamip17ApS8omf_l5ghAC9T8H_QPw-0MB"
+    },
+    {
+      "position": 7,
+      "title": "Hillsdale Farmers' Market",
+      "place_id": "ChIJ8wGtoK4LlVQRv8sVxlznRfQ",
+      "data_id": "0x54950baea0ad01f3:0xf445e75cc615cbbf",
+      "data_cid": "17601729104293776319",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950baea0ad01f3%3A0xf445e75cc615cbbf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950baea0ad01f3%3A0xf445e75cc615cbbf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4777445,
+        "longitude": -122.69374339999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8wGtoK4LlVQRv8sVxlznRfQ",
+      "provider_id": "/g/11h5rr9f6r",
+      "rating": 4.6,
+      "reviews": 93,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "1405 SW Vermont St, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM Sun",
+      "hours": "Closed \u00b7 Opens 9\u202fAM Sun",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "9\u202fAM\u20131\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 475-6555",
+      "website": "http://www.hillsdalefarmersmarket.com/",
+      "description": "Compact, quaint and welcoming market offering baked goods, produce, meats and seafood, plus prepared fare.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "user_review": "\"Love the people, love the freshness of the produce and the products.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqPwYh8hyEvoo2ru4N4iVKZTxIvFbVBRDOxibTbfjat-v03carItsmgHFxO5cjbOuHLuZf8jDA23abtnWnagogfxLKFDHTz-hF5AZ31IwnrfJQLYq4Pm2WPHr7U1JO77AaLgbLwQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SxrkGXicHcTbDoIgAADQLyKvzdbWA80cFkttVss3YApZQgFe6g_7hP6mrfNwvh9h7cMsHecughlXit_r3tSaKWlraWdMdQ5_GMAMMA7M98UNomc-XsRCvDaDUr7uw314Pe2qckqHhJ7WhzibrrSkTUssGNyAEZ1a03GUTNmctTTrEe6rZtHG0A8ItfIsCVe8mfAuiVH5BiKZwyrw0lHqZlvgyzPMO_-cIx0dvW0WRZBgTvFYrEbPdV0g_jMgf24GReA"
+    },
+    {
+      "position": 8,
+      "title": "Beaverton Farmers Market",
+      "place_id": "ChIJn4NEzaAOlVQRArLSX26V38A",
+      "data_id": "0x54950ea0cd44839f:0xc0df956e5fd2b202",
+      "data_cid": "13897991276375224834",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950ea0cd44839f%3A0xc0df956e5fd2b202&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950ea0cd44839f%3A0xc0df956e5fd2b202&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4844322,
+        "longitude": -122.80507759999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn4NEzaAOlVQRArLSX26V38A",
+      "provider_id": "/g/1tctx85_",
+      "rating": 4.7,
+      "reviews": 1566,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "12375 SW 5th St, Beaverton, OR 97005",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "8:30\u202fAM\u20131:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "http://www.beavertonfarmersmarket.com/",
+      "description": "Large weekly event with fresh produce, flowers and baked goods.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Good variety of produce and prepared foods - vegetarian, vegan, gluten free.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHz_2IFiYDeLnZ_AGRtmaYdMabicxgAhrJvbOMxDzJyyrrLjD-cG1RfUgfAu77x3TbV-jKtwtQ03W7UfAfulUouUzLr0vFzR03uvkzNnkyGJGGsMPo6tuS4jRctaFjExzCtdQvNA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/t7bN_nicHcRRboIwGADgE1XqMJKY-NDIqGPABIeLvhioUARsTfsXoTf0CN7GZN_D93o2AHe9cpy-cWdcSt5XRleKSQGVgBmTN4ffNWIaaYfskrQjdGvPH1_B9ehXkTidCc3gVhwvcVFe2chJo8Kh_IlH34bTpFTU-ojReVbnvCbG80b3tzyg9hsekGL3z8trUps-lya3kcJDYDPsmqGziegmGlKq451cgtkv2oxBEbSfo93AJR0Ssn7MMcao-Z8h8QaXiEeM"
+    },
+    {
+      "position": 9,
+      "title": "Portland Farmers Market - Shemanski Park",
+      "place_id": "ChIJxRC52hoKlVQRwheaHmpJ24Q",
+      "data_id": "0x54950a1adab910c5:0x84db496a1e9a17c2",
+      "data_cid": "9573326153034897346",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1adab910c5%3A0x84db496a1e9a17c2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1adab910c5%3A0x84db496a1e9a17c2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5173498,
+        "longitude": -122.6821425
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxRC52hoKlVQRwheaHmpJ24Q",
+      "provider_id": "/g/1jkwbcww3",
+      "rating": 4.6,
+      "reviews": 231,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "1010 SW Park Ave, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20132\u202fPM",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 241-0032",
+      "website": "https://www.portlandfarmersmarket.org/our-markets/shemanski-park/",
+      "description": "Under a canopy of trees, this weekly market offers a wide range of farm-fresh and locally-made foods.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The variety of fruits and berries is splendid.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgzC0PzP8xz1reF_NxBfUwiFrtUbWC9rT5LvJfBpAC-P5FfTOEy4mHmCnN0lhWzXV5XS0GbvhhDERdryNdrXrdUseBgF0ZCW6yDxJpDgqkzJR7GyIE1Xor_hy1_OQ0GNLB0RqA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vFYIkXicHcTdboIwGADQJ6p8ZDK3JbuA8uOIqYgiZDckQmkXgWJblfYF9wy-jYnn4jz-udaT-nKcnr8tmBCsp1dFZSNGTUe9aMTgsEmhRiHl-BnZnf2IWQyZzT5m60oa12QOuuL-F0tdnEr8KQ_e5pZ2weRjlHlxd9hGZjmsBzwS6Hlpq6NX7SE53TgPo7yVhrSykm2haMBi-MXluwnndArZ5WzTfJWYn8ithKy5cevtDhKyCSC_-N93FwAQf92g8QmPOETi"
+    },
+    {
+      "position": 10,
+      "title": "Portland Farmers Market - King",
+      "place_id": "ChIJfTQR1BmnlVQR-l6-ImR_70k",
+      "data_id": "0x5495a719d411347d:0x49ef7f6422be5efa",
+      "data_cid": "5327616952258944762",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a719d411347d%3A0x49ef7f6422be5efa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a719d411347d%3A0x49ef7f6422be5efa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.556939,
+        "longitude": -122.65871059999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfTQR1BmnlVQR-l6-ImR_70k",
+      "provider_id": "/g/1tf3z28y",
+      "rating": 4.6,
+      "reviews": 314,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Coffee stand",
+        "Flower market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "coffee_stand",
+        "flower_market"
+      ],
+      "address": "NE Wygant St &, NE 7th Ave, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM Sun",
+      "hours": "Closed \u00b7 Opens 10\u202fAM Sun",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "10\u202fAM\u20132\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 241-0032",
+      "website": "https://www.portlandfarmersmarket.org/our-markets/king/",
+      "description": "Seasonal market open on Sundays. This seasonal farmer's market open on Sundays hosts local produce & specialty-food vendors.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Kinda spendy but fresh produce and authentic honey.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElv8AHO4PW4hKGrTcSWCNbh6Dl247vWVcHfIiZQeY59Nkdq7uXzGvD-E4L7s3pAHbgTe43w7s5tmEyDikHgKlUpnD5pxBL4pc0y_rBrBMG-Uyn0iIHhUwfuL6immP4q3JszzkLqg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I2tNF3icHcRRboIwAADQE1XqKLKZ7AOEUCdDjCLqj4m1toRSCi0wuOGO4G1MfB_v-c-NUXppWYLbM1bXTNBO05bU0lBpZqSuLKY0IBpoy0uTXemFov_08BalOeKbqD2Qfb5KbnwRiA_k9vmR4Me6uOzo2flKynvjdqcp6gMQotjVtvLwjR0osgdXO6YKx6AoMduITMnAUX9-jBSB47X1W_83AtkoYbHGPBseXbwoqipFjf2jp6mMG_Y9zCGEgL8nQL4AlKpFPw"
+    },
+    {
+      "position": 11,
+      "title": "Rocky Butte Farmers Market",
+      "place_id": "ChIJS2dzxCGhlVQRUQ3W2lPfUMU",
+      "data_id": "0x5495a121c473674b:0xc550df53dad60d51",
+      "data_cid": "14218109574855396689",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a121c473674b%3A0xc550df53dad60d51&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a121c473674b%3A0xc550df53dad60d51&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.544475899999995,
+        "longitude": -122.58086499999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS2dzxCGhlVQRUQ3W2lPfUMU",
+      "provider_id": "/g/11n6_tm9j7",
+      "rating": 4.4,
+      "reviews": 21,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Fresh food market",
+        "Health food store",
+        "Market",
+        "Organic food store"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "fresh_food_market",
+        "health_food_store",
+        "market",
+        "organic_food_store"
+      ],
+      "address": "NE Siskiyou and, NE 80th Ave, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 9\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "9\u202fAM\u20131\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "website": "https://www.rockybuttemarket.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=8ed46da2-1700-4efb-bd21-102a7ca0f6e8",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Fresh locally grown fruits and veggies!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVpALt1I9buLsBvZ9dFxMOACYPZsxmAPqGPB-TXZvzS8BeUvIahxrCTrJSndja2HhsXKfZv5fsZhxaEefEFn88N3e74xhWEWgx8Rxx54rRVtErJy4qoDmmTtqu9qbYh_FqTxZk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-b9JdnicHcRbcoIwFADQFUVQcQrO-BEsWN-o1Ed-OoiBjEpCcgNe3WDX4G460_Nx3r_C2hqGjnMX_U6pVHnnDXCTK2m5tJ1cVU5ZA8mBgEOT1eZGJ_uaLmx3GpybBYQtCy4xLtd0fEoYYEUTPUlCkh5Z-9r5If9up5lAM07NbCcv16z3JeA4L1g7KIAJzCJeRLH0_VWff3goDtGhRH-LOPDMdm8jM3t6Wn1WVWp1E-jzSfzEOkV2Gz26rusS8X9O5B-8KEZt"
+    },
+    {
+      "position": 12,
+      "title": "OHSU Farmers Market",
+      "place_id": "ChIJ8Xmq70YKlVQRfrMioDHsxXg",
+      "data_id": "0x54950a46efaa79f1:0x78c5ec31a022b37e",
+      "data_cid": "8702621552847532926",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a46efaa79f1%3A0x78c5ec31a022b37e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a46efaa79f1%3A0x78c5ec31a022b37e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.499615299999995,
+        "longitude": -122.68852369999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8Xmq70YKlVQRfrMioDHsxXg",
+      "provider_id": "/g/1w8w9qt2",
+      "rating": 4.5,
+      "reviews": 67,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "3286 SW Research Dr, Portland, OR 97239",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM Tue",
+      "hours": "Closed \u00b7 Opens 10\u202fAM Tue",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20132\u202fPM"
+      },
+      "phone": "(503) 494-8792",
+      "website": "https://www.ohsu.edu/farmersmarket?utm_medium=organic&utm_source=gmb&utm_content=misc_farmers-market",
+      "description": "Seasonal spot for local foods & goods. Weekly summertime market featuring local fruits & veggies, yogurt, sweets, flowers & prepared eats.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "user_review": "\"From the fresh vegetables, flowers and the baked goods.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHVzQg0r6Nspri6dqIKoG4-ka74NjghrW9ABn4PHaBhEuE-_wqQ6ENyxEwV_pNcHLWnVnLEmGdsJSGCPjxF38Rc0XTjES-M3MF69iEtEquQ6JhFGDYhWJ3onxN9qg84wV7fDBY6iA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HDctNnicHcRRDoIgAADQE5E0HWpbH1qoWTGtpvXVGhqoBSo4rRt2hG7T1vt43w_XulULw3hwc8akZI9yUGVPpdCl0DMqnwZrFaAKKMNLSNp4UfZOGewRUW1foaLbbGVogeZmW6RmvM9dzxdWEt18jgcMrmOXIkxeEx6za0totMtFJnb4GRYqPoarpJ4C0zlQeD7V-Aj25j5AboU17oYUxTwI1xeex6YUE3E75lhjZt_X_gVV3nKcQwgB_0-B-AG1pEQg"
+    },
+    {
+      "position": 13,
+      "title": "Sellwood Moreland Farmers Market",
+      "place_id": "ChIJFTgkH-oKlVQRDVWB4p6sdx4",
+      "data_id": "0x54950aea1f243815:0x1e77ac9ee281550d",
+      "data_cid": "2195413141771343117",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950aea1f243815%3A0x1e77ac9ee281550d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950aea1f243815%3A0x1e77ac9ee281550d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4755156,
+        "longitude": -122.64861859999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFTgkH-oKlVQRDVWB4p6sdx4",
+      "provider_id": "/g/11btvbb40n",
+      "rating": 4.6,
+      "reviews": 93,
+      "unclaimed_listing": true,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "1650 SE Claybourne St, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 10\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "10\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 341-9350",
+      "website": "http://www.morelandfarmersmarket.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Excellent the food fresh and the price good\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJ55afYmc_eL5aEnZoote7JAFy1Q-U245CRAzXdrEPQcalFTtNNRVKY7CeC3ZAVDBZrskXOnMNeauC0isD2SNB_s_ksX4FXFtfeZgk2fyphdNIZRekdMjd1HkOw81B77d-gjktTg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/l9GPHnicHcTdboIwGADQJ6r8KGEx8aKg6JxWYcxgbwhpP8ostoSvxugb7hH2Niaei_P_1zk34Nzz-m46UdaqHm4Io7DGgXETYa-eGpAIJOjRI8s1XW-jqGnPV1HDLmpWhlvrIN7S7BHk5CecRWlBn5UcV8dcNH1WOsaK09c5TiGdcnpaJnxEXR3MnkFzS_1fXIbfLKmx1ljNsipzLXClw_YxdJJ98gK03F9ksNGH-0eQxLEk6qJdqRb3wPd90r0XxLwApVVE9A"
+    },
+    {
+      "position": 14,
+      "title": "Berry Good Produce / Parsons Farms",
+      "place_id": "ChIJjc2wr5AKlVQRVk4IJP1swsI",
+      "data_id": "0x54950a90afb0cd8d:0xc2c26cfd24084e56",
+      "data_cid": "14033899223326936662",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a90afb0cd8d%3A0xc2c26cfd24084e56&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a90afb0cd8d%3A0xc2c26cfd24084e56&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.482740299999996,
+        "longitude": -122.63760189999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjc2wr5AKlVQRVk4IJP1swsI",
+      "provider_id": "/g/1tmqlhcv",
+      "rating": 4.6,
+      "reviews": 121,
+      "unclaimed_listing": true,
+      "type": "Produce market",
+      "types": [
+        "Produce market"
+      ],
+      "type_id": "produce_market",
+      "type_ids": [
+        "produce_market"
+      ],
+      "address": "5523 SE 28th Ave, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u20135:30\u202fPM",
+        "thursday": "11:30\u202fAM\u20135:30\u202fPM",
+        "friday": "11:30\u202fAM\u20135:30\u202fPM",
+        "saturday": "11:30\u202fAM\u20135:30\u202fPM",
+        "sunday": "11:30\u202fAM\u20135:30\u202fPM",
+        "monday": "11:30\u202fAM\u20135:30\u202fPM",
+        "tuesday": "11:30\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(503) 266-7875",
+      "website": "http://www.parsonsfarmsoregon.com/",
+      "description": "Family-run produce & plant market. Family-owned indoor-outdoor market offering fruits, vegetables & plants, many grown locally.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Their produce is so fresh and delicious.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJjk8qgaSFf_2d17zW3RZpuZHKC5YNLax2YeSITZVSnG9cYLkEx7JXAVoJYEfiuaFmvzPr8Lwxsme-d2CjmOvZilnice07ykQAB3igSN0e-MADnO2B_lx5r1K780vXfkaoYxNE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KTvcG3icHcTbDoIgAADQLyJR17S2HqjsYmYXm4UvzRGioWCiRv1g39DftHUezveTt22txoZR5vaASclK2inaEClaKtoBkZXBagWIAspA-_DA0dK_c_fB0miRXa2b6bzP9jGpu2S1mQ1xGKTawjRan5I4EssRwQH3tONfUCx97GVFly6q_r1v3OCpVUXBzZrdq12fFKUoCIXOix_Q1C5YFEIKtmgudtb0WuphY24cF_aXjKcS69CbPE0IIcj_EyB-Z-9EtQ"
+    },
+    {
+      "position": 15,
+      "title": "Bella Organic Farm",
+      "place_id": "ChIJYUXAl-mplVQRl8sv6hGvqW4",
+      "data_id": "0x5495a9e997c04561:0x6ea9af11ea2fcb97",
+      "data_cid": "7974097106714479511",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a9e997c04561%3A0x6ea9af11ea2fcb97&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a9e997c04561%3A0x6ea9af11ea2fcb97&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.6388338,
+        "longitude": -122.7947296
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYUXAl-mplVQRl8sv6hGvqW4",
+      "provider_id": "/g/1tdz9406",
+      "rating": 4,
+      "reviews": 584,
+      "type": "Farm",
+      "types": [
+        "Farm",
+        "Grill",
+        "ATM",
+        "Beer garden",
+        "Farmers' market",
+        "Haunted house",
+        "Pick your own farm produce",
+        "Produce market",
+        "Pumpkin patch",
+        "Winery"
+      ],
+      "type_id": "farm",
+      "type_ids": [
+        "farm",
+        "asador",
+        "atm",
+        "beer_garden",
+        "farmers_market",
+        "haunted_house",
+        "pick_your_own_farm_produce",
+        "produce_market",
+        "pumpkin_patch",
+        "winery"
+      ],
+      "address": "16205 NW Gillihan Rd, Portland, OR 97231",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 621-9545",
+      "website": "https://bellaorganic.com/",
+      "description": "Organic produce, corn maze & hay rides. Vast family-run farm featuring organic fruits & vegetables, a seasonal corn maze & kids' activities.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed inside"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"All types of peppers, tomatoes,  squash, (pumpkins) beautiful farm.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrJHGSUgaOuO8mGOjt3Ggu9-i8tjvCGgNDFXE6qvVB3zjgz7XGBAFxOqjLEpnI7RBHsWQLIXM2y4t00RCI4CYJv5o2DtSUD-y5tIUhPib25QcVMDXwPj2qPL8CcP9FlKxSaomX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_28p3HicHcRbjoIwFADQFRU6ICNOMh88K4pSJDidT21IsQIFe8HHBl2DuzHxfJzXswbo9Y9pNrVtCKVEU426unDVQdWBwVVril4jrpE2PbrNz158WS1JUYpDNmZuSzIJNhHjAp1ckFNAxDaMWfQ9THvffkjxmDPie_EtG2Qa9V0y3_lL_ZenCdtY9xlgvAuSWfC_mhxlhVCUIbo7kJQ1PR0tJ-f7TciuVFoDTd2A00XcrG_FQbXs9_qFMUb1Z466N_qeQ00"
+    },
+    {
+      "position": 16,
+      "title": "Portland Farmers Market - Lents International",
+      "place_id": "ChIJZa7ELieglVQRvTr0iPbCa8E",
+      "data_id": "0x5495a0272ec4ae65:0xc16bc2f688f43abd",
+      "data_cid": "13937447835943582397",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0272ec4ae65%3A0xc16bc2f688f43abd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0272ec4ae65%3A0xc16bc2f688f43abd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.480911,
+        "longitude": -122.56830799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZa7ELieglVQRvTr0iPbCa8E",
+      "provider_id": "/g/1tl1n4ql",
+      "rating": 4.4,
+      "reviews": 223,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "5718 SE 92nd Ave, Portland, OR 97266",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM Sun",
+      "hours": "Closed \u00b7 Opens 10\u202fAM Sun",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "10\u202fAM\u20133\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 241-0032",
+      "website": "https://www.portlandfarmersmarket.org/our-markets/lents-international/",
+      "description": "Produce, eggs & condiments, Sundays only. Market operating on Sundays with fresh fruit & vegetables, eggs & locally made condiments.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "in_store_shopping": false
+      },
+      "user_review": "\"... produce and meat prices are better compared to PSU farmers market\u00a0...\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8YHbEStRA1f_Njb_yrDc8Woq9Ez22f7z_oEv0z7K3aWVH8CD_BpoqL7bj21PCptqEgnrnoPWjia7X-vNzCbyOS1jt5f2YV_Rvtfm1EHZBdVVXZQmPfj6XKWqi9xNx0NFDiftz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/S-W9_nicHcRRboIwGADgE1VajAOX7AGhC4mmoiaAvjTSUaCTFug_pr3gzrDbmPg9fP9_LcBg3z3v1i4XjTHNrf6x9SSMhlrDQpjeawaLhEXWizJ2-I7S8JxW9ATHiEjOVMUfUyLCwoxr6nxfBo4bOmMXbJfXIk_DOOGbwYy7oFI-yeIBRtroSZusUN01KNHMXFw99ieiYCX9c86PM8ie0PSy-crz8nLoM6neym0xdus7u2P2mXQS3McvwRij9rVA-gli3UUm"
+    },
+    {
+      "position": 17,
+      "title": "People's Food Co-op",
+      "place_id": "ChIJF7t4Ln8KlVQR-ZjVpR4tzak",
+      "data_id": "0x54950a7f2e78bb17:0xa9cd2d1ea5d598f9",
+      "data_cid": "12235485372290013433",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a7f2e78bb17%3A0xa9cd2d1ea5d598f9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a7f2e78bb17%3A0xa9cd2d1ea5d598f9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.500868,
+        "longitude": -122.64484399999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF7t4Ln8KlVQR-ZjVpR4tzak",
+      "provider_id": "/g/1thvx_06",
+      "rating": 4.6,
+      "reviews": 682,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market",
+        "Grocery store",
+        "Health food store"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market",
+        "grocery_store",
+        "health_food_store"
+      ],
+      "address": "3029 SE 21st Ave, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 232-9051",
+      "website": "http://www.peoples.coop/",
+      "description": "Emporium for locavores & organic goods. Grocer offering local, organic & sustainable food items plus an on-site, year-round farmer's market.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Food",
+            "Organic products"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "user_review": "\"The produce section is in unparalleled in organic and farm direct offerings.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpH6-RpkmrdhVufvMhlk1x3iXkwtdEGpTN1RUhQe0BWa75mbbv_fNVRhzs-PrYkm485f2tYMFRa-e7LGVer1KceNiX09B20UFsHagPPvhSPa_yn4sbcZs1VijeVcmEKeuZh3-8Ig=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-PBSE3icHcTRTsIwFADQLyprGQia-AAJA4MsZUoFXshW7npn163Z7Yb6h34Cf2PieTj3XwzB01MU1RiPTNuaGnqCTrdNgCaMdOsi44lpYhQtZLq3i8RvHljmreuuqPpy2GFtxVdcHe0tXFdr_56K7IB74MuPfDZ1RTFcylRl-ENMdifrJvNpOQ6nXZLlDGavawWd2GpIqyN_XI75IaFNbqQc8E3ml-9mQoU-k1DVJyjtVlvozxiz-Yt5vgnOOcP_NWv-ADyhRdU"
+    },
+    {
+      "position": 18,
+      "title": "Cedar Mill Farmer's Market",
+      "place_id": "ChIJATOvuNUIlVQRsCG0fOQXTiA",
+      "data_id": "0x549508d5b8af3301:0x204e17e47cb421b0",
+      "data_cid": "2327824327509287344",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549508d5b8af3301%3A0x204e17e47cb421b0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549508d5b8af3301%3A0x204e17e47cb421b0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5273614,
+        "longitude": -122.8139831
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJATOvuNUIlVQRsCG0fOQXTiA",
+      "provider_id": "/g/11byzcv26t",
+      "rating": 4.6,
+      "reviews": 49,
+      "type": "Market",
+      "types": [
+        "Market"
+      ],
+      "type_id": "market",
+      "type_ids": [
+        "market"
+      ],
+      "address": "1027 NW Murray Rd, Portland, OR 97229",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 9\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "9\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(971) 294-3337",
+      "website": "http://www.cedarmillfarmersmarket.org/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The easy access and amazing product & people!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAETFmFNGL3KdB360fvGPZChoG0-ItVfI4cK9-rZW7-fX4cWdY8f6IFTFYiMzQSTBOcI9DZfhHqlTN9-OnqcDXdISVm0IDZH0HCWwf1hNKYal4HUK1928Ar3aktbxC8C6Ncb28g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HFlhOnicHcRLDoIwFADAE1WKEAQTF3wEGrRqRBF28KDUCFRp_cQDegdvY-Is5vvhSl3lXNM6bkxaIdquuctmBDGoZlATEL3WXiUCiaTmbunu4i7TsA9ptDKS2jMszB7RtvC5iDAi6siICYmDxiKbIXYyIatzm1kkTMP8vH7v9qm3AeIEBePxrUupgzbDDYJTTfbHHpOgiHHsZ0-mc5rkZWfGh0R3prY7GuVFVS_f9i0K1dRuF08dY4z4f0DDD_laQQE"
+    },
+    {
+      "position": 19,
+      "title": "Portland Farmers Market - Kenton",
+      "place_id": "ChIJg-BY2ranlVQRSiprqeJ-8DE",
+      "data_id": "0x5495a7b6da58e083:0x31f07ee2a96b2a4a",
+      "data_cid": "3598515614239107658",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a7b6da58e083%3A0x31f07ee2a96b2a4a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a7b6da58e083%3A0x31f07ee2a96b2a4a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.583227699999995,
+        "longitude": -122.68707479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg-BY2ranlVQRSiprqeJ-8DE",
+      "provider_id": "/g/11d_px39n8",
+      "rating": 4.5,
+      "reviews": 46,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "8303 N Denver Ave, Portland, OR 97217",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 3\u202fPM",
+      "hours": "Closed \u00b7 Opens 3\u202fPM",
+      "operating_hours": {
+        "wednesday": "3\u20137\u202fPM",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 241-0032",
+      "website": "https://www.portlandfarmersmarket.org/our-markets/kenton-farmers-market/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "in_store_shopping": false
+      },
+      "user_review": "\"Friendly...good quality\nBest vendors\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9UZ9Rhd69nY46hgDz8EyNJxOSO02d6uJpPc1NCV0NMfGE4ao9UGvnnW60GFp8FhDRO7TGNXFATobPalNapo5wFg-U0LGd68cN-4tj9SizDFTxEx4ZyH5LMeUmJmmYDgqhFlPV3g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pSD7JXicHcRRToMwAADQExU6B5Uu2QcRWkO2wjaYjj8s2KrQVlsG44Y7grcx8X2837t0ztiN7_dy7QmtRd-NtvvhWrlOOY_rwRfGAm6B9eOCHb5igqsaH2WLsLoESIpkidIby-b8lMOHFo2ZKfiKPZ0h27_TNGg0ruhVqRcEKTERkckxfywpeyVxqd-KpmeN0eFEBKjgjrYo4gwE7hOfPpaElHM6B_XtOdztu2rIhuGSiG9J-uK8FttpBSEE8n8O1B8Qv0NY"
+    },
+    {
+      "position": 20,
+      "title": "Lake Oswego Farmers' Market",
+      "place_id": "ChIJs_4C-5p0lVQR8bPiM6Xcow4",
+      "data_id": "0x5495749afb02feb3:0xea3dca533e2b3f1",
+      "data_cid": "1054929339833037809",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495749afb02feb3%3A0xea3dca533e2b3f1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495749afb02feb3%3A0xea3dca533e2b3f1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4192919,
+        "longitude": -122.6647761
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs_4C-5p0lVQR8bPiM6Xcow4",
+      "provider_id": "/g/11ddzr_mtm",
+      "rating": 4.6,
+      "reviews": 203,
+      "type": "Farmers' market",
+      "types": [
+        "Farmers' market"
+      ],
+      "type_id": "farmers_market",
+      "type_ids": [
+        "farmers_market"
+      ],
+      "address": "200 1st St, Lake Oswego, OR 97034",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM Sat",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM Sat",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "8:30\u202fAM\u20131:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 697-6517",
+      "website": "http://www.lakeoswego.city/lofm",
+      "description": "Bustling market showcasing local produce and baked goods, along with food vendors, flowers, and arts and crafts.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Amazing produce, cherries,blueberries,  tomatoes, and so much more.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7kQYrMmsNcykZBN0o4-n3NbZed6up_qbuOWHbo_82cgaTV9BTw9afZamhQMawtY7vFBcsIU9_reuuN-pFXcmIV3rqRBfO9tKutlBLHyn-MxtovSEWA6fgA-aP67jWqEFIn8uN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3ugBR3icHcTbDoIgAADQL0Itm5e2HmTL6UrKbpYvDglxqaACWV_YN_Q3bZ2H8_3USvVyaZptbRtMCNZSLelIBFeUK4OIzmS9BEQCaQZ7lDZB5DbpbUw6ici7ySGyxAJwG5U5vTu6L4ZS77KoFIU3JwyfLj48TT6uctzVaYIndXOfISQyPvvFSLVGoA-vpIsv9jgcYLXz1UarFm6jNwfJS4nncZ0FTsUCgPeO-8iGdRhzT6PVNLMsC9T_CeA_x7ZFnA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=organic+farmers+market+Portland%2C+OR&start=20&type=search"
+  }
+}

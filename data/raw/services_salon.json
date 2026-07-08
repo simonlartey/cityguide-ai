@@ -1,0 +1,1978 @@
+{
+  "search_metadata": {
+    "id": "6a4e58565c4bf46bfef11443",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oy-SrfFP-hYNT8ppMmRuFg/6a4e58565c4bf46bfef11443.json",
+    "created_at": "2026-07-08 14:01:58 UTC",
+    "processed_at": "2026-07-08 14:01:58 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+hair+salon+in+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/oy-SrfFP-hYNT8ppMmRuFg/6a4e58565c4bf46bfef11443.html",
+    "prettify_html_file": "https://serpapi.com/searches/oy-SrfFP-hYNT8ppMmRuFg/6a4e58565c4bf46bfef11443.prettify",
+    "total_time_taken": 2.51
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best hair salon in Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best hair salon in Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Annastasia Salon",
+      "place_id": "ChIJmwKOaHMLlVQRrP-BKyM6tas",
+      "data_id": "0x54950b73688e029b:0xabb53a232b81ffac",
+      "data_cid": "12372859473998512044",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b73688e029b%3A0xabb53a232b81ffac&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b73688e029b%3A0xabb53a232b81ffac&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.468626,
+        "longitude": -122.71136
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmwKOaHMLlVQRrP-BKyM6tas",
+      "provider_id": "/g/1v3_2d2b",
+      "rating": 4.9,
+      "reviews": 2252,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon"
+      ],
+      "address": "7741 SW Capitol Hwy, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20139\u202fPM",
+        "thursday": "6:30\u202fAM\u20139\u202fPM",
+        "friday": "6:30\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20136\u202fPM",
+        "sunday": "8\u202fAM\u20136\u202fPM",
+        "monday": "6:30\u202fAM\u20139\u202fPM",
+        "tuesday": "6:30\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 293-5489",
+      "website": "http://annastasias.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://phorest.com/book/salons/annastasiasalonllc?rwg_token=AE37R_gH14M89F7xN7fJ3ExUbJnhxg6skh8nXq8C3OuG0k4yW5QclU_iNE5eVctoglMyvnSAIMyPvkr3HUrjbcpDuVOeFpGrGQ%3D%3D",
+      "user_review": "\"She listened to what I wanted and executed my cut perfectly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpvCBFErt0BSeoxb6J09cLL_W7qMJgv93En7slQdzUOY2LcWm1rEj-n8Ywdex7pV6wLsQU1VkgIOZ5Aaxiqxfw7ewz-vqt_X3PLIE4aMUHna5SFCYHS7R3o4-aiJRyDlzRPW1x=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ud48EHicHcRLjoIwAADQE1WKqB1NZoGKQVJHPkHEjcFai4ot0A6tXNAzeBsT3-K9X6VStZxZVlU6AyYEq-i_pC0RXFGuBkQ8LFZLQCSQlhv-RXfXr7vFfOW1Cs4TKsxpEsApwfiYoWYTsG7qeBzJKjr36TYfYpI97Na7Af6T6zM1qN5NNJZRau_ubL09jN3CXBtz0YjqHnSNOu6dEK-9UbFJfV6Mk9Ui9xMUO2IEimsQP5dVH4eZbX61DSEE5XcC-AdV3ER2"
+    },
+    {
+      "position": 2,
+      "title": "Enjoy Co. Hair Studio | Portland, OR",
+      "place_id": "ChIJm4mHtJGglVQRn0FwRUixVUQ",
+      "data_id": "0x5495a091b487899b:0x4455b1484570419f",
+      "data_cid": "4924036691560251807",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a091b487899b%3A0x4455b1484570419f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a091b487899b%3A0x4455b1484570419f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5241115,
+        "longitude": -122.6608902
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJm4mHtJGglVQRn0FwRUixVUQ",
+      "provider_id": "/g/11f30c0fk7",
+      "rating": 4.9,
+      "reviews": 522,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Barber shop",
+        "Hairdresser"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "barber_shop",
+        "unisex_hairdresser"
+      ],
+      "address": "167 NE Grand Ave, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 719-6875",
+      "website": "http://www.enjoycohairstudio.com/",
+      "description": "Gender-neutral salon for all types of hair, from traditional barbering to creative styles.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They did an incredible haircut that left me feeling damn near euphoric!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOgK3ltik47WM2nWmTx2pDtJB61M2URCAMHmX0KH35C3Rv3dRlZzM2Pp9V-c1-caT7z59r58u9ikEQ3K1qWYWRPy3ECdb9V8gqrQJJheHFO0RrtcRTiO_X31EDE0o8r0UsvQcS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wq5SznicHcRJDoIwAADAFxVaKgomHhAxBIJARVAvRgsphKXY1vWDvsHfmDiH-X5qpUY51_WuxhrjnHXVTVaC8kFVg9Io73U2SkAlkLqTbNLW8WMW4k417WRWRMZQ9NnTGFcqWE5RZOyI60R-v4ehj00XkzsuSXd8R0Yy2jmgCNBzNnubtjCtm920XopDdC0OBUle2HPLi51b7CrSIKgrfx1DIhQlWROf9hh5Kw9yS8CdvKd0u3ggCCGo_1Mw_ABZ1EHR"
+    },
+    {
+      "position": 3,
+      "title": "Salon Beck - Portland, OR",
+      "place_id": "ChIJWUSs8GULlVQRrC6r2VF4CVg",
+      "data_id": "0x54950b65f0ac4459:0x58097851d9ab2eac",
+      "data_cid": "6343733843067612844",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b65f0ac4459%3A0x58097851d9ab2eac&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b65f0ac4459%3A0x58097851d9ab2eac&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5223361,
+        "longitude": -122.6842176
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWUSs8GULlVQRrC6r2VF4CVg",
+      "provider_id": "/g/11rs2_f1s3",
+      "rating": 4.9,
+      "reviews": 257,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon",
+        "Hair extension technician",
+        "Hairdresser"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon",
+        "hair_extension_technician",
+        "unisex_hairdresser"
+      ],
+      "address": "436 SW 13th Ave, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20137\u202fPM",
+        "sunday": "9\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(971) 393-7686",
+      "website": "http://salonbeck.net/",
+      "description": "Upscale salon featuring stylists who cut, color and highlight hair.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX1~1cULWfSkhNJ~HRb3kdj7f-ybfPynO6tk=/services?rwg_token=AE37R_gp1nCBqFtxQWBm_tqUD_h4U7uOJEP83o0YiF8lAmpt-TuvmIS_7O_dfYZTqnMrtbUieDDDxinvzZS6ob2wno4I4qi83w%3D%3D",
+      "user_review": "\"Tone had Great customer service cut my hair to perfection.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVkUi_re1g09ogXaAJdLr5nOahOKM8cXT1QDti14eFoLuw0LJAP0FKlQsFdRTwrW6LIWV5CLKQZ7jmopH6KiBu8XsnJGGJ0QyuZ_UtjdVewig6aOV2J3WjCcj41HX5EV68M2XqvQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nC1qGnicHcRdDoIgAADgE5lQadbWg_1YIWW0QtZLc8hQMzDBXEfsCN2mre_h-34Kaxszc926GA2k1rIWnREt18oKZQdcP1zZGIcbx7jh8UDu4ZreL-WtFVCCqZYsC1GOW08lWZHE-4CzMyQrW8KxiDTueoBReARRXBMT5adz36Y-3qXUW-KYXCfVQzdbPy4XXcCMQpsNAuTdXW8XW-VU9KX0s4QO0Sitlrwawy3z1tQP9kP2fJF5DwEATvGfO-oHoY1EIA"
+    },
+    {
+      "position": 4,
+      "title": "Carbon Salon",
+      "place_id": "ChIJr7qkBvQJlVQR2CFg6bJtINw",
+      "data_id": "0x549509f406a4baaf:0xdc206db2e96021d8",
+      "data_cid": "15861798502785884632",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f406a4baaf%3A0xdc206db2e96021d8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f406a4baaf%3A0xdc206db2e96021d8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.525215499999995,
+        "longitude": -122.70034299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr7qkBvQJlVQR2CFg6bJtINw",
+      "provider_id": "/g/11g8w8xj26",
+      "rating": 4.8,
+      "reviews": 373,
+      "type": "Beauty salon",
+      "types": [
+        "Beauty salon",
+        "Barber shop"
+      ],
+      "type_id": "beauty_salon",
+      "type_ids": [
+        "beauty_salon",
+        "barber_shop"
+      ],
+      "address": "2385 NW Westover Rd, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 9:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "9:30\u202fAM\u20136:30\u202fPM",
+        "thursday": "9:30\u202fAM\u20136:30\u202fPM",
+        "friday": "9:30\u202fAM\u20136:30\u202fPM",
+        "saturday": "9:30\u202fAM\u20136:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9:30\u202fAM\u20136:30\u202fPM"
+      },
+      "phone": "(503) 719-5498",
+      "website": "http://www.carbonsalonpdx.com/",
+      "description": "Hair salon that also does cuts and perms, with friendly staff.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX1~WUct9uTZrKZfMiZ1Mu8mGSJt22M~QycE=/services?rwg_token=AE37R_ibs2FLnlp39EBP6KSfEB60fNwW-AQ9_TjiOO0otUWQMasvvCnNU6yZ4M4HI7Sf11X_Pt-uVNzP_WVjaqKfMCF7yUzdmg%3D%3D",
+      "user_review": "\"Flawless layers and great tailored advice for my hair type.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYz4uk3wCC2HOT7SryGGjH9OV06cVA91AlrY99vreWyqTy8YZLnQrdINAsOS4uuFF7hSyaCBDKnqxQBMEiiUxzngGzUlMzWRr09IVaIiQKGT2ppcia7YMO6FyMs9o3acCvSX_M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yNyDwXicHcThEoEwAADgJ0ojV-bOj4mmY5JS8sd101Vky1ZqvaBn8DbufD--76domlrOdb0qjFHOeV5lrcwE5azJWDOi_KnntdSo1KSODnv_gXAyTNuH0dn2ZOOFViAUxvcN9CJg0gjBMapEAuFbZLF6hWqWXHbMFzd3j6QXTNvWcawiUKm9XG3Zq_eXZF2Wp35gOR5OFRniowDQjVK39Lc4nNQ1LVMrIZ7pKCIhN1Jqv4PzlSy6MQBAK_5Tjf0AQeJEsQ"
+    },
+    {
+      "position": 5,
+      "title": "NIEUW Hair Space",
+      "place_id": "ChIJYewqw5WhlVQR0tFWft5oQ9s",
+      "data_id": "0x5495a195c32aec61:0xdb4368de7e56d1d2",
+      "data_cid": "15799587222557479378",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a195c32aec61%3A0xdb4368de7e56d1d2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a195c32aec61%3A0xdb4368de7e56d1d2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5230373,
+        "longitude": -122.655249
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYewqw5WhlVQR0tFWft5oQ9s",
+      "provider_id": "/g/11rcb4f8n5",
+      "rating": 4.9,
+      "reviews": 86,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "1015 E Burnside St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 807-4728",
+      "website": "http://www.nieuwhairspace.com/",
+      "description": "Inclusive salon specializing in color treatments, cuts, and styling for textured hair.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX1~uR3Piy6y8eDz-nkRrqCNVwZuhRoqLsYc=/services?rwg_token=AE37R_jnPQ0QK7XcQEJWD1Qa4uzluUoqc05Wydn2FIQPmpflk4oz2atd6opI3IRedC95xG2DsPSYhBY3A4xVn_U3pTXRJc9TBA%3D%3D",
+      "user_review": "\"skye is a magical hair goddess who made my dream hair cut come to life !!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfwHRFe5_Mb1PTWpXSnL72iPLOofTZNMoU3K0pB5bT5gesiJEBP4Fsjnmj4tSoNNUYxA-8OOrHmNmYW1h-jNabY5uBRJKMhAsJdPmnBFQfTNpbCqjfQoFc_VbS8auVDymDvxpkuqBZ6n9v=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TfEBpXicHcRJDoIwAADAF1VAxS3xQFViUEoRXPBibC1UtIu2uLzSs78xcQ7z_XBrtRk5zpV3WpVS1ZU1ht2pkpZJ26JKOJU2gBpgnACj9BLMyud8FTL_EBMP51u9y-Sy3z7jZaLKfI9ite4sXA19kvsVM-doBnE3NLUUdddmCqF18QrAIEnuc4FEsfU4qNGRFH4DV9Ei5oGJTlhIGKZljjSZ3OoyVSE9bEg2ODab6VtMHy99aW5w35PDx_jpua4L-H8K5A91WEfE"
+    },
+    {
+      "position": 6,
+      "title": "Propaganda the Salon",
+      "place_id": "ChIJO3bJhZSglVQR3xELWf1EsvA",
+      "data_id": "0x5495a09485c9763b:0xf0b244fd590b11df",
+      "data_cid": "17344000969868513759",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a09485c9763b%3A0xf0b244fd590b11df&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a09485c9763b%3A0xf0b244fd590b11df&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.516852199999995,
+        "longitude": -122.6297671
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO3bJhZSglVQR3xELWf1EsvA",
+      "provider_id": "/g/1vlzb1zw",
+      "rating": 4.8,
+      "reviews": 153,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon"
+      ],
+      "address": "821 SE 34th Ave, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 231-7646",
+      "website": "http://www.propagandapdx.com/",
+      "description": "Hair salon featuring perms, haircuts and color treatments, plus stylists who cut all hair lengths.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX19eTa~JEyM9AMzFBNljiH929p1IWBYjvSw=/services?rwg_token=AE37R_jQIvw1NDDVNMxSq2wmLRmRY0VsMjD6dAKnEhphWF8b7NHUGjTGlVqT-hF1ccbE8IcGXZAQxFdAjmsBZjxvHgAbUkuoTQ%3D%3D",
+      "user_review": "\"Great salon space and amazing stylists at reasonable prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRXMcXh_91veIb-2Rmk1E91TALLSPQ1c2hHKHQKcIHnrfBHjhCg4Wv5XfPKHab32nuESXQWNtCWYGlcDTlOeDo6HoVQ-_fp99iYp8T9BgVV5RpRYdtfvuj0HsreWK0CXcpyQuJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AKGyx3icHcTdboIwGADQJ6q0OM26ZBeIP3U4R5FAuTLzs7RTbBtaWPaEewbfxsRzce7_OgTn36Ko09OJslZ1cvCyB2uCNGEC9hYp5xF45KMk3_Nrsi7EJwh9pGSU2xOKi9uVrCgpk93ukHMCsWYZ4xlsmenbBbvoVL3U40y0eca-T9PYDKuD4PU-pHWz6WBZdl9yaefMVhwdW0fpT-NeS7pQVTUrXNGcQzsOF8x8L-sMpwLcHx8-3n8Jxhjp54DMA74hQ6Q"
+    },
+    {
+      "position": 7,
+      "title": "Ginger & Maude Hair Salon",
+      "place_id": "ChIJe-pN7_sJlVQRmT-_ckFFZ_c",
+      "data_id": "0x549509fbef4dea7b:0xf767454172bf3f99",
+      "data_cid": "17827293797369724825",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509fbef4dea7b%3A0xf767454172bf3f99&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509fbef4dea7b%3A0xf767454172bf3f99&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5338657,
+        "longitude": -122.69051599999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe-pN7_sJlVQRmT-_ckFFZ_c",
+      "provider_id": "/g/1thqgg8q",
+      "rating": 4.8,
+      "reviews": 262,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Hairdresser"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "unisex_hairdresser"
+      ],
+      "address": "1552 NW 19th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(971) 267-4080",
+      "website": "https://www.gingerandmaude.com/locations/slabtown",
+      "description": "Salon offering haircuts (including for kids) and coloring, as well as treatments and blowouts.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Went in with a frizzy mess left with the best haircut and dye I\u2019ve ever had!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHFdq_-_MIK3B59dNj2L3T3xxtGiV8VGbdhiwxPR59RjE0cUlZ71CSGkCfxDrtxOMGwDr7_lKnV3zBRg4tVGvix-LjCTYvvBvKNqcEsy2xXLhGn2DNb1AFf48DOlU3TK8GKj9bk9g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gXTYR3icHcTbboIwAADQL6pcqgFM9sBFuqWIDpGoLyQUbIFalHbQ7Q_3Cf6NiefhPP-ZUne5NgzO4IIOA-XNj2xGMgjVCLUgw82gdwmIBNLw9-l373_G9aME5fYLw2Dl1WlnJzCHWivUFm6Bqpq1s95nKy_rNiY58otjhQfUh1cdjUrvtmiORqfkWBTwL8joUhVoajVIujA_T1Mw4fRBNvLX1qeEIWFHaWX58XXpRjt-hDl2Ee68qvfox2yZpgnYewLEC5gfRFY"
+    },
+    {
+      "position": 8,
+      "title": "Luminary Salon",
+      "place_id": "ChIJt-3jEIaglVQRt__NLXVydoY",
+      "data_id": "0x5495a08610e3edb7:0x867672752dcdffb7",
+      "data_cid": "9689057495939415991",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a08610e3edb7%3A0x867672752dcdffb7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a08610e3edb7%3A0x867672752dcdffb7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5050187,
+        "longitude": -122.63004939999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt-3jEIaglVQRt__NLXVydoY",
+      "provider_id": "/g/11c44k38w4",
+      "rating": 4.9,
+      "reviews": 154,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "3377 SE Division St #104, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 232-2547",
+      "website": "http://luminary.salon/",
+      "description": "Relaxed salon for hair coloring services such as balayage.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Great haircut, attention to detail, and a professional approach.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSsIByVeOqP7QsJre1pBE6psaq6PrMGUTlEat4n2E98dNccZJN9j7tumDb57GOcRCmq27wenmISTsE7tGE4rZywQTSrTfupsQwVEr22w8yb210bn888IKVgSBs_13R6qwUbOBsq8VCCHkg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NLXFiHicHcTPboIwHADgJ0KgKq0mOwg2DJfxR5CDFyO1lkwobX8lDU_peW-zZN_h-3331irY-_7Qr1dimsTAZ-CGTdJyaVdsGn2hwGPggX8o8-p1SGvI4qXlhS5xBSfDQxXTSMFdR6X5Ti_NQO92IxHdkUfO2PWU736wncdjt8Vpwc7JqBF2XI5Z3QDFNqUbc11c1dSmec4KKtdSg5AjS4fCoJOEkOyrFXUMt3B9jrS7dEUMmrRJ8vkSHy4MgsDr_2ee_AOThkbx"
+    },
+    {
+      "position": 9,
+      "title": "Salon Annora",
+      "place_id": "ChIJfyacbYqglVQRb3BOnUgDs8o",
+      "data_id": "0x5495a08a6d9c267f:0xcab303489d4e706f",
+      "data_cid": "14606021626904342639",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a08a6d9c267f%3A0xcab303489d4e706f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a08a6d9c267f%3A0xcab303489d4e706f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.505432,
+        "longitude": -122.6172725
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfyacbYqglVQRb3BOnUgDs8o",
+      "provider_id": "/g/1tkktl51",
+      "rating": 4.8,
+      "reviews": 158,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon"
+      ],
+      "address": "4335 SE Division St, Portland, OR 97206",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 236-3911",
+      "website": "https://www.salonannora.com/",
+      "description": "Warm and inviting salon providing haircuts and other hair care services using select product brands.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX18Tq~qJQW4DK93FGpLWVTsp-BjporIxC6I=/services?rwg_token=AE37R_hOeVSbTiPgttW0lZLOzQY8_Qfqrmb7gYuUJoUYh_-m2i4UVdNzQMN8bkE8YYGmXoTE02u5pa4vLBIYs4uh8_ZJ0YCxLg%3D%3D",
+      "user_review": "\"Katy does my hair perfect every time and it\u2019s such a well maintained space!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGY4nQLIq_uXVNC5_jrNcu0YdTFHT0gKUM4nOEj8wGmWZ5YpgRubfXTQHmWwceIJ9YY_A7hyrGAZXalihA-M7RD-ZdMcasvaNYJM9hspyPgrSfKlkrLWDfBCZEgIGv7nXzaJWXw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/b3zk8nicHcThEoEwAADgJ5rmcOHOj1FSKSLa-tNlapNa2UrHC3oGb-PO9-P7fnjbNmquaSUfDVhdszLrVCZpLdpMtANaVxprFKAKKA3t_eCOLDIWwdZ-JB0--6tJUkifdpBcw_UmhMw9eWOxM4tpb1VRPCENO3SXHIfBpop6mtnOjJAE6fwlLRTjtLxxBDz9YID46tFUPVOfON6Mq-a1Z_KYu-VdbiMjX65ik9nWUxf4nToR7hf9EEII-H8KxA92jEVg"
+    },
+    {
+      "position": 10,
+      "title": "Ginger & Maude Hair Salon",
+      "place_id": "ChIJ72GfVjqnlVQRwlDKCijv0HE",
+      "data_id": "0x5495a73a569f61ef:0x71d0ef280aca50c2",
+      "data_cid": "8201317876700434626",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a73a569f61ef%3A0x71d0ef280aca50c2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a73a569f61ef%3A0x71d0ef280aca50c2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5483409,
+        "longitude": -122.6522062
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ72GfVjqnlVQRwlDKCijv0HE",
+      "provider_id": "/g/1tyt51js",
+      "rating": 4.7,
+      "reviews": 216,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Hairdresser"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "unisex_hairdresser"
+      ],
+      "address": "1319 NE Fremont St, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(971) 267-4080",
+      "website": "https://www.gingerandmaude.com/locations/fremont",
+      "description": "Relaxed, friendly salon offering haircuts, color treatments and hair products.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Kel listened to what I wanted and cut my hair perfectly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxkhrawZaKVjh2b3r-YBZAK2qsvP5A82Qxb-kjlhsHupidU-w_6fPn2POEkQY2pz-UF_JCqajjPv93-gLHU7KeMV_tSQx2GYfiaIWTBOMH8hukzUlc9zEQ7EuunbaS6gKydJwtLA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/s04Q83icHcTdboIwGADQJ_qElfi3xIu6oEx0tlFc8IaUiq2UFaStIG-4R_BtluxcnNevtLYx755XyWAk6lpUhTNFy2ttC21HvP7xRGOAGzAeJl9U4VWvZMu6M4tPpUR50EK6POMY3c2DjPEM0T4HVVbSRK65XRLossmVaET2oaIpagZIVtnm487KkjzmAYhtlEzjYnfK7IH2aJ1eb-zz-7jc76KZdGpIKj4fQjoNndM5O0xE_LxsOrvFi-7N932Q_3PQfxxORe0"
+    },
+    {
+      "position": 11,
+      "title": "Fringe Salon Studio",
+      "place_id": "ChIJUwuxrvgJlVQRKDsu1BoPyqQ",
+      "data_id": "0x549509f8aeb10b53:0xa4ca0f1ad42e3b28",
+      "data_cid": "11874319975419099944",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f8aeb10b53%3A0xa4ca0f1ad42e3b28&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f8aeb10b53%3A0xa4ca0f1ad42e3b28&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.526061999999996,
+        "longitude": -122.68296699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUwuxrvgJlVQRKDsu1BoPyqQ",
+      "provider_id": "/g/1tf655k9",
+      "rating": 4.8,
+      "reviews": 93,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon"
+      ],
+      "address": "406 NW 12th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 7\u202fPM",
+      "hours": "Open \u00b7 Closes 7\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20137\u202fPM",
+        "thursday": "6\u202fAM\u20137\u202fPM",
+        "friday": "6\u202fAM\u20137\u202fPM",
+        "saturday": "6\u202fAM\u20137\u202fPM",
+        "sunday": "8\u202fAM\u20137\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "6\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 222-5333",
+      "website": "http://www.fringesalonstudio.com/",
+      "description": "Beauty salon offering a range of hairstyling services, including highlights and coloring.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX19YYikWx-B-ftFqwQNKc8recLaiUqHamf4=/services?rwg_token=AE37R_h7s8Nih71auwASlXT1OFr0k4Pi2Z7dqAmDjaodur8E5AB_ZfUiDuKkDnnO_xP-sIUyIaLeSbrLpdQSwR1dEcqK_IduYw%3D%3D",
+      "user_review": "\"She understood my hair and gave me a new look when I was feeling down.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFn8QYNX33pBL4H_3ncHpsBNeCpWBH4jT5vE71808-_oIFBvRLP2oXiREXKBtlGslcyYdatya-9AA9SJghdaATDG_2sdngYtcwhkHS9Vb8-aVKJbAn7AaDS6fEwUHxuBvgFrutq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9jGsEHicHcRLEoIgAADQE5GWVtpMC0iNPuNU9tGVg2hQGVCg1gk7Q7dpprd43w83RumJZdXc6TEpWV01unpSKUwlTI_Ku8WUBlQDbcFNvL3BSHjbLE4dR6G1i3NHUKw0iquZOiHsXvfDNhz3PdsDuVxEqN2tNwOZXnZhukKmnuuavrOSmDcBPoR-smS8JHAfzPOBLgXLDO34DSf-sfAAOa6WBRRjSIJkdA67A341qGXRszGPade3bRvw_xSIH8JBQ9U"
+    },
+    {
+      "position": 12,
+      "title": "Chameleon Salon",
+      "place_id": "ChIJF5z6-DcLlVQRq_z-noey10U",
+      "data_id": "0x54950b37f8fa9c17:0x45d7b2879efefcab",
+      "data_cid": "5032687404167658667",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b37f8fa9c17%3A0x45d7b2879efefcab&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b37f8fa9c17%3A0x45d7b2879efefcab&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.464649099999995,
+        "longitude": -122.6532209
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF5z6-DcLlVQRq_z-noey10U",
+      "provider_id": "/g/11pdm6tj3w",
+      "rating": 4.9,
+      "reviews": 567,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Hairdresser"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "unisex_hairdresser"
+      ],
+      "address": "8071 SE 13th Ave, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20137\u202fPM",
+        "thursday": "11\u202fAM\u20137\u202fPM",
+        "friday": "11\u202fAM\u20137\u202fPM",
+        "saturday": "11\u202fAM\u20137\u202fPM",
+        "sunday": "11\u202fAM\u20137\u202fPM",
+        "monday": "11\u202fAM\u20137\u202fPM",
+        "tuesday": "11\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 286-3711",
+      "website": "http://www.chameleonsalonpdx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"... hair cut and toner done by Sarah, who did an amazing job on my hair\u00a0...\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtK_uwoqyuGLdyw3VTRYH3b-j6xgUc6IejwOmM29Rt6XaArgR2gNI4Vjo-WtotlM2bfE4nKs_pjagyNKisCu4UwlqzvW9grfKLXe2IHq77FN0Pfoeps5JIJUjMMbxxO3wvCd4sNw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ldmL7XicHcRREoFAGADgE61SyTDjoTEoadFIPJnats1KW_2bLTd0BLcx43v4vp9CyhrmmlYW5ogJwUraAW2JqCSt5IiIp8ZqQAQQaM4BHx-OK_1bp0QzdJtdNijzfAqvrpkibvcsIrZHudo_A2MWSvuSOC0LDYY968wFiqWQZWCk-cqqfLjVPGED9u-w7KxIlc37Fc9Ym_u7CzU8t5lO11g_5ILWMNl624gHQdr3e1O9lpkFWC3UWNd1VPwnqPoBiZRG_Q"
+    },
+    {
+      "position": 13,
+      "title": "Glow Boutique Salon",
+      "place_id": "ChIJx9TiG_8JlVQRwfmM3E7oopQ",
+      "data_id": "0x549509ff1be2d4c7:0x94a2e84edc8cf9c1",
+      "data_cid": "10710378289245780417",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509ff1be2d4c7%3A0x94a2e84edc8cf9c1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509ff1be2d4c7%3A0x94a2e84edc8cf9c1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5282456,
+        "longitude": -122.68210739999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx9TiG_8JlVQRwfmM3E7oopQ",
+      "provider_id": "/g/1vknp2fs",
+      "rating": 4.5,
+      "reviews": 284,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "736 NW 11th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 224-8711",
+      "website": "https://glowboutiquesalon.com/",
+      "description": "Neighborhood salon offering a variety of haircut and color services, as well as lash applications, makeup and waxing.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned",
+            "Identifies as Latino-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX1~AkSGJqtkB20u~5jI6KCLvy-iG0B59FGQ=/services?rwg_token=AE37R_gxaUyQXv7DurzNSQ2cJJNNSUY6WXNTUkeB_T3woms4fAv-BiClAQk37g3yzMUFVk2QKGSHeLjhXUsy7rhGl5K-LwEatg%3D%3D",
+      "user_review": "\"She did an amazing job and cut my hair exactly how I wanted it.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDZpLAxnpEA1jsf4qR67gzmdGI9ilWz4EH3P85lIBmBDmLCKr2nZrnR0nIkL1Ryw9BIDdOp1H9CKyPRcxVT40ba3kWQBLBhAkIgc2XkGwI6oQg67WA3i1KcUk_9ZsqUwWG84Mb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nJb3U3icHcRRDoIgAADQE5mQZtnWB6RTppW6yuZPKzQsFEhsVhfsDN2mrffxvp-675Wem2ZTWyMmJWuqh646KkVfiX5EZWsypQ2qDW2iZJ1yFHqFitFTKB_Bm77Y98yZsndbBsS9Nvnb9kMrmU0aglvstfEy6sai6EQGBOExzF6Di4lXbhQM3WX0SjL63G9tcD5ZPE9xjGvECaPjAw8G4siUOdMcWVcY0R0_uoW-74Y8mNmr82KAAACj_k8N8QPtrkMO"
+    },
+    {
+      "position": 14,
+      "title": "220 Salon",
+      "place_id": "ChIJlWMoHAcKlVQRjkiyMhoL_Ds",
+      "data_id": "0x54950a071c286395:0x3bfc0b1a32b2488e",
+      "data_cid": "4322341949516433550",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a071c286395%3A0x3bfc0b1a32b2488e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a071c286395%3A0x3bfc0b1a32b2488e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5509335,
+        "longitude": -122.67520359999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlWMoHAcKlVQRjkiyMhoL_Ds",
+      "provider_id": "/g/1thcs17g",
+      "rating": 4.8,
+      "reviews": 91,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Beauty salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "beauty_salon"
+      ],
+      "address": "855 N Failing St, Portland, OR 97227",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 295-0726",
+      "website": "http://www.220salon.com/",
+      "description": "Relaxed, airy, artistically decorated salon offering cuts, coloring and eyebrow services.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "book_online": "https://220salon.glossgenius.com/services?rwg_token=AE37R_gFu9e6fePVbj_sbbLhup4XuhjvVPeRZZiYoznI7TYn8EEQ1dqgRvqeexzDDc8ZehgrlO7-wT3ijxr1dRPxlr1NgIZgdA%3D%3D",
+      "user_review": "\"She\u2019s great at curly cuts and her color skills are life changing.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGZYzTi_zrJ3pS49M37DU-xS7z8lCKZtdoB8Yoyr-I4BP0yFaBVwj9TqzoowWvowN9kxa2yVWvGwNEQbOcwoPX9HLiwOHXG8Ad3X9LZ16qHrqZlxr3EDterUttdkRMi96t8kp1tA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nlaJgnicHcRbjoIwFADQFVXAGqUm8wE-QEcR38iP0UIAYbjQ3rHADl2CuzHxfJz3K0Ws5FjTipT2EoCkiP9lLDiUGJfY4_CnJZUkXBKpWb63za25E166Q3btxJJW-wFb09H0SJr9qDOLyW-IEdjmBVpBFgPb19v5zT6pBzvUHYA6P0F5LG9u_fZ0fjrKm23vG67AD5i7ytTGDRzTimjAVqExrF1Rh0Uj6GyKsTgiRvlunbEhmnlloPWjDF3XSfqdk_IDDghGAg"
+    },
+    {
+      "position": 15,
+      "title": "Strange Powers",
+      "place_id": "ChIJXTuzOzWnlVQROimh1N864fQ",
+      "data_id": "0x5495a7353bb33b5d:0xf4e13adfd4a1293a",
+      "data_cid": "17645449548033763642",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a7353bb33b5d%3A0xf4e13adfd4a1293a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a7353bb33b5d%3A0xf4e13adfd4a1293a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.542243299999996,
+        "longitude": -122.65885979999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXTuzOzWnlVQROimh1N864fQ",
+      "provider_id": "/g/11fk19ddf9",
+      "rating": 4.8,
+      "reviews": 123,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "2701 NE 7th Ave, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 281-1603",
+      "website": "http://strangepowerspdx.com/",
+      "description": "Hair salon for LGBTQ+ clientele providing gender-free pricing, plus haircuts and color work for all hair types.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX1~~hfpy9QkBy3mSbxd0-7agpEIqsqCke60=/services?rwg_token=AE37R_gd-tZpYCiavsKNFnLWd4VdXF83pE6VbKbBrfZh9O6deqdvdUHg4HJg60eDOe9GYJ5TrxT-4Q9eYhCSVD96A8CGa7Wa0w%3D%3D",
+      "user_review": "\"She transformed my brassy, overly processed, frizzy hair.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEE4rSGg6SXFyViwuumD99RtrX2qCickFElOy4vEjJRb698pQyH5ByG_QQOXagzMtvZBQYluNVYcSFCne7jV5fUi227mkyq9QQeU-NrxTwoElFcqdhNJXlwxQjajgRUomyOYF11AA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aoiVHXicHcTbboIwAADQL6pcFJUlPoBrNSbCCkJgLwvWrlwKBVrE7g_9BP_GZOfhvJ6lUr38MAxeLhdMCMbpJOlIRKdopxZEtAbrJSASSMP7CnDjQbga4wNbxxnSaTVPU_vpupEaM3vYV6RBkId6dYf1Kbqu3W2P9dHx9eEH4zAr2N9Z3b99nPMpSHMSo31HN3Xq_CaVbW_aRg8uxjQBwfi4zAJyRIZbGZwyPj9wXdQsSkSrwxxZluftZss0TVD-T0D3BjeiRnA"
+    },
+    {
+      "position": 16,
+      "title": "French Cut Hair",
+      "place_id": "ChIJEUJwVv8JlVQRGL5Hfk8aQTI",
+      "data_id": "0x549509ff56704211:0x32411a4f7e47be18",
+      "data_cid": "3621204504105958936",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509ff56704211%3A0x32411a4f7e47be18&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509ff56704211%3A0x32411a4f7e47be18&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5260664,
+        "longitude": -122.6820913
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEUJwVv8JlVQRGL5Hfk8aQTI",
+      "provider_id": "/g/11r94t6vq",
+      "rating": 4.8,
+      "reviews": 115,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "416 NW 11th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(971) 263-1511",
+      "website": "https://frenchcuthairpdx.com/",
+      "description": "Award-winning salon in the Pearl District offering haircuts, coloring, blowouts, and perms.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Quality cut by Paul..walked out happy.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA4t4ydAybUFRA2XfXR21L40WA8Fp9xXKTlEF5Cm2HxH1MN3y3UD49-MYVCj_LECcVthFTdxFnH5xadf3-7VD4OKYf5KdknMU-sGWioWp7-o5iKw6ohmk8e4N7fIhPg2JGgd4B=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OMKmJHicHcRJDoIwAADAF1W2ImrioaIFRXCJLJ6MttAq0BJbI7zQN_gbE-cw3w_XulMzw2i4M2JSsqZ8qfJJpNCl0CMiW4N1ChAFlIH2yaFGAYIaDhQNtxQfkV1UxdG2ttDM0QR3076ITs0Ku35rh31oxYkzOOkSTkF8zvzHZbvySaY5PtEei9Dtr7RygJct4S46V25EaxGnQAX5XeadB6R7j95jydt6UsLEq9Z8z-xNwChczN-WaZqA_ydA_AA98EGx"
+    },
+    {
+      "position": 17,
+      "title": "Ritual Beauty Collective",
+      "place_id": "ChIJkaxIxt6hlVQR5k1aouWXjzg",
+      "data_id": "0x5495a1dec648ac91:0x388f97e5a25a4de6",
+      "data_cid": "4075643200320720358",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1dec648ac91%3A0x388f97e5a25a4de6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1dec648ac91%3A0x388f97e5a25a4de6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5050154,
+        "longitude": -122.6263573
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkaxIxt6hlVQR5k1aouWXjzg",
+      "provider_id": "/g/11fll6gmr7",
+      "rating": 4.8,
+      "reviews": 74,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "3601 SE Division St, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20136\u202fPM",
+        "thursday": "11\u202fAM\u20136\u202fPM",
+        "friday": "11\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "11\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(971) 427-8034",
+      "website": "http://www.ritualbeautycollective.com/",
+      "description": "Laid-back, inviting salon showcasing cuts and color, plus all-natural hair treatments.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX19-ly2MI1B4rfmqCS8zV1Bjxe9JaGabrl4=/services?rwg_token=AE37R_h4LqYsMutLGrNnTCTHI6ERmMOSelBaKR-loSju8LeRRL-rd3wz2ZECc_w8xt-tk8BMuxH4xnArquHP3Z2BJsQyzQPeQA%3D%3D",
+      "user_review": "\"Expert cuts, with incredible energy + healing techniques.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCWT3R3kLRGQkUCS2K-WsJN_6iLBf9Dnf7jXCZtR33FVwVYpL4pzDRbw-Jblc0q4k-gYTyuZBWhRJbemHFFFBnVJM3QqpfTaRDvFgr6-CnCFteD2biQs73igM1LYsliwlvpOdM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/L30_73icHcRRDoIgAADQE5EWLldbH4nDZlpJptlPS0I0CSkoVxfsDN2mrffxvp_aGKWnliVqOOBdxwV7aHannTRMmgHtrhZXGlANtDXfrJJ2HqA8hQS2EQmSdoe2oyXIdbg6jpvIqya-rNzLHh0MgRBnfVaoyFFvn5Q9CEtB7ZvTAl6kr8fBy2sSluy6wBh7MgtjmNxUlZ6I_8T8PgZIImyYPyqbRLuw4fEwKrRoevFU63M864e2bYP6PwXyB9ebQ-8"
+    },
+    {
+      "position": 18,
+      "title": "Hair Method Studio",
+      "place_id": "ChIJx5cbZY8LlVQRy0TSDkJD3wI",
+      "data_id": "0x54950b8f651b97c7:0x2df43420ed244cb",
+      "data_cid": "206958058877895883",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b8f651b97c7%3A0x2df43420ed244cb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b8f651b97c7%3A0x2df43420ed244cb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.496266399999996,
+        "longitude": -122.6717322
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx5cbZY8LlVQRy0TSDkJD3wI",
+      "provider_id": "/g/11g0crrsrt",
+      "rating": 4.9,
+      "reviews": 114,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Barber shop"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "barber_shop"
+      ],
+      "address": "620 S Gaines St, Portland, OR 97239",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "12\u20135\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 894-8354",
+      "website": "https://www.hairmethodstudio.com/",
+      "description": "Upscale hair studio offering haircuts and other services by a diverse team of stylists.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Beverages"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "user_review": "\"She brought my curls back to life with an AMAZING haircut!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHIjS_Onfe8782V0FWOivxpwZjByz66PqoPbLBI5jfUqclfs9Qz_BYaMQLjRJvO_zDEpbAOvWPh0qWr0kjRiyik4j6yCzLzHI8cTxYfk7bghwCQzlIfEBsbqyNcOST2pe6mYzbVAw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cuiJeXicHcRJDoIwAADAFyF1QzTxAC4RgxZcIHghtmkpBWmxCNIf-gR_Y-Ic5vthTSPVwjRLNh5kQmQleSnyxKJqSNUMsHiYmVQGVoYyneAYFs7O4-cUVpTYM3sUgW0M8_Ytuxt3e21ZQS0C5LvelNNrjUuq5qFO3eR-CH1-2rcw1euNRA5s44CBOn6Cgp_yPi8m3OpX2tc7z8aXd0KLGcpYtwp16dGNq1DdHzE8X0aSWI9Eo8jplt0QAGCw_9iofm7NR1s"
+    },
+    {
+      "position": 19,
+      "title": "Yen Hair Salon",
+      "place_id": "ChIJTXpk-ZWglVQRRBaY-FEp8CU",
+      "data_id": "0x5495a095f9647a4d:0x25f02951f8981644",
+      "data_cid": "2733730405853697604",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a095f9647a4d%3A0x25f02951f8981644&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a095f9647a4d%3A0x25f02951f8981644&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5190939,
+        "longitude": -122.6367437
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTXpk-ZWglVQRRBaY-FEp8CU",
+      "provider_id": "/g/1tdjwqpd",
+      "rating": 4.8,
+      "reviews": 175,
+      "unclaimed_listing": true,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon"
+      ],
+      "address": "2816 SE Stark St b, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 234-7664",
+      "website": "https://yen-hair-salon.edan.io/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Incredibly affordable, and quality haircut.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEw-8Rl05xHGR5uRcWvX-3QX-g6x3g8yVCJNERl9VrnUgRL4CmIgXxZpEI_2AfM8IX6RiRXMxST48c9dvOKNiBxY6Do0sVzkPAOmmi3rY3p0D_D9-ka8wJ-i1PmBXC-AHtd2r_JuA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HxKQgXicHcRRboIwGADgE_1SrZKyxIcKZMImYrexuheyVFYIlBJapHrDHWG3Mdn38P391tYO5snzuhovpNayqyZTjUL3turtQmjlycGAMGA8mmenlsYzENahjds_s83ExOeVAz5xkL7DktyKMM1i1gXF2H9I9roOVSK5-xripFzRnwNJuM8axg_u7X1NRHC5Hl-yZufOfqSRKe5tTo9KNXg84wFFZRRA-03mFJplrnY8BLq3l9VYphPdzkuEENT_C-gfNhNDPg"
+    },
+    {
+      "position": 20,
+      "title": "Soullovey Salon",
+      "place_id": "ChIJm7ZHSVwJlVQRvyFSb39MilA",
+      "data_id": "0x5495095c4947b69b:0x508a4c7f6f5221bf",
+      "data_cid": "5803535180032516543",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495095c4947b69b%3A0x508a4c7f6f5221bf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495095c4947b69b%3A0x508a4c7f6f5221bf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5254823,
+        "longitude": -122.6815826
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJm7ZHSVwJlVQRvyFSb39MilA",
+      "provider_id": "/g/11fjn3w5kh",
+      "rating": 4.9,
+      "reviews": 74,
+      "type": "Hair salon",
+      "types": [
+        "Hair salon",
+        "Hair extension technician"
+      ],
+      "type_id": "hair_salon",
+      "type_ids": [
+        "hair_salon",
+        "hair_extension_technician"
+      ],
+      "address": "317 NW 10th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20137\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 799-8187",
+      "website": "https://www.soullovey.com/locations/nw-portland-pearl",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "user_review": "\"Tina is professional, classy, smart, and treats me and my hair amazingly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_d8sdZPaO2jjAm75MwleY-CEO_ERYhMaiF5BENx2v4jOZOTUYuM6z2lhuDYFum-St9F5Iue5_jbrbDMF6phJZ-9HRNy82LM50EvztwRgYr5QdgA_KK3kSvlM1-OEpJeF46QnkWA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3KdCrXicHcRdboIwAADgE1UQLdMlPlRt43SlgjOmvBCFphXKT2gL0xvuCN7GZN_D9_pT1nbm0_O0mk1k20otnBF93jZWNHaSt7UnOwNyA4yHjlFcIZwVC1OkxysLyhLVH5COWnCwwSzDCVf0eidwjaPfYJiXLGU_Z-5o-Ay0cltOXA1OdknglxMwK2_9bUtJ2Kl9Cpa7JHosgm8KfTw87ZhI3sO4kCg7HGbVadB0Chju9oLMw7ipLmg1Tn3fB-r_HDRvjHVD9A"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+hair+salon+in+Portland%2C+OR&start=20&type=search"
+  }
+}

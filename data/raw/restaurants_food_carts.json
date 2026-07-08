@@ -1,0 +1,2449 @@
+{
+  "search_metadata": {
+    "id": "6a4e583b22abf794a74c3056",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sFvMuQnSZFkmBJpcAzQvyQ/6a4e583b22abf794a74c3056.json",
+    "created_at": "2026-07-08 14:01:31 UTC",
+    "processed_at": "2026-07-08 14:01:31 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+food+carts+in+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/sFvMuQnSZFkmBJpcAzQvyQ/6a4e583b22abf794a74c3056.html",
+    "prettify_html_file": "https://serpapi.com/searches/sFvMuQnSZFkmBJpcAzQvyQ/6a4e583b22abf794a74c3056.prettify",
+    "total_time_taken": 0.93
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best food carts in Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best food carts in Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "CARTOPIA FOOD CARTS",
+      "place_id": "ChIJ9V3zu5-glVQRnSSqFIztMdA",
+      "data_id": "0x5495a09fbbf35df5:0xd031ed8c14aa249d",
+      "data_cid": "15002033019645731997",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a09fbbf35df5%3A0xd031ed8c14aa249d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a09fbbf35df5%3A0xd031ed8c14aa249d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5124351,
+        "longitude": -122.65339589999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9V3zu5-glVQRnSSqFIztMdA",
+      "provider_id": "/g/11byl4hncq",
+      "rating": 4.6,
+      "reviews": 1710,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court",
+        "Beer garden",
+        "Restaurant"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court",
+        "beer_garden",
+        "restaurant"
+      ],
+      "address": "1207 SE Hawthorne Blvd, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201311\u202fPM",
+        "friday": "11\u202fAM\u201312\u202fAM",
+        "saturday": "11\u202fAM\u201312\u202fAM",
+        "sunday": "11\u202fAM\u201311\u202fPM",
+        "monday": "11\u202fAM\u201310\u202fPM",
+        "tuesday": "11\u202fAM\u201310\u202fPM"
+      },
+      "website": "http://www.cartopiafoodcarts.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "user_review": "\"They have great vegan options at all the carts.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYU12YZkCoTWPdcpd-e0p4fCKLA_QmwXV5n0WAvH34RyFvH77BgEqyrfWKKYs6WDD33Ag1yWG1onYoDZTbNS3GFYZamoEzkCf5YZ2biuDxil0432V4EvX4MIHVDW3CUWW2NFEc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AN1Qf3icHcRdDoIgAADgE5EoVFtbDySazXL9ivjSihSbChZm2QU7Q7dp63v4vp-ibRszsayqQAOptayyh8nuQqs2U-1A6NqSjQHCAGORdbQpic8PtsPT0tV7tr6I5gIy2ODcDZfkuKmfSTxUkJEuQHjb-10wHs-kd-vvOQtDbkaMUoSItHs2t7Ximqb7c7RDc5-np1p779LNhzx1ztcHfV0riJETY69L8GoRxJQh98CYE_memD5tCCEo_gugfsmKQnI"
+    },
+    {
+      "position": 2,
+      "title": "Hawthorne Asylum Food Cart Pod",
+      "place_id": "ChIJv3-MJZehlVQRJxYQXaCU3wU",
+      "data_id": "0x5495a197258c7fbf:0x5df94a05d101627",
+      "data_cid": "423220306473129511",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a197258c7fbf%3A0x5df94a05d101627&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a197258c7fbf%3A0x5df94a05d101627&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.512789999999995,
+        "longitude": -122.6552887
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv3-MJZehlVQRJxYQXaCU3wU",
+      "provider_id": "/g/11rhwnj17j",
+      "rating": 4.7,
+      "reviews": 2362,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "SE 10th Ave &, 1080 SE Madison St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"A menagerie of food carts with plenty of seating, options, and atmosphere.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTIlidUpH6Trx_AlKXkRVg11nnPdcH9YgS2RSvuDTNVevS9mIwi4BOA0NIlt5d0lwwAw1OSMWJpMUn_uwkHf6-f8JviYchVlAukxtl21jsyQRIdqCD4rYr_BBySYZ-5asnpKa6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/caCdf3icHcRRDoIgAADQE5FQ6qqtD6w1rWUlZtmPa6hoEpKg1Ak7Q7dp632876fSWqq5ZfFqMmJty3jRq6KjrdCF0CPaPiwmFaAKKAsfwmOD13HA6_wkfTfuXhnm20sTJQwhIQ459WcpI-OIDP0qDpNiILNHYGrb22MYBlw7OeTGYIP2ZHfeyN1JZL1p_NIF5XQz1CmtEo775qX5GN3V-xgF-XO5sru0yzzvTdIrcG5KyO3NXRgEIQTVfwrED6BLRYw"
+    },
+    {
+      "position": 3,
+      "title": "Hinterland Bar & Food Carts",
+      "place_id": "ChIJA8nfHtuhlVQRObrjLkMeCEo",
+      "data_id": "0x5495a1db1edfc903:0x4a081e432ee3ba39",
+      "data_cid": "5334547032518670905",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1db1edfc903%3A0x4a081e432ee3ba39&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1db1edfc903%3A0x4a081e432ee3ba39&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5070759,
+        "longitude": -122.61101339999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA8nfHtuhlVQRObrjLkMeCEo",
+      "provider_id": "/g/11q25s2rh3",
+      "rating": 4.8,
+      "reviews": 292,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Restaurant"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "restaurant"
+      ],
+      "address": "2216 SE 50th Ave, Portland, OR 97215",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "9\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u201310\u202fPM",
+        "monday": "11\u202fAM\u201310\u202fPM",
+        "tuesday": "11\u202fAM\u201310\u202fPM"
+      },
+      "website": "http://www.hinterlandpdx.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=ca350456-360d-4bd3-b804-3334b1b81293",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Sports",
+            "Trivia night"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Good set of carts, plenty of veg options and some vegan and gf.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7fNP97JX0um0UBNKr1DhkMa-Pzkm8x-54BIijxOikW7dN7-6Uqrxnps1spGrFooJo3_GkKMEbHNaJkDwo3-c5R5AA0BPSX-1II0kEEN8zHzJdpXQJMcSum7F0vN97wA6xcNmzNw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Fo2Rw3icHcRBroIwFADAEz0p4WPVxEWJKNTwRI2RndGKoLW0UhDCDT2Ct_mJs5jvp2waY2eO8yy9UaF18cxbm9dCV01eNSOhlVMYC8KCdViKW8kiesN0SnlGWkUOAa5rd1HK5AzpINWkB_8viO-PfnOXR3pFCuPDq-4rY11rVvVSa66900quk_AS4ZnLRac9EP7OZ4wE6T4DN46JDEOcDNHArybb8kTsW0WX5I1T2rFxL1AN2M07lxAC5W8B1T9Jl0Oe"
+    },
+    {
+      "position": 4,
+      "title": "Park the Carts",
+      "place_id": "ChIJdw66LtCnlVQRCdRGnoqHjMA",
+      "data_id": "0x5495a7d02eba0e77:0xc08c878a9e46d409",
+      "data_cid": "13874613581452334089",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a7d02eba0e77%3A0xc08c878a9e46d409&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a7d02eba0e77%3A0xc08c878a9e46d409&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5760602,
+        "longitude": -122.6617162
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdw66LtCnlVQRCdRGnoqHjMA",
+      "provider_id": "/g/11fq_3g93v",
+      "rating": 4.6,
+      "reviews": 516,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court",
+        "Asian fusion restaurant",
+        "Coffee stand",
+        "Gyro restaurant",
+        "Hawaiian restaurant",
+        "Italian restaurant",
+        "Korean restaurant",
+        "Pizza restaurant",
+        "Soul food restaurant",
+        "Sushi restaurant"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court",
+        "asian_fusion_restaurant",
+        "coffee_stand",
+        "gyro_restaurant",
+        "hawaiian_restaurant",
+        "italian_restaurant",
+        "korean_restaurant",
+        "pizza_restaurant",
+        "soul_food_restaurant",
+        "sushi_restaurant"
+      ],
+      "address": "7339 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(808) 203-4134",
+      "website": "http://parkthecarts.com/?utm_source=Google%20My%20Business&utm_medium=Website%20Button&utm_campaign=Organic",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"... food from Pinto Thai and it was great and the food cart had a good\u00a0...\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVOvBq_kcizb5-N5mDiwGeUdLypEv-mSnLpspfD9OPY-MUudEVncDkXhyhMB_rnfyBs4iA1rQe39VKojJJKsgrFYrzxDCQYrgnJtIBRasPjgxbmIe3cfXuiXVLt928eeAhw9FX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FCCzgXicHcRLDoIwFADAE1VQNBETFyBoRFTQSGBFtJYWkbb2Fflc0DN4GxNnMd8P01rCwjCezBpRIeiTNEAUFlwTrkdY1AaVgDAgMJzoEFfOJjm-3Vde4XK4zdBhVntluyGXe9hL_43qMw8lyMKzj1GG9pfm7icce1XKerZ3c8WL3oVp6YxVTCw72YlHEOyAqnWmhs5bxZmiPNBb93SF6EG7W70lFi7SpkyTUNuTOSEOa-11umzHpmki9h8j_gMLY0ab"
+    },
+    {
+      "position": 5,
+      "title": "Farmhouse Carts",
+      "place_id": "ChIJT_OaloKhlVQRA1WqaUB1Dpc",
+      "data_id": "0x5495a182969af34f:0x970e754069aa5503",
+      "data_cid": "10884766268912194819",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a182969af34f%3A0x970e754069aa5503&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a182969af34f%3A0x970e754069aa5503&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5051316,
+        "longitude": -122.62795109999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT_OaloKhlVQRA1WqaUB1Dpc",
+      "provider_id": "/g/11s8n0x95p",
+      "rating": 4.8,
+      "reviews": 60,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "2415 SE 35th Pl, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(360) 356-6257",
+      "website": "https://farmhousecarts.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Great food cart pod, cozy vibes and excellent food!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELMGqeYU2GXpCp31Q4V3KdQhh00_YUrI5JfcknkTXxybLjFJxUnyv0TxTT-PPi6tltlmEm5rXhh0ScKFSIaD-Q1f6vAMlWCB1uXkn948KU85ZD3CttKSDGu_osb27FhF03utqfnkevoFrk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZXVcQHicHcvBboIwGADgJ6oUK-qW7IBgiaILBNjQi5ldoa6lRfrD8Ck9-zYuu3y373EXAK19dRwlyKQ2pla8t7xjRgPXMGGmcerWImaRdfzkPZX-erePrvxQTKOyDVriprMPEn-nQmB8OhTdxttWTGqZl-PtvPuh27HQtwHnY56jJLnMQYFq1o3XlX8jYzHNNl8hSt1qPvh79Rms3L6U-mW2jIuldwxJABBnYdSfjD1PF1RQTHq4VlrywdBOvv26GGMk_mVIPwFkeUcF"
+    },
+    {
+      "position": 6,
+      "title": "MLK Street Food (Food Cart Pod)",
+      "place_id": "ChIJ1TVT4BKnlVQRQzmFBoJniZY",
+      "data_id": "0x5495a712e05335d5:0x9689678206853943",
+      "data_cid": "10847314985651353923",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a712e05335d5%3A0x9689678206853943&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a712e05335d5%3A0x9689678206853943&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5493518,
+        "longitude": -122.66186569999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1TVT4BKnlVQRQzmFBoJniZY",
+      "provider_id": "/g/11kqq40cpb",
+      "rating": 4.6,
+      "reviews": 63,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "3625 NE Martin Luther King Jr Blvd, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(971) 319-3192",
+      "website": "https://www.mlkstreetfood.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as LGBTQ+ owned"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"Nice new food cart pod, nice options with a really nice atmosphere.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENAvSwILxLPULpOcXSkfhCIR97Mewi6QkEl5yFOOOooQH_M2-YZIhzuvQRG3nYcw9S5PpIoKbenXFDqjPfMpvTVcgSZA3sxTxF9sQ8-pONFutprRk8dWhJDVKAzHWMjmYYSuY7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eka5p3icHcTbboMgAADQL6K6mba6ZA9k1emqImIv-NKkDGXVAit4aX9w37C_WbLzcH5_hLXavDhOL7xFq1Tb88HwG1PScmkXTF2dVhvADDAOLHLcwTCHI5mSdE6LXaoRO5KuEW9JGawzPn2tcBf2y3uEEFIKx6fsGdA6EY9hxOW7JymbArIsdKK2Zy6P0eb7UjSZHqs9a0kNPTNXcxQY7AON8miw-lZ2_udBfGz2W_iID9nlSikZ6Pp1enJdF4j_GZB_khFFcw"
+    },
+    {
+      "position": 7,
+      "title": "The Heist Bar & Food Carts",
+      "place_id": "ChIJjaRcVuChlVQRCvuldHYCOrE",
+      "data_id": "0x5495a1e0565ca48d:0xb13a027674a5fb0a",
+      "data_cid": "12770522401148893962",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1e0565ca48d%3A0xb13a027674a5fb0a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1e0565ca48d%3A0xb13a027674a5fb0a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4795544,
+        "longitude": -122.61384059999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjaRcVuChlVQRCvuldHYCOrE",
+      "provider_id": "/g/11t_yvw0jh",
+      "rating": 4.7,
+      "reviews": 575,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Bar",
+        "Coffee shop",
+        "Food court",
+        "Video arcade"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "bar",
+        "coffee_shop",
+        "food_court",
+        "video_arcade"
+      ],
+      "address": "4727 SE Woodstock Blvd, Portland, OR 97206",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 206-8732",
+      "website": "https://theheistpdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Fireplace",
+            "Great beer selection",
+            "Great cocktails",
+            "Live music",
+            "Serves local specialty",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Has changing table(s)",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0X3l2dzBqaBgAOgMI8A0%3D&g2lbs=AEzIGDu-Rr-_8i-gBD66I408-JAqU682MQGoSOM7VasFnzQtS-Nra6HnorpJa5AUtbNEfq13-Sin&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=O1hOapuaOfzm5NoPncLWgAU&ei=O1hOapuaOfzm5NoPncLWgAU&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"A lot of selections on food carts, great bar and lots of places to sit.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTHIbKEQH2TEdV76KgSavG3ZTGDp7Az3DXycqcTe-GpNZ712WWGN2fOD_v7xjZivPIduzHPh-hGFWK-Y-QFul2kZbNQj4fJNTsk_L41ztfbSqAE9cL6oqAyjW8g-5afLC8eNqWz_aCVW1M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WQDVuHicHcTNToMwAADgJ-r4m2OaeGgGlAlWyJp140KgK62AFGxBx0t69m1M_A7f7480ZtRPltVLbyOUEj2fNf9kajB8MBumPiwxasA00BbMcN7BiMTHOgnz2CXh7ezvEnGqFuQVBAWjD1cvuNzZxAgHaMSF77iUIuw2b0G5-N9t8b5kx9u8xpkEEkU0AVeQR3PvdkWN83bbvGCiuzLdOqtp6tMEw0eW7tQE7y3dC_BQNelhz_FE17I6nKnz-vzl2LYN5P8MDH_wlUXS"
+    },
+    {
+      "position": 8,
+      "title": "Piedmont Station Food Carts",
+      "place_id": "ChIJOeuLcRunlVQRLDYLyLVPDio",
+      "data_id": "0x5495a71b718beb39:0x2a0e4fb5c80b362c",
+      "data_cid": "3030447241430775340",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a71b718beb39%3A0x2a0e4fb5c80b362c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a71b718beb39%3A0x2a0e4fb5c80b362c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5629779,
+        "longitude": -122.65912279999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOeuLcRunlVQRLDYLyLVPDio",
+      "provider_id": "/g/11bw4ntnkw",
+      "rating": 4.7,
+      "reviews": 590,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "625 NE Killingsworth St, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(971) 645-3032",
+      "website": "https://facebook.com/PiedmontStationFoodCarts",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"The Mahi tacos food cart has amazing fish tacos!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEz1iAkhi7XbkWiqWKd1Nlwx39_PsW07a1ClZbkfJQ6zB5o8dHv51eyRbuzKFF8F-SOdQgjSU543nlCoR9CLKGnzwv8eMzqg_W42_b9mZkIf8Ip2m41aSaE4aHVCEpT0h9yWGyi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2Q_6nHicHcRdboIwAADgE1VaAQUTH5CAOjYnsFnjC-GntqylxRVFesGdYbdZsu_h-_1hw9DrlWUJZs-oUlSQuybftZIDkcOsVp1Few1qDbQVHA8pDyKD2oCzdnmuOG5vOGnQQYxP2y-OGsNliUJxqfj1JV2Yjau8ZvdwEZmy6m6SOPZikL83Kf3KP13HliJUmR--JltpxodH3syNFtiZF5XfXfj-6u37eeegMi8jp9ydwqj_gMyf8HZq1yOCEAL2fw3kHzyzQ_c"
+    },
+    {
+      "position": 9,
+      "title": "Foster Food Carts",
+      "place_id": "ChIJZYjKDwChlVQRHnUFy1DlRA8",
+      "data_id": "0x5495a1000fca8865:0xf44e550cb05751e",
+      "data_cid": "1100256344151520542",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1000fca8865%3A0xf44e550cb05751e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1000fca8865%3A0xf44e550cb05751e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4957564,
+        "longitude": -122.6084657
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZYjKDwChlVQRHnUFy1DlRA8",
+      "provider_id": "/g/11y7sksrgr",
+      "rating": 4.8,
+      "reviews": 146,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "5205 SE Foster Rd, Portland, OR 97206",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139:10\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 877-5561",
+      "website": "https://www.instagram.com/fosterfoodcarts/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": true
+      },
+      "user_review": "\"Wonderful cart pod with live music, beer, and some of the best ramen in town\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEUwxPrC5YQ013UYsNxecyHFvj7l-8al4NORmt1LRoL4vHpBwfPlS-e7IdxqtY_YzwEP4_1wmcJDv3kl65qpB_FGQHLmSHCR7u2Gmj3YkdfzQXgwaVCjYYa0m6dDVK5YZzDUAhEzXD-UhP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/O2PwUHicHcTBboMgAADQL6Li1Los2cGqLe2MQxubsosxSCUKYgsV50_uvL9Zsnd4vz_cmEm_OY7g3qZTqhPsqdmDqtGw0Wyokk43aUA10E6E82KIUFrZBT_igBTQ9Sqi84XRb7Sf-1CA10b4-WcpjZuVKvNnNO3sDYszYOGxXe6G1GS1KfZr10p6SmZvENvgPu3q_aFAmTyjuAyfLwfZe2Rob2tx7WxziXtCGii3bXL5CMjXmlQRT9drAiqO360LIQT8fwrGP590R0U"
+    },
+    {
+      "position": 10,
+      "title": "The Yard at Montavilla",
+      "place_id": "ChIJGc5iZnqhlVQRL4-lcyNNQX8",
+      "data_id": "0x5495a17a6662ce19:0x7f414d2373a58f2f",
+      "data_cid": "9169695130962464559",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a17a6662ce19%3A0x7f414d2373a58f2f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a17a6662ce19%3A0x7f414d2373a58f2f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5244418,
+        "longitude": -122.57851129999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGc5iZnqhlVQRL4-lcyNNQX8",
+      "provider_id": "/g/11r26d73dt",
+      "rating": 4.4,
+      "reviews": 256,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "8220 NE Davis St, Portland, OR 97220",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3\u202fAM",
+      "hours": "Open \u00b7 Closes 3\u202fAM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20133\u202fAM",
+        "thursday": "7\u202fAM\u20133\u202fAM",
+        "friday": "7\u202fAM\u20133\u202fAM",
+        "saturday": "7\u202fAM\u20133\u202fAM",
+        "sunday": "7\u202fAM\u20133\u202fAM",
+        "monday": "7\u202fAM\u20133\u202fAM",
+        "tuesday": "7\u202fAM\u20133\u202fAM"
+      },
+      "phone": "(503) 975-0874",
+      "website": "https://www.montavillafoodcarts.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFyMjZkNzNkdBgCOgMI8A0%3D&g2lbs=AEzIGDvhaI7R-b2ZZSxWaRr4qLBl-qkwiKhalzagosCKAs-SrsTOC7sxm3qnjtQjUjC-IRVO7ORb&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=O1hOapuaOfzm5NoPncLWgAU&ei=O1hOapuaOfzm5NoPncLWgAU&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"There is plenty of food carts to choose from nice and clean good energy\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF4R5HkFhXs5-hyCczQo8s9BR9UpbAAOHBjHD1GdP7Le5Q6-u-1zYxGe_2znzKNMizgp7WNcxRdfnye3OoUK-jAY9TACDA6RMPdo5bZ1OjEBGRTd9HkQMEsB7kOGIxAF9PgCLAn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9gdf5HicHcRLDoIwFADAE1VARayJiwcKGOXXYPxsTCy1FbQlFiP2gp7B25g4i_l-RNe1emZZNzEacKX4jT01e1AlOya7AVV3i7caUY20BXlaNBCOiRs3odhrF4l3QE2hphr7BG_bM0AW-3W8cKIq9zbMLSboiRxz6CN2Ghpp1mlyNbz1dintSXWRbzbK1HaNajjgEoIFTEiSV8o9H52sXvoRKSscN0Wy1L7XZNGqhxDnPNiAnL8c27aR-E-R_AG45UKJ"
+    },
+    {
+      "position": 11,
+      "title": "28th Parallel Food Carts",
+      "place_id": "ChIJVfAvRQChlVQR_FRI3peQ_1k",
+      "data_id": "0x5495a100452ff055:0x59ff9097de4854fc",
+      "data_cid": "6485060970380547324",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a100452ff055%3A0x59ff9097de4854fc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a100452ff055%3A0x59ff9097de4854fc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5263237,
+        "longitude": -122.63696619999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVfAvRQChlVQR_FRI3peQ_1k",
+      "provider_id": "/g/11vyvvhn77",
+      "rating": 4.7,
+      "reviews": 27,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court",
+        "Beer garden"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court",
+        "beer_garden"
+      ],
+      "address": "2810 NE Glisan St, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "11\u202fAM\u201310\u202fPM",
+        "sunday": "11\u202fAM\u201310\u202fPM",
+        "monday": "11\u202fAM\u201310\u202fPM",
+        "tuesday": "11\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 807-9669",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Lots off VEGAN options -  everything fresh and so much care.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG-vOmdsjsl_5XJ4MQ1w5QLkE8S3L6v_UYLJmBK5049EYy08mqwfDp0c1_H6ljbB52h3eXQe3dPKB1KsgI9Wk2v34-MuWzl57zj4uD5Xwi5tOH8uMNty7GOFOpXGGytu-L6eA4O=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lkTOknicHcRdDoIgAADgE5EYYNbWgy6zUiPXmvbkFpKm-FOAzi7YGbpNW9_D9_2USvVyZRiiRLOi6wrBteQv1rWKt2rGusYoegmYBNJwTse4dnww0CaXlRQZSQ84is2RxGHt2WcUWkN2uYaHxg0IxEvvOkG7eY73TQ-Zme0sUd1cMi8RT2OO8lPgmoEs9sukng8Ig0gnb0EW7wrrDUnHB1F0Z-voqKaFT7e0T31_UhqEFncwXY8mhBCU_xlof5jvQlc"
+    },
+    {
+      "position": 12,
+      "title": "Cartside Food Carts",
+      "place_id": "ChIJ23zbmkCnlVQRERjigFX_YHQ",
+      "data_id": "0x5495a7409adb7cdb:0x7460ff5580e21811",
+      "data_cid": "8385983248863467537",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a7409adb7cdb%3A0x7460ff5580e21811&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a7409adb7cdb%3A0x7460ff5580e21811&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5359967,
+        "longitude": -122.666877
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ23zbmkCnlVQRERjigFX_YHQ",
+      "provider_id": "/g/11fv1pyss0",
+      "rating": 4.7,
+      "reviews": 374,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "1825 N Williams Ave, Portland, OR 97227",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(971) 825-4247",
+      "website": "https://www.cartsidepdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"The food carts are all 100% and fairly priced and it\u2019s family friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfLA0uxATOY4K1_5ULzlvCu3bGSeAn01Vr_AsdSXOMqKOq1HS7zeO4aC-_SpkvHmkVMg73aWBigI9__PDHg4rWkz3_LVSyCPblqN3zoYQJv6blLeoxmavX-Nmpc45IDJ3CDkQVTQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6h5Jm3icHcRdDoIgAADgE5E4rFZbD6RbVubPKKsnpkTYQFFRK2_YEbpNW9_D9_0UXVebpWWpAk2E1kLx3vCW6arjVTdhurREbQAzwFg4DhOJ_XuAYf_Cx-jq7G06PQWjGtwe5RvCcQXttKXY3MglOjT7qLF9Mh955GQuoKSWg1_K9CDmKDuvH2K7oDT2fOG0ZzkiGqTk7ca5akI06muyG2a5Crh-ldlwAWFZM2e69XbI9WSSHpPV04YQguI_A9UPsNhE3g"
+    },
+    {
+      "position": 13,
+      "title": "Bing Mi Food Cart",
+      "place_id": "ChIJ0T3D3AELlVQRLNl00FcRhTE",
+      "data_id": "0x54950b01dcc33dd1:0x31851157d074d92c",
+      "data_cid": "3568277348618131756",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b01dcc33dd1%3A0x31851157d074d92c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b01dcc33dd1%3A0x31851157d074d92c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5186175,
+        "longitude": -122.67932429999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0T3D3AELlVQRLNl00FcRhTE",
+      "provider_id": "/g/11y3n0l2h1",
+      "rating": 4.9,
+      "reviews": 76,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Chinese restaurant",
+      "types": [
+        "Chinese restaurant"
+      ],
+      "type_id": "chinese_restaurant",
+      "type_ids": [
+        "chinese_restaurant"
+      ],
+      "address": "Pioneer Courthouse Square, 701 SW 6th Ave, Portland, OR 97204",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "11\u202fAM\u20133\u202fPM",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(971) 930-2968",
+      "website": "https://bingmipdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Comfort food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"incredible food, great price, reasonable portions.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHqK6ymGOp47MKXRndXR8VvlJszATei2yf7r27Sd17Dd1PfBgnbrA-05F85oF9UpAivfX3vIYsehgLW2qS1iBp_EPRzwLWHkVCOOAi1N1l3UGUEdxhdad7q4XCM9rDl3oG8zo5Ionc_1C8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3ksvu3icHcRLcoIwAADQE0UIiEFnuoio4BeKRenKqUlIGGMSCEXlkl33Np3pW7zfH9F1xs4cRwp_xLXmkn1b1hKtOqa6EdF3hxsLiAXWwdnh_YaTpNlOXvc4NWO035a5omUennq5sQP-YLX3qlDroSOFaEFhVs25urYYuMEqDPRqWhhc91Xp9-tPywTfnb3mCOu5uSyzfHjszsntFKUpruEBSr-IiyV9CvpFUTMuo_20XUhfx-Ggg7VW5AKj8O0BXdcF4n8C1B817UYH"
+    },
+    {
+      "position": 14,
+      "title": "The Bite on Belmont",
+      "place_id": "ChIJ4X9nx-2glVQRJhMbzxPUurk",
+      "data_id": "0x5495a0edc7677fe1:0xb9bad413cf1b1326",
+      "data_cid": "13383242424228975398",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0edc7677fe1%3A0xb9bad413cf1b1326&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0edc7677fe1%3A0xb9bad413cf1b1326&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.516831599999996,
+        "longitude": -122.61848479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4X9nx-2glVQRJhMbzxPUurk",
+      "provider_id": "/g/11clvc1hmm",
+      "rating": 4.7,
+      "reviews": 231,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "unclaimed_listing": true,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "4255 SE Belmont St, Portland, OR 97215",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "Closed",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjbHZjMWhtbRgCOgMI8A0%3D&g2lbs=AEzIGDt4PA_KERFU7PpTYrv4QqhcT_9jPEDDUbyM8zu2xnXHJeI986qtKoC6gw3U7-Mc_qKNl484&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=O1hOapuaOfzm5NoPncLWgAU&ei=O1hOapuaOfzm5NoPncLWgAU&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The Syrian Falafel is the best Falafel I've had in so long!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9Y9mNYVOiBUvM29EjRqjXeToFIGUarU9pBHhm-2kvh3XbHF-AUwGiGtW1QyYAvy5OpKIAZGa1tfCEeRGeN5JpU7IceHup_IrMLEZ2Ih_j6u3zW0tPW0VAo9gAbRWD8C_VME0H9Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/c7XjyXicHcRRboIwAADQE1UKxM0u8aM6KHUDhVgQf4g2lYpCKy0YvaFH2G1M9j7e30taq82X41ylP6mVqq9iMKLnqrOisxOuWqfWBnADjIM3SXrBISpRm5T5-rxgY-yhoMluzU5sVUgJO_QM6UUkW-BdRunvjlEIMLuTM7GFmz5KPD6ma_1D8Z4cXHtaBiIjIpmuNPukXESDrmgf_wZ7j8qq-Rj8ZwHtpoA5VqjGx6z4ni2rPA5ghNL53YUQAvk_B90bhN1DoA"
+    },
+    {
+      "position": 15,
+      "title": "Cathedral Park Food Carts",
+      "place_id": "ChIJz5i6EwCplVQRmIN8VTdhOtw",
+      "data_id": "0x5495a90013ba98cf:0xdc3a6137557c8398",
+      "data_cid": "15869103127278683032",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a90013ba98cf%3A0xdc3a6137557c8398&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a90013ba98cf%3A0xdc3a6137557c8398&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.593351299999995,
+        "longitude": -122.75704669999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz5i6EwCplVQRmIN8VTdhOtw",
+      "provider_id": "/g/11vxvlpdl7",
+      "rating": 4.7,
+      "reviews": 41,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "unclaimed_listing": true,
+      "type": "Takeout Restaurant",
+      "types": [
+        "Takeout Restaurant"
+      ],
+      "type_id": "meal_takeaway",
+      "type_ids": [
+        "meal_takeaway"
+      ],
+      "address": "7431 N Saint Louis Ave, Portland, OR 97203",
+      "country": "United States",
+      "extensions": [
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "user_review": "\"Best food cart pod \u2014 tvs, covered and beverage cart with great options!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkjh-rIrAM_0yWLahDZdIeV0oViS8gAzBNfokjPuslh3NwhuPKCztKqVGjBHGV7RrA0UZKyB2NPDLyDRSVeinQeUcfGVMzTcNShixGX0ErvKl8UZuni4or1Ugf8WujsLCst3wJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/auNF7XicHczbboIwAADQLyrUuURi4kOBBRFsEEY1vCxLLS0XW9fLGPzgvmF_M-PLeTx_v8Lau9n6_ijWHleKj8wZpqmSlknrUXXz-d0AaoDxUYFPA9oPvQA61ej4Aedz_ini5poyAhXpqoCjJcStGvrCmceIJ-GKLFps9kWSPtwnZFNqBOsmm8MXXMT5HJcVYZ08sZq2CTku7xRXovtJLvBNf2djUDdOdq9Kr2reBmfXmzwydj0ddtMKQgjEUwrkP8bkRgw"
+    },
+    {
+      "position": 16,
+      "title": "Portland State University Food Cart Pod",
+      "place_id": "ChIJ20eMJ-kLlVQRifx-se6-hTs",
+      "data_id": "0x54950be9278c47db:0x3b85beeeb17efc89",
+      "data_cid": "4289044152529648777",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950be9278c47db%3A0x3b85beeeb17efc89&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950be9278c47db%3A0x3b85beeeb17efc89&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5094263,
+        "longitude": -122.68171889999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ20eMJ-kLlVQRifx-se6-hTs",
+      "provider_id": "/g/11t42rfltl",
+      "rating": 5,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "1901 SW 4th Ave, Portland, OR 97201",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"We arrived late and several carts were still open.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1AhhL7nVTntlOoz98OXNH-v2dNDvDNEhfc1d-K1pIfRu0JGAfierfx2sR4K7JtNBak6jDYO0PlHxlOl983AEbrDzaNSZWZaDsrOpDvz5yf_clM2TEJNdMQh1AqeZeKbWr1_PtnA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xPnVqnicHcTbbsIgAADQL8JC1XlJ9oChWdcq1Eu89MVUCmUToQJ2rn-4T9jfLNl5OL8_KoTWz6NIq-GgsbbR4uGF49YEYcKA21vUtB5wD3yEC7q-4hRhpZYTs9-ZoJntZ1N2pCno4pqSjtBESY5qkKP2XW4eMHvD8kM4-Yz9ZpRPskAX1fXlk5wYLHT61EzPpkOcXBzpK7otD2VFvGMt6frxtzxzvYp3SUbr1VohfBelyC8Hh85FMPj1C0EIgfqfA_MHqk5E-A"
+    },
+    {
+      "position": 17,
+      "title": "Drunken noodles",
+      "place_id": "ChIJeXzbxckJlVQRwN4TZh6X3j4",
+      "data_id": "0x549509c9c5db7c79:0x3ede971e6613dec0",
+      "data_cid": "4530224431998688960",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509c9c5db7c79%3A0x3ede971e6613dec0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509c9c5db7c79%3A0x3ede971e6613dec0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5592755,
+        "longitude": -122.6520295
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeXzbxckJlVQRwN4TZh6X3j4",
+      "provider_id": "/g/11j6tvc1hh",
+      "rating": 4.7,
+      "reviews": 189,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "unclaimed_listing": true,
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant",
+        "Food court"
+      ],
+      "type_id": "thai_restaurant",
+      "type_ids": [
+        "thai_restaurant",
+        "food_court"
+      ],
+      "address": "5005 NE 14th Ave, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 10:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "10:30\u202fAM\u20138:30\u202fPM",
+        "thursday": "11:30\u202fAM\u20138:30\u202fPM",
+        "friday": "11:30\u202fAM\u20138:30\u202fPM",
+        "saturday": "12\u20138:30\u202fPM",
+        "sunday": "11:30\u202fAM\u20138:30\u202fPM",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "11:30\u202fAM\u20138:30\u202fPM"
+      },
+      "phone": "(503) 830-1515",
+      "website": "https://wedelivereats.com/index/restaurants/de4ce3f1/31290",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Comfort food",
+            "Quick bite",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Seating"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFqNnR2YzFoaBgAOgMI8A0%3D&g2lbs=AEzIGDvpXRiXVrxNefeaaY6-NjFHdSM7NhrHoWUE75E7YE1pciJalfr6cQfTH1onNp3iSGhgRpOw&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=O1hOapuaOfzm5NoPncLWgAU&ei=O1hOapuaOfzm5NoPncLWgAU&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Prices are super reasonable and all of the food looked incredible!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxW0XcB9KR0Iqrn3-GjbdiWUrOwiH-8kI8kSGhDizoiEYKe6WfoKvEpB6_mmZzJBD7_uc70CqGsnYMZya1dVD_rM8GFSZH66J9ZSTLLPGxGk3330PzZ5a5rd772kJfBTtVT3Xk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mUMojnicHcTdFoEwAADgJ5rGjopzXEiM8hNF7KbDSmXass1fL-gZvI1zfBff91NoXau-YVwL1MqFyK_ZXWWSCq4zrltUVEZeK0AVUMYwWK7ZcPKK4Z46PX8DZzfJEcCXU1rGW7l6llNgs5nNQly4ZSPK8cHPzPgs_Me4dsykqkjjOa6V3KkFRzes-GFB3sd2unMTubDxJCRT0_R6JIzm8wC_MEMIwaAh3WNXppbVYd7ZifQuQns2eLYhhKD4TwH_AQ4YQx8"
+    },
+    {
+      "position": 18,
+      "title": "CORE - Bar & Food Carts",
+      "place_id": "ChIJF5I7MJ2hlVQRngItpiqR1To",
+      "data_id": "0x5495a19d303b9217:0x3ad5912aa62d029e",
+      "data_cid": "4239454236601811614",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a19d303b9217%3A0x3ad5912aa62d029e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a19d303b9217%3A0x3ad5912aa62d029e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4960075,
+        "longitude": -122.57834039999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF5I7MJ2hlVQRngItpiqR1To",
+      "provider_id": "/g/11qsr5mt31",
+      "rating": 4.6,
+      "reviews": 355,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "3612 SE 82nd Ave, Portland, OR 97266",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "11\u202fAM\u201310\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM",
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM"
+      },
+      "website": "https://www.corepdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Food cart choices galore and a clean, bright, open space to meet/eat in.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELNXedcLAYwPqSKPn_r69DpT_W3-VBYpgSTX6L0cLsQ8ob3jSc6ai1hKaHLOzayFHS5qxyaAVGOyChU-An3FUcsqvW4KRZshEyte57kgAzRmV28Z2HU754TwpJR0akbBpcFrvO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tauYIXicHcTbboIwGADgJ6pUETwku6ibjEgjyMnDjan_mnZD20KrDF9wz7C3WbLv4vv9kc4Zu_S8q_RHQmtx5XfLO9DKceVGoG-eMBaBRdYj2XbXkDXdHvgHUHLss7ZIMnXuwsWbKc97H9WroxFFeQgpBmp3c33xvwoI2edYJiym6ZMNUVwE7ffASP2eDq-yQkT5UQW2feynSX6ycj04HswaQZ75rZ7MT5O4mgXTsjebHLPmsjIQdY_0pR9jjJH8H5D6AzbZREM"
+    },
+    {
+      "position": 19,
+      "title": "Piknik Park Food Cart Pod",
+      "place_id": "ChIJ51__rdsKlVQRhbnPpeCEmJ0",
+      "data_id": "0x54950adbadff5fe7:0x9d9884e0a5cfb985",
+      "data_cid": "11355972560804100485",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950adbadff5fe7%3A0x9d9884e0a5cfb985&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950adbadff5fe7%3A0x9d9884e0a5cfb985&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4642244,
+        "longitude": -122.6545062
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ51__rdsKlVQRhbnPpeCEmJ0",
+      "provider_id": "/g/11c1pdh3l1",
+      "rating": 4.6,
+      "reviews": 279,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court",
+        "Restaurant"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court",
+        "restaurant"
+      ],
+      "address": "1122 SE Tacoma St, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u20138\u202fPM",
+        "thursday": "11:30\u202fAM\u20138\u202fPM",
+        "friday": "11:30\u202fAM\u20138\u202fPM",
+        "saturday": "11:30\u202fAM\u20138\u202fPM",
+        "sunday": "11:30\u202fAM\u20138\u202fPM",
+        "monday": "11:30\u202fAM\u20138\u202fPM",
+        "tuesday": "11:30\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(630) 839-0329",
+      "website": "http://www.piknikparkpdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Food cart pod with a few vegetarian and vegan friendly spots.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFL8udCw1-x2NiSW-LlQ30xZlQUU30dO9SpFg-FGCNIxdDTUNaI-z76uJ_G-U-ElS_EHNiIfyguVW8uTd3NOO1SLW9hZU2NOH6TiaRIwTn9S_BAiQBrR8YsMdixSBxPb6O_DnSb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/od4xJ3icHcRRboIwGADgE_1SJEEw8QFUlIW1YunIfCFKsTTrCrE0VC-4M-w2S_Y9fL8__TSNZu15qg8WYhiE6qzpHu2gp05Pi3b49sRooDVgvOSEy68kKyLLt7MPboklraFQZYDcRZWMBYiTmI6ZgOywxbnju4rhaw6vVWjfmgMw2Cva7I9Y5vensB91ZCseYEJ8WtRxf2FLTI5hJa_nfK50TJs0kWX6OEef5p1LR1N3uoWk2Wl628w-Qgj6_1vQf37GQpY"
+    },
+    {
+      "position": 20,
+      "title": "Arborlook Carts",
+      "place_id": "ChIJ18OpZ5mnlVQRB7_9bEo_BV4",
+      "data_id": "0x5495a79967a9c3d7:0x5e053f4a6cfdbf07",
+      "data_cid": "6774890803337477895",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a79967a9c3d7%3A0x5e053f4a6cfdbf07&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a79967a9c3d7%3A0x5e053f4a6cfdbf07&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5659341,
+        "longitude": -122.69543709999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ18OpZ5mnlVQRB7_9bEo_BV4",
+      "provider_id": "/g/11t0thl5p3",
+      "rating": 4.8,
+      "reviews": 48,
+      "price": "$10\u201320",
+      "extracted_price": 10,
+      "type": "Food court",
+      "types": [
+        "Food court"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court"
+      ],
+      "address": "5916 N Greeley Ave, Portland, OR 97217",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM",
+      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u20139\u202fPM",
+        "thursday": "12\u201310\u202fPM",
+        "friday": "12\u201310\u202fPM",
+        "saturday": "12\u201310\u202fPM",
+        "sunday": "12\u20139\u202fPM",
+        "monday": "Closed",
+        "tuesday": "12\u20139\u202fPM"
+      },
+      "website": "http://www.arborlookcarts.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Great food selection, reasonably priced and delicious.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6hKzYekF6sHEfE-EOzr36mdBS9y2lQLqzyxRsai_Nd4-5uMZe9dE3ApmFoogOWKMp0diHwmf8XNz7GdxqccCz9d5n98UHc2fJZ10bjoFqEZbc08S8TOUYD8t1y3ei6Ny4R18=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EjwYu3icHcxJDoIwAADAFxWKIBYTD6hFIgquUbgYbcuiQMHWKH2gf_A3Gi9znM87l7IRQ10vc1PLOM9K9hDsTngtWS01wis9awQgAgjdXYXrm-vbeaBidvNs4eMUAxypu2lXdLx1ul65XrSqe23EuTiF1AL9xzJhDsWm21Teb48OwbKBtPCfVYqOoRrM6KslZKIc2q8dtPdJL50nBrxcudfi5EIg2qJdtI-nSBqdyQo77KyNgUZPA0II8r8E1F8EZkNo"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+food+carts+in+Portland%2C+OR&start=20&type=search"
+  }
+}

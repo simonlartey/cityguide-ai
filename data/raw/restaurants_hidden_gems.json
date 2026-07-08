@@ -1,0 +1,3202 @@
+{
+  "search_metadata": {
+    "id": "6a4e5844f3a0a7fc8e1b7cc2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BfdLyJHcSH8fbk1Rw3-nXA/6a4e5844f3a0a7fc8e1b7cc2.json",
+    "created_at": "2026-07-08 14:01:40 UTC",
+    "processed_at": "2026-07-08 14:01:40 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/hidden+gem+restaurants+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/BfdLyJHcSH8fbk1Rw3-nXA/6a4e5844f3a0a7fc8e1b7cc2.html",
+    "prettify_html_file": "https://serpapi.com/searches/BfdLyJHcSH8fbk1Rw3-nXA/6a4e5844f3a0a7fc8e1b7cc2.prettify",
+    "total_time_taken": 1.89
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "hidden gem restaurants Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "hidden gem restaurants Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "The Observatory",
+      "place_id": "ChIJu9pp4gahlVQRK2-syvMVfQ4",
+      "data_id": "0x5495a106e269dabb:0xe7d15f3caac6f2b",
+      "data_cid": "1044014825441357611",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a106e269dabb%3A0xe7d15f3caac6f2b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a106e269dabb%3A0xe7d15f3caac6f2b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5192701,
+        "longitude": -122.58019379999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu9pp4gahlVQRK2-syvMVfQ4",
+      "provider_id": "/g/1tgvdbnw",
+      "rating": 4.6,
+      "reviews": 3248,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "American restaurant",
+      "types": [
+        "American restaurant",
+        "Bar",
+        "Cocktail bar",
+        "Restaurant"
+      ],
+      "type_id": "american_restaurant",
+      "type_ids": [
+        "american_restaurant",
+        "bar",
+        "cocktail_bar",
+        "restaurant"
+      ],
+      "address": "8115 SE Stark St, Portland, OR 97215",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201310:30\u202fPM",
+        "saturday": "11\u202fAM\u201310:30\u202fPM",
+        "sunday": "11\u202fAM\u201310\u202fPM",
+        "monday": "11\u202fAM\u201310\u202fPM",
+        "tuesday": "11\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 445-6284",
+      "website": "http://www.theobservatorypdx.com/",
+      "description": "Trendy pick for comfort eats & cocktails. Stylish neighborhood eatery earns buzz for its creative take on American classics & craft cocktails.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRndmRibncYAjoDCPAN&g2lbs=AEzIGDs8ti8JqvnDqfJL0GKpDLryFTFt9fO4O5I2Gltf7Bo50QE3pDRdI_hjuNV1EopWdt1ggRrB&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=RFhOasmxOK397_UPgoPmgQQ&ei=RFhOasmxOK397_UPgoPmgQQ&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Creative and delicious menus, great service, fun and comfortable atmosphere!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF8TyEPfiwHrVfHKhC4Hhhdu37DyTMQFzmN7zrb8bjBPfu1VJhPPJbBTh-9kB4FVAwXKqxLIQfviT-9_iaGmEHKJ-xSm5UKZE9nJhUFiojLrhJdE6dbcHwFZEjvkVpAH74lSf3J=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-x78fHicHcRNjoIwGADQE1UwoMgks4CZ1lrUlIhk4sYMhfLxW6Qg6gU9g7cx8S3e6wnD0Okvw6jBmuVK5XU26qwXqh2ydpgJ1Rh5p5HQSBse34eVR1bRHXNZTLSPJQ3gx6YA6Wg5v_doF5JHs3cefbJKSp_LcR4z4JwlfgTIrXybxN70F1xu200or0WE3HPxv24wDRi6HZrFMThht2VwJIUqtz2wFC_TRNCJnHB5reLOo45dH6TFvqe5aZoIPgvUvgFNfURL"
+    },
+    {
+      "position": 2,
+      "title": "Q Restaurant & Bar",
+      "place_id": "ChIJlTRPdw8KlVQRart98XbCf1s",
+      "data_id": "0x54950a0f774f3495:0x5b7fc276f17dbb6a",
+      "data_cid": "6593202195607173994",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0f774f3495%3A0x5b7fc276f17dbb6a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0f774f3495%3A0x5b7fc276f17dbb6a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.516803599999996,
+        "longitude": -122.67505899999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlTRPdw8KlVQRart98XbCf1s",
+      "provider_id": "/g/11c5rpjx25",
+      "rating": 4.7,
+      "reviews": 1565,
+      "price": "$50\u2013100",
+      "extracted_price": 50,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Bar"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "bar"
+      ],
+      "address": "828 SW 2nd Ave, Portland, OR 97204",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u20139\u202fPM",
+        "thursday": "11:30\u202fAM\u20139\u202fPM",
+        "friday": "11:30\u202fAM\u20139\u202fPM",
+        "saturday": "4\u20139\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "11:30\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 850-8915",
+      "website": "http://q-portland.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=2445e5f5-8a8f-4d47-a4f9-a5850a66c9c0",
+      "description": "Stylish spot for Pacific Northwest fare. Modern & romantic space featuring imaginative, locally sourced Pacific Northwest cuisine.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great beer selection",
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Organic dishes",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/udsQ_1yZAO4?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "user_review": "\"The food and drinks were absolutely amazing and the service was stellar!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1wtFEx33tTDw7BRZRtR2Vmlf1-hz8urJnRf_C6MCWvmqAXVWNzFMXVHHalRbogXwtbmxLMxQQikYPT61Vss1OdCy3he6cQWkdXzwqJKolStysnws7u5eo1Xdbc1XuLuWMb0fZwg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/o7kdgHicHcTRToMwFADQL-qgkjFj4gOiZJljjrpA3csipbSG0m67t5bxh36Cf2PieTi_PxrxDA9RZHSyUM4pIz3Iq3AWpcWFcGOkzkAEEIiy_a4asoIGLF6mJMHDc1g9sSNDdlePpqdEz_f-urGsP-VpmTff4yXjdbObi5LX6_WnYa1TPGA7Tttyqqqv4WN_SGkNQN-6_JZomYqqGTo-h8vm1Zl3vIENsPJL6SjvWkG53_qmbOP-GNRjoHEcE_2_IPYPWUlHXg"
+    },
+    {
+      "position": 3,
+      "title": "Hearth & Vine",
+      "place_id": "ChIJ6fJ7btQLlVQRHpt4Vxd3pL4",
+      "data_id": "0x54950bd46e7bf2e9:0xbea4771757789b1e",
+      "data_cid": "13737235705522330398",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950bd46e7bf2e9%3A0xbea4771757789b1e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950bd46e7bf2e9%3A0xbea4771757789b1e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.523303,
+        "longitude": -122.6829435
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6fJ7btQLlVQRHpt4Vxd3pL4",
+      "provider_id": "/g/11mlx_yv99",
+      "rating": 4.7,
+      "reviews": 146,
+      "price": "$30\u201360",
+      "extracted_price": 30,
+      "type": "American restaurant",
+      "types": [
+        "American restaurant",
+        "Event venue",
+        "Wine bar"
+      ],
+      "type_id": "american_restaurant",
+      "type_ids": [
+        "american_restaurant",
+        "event_venue",
+        "wine_bar"
+      ],
+      "address": "10 NW 12th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "11\u202fAM\u201310\u202fPM",
+        "sunday": "11\u202fAM\u201310\u202fPM",
+        "monday": "Closed",
+        "tuesday": "11\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 741-2744",
+      "website": "http://hearthandvinepdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Private dining room",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": false,
+        "delivery": false
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/a__TM4tj924?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "user_review": "\"The food is delicious and the vibe is elevated, intimate and cozy.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGK9MgvPjiJCNnmZx_Pa7aQoCVxis-m15NLAsT7ZPWVHuDJbrUgBZ9a5sA_0r3bOhO0XwSoOZGt2iFQ-MQd3lTddjL4N3zTXMMFWGjHFmLV5MefQJwsQhibC1Cdmlpm8Rknp9mQmglalxej=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/958B4nicHcTbToMwGADgJ-ooItkw8QIxsDAKVJEt3CwcagvrgfB3QnxJr30bE7-L7_dHWDvDk-NI4e24MVyyO7ClN9oybXe9UQ6fAfWAwAnLnN7C5BQQ_lVOYxrlWjXbtWz3LTVRvY2AlOvnWQjVvinP9fH-mnbLB39pgtaH8IoXrytEgS_ruymaxD6MMUWEDp6shmHKHnPvu7oQEp-T6RirrPYJ-6TpClSMXeRGg5KzOrzd9Bwoqrhs5cam59XFGCPxf4_0H4tXR8E"
+    },
+    {
+      "position": 4,
+      "title": "Screen Door Eastside",
+      "place_id": "ChIJu1MQrL6glVQRNuGYoTmvBoY",
+      "data_id": "0x5495a0beac1053bb:0x8606af39a198e136",
+      "data_cid": "9657599113001754934",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0beac1053bb%3A0x8606af39a198e136&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0beac1053bb%3A0x8606af39a198e136&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.523016999999996,
+        "longitude": -122.64162499999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu1MQrL6glVQRNuGYoTmvBoY",
+      "provider_id": "/g/11cjp9qxp9",
+      "rating": 4.7,
+      "reviews": 7694,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Southern restaurant (US)",
+      "types": [
+        "Southern restaurant (US)",
+        "Brunch restaurant",
+        "Family restaurant"
+      ],
+      "type_id": "southern_us_restaurant",
+      "type_ids": [
+        "southern_us_restaurant",
+        "brunch_restaurant",
+        "family_restaurant"
+      ],
+      "address": "2337 E Burnside St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20132\u202fPM, 4:30\u20139:30\u202fPM",
+        "thursday": "8:30\u202fAM\u20132\u202fPM, 4:30\u20139:30\u202fPM",
+        "friday": "8:30\u202fAM\u20132\u202fPM, 4:30\u201310\u202fPM",
+        "saturday": "8:30\u202fAM\u20132\u202fPM, 4:30\u201310\u202fPM",
+        "sunday": "8:30\u202fAM\u20132\u202fPM, 4:30\u20139:30\u202fPM",
+        "monday": "8:30\u202fAM\u20132\u202fPM, 4:30\u20139:30\u202fPM",
+        "tuesday": "8:30\u202fAM\u20132\u202fPM, 4:30\u20139:30\u202fPM"
+      },
+      "phone": "(503) 542-0880",
+      "website": "https://screendoorrestaurant.com/east-side/",
+      "description": "Southern comfort food with a NW twist. Refined Southern specialties like buttermilk-fried chicken in roomy digs offering weekend brunch.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Organic dishes",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/C-ElNjqBnuA?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjanA5cXhwORgAOgMI8A0%3D&g2lbs=AEzIGDt2f81iHKXY8acNQdTfxDQb08udQ_IMUMikk0sO-JKb0AeCke_1NiFeksloObEpWDh25A_R&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=RFhOasmxOK397_UPgoPmgQQ&ei=RFhOasmxOK397_UPgoPmgQQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Outstanding food, super friendly staff, and a very cool, welcoming ambiance.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGh-F8I2-0pZnsWyOFSwh4A9XaKFp-zjFr2Vrkg2Wou54_hZr0X_jhrrcnK52c7WGJ9MAxFBXWy59ltKTZVcjASgTKF2kF1d140trVZeRXolzpDJ55hrPICf_xImeVT4_4hjRsI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lOi-7HicHcTdbsIgGADQJ8JSBpld4gVqMLXxZ9q0TW8ag4wvbQUCGKsv6DPsbZbsXJzfN8TowleSjPAx09bqUd2D8tKaqEycSXtLtAtIBhQSftx_D3wDSMxzgrBrTaifB3F-AOVZcymEQ69eeFL5QZPa3hntoPW46XrwXpqCEflZb7bZjk9i2dRPlo2xKNtK9vysy0KQQaTXlOLoq1adGju-3HrLGPhjvvrppvymqpJ2FPpTyBePFGOM4H-JzB8BMEPl"
+    },
+    {
+      "position": 5,
+      "title": "Lilia Comedor",
+      "place_id": "ChIJcfxUYwULlVQRlCW4srsrr_4",
+      "data_id": "0x54950b056354fc71:0xfeaf2bbbb2b82594",
+      "data_cid": "18351935091715351956",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b056354fc71%3A0xfeaf2bbbb2b82594&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b056354fc71%3A0xfeaf2bbbb2b82594&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5263056,
+        "longitude": -122.67829169999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcfxUYwULlVQRlCW4srsrr_4",
+      "provider_id": "/g/11s94nzrnh",
+      "rating": 4.7,
+      "reviews": 291,
+      "price": "$100+",
+      "extracted_price": 100,
+      "type": "Pacific Northwest restaurant (US)",
+      "types": [
+        "Pacific Northwest restaurant (US)",
+        "Restaurant"
+      ],
+      "type_id": "us_pacific_northwest_restaurant",
+      "type_ids": [
+        "us_pacific_northwest_restaurant",
+        "restaurant"
+      ],
+      "address": "422 NW 8th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u20139\u202fPM",
+        "thursday": "5\u20139\u202fPM",
+        "friday": "5\u20139\u202fPM",
+        "saturday": "5\u20139\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "5\u20139\u202fPM"
+      },
+      "phone": "(503) 984-0828",
+      "website": "http://www.liliapdx.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10116908362801027932",
+      "description": "Upscale restaurant serving creative Pacific Northwest dishes with a Mexican influence.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great dessert",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Healthy options",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/VJKxJ4dr4VU?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "user_review": "\"The food, drink and welcoming environment were beyond fulfilling.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcAiBVMurucQILgc_SoNylisf1UrY7Rruz01Hh-oQUcWSL9WRUsErclLvqwYU10uHxOAwd-UaI7FSUkq8CArlQa9JjhzwR8V8Ktfmy5GKqlE0YLIYwLcuvdi33AmP7s6iuMmOr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fOLmx3icHcRJDoIwFADQE1VKiIImLqpxQOsApBhWxnyRooVKB6te0DN4GxPf4n0_3Ji7Hnme4EGvkrISpdWlAtmasjU9kI1X3TUCjbRH9tvkRhZA6km-scpCEtMKjpncvkStLz5TRZgq-8b-kiOZMDhkdHhImZ4pEPTRuYL52C6fO-LOiJ3icJ6xWxdNiRLJabi68rdLozxam0vz6i_WnZjhgsaFo2Af5zoISLMP9aC2m2anxs7HGCP-H1D7A9PDRc0"
+    },
+    {
+      "position": 6,
+      "title": "Coquine",
+      "place_id": "ChIJj5vTbf6glVQRafj1UTq2hk4",
+      "data_id": "0x5495a0fe6dd39b8f:0x4e86b63a51f5f869",
+      "data_cid": "5658410343437039721",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0fe6dd39b8f%3A0x4e86b63a51f5f869&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0fe6dd39b8f%3A0x4e86b63a51f5f869&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5170361,
+        "longitude": -122.5924019
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj5vTbf6glVQRafj1UTq2hk4",
+      "provider_id": "/g/11btywtqf9",
+      "rating": 4.7,
+      "reviews": 872,
+      "price": "$100+",
+      "extracted_price": 100,
+      "type": "New American restaurant",
+      "types": [
+        "New American restaurant",
+        "Restaurant"
+      ],
+      "type_id": "new_us_american_restaurant",
+      "type_ids": [
+        "new_us_american_restaurant",
+        "restaurant"
+      ],
+      "address": "6839 SE Belmont St, Portland, OR 97215",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u201310\u202fPM",
+        "thursday": "5\u201310\u202fPM",
+        "friday": "5\u201310\u202fPM",
+        "saturday": "5\u201310\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "5\u201310\u202fPM"
+      },
+      "phone": "(503) 384-2483",
+      "website": "https://www.coquinepdx.com/",
+      "description": "Refined New American fare in warm digs. Cozy corner kitchen serving polished, farm-to-table New American dinners & casual cafe fare by day.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Healthy options",
+            "Organic dishes",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Takeout"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": true,
+        "takeout": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFidHl3dHFmORgCOgMI8A0%3D&g2lbs=AEzIGDuLA5WCEB75pjJIYVHfMn_Sqx6ATHWycJYRtvuOwP8Jo57MIbvnoPL0_TpJqAU4kH9PZzXM&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=RFhOasmxOK397_UPgoPmgQQ&ei=RFhOasmxOK397_UPgoPmgQQ&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Absolutely fantastic, great food, decent service and the setting is fun!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxvLk4samAg5Mkwpkbsk__eADCL_rMLRp1PVm51i82Pc1k_3pPbr_RYHl3697RcSJg1JrbSVw7gu4rFZQXO3ZgGT10qjFhU3mNvt2SE8MDLRsUNQhBZhsSMGaTqHTptN6Mco_1sw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bpayQ3icHcRJDoIwFADQEyHUOicucEBjKDIaZdNIQ1ot0NpfxSt6BG9j4lu870dYq2Hhuo3AA64Ub-on1IapztadHTDVulyDw8AB14-jRPrB-xXKEVxbn4-J7LWsQFJa-5t1SA0JU43iUztGt9kwZkhSrOPK0PSyb_BkPk1ZduDoYKrs1E_5c2SCMjkfccl3OfIe90AUuI1edphtZ2QTplBEiViVAjKyu-aPfa5tNCFMUQT9skee5zniP3O6H-leRRc"
+    },
+    {
+      "position": 7,
+      "title": "Siam Umami",
+      "place_id": "ChIJ0TY-UhALlVQR9tr7iWFzuBg",
+      "data_id": "0x54950b10523e36d1:0x18b8736189fbdaf6",
+      "data_cid": "1781300515389037302",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b10523e36d1%3A0x18b8736189fbdaf6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b10523e36d1%3A0x18b8736189fbdaf6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4926227,
+        "longitude": -122.67644569999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0TY-UhALlVQR9tr7iWFzuBg",
+      "provider_id": "/g/11t2lck7_m",
+      "rating": 4.9,
+      "reviews": 258,
+      "price": "$20\u201350",
+      "extracted_price": 20,
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant",
+        "Cocktail bar"
+      ],
+      "type_id": "thai_restaurant",
+      "type_ids": [
+        "thai_restaurant",
+        "cocktail_bar"
+      ],
+      "address": "4237 S Corbett Ave, Portland, OR 97239",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u20139\u202fPM",
+        "thursday": "4\u20139\u202fPM",
+        "friday": "4\u20139\u202fPM",
+        "saturday": "4\u20139\u202fPM",
+        "sunday": "4\u20139\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 479-8188",
+      "website": "http://siamumami.com/",
+      "description": "Casual, cozy, friendly Thai eatery for familiar dishes like curry and pork belly plus cocktails.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Healthy options",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Romantic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/iUHTjHiPGDY?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0MmxjazdfbRgAOgMI8A0%3D&g2lbs=AEzIGDvI1nq6CMk-v_vBVFaPgvFM9o6JUGEzw43hK8kz3uw_9zfx11D7LiH6BpByIHmZU_fpn2WD&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=RFhOasmxOK397_UPgoPmgQQ&ei=RFhOasmxOK397_UPgoPmgQQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Literally everything from the ambiance to the food and drinks were perfect.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9XNmgDm8aOtf__e4j9KZOH4V7gpFdBfjnLbPTimjckvAC_Mso5rWOjNpdWRqUrz3MoiDw9QZ60M4I4n9rGGZ_ibBuWfzXfJ6SSropWZkXAX8X-qa2i7exAB5NCI2KiSdaXspyUzKrfjG3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FGcuGnicHcRLUoMwAADQE6VgoR-ccRFaxYpAK1YybBgakpBQkjRJrXJJ197GGd_i_f70zml773nnPpgxpdiZXC0xWElHpJthNXpMW4AtsB7c54cBPkYoH9l2XLeFo01DQhGldfEcfqyYfupiKuTraf_OR4GHT7hpMqsWpipErrvq7XI0U5Apvr1Fh3rpZ-EulJFJkrrhp_ha0QnRl2VZGqWrekAQrRG4tHO-Il8wXuSb3TzlZdciq7-PU2qoSIKH253v-6D_HwP5B9fxR_c"
+    },
+    {
+      "position": 8,
+      "title": "Le Pigeon",
+      "place_id": "ChIJn_5mjKWglVQR94bKSpAYe4s",
+      "data_id": "0x5495a0a58c66fe9f:0x8b7b18904aca86f7",
+      "data_cid": "10050654001416537847",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a58c66fe9f%3A0x8b7b18904aca86f7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a58c66fe9f%3A0x8b7b18904aca86f7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5228349,
+        "longitude": -122.65781199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn_5mjKWglVQR94bKSpAYe4s",
+      "provider_id": "/m/0x2vl5r",
+      "rating": 4.6,
+      "reviews": 1144,
+      "price": "$100+",
+      "extracted_price": 100,
+      "type": "French restaurant",
+      "types": [
+        "French restaurant",
+        "Family restaurant",
+        "Modern French restaurant",
+        "Restaurant"
+      ],
+      "type_id": "french_restaurant",
+      "type_ids": [
+        "french_restaurant",
+        "family_restaurant",
+        "modern_french_restaurant",
+        "restaurant"
+      ],
+      "address": "738 E Burnside St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u201310\u202fPM",
+        "thursday": "5\u201310\u202fPM",
+        "friday": "5\u201310\u202fPM",
+        "saturday": "5\u201310\u202fPM",
+        "sunday": "4\u201310\u202fPM",
+        "monday": "5\u201310\u202fPM",
+        "tuesday": "5\u201310\u202fPM"
+      },
+      "phone": "(503) 546-8796",
+      "website": "https://www.lepigeon.com/",
+      "description": "Vibrant, cozy French restaurant. Elegant French-inspired fare served with a diverse selection of wines in a lively & intimate room.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Lunch reservations recommended",
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": false,
+        "delivery": false
+      },
+      "user_review": "\"We were blown away by the food, and the service was equally top notch.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRTPJfgW1urh_zyx0geCfPK-eZFlmpF1yjOrbjc0a8C8lOV-SszlyR9P3TlnDBsxonUkVACQHrCFvn_r1mkhsR1aMSEXPrUUsAbyVc6VWZzdpWU_kT5n5Bnz9vH6cOdzXXEmwLkg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kE1VXnicHcRbjsIgFADQFWEhRqOT-FGrTTOjU6x9xZ9GESFCoeHWR9mhS3A3Jp6P837Jvu_gJwi0HI-EtULzG3DHrOm56UfMtoHoADFAEIT0f6fCJMvp70VU5OZk44cnFjy60D_ED7Fuu5gM19SdrgwfZ9FMpyXag9dDNqfjXJvVEp7WFKoMo13iovhuGkdaJSEjx-1-XVNXFBCehpJNy-rgz11VNCqfmMnS-Pk9mbL07Ot63T42SiweBGOM5HeGzAeBg0c3"
+    },
+    {
+      "position": 9,
+      "title": "Emerald Line",
+      "place_id": "ChIJ67MsC54JlVQRpXHfwRfDM28",
+      "data_id": "0x5495099e0b2cb3eb:0x6f33c317c1df71a5",
+      "data_cid": "8012962668826554789",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495099e0b2cb3eb%3A0x6f33c317c1df71a5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495099e0b2cb3eb%3A0x6f33c317c1df71a5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5359291,
+        "longitude": -122.68733879999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ67MsC54JlVQRpXHfwRfDM28",
+      "provider_id": "/g/11hf1bss6s",
+      "rating": 4.8,
+      "reviews": 245,
+      "price": "$10\u201340",
+      "extracted_price": 10,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "1800 NW 16th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20132\u202fPM, 4\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20132\u202fPM, 4\u20139\u202fPM",
+        "friday": "11\u202fAM\u20132\u202fPM, 4\u201310\u202fPM",
+        "saturday": "4\u201310\u202fPM",
+        "sunday": "Closed",
+        "monday": "11\u202fAM\u20132\u202fPM, 4\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20132\u202fPM, 4\u20139\u202fPM"
+      },
+      "phone": "(503) 241-6559",
+      "website": "http://theemeraldline.com/",
+      "description": "Hip Mediterranean eatery with a terrace. Trendy venture preparing Mediterranean meals & drinks in a colorful building with patio seating.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Healthy options",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Romantic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Quick service, delicious food, laid back neighborhood vibe.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSPQPu5GtMZkgzXPa3mWIeQ1jHT9rQh8d6hyDSvswpPs_AnLYJtJ3pY1l-i-yDiwetOnKEeNKXKivMPWoy5WskFA8rGGoclCStS9mdUXp-r6YWJi8mfpKRtjC9OujmZSaJuU62=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XZHqeHicHcRZroIwFADQFVVAIoGXvA_igIJDsRrAH2NqpQwdQi8S3KBrcDcmno_zeXMAbf4sq-XupFSqbFlvWEeVBCZhQpWwSm0QNchYId6nTRgRnOJ-FsHu0pSvHN9ckW1Y6tTrU9Cl3L97fFyQpxk0NtdQbosYYlcXTosqNC6qgcFBJku2T_Kkeu5wpsZZZppV6HdRpGg7J0ACcT_nGnVekcWVLx46OUI9Dw59LS7kFvdnb_o_OLZtI_6bIvkFtzJFrA"
+    },
+    {
+      "position": 10,
+      "title": "Olympia Provisions",
+      "place_id": "ChIJDzuJgKeglVQRXyGLZ_NJERA",
+      "data_id": "0x5495a0a780893b0f:0x101149f3678b215f",
+      "data_cid": "1157787888973979999",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a780893b0f%3A0x101149f3678b215f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a780893b0f%3A0x101149f3678b215f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.518769,
+        "longitude": -122.663939
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDzuJgKeglVQRXyGLZ_NJERA",
+      "provider_id": "/g/1tcxjgzf",
+      "rating": 4.6,
+      "reviews": 1517,
+      "price": "$20\u201370",
+      "extracted_price": 20,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Charcuterie",
+        "Cocktail bar",
+        "Pacific Northwest restaurant (US)",
+        "Wine bar"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "charcuterie",
+        "cocktail_bar",
+        "us_pacific_northwest_restaurant",
+        "wine_bar"
+      ],
+      "address": "107 SE Washington St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u20139\u202fPM",
+        "thursday": "11:30\u202fAM\u20139\u202fPM",
+        "friday": "11:30\u202fAM\u201310\u202fPM",
+        "saturday": "10\u202fAM\u201310\u202fPM",
+        "sunday": "10\u202fAM\u20139\u202fPM",
+        "monday": "11:30\u202fAM\u20139\u202fPM",
+        "tuesday": "11:30\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 954-3663",
+      "website": "https://www.olympiaprovisions.com/",
+      "description": "Cured meats & meals in industrial space. Housemade charcuterie & European-style meals provided in an industrial space with a to-go counter.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Organic dishes",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/Hd_LquUiZqU?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRjeGpnemYYADoDCPAN&g2lbs=AEzIGDvzs-Z6eNHglzSfS93dEcmzLKKVYHrNhx-BIP6p5tj4lKoZS-LnYhve_YMA9cuSm2m9djdE&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=RFhOasmxOK397_UPgoPmgQQ&ei=RFhOasmxOK397_UPgoPmgQQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The food, the drinks, the service, and the atmosphere are all top-notch!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmN-kBDbGRYYdMI4gHTMzCaxJ3gwLahIryFHu8mB4EFKpKZHG0h-7qCWu_h9WrF3TTB7ulcG6WsDALpM7J5CDm-Q2VUSI2DTZMHOMt0Kzz8w8La8Tq_2fxu85ks2x2m9mkOWVe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g1qFanicHcTbboIwAADQL6p0RaWa-MBFLkK9bFWiLwY71iZQQNoG5Af9hv3Nkp2H8_sWWndqbVm1sGe8bXldGlX2rG102egZa6XFOwWYAspyj_tT5UZyDyoveESf1-s3SeY8pmTyi3Fn8yErRNK_wthg6c23YdqltziCAjhPPzd3scr70KbUc0zNomWuAjfriLNb-IEEJ3Q5fyUooDcSH4iG6TThAWcFps87-hkNXlQKjUiuZHXIL-Vm-IAQAvE_A80fva1Cyw"
+    },
+    {
+      "position": 11,
+      "title": "Canard",
+      "place_id": "ChIJN9nCjKWglVQRnr-YstaX95c",
+      "data_id": "0x5495a0a58cc2d937:0x97f797d6b298bf9e",
+      "data_cid": "10950387967349800862",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a58cc2d937%3A0x97f797d6b298bf9e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a58cc2d937%3A0x97f797d6b298bf9e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.522799,
+        "longitude": -122.65799969999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN9nCjKWglVQRnr-YstaX95c",
+      "provider_id": "/g/11f4yh02py",
+      "rating": 4.7,
+      "reviews": 1207,
+      "price": "$30\u201380",
+      "extracted_price": 30,
+      "type": "French restaurant",
+      "types": [
+        "French restaurant",
+        "American restaurant",
+        "Brunch restaurant"
+      ],
+      "type_id": "french_restaurant",
+      "type_ids": [
+        "french_restaurant",
+        "american_restaurant",
+        "brunch_restaurant"
+      ],
+      "address": "734 E Burnside St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u201310\u202fPM",
+        "thursday": "4\u201310\u202fPM",
+        "friday": "4\u201310\u202fPM",
+        "saturday": "4\u201310\u202fPM",
+        "sunday": "4\u201310\u202fPM",
+        "monday": "4\u201310\u202fPM",
+        "tuesday": "4\u201310\u202fPM"
+      },
+      "phone": "(971) 279-2356",
+      "website": "https://www.canardrestaurant.com/",
+      "description": "Chic global kitchen & cocktail venue. Dishes take their inspiration from all over the world at this stylish venue mixing fresh cocktails.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Late-night food",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trending",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"Love the drinks, food, vibe, hospitality\n\nMenu is incredible.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSFWvKlBT3ciVppvqOIap3WK4ZzwUBPu5LkTJi759Oz4NZBqk7Nb6i5WC1q0JQju2m4PxXvMbKPsym-4yzPUYgB4DVOkMOpFxiIhcq7HxHBgoFjb-kayOadrdwTx2t3qPSIQHMUg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NL94D3icHcRdboMgAADgE1FtxZkt2UPZYrROwVTr1jelBi0qUPD3hjvCbtNk38P399sYI_WbZXWNs2NCsK4edf2gYjD1YHZU9BaTGlANtHUkScqP_tkvpqhDmUPbi5STwmEpnSKC123OERndL56dWs99xRtMrkhxL6leWrf42Cv7lN7HQw_J8j3FVUT02gO4biT_YQh-XjCPsfSXNmyo8oIlQEz49wrwcsXl7XGbs-VgHEXOYRrEOXuf97Ztg-Z_CoYn755FtQ"
+    },
+    {
+      "position": 12,
+      "title": "Arden Restaurant Portland",
+      "place_id": "ChIJiR7c4gEKlVQR6sk4VSxK2QU",
+      "data_id": "0x54950a01e2dc1e89:0x5d94a2c5538c9ea",
+      "data_cid": "421449594404653546",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a01e2dc1e89%3A0x5d94a2c5538c9ea&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a01e2dc1e89%3A0x5d94a2c5538c9ea&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5260526,
+        "longitude": -122.681367
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiR7c4gEKlVQR6sk4VSxK2QU",
+      "provider_id": "/g/11hbw3wdsr",
+      "rating": 4.7,
+      "reviews": 483,
+      "price": "$100+",
+      "extracted_price": 100,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "American restaurant",
+        "Bar",
+        "Cocktail bar",
+        "Fine dining restaurant",
+        "Organic restaurant",
+        "Seafood restaurant",
+        "Pacific Northwest restaurant (US)",
+        "Vegetarian restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "american_restaurant",
+        "bar",
+        "cocktail_bar",
+        "fine_dining_restaurant",
+        "organic_restaurant",
+        "seafood_restaurant",
+        "us_pacific_northwest_restaurant",
+        "vegetarian_restaurant"
+      ],
+      "address": "417 NW 10th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u20139\u202fPM",
+        "thursday": "5\u20139\u202fPM",
+        "friday": "5\u20139\u202fPM",
+        "saturday": "5\u20139\u202fPM",
+        "sunday": "Closed",
+        "monday": "5\u20139\u202fPM",
+        "tuesday": "5\u20139\u202fPM"
+      },
+      "phone": "(503) 206-6097",
+      "website": "https://www.ardenpdx.com/",
+      "description": "Airy wine bar with seasonal plates. Warm, rustic-modern outpost offering seasonal Pacific Northwest cuisine & a sizeable wine menu.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Healthy options",
+            "Organic dishes",
+            "Private dining room",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trending",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"We couldn\u2019t have asked for better food, atmosphere, drinks, and service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_AuS7CBiss-a-38youz5XD7RWwqPP5cfHXcDRvlIy9kKl0wb5I4FOIsCrihPUcNdECYcRUg7qfimznv0WX6suzM6ynd4-bM7CSOs_HobHVxbJCulIvUBlM3hq1exl3ryH9-DN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/e8QPdXicHcTBDYIwFADQiSo1CKiJBygY0ICIQfFkpCIl1lb4FIQFncFtTHyH9_2wtn3BUtM40yellCUvFBQNlaItRDuh8qmVL0AUEGh2HO0ftnex1cEiTgWArkifD1KNRuZayamv49igdz-jbtLxYFg8thz3uRHM1rsASFOxOKXRzSNnmqSlVd-r5yg6fMpMUGNoDuI2Q3lokcMOLr7M_eM73xDFgy51eKizelq8ud4M_gK50aqfYowR-0-R-AFso0T7"
+    },
+    {
+      "position": 13,
+      "title": "Behind The Museum Cafe",
+      "place_id": "ChIJ5Wg9XxoKlVQRvg6d-3LXaoA",
+      "data_id": "0x54950a1a5f3d68e5:0x806ad772fb9d0ebe",
+      "data_cid": "9253445273233723070",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1a5f3d68e5%3A0x806ad772fb9d0ebe&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1a5f3d68e5%3A0x806ad772fb9d0ebe&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5164136,
+        "longitude": -122.6843097
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5Wg9XxoKlVQRvg6d-3LXaoA",
+      "provider_id": "/g/1hcbh3nb6",
+      "rating": 4.7,
+      "reviews": 530,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Cafe",
+        "Tea house"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "cafe",
+        "tea_house"
+      ],
+      "address": "1229 SW 10th Ave, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20135\u202fPM",
+        "thursday": "11\u202fAM\u20135\u202fPM",
+        "friday": "11\u202fAM\u20135\u202fPM",
+        "saturday": "11\u202fAM\u20135\u202fPM",
+        "sunday": "11\u202fAM\u20135\u202fPM",
+        "monday": "11\u202fAM\u20133\u202fPM",
+        "tuesday": "11\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 477-6625",
+      "website": "http://behindthemuseumcafe.com/",
+      "description": "Serene hideaway for tea & Japanese bites. Tranquil, antique-lined space where kimono-clad servers offer coffee, tea & light Japanese nibbles.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great tea selection"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMWhjYmgzbmI2GAA6AwjwDQ%3D%3D&g2lbs=AEzIGDtEaVy9pbk4i45Lubfkp6Aji90Wx1qArk7SpWR3zKtO5UMI2Emh1aLhFT1LTPotb0Cj3K_i&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=RFhOasmxOK397_UPgoPmgQQ&ei=RFhOasmxOK397_UPgoPmgQQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Both were delicious and the atmosphere was relaxing.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_fby0ICD7tiX7_DtQIT4O6sXFLWyvMIOTipyBatJ4Wgp-4UguLunfy-edxW2hs--2aoXaslnfkrWB3PuPHKPJCieSIoGTx-0mglqSw6jZoQjPXlpmeoO8Lc2u4gXcsi2eDXwv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wEbAoHicHcTRboIwFADQL7rSIZFliQ8qbsPhKJGFZi8Gu1LA0nbeVuQL_Qb_ZsnOw3ncW-csvgSBauczaYxUwqO4cKOd0G7GzRBIi8ARMFjRz-K82h6b00TSTRK7jsXHxBVpGeULZK9ZNV33aV52dlrXbhdV0kL0JX3mdTOB-LlVYYsAYW1YjUo350u1nlNP3z_obtOJQ2reyhuQQarfw7jov03RU6bsIEz-nPHQR5Jx7EKRsPG6HJ8IIdD-z0H_AZeARd0"
+    },
+    {
+      "position": 14,
+      "title": "Higgins",
+      "place_id": "ChIJ6UnKghoKlVQRDec3N8_R2fE",
+      "data_id": "0x54950a1a82ca49e9:0xf1d9d1cf3737e70d",
+      "data_cid": "17427190921001690893",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1a82ca49e9%3A0xf1d9d1cf3737e70d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1a82ca49e9%3A0xf1d9d1cf3737e70d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.515572,
+        "longitude": -122.68199999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6UnKghoKlVQRDec3N8_R2fE",
+      "provider_id": "/g/11cmbgw3s5",
+      "rating": 4.5,
+      "reviews": 1365,
+      "price": "$30\u201380",
+      "extracted_price": 30,
+      "type": "Pacific Northwest restaurant (US)",
+      "types": [
+        "Pacific Northwest restaurant (US)",
+        "Bar",
+        "French restaurant",
+        "Restaurant"
+      ],
+      "type_id": "us_pacific_northwest_restaurant",
+      "type_ids": [
+        "us_pacific_northwest_restaurant",
+        "bar",
+        "french_restaurant",
+        "restaurant"
+      ],
+      "address": "1239 SW Broadway, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 11:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "11:30\u202fAM\u20139\u202fPM",
+        "thursday": "11:30\u202fAM\u20139\u202fPM",
+        "friday": "11:30\u202fAM\u20139\u202fPM",
+        "saturday": "5\u20139\u202fPM",
+        "sunday": "4\u20138\u202fPM",
+        "monday": "Closed",
+        "tuesday": "5\u20139\u202fPM"
+      },
+      "phone": "(503) 222-9070",
+      "website": "http://higginsportland.com/",
+      "description": "Sophisticated, locally focused NW bistro. Longtime classy spot for local & sustainable NW fare, with a lively bar, many beers & Oregon wines.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great beer selection",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list",
+            "Live music",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Organic dishes",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/K2achOLvQT4?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "user_review": "\"Delicious food, great drinks and impeccable atmosphere\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjbjGwdUzZfpNas2r0UMQY1TUUwYUDZLEBSriQxDWHfaUR9CnYBlanqtB8A7lKfh2NaZJBw_slGl6xXaE1TMU46EkTezpDlWUxQkwvvoZCrI_11Ouokgf59B85Wnnvp2UHjQc1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hlJFTHicHcRNcoIwGADQEyGEKmpnuiCC2lZp0_INwoaJkZ9CTFISCeMFe4bepjN9i_f70xqj9KPr8vZh1kjZ8Oqmq4FJYSphZkxe3UZph2lHu-F7Qvpw2527nb3AvahVQrU_eHAkOUoBbA5RcYjx5_BFpijb1xQ-1huRY07Ft8GrcMlf69ZPaPGCban5jgfTicYoPcI8iPu0uquIZzCR3o6jLDbDc4nQ2032Tb1Y49UiE2JUPuw7wtCTRZ7nOe3_zBF_rndFYw"
+    },
+    {
+      "position": 15,
+      "title": "Rachel & Rose",
+      "place_id": "ChIJJWqLjZILlVQRmaWYCzYFq7s",
+      "data_id": "0x54950b928d8b6a25:0xbbab05360b98a599",
+      "data_cid": "13522908035790972313",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b928d8b6a25%3A0xbbab05360b98a599&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b928d8b6a25%3A0xbbab05360b98a599&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5229146,
+        "longitude": -122.6787956
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJWqLjZILlVQRmaWYCzYFq7s",
+      "provider_id": "/g/11rvbbmdxz",
+      "rating": 4.9,
+      "reviews": 114,
+      "price": "$1\u201310",
+      "extracted_price": 1,
+      "type": "Bar",
+      "types": [
+        "Bar",
+        "Beer garden",
+        "Wine bar"
+      ],
+      "type_id": "bar",
+      "type_ids": [
+        "bar",
+        "beer_garden",
+        "wine_bar"
+      ],
+      "address": "770 W Burnside St, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u20139\u202fPM",
+        "thursday": "5\u20139\u202fPM",
+        "friday": "4\u20139\u202fPM",
+        "saturday": "2\u20139\u202fPM",
+        "sunday": "12\u20136\u202fPM",
+        "monday": "Closed",
+        "tuesday": "5\u20139\u202fPM"
+      },
+      "phone": "(503) 770-0105",
+      "website": "https://www.instagram.com/rachel_and_rose_doubledecker?igsh=YWY4ZzI0b3R0M2Q3&utm_source=qr",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Rooftop seating"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Food",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Outside food allowed",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": false
+      },
+      "user_review": "\"A unique oasis in the midst of the bustle of Burnside.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDvx2-h5NCqY7fIJe47E-faJ9oykxSGO80TTyX7y-lkp8cFrlerZYKghM-MJOrJHqy16qDQwFUTP62rIPnTVroAr0oXnLtJovlqlBQ_SeWWQnsx77YkKROkB39QsIWZCSSKIXL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JBQTuXicHcTbDoIgAADQLyLpSrX1YHexUtJSe2mNkWwQKFDpF_YN_U1b5-F8P9y5yk49T_J-p9S6lOxpmaFaOaZch-qHV1YWUAus58cHIvzV8tX0AB8eFnWB7gFmA7QC9xue6FY0ySYawzRtc9QCKaoxXRvJzKUIS74HexwZvK3b7qhekvf6lMajnglilZ6N9g3Uudo5rF-ylnNyTViWEWUbhAoRHiMx70-IDbLLIknCIN_N3l0IIeD_KVA_KCRETQ"
+    },
+    {
+      "position": 16,
+      "title": "Otto & Anita's Schnitzelhaus",
+      "place_id": "ChIJ4_W0yQwLlVQR48mOJ3o-RDs",
+      "data_id": "0x54950b0cc9b4f5e3:0x3b443e7a278ec9e3",
+      "data_cid": "4270607041024674275",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b0cc9b4f5e3%3A0x3b443e7a278ec9e3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b0cc9b4f5e3%3A0x3b443e7a278ec9e3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.468949699999996,
+        "longitude": -122.7087404
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4_W0yQwLlVQR48mOJ3o-RDs",
+      "provider_id": "/g/1ttdmq24",
+      "rating": 4.8,
+      "reviews": 814,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "type": "Bavarian restaurant",
+      "types": [
+        "Bavarian restaurant",
+        "American restaurant",
+        "Restaurant"
+      ],
+      "type_id": "bavarian_restaurant",
+      "type_ids": [
+        "bavarian_restaurant",
+        "american_restaurant",
+        "restaurant"
+      ],
+      "address": "3025 SW Canby St, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20132\u202fPM, 5\u20138\u202fPM",
+        "thursday": "11\u202fAM\u20132\u202fPM, 5\u20138\u202fPM",
+        "friday": "11\u202fAM\u20132\u202fPM, 5\u20138\u202fPM",
+        "saturday": "5\u20138\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "11\u202fAM\u20132\u202fPM, 5\u20138\u202fPM"
+      },
+      "phone": "(503) 452-1411",
+      "website": "http://ottoandanitas.com/",
+      "description": "Mom-&-pop spot for old-style German food. Schnitzel, pickle soup & other old-school German dishes are featured at this family-run hideaway.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great dessert"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Private dining room",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"Awesome food with unique choices, great beer, and in a quirky location.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTm6SxePUKDaVgGplaaUO5AVyFnVN7G0A2YMmBsNj7-PnrlHTuReK5NlLeXFE3B7hS7QhE4yoXXmh0OTaLm6v2GFYzCuODZm7IipF0JGqgfM58J1DYUjtkAKQAuLlko_2pGmQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ODvQlnicHcTbboIwAADQL6pUHHZZsocypE6QiwIBXwwhXTvpbbRM3QfuH_ybJTsP5_HLnTP2xfMEXy2Y1kzQ2dJp0MpR5RaDlh4zFgwWWA8XWTnibSXXxxst6iTqG0aM6Ps6D3Bzj1WTIQKx3-1laLMLAoWaxLaaDzQJMpHSNt6sQsSPqOSbp7tuW8lhXvWpXH_7JO5-3uY8Okn0_mliuCNf7GMfPO-WUVdf3IiTEs-pGPXZN0SWr9clhBDw_weg_gC1QUMy"
+    },
+    {
+      "position": 17,
+      "title": "Dolly Olive",
+      "place_id": "ChIJRafABQ8LlVQRK_PdEH4464Q",
+      "data_id": "0x54950b0f05c0a745:0x84eb387e10ddf32b",
+      "data_cid": "9577811146633507627",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b0f05c0a745%3A0x84eb387e10ddf32b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b0f05c0a745%3A0x84eb387e10ddf32b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.521382599999995,
+        "longitude": -122.6839138
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRafABQ8LlVQRK_PdEH4464Q",
+      "provider_id": "/g/11t0lf94s7",
+      "rating": 4.6,
+      "reviews": 610,
+      "price": "$30\u201380",
+      "extracted_price": 30,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Brunch restaurant",
+        "Cocktail bar",
+        "Lunch restaurant",
+        "Mediterranean restaurant",
+        "Southern Italian restaurant"
+      ],
+      "type_id": "italian_restaurant",
+      "type_ids": [
+        "italian_restaurant",
+        "brunch_restaurant",
+        "cocktail_bar",
+        "lunch_restaurant",
+        "mediterranean_restaurant",
+        "southern_italian_restaurant"
+      ],
+      "address": "527 SW 12th Ave, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4:30\u202fPM",
+      "hours": "Closed \u00b7 Opens 4:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "4:30\u20139\u202fPM",
+        "thursday": "4:30\u20139\u202fPM",
+        "friday": "4:30\u201310\u202fPM",
+        "saturday": "9\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "4:30\u20139\u202fPM",
+        "tuesday": "4:30\u20139\u202fPM"
+      },
+      "phone": "(503) 719-6921",
+      "website": "http://dollyolivepdx.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=607740b1-c177-4d9d-8348-0cfbeba45699",
+      "description": "Southern Italian spot with house-baked breads, fresh pastas, and brunch, plus cocktails and wine.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Healthy options",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/JAZhTjYcpRw?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0MGxmOTRzNxgAOgMI8A0%3D&g2lbs=AEzIGDtaKMLDJR2-AN1RVDJU6alIS99yzItiuaWx8KGtwIHNA6uIyJ9rpyxPY4oudJnW1qCErvhS&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=RFhOasmxOK397_UPgoPmgQQ&ei=RFhOasmxOK397_UPgoPmgQQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Delicious cocktails, great food, friendly and attentive service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFB4deHx3xQ0f6ogcfWKbn_73Ao-2juTGWuZkiBHWUr7kaD4W712UwYUP1Y4FnBrioV1RBAgzDUy-b_VpLYnq2G3enlQ4BUbH4HWdu4GUQtQTkmDMmA1GMXTtCknvUK-pl7Lvurw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/w_dVxHicHcRRboIwAADQE1UoNCNZso9WJiTqYhdqZT9k1FpcoWW0FbcbegRvY-L7ePdb5_3oXqOo79KFslb1Mjg5CWu8NH4h7BCp0QHhgIvw7oNq_L4i6CjLa3ql8enFKnHi69Y0WYotSH5CVfDwpc-k5GzK9HeOeAYTNtdsB2u0MmQ62z38JFj95-wPtM1-3NTmNylSaXqKCGtLVPJjQAWjnlZ6yLcDhsX2UPmlNhe2BmOfbS5hmt9mGMcx6J4LYB6C-USb"
+    },
+    {
+      "position": 18,
+      "title": "Constantinople Restaurant Portland",
+      "place_id": "ChIJV-E2kIMJlVQRKEspcxRJ-ig",
+      "data_id": "0x549509839036e157:0x28fa491473294b28",
+      "data_cid": "2952752857875041064",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509839036e157%3A0x28fa491473294b28&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509839036e157%3A0x28fa491473294b28&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.525785,
+        "longitude": -122.69414139999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV-E2kIMJlVQRKEspcxRJ-ig",
+      "provider_id": "/g/11yplbkdrw",
+      "rating": 4.8,
+      "reviews": 636,
+      "price": "$20\u201340",
+      "extracted_price": 20,
+      "type": "Turkish restaurant",
+      "types": [
+        "Turkish restaurant"
+      ],
+      "type_id": "turkish_restaurant",
+      "type_ids": [
+        "turkish_restaurant"
+      ],
+      "address": "410 NW 21st Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20139:30\u202fPM",
+        "thursday": "11\u202fAM\u20139:30\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "11\u202fAM\u201310\u202fPM",
+        "sunday": "11\u202fAM\u20139:30\u202fPM",
+        "monday": "Closed",
+        "tuesday": "4\u20139:30\u202fPM"
+      },
+      "phone": "(971) 940-4660",
+      "website": "https://www.constantinoplerestaurant.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/ue56rjyw9Cg?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "user_review": "\"The food was fantastic, and the service and overall atmosphere was great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUhtAa0nz-TDnyaVU_K4N3UFfSn3KHi3Qm6A85OHWudxhCQSZM8UyFXyqUuo7vu3YbihKX7gDzd542PCfxcA06BzPqzNOlOF550sWopLHAfsNpRcCX2xHFIj7UMHdxhufqHK1znAJ7ehs-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DCHgPXicHcxLcsIgAADQE5GgGON0pguMw1BT86lSoxvHkg_aCEmBNuGSXXubdty85bv_CmM6_eT7rUBeo1TTVlZXX1xJU0njcXXzm04DroH2cZbkn5gwYfAZSgd2Kzme39kpniWIkXorUUwvKL_N8SJI6d6Wg4jy7XGzYCMpxp5ZFX5bdPi4iLgIm5Urg9k0i-qBYzhfuqx3SdqmJAig3qvuleJaJ90bj4rpQMnLNWQb-j_auqfxxEm8DiuhwfPPBEIIxEMO5B9j9UbZ"
+    },
+    {
+      "position": 19,
+      "title": "NORMANDIE",
+      "place_id": "ChIJp-nakymhlVQRwy3qqk1wiz0",
+      "data_id": "0x5495a12993dae9a7:0x3d8b704daaea2dc3",
+      "data_cid": "4434761736958651843",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a12993dae9a7%3A0x3d8b704daaea2dc3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a12993dae9a7%3A0x3d8b704daaea2dc3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5223033,
+        "longitude": -122.6554371
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp-nakymhlVQRwy3qqk1wiz0",
+      "provider_id": "/g/11gtz8zmx6",
+      "rating": 4.6,
+      "reviews": 613,
+      "price": "$40\u2013100",
+      "extracted_price": 40,
+      "type": "Bistro",
+      "types": [
+        "Bistro",
+        "Cocktail bar",
+        "Oyster bar restaurant",
+        "Restaurant",
+        "Seafood restaurant"
+      ],
+      "type_id": "bistro",
+      "type_ids": [
+        "bistro",
+        "cocktail_bar",
+        "oyster_bar_restaurant",
+        "restaurant",
+        "seafood_restaurant"
+      ],
+      "address": "1005 SE Ankeny St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u20138:30\u202fPM",
+        "thursday": "5\u20138:30\u202fPM",
+        "friday": "5\u20139:30\u202fPM",
+        "saturday": "5\u20139:30\u202fPM",
+        "sunday": "5\u20138:30\u202fPM",
+        "monday": "Closed",
+        "tuesday": "5\u20138:30\u202fPM"
+      },
+      "phone": "(503) 233-4129",
+      "website": "http://www.normandiepdx.com/",
+      "description": "Bistro fare & Calvados cocktails. Chic bistro with French fare & full bar featuring a lengthy wine list plus 2 happy hour periods.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Healthy options",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/aWLWNqX1SGg?source=pa&opi=79508299&hl=en-US&gei=RFhOasmxOK397_UPgoPmgQQ&ahbb=1&sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1smqQtU_2AZL6kBynN6fqTIizalJueZXE:2!2s1i:0,t:11886,p:mqQtU_2AZL6kBynN6fqTIizalJueZXE:2!7e81!12e5!17smqQtU_2AZL6kBynN6fqTIizalJueZXE:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Dhidden%2Bgem%2Brestaurants%2BPortland,%2BOR%26gl%3Dus%26hl%3Den%26tbm%3Dmap",
+      "user_review": "\"Great food, great cocktails, great service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsgjesT7c5kc42HsOHDEu4T3DuQObyYcsrAsFzinspVLzJsVtV5zS4A5h8gockUT_viJ7Bgkaaram7VLDdAksvWnhKXm62uJU6k1efcn--XAr9mM1nyLQqZvhDDhjbVxy0wKk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/juYgdnicHcTbboIwGADgJyoHBXFLdlFTF4I4R4b1cLPgv67VSsv4Cw4ecO-wtzHxu_j-_5RzDT77_lVNPWmtvIoORQvWOGGcB7b2ZYMEkKBP398KTZcoLwLLBGIN0STFTcqWXVROWVdsTsMBsKX4Op4NNjwfM-SOx-NHRGM1lxb0tvzsz1mykLqq2qpOeM6-qMZ-Z9RqX88mXbad6VB8gyFkT9uneh2aIS9-jr1iTF1O_HcIbiv9cguDICDqMRBzB5ErReE"
+    },
+    {
+      "position": 20,
+      "title": "Roe",
+      "place_id": "ChIJpRflKYSglVQRPCjEZWk8NnE",
+      "data_id": "0x5495a08429e517a5:0x71363c6965c4283c",
+      "data_cid": "8157774198404819004",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a08429e517a5%3A0x71363c6965c4283c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a08429e517a5%3A0x71363c6965c4283c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.520561,
+        "longitude": -122.67919699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpRflKYSglVQRPCjEZWk8NnE",
+      "provider_id": "/g/11h1ny3sq",
+      "rating": 4.8,
+      "reviews": 158,
+      "type": "Seafood restaurant",
+      "types": [
+        "Seafood restaurant"
+      ],
+      "type_id": "seafood_restaurant",
+      "type_ids": [
+        "seafood_restaurant"
+      ],
+      "address": "515 SW Broadway #100, Portland, OR 97205",
+      "country": "United States",
+      "phone": "(503) 232-1566",
+      "website": "http://roepdx.rest/",
+      "description": "Fine-dining seafood destination. Elevated New American seafood tasting menus are served in elegant, cozy surrounds.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Healthy options",
+            "Organic dishes",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": false,
+        "delivery": false
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrzVjm8c6MfYHt5O2ye--6krAKL69a43wc5CcAVG78EgWMKYZX4gdTD309pv6NN9CAtRMePp59oU-6g44jrU084dBODmX0AXW_XZWAQ69gTkmiSm-FAo1j3pUB11giANU2iJdsdg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PZNuknicHcRJbsIwFADQE5k4xDFxpS4-Y1WaMJSQwAYhx_0ZcGzFblG5YY_Q21TqW7zfn9p7656C4FZHIzQGb-rTqUGa3qvej6TRAVpHpCMugG2262A1PI6tTiRPP04vPt6MvxUhvBtg_cbFlUV3Gc8kHFeTZIFFuj6dS4bVYR5RYb94lokZ-H2qtjYWJiccGWuHnCasmm7muqRQFpfyXMCOCzx0unnXZAkmbCObT8MQG8jycfNauQqf7yGllNT_S9L_AcuWQf4"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=hidden+gem+restaurants+Portland%2C+OR&start=20&type=search"
+  }
+}

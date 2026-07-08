@@ -1,0 +1,2596 @@
+{
+  "search_metadata": {
+    "id": "6a4e5849d99612f14fef4f88",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/58E67ycypgFTUsbxLSz5QA/6a4e5849d99612f14fef4f88.json",
+    "created_at": "2026-07-08 14:01:45 UTC",
+    "processed_at": "2026-07-08 14:01:45 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+grocery+stores+in+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/58E67ycypgFTUsbxLSz5QA/6a4e5849d99612f14fef4f88.html",
+    "prettify_html_file": "https://serpapi.com/searches/58E67ycypgFTUsbxLSz5QA/6a4e5849d99612f14fef4f88.prettify",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best grocery stores in Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best grocery stores in Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Market of Choice Belmont",
+      "place_id": "ChIJ57OBoaGglVQRt96xeWPmJPk",
+      "data_id": "0x5495a0a1a181b3e7:0xf924e66379b1deb7",
+      "data_cid": "17952727329523490487",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a1a181b3e7%3A0xf924e66379b1deb7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a1a181b3e7%3A0xf924e66379b1deb7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.516362099999995,
+        "longitude": -122.6549136
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ57OBoaGglVQRt96xeWPmJPk",
+      "provider_id": "/g/11dyzll21_",
+      "rating": 4.2,
+      "reviews": 1023,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Beer store",
+        "Butcher shop",
+        "Deli",
+        "Produce market",
+        "Seafood market",
+        "Supermarket",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "beer_store",
+        "butcher_shop",
+        "deli",
+        "produce_market",
+        "seafood_market",
+        "supermarket",
+        "wine_store"
+      ],
+      "address": "1090 SE Belmont St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u20139\u202fPM",
+        "saturday": "7\u202fAM\u20139\u202fPM",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 236-6302",
+      "website": "https://www.marketofchoice.com/",
+      "description": "Source for groceries, deli fare & more. Market with a standard selection of groceries plus on-site kitchens with sandwiches & prepared food.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKHuLZG_PiHipSEotxc36ip8qa1dD0e0AwJ468A2OeCrFqUtvz1vWIyD2vl-Po2DC3WidMnNMxoWlW2aaQEXJJybc_v7uSRx1WjH0GpWhOFRPHjGdohSKn8dIBZ9nZTx2_geA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/odYH63icHcRdboIwAADgExVKMY4t2UMnQoWpKDM1vBAsDcWxttjytwPuDrvNkn0P3--PsFabF9fthO80SjUdHwx_MCUtl9Zh6stttAHMAOPi7HD6xCQlw3sRl1lLWp1vlZ2Zv2510FdeHUIO8ZSs1gFGR755RP3Fjt_eSHdLiMYOZAqFG5-29V4e9rOiHUVVddpek2S5sXJ8GvLz7NE7gbGm4hidM3KPayXyVAb17q14lsXHjMqG49fJgxAC8T8D8g_1NkQH"
+    },
+    {
+      "position": 2,
+      "title": "Zupan's Markets - Burnside",
+      "place_id": "ChIJo9EoLfQJlVQRIS-M52kteAo",
+      "data_id": "0x549509f42d28d1a3:0xa782d69e78c2f21",
+      "data_cid": "754402870464098081",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f42d28d1a3%3A0xa782d69e78c2f21&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f42d28d1a3%3A0xa782d69e78c2f21&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5230718,
+        "longitude": -122.69893479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo9EoLfQJlVQRIS-M52kteAo",
+      "provider_id": "/g/1tgmvzxy",
+      "rating": 4.4,
+      "reviews": 1562,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Butcher shop",
+        "Coffee shop",
+        "Florist",
+        "Produce market",
+        "Seafood market",
+        "Supermarket",
+        "Wine cellar",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "butcher_shop",
+        "coffee_shop",
+        "florist",
+        "produce_market",
+        "seafood_market",
+        "supermarket",
+        "wine_cellar",
+        "wine_store"
+      ],
+      "address": "2340 W Burnside St, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 9\u202fPM",
+      "hours": "Open \u00b7 Closes 9\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20139\u202fPM",
+        "thursday": "7\u202fAM\u20139\u202fPM",
+        "friday": "7\u202fAM\u20139\u202fPM",
+        "saturday": "7\u202fAM\u20139\u202fPM",
+        "sunday": "7\u202fAM\u20139\u202fPM",
+        "monday": "7\u202fAM\u20139\u202fPM",
+        "tuesday": "7\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 497-1088",
+      "website": "https://www.zupans.com/stores/burnside/",
+      "description": "Venerable source for gourmet groceries. This long-running, family-owned chain carries upmarket grocery items, meat, flowers & wine.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Produce is beautiful, deli food delicious and excellent customer service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG81T4n5uM4KLKwDSDYCLn1D1zagpU7lrpGxRHs1w7s87spO3YZMZFtvfmGHl8cGn6rwdwDMHVmtnA1Uh5XS5oPDCwV7haBdZOPaU3ya0ioeTAWJaWq79e2aDfxO_Xu9_24TsM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wJbJqXicHcTdboIwGADQJ0KogMUlXjAbIVMEFfzhxjS10kVoK19Z1Qf0HfY2S3Yuzu9bGKPhw3Vb4Y8apZqWD8B7pqTh0oyY6txGg8PAATcu1ptbnESoDGQ4ZMFytbRkR07zlUQEvWijK9z2OnlsU0AWQ4RB5_6pzuqF-bl2SdpGLJGT3l4sydJ9Z2SMKhEed6EqyNzusaCflzovaOU_qfeteBkfvujhjqd8TMn1kZ-Pw_Q8DkrIZhZ5nueI_5kj_wDI2kOc"
+    },
+    {
+      "position": 3,
+      "title": "World Foods",
+      "place_id": "ChIJN4uBkQEKlVQRiOtT-K13KvA",
+      "data_id": "0x54950a0191818b37:0xf02a77adf853eb88",
+      "data_cid": "17305776107203849096",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0191818b37%3A0xf02a77adf853eb88&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0191818b37%3A0xf02a77adf853eb88&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.524876899999995,
+        "longitude": -122.6798659
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN4uBkQEKlVQRiOtT-K13KvA",
+      "provider_id": "/g/1pzqxkn9k",
+      "rating": 4.5,
+      "reviews": 1147,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Deli",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "deli",
+        "supermarket"
+      ],
+      "address": "830 NW Everett St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 802-0755",
+      "website": "http://www.worldfoodsportland.com/",
+      "description": "Fresh produce, hot meals and a cafe make up this long-standing market.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"They always have the freshest fruits and veggies.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRZc6klyFH4_wC9hOyqA2JErXfRYEIKplDfdKCadH-sp1kJdP8uQuuksg6kgQ17Owum9Xl-YiCZiA3Lc_10z16x9ZvL0DW2YSmiueO83V-5ytU1mK5Ntx5PM4KcDnIJllYHHUh=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KoEHz3icHcRJDoIwAADAF1VaWRQTDwQ0FVRA4wIXYwq2pGXRtiJ-0Df4GxPnMN8PU6qTM8MQzBzRtqWi1LJ8kLZRZaNGpK0N2klAJJCGl2xT7uFdThwuhiW2Lr3vsni4e-Nw8TjfdtliFXUiuBWRfy0wkB3iYZFMdao1l9ThNEWTuNe1exYgq_y88sw1uSD4Rs7LzZ9rGJzG2b6udBlPzSOwB3VAdWRv1ctONlZEgmYVCpFhfGDzHkEIAftPQPMDO29Dzg"
+    },
+    {
+      "position": 4,
+      "title": "New Seasons Market",
+      "place_id": "ChIJr7REoIKglVQRuZ5Pg-OTLU8",
+      "data_id": "0x5495a082a044b4af:0x4f2d93e3834f9eb9",
+      "data_cid": "5705378908318179001",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a082a044b4af%3A0x4f2d93e3834f9eb9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a082a044b4af%3A0x4f2d93e3834f9eb9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.504387099999995,
+        "longitude": -122.6461664
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr7REoIKglVQRuZ5Pg-OTLU8",
+      "provider_id": "/g/1tdbwgfb",
+      "rating": 4.4,
+      "reviews": 1763,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Deli",
+        "Florist",
+        "Produce market"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "deli",
+        "florist",
+        "produce_market"
+      ],
+      "address": "1954 SE Division St, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201311\u202fPM",
+        "thursday": "7\u202fAM\u201311\u202fPM",
+        "friday": "7\u202fAM\u201311\u202fPM",
+        "saturday": "7\u202fAM\u201311\u202fPM",
+        "sunday": "7\u202fAM\u201311\u202fPM",
+        "monday": "7\u202fAM\u201311\u202fPM",
+        "tuesday": "7\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(503) 445-2888",
+      "website": "https://www.newseasonsmarket.com/",
+      "description": "Groceries, home goods & wellness items. This grocery supplier with many locally sourced items also sells home goods & wellness products.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Metal cans",
+            "Plastic bags"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"The quality and variety of produce, meats, fowl, and fish are excellent.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFR825gMUEfg5Vb0ijOBZq4LpfxW97eDIje9J6KGmlu7JAVSYd4pdeFT8LLfjReeMktjJk9PJWY5rNe6iNqPTpa8_riAzACRHHuZZPsCM3OiEGX1HQ7A5LQjUxXzNkl7cz9w4tY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zyEuGXicHcTdEkJAGADQJxIVoZkuNv1ICJXipqntsyyx2TU1XrBn6G2a6Vyc7ycXgvGpLFf5eECahlTQcWhxUwuoxQA3D5kwLmEucRkFfliiVWSMNOIdlxnR4ptS0N08faouy94nU4fFhoLpTLbrR9XpDor3yV1ld1gdDNfNaATglYI6pRk4p0RrfZgU_jM4sKtxaQvUIyuy7S5NA255412xXJ-HdqgjzQ3p8X3u_bLScW--VJHMXkNFUaT8P5bqH-7fQ7o"
+    },
+    {
+      "position": 5,
+      "title": "Whole Foods Market",
+      "place_id": "ChIJRSWEUAIKlVQRr30ZREgcWNo",
+      "data_id": "0x54950a0250842545:0xda581c4844197daf",
+      "data_cid": "15733356394924572079",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0250842545%3A0xda581c4844197daf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0250842545%3A0xda581c4844197daf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5235316,
+        "longitude": -122.68333319999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRSWEUAIKlVQRr30ZREgcWNo",
+      "provider_id": "/g/1tghcvwb",
+      "rating": 4.1,
+      "reviews": 2048,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Deli",
+        "Fresh food market",
+        "Health food store",
+        "Natural goods store",
+        "Organic food store",
+        "Produce market",
+        "Supermarket",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "deli",
+        "fresh_food_market",
+        "health_food_store",
+        "natural_foods_store",
+        "organic_food_store",
+        "produce_market",
+        "supermarket",
+        "wine_store"
+      ],
+      "address": "1210 NW Couch St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 525-4343",
+      "website": "https://www.wholefoodsmarket.com/stores/pearl?utm_source=google&utm_medium=organic&utm_campaign=listings",
+      "description": "Mainstay for natural & organic food. Eco-minded chain with natural & organic grocery items, housewares & other products (most sell wine).",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Electronics",
+            "Glass bottles",
+            "Metal cans",
+            "Plastic bags",
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJ5s5yJ0CXedVTI-ZsHt9bUCKVZ9QWA8bviZqAjYMXlMIhpLxqfUflOZIX_Mz8WarXObG_tGyj3daDMSrsL6w1IFEMZoBYqZE-POP2nJYoILxH8K2PVirRxC6UecCykn_61ikv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WAoeFHicHcRdEoFAAADgE62K0cSMh4RsWuWn1L40WqtSdqtdlAs6g9uY8T18308uZS2milLlo0HGeVbRh6At4UxSJgeE35WsFoAIIBTT3-5K03bGYtw7qhXRS3iEAIu1nKSBtQnxZHcyjfRZ4Ma8xSiqEMxrt2uuwbXyMIwS9DZO5zbyUjuRdn8bXc4LdGiFq780uFoizOdxg5fA9_whc2IO3W5tbIZ-WLT7ztIDSqy-ZImuFeVz9tJUVQX5fwLYD0w8RKY"
+    },
+    {
+      "position": 6,
+      "title": "Trader Joe's",
+      "place_id": "ChIJzcJQHdqglVQRl-azSAq1-i4",
+      "data_id": "0x5495a0da1d50c2cd:0x2efab50a48b3e697",
+      "data_cid": "3385217125696398999",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0da1d50c2cd%3A0x2efab50a48b3e697&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0da1d50c2cd%3A0x2efab50a48b3e697&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5347161,
+        "longitude": -122.62081529999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzcJQHdqglVQRl-azSAq1-i4",
+      "provider_id": "/g/1tdmps21",
+      "rating": 4.5,
+      "reviews": 3543,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Cheese shop",
+        "Health food store",
+        "Liquor store",
+        "Natural goods store",
+        "Organic food store",
+        "Produce market",
+        "Supermarket",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "cheese_shop",
+        "health_food_store",
+        "liquor_store",
+        "natural_foods_store",
+        "organic_food_store",
+        "produce_market",
+        "supermarket",
+        "wine_store"
+      ],
+      "address": "4121 NE Halsey St, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 284-4232",
+      "website": "https://locations.traderjoes.com/or/portland/144/?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "description": "Specialty grocer with housebrand items. Grocery chain with a variety of signature items, plus produce, dairy & more (most sell wine & beer).",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "offerings": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqNnF8WaO-QMqv-0evz0P7Y1ZTIEldfFwbYOM3xylx9K2YLmG2XJ_drHG4304EBWLepyxXRJN0fv4OiN8jNF4h2PSF_czDhwosBMQ_u1N3tzolLxmjtp0emzKUKgJtT4mWo3o=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/efPIhHicHcTbboIwAADQLyoU2mRuiQ8awcmlgJcgeyFbLVTWUrAVkA_0H_Y3JjsP5-_Jjen0h20LjqxaqVqwu2Y3qlrDWmNRJe2604BqoO1VSrLfldeT1l_k3wnI4n4AkA0zTN8K5-u488Sl8sefIonR9BDTe-gWkdy656C83D63GEHsrfOIdY_pvA8IrAacXMmiIT7mbnrwSzpv-Kj0Os7Ku0OQmZWIJtmYDjI5h6ewDswRy1whtRwdCCHg_1PQvgDOR0Q6"
+    },
+    {
+      "position": 7,
+      "title": "Providore Fine Foods",
+      "place_id": "ChIJQW9jR7iglVQRWahF6ml9698",
+      "data_id": "0x5495a0b847636f41:0xdfeb7d69ea45a859",
+      "data_cid": "16135127983840405593",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0b847636f41%3A0xdfeb7d69ea45a859&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0b847636f41%3A0xdfeb7d69ea45a859&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.527266499999996,
+        "longitude": -122.6417378
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQW9jR7iglVQRWahF6ml9698",
+      "provider_id": "/g/11cllhhj14",
+      "rating": 4.7,
+      "reviews": 918,
+      "type": "Gourmet grocery store",
+      "types": [
+        "Gourmet grocery store",
+        "Bakery",
+        "Cheese shop",
+        "Florist",
+        "Meat products store",
+        "Pasta shop",
+        "Produce market",
+        "Seafood market",
+        "Wine store"
+      ],
+      "type_id": "gourmet_grocery_store",
+      "type_ids": [
+        "gourmet_grocery_store",
+        "bakery",
+        "cheese_shop",
+        "florist",
+        "meat_products",
+        "pasta_shop",
+        "produce_market",
+        "seafood_market",
+        "wine_store"
+      ],
+      "address": "2340 NE Sandy Blvd, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "10\u202fAM\u20137\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 232-1010",
+      "website": "http://www.providorefinefoods.com/",
+      "description": "Upscale gourmet grocer & food hall. Trendy culinary marketplace with casual seating, gourmet groceries & New American dishes.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Great selection of harder to find grocery items and upscale staples.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiessXcjsRIsMaWlwdZXRQRv7Lb2oJT4O11KGku8X2bHB1_2CrD7UitrGNw_l8n3iwouCvwEGjs2Vp1RC2U5umcodlg5txXIjTeBbjYrPMTg81E2Ww37n0b2ISR2WxYBSy8iK5hQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G8SQ_3icHcRbjoIwFADQFfFokUAmmQ9BgvgaqSjoj5HSFLC2hFusLtElzG4mmfNxfj-t1gN8OY5oPZsrxQWbgI1USc2ktql6OHwAi4IFzny_y-_zpGMAFe2BZLC9lcI0l4rk5BlsaqxWxewHoXV6n8IK18sIXXE8LoJjp8d0Z64ilF5n1BQ_TZL2gE8DIjE--tODqkZwX7-qrC9YVPfncb8teIgSXBovkG6NswPB5escHd5ht_bb_Nsg13Wt9n9qyT8U4EUt"
+    },
+    {
+      "position": 8,
+      "title": "New Seasons Market",
+      "place_id": "ChIJeSMCH92mlVQRtCIfvPiAp-Q",
+      "data_id": "0x5495a6dd1f022379:0xe4a780f8bc1f22b4",
+      "data_cid": "16476279567554650804",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a6dd1f022379%3A0xe4a780f8bc1f22b4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a6dd1f022379%3A0xe4a780f8bc1f22b4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5612115,
+        "longitude": -122.6301589
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeSMCH92mlVQRtCIfvPiAp-Q",
+      "provider_id": "/g/1tgcrlh_",
+      "rating": 4.4,
+      "reviews": 2404,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Cafe",
+        "Coffee shop",
+        "Deli",
+        "Florist",
+        "Health food store",
+        "Seafood market",
+        "Store",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "cafe",
+        "coffee_shop",
+        "deli",
+        "florist",
+        "health_food_store",
+        "seafood_market",
+        "store",
+        "wine_store"
+      ],
+      "address": "5320 NE 33rd Ave, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201311\u202fPM",
+        "thursday": "7\u202fAM\u201311\u202fPM",
+        "friday": "7\u202fAM\u201311\u202fPM",
+        "saturday": "7\u202fAM\u201311\u202fPM",
+        "sunday": "7\u202fAM\u201311\u202fPM",
+        "monday": "7\u202fAM\u201311\u202fPM",
+        "tuesday": "7\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(503) 288-3838",
+      "website": "https://www.newseasonsmarket.com/",
+      "description": "Groceries, home goods & wellness items. This grocery supplier with many locally sourced items also sells home goods & wellness products.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFoVKzaTmN_PAYT_VF2fLHQVi2QdVRSpitLOsQyDftHinu6NM6nEHelsZ4WeoSR5-wtIq8OXFrkFZq_Un1J8sp8alrldxMPO8h1I2IBYDnh8ROWwwQSbDq-M6K3GwDyPOQNYfus0g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tMG_i3icHcTdboIwGADQJ6r8uJHGxAsWhjCFUnAo3hCHhRJrC3wl1b3hHsG3Mdm5OM8_rvUAK8sSfLnolOoEm4FNjZKaSb1o1M3qBkANILD8LKVXP1Tl9ve8v6V15lf7ugzddhfRsnfppcyLodc7AvQRtDrq5eyliSc_Iybg9HZgqsjfkdHxiMkxnK7haay_pfOFYcBnMYnLPckI5k7sxh9VIDnOycEYWvwEI0q87XJjgkdGaFq1M9jd2ji2bSP-f4PkCx6MRZo"
+    },
+    {
+      "position": 9,
+      "title": "Market of Choice Cedar Mill",
+      "place_id": "ChIJU1RgHS8JlVQRTAFh8VAfhPU",
+      "data_id": "0x5495092f1d605453:0xf5841f50f161014c",
+      "data_cid": "17691299668725662028",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495092f1d605453%3A0xf5841f50f161014c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495092f1d605453%3A0xf5841f50f161014c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5205224,
+        "longitude": -122.80170229999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU1RgHS8JlVQRTAFh8VAfhPU",
+      "provider_id": "/g/11b6x9vsf7",
+      "rating": 4.4,
+      "reviews": 1474,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Beer store",
+        "Butcher shop",
+        "Cafe",
+        "Deli",
+        "Organic food store",
+        "Supermarket",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "beer_store",
+        "butcher_shop",
+        "cafe",
+        "deli",
+        "organic_food_store",
+        "supermarket",
+        "wine_store"
+      ],
+      "address": "250 NW Lost Springs Terrace, Portland, OR 97229",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 596-3592",
+      "website": "https://marketofchoice.com/locations-cedar-mill/",
+      "description": "Source for groceries, deli fare & more. Market with a standard selection of groceries plus on-site kitchens with sandwiches & prepared food.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store shopping"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGK3GX28ahK3v5ll5fKfcEA_4m8qbPwoHcZosBROMFmbI9pNNVwzeT5OJKM5uVEOixRV6TTg2X-QV1kKi_xvbmlqoNtdApYQuMNsbQykzAuciE4W0dAd6IMFCQvnvfT2AloTJ7f=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ei7bhHicHcRJDoIwAADAF1WQRdHEQzWA0lCsaXC5GClrKBRtAfWDvsHfmDiH-X5KpTq51DRempNCiIJnvcweTLQqa9WEiUYrOgmYBFKDe0xq6CPTPxnOrUTmYHNu5yhnLrxajXNP9qPYsouQ60MUek2yW3QYx-M7o3YUoNDuYzeqnod4RmlhnACJpzWqrs8hafhdYJXC7kz6EMuEvOo37FnlWkc9helsF3obMrRDTg3IBQ3m-Wqc6roOyv8MtD9MUUTr"
+    },
+    {
+      "position": 10,
+      "title": "Trader Joe's",
+      "place_id": "ChIJscxSJfcJlVQRYLWVHw4W0Q4",
+      "data_id": "0x549509f72552ccb1:0xed1160e1f95b560",
+      "data_cid": "1067658836578776416",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f72552ccb1%3A0xed1160e1f95b560&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f72552ccb1%3A0xed1160e1f95b560&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5261013,
+        "longitude": -122.6951618
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJscxSJfcJlVQRYLWVHw4W0Q4",
+      "provider_id": "/g/1tfv4v96",
+      "rating": 4.6,
+      "reviews": 2368,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Cheese shop",
+        "Health food store",
+        "Liquor store",
+        "Natural goods store",
+        "Organic food store",
+        "Produce market",
+        "Supermarket",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "cheese_shop",
+        "health_food_store",
+        "liquor_store",
+        "natural_foods_store",
+        "organic_food_store",
+        "produce_market",
+        "supermarket",
+        "wine_store"
+      ],
+      "address": "2122 NW Glisan St, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(971) 544-0788",
+      "website": "https://locations.traderjoes.com/or/portland/146/?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+      "description": "Specialty grocer with housebrand items. Grocery chain with a variety of signature items, plus produce, dairy & more (most sell wine & beer).",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "offerings": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"Great produce, great price, friendly staff, love the samples.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqpYIN4LQm4ev5ayyXGySsR-5g0Xa6N2B-WNP7nc6vpcWcX2r-_ZwAaxfnoUsf1bSg0TjRN9beIs8upWa0GpinoVRdtvPY_Yec4omskslftdWOzlsPZLrwIfNHQaBUcZpHillF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ApatOnicHcRbjoIwFADQFVWqoo6T-IHJjJKYDuCDx4-p11LU0lZuBXGDswZ3M8mcj_P-rZyz-Ol5qhoPpDFSiQeKBox2QrsBmNqTFgkgQS-IWHwLvu42D5m_iWtftBPe99mq32JCJpJmfMpGS5KyaKZh2lpIIRs15Fh0AX-W2uyxHJ62ku6uCZufRIgfD5tyurIXbQ7J2bVRfswF-KbGG6rSndOfl8Ko2DRdWLJ1zJd7KOz6otT3ohtSSkn1PxD9B7AmRpk"
+    },
+    {
+      "position": 11,
+      "title": "Fred Meyer",
+      "place_id": "ChIJcSK9c42glVQRI-0vWwbuj34",
+      "data_id": "0x5495a08d73bd2271:0x7e8fee065b2fed23",
+      "data_cid": "9119769481515625763",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a08d73bd2271%3A0x7e8fee065b2fed23&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a08d73bd2271%3A0x7e8fee065b2fed23&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5124652,
+        "longitude": -122.6234454
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcSK9c42glVQRI-0vWwbuj34",
+      "provider_id": "/g/1v5k2qq3",
+      "rating": 4,
+      "reviews": 1870,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Butcher shop",
+        "Cheese shop",
+        "Deli",
+        "Florist",
+        "Grocery delivery service",
+        "Health food store",
+        "Seafood market",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "butcher_shop",
+        "cheese_shop",
+        "deli",
+        "florist",
+        "grocery_delivery_service",
+        "health_food_store",
+        "seafood_market",
+        "wine_store"
+      ],
+      "address": "3805 SE Hawthorne Blvd, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 872-3300",
+      "website": "https://www.fredmeyer.com/stores/grocery/or/portland/hawthorne/701/00135?cid=loc_70100135_gmb",
+      "description": "Groceries, apparel & housewares chain. Longtime retail chain for groceries, apparel & furniture, plus toys, electronics, housewares & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Pharmacy",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Glass bottles",
+            "Metal cans",
+            "Plastic bags"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtWpokLaWhqYTNEasK8a9LpIn5AlV0QGn9zORvCv_6I7xE7a4hVawbYnoXeh06FHN-KAthfwCQcZ--vyaoN4gHXSfEY9nCDWuG0q7op1cU9buOyYRFhzy8UyXPhCylfsfNn8Bp=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VI51O3icHcRJDoIwFADQE1VqHAATF4iARlPFgcGNKQ3wE7GttoD1gp7B25j4Fu_7Aa2lmllWA6NBLUTdlK0qn0xwXXI9YOJu1VIhppCyvD2Jb16oUyluW5rCIz-RgKqNQ92tXPOJ1yQ4jrj73h06v7tO1_YrsOkYEtoXORdZCXgargjaeBqq3o_ZBaHOUEHG9So7VkHucn-ZthF-2EIO2dkt2p3JDyG8jXM22R5801SqItxZyHk_xBgj-M8Q_wF-v0VG"
+    },
+    {
+      "position": 12,
+      "title": "People's Food Co-op",
+      "place_id": "ChIJF7t4Ln8KlVQR-ZjVpR4tzak",
+      "data_id": "0x54950a7f2e78bb17:0xa9cd2d1ea5d598f9",
+      "data_cid": "12235485372290013433",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a7f2e78bb17%3A0xa9cd2d1ea5d598f9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a7f2e78bb17%3A0xa9cd2d1ea5d598f9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.500868,
+        "longitude": -122.64484399999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF7t4Ln8KlVQR-ZjVpR4tzak",
+      "provider_id": "/g/1thvx_06",
+      "rating": 4.6,
+      "reviews": 682,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Farmers' market",
+        "Health food store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "farmers_market",
+        "health_food_store"
+      ],
+      "address": "3029 SE 21st Ave, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 232-9051",
+      "website": "http://www.peoples.coop/",
+      "description": "Emporium for locavores & organic goods. Grocer offering local, organic & sustainable food items plus an on-site, year-round farmer's market.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Food",
+            "Organic products"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6wK-Q1st5vX0BfBnyWdps3YmiW1D-nE1rtEGp6PVlYFUv5iFabV5dElmHaAfUjGUdkRJL88IaE59ceioEmZFChcKp44ME7r7KkbEOJejE743fqWWEEjmXSEgClamDxSO7IcE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pGaNnnicHcRJDoIwFADQE1UggKiJC8QPKs4GUXdYythJWqcLegdvY-JbvO-n0lqqkWHQyu6VQpSU3BXpsOCacN3DghmlVAgrpAx_u961ftR_xmhnKe0-TuakmPB3mktln1mdWlPEweo0RLK_PdJzmDzcOsyuRzcHymaZXyRNlOTtfrEcDOYZuENMagHsEgYVjqXjrMDrvLi9wmZBGvAcu7ilKUDDTgcoA5qx6euw8eYYxk_LNE1U_ceI_wC470ML"
+    },
+    {
+      "position": 13,
+      "title": "New Seasons Market",
+      "place_id": "ChIJnyFQvECnlVQR7G_VonSAO9Y",
+      "data_id": "0x5495a740bc50219f:0xd63b8074a2d56fec",
+      "data_cid": "15437073386178965484",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a740bc50219f%3A0xd63b8074a2d56fec&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a740bc50219f%3A0xd63b8074a2d56fec&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5480562,
+        "longitude": -122.66734299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnyFQvECnlVQR7G_VonSAO9Y",
+      "provider_id": "/g/1pp2tz73_",
+      "rating": 4.4,
+      "reviews": 2194,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Cafe",
+        "Coffee shop",
+        "Deli",
+        "Florist",
+        "Gourmet grocery store",
+        "Produce market",
+        "Store",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "cafe",
+        "coffee_shop",
+        "deli",
+        "florist",
+        "gourmet_grocery_store",
+        "produce_market",
+        "store",
+        "wine_store"
+      ],
+      "address": "3445 N Williams Ave, Portland, OR 97227",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201311\u202fPM",
+        "thursday": "7\u202fAM\u201311\u202fPM",
+        "friday": "7\u202fAM\u201311\u202fPM",
+        "saturday": "7\u202fAM\u201311\u202fPM",
+        "sunday": "7\u202fAM\u201311\u202fPM",
+        "monday": "7\u202fAM\u201311\u202fPM",
+        "tuesday": "7\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(503) 528-2888",
+      "website": "https://www.newseasonsmarket.com/",
+      "description": "Groceries, home goods & wellness items. This grocery supplier with many locally sourced items also sells home goods & wellness products.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Glass bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Large selection, good quality produce, very friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRQbmpZJ0IHAZiueLoTlcaiq0VycSCQmPODo7_YhC9ulK9B_deEVQ3J435VhxkupXs0Xb1O8paGYronK3lnr2r_fGjSaCx10zd7qs8ImffVE-FA1Npu-cMZZgdSAAQ7Wt9FT-f5w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qMmX1HicHcTbDoIgAADQLyIxc2ZbD2T3O9msfHGGKBUCCazLH_YJ_U1b5-F8P8wYpXuOw5nXqqSsOLWaNkQKQ4VpEVk7ldKAaKAdtF3jG5ru8LlW6RzOpii9WLqUe07yyx0mLxJHuN5uhjLITiwKLV-Eg6ygowR7847nJ-x5s-qo4fHsbroqn5waKRYeF027ycrJNc6jpwvfRXDX3VldlskIjJG7VhaQVZpWRYwQDg4mHO9B6T_6DxdCCNh_AsQP_HhE_A"
+    },
+    {
+      "position": 14,
+      "title": "Barbur World Foods",
+      "place_id": "ChIJV20QPmELlVQRw4CvrpV1Pp4",
+      "data_id": "0x54950b613e106d57:0x9e3e7595aeaf80c3",
+      "data_cid": "11402680592289988803",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b613e106d57%3A0x9e3e7595aeaf80c3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b613e106d57%3A0x9e3e7595aeaf80c3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.454340699999996,
+        "longitude": -122.71980789999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV20QPmELlVQRw4CvrpV1Pp4",
+      "provider_id": "/g/1tfgp34n",
+      "rating": 4.6,
+      "reviews": 1815,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Supermarket",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "supermarket",
+        "wine_store"
+      ],
+      "address": "9845 SW Barbur Blvd, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u201310\u202fPM",
+        "thursday": "8\u202fAM\u201310\u202fPM",
+        "friday": "8\u202fAM\u201310\u202fPM",
+        "saturday": "8\u202fAM\u201310\u202fPM",
+        "sunday": "8\u202fAM\u201310\u202fPM",
+        "monday": "8\u202fAM\u201310\u202fPM",
+        "tuesday": "8\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 244-0670",
+      "website": "http://www.barburworldfoods.com/",
+      "description": "International groceries & a gourmet deli. This specialty market with a Middle Eastern focus offers many imported products, plus meat & a deli.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Prepared foods"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Consistently decent prices on meats and produce with good quality.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyg1RVVsjbruLCCDWQeGP-waiuENc_pNW6ETwlyRsnVM_uGu2f7rHzvSq1HzICFKAR2aJOrX-N-G8f08EFiiovl2l40MFL7rOUCVLrxjn2-DXs71Zmq5lFR3ukCSOo9G-PghMOZw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ID-faXicHcTbDsEwGADgJ_qtm8OQuFhqB-xkGHEjNNONaqddDW_oEbyNxHfxfT9l09RqbBis7HaoEJQVWhWSCN4UvOkQcTNorYAoUIaTxsurE7yomeW5upykDjGebpeFn0J7rLQbk0MdbwfuumWvTPE8OmhfW2dbBu_H6m4G7xn2Fk5mHeeJ3EEM_vCMhq5XVeLBLNZDkRfaMtngPJTPC7dgulO2ub_d-8zLuvqKV4kY-ZDSMkr27aQ1EUJQ_ifAf_FDRK4"
+    },
+    {
+      "position": 15,
+      "title": "New Seasons Market",
+      "place_id": "ChIJmzyp5eQJlVQRxEzrQSyrbKQ",
+      "data_id": "0x549509e4e5a93c9b:0xa46cab2c41eb4cc4",
+      "data_cid": "11848032926277782724",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509e4e5a93c9b%3A0xa46cab2c41eb4cc4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509e4e5a93c9b%3A0xa46cab2c41eb4cc4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5336968,
+        "longitude": -122.69582249999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmzyp5eQJlVQRxEzrQSyrbKQ",
+      "provider_id": "/g/11btz1_z5b",
+      "rating": 4.4,
+      "reviews": 1882,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Cafe",
+        "Coffee shop",
+        "Deli",
+        "Florist",
+        "Gourmet grocery store",
+        "Produce market",
+        "Store",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "cafe",
+        "coffee_shop",
+        "deli",
+        "florist",
+        "gourmet_grocery_store",
+        "produce_market",
+        "store",
+        "wine_store"
+      ],
+      "address": "2170 NW Raleigh St, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201311\u202fPM",
+        "thursday": "7\u202fAM\u201311\u202fPM",
+        "friday": "7\u202fAM\u201311\u202fPM",
+        "saturday": "7\u202fAM\u201311\u202fPM",
+        "sunday": "7\u202fAM\u201311\u202fPM",
+        "monday": "7\u202fAM\u201311\u202fPM",
+        "tuesday": "7\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(503) 224-7522",
+      "website": "https://www.newseasonsmarket.com/",
+      "description": "Groceries, home goods & wellness items. This grocery supplier with many locally sourced items also sells home goods & wellness products.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHL2yyYwgr1VqTtTLP4kHeQ9fZRqOo_vtbWkWneRAsVeAhb5hAHL3GLEBasvMngIAaklnlijJkdUjlGeregv7ZqHDOV27INB_-gaig495RINpdBuzZ04FN6ZS8r30-ICGw3Nr1Qgw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zzq-ZHicHctBcoIwFADQE0WCYK2d6SJYBRwahSpO2TiI8UeTJpBEGL1hj9DbtNPN272fb-5ca188T_JgBFqDZDfLTKOVY8qNGv3lQWtRY5H1yIbmgiTZ-H7_HMD4Zbd122wTioTls3NVdGt96N1xL_aKFcSWjPDjhP-FIM4WUW37dwUpqYVU8nJdidPuKmNmGPTTqkve1uV4mtLogKC-QDibFCltT9HtUeFwSZ-qj2cTYJTO4yGgxs9heB18jDHi_zZI_QJTS0Vi"
+    },
+    {
+      "position": 16,
+      "title": "La Bouffe International Gourmet",
+      "place_id": "ChIJjfD63QahlVQRu-LmDk_3914",
+      "data_id": "0x5495a106ddfaf08d:0x5ef7f74f0ee6e2bb",
+      "data_cid": "6843210077737247419",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a106ddfaf08d%3A0x5ef7f74f0ee6e2bb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a106ddfaf08d%3A0x5ef7f74f0ee6e2bb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.519324499999996,
+        "longitude": -122.58109759999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjfD63QahlVQRu-LmDk_3914",
+      "provider_id": "/g/1vy7g8xs",
+      "rating": 4.8,
+      "reviews": 203,
+      "unclaimed_listing": true,
+      "type": "Gourmet grocery store",
+      "types": [
+        "Gourmet grocery store"
+      ],
+      "type_id": "gourmet_grocery_store",
+      "type_ids": [
+        "gourmet_grocery_store"
+      ],
+      "address": "8015 SE Stark St, Portland, OR 97215",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20137\u202fPM",
+        "thursday": "10\u202fAM\u20137\u202fPM",
+        "friday": "10\u202fAM\u20137\u202fPM",
+        "saturday": "10\u202fAM\u20137\u202fPM",
+        "sunday": "11\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20137\u202fPM",
+        "tuesday": "10\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 256-9576",
+      "description": "Laid-back gourmet grocer selling olive oils, cheeses, spices and ethnic foods, plus bulk staples.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true,
+        "delivery": false
+      },
+      "user_review": "\"Clean and well stocked with some rare items.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZfNRYRg-H_LLaE6QPcG8sKK3Tr2lWv7B55awYDjZZ-G5rCXPNmpDZYterSNHSP2Q1RMzqmH-ogmKhi_c6GG_SJKTUIYiMErw_TbP6sppC0j9cR2WI6Qu6X8lU18ds7k9mv84doQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/spTCKXicHcTbDoIgAADQL8JbidbWQ7epWQ7UVvriigwtEQLKrT_sE_qbts7D-X4arYWammbXjAzKOe3qp6ol4b2ue20QzkwqFCAKKHOOEnyfh-U1SYuUgrDabk9riBEJfBXHo1w63eHlLVz3NBSrW1mCwJXLI0qYWJWFrmWWhBlysJ3u3g8WAk5Z3LQVgUFQZZs430dFu1vLocrPCCohltZtQlLnEEH8hEe_29v-RXn3CXv54wvHs8G2LAs0_wnof2N7Q-I"
+    },
+    {
+      "position": 17,
+      "title": "Fred Meyer",
+      "place_id": "ChIJzZuWyxoLlVQR_8mi6iD3YRw",
+      "data_id": "0x54950b1acb969bcd:0x1c61f720eaa2c9ff",
+      "data_cid": "2045187426550467071",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b1acb969bcd%3A0x1c61f720eaa2c9ff&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b1acb969bcd%3A0x1c61f720eaa2c9ff&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4704395,
+        "longitude": -122.69080369999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzZuWyxoLlVQR_8mi6iD3YRw",
+      "provider_id": "/g/1tj1rss_",
+      "rating": 4,
+      "reviews": 1574,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Butcher shop",
+        "Cheese shop",
+        "Deli",
+        "Florist",
+        "Grocery delivery service",
+        "Health food store",
+        "Seafood market",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "butcher_shop",
+        "cheese_shop",
+        "deli",
+        "florist",
+        "grocery_delivery_service",
+        "health_food_store",
+        "seafood_market",
+        "wine_store"
+      ],
+      "address": "7555 SW Barbur Blvd, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201311\u202fPM",
+        "thursday": "6\u202fAM\u201311\u202fPM",
+        "friday": "6\u202fAM\u201311\u202fPM",
+        "saturday": "6\u202fAM\u201311\u202fPM",
+        "sunday": "6\u202fAM\u201311\u202fPM",
+        "monday": "6\u202fAM\u201311\u202fPM",
+        "tuesday": "6\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(503) 452-3000",
+      "website": "https://www.fredmeyer.com/stores/grocery/or/portland/burlingame/701/00040?cid=loc_70100040_gmb",
+      "description": "Groceries, apparel & housewares chain. Longtime retail chain for groceries, apparel & furniture, plus toys, electronics, housewares & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Pharmacy",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Glass bottles",
+            "Light bulbs",
+            "Metal cans",
+            "Plastic bags"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Fresh produce like always and great deals especially the weekly ad!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHrh9zrDMaWp951wlQaxGJVBbpWVAKuHIv52o85xRnFXPomenDRRs1u1YjTeLmv4KeCCmV5SIsHx4ary5hR27lHLxw4sp1yH8Y93AWqe2Lq8_thWljUpME8yBX-B25oTnt8Nwi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G0iAsnicHcTbDoIgAADQLyLFZGFbD9qNylxZaT01c0wqBBK89YN9Q3_T1nk43w8zRumxZXE2HBRSFpzWmla5FIYKM8hlaRVKg1wDbfm7aP_0l6Ri3ruabbNUeQi2fJ91y3US3FSa-JuarBrkSIy6WCzOO1lSMYtjDWt4eRxpWDbuhk6nZYIOK006N6t6xGJnxEnYta5WsCf44g399EWd8IWvhqX8cVLbOe6DMwgcJI_C4Ki9T1po2zZg_3Mgfl7bRHg"
+    },
+    {
+      "position": 18,
+      "title": "Wellspent Market",
+      "place_id": "ChIJaSpJD6CglVQR4yBMPynaXHM",
+      "data_id": "0x5495a0a00f492a69:0x735cda293f4c20e3",
+      "data_cid": "8312758882909561059",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a00f492a69%3A0x735cda293f4c20e3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a00f492a69%3A0x735cda293f4c20e3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.504622499999996,
+        "longitude": -122.629446
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaSpJD6CglVQR4yBMPynaXHM",
+      "provider_id": "/g/1hhn10j62",
+      "rating": 4.8,
+      "reviews": 148,
+      "price": "$1\u201340",
+      "extracted_price": 1,
+      "type": "Deli",
+      "types": [
+        "Deli",
+        "Gourmet grocery store",
+        "Restaurant",
+        "Wine store"
+      ],
+      "type_id": "deli",
+      "type_ids": [
+        "deli",
+        "gourmet_grocery_store",
+        "restaurant",
+        "wine_store"
+      ],
+      "address": "3402 SE Division St, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(503) 987-0828",
+      "website": "http://www.wellspentmarket.com/",
+      "description": "Gourmet food store and specialty food store, featuring local products and wine, along with pizza-making kits.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services",
+            "Takeout"
+          ]
+        },
+        {
+          "amenities": [
+            "Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMWhobjEwajYyGAI6AwjwDQ%3D%3D&g2lbs=AEzIGDsgQ3kMV1BL-WeUEvu6zb452alzxnhjyG7gWR_lXjbRHAJ8LfWFbRds1uKOVPleK5tRgiji&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=SVhOaoWEK4W8xc8P7_aYsAc&ei=SVhOaoWEK4W8xc8P7_aYsAc&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Very clean and well stocked shop with exotic and unique foods.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEg9cJf_pERqPXuCrUgYgXGDshboXwkeQaCmgC0oJNElxkfO6_asPSUmlgtShJyCAolT82P2tDfiyIU_9yj1abC5HcxDyRmEjW9ndp7NSQjAVHXSIMk0gM1h8y-vRoDMenNtSPJ2Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MuyzLHicHcTdboMgGADQJ6Kiy7q6pBcGTVsTLcrc3JWxDD-qCK7QHx5xj7C3WbJzcX5_pHOLfQ0CJZ9WYAwocbXiwo12QrsVN3MAi0XcIhsktKymJIOY50O3ZPU3ba_k0sAntLvUypNp75OoejIDwSYvM_WYhuO66y1lzazAMZl7khj1tolo5NLh7A9NF_sx7E_kec8fqa_nbPyI9dfyUrJqTN73LTsUE4YilBuPbrVJC6FLx2geVdt7iDFG8n-O9B-DX0ZY"
+    },
+    {
+      "position": 19,
+      "title": "Whole Foods Market",
+      "place_id": "ChIJp5J1Gr-glVQRn3rJF6y_r1s",
+      "data_id": "0x5495a0bf1a7592a7:0x5bafbfac17c97a9f",
+      "data_cid": "6606709924230167199",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0bf1a7592a7%3A0x5bafbfac17c97a9f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0bf1a7592a7%3A0x5bafbfac17c97a9f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.523276599999996,
+        "longitude": -122.6367853
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp5J1Gr-glVQRn3rJF6y_r1s",
+      "provider_id": "/g/1tffp1d5",
+      "rating": 4,
+      "reviews": 1062,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Deli",
+        "Fresh food market",
+        "Grocery delivery service",
+        "Health food store",
+        "Natural goods store",
+        "Organic food store",
+        "Produce market",
+        "Supermarket"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "deli",
+        "fresh_food_market",
+        "grocery_delivery_service",
+        "health_food_store",
+        "natural_foods_store",
+        "organic_food_store",
+        "produce_market",
+        "supermarket"
+      ],
+      "address": "2825 E Burnside St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20139\u202fPM",
+        "thursday": "8\u202fAM\u20139\u202fPM",
+        "friday": "8\u202fAM\u20139\u202fPM",
+        "saturday": "8\u202fAM\u20139\u202fPM",
+        "sunday": "8\u202fAM\u20139\u202fPM",
+        "monday": "8\u202fAM\u20139\u202fPM",
+        "tuesday": "8\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 232-6601",
+      "website": "https://www.wholefoodsmarket.com/stores/laurelhurst?utm_source=google&utm_medium=organic&utm_campaign=listings",
+      "description": "Mainstay for natural & organic food. Eco-minded chain with natural & organic grocery items, housewares & other products (most sell wine).",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Flowers",
+            "Food",
+            "Organic products",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Electronics",
+            "Glass bottles",
+            "Metal cans",
+            "Plastic bags",
+            "Plastic bottles"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"They have fresh produce, meats, and artisanal breads that are to die for!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaWMlsOHDZXawEgOyiZSm0lyEOrQZxfk82GtY2VIbsZY8v8CeqoG8QvuZK-ywqR7KFCWZk7WHh3qKVrZ7cyiC7rhN7idgor3CPxfFuKUJEpjpmVHhGN-lKECzL_-0eGYkJd5Xx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EDsj13icHcRRToMwAADQE3XUEVNi4sdSO9iqMDTC6I_Zuq5FCoW2DPCCnmG3MfF9vPuv8r53T0GgVbiSxkgtRicsN50XnV9x0wayd4A74ILNIc2bDTmVb9plyQs7niYis6VmHy3UC8lszuZrE61jX62L3dmxKrpFWAwmjvLbyChYpuEd0S0uWYPKRIUDLSxDfKkxsipF9UUaG-LDfN2O9HNP-u--LRIVp0BTgn9evwAUcdXsL4_H-Xl6gBAC9T8H3R-2AkVM"
+    },
+    {
+      "position": 20,
+      "title": "Fred Meyer",
+      "place_id": "ChIJT2eH486glVQR8GZZsSpF0vc",
+      "data_id": "0x5495a0cee387674f:0xf7d2452ab15966f0",
+      "data_cid": "17857411522143807216",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0cee387674f%3A0xf7d2452ab15966f0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0cee387674f%3A0xf7d2452ab15966f0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5331542,
+        "longitude": -122.6351018
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT2eH486glVQR8GZZsSpF0vc",
+      "provider_id": "/g/1tmg6875",
+      "rating": 4,
+      "reviews": 2182,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store",
+        "Bakery",
+        "Butcher shop",
+        "Cheese shop",
+        "Deli",
+        "Florist",
+        "Grocery delivery service",
+        "Health food store",
+        "Seafood market",
+        "Wine store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store",
+        "bakery",
+        "butcher_shop",
+        "cheese_shop",
+        "deli",
+        "florist",
+        "grocery_delivery_service",
+        "health_food_store",
+        "seafood_market",
+        "wine_store"
+      ],
+      "address": "3030 NE Weidler St, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u201311\u202fPM",
+        "thursday": "6\u202fAM\u201311\u202fPM",
+        "friday": "6\u202fAM\u201311\u202fPM",
+        "saturday": "6\u202fAM\u201311\u202fPM",
+        "sunday": "6\u202fAM\u201311\u202fPM",
+        "monday": "6\u202fAM\u201311\u202fPM",
+        "tuesday": "6\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(503) 280-1300",
+      "website": "https://www.fredmeyer.com/stores/grocery/or/portland/hollywood-west/701/00600?cid=loc_70100600_gmb",
+      "description": "Groceries, apparel & housewares chain. Longtime retail chain for groceries, apparel & furniture, plus toys, electronics, housewares & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Bakery",
+            "Food",
+            "Organic products",
+            "Pharmacy",
+            "Prepared foods",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Glass bottles",
+            "Metal cans",
+            "Plastic bags"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "SNAP/EBT"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGYYjJyL-NKjSTzeA-3viSgknFOUjgoRLoY8PlI8cacKvPi81Kr5Ac_PVYMjhAVoIUNqDWYPN2luGRPdsRfiJSk2ul3AC-h_8cUyLzcnTyiLpDykN8zem7zEB23E2A6smiOe5vT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cAMw4nicHcTdboIwGADQJ6ogxNmY7KJTZxSslR9Nr8zyrbaF0jILGHjBPcPeZonn4vz9qq5r_SoIjIpn0jlpRO_FA5zthO1m4JpAth6BRz4gjJ5rsuO8OowpokmVF5MgKB50Lmv7eSor6bLUcczMHsMXJAPTeJ48FgRu7MKPlSIXty_pz-bKGY1Mv8vYt8_u-pDXUW9iskbqhqEc0wlsMeq03Yw1xZNoltP2I4q3EXnzjT6JxVC8P-dhGCL1GpD9B3hxROE"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+grocery+stores+in+Portland%2C+OR&start=20&type=search"
+  }
+}

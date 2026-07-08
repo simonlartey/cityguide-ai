@@ -1,0 +1,1304 @@
+{
+  "search_metadata": {
+    "id": "6a4e58618c8a7eacdb05e58d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/X2plFst_otyyVvzrBiv2jg/6a4e58618c8a7eacdb05e58d.json",
+    "created_at": "2026-07-08 14:02:09 UTC",
+    "processed_at": "2026-07-08 14:02:09 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+shoe+repair+cobbler+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/X2plFst_otyyVvzrBiv2jg/6a4e58618c8a7eacdb05e58d.html",
+    "prettify_html_file": "https://serpapi.com/searches/X2plFst_otyyVvzrBiv2jg/6a4e58618c8a7eacdb05e58d.prettify",
+    "total_time_taken": 0.83
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best shoe repair cobbler Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best shoe repair cobbler Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland Shoe Repair",
+      "place_id": "ChIJRaVlaNeglVQRmwhK_IgezwY",
+      "data_id": "0x5495a0d76865a545:0x6cf1e88fc4a089b",
+      "data_cid": "490644458103769243",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0d76865a545%3A0x6cf1e88fc4a089b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0d76865a545%3A0x6cf1e88fc4a089b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5355498,
+        "longitude": -122.62161479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRaVlaNeglVQRmwhK_IgezwY",
+      "provider_id": "/g/12mkv3v41",
+      "rating": 4.9,
+      "reviews": 224,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "4041 NE Sandy Blvd, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 206-6455",
+      "website": "http://portlandshoerepair.com/",
+      "description": "Longtime shop offering repair services on shoes and other items such as coats.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Thank you for all you do David at Portland Shoe Repair!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7Hg4Tg9NoycDmQQs7pftPrc8iccdRDXJWVo7GTn4z2tKahtzaSVp6tA7WdRaJLN3LuZZ59eK9B5eHze1j3Nw5fZTk_48QEjH1CIurb53J5y8_ddnXxbRYoNzXtuIFuaBefIQv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZQKoYXicHcRLroIwFADQFSEgVMDkDfALaBqLRJGJwVKKv5bQW32yQdfgbkw8g_N5NwCtGpvmrXEGXEp-Y1qxjkoBTMCAyrvJW2VQZSgz3GByDSMv4m7GAyxfdHYnRHltDZuO-mdKq3SWJ_ud9JaZcPshrMoG-nK7a0cQevsqLZM1dta6KFDAVsEEsahn9sXBT1QX2fXo-mR-iexprLsTchL08o9VJfL_U3qQuM9BxwtdTlgdk8ff07Ysy2h-U0N8AV0-RMY"
+    },
+    {
+      "position": 2,
+      "title": "Derek's Shoe Repair LLC",
+      "place_id": "ChIJnQecZwQKlVQR6qt8cvMVSPo",
+      "data_id": "0x54950a04679c079d:0xfa4815f3727cabea",
+      "data_cid": "18034688843147160554",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a04679c079d%3A0xfa4815f3727cabea&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a04679c079d%3A0xfa4815f3727cabea&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5204909,
+        "longitude": -122.67918739999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnQecZwQKlVQR6qt8cvMVSPo",
+      "provider_id": "/g/1tgb71jc",
+      "rating": 4.8,
+      "reviews": 162,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop",
+        "Leather cleaning service",
+        "Leather repair service",
+        "Shoe shining service"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop",
+        "leather_cleaning_service",
+        "leather_repair_service",
+        "shoe_shining_service"
+      ],
+      "address": "515 SW Broadway #24, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 226-0765",
+      "website": "http://www.dereksshoerepair.com/",
+      "description": "Friendly, casual option for polishing, repairing, and shining all types of shoes.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Definitely the best cobbler in Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_ewBUGXV7FJyU4ugp1kYPNyFMW67zoCwV4rXf2q5zRQ0f5TxDXfTc66KNThtyzCOyoCkAOuzD7IP3rFTKYD0YLeYHOScqveeWNzaYEEfiOBNVbonEZUg0G4RQoYYVpAtgIBOM2w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vU56wnicHcRJDoIwAADAFyFVERITD-yuLSgg9WK0KcWgFGkR6Q99gr8xcQ7z_ZRSNmKu6_dyOmKcszvtBG0JryWt5Yjwh84aoRGhCd2OYFzZ4Zn2ThrmmRWsh9ToWDOucASHYHc0LcXdPjPavJg8Z2ofg2KWvL28SIhpbmBSykG5aOBuZaNOedYqmrZBssEewFuKl-hAni9Kj1BdsO8XN-TA7Mpr_5QyEBr7mGOcNbZkKwftJv2iHwMAtPI_0eof6cJFSQ"
+    },
+    {
+      "position": 3,
+      "title": "Hollywood Shoe Repair",
+      "place_id": "ChIJFzCM6NeglVQRwAb9rLlzXT0",
+      "data_id": "0x5495a0d7e88c3017:0x3d5d73b9acfd06c0",
+      "data_cid": "4421817650456102592",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0d7e88c3017%3A0x3d5d73b9acfd06c0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0d7e88c3017%3A0x3d5d73b9acfd06c0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5374482,
+        "longitude": -122.6166722
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFzCM6NeglVQRwAb9rLlzXT0",
+      "provider_id": "/g/1tdplszh",
+      "rating": 4.7,
+      "reviews": 112,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "4504 NE Sandy Blvd, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20134\u202fPM",
+        "thursday": "9\u202fAM\u20134\u202fPM",
+        "friday": "9\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20134\u202fPM",
+        "tuesday": "9\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(503) 284-5863",
+      "website": "http://www.hollywoodshoerepair.com/",
+      "description": "Shoe repair shop known for quality work on items such as purses, boots, and Birkenstocks.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrpT2jyHTJZDcfYL2ysA770_aGWjIWccCq7c5Th2onfw47m0weDaaeSCZyKPWRsp99TfkFNqycDNSiImKIpUiAu7LfvHNXhg-FkynxdHFkc74XS0241ejjI5MotIR6P6zPpnhXnQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Xv0YCnicHcRLroIwFADQFVUqD200cUAkSP0QFAzoxJBroYK01Vax7vAtwd2YeAbn88-NUXrqOFf-N6ilrK_sodkdpDBMmAHIzqmVRqCRdvwk3rb-4q4yt7FRtjwGUB3WrtU-IfhULvKG5gDzG4FRxl0pqt4jHe5ZUJYsnR_tKsl3Wk0mWdWG8c1CEKcX2q2o2l_8B1lXzygueI3C1orXOQpbIF6RYtcbsqaho400dDdOxu9ECV6I7awfYowR_w1IfAH1bkVs"
+    },
+    {
+      "position": 4,
+      "title": "Nob Hill Shoe Repair",
+      "place_id": "ChIJCTnkR_cJlVQRB7pUNt0AqxU",
+      "data_id": "0x549509f747e43909:0x15ab00dd3654ba07",
+      "data_cid": "1561342645913303559",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f747e43909%3A0x15ab00dd3654ba07&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f747e43909%3A0x15ab00dd3654ba07&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5265385,
+        "longitude": -122.694559
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCTnkR_cJlVQRB7pUNt0AqxU",
+      "provider_id": "/g/1tj2bqbl",
+      "rating": 4.7,
+      "reviews": 78,
+      "unclaimed_listing": true,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "511 NW 21st Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135:30\u202fPM",
+        "thursday": "9\u202fAM\u20135:30\u202fPM",
+        "friday": "9\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135:30\u202fPM",
+        "tuesday": "9\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(503) 223-1084",
+      "description": "Shoe repair shop offering services such as resoling and polishing.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"i go out of my way to come here every time i need my shoes repaired!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgXNcm8GaHrKznjKyoerg5xDmvZwntjfKfdnMCHcyKT_cWLXa29hWttSbkcEGcLLF-fGNCuShxTtrS0wXbHDbuAhLsGxO0j7_r8kql4LsfoWQ8Lk0iUTogsDMES0RUzTBrNVPe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nj5qUHicHcTdboIwGADQJypUt2W4xAsmDBIKg4GD7MbAt9LKT6ttEfQFfQbfZsnOxXncuTEn_WbbA3-ymJRsoJOmCqQwVBgL5Gizk0agkbbdNMl6N2RVAqMT1KGKbqKLrpIq9rJ44-VnFqZro_ZXxLsQrlFxgJJU9XrDS2Pypgc_AEI-UBskuynnS2FUjueqCb1mcjnRwfKJu9eDcvrz8Ex0K8vMIT0-7gvJtBf7Of7a34p3lXyndDuvMMaI_w9I_AE940ad"
+    },
+    {
+      "position": 5,
+      "title": "Shoes On the Run Shoe Repair",
+      "place_id": "ChIJvQ957AQKlVQRG2Un4RDhuVQ",
+      "data_id": "0x54950a04ec790fbd:0x54b9e110e127651b",
+      "data_cid": "6105158232490599707",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a04ec790fbd%3A0x54b9e110e127651b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a04ec790fbd%3A0x54b9e110e127651b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5197801,
+        "longitude": -122.6807127
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvQ957AQKlVQRG2Un4RDhuVQ",
+      "provider_id": "/g/1tgx1qwd",
+      "rating": 4.8,
+      "reviews": 182,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "803 SW Morrison St, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 274-2986",
+      "description": "Shoe repair shop specializing in leatherwork, heeled footwear and shoe resoling.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Shoes on the Run was the third cobbler I brought my shoes into for repair.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGisBp4tkhFdk9U91Vx7aOZ_11NwNtbxki2Lm050IoHoneMqgDPFt7qs2ft0H6XWRSn85MUA1jHyNl3B1BkGRQ2thA2XkXIMN9FlBF4T7Bg76G6Jz_0-OdcSj80Dj-ttmqsNE3aAZ3Z3baG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ziiHMHicHcTdboIwGADQJ6q0VEGW7KKNAi6j_s1JuDFYWSuFFtZv0e0lvd7bLNm5OL8PDTD4pyDoNJ0o51TXfPnmUzoLjYWJdH2gBo-kRz5gG7E1LLt6PkzB6PRikkNC3u9xva5OhIibgPPdXMPXHs_wyuXONsWoFpsU4tGHH4DzqDzu9nY-Kw6MtPm36Cgn3GS7bQiahaUpV4VI0o6n07eYqzjKopefE0bri9y3c7xoEUA_erGkNatoRc919nwjGGOk_5fI_gEHK0Tb"
+    },
+    {
+      "position": 6,
+      "title": "Rockwood Shoe Repair",
+      "place_id": "ChIJqX7Ry2milVQRkXHhZ7ZskGw",
+      "data_id": "0x5495a269cbd17ea9:0x6c906cb667e17191",
+      "data_cid": "7822872083425227153",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a269cbd17ea9%3A0x6c906cb667e17191&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a269cbd17ea9%3A0x6c906cb667e17191&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5260831,
+        "longitude": -122.47898769999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqX7Ry2milVQRkXHhZ7ZskGw",
+      "provider_id": "/g/1tqt9ctk",
+      "rating": 4.9,
+      "reviews": 106,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "17960 NE Glisan St, Portland, OR 97230",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 667-6554",
+      "description": "Shoe repair shop fixing boots and belts, plus offering abandoned footwear for sale.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I live in Sisters, Oregon and was lucky to find Rockwood shoe repair.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0LtTgCkxLmmiOHqcet_U9yWMM1G08e7Nma4c_dj07poRIYScWQDSYnSYcg9BBHsXYGUSk8r2rkXx9fYtO7d76KRjTgomDLCBb4sgfQ9EBdyfToE1ELdayhauFuMIvOF4OvjV1xg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iPm0w3icHcTbEkJAAADQL5JVJjTTA1FMJJcu-2S01orWyq7iE_uE_qaZzsP5fiohOr6S5Ue1mBHGyAMPHPeItQK3YoYYlUnHJcQlLpvHQ9SYLvBFSjbN6FN6D90nwiI7GdMlCJQd0LF2oLmKsqIGWsdiDyboEtkJbBOIiGFZLr_C3Slp9H7eN9fRKKEItUJb7uM6JYza_sa6qZyUkeFYxVSmzFEcv8inKh-2Q-C9wq0avuqzMpL1WwEASNV_JLU_849Fhg"
+    },
+    {
+      "position": 7,
+      "title": "Boiler Room Shoe Repair",
+      "place_id": "ChIJrdQzWdELlVQRZh-AOYDAKj4",
+      "data_id": "0x54950bd15933d4ad:0x3e2ac08039801f66",
+      "data_cid": "4479604436326424422",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950bd15933d4ad%3A0x3e2ac08039801f66&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950bd15933d4ad%3A0x3e2ac08039801f66&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4863755,
+        "longitude": -122.64973739999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrdQzWdELlVQRZh-AOYDAKj4",
+      "provider_id": "/g/11w9b3rlbv",
+      "rating": 4.9,
+      "reviews": 74,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "5040 SE Milwaukie Ave Rear (east) entrance, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed",
+      "hours": "Closed",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(971) 291-4053",
+      "website": "http://boilerroomshoerepair.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"My favorite cobbler shop in Portland!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdgzBSSx8AQMKXECXnBP9UPDDoKT-d1ESSoIPPejjzboLA4O_zi0wKlEtdAiXT1BTIJvBPTh3KuPKUcm9-elf9YW0r9dvYG0KOy2mhJ0PnXHpETd84i2UhCvWmwehQeZ-CvohM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6F6PCXicHcRdDoIgAADgE5FYPWRbD2islH5w4rJe2gISS8EFaXnBztBt2voevu9HOdfauefVajIqjSlr-bTywY12UrsRN41XthZwC6yH6C69IyzKIcyy1wylW1LgqNAhDXK6XBrCgPBxlpmYUnm7DRezQdP9eahgT2rsBKoK5ocsTrqQMjUhT0py3gRA1tfgeICPQHTHFST797hRCaS6WLeYidm0Gucq6g5NL1UqTyDqjNoueh9CCNR_DvQPAXlD4A"
+    },
+    {
+      "position": 8,
+      "title": "Burlingame Shoe Repair",
+      "place_id": "ChIJl3CuuRoLlVQRvqDeW1jTvWA",
+      "data_id": "0x54950b1ab9ae7097:0x60bdd3585bdea0be",
+      "data_cid": "6970960174691295422",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b1ab9ae7097%3A0x60bdd3585bdea0be&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b1ab9ae7097%3A0x60bdd3585bdea0be&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.465392099999995,
+        "longitude": -122.6971421
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl3CuuRoLlVQRvqDeW1jTvWA",
+      "provider_id": "/g/1tgh2pnr",
+      "rating": 4.4,
+      "reviews": 43,
+      "unclaimed_listing": true,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "8200 SW 19th Ave, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20133\u202fPM",
+        "thursday": "10\u202fAM\u20133\u202fPM",
+        "friday": "10\u202fAM\u20133\u202fPM",
+        "saturday": "10\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20133\u202fPM",
+        "tuesday": "10\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(503) 246-9711",
+      "description": "Friendly shoemaker specializing in repairs and re-soling of boots and other footwear, plus jackets and bags.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The Burlingame Shoe Repair makes this easy for shoes.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsJc_ziAXeGcjW9lW6cakkOhiOL5_z8P9TBGMh4PX2LTIm2qYWVaNktLQGlC-Ml1Hno919A0elOnNMEtm4iNqVB0JVP71qi9m1-J6C5hAPb7WiczcxmvXvwwn5ZLrCd5eVm5nNKQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ikE-2HicHcRdboIwAADgE1VaZ3U12UMlCxuDUhIDuBfjuoZ29EdsJ4Yb7gi7jYnfw_f_p2I8h22SGPW06L3vjfwN8iK8i9LFhfA26c8BiABCQjmrB5qFXBxnTTuZiZ-WmHYtTsNQKV0V-Dg_c7LfZaVa8W5Z7N_tcjy0zYkNsagzk4LSoDfnCSIUSlM5Vr5Gu9JsbHYwb_gGjZpYBPJ1ihXlX5tWi1nc7LW7TpPDn8Ul_caysdixj_plQhBCoB4L4O6jGERy"
+    },
+    {
+      "position": 9,
+      "title": "Hillsdale Shoe Repair",
+      "place_id": "ChIJSauFNgcLlVQRDixjhknPBsE",
+      "data_id": "0x54950b073685ab49:0xc106cf4986632c0e",
+      "data_cid": "13909032413874564110",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b073685ab49%3A0xc106cf4986632c0e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b073685ab49%3A0xc106cf4986632c0e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4787646,
+        "longitude": -122.69463189999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSauFNgcLlVQRDixjhknPBsE",
+      "provider_id": "/g/1thnnh5d",
+      "rating": 4.5,
+      "reviews": 50,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "6311 SW Capitol Hwy, Portland, OR 97239",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 244-3153",
+      "website": "https://www.hillsdalenewspdx.com/post/shoe-repair-is-hillsdale-s-oldest-business",
+      "description": "Repair shop for everything from shoes and boots to bags and belts, plus shoe care products.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Chris is an awesome person and cobbler.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEpgyOzV7Web1ZukhhoqywGWdz9-YF2fUZzLD88ITMd0_0tjGqJYpDwqRs_4obXdrKwkifuPBsoFDsk2pUP_UxAAp5njWY5vXlfhyx3z4fpEKjnC7Ce42UdMTpqvN6vj6eSFQp7HVfMbLm0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5M8UX3icHcRNjoIwGADQE1UqoqjJLFDEXxx0RMQNCdDSAWw_bAHhkrP2NpP4Fu_9x5QCOde0ko0GmRBZSWpJnonginA1SMRDy0CiRCKpWd7xVFgryLrv_moGJB7e64IxUXXtOkj7GQodnfr3_mBPp9uLm-IIq3xd7UKw2-osI0PEt_S5b4tfWnsLKRxbFjr4XuS_LAvGPA_CcXMrKeteo96gsNrnfGkuiaH7qXuBqjlOmnxCfpwTmJsrdePDA3-1Q4wxYp8TxP8BZsRJGg"
+    },
+    {
+      "position": 10,
+      "title": "Gresham Shoe Repair",
+      "place_id": "ChIJKX67hfOYlVQRBXT-_XsM198",
+      "data_id": "0x549598f385bb7e29:0xdfd70c7bfdfe7405",
+      "data_cid": "16129374317132542981",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549598f385bb7e29%3A0xdfd70c7bfdfe7405&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549598f385bb7e29%3A0xdfd70c7bfdfe7405&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4981724,
+        "longitude": -122.4302701
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKX67hfOYlVQRBXT-_XsM198",
+      "provider_id": "/g/1tmpk6x9",
+      "rating": 4.7,
+      "reviews": 164,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "33 E Powell Blvd, Gresham, OR 97030",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 481-7518",
+      "website": "http://www.greshamcobbler.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Frankly, she's the only cobbler I will trust with my boots.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEi_ciR9BcNb8iWxdWNhbH60zSr64HvlYu6skv6rNHZe-EV8mrL_WsaW2JPK-qGbO0xV4DjPuIMP7FpobHMx9TZGESZJbHo6DSo98FTXK6AR_cHngzSuBKCCt8ANnEw8ihlNE9tlQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bYnhsXicHcTdroIgAADgJyLpZ4RtXZhRlEWWLc_xxh3IiUVgguV6wx6ht2k738X3eUvnajvxPCWHvdKYUhWtLRphtCu06wlz88raAmGB9YKY7a8BqXJRHfyZYBxXaXdOmeQUwVfSoBF9qN8W2esDNYxmBSAnfGs2eWr_0sE6jsB9yXewO43ml7hdbePxojacbjv_mC1Jkq05NWieGB8vjj8RCg65oLp8Je0sCkOHA6bJE1dSMeI7tZ8--xBCIP8XQH8Bva1Ehg"
+    },
+    {
+      "position": 11,
+      "title": "Cascade Shoe Repair",
+      "place_id": "ChIJY0bwo56llVQR0H96iE8gcds",
+      "data_id": "0x5495a59ea3f04663:0xdb71204f887a7fd0",
+      "data_cid": "15812455292638756816",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a59ea3f04663%3A0xdb71204f887a7fd0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a59ea3f04663%3A0xdb71204f887a7fd0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.624041,
+        "longitude": -122.58841299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY0bwo56llVQR0H96iE8gcds",
+      "provider_id": "/g/1tfx4m40",
+      "rating": 4.9,
+      "reviews": 211,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "8200 E Mill Plain Blvd #103, Vancouver, WA 98664",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(360) 256-5121",
+      "description": "Shop specializing in shoe and boot repairs and leatherwork, including coats, purses and luggage.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"He went above and beyond, fixing my boots.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECeAAkhuV9YgKT4M-Q-KdaIIcSlq1VSbVLF7qBXBwm6YBHCCdBYtiWlsqv0WBqFAKc9XpjxMkJd78roevf9rxDTwgbyIdm8-Km8jpHhyuIWppEe1ewNB4sl-q9Ax2uZTTf5ai1VxbSVaOu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oZ2P7XicHcTNboIwAADgJ6qA0wkmO7SokTH_AimyG5TaKoW2tBV8yp33Nkv2Hb7fH26tMmvPE_xtxqRkgjpDByJ7S3s7I7LzmDKAGGA8eD5eWriNKYQtdzgqWZovDuAC0qZKEpIJHeCsxl-7lUZXNHbvJdrHcYNKey-E0U-_QHoHUxJd1WM6tJ_NKhwkfd6iYdrkI6tfSdOFIO3Ch9rzl0sKpbY0oOMRLYwAOoLT3H3n-W1Z3QM81RmuTu5jDHzfB_x_Avo_jblH3w"
+    },
+    {
+      "position": 12,
+      "title": "Vaneks Shoe Repair",
+      "place_id": "ChIJxZ6OG6AOlVQRNTq5LDwyqmw",
+      "data_id": "0x54950ea01b8e9ec5:0x6caa323c2cb93a35",
+      "data_cid": "7830126136166791733",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950ea01b8e9ec5%3A0x6caa323c2cb93a35&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950ea01b8e9ec5%3A0x6caa323c2cb93a35&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.487307799999996,
+        "longitude": -122.80494379999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxZ6OG6AOlVQRNTq5LDwyqmw",
+      "provider_id": "/g/1v6p8kmg",
+      "rating": 4.2,
+      "reviews": 133,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop",
+        "Leather repair service",
+        "Orthotics & prosthetics service",
+        "Shoe store"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop",
+        "leather_repair_service",
+        "orthotics_and_prosthetics_service",
+        "shoe_store"
+      ],
+      "address": "12460 SW Broadway St, Beaverton, OR 97005",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20135\u202fPM",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20134\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 643-1266",
+      "website": "http://vanekshoerepair.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Got a new heel cap and repair the stitching for the liner of my ropers.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9B7Pso-sn0bwoCxqRQlRWZbUaQQkQ8YjFQPq94eODaibR0QakGKYMjAehCKSucX-p7G8gJJom18obwiactyZHFVgjI0HIaPlEuCW3awxzf__Qw9u-JsUN_zEQ4F9O0W4trKw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rNwB4XicHcTdCoIwGADQJ1pOEtKgCzO1lMrPKMsbmWPN_Ju1yaoH7B16m6Bzcb6fSqlBzg2jraYTLgRv2SjZg4pesV5NqOgMPkhEJZKGm-ygcX1nOUukQLLHpRbe855Cm2Z5eSQADdiXOoDk7lhsvyK3MsVAmjC-bGuXVV58GOkZDbPQ5lEkOtMWpb4Rql75OjjxeoPXG5K0_uhlU6Kf72tRgHZGFMnjrnj7YAXOHmeWesR6oU2MMar-U9T_ACS1RH8"
+    },
+    {
+      "position": 13,
+      "title": "Oak Grove Shoe Repair",
+      "place_id": "ChIJA1U9bfZ0lVQR2cXllVnpOUA",
+      "data_id": "0x549574f66d3d5503:0x4039e95995e5c5d9",
+      "data_cid": "4627986663076120025",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549574f66d3d5503%3A0x4039e95995e5c5d9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549574f66d3d5503%3A0x4039e95995e5c5d9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4172899,
+        "longitude": -122.63177449999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA1U9bfZ0lVQR2cXllVnpOUA",
+      "provider_id": "/g/1tcw39xp",
+      "rating": 4.6,
+      "reviews": 56,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "14642 SE McLoughlin Blvd, Oak Grove, OR 97267",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20132:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 501-1103",
+      "description": "Shoe repair shop offering services such as heel repair, polishing, and the replacement of soles.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"It's clear Mr. Cho took great care repairing my shoes that needed new soles.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEh_e6mMLvU52lXgNoUWmWd24DCGlc4AlPn4XnYvvnfIiKIOPInTtNGy7Rdac09-SdYIUv7Q1cWI4fjiEndv-nrdZqSv6wF3LP3Z-9QfmuZGpfNjsqBJSeMGM7OHxihFfbFBQJK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jfAbz3icHcRbcoIwFADQFUVQqIzO-IEPaFQQRAblx7F5EGy4QROjXaFr6G460_Nxft_CmF5PHUcKb9Ao1Uj20OxOFBgGZkBU5zS9RkQj7YRZmn-HK3Fm4y7Z2vJjJI9Nqsqqq-jIXy5iSfxQZuAf4WQtcNxu8C7DcDBp_BPs6YW4E1TQEy5tkA9JhX1-bVdALYI7rW-FHT8jb5t5NZrkvHvUcc_Tq77N1wVL4iTYfb5aEfGvaJ6vN7Pn0HVdJP4nCP4ATj9EYw"
+    },
+    {
+      "position": 14,
+      "title": "Shoe Shop",
+      "place_id": "ChIJ9YZ-0nl1lVQRuIH45kAcfMQ",
+      "data_id": "0x54957579d27e86f5:0xc47c1c40e6f881b8",
+      "data_cid": "14158222393624527288",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54957579d27e86f5%3A0xc47c1c40e6f881b8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54957579d27e86f5%3A0xc47c1c40e6f881b8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.433873,
+        "longitude": -122.5632309
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9YZ-0nl1lVQRuIH45kAcfMQ",
+      "provider_id": "/g/1thlmsqh",
+      "rating": 4.3,
+      "reviews": 107,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop",
+        "Boot repair shop",
+        "Shoe shining service"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop",
+        "boot_repair_shop",
+        "shoe_shining_service"
+      ],
+      "address": "9757 SE Sunnyside Rd, Clackamas, OR 97015",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20132:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 353-2599",
+      "website": "http://mycobbler.net/",
+      "description": "Veteran cobbler specializing in repairing boots and shoes, including designer pairs.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Has repaired many boots  and even dyed a pair of boots that were stained.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCY8IFZ7vsNS6ImJt31_C3CK44JSgWgVNLJYquicHaxLEEVmfbtMigjqYptonR9CSsUB3lRerJ6mVzMsb4T0iODe9WFKkanMOkcjFHzXy7IwFmYdreUFxyx0HpFQAHCMEcQctP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/363nWXicHcThEoEwAADgJ0pzdcKdH5mmokhE_jhmVmpb2lC9oGfwNu58P77vJ1OqkmNdLzOjR4WgJXlKUmPBFeGqhwXTaSU1LDWp2-swKuw5TIceOlovGcYDj_nK6J-gARem6cd0T5Nw6aePZ47dc7N0nITdLirI6f2RVkrwzQjGcjc1yg2p_QFLukBezC3IVzMy2qNFcebBqsB35HaH1vLeiKXXmuxQ0zbArVBkuzBwcITVevLuAwC07D_W-A9EGkT8"
+    },
+    {
+      "position": 15,
+      "title": "Tualatin Shoe Repair",
+      "place_id": "ChIJ4W3Hro9ylVQRIbE2Hl7Rv9g",
+      "data_id": "0x5495728faec76de1:0xd8bfd15e1e36b121",
+      "data_cid": "15618432234908201249",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495728faec76de1%3A0xd8bfd15e1e36b121&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495728faec76de1%3A0xd8bfd15e1e36b121&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.3837396,
+        "longitude": -122.75904799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4W3Hro9ylVQRIbE2Hl7Rv9g",
+      "provider_id": "/g/1tdp4rrr",
+      "rating": 4.7,
+      "reviews": 92,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "18893 SW Martinazzi Ave, Tualatin, OR 97062",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20132\u202fPM",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20132\u202fPM",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 692-3686",
+      "website": "https://www.mycobbler.net/",
+      "description": "Leather goods repair shop providing shoe resoling, heel replacement, leather stretching and zippers for boots.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"This gentleman is an AMAZING cobbler.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHj7WgrMy1tUFcbM4lglSICtJndFGwIpzveEmS-oPEBs43WqK1JzKyJ21K4rzyKdEnJqrJkAtCuS2E2ORZr_S_WUVrCNUKb0lJn38-LXHzA6XtX4KM8lp50fkBrA53w2Pn9kPUdyw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vu7hb3icHcTbDoIgAADQLyLx1m3rgZxdIMtypuulTTRcEhhQTv-wT-hv2joP5_upjWn13LJ47Y6YlIxXL10pKoWphBlR-bBYqwHVQFso3h8btLlPMqai3jbpihaRxxlPtoHBolytu207vKvwkQAZh0vtudmT2HggPXZs4qmhJ2Uo8FPhBpnglTihczhd1DW5ZulZBfuUFJBj4U7BLt8MaJyb3CPRlLc-vDVLhXy3c2Ixa-K07LtFZ0MIQf2fAvED7olEzg"
+    },
+    {
+      "position": 16,
+      "title": "Orchards Shoe Repair",
+      "place_id": "ChIJyeI-i-GvlVQRtp6c1f9u2us",
+      "data_id": "0x5495afe18b3ee2c9:0xebda6effd59c9eb6",
+      "data_cid": "16995018188915515062",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495afe18b3ee2c9%3A0xebda6effd59c9eb6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495afe18b3ee2c9%3A0xebda6effd59c9eb6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.664707199999995,
+        "longitude": -122.56266579999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyeI-i-GvlVQRtp6c1f9u2us",
+      "provider_id": "/g/1ty73zx1",
+      "rating": 4.9,
+      "reviews": 194,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop",
+        "Boot repair shop",
+        "Leather cleaning service",
+        "Leather repair service",
+        "Shoe shining service"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop",
+        "boot_repair_shop",
+        "leather_cleaning_service",
+        "leather_repair_service",
+        "shoe_shining_service"
+      ],
+      "address": "10708 NE Fourth Plain Blvd, Vancouver, WA 98662",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(360) 256-7240",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"He helped resolved my botched-up job on my hopeless shoe.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyDlW8XkZFtCRSj43ItWebxrwt_KfZnufeP2k5UA6kbAV7iyJ14xRiMsWnuCyBZG9AWx6riUNdd4Ay59S3EWXSdnljN7o4ZpkUb1wWxBNjp2Z5B1UfS0y7WqO8xCS2tjGphZY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MpxeA3icHcTbboIwAADQL0Luokv2UPC-jDkbLPbFBCi3YtvREtof3D_4Nyaeh_P8b5US8sO2h9ZfNJw3A5kkGUvOFGFqUfKH3QhpldKSNjinvxQczGZAq5zinUousA_8o0Kk0OOs7l81ZlNNzh4NM7CkBbhGnTm5gb503xKxKTEx3q8B0suxy9KqCoAJ19DfohxWbOjTiAdY0KxwZ6TjtBceDmM3q6FjIvT3s9IJ9FS_Fy2-fc6u4zhW-7602AtLSUSL"
+    },
+    {
+      "position": 17,
+      "title": "Top Shelf Shoe Repair",
+      "place_id": "ChIJ7U6UYwANlVQR-gDKaglgCk4",
+      "data_id": "0x54950d0063944eed:0x4e0a60096aca00fa",
+      "data_cid": "5623412678288081146",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950d0063944eed%3A0x4e0a60096aca00fa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950d0063944eed%3A0x4e0a60096aca00fa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4353098,
+        "longitude": -122.7510434
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7U6UYwANlVQR-gDKaglgCk4",
+      "provider_id": "/g/11zjn4symd",
+      "rating": 5,
+      "reviews": 15,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop",
+        "Leather repair service",
+        "Orthopedic shoe store",
+        "Shoe shining service"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop",
+        "leather_repair_service",
+        "orthopedic_shoe_store",
+        "shoe_shining_service"
+      ],
+      "address": "11714 SW 72nd Ave, Tigard, OR 97223",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 349-1012",
+      "website": "http://topshelfshoerepair.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I will definitely come back next time I need a cobbler!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrYM-6W0SNzoTwNG5teecHKNSw12YGguww8AQwaB5UR6bOTU28UPd0YJMx6Rt-s1dgGTm1428c0Z6ksmZTih3WKEO-xzbqYJ53tdDA1buFU-LdN6vhErR6Vw7lFp3T2Pid3-VaZVgvFB4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bfrK8XicHcTNboIwAADgJ6q0VCpZsgNmwuJPRSwYuEnbtEagjBZrfMjd9zZL_A7f3692brQfQdBpvFDGqE7OVk7cDE4ObsFNH6jRAm6BDZKcnu5JNtUHQC7wTF-GeZpFTkr-vaNnj8I6U7P3cXLy13VUFqQ9sjKMy1zAent4ksIBi4TKWI-WYcxhQ-62b9hN48tucwTPV_tTbyPsxFeC2jktwV5Q8tCbqSCVX3XpiFmY3wQG1bWp1CNdLz89ghAC_Z6D4R-seUTh"
+    },
+    {
+      "position": 18,
+      "title": "Totem Pole Shoe Repair",
+      "place_id": "ChIJOZeZRPOulVQRryYHE1bmxmg",
+      "data_id": "0x5495aef344999739:0x68c6e656130726af",
+      "data_cid": "7549975082694026927",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495aef344999739%3A0x68c6e656130726af&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495aef344999739%3A0x68c6e656130726af&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.6791659,
+        "longitude": -122.6607226
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOZeZRPOulVQRryYHE1bmxmg",
+      "provider_id": "/g/1tm8dp_8",
+      "rating": 4.9,
+      "reviews": 173,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop",
+        "Belt shop",
+        "Boot repair shop",
+        "Leather cleaning service",
+        "Leather goods supplier",
+        "Leather repair service",
+        "Shoe shining service"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop",
+        "belt_shop",
+        "boot_repair_shop",
+        "leather_cleaning_service",
+        "leather_goods_supplier",
+        "leather_repair_service",
+        "shoe_shining_service"
+      ],
+      "address": "7833 NE Hwy 99, Vancouver, WA 98665",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20132\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(360) 574-2323",
+      "description": "Shoe repair shop also selling leather goods such as belts, purses, and Birkenstocks.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Totem Pole Shoe Repair is an absolute gem!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOVX75wP9rR_68lHvbOG2qQwQ8TwVCLiog_21fgovhPrut3ZSDum8nHpbHJjuVG8YO3HYWMEvL7SVApV3ehxx05NTq5iCwwc3qbk_TzsOdQdCddwMWk8yXG8EkEn6AH36904K8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GtuIHnicHcRdboIwAADgEwHVDqwmeyCM0PgHTFJ0LyQUbBFsgRbqdkHP4G1M9j18ryfXulcbx-k4tJmUrKsnVY9UCl0LbVN5d1ivLKos5fjJMW19HJPzyjXJevwuPNThuYyj5ZCaFGWGBPtGsmK5uDI582ScNPw5fU13JHBf4u1tIhG6xBBf8kM471cn4vcE1vzxAO4xG9wmMIbCoWyL7E_FVVoFVWUOeYt-zxEK21B4PobeGnzs0KdZAAAs_j-1xBtcnUQh"
+    },
+    {
+      "position": 19,
+      "title": "Hillsboro Shoe Repair",
+      "place_id": "ChIJFbJfyqQalVQRXuJmaxB4VKE",
+      "data_id": "0x54951aa4ca5fb215:0xa15478106b66e25e",
+      "data_cid": "11625048550066807390",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54951aa4ca5fb215%3A0xa15478106b66e25e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54951aa4ca5fb215%3A0xa15478106b66e25e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5228173,
+        "longitude": -122.9855729
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFbJfyqQalVQRXuJmaxB4VKE",
+      "provider_id": "/g/1twyz7lk",
+      "rating": 4.5,
+      "reviews": 71,
+      "unclaimed_listing": true,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "323 E Main St, Hillsboro, OR 97123",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20133\u202fPM",
+        "thursday": "10\u202fAM\u20133\u202fPM",
+        "friday": "10\u202fAM\u20133\u202fPM",
+        "saturday": "10\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20133\u202fPM",
+        "tuesday": "10\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(503) 648-0418",
+      "website": "http://hillsborozshoes.com/",
+      "description": "Shoe repair shop offering services including replacing boot heels, and fixing straps.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They repaired the cork and sole and leather and they look great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHp7lssmujao-WtM7toKhx9TpVIO2hmE98TT1VoRKcod0GTYn44k4NUhRh9RkkydwM9bdxFG943FX2L6RBvequfkcRI8ikLHqYtCK-HzCtzvR3zZqqNKM30FSCOlkfHxnvH4i_f=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jvAX0nicHcTbDsEwAADQL6qVNajEA4upzIaa64vQXUq3dtNuZj_oG_yNxHk43w83ptAjy8q43UmVSrO40vGTKWliaTpM5VZaaMA00NZkHWzEhBSDTOu8elwVOBh_YJTHGxwW-8Wqx_MZHoZhd6-ox1QE5-FJIiRQsOOUYyrEO3r5-BY17hwj2z32ln06reOySgSji-FdLEl5Mo4HSOuYtqZ2ey7LwPNt6G6dVSYS0siaoPslGb-6EELA_zMgf4snRRg"
+    },
+    {
+      "position": 20,
+      "title": "Lake Oswego Shoe Repair",
+      "place_id": "ChIJvfLucZp0lVQRPzd_uPzD7WU",
+      "data_id": "0x5495749a71eef2bd:0x65edc3fcb87f373f",
+      "data_cid": "7344742057505666879",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495749a71eef2bd%3A0x65edc3fcb87f373f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495749a71eef2bd%3A0x65edc3fcb87f373f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.419720999999996,
+        "longitude": -122.66522099999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvfLucZp0lVQRPzd_uPzD7WU",
+      "provider_id": "/g/1thqggc3",
+      "rating": 4.2,
+      "reviews": 26,
+      "type": "Shoe repair shop",
+      "types": [
+        "Shoe repair shop"
+      ],
+      "type_id": "shoe_repair_shop",
+      "type_ids": [
+        "shoe_repair_shop"
+      ],
+      "address": "97034 Oregon, Lake Oswego, A Ave",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 635-2669",
+      "description": "Boot repair shop taking on various issues, including those others said could not be fixed.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"My goto for shoe repair.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHA3UUDu4I0MCkrMiWTU8cVXJ06BAolcUd3Ilh9J92LvYdAg_QT8YhP2j9C9-HSQy_2xQVsvTrp0v_-xnJ7N6-KmanyHFL0LoV5ffWA4yaveBChEhkd-IQmBqv45wgYMVd5kVjv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sV09vXicHcRdDoIgAADgE5HkT2VbD2g1NW2xlPLJNTQoFUyM8oSdodu09T183w8fhk4tDaPh1oRJyZrqqaqeSjFUYphQ2RqsU4AqoAx02OMaBcjKsvXTDmHi131yO6XZgpJzBGcekg3NSitsuBu5ZqzzErECp4ucH8y767sgOOKxMN-YKJ32HdQFeItovp-BXXsRY7CNYSyJc72ekD1edOX5fMPrEoS49R7adl4sT0jp1OSuV68phBDw_xSIH6nXQ1I"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+shoe+repair+cobbler+Portland%2C+OR&start=20&type=search"
+  }
+}

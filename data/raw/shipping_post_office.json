@@ -1,0 +1,1600 @@
+{
+  "search_metadata": {
+    "id": "6a4e588bff7aa2117c6f5b36",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6rT7aqvTxzxyKwGuSAlQug/6a4e588bff7aa2117c6f5b36.json",
+    "created_at": "2026-07-08 14:02:51 UTC",
+    "processed_at": "2026-07-08 14:02:51 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/post+office+in+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/6rT7aqvTxzxyKwGuSAlQug/6a4e588bff7aa2117c6f5b36.html",
+    "prettify_html_file": "https://serpapi.com/searches/6rT7aqvTxzxyKwGuSAlQug/6a4e588bff7aa2117c6f5b36.prettify",
+    "total_time_taken": 1.51
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "post office in Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "post office in Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "United States Postal Service",
+      "place_id": "ChIJSefdw_8JlVQR5cDPvCXxiiA",
+      "data_id": "0x549509ffc3dde749:0x208af125bccfc0e5",
+      "data_cid": "2344951700383580389",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509ffc3dde749%3A0x208af125bccfc0e5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509ffc3dde749%3A0x208af125bccfc0e5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5275761,
+        "longitude": -122.67918499999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSefdw_8JlVQR5cDPvCXxiiA",
+      "provider_id": "/g/1jlk0bwgv",
+      "rating": 3.3,
+      "reviews": 258,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Passport office",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "passport_office",
+        "shipping_and_mailing_service"
+      ],
+      "address": "745 NW Hoyt St, Portland, OR 97208",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136:30\u202fPM",
+        "thursday": "8\u202fAM\u20136:30\u202fPM",
+        "friday": "8\u202fAM\u20136:30\u202fPM",
+        "saturday": "8:15\u202fAM\u20135:30\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136:30\u202fPM",
+        "tuesday": "8\u202fAM\u20136:30\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1439949?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Post office offering passport services, along with shipping and package handling.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEz4m9-ii8UqGxs-Gns4dczCCYtpWY01mWnw04LeSg9TZY0_DmRER4gW4vmbuOY0H11mlSAnOgobzDPysh1VOcgUmMVLSZZd_53ALJs-E9E7PCIvF2PXY5eTmbBbzmreNSUIb7Z=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oPh-F3icHcTRboIwFADQL6q0WqOY7AGRORcmTEQsLyatTTFyW-atuvGD-wb_xsTzcB7_jfcdzoKgbUYD45xp9RX1RTnrtfUD5SAwHRKFBIMoX3-fo6TnEJLTaVr-LH-RLC3yo-rjWPiuEpRBZe-Up7ow4bYW9LCATbLhpuI3kNdM0A_GoC0imxkn-0X-hw3bZcqU8LVLi7o-HsajKP1EkoTJJI9Xt_dhvhdjvQU5lz1c9LooV3JSv90ZpZQ0rxWxTy5BQ98"
+    },
+    {
+      "position": 2,
+      "title": "United States Postal Service",
+      "place_id": "ChIJU3Q08mWglVQRJsbWHBccoVM",
+      "data_id": "0x5495a065f2347453:0x53a11c171cd6c626",
+      "data_cid": "6026128661992097318",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a065f2347453%3A0x53a11c171cd6c626&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a065f2347453%3A0x53a11c171cd6c626&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.496609,
+        "longitude": -122.61139019999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU3Q08mWglVQRJsbWHBccoVM",
+      "provider_id": "/g/1tg8jfw2",
+      "rating": 3.4,
+      "reviews": 135,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "5010 SE Foster Rd, Portland, OR 97286",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1359823?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "U.S. Postal Service location for a variety of shipping and mailing services, money orders, and stamps.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKHjrIx-t9ZSg-G9iEpj_xKqI7-C697DdXPYy9k6dA8oVXwSfBRN-ATDGHZCeJLQXmI7RLEdNLKuD29ivpwdQX8SVd3Bi8Onq95RoYfzGGo2FMErDErLfAgLU6Czs-fODWmDZJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g06aV3icHcRBcoIwFADQE32hOgXijItIaEQiClhFNi4IBFQIkijWC_YM3sYZ3-K9_iutOzU1jEs1GQkpxaW4qaLPZauLVo9y2RiiU5ArUAbehNEZ02Bx6v0HaJQlAiiqve50fARX3wbXQjbh6ebwh84Wx47cpUNSzuMQ8JbQReYWSxaljW_HzOMhC25kjOp7N_AodZIdn8xrZ91e0XcsD-WTUjn-WXk98XpWYsF-LfepoFyTfUOy5Wz4Mk0Tqs85tG-rz0Kr"
+    },
+    {
+      "position": 3,
+      "title": "United States Postal Service",
+      "place_id": "ChIJBxX8MA4KlVQR3-MuQwco0s4",
+      "data_id": "0x54950a0e30fc1507:0xced22807432ee3df",
+      "data_cid": "14903018128579421151",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0e30fc1507%3A0xced22807432ee3df&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0e30fc1507%3A0xced22807432ee3df&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.514754599999996,
+        "longitude": -122.6754977
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBxX8MA4KlVQR3-MuQwco0s4",
+      "provider_id": "/g/1264mrkdh",
+      "rating": 2.6,
+      "reviews": 194,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "101 SW Madison St, Portland, OR 97204",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/find-location.htm?location=1457470&utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Chain post office providing shipping and mailing services, as well as passport applications.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERlmWcQAcgSv05SSsppyfc1_VLAT6_wu1RT4WiLKevlzXbgNNNIWYSU2a6IKwhEH8giP4CdjCf9ffDwdF8P7Ayb99vuhmxkVHvCurIWC7iiwQjAmkxEYdKDmCNAPxXCkqcSTdA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZcZQ33icHcRdEkJAAADgEwn9KM30sLM0jGaHVuHJZLErFrVYdcHO0G2a6Xv4vh82DL3Yq2rDVgvadbQpRlE8SdcORTssSMdV2guFCEWowEdBDexzwyMSAELxpG0wFn3_KomeXk8gNFI56udwHVUnr5iad5xRhJAbJfiyvBmuJ5nt7Gjlr2F-h6VZlpbMjzt_C16ZaU4j43N9dSY4Pt0IbqtKBnfA69lOcs_iEAF_jmH9IDjMwUHqmqYp7D9R2h-Z7UV8"
+    },
+    {
+      "position": 4,
+      "title": "United States Postal Service",
+      "place_id": "ChIJdR8uj6CglVQRDktB2jB9rLM",
+      "data_id": "0x5495a0a08f2e1f75:0xb3ac7d30da414b0e",
+      "data_cid": "12946860677556947726",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a08f2e1f75%3A0xb3ac7d30da414b0e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a08f2e1f75%3A0xb3ac7d30da414b0e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5155102,
+        "longitude": -122.6583065
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdR8uj6CglVQRDktB2jB9rLM",
+      "provider_id": "/g/11b5yqb1pv",
+      "rating": 2.6,
+      "reviews": 171,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Passport office",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "passport_office",
+        "shipping_and_mailing_service"
+      ],
+      "address": "1020 SE 7th Ave, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1361817?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Government agency offering mail and package delivery, passport services, and money orders.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGy-W68DF2RyJENgOgLDNZ4F7tu9sjKn6XrWdbsPN_JuLCNi1Ehbo2KaP_bCqak55uix1Xyd1YJd2FKsn6U4vUsi5gUn2Ousoy2NmJo42fAGhisMbrSYGNCeF568SHJH_Dlwls85A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2aPQTHicHcTbboIwGADgJ6pARxGX7IJwTNHKNMTDDZGDLYqt8rdTHnGPsLdZ4nfx_f0Kre_waVmD-JhxpfjQGejGRkndST1r1M3id0ANILCCgn1fg3RCO8-PEryZaMz4mi8jdnSTuTYLuOTS24-7toaCVdQsQ9Y7sagVzk9FVYeP05UQ07-c_dQ6B9riJAfple5PCT3hpcRrA2rC7EaVi89BKnpY1eP2kLKwS4jnbzOaVdHwHMAnwdfTsW0bifcNkv-ZdURx"
+    },
+    {
+      "position": 5,
+      "title": "United States Postal Service",
+      "place_id": "ChIJESPupHYLlVQRho_oOIOWxUI",
+      "data_id": "0x54950b76a4ee2311:0x42c5968338e88f86",
+      "data_cid": "4811417267254890374",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b76a4ee2311%3A0x42c5968338e88f86&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b76a4ee2311%3A0x42c5968338e88f86&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4680354,
+        "longitude": -122.7188274
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJESPupHYLlVQRho_oOIOWxUI",
+      "provider_id": "/g/1tdwvdg4",
+      "rating": 2.8,
+      "reviews": 160,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Passport office",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "passport_office",
+        "shipping_and_mailing_service"
+      ],
+      "address": "7805 SW 40th Ave, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1374230?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Passport-processing facility with friendly staff and parking.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE43bZDmgHAujpuTPq2XbM1xyh59wT7WRyOgpNoaTbw5cyk__RADKNA2ZriFj6N6HKe1TsW3x_J98h_B8vMocZte6Y2o8okbhA18lFdyeQqD0Fk_3gkdIRsq0SFio9FL3Pw75PY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qaficnicHcRBjoIwFADQEyGFDgiTuOgEG2dURCRR2TRSm1aLfLBF5ISewdtM4lu890tZ25pv160VnkgAWYveiDuHxorGTjjcXNkahxvHuCRLt5rMv3BVJje5IP217Yus8w_V2nuOKoiHYrrPx41sUzgV1RDwUTOWk2SZEr-8X-g1TMPFUniF2eMn-4sjxX6ixxp4aUV49CECXSniRTU9j2LbJYhqhqU-_-amQzt6gZiucDZMg-w4GzyEkKM-c6f5B1uvRC4"
+    },
+    {
+      "position": 6,
+      "title": "United States Postal Service",
+      "place_id": "ChIJjyEJ6CihlVQRZHYXcyvfW7w",
+      "data_id": "0x5495a128e809218f:0xbc5bdf2b73177664",
+      "data_cid": "13572687279718626916",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a128e809218f%3A0xbc5bdf2b73177664&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a128e809218f%3A0xbc5bdf2b73177664&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5396533,
+        "longitude": -122.6122867
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjyEJ6CihlVQRZHYXcyvfW7w",
+      "provider_id": "/g/1tdsjhd1",
+      "rating": 3.2,
+      "reviews": 124,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "2425 NE 50th Ave, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1379861?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Post office handling packages and mail, as well as offering money orders and passport services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXXYVMGoR1UFMXXfbpYYH6sjc-6B_PvszzWXGWqXL0xTpg9K6teWJVrWzcnCPyLF6qbpqJwScgWchrYnNkHLSqSMfPbHeFneCELGO3GsbGhi1tAXchYvrsPOczcchyliZcY6vzYA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wVBpNXicHcTRTsIwFADQLyrbQtJEEx4GcV1wg-KUtr6Y7Ka0yGi73Tqkf-gn-Dcmnofz-2NjDPiYZYNdLoz3ZtBfqCfwLmoXF-CvmQlIAAlmJd8dLiWTUh1b5l-Kt6qV8tQHpWqKn0Do-oPPmJKQTIyyyb9fg3l4plGL7XESCdyG35uKjn0Yt7cOjAA7Kbe71E03du2J97WunN48NWy_ZNgzey5iKcGqeUK-hwRg78P5HRSdkypXtyLPc2L_B-L-AG3JR4A"
+    },
+    {
+      "position": 7,
+      "title": "United States Postal Service",
+      "place_id": "ChIJswk9cxunlVQRQVdbgda8gOc",
+      "data_id": "0x5495a71b733d09b3:0xe780bcd6815b5741",
+      "data_cid": "16681540649259587393",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a71b733d09b3%3A0xe780bcd6815b5741&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a71b733d09b3%3A0xe780bcd6815b5741&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5626214,
+        "longitude": -122.65918409999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJswk9cxunlVQRQVdbgda8gOc",
+      "provider_id": "/g/1td0g6g_",
+      "rating": 2.8,
+      "reviews": 128,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "630 NE Killingsworth St, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1377444?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Post office offering mailing and shipping as well as money orders.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEH3m4_1avLfMVgcPj_nb7PtHm9FNEQ4LUHVaZiRm96hYR9d1nkq-246xcPP1EEbdUesKKEyIMFAUBYTKLlvxGkcR-K5pFc0UK9cChESpUGMACz8egpxy7gms32MW9mnkeirvtV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cyUMq3icHcRRboIwGADgE1VAUNclPqApshRMRYvRF6O_XeugpbMdw11wZ_A2S_Y9fM9f5b11r0HQqngku0624suJO3TGC-NH0OlAWofAIRekbL1pUpLHOjlF5754L2sJ7ONkLjPmc42zNdkkBc_r8_FWaTxVhwpfI9N8onEyHYCxiJDLlQtHKXm8lVnKF4cdLdp-WDVQITqxGYScYlgqsrV8VabLnxch7fCYSe3icbnH2jTidu99Pf-OwjBE6n9A5g_neUPr"
+    },
+    {
+      "position": 8,
+      "title": "United States Postal Service",
+      "place_id": "ChIJhUfR7qGhlVQRB345U3KcMtY",
+      "data_id": "0x5495a1a1eed14785:0xd6329c7253397e07",
+      "data_cid": "15434570887788592647",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1a1eed14785%3A0xd6329c7253397e07&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1a1eed14785%3A0xd6329c7253397e07&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5197782,
+        "longitude": -122.5568703
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhUfR7qGhlVQRB345U3KcMtY",
+      "provider_id": "/g/1tlgxnvx",
+      "rating": 2.8,
+      "reviews": 220,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Passport office",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "passport_office",
+        "shipping_and_mailing_service"
+      ],
+      "address": "400 SE 103rd Dr, Portland, OR 97216",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1373039?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Branch of the national postal system offering passport services and 24-hour kiosks for printing stamps.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6rB6j_QQJb-BYUREMgRUv6qZDlvFoNvgRA-DYbSnw211FAVu64kaQovXU1xOAXPfJH7kiljQlyXot9o-4ehHXCjAUlw8rytVmOY8Zog4-a0QX3JjbpQqtHLmO-MuqZc4L5CVC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ASrHD3icHcRbjoIwFADQFV2BEfGR-FFRhxAVywRS-DHSYBkoXKAFdIWuYXZjMufj_L0LrVu1MQxZzGcCUch8UHnPsdF5o2cca0O0CrgCZZDrhVbk2-l3Tnmj1M9gl0Th4SzCaHS6dC_HI15GERLYJ9lPM31Z1pHEg2NXd4oji6xnQNj14XvL6leWVL4Y6jWCnRcec0sSyWnVv3RcB8kqRWHD3aRs7pdZSzvtneoAzkOXcvu0cGN3O1mmaULxP4fmAyRnRBs"
+    },
+    {
+      "position": 9,
+      "title": "United States Postal Service",
+      "place_id": "ChIJxSVzuQYKlVQRi2xc3Lc1ptc",
+      "data_id": "0x54950a06b97325c5:0xd7a635b7dc5c6c8b",
+      "data_cid": "15539166628080807051",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a06b97325c5%3A0xd7a635b7dc5c6c8b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a06b97325c5%3A0xd7a635b7dc5c6c8b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5216725,
+        "longitude": -122.67544269999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxSVzuQYKlVQRi2xc3Lc1ptc",
+      "provider_id": "/g/11bbrkkd8f",
+      "rating": 2.7,
+      "reviews": 53,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "204 SW 5th Ave, Portland, OR 97240",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1357531?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Mailing services are available at this government-run post office offering money orders.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVPmqyBFPOgHCDG5F3oxsr1gCgtjJm0I5fz8GVttxwnBQ9I5nak3qbCegjDp8vrhov7ntQBRe1NyUq0D-NsdWJIoNZBJRNotbWp8m-NiBMZ1reN2HTy0lp5Fjsj1I8COhnbJY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xZ4s63icHcTdDoIgGADQJyIh57K2LkKn6RZp62d1l0aQKaB8ZfaAvUNv09a5ON-PBDB25ji1dEdCa1Hzh-VdqRVwBaNSN44wFpUWWWeRsfy-iPdZ0w40ytZiGYSxF7n6ZTsiAgFV2uDEu779eA_w6hXNp4mnzne3LQIuqtD4z07q50RBTjecsGHX4hAxezmkiWYnmm6YhuJg_AaxG12dSMfZeLkdcG28qLIVSfxgLVWRHuc9wRgj-b9E6gc_eUSC"
+    },
+    {
+      "position": 10,
+      "title": "United States Postal Service",
+      "place_id": "ChIJY-1rbkunlVQRIAgKoqd67CA",
+      "data_id": "0x5495a74b6e6bed63:0x20ec7aa7a20a0820",
+      "data_cid": "2372405964114102304",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a74b6e6bed63%3A0x20ec7aa7a20a0820&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a74b6e6bed63%3A0x20ec7aa7a20a0820&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5360115,
+        "longitude": -122.6572475
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY-1rbkunlVQRIAgKoqd67CA",
+      "provider_id": "/g/1vljg0yt",
+      "rating": 3.7,
+      "reviews": 92,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "815 NE Schuyler St, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1367184?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Branch of the postal service offering mail and package delivery, as well as money orders.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJkvTb7j8AcRDGraHTJTZni_tJaDh_20WdYfT7dzlL3-P1kfsbdXl5P1_Th7i1mDq1F-34wJoGI8yysY_ef1qi8784S-uD615Vl7bl6E3HYI5hOd75PHzUYmLqmD0H1yDUapI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/paA-dHicHcTbDoIgAADQLyIhM1xbD25U6FpZ0cVenOIFE0WDavaB_UN_09Z5ON-PMKbTM8uSwh6VSpUyf-j8zlVr8taMuGqsstOAa6AtL9zsao8G9ZOl-OZ6fE9W94SygF3bKjZBQkQ8hucsKhjO3nJtgxDVhU6zi3RCFDOBK9SQHi2BPXkFauW7w6CjOC9QX7nYnRzAg0yRc5I4ldOFTSPfEdsMOyF9H6Nm3TcEUjSQY9L58xeCEALxn4P2B507Qkw"
+    },
+    {
+      "position": 11,
+      "title": "United States Postal Service",
+      "place_id": "ChIJj8Br2-mjlVQRchByVvmUm9U",
+      "data_id": "0x5495a3e9db6bc08f:0xd59b94f956721072",
+      "data_cid": "15392059950086885490",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a3e9db6bc08f%3A0xd59b94f956721072&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a3e9db6bc08f%3A0xd59b94f956721072&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5521598,
+        "longitude": -122.5364975
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj8Br2-mjlVQRchByVvmUm9U",
+      "provider_id": "/g/1tdd0d2j",
+      "rating": 1.9,
+      "reviews": 356,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "4048 NE 122nd Ave, Portland, OR 97230",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1376853?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "U.S. Post Office branch offering shipping and mailing services, along with money orders, and PO boxes.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYR1WZSbfnfzU6v_nD9-x34LxHR6EV976iczsN4FUJ1othAodlf2qlV-QWKhlx2HyL3VFzFGe43f_9Hh5dgH8a5MikuK3lc-JwoqXsIVB8beqNl367LGU-GROKRxV4TfvFiX3I=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fvupd3icHcTvEoEwAADwJ5rKErnzIceKEqL588UxW-vMJhvSC3oGb-PO78Pv--HG3HTfsgSHrUKpQtCHpneipKHStIi6WsVNA6KBtoJFurwEaJc5m_3qxCRrcu95kCMf1NBN6ijzxtjveiVpdOqifOoowwN1FqxdCQyWm5iLuh29E4hRg0LqQnbwI945F1Hv2JmVl0cMBQHTl6q2eoKHvROtUgG9bhLmIMzmcVZjd82eqNzCyeDl2LYN-H8C5A_6cUM4"
+    },
+    {
+      "position": 12,
+      "title": "United States Postal Service",
+      "place_id": "ChIJ5eF2ijeglVQRDf4biXCeaHI",
+      "data_id": "0x5495a0378a76e1e5:0x72689e70891bfe0d",
+      "data_cid": "8244013324075531789",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0378a76e1e5%3A0x72689e70891bfe0d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0378a76e1e5%3A0x72689e70891bfe0d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4945971,
+        "longitude": -122.5761043
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5eF2ijeglVQRDf4biXCeaHI",
+      "provider_id": "/g/1td9_d9z",
+      "rating": 2.6,
+      "reviews": 198,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "3850 SE 82nd Ave, Portland, OR 97266",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135:30\u202fPM",
+        "thursday": "9\u202fAM\u20135:30\u202fPM",
+        "friday": "9\u202fAM\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135:30\u202fPM",
+        "tuesday": "9\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1370227?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "A local outpost of the national mail carrier also offering services like money orders.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPFBM-7sgsJ8nwizB7MLWSh18qY9GOy8nsp4qoxSI3oJ7aC0jkDcHRNYvVc8R9sblbi6iTyQoc6aVCB9A0KPw0ABK4IqD4145QcvFtV9bKQufFCFzyv1gfKHEDVvjmxUju5l3c=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9Ashq3icHcRJDoIwFADQE1VKAAETFwzigAM4YFzKDxYQW_AXEC_oGbyNiW_xvp9cyhonilLl2ogJwaqsxewJgsuMyxGIh8JqJIAEFSfaxndnFgXuhpjIcGXxvni75mZ9PuSq1Vzs-W6wONZ6I16HpSZW5tWj5d2HxX576RKw9jamVVqMi-MQCxhfE8-1HRpGPXXcUF82vq7qRgxdIBM7DeP2FnjBe-hUdgsXMz_pysfrVLZGpcG0VymlJP8PhP8A9yBDqA"
+    },
+    {
+      "position": 13,
+      "title": "United States Postal Service - Approved Provider",
+      "place_id": "ChIJ0VCPCdeglVQRU-rt6Mpkv64",
+      "data_id": "0x5495a0d7098f50d1:0xaebf64cae8edea53",
+      "data_cid": "12591893905805273683",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0d7098f50d1%3A0xaebf64cae8edea53&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0d7098f50d1%3A0xaebf64cae8edea53&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.537144399999995,
+        "longitude": -122.619637
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0VCPCdeglVQRU-rt6Mpkv64",
+      "provider_id": "/g/1tfmbyxw",
+      "rating": 2,
+      "reviews": 124,
+      "unclaimed_listing": true,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "shipping_and_mailing_service"
+      ],
+      "address": "2000 NE 42nd Ave D, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 9:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "9:30\u202fAM\u20132\u202fPM",
+        "thursday": "9:30\u202fAM\u20132\u202fPM",
+        "friday": "9:30\u202fAM\u20132\u202fPM",
+        "saturday": "9:30\u202fAM\u20132\u202fPM",
+        "sunday": "Closed",
+        "monday": "9:30\u202fAM\u20132\u202fPM",
+        "tuesday": "9:30\u202fAM\u20132\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "http://www.usps.com/",
+      "description": "Postal facility providing a range of shipping and mailing services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFPZTvGvCO7TojQ6_mEInnIo22VYOt30TjpoMrAUErnSh_C6RSfRi96ut0DpoIM4ifbr6-co1Y7kmupy2h6jMjOh2ZECVZ4QyE4wnxwj0QOWiW3zTQl4SPvhzF3FcBWPuuhRB1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wKoJxHicHcRNjoIwGADQE1XKT2o0cYEMGBYIBZTIxmQapFTo19AWRi84Z5jbTOJbvL9fbozSe8cZub_pAfqxs7qbGUjTSbNhMDm90ohppJ2wONNneEqKtl5OS5RvaxCU3Kc4lTIFz7vecuPjWijI5vASz7Li94iU1aMcdsQa_KUgzYLh8T0TxMC9bZ-TVS-PE5GJnHttHF3bgL7iYJU_q8A0b4bGf9d0DKpi4e_ET9ixKazl5dE9rC7GGPHPDMl_TkVEjw"
+    },
+    {
+      "position": 14,
+      "title": "United States Postal Service",
+      "place_id": "ChIJu_p4Bf0LlVQRh5N4dNaBPic",
+      "data_id": "0x54950bfd0578fabb:0x273e81d674789387",
+      "data_cid": "2827840374112293767",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950bfd0578fabb%3A0x273e81d674789387&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950bfd0578fabb%3A0x273e81d674789387&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4968845,
+        "longitude": -122.7668999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu_p4Bf0LlVQRh5N4dNaBPic",
+      "provider_id": "/g/1tdc9j2z",
+      "rating": 3.5,
+      "reviews": 88,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "3225 SW 87th Ave, Portland, OR 97225",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1387197?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Local branch of a federal agency providing mail and package delivery, plus money orders.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3WFV3gkXlxd9RHe44erOZOhyOLi4LLDCzJGif4PZWmVsNt5BofnuxI9p6CR7Nn1Jv-O7OqpY3wW93YjGzawuEr2gecg5PbbKTj8Ktw9pPrLmEaBtj-os6fCAKmR1brCGqAFH9=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AX2k0XicHcRdboIwAADgE1XA4k-X7AEZokIoIwtM3qCWIkJb2yLqBT3DbmOy7-H7e7XGSP1hWX0LZ0wI1tNRU0UEN5SbGRGDxaQGRANteWnyffECWGxzyC6__f2Esh11XapwidsHjs9uHH_5z0N4bty0LIZcJ2axEQ0f73skl362SrhzuAG8wld5hFOB4LELn9U0BmrOKGGLtK6jn24dmQnJVMVDUG1MB4ReNr4XDZlTKz-8etsd-pwc27ZB-z8B_A1AdURM"
+    },
+    {
+      "position": 15,
+      "title": "United States Postal Service",
+      "place_id": "ChIJ67avJQColVQRCzEZOVOpvpc",
+      "data_id": "0x5495a80025afb6eb:0x97bea9533919310b",
+      "data_cid": "10934363120207474955",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a80025afb6eb%3A0x97bea9533919310b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a80025afb6eb%3A0x97bea9533919310b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.588574,
+        "longitude": -122.7539899
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ67avJQColVQRCzEZOVOpvpc",
+      "provider_id": "/m/06_56w3",
+      "rating": 2.8,
+      "reviews": 97,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "8420 N Ivanhoe St, Portland, OR 97203",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135:30\u202fPM",
+        "thursday": "9\u202fAM\u20135:30\u202fPM",
+        "friday": "9\u202fAM\u20135:30\u202fPM",
+        "saturday": "10\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135:30\u202fPM",
+        "tuesday": "9\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1380372?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Chain post office offering a variety of services, including money orders, and package shipping.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHy2pE5jp5OeO9d1FAzvaxXavpCah2qfUCO5Ih-zoPVylajoQjGcca16CNBlhdQ_d31VHpJ_mKheRaz4xpCzAs0qIRAuFMAqc2KlA7mqPrR_R5MLtIbd-kNBdlOwvT-kh_8BWKK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rq22TXicHcRJDoIwAADAF1UWxS3xUIgLomxxu5HaVhootNgCygd9g78xcQ7z_TCtpVoaBmfjUS5Ezmmr6BOLWtNaj7CojFwqgBVQBozDpIS7ty3XTiGdiEYLYm3g0KHXDXXSQ8xuHmcvcnwGBhFf3hwVIim2GCNr6oUuZyTJyNi67OQ-qwJGUzRMXtIboDIbP4Xt5ggbbAcczqomfqZZ6hwP2r8TUIYu4VHfnUDJsrl7DYJVb5mmCdh_DOofk51FEQ"
+    },
+    {
+      "position": 16,
+      "title": "United States Postal Service",
+      "place_id": "ChIJ775673sKlVQRzRJ-fWtqA4k",
+      "data_id": "0x54950a7bef7abeef:0x89036a6b7d7e12cd",
+      "data_cid": "9872851818025718477",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a7bef7abeef%3A0x89036a6b7d7e12cd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a7bef7abeef%3A0x89036a6b7d7e12cd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4997658,
+        "longitude": -122.65090239999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ775673sKlVQRzRJ-fWtqA4k",
+      "provider_id": "/g/1thsfmv0",
+      "rating": 3.2,
+      "reviews": 61,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "1410 SE Powell Blvd, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20135\u202fPM",
+        "thursday": "9\u202fAM\u20135\u202fPM",
+        "friday": "9\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9\u202fAM\u20135\u202fPM",
+        "tuesday": "9\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1356033?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Local branch of the national mail and package delivery organization.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEEnOVzKfDVkgjpPWGVa696sVB9JsMFoYaPyB65KNc9f5iKkj338oJZg33Jj3pU0csIfOM0bzQsmaWDHDdYA5l3dD3Wacm8HnI8-YAH1xF66Y4mazWb2zflUJAOQ8Eao8qC2bfnrQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9vC2fnicHcRNjoIwGADQE1WqHZoyiYsyoAhRYCGE2ZVKi_y0jB-TUW7oEbyNybzFez3beZ7g03GGlqy0tXpofqG5SWvmxswraUdHT4AkIHB4dsp7HoYmLZZEBUWvuykr94WgHoXC92I47mwlsodP3eQkPeVek74jhNn4WxMSd2Q6YwkHlR5xveQwijKIgkvF3YFcAlIKObLIHBiqeLS-7yitPkaxlPVmUcM55mnOQmHZz9emVuaWb__WGGPU_i-ReQNdbUOG"
+    },
+    {
+      "position": 17,
+      "title": "United States Postal Service Processing & Distribution Center",
+      "place_id": "ChIJjQuPgoallVQRVTwOPBg5w8Q",
+      "data_id": "0x5495a586828f0b8d:0xc4c339183c0e3c55",
+      "data_cid": "14178238828142017621",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a586828f0b8d%3A0xc4c339183c0e3c55&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a586828f0b8d%3A0xc4c339183c0e3c55&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.575644399999995,
+        "longitude": -122.58704979999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjQuPgoallVQRVTwOPBg5w8Q",
+      "provider_id": "/g/11rc468s7k",
+      "rating": 2.6,
+      "reviews": 72,
+      "unclaimed_listing": true,
+      "type": "Post office",
+      "types": [
+        "Post office"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office"
+      ],
+      "address": "7007 NE Cornfoot Rd, Portland, OR 97218",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(971) 201-3730",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHONN2KD2EfiRBgXGY-8yjFiugsR98BqpV9jJIUbSRpJCvXlBF4VQW8LAfJ6iGkjwA0ZhaJAHmK81D45yNg2F377fxxG8FxgFfPcAG96nxHK2DTX3nxqkxisnOYViYmRPC26HABcA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g-L85nicHcTdFoEwAADgJ5qyyHKOiyUr5SQh5Y6dWutnxcI8okfwNs7xXXzfTzkMvZxrWlMaI9Z1rMkfMr_TTgy5GEa0azXWS0AlkBqOwl2NvW0YwsCBq4LHNkvdDKB3RfiDydhC9q1PrMpfH6_7uPeXz7SxySTZndAGF77J3bp6Yf1cXnzstQEaO5PpO2SQGLNZoZSLiGKkiCh2LVMoL4DOITWEutWKS7HNEp61cbSEpodtihevsa7roPxPgfgBMHZDRA"
+    },
+    {
+      "position": 18,
+      "title": "United States Postal Service",
+      "place_id": "ChIJ362QvaoJlVQRyAOAydLDTCQ",
+      "data_id": "0x549509aabd90addf:0x244cc3d2c98003c8",
+      "data_cid": "2615680793686574024",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509aabd90addf%3A0x244cc3d2c98003c8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509aabd90addf%3A0x244cc3d2c98003c8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5373746,
+        "longitude": -122.69371699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ362QvaoJlVQRyAOAydLDTCQ",
+      "provider_id": "/g/11t728l8ws",
+      "rating": 2.9,
+      "reviews": 74,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "2017 NW Vaughn St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8:30\u202fAM",
+      "hours": "Closed \u00b7 Opens 8:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "8:30\u202fAM\u20135\u202fPM",
+        "thursday": "8:30\u202fAM\u20135\u202fPM",
+        "friday": "8:30\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30\u202fAM\u20135\u202fPM",
+        "tuesday": "8:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1573315?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Reliable, affordable mail-delivery service providing domestic and international shipping.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEC_bibyBAzhpLzveAKe_WY3gEibvnO6Tq96ux6Ia05zgSVn0pgCxyQfj3N9f3X3ubhy9t-10ToaErCmvTGGfVpJoWlvKbXCP4fAyZUuQJgaQtKTdpUqt681b46wjdZ_IxAj5Ma=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/n2xRsHicHcRdDoIgAADgE5E4imVbD-RcK_tzWVkvTgwhM6BAUy_YGbpNW9_D9_0Ia7WZOE4l0IArxStWG_bKlbRM2kGuHg7XBuQGGIfsNtGdBH5Kb7SbkV7oVd8wErL0dEY8uNFGbnH89HDd4kUGRz3fHyXU3G-7qCjRxitQgmoqOs8CF8YqC17-o4nn8-Kol-pUNSFN_N2wIN3lUEdLnkU2jK_68LR47NIhfpfXS7poSTlaZ9O3CyEE4n8O5A_IV0Wh"
+    },
+    {
+      "position": 19,
+      "title": "United States Postal Service",
+      "place_id": "ChIJYRCOcN8MlVQRTcOZmCqJr2E",
+      "data_id": "0x54950cdf708e1061:0x61af892a9899c34d",
+      "data_cid": "7038995558645220173",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950cdf708e1061%3A0x61af892a9899c34d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950cdf708e1061%3A0x61af892a9899c34d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.431253,
+        "longitude": -122.7689123
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYRCOcN8MlVQRTcOZmCqJr2E",
+      "provider_id": "/g/1tjs4n9x",
+      "rating": 2.6,
+      "reviews": 278,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Money order service",
+        "Shipping and mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "money_order_service",
+        "shipping_and_mailing_service"
+      ],
+      "address": "12210 SW Main St, Portland, OR 97223",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(800) 275-8777",
+      "website": "https://tools.usps.com/locations/details/1439991?utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "description": "Local branch of the government service offering mail delivery, package shipping, and money orders.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFpZk6IF2MCMgxIzbnz_z7nCvCYcJAJlZgZZ0PNFd4YA72OSJl0jjyQkbvapK-9WIQxycttJEwSF-y2j0lakAwazqQUWXkDzMG8hAmgmB0uzE78FFFImYkAoE-DICvd-Lyz-9ql=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G3iBlnicHcRRboIwGADgE_3S4SJq4kOH1JSJSoxx8LJAISW0tGgrSC_oGXabJX4P39-rsbY3a8-TzXzGteayfpj6zrSytbIzpjuP9waYAePh0yEVmPS5WFDiJ2HCn9SVyv26QIVDmLEYxzLneY5OB1J9Zjjwj-dYoradUlEORf8NqytNnxOzNo7GM4HJb5EsBB4Ld0sv1x-xdclu2eCOd1_o4aJgSQihXSawjmBLw6GC_eRgdZOb8QMhBM17BuofcV5ErQ"
+    },
+    {
+      "position": 20,
+      "title": "United States Postal Service Delivery Carrier Unit",
+      "place_id": "ChIJ9zfMgNEKlVQRcCTzWDqr0h8",
+      "data_id": "0x54950ad180cc37f7:0x1fd2ab3a58f32470",
+      "data_cid": "2293083427373786224",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950ad180cc37f7%3A0x1fd2ab3a58f32470&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950ad180cc37f7%3A0x1fd2ab3a58f32470&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4590767,
+        "longitude": -122.6465113
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9zfMgNEKlVQRcCTzWDqr0h8",
+      "provider_id": "/g/1tg5btnc",
+      "rating": 2.8,
+      "reviews": 45,
+      "type": "Post office",
+      "types": [
+        "Post office",
+        "Logistics service",
+        "Mailing service"
+      ],
+      "type_id": "post_office",
+      "type_ids": [
+        "post_office",
+        "logistics_service",
+        "mailing_service"
+      ],
+      "address": "8816 SE 17th Ave, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u202fAM\u20135\u202fPM",
+        "thursday": "6\u202fAM\u20135\u202fPM",
+        "friday": "6\u202fAM\u20135\u202fPM",
+        "saturday": "6\u202fAM\u20133\u202fPM",
+        "sunday": "Closed",
+        "monday": "6\u202fAM\u20135\u202fPM",
+        "tuesday": "6\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 232-9566",
+      "website": "https://tools.usps.com/go/POLocatorDetailsAction!input.action?&radius=20&locationType=po&locationTypeQ=po&locationID=1381183&utm_source=google-my-business-url&utm_medium=search&utm_campaign=yext",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAERZjINTD97gkynASK6q8kgDCdPW8ncY5IX3efyfJZpU7dQ_2w4b8Mh0xnpp2BAOvtUZNfdHfXbidN0BHsWTV_XBr2FjWul2PmRBFSjiuL2S3Lgp-38OqeXvkkVal212sO2TSJz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/R1ZsI3icHcRJDoIwAADAF1VqcUETD-AScAEUBORitJQixVJtEfWDvsHfmDiH-X4KpYQca1pV6B1a17QijSR3XHNFuOrg-qpRIQGWQGqm726ZOd-lpeOGs9GQshc3g9XgZjA6m2Z-bHB86DuJTvJXvkzFfphtj6jtnY1NAZ9cCGSZ3kPtUzfP7Dw5XzIXWraMw-iYWHe0KOOmQv51Zy2C8tKsUaCvqQC64d1I8mAsOlWoi6SHwmD5nrRdCCEo_mPAfy_KRBA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=post+office+in+Portland%2C+OR&start=20&type=search"
+  }
+}

@@ -1,0 +1,1893 @@
+{
+  "search_metadata": {
+    "id": "6a4e586e50d43ecd8b24d2d7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lWuawDFAu0pC6Nyq6urvHw/6a4e586e50d43ecd8b24d2d7.json",
+    "created_at": "2026-07-08 14:02:22 UTC",
+    "processed_at": "2026-07-08 14:02:22 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+live+music+venues+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/lWuawDFAu0pC6Nyq6urvHw/6a4e586e50d43ecd8b24d2d7.html",
+    "prettify_html_file": "https://serpapi.com/searches/lWuawDFAu0pC6Nyq6urvHw/6a4e586e50d43ecd8b24d2d7.prettify",
+    "total_time_taken": 1.54
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best live music venues Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best live music venues Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Revolution Hall",
+      "place_id": "ChIJ04SFkKOglVQRhdSkId9VsDw",
+      "data_id": "0x5495a0a3908584d3:0x3cb055df21a4d485",
+      "data_cid": "4373089655007270021",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a3908584d3%3A0x3cb055df21a4d485&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a3908584d3%3A0x3cb055df21a4d485&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5192045,
+        "longitude": -122.6519177
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ04SFkKOglVQRhdSkId9VsDw",
+      "provider_id": "/m/012rcym9",
+      "rating": 4.7,
+      "reviews": 3650,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar",
+        "Cafe",
+        "Coffee shop",
+        "Event venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar",
+        "cafe",
+        "coffee_shop",
+        "event_venue"
+      ],
+      "address": "1300 SE Stark St #203, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12\u202fPM",
+      "hours": "Closed \u00b7 Opens 12\u202fPM",
+      "operating_hours": {
+        "wednesday": "12\u201311\u202fPM",
+        "thursday": "12\u201311\u202fPM",
+        "friday": "12\u202fPM\u201312\u202fAM",
+        "saturday": "12\u202fPM\u201312\u202fAM",
+        "sunday": "12\u201311\u202fPM",
+        "monday": "12\u201311\u202fPM",
+        "tuesday": "12\u201311\u202fPM"
+      },
+      "phone": "(971) 808-5094",
+      "website": "https://www.revolutionhall.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restaurant",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Continues to be a fav Portland music venue.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKZ4TLZasjFys_RtenVWRlbtzVOF3agBOBA7w6X9YCqDJ3CBF11s1Yaoz3I2NBRge9dMy_vhAPhW3mSMIoeb9jokljQ38ofsghVq9z83IkMfYROREhzJ-RuLHQx179Nrk7utJS-w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TNNt4nicHcpBjoIwFADQE1WonYg1cQHOoKCAVIODG4NY2wBS9RdRbugRvI3GzVu911NqfYaRYVSS9IRSouIN8Guuas1r3cvVyRBnQDkgMOxlGJf2dL79WS-2GRTuA3bs05INq_a6SyKXZMKJHNtqB_80nVx-fTJxXIwBp5nqiNcPHSY4PQSP3U3aS7khp1XgKb6nhSqrIiZDdQQhkwvthsQrg2PKIvYnOx-xZjGL79ii4bW0Gu2vUDtusWmaSH7NUf0G2jBFCg"
+    },
+    {
+      "position": 2,
+      "title": "Mississippi Studios",
+      "place_id": "ChIJY8ROTGqnlVQRv9U-NPD_Ewo",
+      "data_id": "0x5495a76a4c4ec463:0xa13fff0343ed5bf",
+      "data_cid": "726205372070548927",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a76a4c4ec463%3A0xa13fff0343ed5bf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a76a4c4ec463%3A0xa13fff0343ed5bf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5514492,
+        "longitude": -122.6758607
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY8ROTGqnlVQRv9U-NPD_Ewo",
+      "provider_id": "/g/11hd9z50k9",
+      "rating": 4.6,
+      "reviews": 2218,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Night club",
+        "Performing arts theater"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "night_club",
+        "performing_arts_theater"
+      ],
+      "address": "3939 N Mississippi Ave, Portland, OR 97227",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20132\u202fAM",
+        "thursday": "11\u202fAM\u20132\u202fAM",
+        "friday": "11\u202fAM\u20132\u202fAM",
+        "saturday": "11\u202fAM\u20132\u202fAM",
+        "sunday": "11\u202fAM\u20132\u202fAM",
+        "monday": "11\u202fAM\u20132\u202fAM",
+        "tuesday": "11\u202fAM\u20132\u202fAM"
+      },
+      "phone": "(503) 288-3895",
+      "website": "http://www.mississippistudios.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restaurant",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"One of my favorite music venues in Portland- with a wonderful bar attached.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDZvLcQkBVDyIYgjCUxQ8dvJrOPNXFnv_yIA9OyCDpoBAtJ2Yh8yqAAKdcX2tpTkmFqyWXiQB6w5gC3ZZPUOvsXI6vWqcejSjZEciREL8WWy9VotwVhzWwrdfqYkHiKrLs2f355A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I1RGu3icHcRJDoIwAADAFyEIwaCJhwIuKGFxocDFQ8EWEAq0FusPfYK_MXEO8_0Qznu2UtUHMWaYUvwon6wcEe142fEZoq2Ke6YgpjAVREHcgJ2bCx_FjZ240stw7VxfsVWIwxhGQbrtxE16YBlKx-2pDfhBz4glBwCOBUp13l-adjtImFaxvZhM7Bh5Hl1DwVJvIeCAyvpc5xtUnTa-BaFcJpRPCXnDaSzuQ9bsq-PoM_1umCZYT3NN0xTyHyndD1qxRrw"
+    },
+    {
+      "position": 3,
+      "title": "Laurelthirst Public House",
+      "place_id": "ChIJLb14PMeglVQR5PYsXd-ajqY",
+      "data_id": "0x5495a0c73c78bd2d:0xa68e9adf5d2cf6e4",
+      "data_cid": "12001700341120562916",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0c73c78bd2d%3A0xa68e9adf5d2cf6e4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0c73c78bd2d%3A0xa68e9adf5d2cf6e4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5262634,
+        "longitude": -122.6346762
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLb14PMeglVQR5PYsXd-ajqY",
+      "provider_id": "/m/0k5hctz",
+      "rating": 4.7,
+      "reviews": 737,
+      "price": "$20\u201330",
+      "extracted_price": 20,
+      "unclaimed_listing": true,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar",
+        "Bar & grill"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar",
+        "bar_and_grill"
+      ],
+      "address": "2958 NE Glisan St, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 4\u202fPM",
+      "hours": "Closed \u00b7 Opens 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "4\u201310\u202fPM",
+        "thursday": "4\u201311\u202fPM",
+        "friday": "4\u202fPM\u201312\u202fAM",
+        "saturday": "12\u202fPM\u201312\u202fAM",
+        "sunday": "12\u201311\u202fPM",
+        "monday": "4\u201310\u202fPM",
+        "tuesday": "4\u201310\u202fPM"
+      },
+      "phone": "(503) 232-1504",
+      "website": "http://laurelthirst.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Bar games",
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Live music",
+            "Live performances"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Dancing",
+            "Food",
+            "Food at bar",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"Great local spot in Portland with live music every night.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgbBhR-m5znecv3S5jGtbR9Xv3sO1K9Xs3lTPRCHE0hSWikhrYr1V9vdU7mWqv-MFBIfL4LUZ0WkgGLTPFy7PIm1RCgjLBPBpDDz3ku74GoWWrqxCvZEYWBeYJtJxBPoWznTZx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/02j9jXicHcRRboIwAADQE1VKqiGY-GFRmIpaEVbh0662CrRIa8e4oGfYbZbsfbzft7S2M3PPaySaCK1Fw1-G90wry5WdMN16ojOAGWC8JTmc6mUsrlhmoJ2NijOHzrNHYq9ZeHHIHP1deDGoyUkWfayhPNN7Lfuy9z9D91UELX06sI_x5pZO06KCtBZJmpP4JyCb1s8i8Ugxwd1qNaL6FUwTTWn_HCJXrUuKebm12wETTUeVV8Pi24cQAvk_A-oPJ-tEbw"
+    },
+    {
+      "position": 4,
+      "title": "The Get Down Music Venue",
+      "place_id": "ChIJ4303o3KhlVQR7jozib2oSCM",
+      "data_id": "0x5495a172a3377de3:0x2348a8bd89333aee",
+      "data_cid": "2542467521654766318",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a172a3377de3%3A0x2348a8bd89333aee&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a172a3377de3%3A0x2348a8bd89333aee&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5181392,
+        "longitude": -122.65955459999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4303o3KhlVQR7jozib2oSCM",
+      "provider_id": "/g/11pt_5736r",
+      "rating": 4.7,
+      "reviews": 552,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Dance hall",
+        "Event venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "dance_hall",
+        "event_venue"
+      ],
+      "address": "680 SE 6th Ave, Portland, OR 97214",
+      "country": "United States",
+      "website": "https://www.thegetdownpdx.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"Honestly, best music venue I\u2019ve been to in Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6gZkVrIhb3cTgHKT0DEazo2B4_38q1y4Z6lXvo39LZaY_arG7RZc_3H7W9JlkHuo9iDdn4sRnzrYHxEpVNWE4ET-c0c7M3z20eGMI3lrhTyb3jgLQgc_vz8fPMh-H1X-bxyZw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UexkiXicHcRLDoIwFADAE1WKJSImLjSi9YNRQxS7IfDEVqkttviBC3oGb2PiLOb7EXVd2YHjSEE6XGsui4ctDGhVF6rugL45vLIILLLOaLPelqNpj7Nyb-YiJxBzuozxJMxa3R17Kenf3cZjPZk8NQlWLDummZn5OwYpof4hWMiSPnRwmZyUZ3eqNUf6Dqv9-hB6YYwAgx-RtouLWTQn0oi4ycmVr7Yc0mfbP28igaiboPzdsNfw5WKMkfgPSP0A9zlDxQ"
+    },
+    {
+      "position": 5,
+      "title": "Dante's",
+      "place_id": "ChIJLYbLLgcKlVQRuap64pGoTf0",
+      "data_id": "0x54950a072ecb862d:0xfd4da891e27aaab9",
+      "data_cid": "18252430209325902521",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a072ecb862d%3A0xfd4da891e27aaab9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a072ecb862d%3A0xfd4da891e27aaab9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5229694,
+        "longitude": -122.6737416
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLYbLLgcKlVQRuap64pGoTf0",
+      "provider_id": "/m/0g3kbt",
+      "rating": 4.4,
+      "reviews": 2343,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar",
+        "Pizza restaurant"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar",
+        "pizza_restaurant"
+      ],
+      "address": "350 W Burnside St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20132:30\u202fAM",
+        "thursday": "11\u202fAM\u20132:30\u202fAM",
+        "friday": "11\u202fAM\u20132:30\u202fAM",
+        "saturday": "11\u202fAM\u20132:30\u202fAM",
+        "sunday": "11\u202fAM\u20132:30\u202fAM",
+        "monday": "11\u202fAM\u20132:30\u202fAM",
+        "tuesday": "11\u202fAM\u20132:30\u202fAM"
+      },
+      "phone": "(866) 777-8932",
+      "website": "http://www.danteslive.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Best place for live music in Portland\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGu-ZFj6AZoEAtsRMmy1Ff6MwhvGXnVK6GuYk2_irxYivNrLliAhH2G6TwnsXBcAv4SfV1E9RHQb0e8Z9OlS2cd5WCRuUtmtdE7NF57Bg3BpveMvF4rqCwbYLslJg78ryTj8VkFQw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KGAh53icHcRdboIwAADgE1V-VMAleyiGYjZhAx0TXpZYa4uUlrWlnUf0CLvNkn0P3--DGTPpJ8_jbLmgUlJOZk0UlsIQYRZYjh6dNMAaaA--l9UA8xl06BbBTmbQ6LoY7wG6RoVjNj-J5jXK53YIv3r10_a2VHveQ7YL8-johD6lGNrV4doE2abeVWefJN3mjR9CfFl_buv5w4zmksUlWscpXaaTJYVFK_W9ded2r_kLjRN1P96SZkCVe3aB7_uA_Y-B-APwjkVe"
+    },
+    {
+      "position": 6,
+      "title": "Wonder Ballroom",
+      "place_id": "ChIJ1z2dxEinlVQRGskBm1mGOEk",
+      "data_id": "0x5495a748c49d3dd7:0x493886599b01c91a",
+      "data_cid": "5276114682875332890",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a748c49d3dd7%3A0x493886599b01c91a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a748c49d3dd7%3A0x493886599b01c91a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.540783499999996,
+        "longitude": -122.6634794
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1z2dxEinlVQRGskBm1mGOEk",
+      "provider_id": "/m/0ch5yhy",
+      "rating": 4.4,
+      "reviews": 2038,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue"
+      ],
+      "address": "128 NE Russell St, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(503) 284-8686",
+      "website": "http://www.wonderballroom.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"This venue is one of my favorites in Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHvnre5CSwI5NQ1wDIAYhx0oyweF2lrTfCC7C4Pdkg9b2Uft5xKZdsnGP9nnfn-rC1uQXs851Ivk3ySDkcPiBylXcrROYhu2Y1FNycwg371CGCf5wlh8IFUriKpmWaE_1St_YvUbg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ldXSenicHcRdDoIgAADgE5GisX62HoyyXJtp5speWhFCk8ABSh6xI3Sbtr6H7_vh1rZm7nmChyOmFBO0M1QTJS2VdkTUy2OtAcQA40VZmjfRtpeaIly4BKU5dKskqvjbV4OjcSD0scZ4gsfZo2Gze1DWFr13l4eRm2wmZS2BxrDLz2aKYNI34VCsGpI9l4M4E33YV7wLKhinA3EsnEC8wTVygk-TuNTPXfs63dZXWNhr1Zd3tnDQ933A_xMgfwEyRb4"
+    },
+    {
+      "position": 7,
+      "title": "The Goodfoot | Music, DJs, Art, and Food since 2001",
+      "place_id": "ChIJU87Y9pWglVQRBxNXL9hODvY",
+      "data_id": "0x5495a095f6d8ce53:0xf60e4ed82f571307",
+      "data_cid": "17730195473418359559",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a095f6d8ce53%3A0xf60e4ed82f571307&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a095f6d8ce53%3A0xf60e4ed82f571307&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.519521,
+        "longitude": -122.63637999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU87Y9pWglVQRBxNXL9hODvY",
+      "provider_id": "/m/0k0zfm4",
+      "rating": 4.4,
+      "reviews": 1245,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Art gallery",
+        "Bar",
+        "Dance club",
+        "Gastropub",
+        "Pool hall"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "art_gallery",
+        "bar",
+        "dance_club",
+        "gastropub",
+        "pool_hall"
+      ],
+      "address": "2845 SE Stark St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fPM\u20132:30\u202fAM",
+        "thursday": "5\u202fPM\u20132:30\u202fAM",
+        "friday": "5\u202fPM\u20132:30\u202fAM",
+        "saturday": "5\u202fPM\u20132:30\u202fAM",
+        "sunday": "5\u202fPM\u20132:30\u202fAM",
+        "monday": "5\u202fPM\u20132:30\u202fAM",
+        "tuesday": "5\u202fPM\u20132:30\u202fAM"
+      },
+      "phone": "(503) 239-9292",
+      "website": "http://www.thegoodfoot.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"This is the best place for local live music in Portland!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFy3BC_u0VusXIlzKn5Mwfv533s2ot9Y-uC8aVh7gb0MqXI1KYRFfewzoD7qmpYDzBTq0vzXESzK9tqcNg9FctNmRjCCjGxSwPWbpPv9lPrd8O2dbOXBCpeWIJqZHJ4INmVGcFg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0qd3AHicHcRdDoIgAADgE6EUtbKth6Qsc5n9zLSXloS4UoFALS7YGbpNW9_D9_0UWgs1se2yQBbjnJW0UfRJeK1prS3CK5sJBYgCyp5F4e4x897IxZcGxo1K_NIE9XDT5e0QIdXn2klBg8fXuBixDG5k4veCdO_ltDN8PpKVSOfGPUrYmmRxMIGjJQmZ4xEdVvs7xvfl69BFp0xErVNGz9t4279l28TFgp78tTyv1gM_rOIl8di060EIQfGfgPoHjcpFNg"
+    },
+    {
+      "position": 8,
+      "title": "Star Theater and Starlight Lounge",
+      "place_id": "ChIJo5_aOAEKlVQRbqndhK0MEKg",
+      "data_id": "0x54950a0138da9fa3:0xa8100cad84dda96e",
+      "data_cid": "12110193337397258606",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0138da9fa3%3A0xa8100cad84dda96e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0138da9fa3%3A0xa8100cad84dda96e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5233741,
+        "longitude": -122.6767519
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo5_aOAEKlVQRbqndhK0MEKg",
+      "provider_id": "/m/0gg4j5s",
+      "rating": 4.6,
+      "reviews": 1405,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar",
+        "Lounge bar"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar",
+        "lounge"
+      ],
+      "address": "13 NW 6th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 11\u202fAM",
+      "hours": "Closed \u00b7 Opens 11\u202fAM",
+      "operating_hours": {
+        "wednesday": "11\u202fAM\u20132:30\u202fAM",
+        "thursday": "11\u202fAM\u20132:30\u202fAM",
+        "friday": "11\u202fAM\u20132:30\u202fAM",
+        "saturday": "11\u202fAM\u20132:30\u202fAM",
+        "sunday": "11\u202fAM\u20132:30\u202fAM",
+        "monday": "11\u202fAM\u20132:30\u202fAM",
+        "tuesday": "11\u202fAM\u20132:30\u202fAM"
+      },
+      "phone": "(866) 777-8932",
+      "website": "http://startheaterportland.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Definitely one of my favorite spots in Portland for live music!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeJB0hYdePtiXgoDA3SCsN3MmDLadK3em7lG7nyC30qtljoEyKSBS8lNSRwNTDOysYwiv0wFvDGlPc0gvgYH-I5bke2SiGbi2M3YkGj8ZySR701PAgyj9TNLgx9N8SI6j3uNf0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hsfmTXicHcRNEsEwGADQE6X9KkPLjEWr1G-UWKgdEelP2iDRygmdwW3MeIv3_eTG3PXIdWWOHaGUkPyl-ZOpxvDGOEzVrrhrxDTSbpiSXRXO-TKCPLvy1BRHoeIQ04kmeFPH6_N1hXnty8Rv7ATDw8hSTe2KRjSQhO47coi3Vmdd0UI3a-NEpgxEK7I5WvQvFe_RIrkUvQ3OqqQMTpbuffDSUNhyeCBr8R6SgC4GJX6RG4w7DwBQ_p-h5gc_6EPO"
+    },
+    {
+      "position": 9,
+      "title": "Polaris Hall",
+      "place_id": "ChIJ_5nEcA6nlVQRGHg1m3_gxh0",
+      "data_id": "0x5495a70e70c499ff:0x1dc6e07f9b357818",
+      "data_cid": "2145649111158061080",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a70e70c499ff%3A0x1dc6e07f9b357818&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a70e70c499ff%3A0x1dc6e07f9b357818&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5620804,
+        "longitude": -122.6737594
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_5nEcA6nlVQRGHg1m3_gxh0",
+      "provider_id": "/g/1tdy8skf",
+      "rating": 4.7,
+      "reviews": 451,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Banquet hall",
+        "Event venue",
+        "Wedding service",
+        "Wedding venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "banquet_hall",
+        "event_venue",
+        "wedding_service",
+        "wedding_venue"
+      ],
+      "address": "635 N Killingsworth Ct, Portland, OR 97217",
+      "country": "United States",
+      "phone": "(503) 240-6088",
+      "website": "http://www.polarishall.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"Great place to hear music or see a show in Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPjwmQXgbn06hncneQAGdLwBtPGLQFnkXU4TLh9_8fqNc4YqdeRRqr-sllpm6NMh4y7uyKarKJPLsT-ntUkr7NY4--fwTcPmNyN5I_XutYmNHl6WO1LMjPnNMpAIT9y2A5aNML=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/26tyrXicHcRJDoIwFADQE1VQEYfERV04lm8xEGFltFYaaT9DSwgn9AzexsS3eN-Pcq62K8_TajoqqqrQsrOyFRU6iW4kKuMVtSXCEutRDnFJ9_zdmzgrHuiHCgXKmO6erN84vmPxFsssDRKmlrfFqwER5M1TXi5NS6zWtQkhUsEw74bTvT0dObMJQZeW7RzygJBXnwhuYIDZ4ZZ1Ljew1-H1PGbRmyNENT0ky2FCZ3eI2Lof-75P1H9B8Ae3PUT6"
+    },
+    {
+      "position": 10,
+      "title": "Arlene Schnitzer Concert Hall",
+      "place_id": "ChIJM_XTuRoKlVQRie3kKgoEGX4",
+      "data_id": "0x54950a1ab9d3f533:0x7e19040a2ae4ed89",
+      "data_cid": "9086298164912516489",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1ab9d3f533%3A0x7e19040a2ae4ed89&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1ab9d3f533%3A0x7e19040a2ae4ed89&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5168624,
+        "longitude": -122.6811575
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM_XTuRoKlVQRie3kKgoEGX4",
+      "provider_id": "/m/082s9r",
+      "rating": 4.7,
+      "reviews": 5261,
+      "type": "Concert hall",
+      "types": [
+        "Concert hall",
+        "Event venue",
+        "Performing arts theater",
+        "Stage"
+      ],
+      "type_id": "concert_hall",
+      "type_ids": [
+        "concert_hall",
+        "event_venue",
+        "performing_arts_theater",
+        "stage"
+      ],
+      "address": "1037 SW Broadway, Portland, OR 97205",
+      "country": "United States",
+      "phone": "(503) 248-4335",
+      "website": "https://www.portland5.com/venues/arlene-schnitzer-concert-hall",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Active military discounts",
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Probably the best live music venue in the Portland metro.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0gaSB8XqeIoklKbN6ltEih6JDWN2qzCx0pW4d_-pMcusCbIbKO10iSGYUS-V2uMCX_kR3dLwDpULFkBnpGBDxOUOGHEixFsxGdoyPt24tlGWFIv0M7TmoQvyTBBvlHidjKl_f=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Y5uTyXicHcRdEoFAAADgE22tmBgzHmw_W1IhiadGWyqtdtktcUFncBszvofv-6mk5GKuqrQaKyVjJS06UTwIa2XRSoWwm1pyAYgAQl1ugm2zxLA8R2h2vBcua6iXBTqVVl3pKzMJtPvbGCBPJnkKuE86YWRu5oUjWEf4FEfgoHW-cUyb3ThfP00er-0GtRwjcwjjEDtWPdhiwDl7baQ2kRQntttDf7q_sW3_2iPUU6fOrx5NL4vnCEIIqv8EtD9IVETq"
+    },
+    {
+      "position": 11,
+      "title": "THE DEN",
+      "place_id": "ChIJTXdfimELlVQRkZownKLdrW8",
+      "data_id": "0x54950b618a5f774d:0x6faddda29c309a91",
+      "data_cid": "8047331799655815825",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b618a5f774d%3A0x6faddda29c309a91&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b618a5f774d%3A0x6faddda29c309a91&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5155719,
+        "longitude": -122.6645717
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTXdfimELlVQRkZownKLdrW8",
+      "provider_id": "/g/11tdgncx7x",
+      "rating": 4.5,
+      "reviews": 306,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Event venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "event_venue"
+      ],
+      "address": "116 SE Yamhill St, Portland, OR 97217",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20132\u202fAM",
+        "thursday": "9\u202fAM\u20132\u202fAM",
+        "friday": "9\u202fAM\u20132\u202fAM",
+        "saturday": "9\u202fAM\u20132\u202fAM",
+        "sunday": "9\u202fAM\u20132\u202fAM",
+        "monday": "9\u202fAM\u20132\u202fAM",
+        "tuesday": "9\u202fAM\u20132\u202fAM"
+      },
+      "phone": "(971) 288-1982",
+      "website": "http://www.thedenpdx.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"One of my favorite music venues in Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5sFiBORONiOsH1G2qrS-bZGAFLI1Wl42CKKeOJVSZM9dUF4yMHP9JbGJB3S3FE96Fpnk_XDT9Ew91wpKoL9BJrOq8JEARTNYHo3xHayX1TiklY6O78StOpVHKB9rWtSKB3AF8CWa3ddlG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fXGO-nicHcTBboIwAADQL6pQq44u2aF1lK5V6iwT9WIUCBAYrbQL8yt33t8s2Tu835_Ge-ueg6Bv0Kw2pu6rL1eNhRl8NfhZYT6D2jpQOOACskvfOxIvHWup2qu0VY7DZH4fNbidE8I2bzDvF_O1lJUSB33e4vKDLR5bvsPilgiKNGIxXjE7dJfja4bjCcPJSrPBVIzqHomY7LP0xA365tfHEWZt159W6inSXtkDlxSPudeSIsKidX5FZdknLxMMwxA0_xdg-ANS20Ph"
+    },
+    {
+      "position": 12,
+      "title": "The Old Church Concert Hall",
+      "place_id": "ChIJ74tjEBoKlVQRa3irMqF-b2Y",
+      "data_id": "0x54950a1a10638bef:0x666f7ea132ab786b",
+      "data_cid": "7381257545088465003",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1a10638bef%3A0x666f7ea132ab786b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1a10638bef%3A0x666f7ea132ab786b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5151389,
+        "longitude": -122.6855849
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ74tjEBoKlVQRa3irMqF-b2Y",
+      "provider_id": "/g/119wlzhv3",
+      "rating": 4.8,
+      "reviews": 998,
+      "type": "Concert hall",
+      "types": [
+        "Concert hall",
+        "Event venue",
+        "Historical landmark",
+        "Performing arts theater",
+        "Tourist attraction",
+        "Wedding venue"
+      ],
+      "type_id": "concert_hall",
+      "type_ids": [
+        "concert_hall",
+        "event_venue",
+        "historical_landmark",
+        "performing_arts_theater",
+        "tourist_attraction",
+        "wedding_venue"
+      ],
+      "address": "1422 SW 11th Ave, Portland, OR 97201",
+      "country": "United States",
+      "phone": "(503) 222-2031",
+      "website": "http://www.theoldchurch.org/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"I hope to see live music again in Portland.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjoDdEaT-tH-8gWwYaI-g0sRnvXXLUojG7HLWVnzInIZgejpMLA8A0k08cW9dlXowVkD8Xr5D78KmWECwYgnA1V74kZs4qg1Vu31uNa9ppGZu12a36JPnxCRsKYa0gSzzlpqyF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G0weP3icHcTbboIwGADgJ6q0g41isotGGKJoPI3TXVPJTwDbSstwvOCeYW9j4nfx_f811mqzdJy-cRegFPT1aOpBKGlraRdC3RzQBgmDjMMO-2PH4laF14hfkF0jCvlU8gQBNif5UxTpt2pjf53mmZwTmVRQt3qXMspwh6nIg2tfqCnrQloM76FPt7c8Wk0lSEYy3-sq492BZKNLxj0PtI6rkbxx92NzkI_VyWxLjuE8z72-_359TgRjjJrXAsknJW1EOA"
+    },
+    {
+      "position": 13,
+      "title": "The 1905",
+      "place_id": "ChIJHXqQqmunlVQRSyFCcmcf3AU",
+      "data_id": "0x5495a76baa907a1d:0x5dc1f677242214b",
+      "data_cid": "422246994225013067",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a76baa907a1d%3A0x5dc1f677242214b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a76baa907a1d%3A0x5dc1f677242214b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.55197,
+        "longitude": -122.67527369999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHXqQqmunlVQRSyFCcmcf3AU",
+      "provider_id": "/g/11c1wrl4hx",
+      "rating": 4.6,
+      "reviews": 1116,
+      "price": "$10\u201350",
+      "extracted_price": 10,
+      "type": "Jazz club",
+      "types": [
+        "Jazz club",
+        "Cocktail bar",
+        "Pizza restaurant"
+      ],
+      "type_id": "jazz_club",
+      "type_ids": [
+        "jazz_club",
+        "cocktail_bar",
+        "pizza_restaurant"
+      ],
+      "address": "830 N Shaver St, Portland, OR 97227",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 6\u202fPM",
+      "hours": "Closed \u00b7 Opens 6\u202fPM",
+      "operating_hours": {
+        "wednesday": "6\u201311\u202fPM",
+        "thursday": "6\u201311\u202fPM",
+        "friday": "6\u201311\u202fPM",
+        "saturday": "6\u201311\u202fPM",
+        "sunday": "5\u201310\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(971) 232-0105",
+      "website": "https://www.the1905jazz.club/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great beer selection",
+            "Great cocktails",
+            "Great wine list",
+            "Live music",
+            "Live performances"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Dancing",
+            "Food",
+            "Food at bar",
+            "Hard liquor",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Romantic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "user_review": "\"Classic Portland venue with great food, music, and service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1r4BI5TRMteXcQ6HymKDTp80UGtHPhzrmeLhBx-RHBRynwo4HAk0IBhPb37FwCwKRI8S2aDoXKr0i6bTSNr0qIo-mTNqADQMMP5cUH5YcYOD0PPD5NfUpS9eawRcj42tUpR80=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/T5tVSnicHcRNjoIwGADQE1U-FRRNZgHTaAmCpUCiS20q9Qda25qqF_QM3maSeYv3_UjntF0GwU1OR51S3U08rDBcDU4MbsRVH3TaIm6RDRJaVtdkNTZhmkUNK5zY8WpGXn2OGx1Du3aEyrfpxUamT8RIyl6DVyFJrpClkh6n85X_9TnL4npywGqXGzjPjk1dGrhnCvVNeU9wVRQ04i2J9ny_xUApjspTq-uFOHjGL-HEtZrF8OPHAIDk_xwNf8_6Qrc"
+    },
+    {
+      "position": 14,
+      "title": "The Jack London Revue",
+      "place_id": "ChIJL85MyAUKlVQR0hDFFxXOhQc",
+      "data_id": "0x54950a05c84cce2f:0x785ce1517c510d2",
+      "data_cid": "542065920156438738",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a05c84cce2f%3A0x785ce1517c510d2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a05c84cce2f%3A0x785ce1517c510d2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5194294,
+        "longitude": -122.6764271
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL85MyAUKlVQR0hDFFxXOhQc",
+      "provider_id": "/g/11f15k7k33",
+      "rating": 4.5,
+      "reviews": 382,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar",
+        "Event venue",
+        "Live music bar",
+        "Off track betting shop",
+        "Pool hall"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar",
+        "event_venue",
+        "live_music_bar",
+        "off_track_betting_shop",
+        "pool_hall"
+      ],
+      "address": "529 SW 4th Ave, Portland, OR 97204",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 7\u202fPM Thu",
+      "hours": "Closed \u00b7 Opens 7\u202fPM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "7\u202fPM\u201312\u202fAM",
+        "friday": "7\u202fPM\u201312\u202fAM",
+        "saturday": "7\u202fPM\u201312\u202fAM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(866) 777-8932",
+      "website": "http://jacklondonrevue.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "user_review": "\"Any music venue supporting the jazz scene in Portland deserves 5 stars.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4Lct_L9fuc6EP02XQVoE5HS4w7oakBw5PoHb7lF40iEJoBw00TzYEGF7IK8hbOBKeQm6cjkTR5PtthxMwnKRxl-0J98SV4q3EbLpRzeeYQCkVaaevuMUWA4m5Tw8jAsXH5WKA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JuXJhXicHcRdDsEwAADgE9WK1kbioZMyNmwzw5NsTa3sp6Odigs6g9tIfA_f9yO0btXEsiox7BVSFhXvFH8w2Wje6B6TtVW0CjAFlEXCTVQSigKmz8H40rERDeHgGKWSYm-HjC2z0jU4lF5uV3MEr3QlXQNh8j7Rxdxe-o7It67Po3rEbmUS41Br8Vqbxo9fFYCrsbNL0X1I86CN35yfolmZZhl_duv9gaAaJ8a5EXX08MEnU9OHEALxn4HmB71bQyU"
+    },
+    {
+      "position": 15,
+      "title": "The Showdown",
+      "place_id": "ChIJJ-n5CXILlVQRkbFN5jdsnbA",
+      "data_id": "0x54950b7209f9e927:0xb09d6c37e64db191",
+      "data_cid": "12726447109361742225",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b7209f9e927%3A0xb09d6c37e64db191&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b7209f9e927%3A0xb09d6c37e64db191&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5010531,
+        "longitude": -122.6528153
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ-n5CXILlVQRkbFN5jdsnbA",
+      "provider_id": "/g/11trwnv6fh",
+      "rating": 4.6,
+      "reviews": 149,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue"
+      ],
+      "address": "1195 SE Powell Blvd, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 5\u202fPM",
+      "hours": "Closed \u00b7 Opens 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "5\u202fPM\u20132:30\u202fAM",
+        "thursday": "5\u202fPM\u20132:30\u202fAM",
+        "friday": "5\u202fPM\u20132:30\u202fAM",
+        "saturday": "5\u202fPM\u20132:30\u202fAM",
+        "sunday": "5\u202fPM\u20132:30\u202fAM",
+        "monday": "5\u202fPM\u20132:30\u202fAM",
+        "tuesday": "5\u202fPM\u20132:30\u202fAM"
+      },
+      "website": "http://www.showdownpdx.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restaurant",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "user_review": "\"My new favorite spot for music in Portland!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECAlqkjnqRAwsZF0Jy0MzVXk6Fq2nNKIi7btiuNsA3zjrx-bdWBl-iBi85fPO4f0WBHPotLeKFECok8e8qEqCa7Ku3oG6BAUNJ-6aIw5SjzmgeORy3InFpwFdGeVNIOkhk9V8ahhuUhUkr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fnOPmXicHcRBjoIwAADAF1WqrIgmHgqhimhBN-Bmb4iVQrGltATlk579jYlzmPeLGdPqlWU1zJ6UUpYN7TXtCikMFWZSyLtVthoUGmgLJeTIUeCjRvFaqBMa9D-Guyc8jNkfd7CaCRKF1eJiqp5oZI919wCX69lrQOVV7vyWxD83ePa2iTR7GuHAl9ylrgqUny-i3pYbx0Mp2QEnD4f5bz3eSxqfnnYocDvg64ZmJIw548vMzRnrU5bybj1MIYSAfS-A-ACmSkeD"
+    },
+    {
+      "position": 16,
+      "title": "McMenamins Crystal Ballroom",
+      "place_id": "ChIJuew95AIKlVQRZox1rZOtieI",
+      "data_id": "0x54950a02e43decb9:0xe289ad93ad758c66",
+      "data_cid": "16323769174163033190",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a02e43decb9%3A0xe289ad93ad758c66&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a02e43decb9%3A0xe289ad93ad758c66&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5228361,
+        "longitude": -122.684884
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuew95AIKlVQRZox1rZOtieI",
+      "provider_id": "/m/03cb572",
+      "rating": 4.4,
+      "reviews": 4384,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Concert hall",
+        "Event venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "concert_hall",
+        "event_venue"
+      ],
+      "address": "1332 W Burnside St, Portland, OR 97209",
+      "country": "United States",
+      "phone": "(503) 384-2511",
+      "website": "http://www.crystalballroompdx.com/?utm_source=Google%20Maps&utm_medium=Website%20Button&utm_campaign=Crystal%20Ballroom",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restaurant",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"It is definitely the best venue in Portland for live music.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSeiX616_-b1MVkRC8TSQ8rG6Th1EyDfEjaju0Ox_NbnxIYM-vM2H23RhRIi4dEclPwNvOGtqJ0p-m4Yh-NFHN-ub8xXOVEFEQRaYG_bHpOUN_Yz3htkJxiGtnsI8UDJEt9RBi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kxqsR3icHcRLDoIwFADAEz0pYgiauPBT-SQUqEBkRaQiRbCgLYpe0DN4GxNnMd8PV6qXC01ruTGpuq5qy0GWd9YJVQo1Yd1Vq3oJTILUViGJmpWzL-uDqZs5FLqfNnRjxfvIuttmzHX82p7x5XgZUDDmpBCjm_nw8KfO1KCcuvXshFkbPskjsNXNQz1cZxkHsnMIDIU1HoIU73BEj5mdF04fJCTP3gZXjTfWthLStZKth9WcruvlU0cIAf_PQPwAwjhDXQ"
+    },
+    {
+      "position": 17,
+      "title": "High Limit Room",
+      "place_id": "ChIJzxyNG_kLlVQRv02KQZErH4Y",
+      "data_id": "0x54950bf91b8d1ccf:0x861f2b91418a4dbf",
+      "data_cid": "9664491228230208959",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950bf91b8d1ccf%3A0x861f2b91418a4dbf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950bf91b8d1ccf%3A0x861f2b91418a4dbf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.512008099999996,
+        "longitude": -122.6581769
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzxyNG_kLlVQRv02KQZErH4Y",
+      "provider_id": "/g/11xw5dnnh1",
+      "rating": 4.9,
+      "reviews": 49,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue"
+      ],
+      "address": "720 SE Hawthorne Blvd Fl 2, Portland, OR 97214",
+      "country": "United States",
+      "website": "http://highlimitroompdx.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"The sound is great for live bands.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRCAFyHA9llG6kVEDZYJR5LdO_095XGvhkPMCwfadCo69orrtq2oDyQRol7UM1_XxQ69Z7OJjCwTeOIbEvpuAgN7hYs76cxEM_suECuGFQWsJry-30qWG9eloVjJVb6iO-7YDgZraaHOiZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MgoRhXicHcTBboIwAADQL6rgjG26ZIemYB0ZVsiGwoVg7ajSUWyLyFfu7N8s2Tu856_yfnCvQaDVatEa02o5OmmF6b3s_UKYn6AdHBAOuIDsd1lHWE7JZt4SrDWDXRFHVZnk648zr0O8PrK76vYpnb6bMzUQG2v97cVEc5Ybjb7SZX18ZBBXiCdXOn1K_n6K78NI2h1SpUNQPOK0dmNMR7bJDi6xM1iFtwPDUpvimhQneOEAlVFb2abZ8kv1Ni3DMATqfwH6P04lRtQ"
+    },
+    {
+      "position": 18,
+      "title": "Music on Main",
+      "place_id": "ChIJi-4UySwLlVQRXqUQPxkVYFQ",
+      "data_id": "0x54950b2cc914ee8b:0x546015193f10a55e",
+      "data_cid": "6079882695126590814",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b2cc914ee8b%3A0x546015193f10a55e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b2cc914ee8b%3A0x546015193f10a55e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.516642499999996,
+        "longitude": -122.6812722
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi-4UySwLlVQRXqUQPxkVYFQ",
+      "provider_id": "/g/11f7g027j9",
+      "rating": 4.8,
+      "reviews": 5,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue"
+      ],
+      "address": "SW Main St, Portland, OR 97204",
+      "country": "United States",
+      "website": "https://www.portland5.com/events/music-main",
+      "extensions": [
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"Fantastic experience to see live music downtown on the streets again!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQlH1x6eV8E8jJC7IwS7osvPSD38Lvo7S9rEOmuUYJaO-u_-vDRQn-ni-2yM8b3uIjmEMvf5R3blytoul5YUeTLO7fe2MN_iHRNJxGrO58PkVyPxqFL_Up0-v08ZlRissxhiF-2g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XArZr3icHcRbjoIwFADQFV2pEKRO4odRFAlvhER_iJIKaGkZ-hCWOEuY3Zh4Ps7_XyvlIH4Mg7bWouG8oUQJMtacScLkoua90QwCagHC2CZR-tp6KfWW04qU2MVPf-ec3rnDhU7yvYUDzZ18Pbpxr4qLf4tBVaD3WcqAdWDOIb5b6vTs3VA_7My601lyRe1LQc5B7DyIGUZV52WRPx3H2MbJq5yT6fcQVMWAQCN8pVknxNR2BzCbzXuJEIL2ew3sA5BVRLo"
+    },
+    {
+      "position": 19,
+      "title": "Roseland Theater",
+      "place_id": "ChIJhXaMOQEKlVQRKhKJMy-Dfgg",
+      "data_id": "0x54950a01398c7685:0x87e832f3389122a",
+      "data_cid": "612070838120288810",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a01398c7685%3A0x87e832f3389122a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a01398c7685%3A0x87e832f3389122a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5232461,
+        "longitude": -122.676282
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhXaMOQEKlVQRKhKJMy-Dfgg",
+      "provider_id": "/m/0k01g82",
+      "rating": 4.3,
+      "reviews": 3913,
+      "type": "Concert hall",
+      "types": [
+        "Concert hall",
+        "Auditorium",
+        "Event venue",
+        "Live music venue",
+        "Performing arts theater",
+        "Stage"
+      ],
+      "type_id": "concert_hall",
+      "type_ids": [
+        "concert_hall",
+        "auditorium",
+        "event_venue",
+        "live_music_venue",
+        "performing_arts_theater",
+        "stage"
+      ],
+      "address": "8 NW 6th Ave, Portland, OR 97209",
+      "country": "United States",
+      "phone": "(971) 230-0033",
+      "website": "https://www.roselandpdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"By far one of my favorite live music venues in Portland!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVZWBkd5Bn3_HtD0yTY8cwtFl0CzP6F1gfbT5tecgoIRbK_LW70oiW8Smsvi4NKb3DsqTonhVqrN9ScepsZUxJTiTmfI3mYShqlElvbE12lTgkqllGcMMTYvw5RWSIhbSCRWpj=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Yu-q9XicHcTbDoIgAADQLzIxs9vWQzfLLq6EYvbSBhGYCBqk1Q_2Df1NW-fhfD_C2tIMXVcKv8W15pI9DLtTrSxTtkV14fLSONQ4xh3v4n0-Do8nPMkvwUT556WdgRdK-7SxoQTT964bevxKUGAZ5TpKyPq8wT2gM9yHhamzTrwm_sxUSCtxrO7xAFJWmtPhuUIZKq6RX6RQVHIuazL32hLxvJJyQbdblNZNkGAYCQKnCS5vo8YDADjiP3XUD5qWRfo"
+    },
+    {
+      "position": 20,
+      "title": "Doug Fir Lounge",
+      "place_id": "ChIJJ3w0dqWglVQRHyqljAif6jI",
+      "data_id": "0x5495a0a576347c27:0x32ea9f088ca52a1f",
+      "data_cid": "3668919705514879519",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a576347c27%3A0x32ea9f088ca52a1f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a576347c27%3A0x32ea9f088ca52a1f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5174442,
+        "longitude": -122.6626232
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ3w0dqWglVQRHyqljAif6jI",
+      "provider_id": "/g/11c5b1_9z1",
+      "rating": 4.4,
+      "reviews": 2484,
+      "type": "Live music venue",
+      "types": [
+        "Live music venue",
+        "Bar",
+        "Event venue"
+      ],
+      "type_id": "live_music_venue",
+      "type_ids": [
+        "live_music_venue",
+        "bar",
+        "event_venue"
+      ],
+      "address": "301 SE Morrison St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Temporarily closed",
+      "hours": "Temporarily closed",
+      "phone": "(503) 231-9663",
+      "website": "http://www.dougfirlounge.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Live performances"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restaurant",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"One of the best venues in Portland!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHb1lhiv77t0EhO-Y0zJq7bOI5ysS3OtI1TATzMN8eFwzwJewT2lXbPgr4yBDJEHLuaQ5iGeQ9pGbC_qKx_VZoVIzlisq8vEHttlUSxpWVeliO47VvYf0CX0f61lJRQVBcD1Ue8iw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VF7MV3icHcRZEoIgAADQE5HQpjXTh5WltphltPw0yZAwkWiQpDfsCN2mmd7H-36Y1oUaWpZgnVYmZSboS9EnkbmmuW4R-bCyQgGigLLczTq-u36KBOOVbWvosQicYBOWdhoFvVrtOpEOUOImzWrt0JlpTEhN0hbHdJM9u_V4Gnr-8nWNe3xO40ExTyeXcvG-4LPEQSO4Kp3K87UW-927OGAqeNS1cXW6wckR3vpIhNsYj8kU7anDzcggCCFg_wnIf_EXRYI"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+live+music+venues+Portland%2C+OR&start=20&type=search"
+  }
+}

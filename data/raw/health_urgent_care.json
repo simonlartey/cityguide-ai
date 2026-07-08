@@ -1,0 +1,2046 @@
+{
+  "search_metadata": {
+    "id": "6a4e5882d868dd3df52409fa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QRjtTMuV-e7-gZ3GQYYKHg/6a4e5882d868dd3df52409fa.json",
+    "created_at": "2026-07-08 14:02:42 UTC",
+    "processed_at": "2026-07-08 14:02:42 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/urgent+care+clinic+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/QRjtTMuV-e7-gZ3GQYYKHg/6a4e5882d868dd3df52409fa.html",
+    "prettify_html_file": "https://serpapi.com/searches/QRjtTMuV-e7-gZ3GQYYKHg/6a4e5882d868dd3df52409fa.prettify",
+    "total_time_taken": 1.24
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "urgent care clinic Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "urgent care clinic Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Portland Urgent Care",
+      "place_id": "ChIJozWYZ9eglVQRed8nAc6JIhQ",
+      "data_id": "0x5495a0d7679835a3:0x142289ce0127df79",
+      "data_cid": "1450873547842379641",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0d7679835a3%3A0x142289ce0127df79&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0d7679835a3%3A0x142289ce0127df79&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.535850499999995,
+        "longitude": -122.62021089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJozWYZ9eglVQRed8nAc6JIhQ",
+      "provider_id": "/g/1hg50_s5f",
+      "rating": 4.8,
+      "reviews": 4383,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Doctor",
+        "Medical clinic",
+        "Medical office"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "doctor",
+        "medical_clinic",
+        "medical_office"
+      ],
+      "address": "4160 NE Sandy Blvd Ste 1200, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20133\u202fPM",
+        "sunday": "8\u202fAM\u20133\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(503) 249-9000",
+      "website": "https://www.portlandurgentcare.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "IV therapy",
+            "Pediatric care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://nextpatient.co/p/661/providers?rwg_token=AE37R_i7b6Dez7SDslz4p-IYgRcN9FpLMlL9xqVGbIr1QxiXzhLt-yrMlTrJ58HMbl2KOtX5V4jF_OKrvFVHKRctUZKiMAvv6A%3D%3D",
+      "user_review": "\"I was seen quickly and given Rxs which I was able to fill right away.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEa84VMi4d_yRbKraJVINwPmA8THogv3WMLQ1IRHyLR0SY7VxW2S5zIOhaFWZhMBUBg75liaczCV7reG9JCzKhNvI5IWlM-AWJ0usNlvGzqi9mCH9mgaJp18ZC8rtpp1b73gMtEgA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F3g7VHicHcRRboIwAADQE1XKkABL_KhEpWhRcdLoj6kdackK7WhF5YY7grcx2ft4rz_pnLGfnqdkMBFaC1XfbN1z3bm6cxOuW08YC7gF1kO7Yv-DFiyeVqSZfl-e5XXds7zCxX3Xovgr02IIKNnsfVxmz00JD6eoetCPQzjirWRLepZkfpyLKFQN42NaRX29SvJ0XMtiwCGmigBEc3izhRpW42-TtGmWtILlxo_Padw7Y_xrFAjiFgLN7j6EEMj_OejehtpERA"
+    },
+    {
+      "position": 2,
+      "title": "Providence Urgent Care - Gateway",
+      "place_id": "ChIJlZsg_XGhlVQRMCW0dL-2-dk",
+      "data_id": "0x5495a171fd209b95:0xd9f9b6bf74b42530",
+      "data_cid": "15706786108844287280",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a171fd209b95%3A0xd9f9b6bf74b42530&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a171fd209b95%3A0xd9f9b6bf74b42530&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5324143,
+        "longitude": -122.5627916
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlZsg_XGhlVQRMCW0dL-2-dk",
+      "provider_id": "/g/11c1qbkczk",
+      "rating": 4,
+      "reviews": 349,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Doctor",
+        "Medical clinic",
+        "Sports medicine clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "doctor",
+        "medical_clinic",
+        "sports_medicine_clinic"
+      ],
+      "address": "1321 NE 99th Ave #100, Portland, OR 97220",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 6:45\u202fPM",
+      "hours": "Open \u00b7 Closes 6:45\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20136:45\u202fPM",
+        "thursday": "7\u202fAM\u20136:45\u202fPM",
+        "friday": "7\u202fAM\u20136:45\u202fPM",
+        "saturday": "7\u202fAM\u20136:45\u202fPM",
+        "sunday": "7\u202fAM\u20136:45\u202fPM",
+        "monday": "7\u202fAM\u20136:45\u202fPM",
+        "tuesday": "7\u202fAM\u20136:45\u202fPM"
+      },
+      "phone": "(503) 215-9900",
+      "website": "https://www.providence.org/locations/urgent-care/or/urgent-care-gateway?Is=location&y_source=1_OTU3NjI3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"My diagnosis was quick and i was sent on my way with a large packet.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhiaTZdlOx_guy8XeJAtImZEIH8rT1SWka6twlvVhiRF3g3h7olLHx-YTEoxUOwrHKvUrn4flx9KSYiu6vqDyxsEnE1jOLidk_SvJzNN0tBHluJPD4oduEXwUcKo622ckhFuiFHg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YFQydXicHcRLjoIwAADQE1VADOoks8BQUsGAI-BvY0zBtlJbpS3UuaFH8DYmvsV7v6jWd_XjOJz6IyIl4Y1RTYel0I3QIyxvDrkrgBVQTrjO_toQUXYujzXP7YmY52zfJKFe3o5wiWZd6RW79hzogfdbyjaxT3w6lXyFLDiUUNoqHzqU9lUnJhdu52lxYCboH9HTKiigd81XrG5PRZ_8Z5mrF4ibZB1NZG3gfqhwKoPxGLc0NixG5HfwXNcF9DsG4gOtDUdT"
+    },
+    {
+      "position": 3,
+      "title": "AFC Urgent Care NE Portland",
+      "place_id": "ChIJU19lia6hlVQREZNk74vJXjI",
+      "data_id": "0x5495a1ae89655f53:0x325ec98bef649311",
+      "data_cid": "3629559952561181457",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1ae89655f53%3A0x325ec98bef649311&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1ae89655f53%3A0x325ec98bef649311&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.546400299999995,
+        "longitude": -122.59472
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU19lia6hlVQREZNk74vJXjI",
+      "provider_id": "/g/11wc96xz59",
+      "rating": 4.8,
+      "reviews": 1587,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Occupational health service",
+        "Occupational medical physician",
+        "STD testing service",
+        "Walk-in clinic",
+        "X-ray lab"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "occupational_health_service",
+        "occupational_medical_physician",
+        "std_testing_service",
+        "walk_in_clinic",
+        "x_ray_lab"
+      ],
+      "address": "6633 NE Sandy Blvd, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 305-6262",
+      "website": "https://www.afcurgentcare.com/ne-portland",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "Pediatric care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/afc-urgent-care-portland-or-gqoxmA?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-QjPGAL&rwg_token=AE37R_jRGY7NdzO4KkZrowli5y_sDFWew8zXC2Cb3DSEGWMXoPN-RpVKO89i2_IONY7MUYzRGhwJ2rTSIXzmxL6ZdxHIblArBQ%3D%3D",
+      "user_review": "\"We did a walk in appt at 8am and were seen within 20 mins!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXt4ALv1lEo9-udBTQStne8ntTd8tBDN2ALS1u6juq6q5hal5GC72RTqIyXiUwnhCG6jWAAs22JToakH2N3LdHUeQbj7i7jS5LZnQbgeMBmtkVMMaWzCt63oXKprRHyxJd9JenxhnYTZ-d=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LOsq03icHcRBUoMwFADQE6VAEGidcRHQAREYKanF7ijJkAL9geZjWy_p2ts441u83x-FOJlHyxqVu-q07ka5GHlpNaAEXLX6bHWTIa0hxmLvRTmwuMYHln0544vekEWEvKwQ5BqQizWGzwVlWeUsfr_M_uypZvTiKKBbPr_e69PuCiqK_X7PmKE05boZElq4mUh2sjz2wSnoKy87QHnsZB6ecfjI82b_HaHv6vptumyT-y0Vm1TCTcEnPxDxdHVs2ybq_5bAH1dsRyk"
+    },
+    {
+      "position": 4,
+      "title": "The Portland Clinic-Tigard Urgent Care",
+      "place_id": "ChIJkVbZyswNlVQRDmnALQmSu7Q",
+      "data_id": "0x54950dcccad95691:0xb4bb92092dc0690e",
+      "data_cid": "13023163315591866638",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950dcccad95691%3A0xb4bb92092dc0690e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950dcccad95691%3A0xb4bb92092dc0690e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.453413499999996,
+        "longitude": -122.7734107
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkVbZyswNlVQRDmnALQmSu7Q",
+      "provider_id": "/g/11q1qdd3gz",
+      "rating": 3.5,
+      "reviews": 22,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Medical clinic",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "medical_clinic",
+        "walk_in_clinic"
+      ],
+      "address": "9250 SW Hall Blvd 1st Floor, Tigard, OR 97223",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5:30\u202fPM",
+      "hours": "Open \u00b7 Closes 5:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135:30\u202fPM",
+        "thursday": "7\u202fAM\u20135:30\u202fPM",
+        "friday": "7\u202fAM\u20135:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20135:30\u202fPM",
+        "tuesday": "7\u202fAM\u20135:30\u202fPM"
+      },
+      "phone": "(503) 293-0161",
+      "website": "https://www.theportlandclinic.com/specialties/urgent-care/?y_source=1_MTMyNjA4NzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "user_review": "\"Professional, thoughtful, and the Clinic staff helped me so much.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFypXHKOykCvfzE0awX66ebN4cpQtIcxQcfIOmVjb9xykoNsLLZodsMkSMaeX-nSgvXXJSOWtefLNBppwUMEQ3Bg2PsEwcEsXDaOEMsxna0cBFnSsSYC0um0KJBtlHyDznLe06NA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/v1DQy3icHcTdboIwGADQJ6p005BsiRcg9ReKpFGrd_hZSga0jV8V8A33CHubJZ6L8_dbe-_wOwjaejrR1upWPVDdwRqvjJ-A7QLtkAASDKI9L5potRydXO_ysVk8qxejZS_DUF35DFzhNzAUUG3y7vhz_RrGxnJM04u9YdaIrFSSGKGfUm5FfvKqSnnsXH_IWDGN9eceWQ8MZVLmLMPBlBTipREozgv66OhuG_t2PSYvkyoa8mjef1BKSf0eiPkHn0RGzQ"
+    },
+    {
+      "position": 5,
+      "title": "ZoomCare Pearl District - Urgent Care & Primary Care",
+      "place_id": "ChIJqSXMZQIKlVQRtbBjt3NV0RY",
+      "data_id": "0x54950a0265cc25a9:0x16d15573b763b0b5",
+      "data_cid": "1644189294453305525",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0265cc25a9%3A0x16d15573b763b0b5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0265cc25a9%3A0x16d15573b763b0b5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5245098,
+        "longitude": -122.6839945
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqSXMZQIKlVQRtbBjt3NV0RY",
+      "provider_id": "/g/1tph1fv2",
+      "rating": 4.7,
+      "reviews": 1050,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Blood testing service",
+        "Gynecologist",
+        "Medical clinic",
+        "STD testing service",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "blood_testing_service",
+        "gynecologist_only",
+        "medical_clinic",
+        "std_testing_service",
+        "walk_in_clinic"
+      ],
+      "address": "202 NW 13th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(844) 966-6777",
+      "website": "https://www.zoomcare.com/clinic/zoomcare-pearl-district?utm_campaign=gmb-site&utm_source=google&utm_medium=maps&utm_content=pearl",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/t/egmbc/zoomcare-portland-or-0xjKQp?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-RWdMYQ&rwg_token=AE37R_h_gG28iTrZU3XE_bGKhD-NwApoxUzKJyEqeO5v1aSNxoIi0jiFV8s6VB7uSbbp5JMZYpEx9qGFOqI4ZxuvzU3QJ4pSjg%3D%3D",
+      "user_review": "\"In quickly and the PA and lab staff were professional and understanding.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEL8QOtlJNR3Z7B98i77YNk6YEVtMXVKsQZXWussKaaUwi4ltL0Jq9SVIvRWNyHiNoev_utEdqGjGaRwao1Xna0mNahcxF9ijvoW1iKc344-il38qL_QaeL3Kqj5GPUIZt1M0Ax=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cgRmznicHcTbboIwGADgJ6qUlA1Y4gUmDBXsBMNBbkzTNVCsVOzPwSfcM_g2S_wuvtdfC3A3X5alWrJqtG6UGI14cN2D6GHF9c1q7gZxg4wVHGl6DcLES39A7WlGanfje9J1z_T6eQ4LOFRFbNK6KkdjYsbyWToKErwf_FOxm7KSPreSajFdRgh_h6iLWDYzbVc9wzfKWr58-7KbdGnLmBPHQVIRb0guKRMJiYfuIzrmuxrsAw6W9WxjjFH7nqP-H08dRHg"
+    },
+    {
+      "position": 6,
+      "title": "Evergreen Urgent Care",
+      "place_id": "ChIJLXNsW0IJlVQRYhy29SstAeQ",
+      "data_id": "0x549509425b6c732d:0xe4012d2bf5b61c62",
+      "data_cid": "16429462582453476450",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509425b6c732d%3A0xe4012d2bf5b61c62&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509425b6c732d%3A0xe4012d2bf5b61c62&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5254103,
+        "longitude": -122.6974139
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLXNsW0IJlVQRYhy29SstAeQ",
+      "provider_id": "/g/11y23hnx6g",
+      "rating": 4.9,
+      "reviews": 475,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Medical clinic",
+        "Physical examination center",
+        "STD testing service",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "medical_clinic",
+        "physical_examination_center",
+        "std_testing_service",
+        "walk_in_clinic"
+      ],
+      "address": "2250 NW Flanders St #109, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(503) 479-7713",
+      "website": "https://www.evergreenurgent.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Nursing room"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They got me patched up and gave me a tetanus shot all within 90 mins.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPZXsprfrxhl6aeProlilEUNj6im2HKv6R_qE0ZaoYzsAxtg1451pKnaXPK5ucFp1-uTyBp-6c-lX8f3XzFpc5uhgO72pxTdj2uluhTgujCFvU0CLWP1GXeK93UvBfQL6L0E4kEg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rXrWbnicHcRRboIwAADQE1VakG4z2QeY4hKIqwvEzp-F1NKKlXa0ZegNPcJuY-L7eP935b11qyjSKllIY6QWwYmRm8GLwS-4uUTSOsAdcFFGt7tzRuiBOTt246w0bgUdjT5p0mx7fLrEH-WEv35-CTy05vvmstlLtEyRLYeW0TINvLAIhPqaW4A50Oy1S9itsDwNSn6-xHauj30cdFC1DP26mBq4rvYUbZgo35JmyrtdhStIlmci3_8QhBCo5xwMD1_iRYk"
+    },
+    {
+      "position": 7,
+      "title": "ZoomCare Super Emergency Care & Imaging - Lloyd District",
+      "place_id": "ChIJd-DqeK6glVQRTBm7SSVfzx4",
+      "data_id": "0x5495a0ae78eae077:0x1ecf5f2549bb194c",
+      "data_cid": "2220097755072371020",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0ae78eae077%3A0x1ecf5f2549bb194c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0ae78eae077%3A0x1ecf5f2549bb194c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5274213,
+        "longitude": -122.66100929999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd-DqeK6glVQRTBm7SSVfzx4",
+      "provider_id": "/g/11bvvxcdks",
+      "rating": 4.6,
+      "reviews": 1601,
+      "type": "Medical clinic",
+      "types": [
+        "Medical clinic",
+        "IV therapy service",
+        "Emergency care service",
+        "Medical diagnostic imaging center",
+        "Urgent care center",
+        "Walk-in clinic",
+        "X-ray lab"
+      ],
+      "type_id": "medical_clinic",
+      "type_ids": [
+        "medical_clinic",
+        "iv_therapy_service",
+        "emergency_care_service",
+        "medical_diagnostic_imaging_center",
+        "urgent_care_center",
+        "walk_in_clinic",
+        "x_ray_lab"
+      ],
+      "address": "607 NE Grand Ave, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u201310\u202fPM",
+        "thursday": "10\u202fAM\u201310\u202fPM",
+        "friday": "10\u202fAM\u201310\u202fPM",
+        "saturday": "Closed",
+        "sunday": "10\u202fAM\u201310\u202fPM",
+        "monday": "10\u202fAM\u201310\u202fPM",
+        "tuesday": "10\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(844) 966-6777",
+      "website": "https://www.zoomcare.com/clinic/zoomcare-lloyd-district-super?utm_campaign=gmb-site&utm_source=google&utm_medium=maps&utm_content=lloyd-super",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Got an xray and results within 30 minutes from start to finish.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxQC_f-9-bKbsUDfxVqFaPSozI_hrFJHsYwRo2q8ir0-PLB8frQP_vGPYttGLXpmoordhni4v4whp3y-XC6EOoBxYEnBBJ1pGr3CZa0VP8uRiL68CXGfgimflrpTCo1Bmf1bMH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wWMmQ3icHcTdboIwGADQJyqUYQya7MJ2_MjYLM4Z2A0RRikZ9KttFfQF9wx7myWei_P3K6xVZu26g_CdDqAb2otpdQPSttI6DYxupwxqDDLuhr3nP5tkzmnF0QrVr7X5fOHz8Ryd2Afct5XQUZqYctrD0znoNUYsIwHXOauuMSutjbNCjQD6W8h-cV1MQvk3VNBluAMyl6EkJPVUrH36dcJHFlz2fbYMaBHzrh_5oNWBgkdG7tVvyfPkYYyReNwg-Q-aaEUH"
+    },
+    {
+      "position": 8,
+      "title": "ZoomCare Hawthorne PDX - Urgent Care & Primary Care",
+      "place_id": "ChIJ3xFe65GglVQRVx49ovqSxxM",
+      "data_id": "0x5495a091eb5e11df:0x13c792faa23d1e57",
+      "data_cid": "1425269412247445079",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a091eb5e11df%3A0x13c792faa23d1e57&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a091eb5e11df%3A0x13c792faa23d1e57&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.511894999999996,
+        "longitude": -122.6340754
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3xFe65GglVQRVx49ovqSxxM",
+      "provider_id": "/g/1tjt1n98",
+      "rating": 4.5,
+      "reviews": 774,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Blood testing service",
+        "Family practice physician",
+        "Medical clinic",
+        "Mental health service",
+        "STD testing service",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "blood_testing_service",
+        "family_practice_physician",
+        "medical_clinic",
+        "mental_health_service",
+        "std_testing_service",
+        "walk_in_clinic"
+      ],
+      "address": "3060 SE Hawthorne Blvd, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(844) 966-6777",
+      "website": "https://www.zoomcare.com/clinic/zoomcare-hawthorne-district?utm_campaign=gmb-site&utm_source=google&utm_medium=maps&utm_content=hawthorne",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/t/egmbc/zoomcare-portland-or-gbk2N0?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-RWdMYQ&rwg_token=AE37R_jx-tX84qR4RAtkRrqcgf8mA0g4v3wmRc7q5IJXJX1IWq00-FspW2OCcSQdpV9j6V9Yhn28W3qjzcvUxbbdrNCaHypbtw%3D%3D",
+      "user_review": "\"They left me feeling validated and with a treatment plan.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHngbjXBf5Ruaf1XF417Uf1oEsuPhcv8XnwLhljpvLxKDFJiOOuYGdwd2JLcElu6okeDFBHfmYCH3QIsAocyQ7856264K9_uBoXnY3OmJM9f94kNkJ3k495cyixnFuja6fVbNMWg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Pnt3qXicHcRJDoIwAADAF7HJJiYeQEBEBDFR4WSg0FYKLbFU9Ik-wd-YOIf5fvA0jXylKD3WZcQY6lvB2wdgdGrpJAM2KGjkEuASV9xjmhM3iiiqu8KD5klUUCtCQ7PPUGMBF0cMnsuCzgnuu_GZvPZ-GN-zTJTbZm4WcQKCXliMtH7oRXAoN5Ge77jLwDu3l6a1sIy9cxMeK2ipZ0N8cKBjkJTEOjEcE7zvLxqKrrLgpU4PV7SeNVVVJfwfSPQH6QJE6Q"
+    },
+    {
+      "position": 9,
+      "title": "Columbia Urgent Care - Portland (82nd Ave)",
+      "place_id": "ChIJw2jGFUmglVQRXj1JUOsy95o",
+      "data_id": "0x5495a04915c668c3:0x9af732eb50493d5e",
+      "data_cid": "11166449787334114654",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a04915c668c3%3A0x9af732eb50493d5e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a04915c668c3%3A0x9af732eb50493d5e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.49964,
+        "longitude": -122.579191
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw2jGFUmglVQRXj1JUOsy95o",
+      "provider_id": "/g/1tctf9px",
+      "rating": 3.6,
+      "reviews": 320,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Emergency care physician",
+        "Family practice physician",
+        "Medical clinic",
+        "Occupational medical physician",
+        "Pediatrician",
+        "Physical examination center",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "emergency_care_physician",
+        "family_practice_physician",
+        "medical_clinic",
+        "occupational_medical_physician",
+        "pediatrician",
+        "physical_examination_center",
+        "walk_in_clinic"
+      ],
+      "address": "8122 SE Tibbetts St, Portland, OR 97206",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136:30\u202fPM",
+        "thursday": "8\u202fAM\u20136:30\u202fPM",
+        "friday": "8\u202fAM\u20136:30\u202fPM",
+        "saturday": "8\u202fAM\u20134\u202fPM",
+        "sunday": "9\u202fAM\u20134\u202fPM",
+        "monday": "8\u202fAM\u20136:30\u202fPM",
+        "tuesday": "8\u202fAM\u20136:30\u202fPM"
+      },
+      "phone": "(503) 395-5611",
+      "website": "http://www.columbiaclinic.com/locations-portland-or",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "Pediatric care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I was in and out in less than an hour.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF81p8fU5v-Unct1uMMInVqkbiIvTKt5nH1jOyeaNOgZj7qHH27gTgJ8pP87Qqzz53gpnIP4IrUY6PjtAA4HbiETF6FN1xOZPM1lMMQqhX7SamKGb2PszY0jIBL6bIWcaDeagv3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6KHXxnicHcTbDoIgAADQLyIlr2vrwVYmFYpLu70pI8wMMcjKH-wb-pu2zsP5fiqtpZoYRlNZI962vGEPxe60FZoJPaLtzeBSAaqAMgISp9cg9KH0z7nTg1xQDR8YI7HrruUF9dlaOyKCdfJmRZzwU-11UTT2eMZXviS-l3bD4FhcCkRsdM-PLql1ENhReVlkoRvG8JWcCIYNxmlXHbxtcVsvyzFRw9Gs0WzjlmhPizkreG9Nn9A0TVD9p0D8AB4xQ64"
+    },
+    {
+      "position": 10,
+      "title": "ZoomCare NE Broadway & 6th Portland - Urgent Care & Primary Care",
+      "place_id": "ChIJFzYAlEynlVQRb_Xlop277cE",
+      "data_id": "0x5495a74c94003617:0xc1edbb9da2e5f56f",
+      "data_cid": "13974031504517756271",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a74c94003617%3A0xc1edbb9da2e5f56f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a74c94003617%3A0xc1edbb9da2e5f56f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.534892199999994,
+        "longitude": -122.659408
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFzYAlEynlVQRb_Xlop277cE",
+      "provider_id": "/g/11bw2ftl0f",
+      "rating": 4.7,
+      "reviews": 818,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Blood testing service",
+        "Gynecologist",
+        "Medical clinic",
+        "Podiatrist",
+        "STD testing service",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "blood_testing_service",
+        "gynecologist_only",
+        "medical_clinic",
+        "podiatrist",
+        "std_testing_service",
+        "walk_in_clinic"
+      ],
+      "address": "606 NE Broadway, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137:30\u202fPM",
+        "thursday": "8\u202fAM\u20136\u202fPM",
+        "friday": "8\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20136\u202fPM",
+        "tuesday": "8\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(844) 966-6777",
+      "website": "https://www.zoomcare.com/clinic/zoomcare-broadway-6th?utm_campaign=gmb-site&utm_source=google&utm_medium=maps&utm_content=broadway-6th",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "Pediatric care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/t/egmbc/zoomcare-portland-or-A6PO4g?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-RWdMYQ&rwg_token=AE37R_jhD77ZzgSIYPXM-UQD2vK6QVxxGyYdj5nuFu5tK2pfT9_yjgOcFidTiRAXtr0eymffV_Y73DZDJu4MYU1hOIlVUp76YA%3D%3D",
+      "user_review": "\"Great staff, clean facilities and wonderful fast service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPGbqnjtH6EBX5cbc7dAeDgtKSEaKub905VVZIeTTqO7o5HvY4bfQlVH7_HWOtV_ihuMr2BLbhkpG1jWBLHTWtJDYCKknFtdeP0na21F3G34ckIXHWMiShAL7zLogeYnpkcoArxg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TP2SLHicHcRNjoIwGADQEyFFRDImsyj-UAUVIwFxY2ytrZZpkX6Mxht6BG9j4lu890sCNHbkurX0e8IYUfPO8pYZDVxDj5k_VzTWYdaxLs5WG4XjLKY3fQUynEa7gFEWnjCfCEi202PS0R8UFMV-zvP8tg5NQP6rAT1v6oKEB1KuoThcZLds-1FKpWpi71pGKclLWEyqcaL0DE48Q_rY92Z-7A-Ymu9IubxsJU7DZ2oEr3SjmMHtQ_zePYSQI78zR38At21FHQ"
+    },
+    {
+      "position": 11,
+      "title": "AFC Urgent Care Cedar Hills",
+      "place_id": "ChIJsZ788KwJlVQRsPUsuGelv5I",
+      "data_id": "0x549509acf0fc9eb1:0x92bfa567b82cf5b0",
+      "data_cid": "10574352314979382704",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509acf0fc9eb1%3A0x92bfa567b82cf5b0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509acf0fc9eb1%3A0x92bfa567b82cf5b0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5201315,
+        "longitude": -122.80082619999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsZ788KwJlVQRsPUsuGelv5I",
+      "provider_id": "/g/11tfgpql_m",
+      "rating": 4.8,
+      "reviews": 1434,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center"
+      ],
+      "address": "11786 NW Cedar Falls Dr #120, Portland, OR 97229",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 305-6262",
+      "website": "https://www.afcurgentcare.com/cedar-hills-mill/?utm_source=gmb&utm_medium=organic&utm_campaign=afc-cedar-hills-gbp",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "IV therapy",
+            "Pediatric care",
+            "X-ray"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/afc-urgent-care-portland-or-0VGkMv?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-W4o1yL&rwg_token=AE37R_hQH6dc0GxTcZZHSR3C3h6VEh5FZzfaVbifr29Y2ltaE31qH9zf-EqF31_fyAqerzMfMyfslRM7L6lOc_lV_QCAbhlK3w%3D%3D",
+      "user_review": "\"They got me in quickly, saw me and treated me in a professional manner.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIZSGNVLKOZXwuoqQTKlxFi3Etbk0tLc2rNl_7pSJdJ_5F1CMY1DKRilGApCY_nWHC1E5h5f2zt5H3SqXdW47W0P13IIfpCMrmYk81X-Y5B6kfTI8vPb-GSLdHRuKASEmv4HeJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/p9WS1HicHcRJDoIwAADAF1VasWpMPCAiq4iWCHghsWyGQistavygb_A3Js5hvp9GKSFXmsYafVJzXrNylOVAea_KXk0o77RaSEAlkJoRhcfWsN0LscNz4B8u6XPk92Pss9fuplvq2kIV0OkQsnwhiFd4Od4hc5-hrX-6MdsQZpb3iWMiCze4mr4VdnRyT4tktkhghHTXrYS5H7qsXaIUZHgzb6vYXT6iK7BJUDin0TeI1T1mTumtnwhCCJr_FPQ_0n9CWg"
+    },
+    {
+      "position": 12,
+      "title": "ZoomCare MLK Blvd - Urgent Care & Primary Care",
+      "place_id": "ChIJI0CiLq-glVQRgUKIOAAWZ0Y",
+      "data_id": "0x5495a0af2ea24023:0x4667160038884281",
+      "data_cid": "5073047695460418177",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0af2ea24023%3A0x4667160038884281&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0af2ea24023%3A0x4667160038884281&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5241198,
+        "longitude": -122.6613354
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI0CiLq-glVQRgUKIOAAWZ0Y",
+      "provider_id": "/g/11f31ngbhm",
+      "rating": 4.7,
+      "reviews": 991,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Blood testing service",
+        "Dermatologist",
+        "Medical clinic",
+        "STD testing service",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "blood_testing_service",
+        "dermatologist",
+        "medical_clinic",
+        "std_testing_service",
+        "walk_in_clinic"
+      ],
+      "address": "172 NE Martin Luther King Jr Blvd, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "8\u202fAM\u20135\u202fPM",
+        "sunday": "8\u202fAM\u20135\u202fPM",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(844) 966-6777",
+      "website": "https://www.zoomcare.com/clinic/zoomcare-mlk-davis?utm_campaign=gmb-site&utm_source=google&utm_medium=maps&utm_content=mlk",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/t/egmbc/zoomcare-portland-or-g5yWbg?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-RWdMYQ&rwg_token=AE37R_jUuOTbYwSMQbNpkBeMbssjO2FGaFuBl1ILLLGYu5KlPYE5Zr6ZFCnAJE89KI330DbB7aueCTjZaW6PwicTnWILt5oWnw%3D%3D",
+      "user_review": "\"Staff are kind, flow is smooth and efficient, care is high quality.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDhRMrGHdu_JmlwWRbKQLamQlF5NdlZgQOWT4u1Yb9cfpDkwY7qLeKMWmfrZStHLXIZnMhHLZdkL01AOk8tlLg3geOOOodGBiq0bVVWF0VvClNFLc75DlxLOt4V1oBWKpveMeP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EtkZPnicHcRRDoIgAADQE6m4clZbH5aZJUpWk_SnJRI0UUwwu2Fn6DZtvY_3_XCtO7WwLMEnJpOSCToo2hPZatpqk8jGYp0yiDKU5R2StPY2Pj_G_Tashuu-ESM-llEKb00qAiepRMFShM_Twc7LObl3fj3m7hPSKMbNvS9OOoSXXdHGPIRFVUNge6ieaQHZhFGEkKy2q8cTlFmGA5C91iIJIHEdX7wh0tPMliscdS8a08NytAEABv9PjPYHlqBE5w"
+    },
+    {
+      "position": 13,
+      "title": "Providence ExpressCare - Pearl District Urgent Care",
+      "place_id": "ChIJrxGmIvwJlVQRRX1UpQLWoYU",
+      "data_id": "0x549509fc22a611af:0x85a1d602a5547d45",
+      "data_cid": "9629212785146887493",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509fc22a611af%3A0x85a1d602a5547d45&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509fc22a611af%3A0x85a1d602a5547d45&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.530304,
+        "longitude": -122.68560579999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrxGmIvwJlVQRRX1UpQLWoYU",
+      "provider_id": "/g/11bzt9stxp",
+      "rating": 3.7,
+      "reviews": 117,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "walk_in_clinic"
+      ],
+      "address": "1025 NW 14th Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(888) 227-3312",
+      "website": "https://www.providence.org/locations/urgent-care/or/expresscare-pearl-district?Is=location&y_source=1_OTU3NjI2Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "book_online": "https://www.providence.org/our-services/urgent-care/expresscare-pearl-district?utm_source=google.com&utm_medium=gmb_booking&lscta=book_slot&rwg_token=AE37R_gSiTBmL91LBWNRkkSwdAfMqoMVMx0s7WTMnRyKNbYR7AJayHF4Ub1yu3jKv67dxNn0ACK5T0iiTAb1hLictjRn-IeIoA%3D%3D",
+      "user_review": "\"I was able to get a fast appointment and the doctor LISTENED and HEARD me.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQMCaiANT0hAJU_98jr4xPzLTl_qSr8jmUKpg21Dr1rHUaMOdMug4Mb8324B2nEWulRUhMGVqggySmyFj2myG_8NTIcO6rJh-xFKSrJFqhMC28kcxiEV1rzf3yhwCb0R7Qd1dQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iL6qYHicHcRdDoIgAADgE5GArqitBzOtLCxT69ElGmT-gi7tgp2h27T1PXzfj-i6Ri00rRD6hNc1L7JeZZLVVZdV3YTVpcYbBZgCSjNPnv80HZ9at4fphVCYbhTPSS6N4fQ-hEXcBpLkZbRvOEZrieQ2utFjSntu0ITo2Fjhyr72xTkSdHNpOR-DcnRyXI6bmHjhjh2n0hVgcPaBdJ1WUAuTJxse9gXJ910fxctK4Hnmpyj1ly8EIQTiPwPVDyaLRCM"
+    },
+    {
+      "position": 14,
+      "title": "AFC Urgent Care Portland - TeleHealth",
+      "place_id": "ChIJYZHIO4WCi6ARlGuj-_bmQA8",
+      "data_id": "0xa08b82853bc89161:0xf40e6f6fba36b94",
+      "data_cid": "1099132257536535444",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xa08b82853bc89161%3A0xf40e6f6fba36b94&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xa08b82853bc89161%3A0xf40e6f6fba36b94&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4375461,
+        "longitude": -122.7600822
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYZHIO4WCi6ARlGuj-_bmQA8",
+      "provider_id": "/g/11qb5l95g3",
+      "rating": 4.9,
+      "reviews": 606,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center"
+      ],
+      "address": "8060 SW Pfaffle St, Tigard, OR 97223",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20133\u202fPM",
+        "thursday": "8\u202fAM\u20133\u202fPM",
+        "friday": "8\u202fAM\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20133\u202fPM",
+        "tuesday": "8\u202fAM\u20133\u202fPM"
+      },
+      "phone": "(503) 305-6262",
+      "website": "https://www.afcurgentcare.com/portland/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"They were so wonderful, sent my medication to the pharmacy right away.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2EPxdXhuKjDWMnrheejuEykqP_ZJitXuqQ6AW8-_eVp1gfIwzSBaFKfUioLWVE0a-eMg3lv8QAMW_amLJV1BD1WcIjyh98jcm5yWdID4UmIl4YFqobln9JuHDOw0IGUBMpzlEJQ4oacY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ghwm7XicHcTBboIwAADQL6qUyQya7AChalEcZIHqLgRrbcXSgm3H8CN3398s2Tu83x9hbW9WnifFfMa15pI5wx5UK8uUnVHdebw3gBpgvCg_FPcIvaD8-3IUbtcmJFMPwVjr0HQf8vozvdmjG4pFREJQs6r3-RWPz4-4We-u5U3vSYVgA1jG5_IrLKKM1E23Tys_TnxCcTuJZdjS7nUiF5wEZYdlcFoP-izVMnXb5H2EeFPGWf-UKC0C3dDT2-hDCIH4nwL1B7TaR4I"
+    },
+    {
+      "position": 15,
+      "title": "Providence ExpressCare - Urgent Care In Creston",
+      "place_id": "ChIJOTjQKsehlVQR7db_oZSdaj8",
+      "data_id": "0x5495a1c72ad03839:0x3f6a9d94a1ffd6ed",
+      "data_cid": "4569638033619408621",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1c72ad03839%3A0x3f6a9d94a1ffd6ed&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1c72ad03839%3A0x3f6a9d94a1ffd6ed&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4968171,
+        "longitude": -122.62329469999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOTjQKsehlVQR7db_oZSdaj8",
+      "provider_id": "/g/11pkfyjhy6",
+      "rating": 4.3,
+      "reviews": 114,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Medical clinic",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "medical_clinic",
+        "walk_in_clinic"
+      ],
+      "address": "3822 SE Powell Blvd, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "8\u202fAM\u20138\u202fPM",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(888) 227-3312",
+      "website": "https://www.providence.org/locations/urgent-care/or/expresscare-creston?Is=location&y_source=1_MjkxOTA5NzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "book_online": "https://www.providence.org/our-services/urgent-care/expresscare-creston?utm_source=google.com&utm_medium=gmb_booking&lscta=book_slot&rwg_token=AE37R_gFtITHm8uSVIJDONJtIscYDs6UucjyUsmuGVHBUGWLVoeY0rQfqk7wm2Z7-_LqrNafcrgNAqdUjW3cIN4i15SGCjCnog%3D%3D",
+      "user_review": "\"We were in an out in less than an hour with a prescription for his rash.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2A8bw5Qgc2_Ug0wiwgQVmN0P8XSiNOAT9jlsYhNMT_8JoaEWaOzuQHaVWaenSvf7oz_0moB0YS_6LFZGTny1Qg0RedNe6sWJbkT8GT65J_k3-rnwTxU3IFG4_kc2xxMjc-AGfEQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uKYMnnicHcRRDsEwAADQE9VqY0bio5JtLJRaGX6aqerY1oqOjhs6gttIvI_3_RRNczMjx6kKryO1lpV4GHHnWjVCNR2ua0feDOAGGAetMClR5KLgaPtEcpdtJLQXK8m2xnAV7NILXiI6vFZmX-AFZUGi8zDLl-8HmebbLBcqfZ4H-s1grSdwnzJ_Hh1iql5dIuFanLDwTZYcSxrE1O8nrPTAXVnabrxZFPdYyd22XVw5QPE5JGPbhRCC4j8H6gfNbkTA"
+    },
+    {
+      "position": 16,
+      "title": "ZoomCare St. John's Portland - Urgent Care & Primary Care",
+      "place_id": "ChIJ_TI99eSplVQReVH6yX1O7h0",
+      "data_id": "0x5495a9e4f53d32fd:0x1dee4e7dc9fa5179",
+      "data_cid": "2156747573723550073",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a9e4f53d32fd%3A0x1dee4e7dc9fa5179&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a9e4f53d32fd%3A0x1dee4e7dc9fa5179&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5896556,
+        "longitude": -122.7499361
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_TI99eSplVQReVH6yX1O7h0",
+      "provider_id": "/g/11h5n5b6vc",
+      "rating": 4.5,
+      "reviews": 282,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Blood testing service",
+        "Gynecologist",
+        "Local medical services",
+        "Medical clinic",
+        "STD testing service",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "blood_testing_service",
+        "gynecologist_only",
+        "local_medical_services",
+        "medical_clinic",
+        "std_testing_service",
+        "walk_in_clinic"
+      ],
+      "address": "8179 N Lombard St, Portland, OR 97203",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "8\u202fAM\u20135\u202fPM",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(844) 966-6777",
+      "website": "https://www.zoomcare.com/clinic/zoomcare-st-johns?utm_campaign=gmb-site&utm_source=google&utm_medium=maps&utm_content=stjohns",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/t/egmbc/zoomcare-portland-or-AMVNyJ?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-RWdMYQ&rwg_token=AE37R_hm9_k8ZstETGbJbrG3F1GomHhoZOkqU0u4bQR4MCqwzHHoZWE855xRMQk-g5YylOM00eLgSHQ0_ynUXLLD0cOiqCuWHA%3D%3D",
+      "user_review": "\"Walked in and was able to be seen within 45 minutes.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1ZGKXdEibnRSfvShOFiOiTr6jOIoag51f3vPLnTpCkDVFhsFGNLdUMIZytgvBjEGkdWqOnMYY_FxdjwV9gOF0PuBTmogvLHRnVTI7BDqQbyFP2Mtn1uU0wEF5CSImzZ646cj8tg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qpeUDnicHcTbEoFAAADQL0qbSy4zHqQ2jbJRol4MW3Yr7cZuhT_0Cf7GjPNwvh8qZS1mqnqjgx7hnNyyRmQPzJnMmOxhXqmkFgoWilAX_mZbLlZaYq-PqZVf2C64tgFFMEd5-NAL5PAzGWnXQeu7LKyXpRlBKqC9cdO95yQvSVqjsOwyPdwR8-L4BJ9p0UVTgiDwGyOsOGnd1Y5FoTM2zPv28oJ-35NMa_ags-BoGTjVO9GHOi4mksw7DQCg0P9YYT8t7EXG"
+    },
+    {
+      "position": 17,
+      "title": "The Portland Clinic-Tigard",
+      "place_id": "ChIJLdXJavYMlVQRyfF2lB3drf4",
+      "data_id": "0x54950cf66ac9d52d:0xfeaddd1d9476f1c9",
+      "data_cid": "18351567175719252425",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950cf66ac9d52d%3A0xfeaddd1d9476f1c9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950cf66ac9d52d%3A0xfeaddd1d9476f1c9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.453395799999996,
+        "longitude": -122.77325429999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLdXJavYMlVQRyfF2lB3drf4",
+      "provider_id": "/g/11hcdsw7zh",
+      "rating": 4.3,
+      "reviews": 270,
+      "type": "Medical clinic",
+      "types": [
+        "Medical clinic"
+      ],
+      "type_id": "medical_clinic",
+      "type_ids": [
+        "medical_clinic"
+      ],
+      "address": "9250 SW Hall Blvd, Tigard, OR 97223",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 293-0161",
+      "website": "https://www.theportlandclinic.com/?y_source=1_MTMyNjA4NzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.zocdoc.com/practice/the-portland-clinic-60552?LocIdent=139562&utm_source=reservewithgoogle&utm_medium=seosynd&utm_campaign=hai&entity_id=pt_5e3k17XZFU2hawz-VgbnQR-lo_bNypRq_lPUyeQPPVaM7l8R-entity&rwg_token=AE37R_hv4FizltS6xls_6DdlslOTB1LVMDFlu_QOllGFPuLwND2ek5pWnYxn7757Mg8Uf8PkNOWiHXh_T8NS1TzujirXpsvyUQ%3D%3D",
+      "user_review": "\"I arrived early and was able to be seen by a doctor with 5 min wait time.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOzGxdmTq5d3nWCdIQkFGjq4iN6jAg5sI1G4NYHHgpEXvZk4pSvqjH2AHvOd2SkTRm7RKKROR0Su7jcYAfFNtD0hMRhLNG3kvmymgSPS5CTmV4CoiXREn_jPf5B3TLVrxcAi2A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qfrs-HicHcRLjoIwAADQEyGVjyaTzKIiglELtsTfxkXBlta2YCs6c0HP4G1MfIv3fnHnOvvj-1cejpgx7NrcbXOjRrtGuxE1ymed9aj1rA9LtJUwLf6zZ62qPq5DvU_q5VYuMtFHLZoIyGK7HGcROuY569LDcJJRR4Ze5AHMh6IOiKywmuLVChcYkPtU0CO8LJCbA77BfI2yUA7qTzFSkjip1C5KTHvAqT6L8hLPwmq9uz0pbAP4-xgDADz-nXr6AzQVQ_k"
+    },
+    {
+      "position": 18,
+      "title": "Adventist Health Urgent Care - Parkrose",
+      "place_id": "ChIJu1rI1X-hlVQRbuVj49a1AlU",
+      "data_id": "0x5495a17fd5c85abb:0x5502b5d6e363e56e",
+      "data_cid": "6125658377719899502",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a17fd5c85abb%3A0x5502b5d6e363e56e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a17fd5c85abb%3A0x5502b5d6e363e56e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.532615899999996,
+        "longitude": -122.5371132
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu1rI1X-hlVQRbuVj49a1AlU",
+      "provider_id": "/g/11cs5nh2dz",
+      "rating": 4.1,
+      "reviews": 372,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center"
+      ],
+      "address": "1350 NE 122nd Ave #200, Portland, OR 97230",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20137\u202fPM",
+        "thursday": "8\u202fAM\u20137\u202fPM",
+        "friday": "8\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20135\u202fPM",
+        "sunday": "9\u202fAM\u20135\u202fPM",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 408-7008",
+      "website": "https://adventisthealth.org/locations/detail/adventist-health-urgent-care-parkrose/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I got my diagnosis and prescription in a timely manner.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFO4qsP7J7jp-4e13QWpO7EQDwYpEMpFof-ALIYoop44KIga6D-X2Wn1y4GRLXb0OpSJKXNcaO__4IxPgkD75Hfmozof2N1SAsbvLIb2qDSoBWgDycd8uucLsY15kKKw5NDR1Y=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ibqUL3icHcRJDoIwFADQE1UoFjEmLjB1YJBBFtCVkQolIvxiQcQDegdvY-JbvO-n6nupVpp2r-YzASDuxaCKB4e2L9p-xqHRhFSIK6Q0Owri2t6FpFOR5Vo3iUiB53EqQ2sb05HJ7VHuoES27zAASYjniMuCosxIWzyR_cnPcj2UietlAb-E5zNxXpGoqWUeygbeUBoBTmyVP30nNzqawCYVdOLX5TBwXzFs1p43mgE9YbYesa7rqPrPUfsDXa1CkA"
+    },
+    {
+      "position": 19,
+      "title": "ZoomCare East Burnside PDX - Urgent Care & Primary Care",
+      "place_id": "ChIJoaQRr76glVQR8uEPLShPBeA",
+      "data_id": "0x5495a0beaf11a4a1:0xe0054f282d0fe1f2",
+      "data_cid": "16142395473352712690",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0beaf11a4a1%3A0xe0054f282d0fe1f2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0beaf11a4a1%3A0xe0054f282d0fe1f2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.522714199999996,
+        "longitude": -122.64122689999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoaQRr76glVQR8uEPLShPBeA",
+      "provider_id": "/g/11g_v2bds",
+      "rating": 4.7,
+      "reviews": 646,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Blood testing service",
+        "Family practice physician",
+        "Medical clinic",
+        "STD testing service",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "blood_testing_service",
+        "family_practice_physician",
+        "medical_clinic",
+        "std_testing_service",
+        "walk_in_clinic"
+      ],
+      "address": "2400 E Burnside St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20137\u202fPM",
+        "thursday": "9\u202fAM\u20137\u202fPM",
+        "friday": "9\u202fAM\u20137\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20137\u202fPM",
+        "tuesday": "9\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(844) 966-6777",
+      "website": "https://www.zoomcare.com/clinic/zoomcare-east-burnside?utm_campaign=gmb-site&utm_source=google&utm_medium=maps&utm_content=burnside",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended",
+            "Accepts walk-ins"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.solvhealth.com/t/egmbc/zoomcare-portland-or-g1P9Zp?utm_source=gmb_reserve&utm_medium=booking-times&utm_campaign=solv-RWdMYQ&rwg_token=AE37R_gBeUw7Ct_tZy6pPqdYbVvgyGAmcfWqcKXp4Ntg8n8Pv-bGzE0odf_LSLhEf_IUtimWufgdKB3oQ0LMdhKJbd9cDHobQA%3D%3D",
+      "user_review": "\"Tiffany listened and quickly diagnosed the problem.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPQeV4mBuTXUX4ERTaUrYv0xv570DkoRv7QZ1fIxFp8010W0fDTbTYOCu_tq8gs12Q7Zc51czA7aPxWPEde4SQugVcSNaVYW2_bBOwNZ2jNnAudz_IoYCVYbgnrzmAZhjKScRBVQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Pzx9-HicHcTRqoIwAADQLzI3r2EE92GWQQTm1KbzRXStSeVmbjPxD-8n9DfBPQ_n89cZM-it6z67n5VQSjy51XxkShouzYqp3hWDdph2tIuSGD9QlGBO_D60eXkp_SjNm8tIJzBP6wDsHyqdAlzB23E-DBsAQQFu-7zN6Xlna_PaCA09HFRsDdmCgiaZiyS6cj_DVhCWxQ2hhVe34fkdV949lshel_qo6I7QVshx6VHV3U8ZS0OCf98QAOB0_zNHfgGQXET2"
+    },
+    {
+      "position": 20,
+      "title": "Providence ExpressCare - Interstate Urgent Care",
+      "place_id": "ChIJ741xzG2nlVQREAZlVgpi7fI",
+      "data_id": "0x5495a76dcc718def:0xf2ed620a56650610",
+      "data_cid": "17504755123197642256",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a76dcc718def%3A0xf2ed620a56650610&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a76dcc718def%3A0xf2ed620a56650610&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5551027,
+        "longitude": -122.6819766
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ741xzG2nlVQREAZlVgpi7fI",
+      "provider_id": "/g/11byx89_7v",
+      "rating": 4.2,
+      "reviews": 115,
+      "type": "Urgent care center",
+      "types": [
+        "Urgent care center",
+        "Walk-in clinic"
+      ],
+      "type_id": "urgent_care_center",
+      "type_ids": [
+        "urgent_care_center",
+        "walk_in_clinic"
+      ],
+      "address": "4340 N Interstate Ave, Portland, OR 97217",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20138\u202fPM",
+        "thursday": "8\u202fAM\u20138\u202fPM",
+        "friday": "Closed",
+        "saturday": "8\u202fAM\u20138\u202fPM",
+        "sunday": "8\u202fAM\u20138\u202fPM",
+        "monday": "8\u202fAM\u20138\u202fPM",
+        "tuesday": "8\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(888) 227-3312",
+      "website": "https://www.providence.org/locations/urgent-care/or/expresscare-interstate?Is=location&y_source=1_OTU3NTY5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Has online care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "book_online": "https://www.providence.org/our-services/urgent-care/expresscare-interstate?utm_source=google.com&utm_medium=gmb_booking&lscta=book_slot&rwg_token=AE37R_iF89DmSSIP8rxQ6l-b-EZrxthRHOLEsjX0WUCQ0-EQ_VZJbNj6HPzouZrMAEPy5q3CG2Pa3afEofjpO9Cl8Nl86Z85Ow%3D%3D",
+      "user_review": "\"Excellent easy fast care for a simple pneumonia after flu diagnosis.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAyH0TzCqLZS8VQpvFoZ7TZ28uHNKkChp3iBbtkkcFIDG0_sCyNdy0jqO2DgTk_Zt9R7PQPgbUmazvwUJUCJjp4_6shy9KnzW2lVpZflL3QOMcyGnN5iprRjUnffWPuUfsg654=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/t41ZynicHcTbDoIgAADQLzJJu289mK7sZmqSGy-uSCExoMAa_mDf0N-0dR7O90O1lmpm2w11e0QI0pStKp9YcF1y3cPibhOpLKwsZXtxlDAv9EwIss5_7NBxckrkaynQOEPOpA2jLfOpdG-Li2YML9fBChTKN9HVgPpxcAKSsQLpaTqOk5hc4P3cvd5wA_1NLQfFSFEz3fIud5qTRFWzc5PDHpsVj4Y3-UxryKsqj1tYKTIaDubvPgDAov-xxX-JZ0Wg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=urgent+care+clinic+Portland%2C+OR&start=20&type=search"
+  }
+}

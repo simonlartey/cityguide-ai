@@ -1,0 +1,1991 @@
+{
+  "search_metadata": {
+    "id": "6a4e5886bca7e53ea567af28",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Gj7fgz6Y25hz4GaOqghjUQ/6a4e5886bca7e53ea567af28.json",
+    "created_at": "2026-07-08 14:02:46 UTC",
+    "processed_at": "2026-07-08 14:02:46 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+dentist+in+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/Gj7fgz6Y25hz4GaOqghjUQ/6a4e5886bca7e53ea567af28.html",
+    "prettify_html_file": "https://serpapi.com/searches/Gj7fgz6Y25hz4GaOqghjUQ/6a4e5886bca7e53ea567af28.prettify",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best dentist in Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best dentist in Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Northwest Portland Dental : Portland Dentist",
+      "place_id": "ChIJMfkQxvYJlVQRXfAAUfZ1Ujk",
+      "data_id": "0x549509f6c610f931:0x395275f65100f05d",
+      "data_cid": "4130493509033586781",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509f6c610f931%3A0x395275f65100f05d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509f6c610f931%3A0x395275f65100f05d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.531355999999995,
+        "longitude": -122.69896399999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMfkQxvYJlVQRXfAAUfZ1Ujk",
+      "provider_id": "/g/1tjrppmg",
+      "rating": 4.8,
+      "reviews": 252,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental hygienist",
+        "Emergency dental service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "dental_hygienist",
+        "emergency_dental_service"
+      ],
+      "address": "2311 NW Northrup St #101, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20134\u202fPM",
+        "thursday": "7\u202fAM\u20134\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20134\u202fPM",
+        "tuesday": "7\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(503) 683-7579",
+      "website": "http://northwestportlanddental.com/?utm_campaign=gmb",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Very clean & amazing pricing.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnrSLBtWhF8E6r6tealJrBEYPh11z-ZaeWLtLP_9AIXD1BsmFqLzL-SmtWXO95jZ9ZrIEE8lu898AEK4M1mfD0zG2DT16lsUHr8KtDoDfNOv_NtbQR4OrZhiwX4uRm-YyucEfYGs5gRmoI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jqWAr3icHcTdboIwGADQJ6pQh6SY7ALSqmgnDF34uTGuKXSmpa79mBkPufu9zZKdi_P7owDufh0EWj0tBmsHLScvnbAjyBEWwppguHskPPJBuqvKcz26E8-gVhvCYheDvOq9y1hbKoxn1F1lzYGXlyTNG4ozbzaffOboZKBuimR165LO5YwRPZGEpOwQvWDT03DeLukZx9q_7Rw5ALW0PxZflyO8v1ZR4Tr18WiiqTKo_Z4E69utXw2VsfnzA4dhiNT_Ao1_2mdGCQ"
+    },
+    {
+      "position": 2,
+      "title": "Laurelhurst Dentistry - Portland",
+      "place_id": "ChIJn4Qhv76glVQRKtd1t3rhxMU",
+      "data_id": "0x5495a0bebf21849f:0xc5c4e17ab775d72a",
+      "data_cid": "14250763038087305002",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0bebf21849f%3A0xc5c4e17ab775d72a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0bebf21849f%3A0xc5c4e17ab775d72a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5226192,
+        "longitude": -122.63998529999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn4Qhv76glVQRKtd1t3rhxMU",
+      "provider_id": "/g/1tnsrmzb",
+      "rating": 4.9,
+      "reviews": 1193,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental hygienist",
+        "Dental implants periodontist",
+        "Emergency dental service",
+        "Endodontist",
+        "Orthodontist",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "dental_hygienist",
+        "dental_implants_periodontist",
+        "emergency_dental_service",
+        "endodontist",
+        "orthodontist",
+        "teeth_whitening_service"
+      ],
+      "address": "2520 E Burnside St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 822-0117",
+      "website": "https://laurelhurstdentistry.com/?utm_source=GMB&utm_medium=seo&utm_campaign=GBP",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": false
+      },
+      "user_review": "\"You feel like you\u2019re the priority and your best interest is at heart.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnc-hLfR6eUuA8GJ7W2YD_uYgg6cKd7Rge6bfxugtwkhT42FDBteGXimgNUulJtPsbRGanbAOCDRN_lrLTWdLyhgmNEIwsY66ypPitZbKuIaJElAyRzxsuBNUinLcEUcXqPaZwP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fNIxGHicHcTdCoIwGADQJ1raDyuCLizNMrExFLOb0LW-SXNa2zB7wZ6htwk6F-f7EcZ0euk4UkxH0LYgudX8yVpluDIj1jYOdBoxjbTj7ShJc8WQiG8U88x6izCa55PCv9gCALPDdU6B4-r2smD6u0hnk62_Njw81Q0kmZWRIbqiYakq77jxaXKRzzjNr_EgoEmCfa8LjIeO1OZcHey-jALpDfT90nadZLWKWZCx04OU556s-rHrukj8Z0j9AMUTRqE"
+    },
+    {
+      "position": 3,
+      "title": "Portland Dental",
+      "place_id": "ChIJeXt4fAMKlVQRaPiIrra70J4",
+      "data_id": "0x54950a037c787b79:0x9ed0bbb6ae88f868",
+      "data_cid": "11443853046435084392",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a037c787b79%3A0x9ed0bbb6ae88f868&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a037c787b79%3A0x9ed0bbb6ae88f868&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.521240999999996,
+        "longitude": -122.68181999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeXt4fAMKlVQRaPiIrra70J4",
+      "provider_id": "/g/1th7y1km",
+      "rating": 4.9,
+      "reviews": 752,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental implants periodontist",
+        "Emergency dental service",
+        "Endodontist",
+        "Periodontist",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "dental_implants_periodontist",
+        "emergency_dental_service",
+        "endodontist",
+        "periodontist",
+        "teeth_whitening_service"
+      ],
+      "address": "511 SW 10th Ave #1206, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20134\u202fPM",
+        "thursday": "7\u202fAM\u20134\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20134\u202fPM",
+        "tuesday": "7\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(503) 447-2748",
+      "website": "https://www.portlanddentalpc.com/?utm_source=GMB&utm_medium=seo&utm_campaign=GBP",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"She\u2019s incredible and I couldn\u2019t recommend her highly enough.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlr1TFPjYhLp59zSXbo0SpZc7q2-Owc2OtRc0fgnRWMyWSoPhlIPopC4sF6OjXOz9lqROcx6fgXNNxOG6-QEM-5eT3E-8sAQdoDr3-PBEdH8hh_bUuEGRT2sMrZHA4ioFFPURvN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LgUXtHicHcTdboIwGADQJ_qkgqIu8QInyJJBa4HAvDGxYqvp-Cqt8-cF9wy-jYnn4jz_lXPGfnieVsFAIkrdXmzbC-xc27mBwF9PGgvCgvWilLOy1v2wTNjpR32b8exRNDskhdmIydkHehU-dVyQg-x4nd3rApnSXwzN58gmIT019DHTZ07FLTzIJs9vdBXCOs5g3JZBDFMbrfe47ANgi3ifTpXa7qpLvOKlb7N-k0ajIyYJq_hfPr8OCSGg3gvoXjczQ54"
+    },
+    {
+      "position": 4,
+      "title": "Haven Dental PDX",
+      "place_id": "ChIJW_VA-R6hlVQRmypKoLWb-1w",
+      "data_id": "0x5495a11ef940f55b:0x5cfb9bb5a04a2a9b",
+      "data_cid": "6700120075024345755",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a11ef940f55b%3A0x5cfb9bb5a04a2a9b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a11ef940f55b%3A0x5cfb9bb5a04a2a9b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.535813499999996,
+        "longitude": -122.6196331
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW_VA-R6hlVQRmypKoLWb-1w",
+      "provider_id": "/g/11jz3y1_s4",
+      "rating": 4.9,
+      "reviews": 283,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental implants periodontist",
+        "Emergency dental service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "dental_implants_periodontist",
+        "emergency_dental_service"
+      ],
+      "address": "1744 NE 42nd Ave, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 287-0072",
+      "website": "https://www.havendentalpdx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        }
+      ],
+      "user_review": "\"Great care, incredible DJ music, and just smiling souls.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkAg6_1MivlUAd6kjXrjfTh3Zro4WacSzFa6BFduCazop0ZgTal0b-UnIr6cl4Bi05o6bGQCbGUMcPlJ4W4HY5xJI1cOoGLFgBDkDyFIZP0UrLll4bQo83uRH1NswqUaUhztcx9Ym1qznGe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NGEmM3icHcTNbsIgAADgJ8JCikSXeGg1_THqqivp7GWh2IEWoQJV15f0vLdZsu_w_b6k9717CwIlw4kwRqh2cK3lRvtW-wk310D0DnAHXBBlh6KsukiQL7Q93xWNTqS7fNrLdynD2hpcMf4xJozEyWlYstH0sBYlU7ABVOeWcIXjM5wa0qT7ZZPSLS_UGlc4O06f6xzxd5NuEhGvutVPktcFpHajFG72ZhYOhwzt3ONGGZWj58_58Ypuo07bxQNBCIH8nwP9B5xFR3I"
+    },
+    {
+      "position": 5,
+      "title": "PDX Center for Dentistry",
+      "place_id": "ChIJwyN9igEKlVQR8dUtN9UC0Zg",
+      "data_id": "0x54950a018a7d23c3:0x98d102d5372dd5f1",
+      "data_cid": "11011585678674613745",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a018a7d23c3%3A0x98d102d5372dd5f1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a018a7d23c3%3A0x98d102d5372dd5f1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.521278599999995,
+        "longitude": -122.68184889999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwyN9igEKlVQR8dUtN9UC0Zg",
+      "provider_id": "/g/1tgxt7ly",
+      "rating": 4.8,
+      "reviews": 439,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Emergency dental service",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "emergency_dental_service",
+        "teeth_whitening_service"
+      ],
+      "address": "511 SW 10th Ave #1101, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20135\u202fPM",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 546-9079",
+      "website": "https://www.pdxdentistry.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.google.com/maps/reserve/appt/place/ChIJwyN9igEKlVQR8dUtN9UC0Zg/mid/%2Fg%2F1tgxt7ly?sourceurl=https://www.google.com/search?hl%3Den%26tbm%3Dmap%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1s1XtagXXb-SNJ6txGfeS-DjFKkW_YdxU:2!2s1i:0,t:11886,p:1XtagXXb-SNJ6txGfeS-DjFKkW_YdxU:2!7e81!12e5!17s1XtagXXb-SNJ6txGfeS-DjFKkW_YdxU:87!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26gl%3Dus%26q%3Dbest%2Bdentist%2Bin%2BPortland,%2BOR",
+      "user_review": "\"Been going here for some years now and they are the best.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2Ku7AWOj7GKKvH6bHd6emYfMrhvHLyvOOGGWqI8RUmsO1yyQS4WrqCWTumg7MIRq0LwL3dM9DqAHYVGkuj8nyKaE1ZqAf7p_CkPQq0ie_vt4BQuOGEHmqxwSqE9EbaB7PuyeADA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HgrTQnicHcRdDoIgAADgE5lYLaqtByoHTR1qP6xeWhlpJSoCGkfsCN2mre_h-34KrRs1d92yGA3yus5LbhRvs7rSvNKDrBZu3ignU45yEUnjHSuHgYGI0SfEQdCRyZXcJlwc71FbdCS0HaUYM7mZpnuhqGdtsh2zVq7YzogcRptUgrAPR7dotpaIHA_4ZZ7TygYX3ztJdIfNefWKEwke_Nzp8TIxFPtEyHe_lf7Mv16WMDaWozVa9B4AwCn-Z071A-zjRXo"
+    },
+    {
+      "position": 6,
+      "title": "Bling Dental",
+      "place_id": "ChIJEYeemv4JlVQRmtaWPNQSuP4",
+      "data_id": "0x549509fe9a9e8711:0xfeb812d43c96d69a",
+      "data_cid": "18354440984107341466",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509fe9a9e8711%3A0xfeb812d43c96d69a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509fe9a9e8711%3A0xfeb812d43c96d69a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5297956,
+        "longitude": -122.68406259999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEYeemv4JlVQRmtaWPNQSuP4",
+      "provider_id": "/g/1v1vcx83",
+      "rating": 4.9,
+      "reviews": 898,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental implants periodontist",
+        "Emergency dental service",
+        "Orthodontist",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "dental_implants_periodontist",
+        "emergency_dental_service",
+        "orthodontist",
+        "teeth_whitening_service"
+      ],
+      "address": "926 NW 13th Ave #150, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 227-2444",
+      "website": "https://www.blingdental.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "children": [
+            "Nursing room"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"10/10 recommend to any queer, modified people!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkm2yFevvxqQgrwXNOFFOSTFvVISRe5oBGOrzN78qqawLsG7msW44nUaJkBnz--q4iGOAfS4XmXX-oqO2A-W4XaWwfdPRz3EWDu30P56Rd-lXWD5ZR7F47bDgcJkOfX2XPd289lhA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qFgJU3icHcRRboIwGADgE_2CUIZbsgcMlmmMZcWtzd6wlGKA1lKEjRvuCLuNyb6H7--3Gcebe_G8rglXyhjVybuTgzB6lHpcCdN76uZAOHBe8kbzM2v74AfLafq272qY-YlgTIoznj73BZWR2WZkWE7xxtpyPros7h1DSH-Uh3arFwCLrhlJ6gLxnnMwlgQJMMRLNtdVTpdwx9J76OfRE62g4yyNvmiMUXxJlTi0pOYBz6tg89w1yeu89n0fmv8F6AfzdEQK"
+    },
+    {
+      "position": 7,
+      "title": "Lovejoy Dental",
+      "place_id": "ChIJP3eUmP4JlVQRhfkahCuF23A",
+      "data_id": "0x549509fe9894773f:0x70db852b841af985",
+      "data_cid": "8132239974094010757",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509fe9894773f%3A0x70db852b841af985&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509fe9894773f%3A0x70db852b841af985&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5297487,
+        "longitude": -122.68520269999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP3eUmP4JlVQRhfkahCuF23A",
+      "provider_id": "/g/1tfdyk9q",
+      "rating": 4.9,
+      "reviews": 720,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist"
+      ],
+      "address": "930 NW 14th Ave #220, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20132\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 889-8632",
+      "website": "http://lovejoy-dental.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"If you are in the Portland metro area, there is no one better!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrZtLmm9X6wKIS0Z5JvAXcxyvXE-QFWS-Op5tCf-J44DkyEgPNSgcFLWfsCSps7IlhJsIR72VOL7n6SMceCD4ggNEINVy7O85WrBNbiyaf_gMwCM4CSd8FFS48K9JkXBi23_49dlX_9zsJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3gbm1XicHcTLjoIwFADQL6qgFgETF1ghQ-WhdiKNGzJToRjLI9wq4k-69m9MPIvzflVad7A0DFXNJ7JtpSpuUPSibXTR6Iloa0N2gAQgMLyfw-43U_1JR3Xt8sWwDZl5sujd4-Ix3rmP9kHGUNpZmpSIYry5jr7cJUyKIMpKIKwDO1QVhfBgz45pZDcLFouCbLCUiR8mx9FOHSvr18n_ZfwrcxkPJMaEnZ0gYNjZuvTK15fZPMfuWfHcfQJdDVPTNFH1XaDmAyw2RYA"
+    },
+    {
+      "position": 8,
+      "title": "Laurelwood Dental",
+      "place_id": "ChIJNVsW0MiglVQRu00Ca3ln95c",
+      "data_id": "0x5495a0c8d0165b35:0x97f767796b024dbb",
+      "data_cid": "10950334790158667195",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0c8d0165b35%3A0x97f767796b024dbb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0c8d0165b35%3A0x97f767796b024dbb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.532072,
+        "longitude": -122.6368411
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNVsW0MiglVQRu00Ca3ln95c",
+      "provider_id": "/g/1v2kx4d4",
+      "rating": 4.9,
+      "reviews": 696,
+      "type": "Dentist",
+      "types": [
+        "Dentist"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist"
+      ],
+      "address": "2824 NE Wasco St #210, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 7:30\u202fAM",
+      "hours": "Opens soon \u00b7 7:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20134:30\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20134:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(503) 284-3575",
+      "website": "https://laurelwooddental.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "book_online": "https://nexhealth.info/book/appt/laurelwood_dental?lid=39336&rwg_token=AE37R_hD7qPNmQhVi0qf5bMx20zqaa8WdVPjurZSiUM_Adf5LH29Dfb7ozBp1lakDcQ8b0SVd_-_5VTR7VMptqA6gE49MmXVhQ%3D%3D",
+      "user_review": "\"Dr. Hall and the rest of his staff is a great find and highly recommended!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvoTrXapRzpdecQZJnQ35N4Jhl8K9daspTIJg7Q4bxUultdg79szQ4suU-xYU2Xeq7_EEwp8daLRf8FajUN-HOqBwdKQHE9XhwcjLpKNJRxV8Z63UayJuctJu70-t7m6wuJ9aD=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/t8VxnHicHcRRbsIgAADQE2Hr2klr4ofLulRqutEU7fxZGDCIaQsKjOoFPYO3MfF9vPtNOWfsMop6lcyk1rIX3ooz06MTo5sxPUTSWMAssNG6bL7a_fCv23NHTXM1XDB8QCNOXusUqT6rck6taTdIQpz-TsT3jkuY2ytOrSdg-iYvnTjBn6IIJuN02_xlH_RIalB-nt4Cr3BZ5J0K7Lg1VY2aaZcdFgmhF-SZQx7GwMFhETzK6fsqzOM4Buo5A-MDx3RFMA"
+    },
+    {
+      "position": 9,
+      "title": "East Burn Dentistry - Portland Dentist",
+      "place_id": "ChIJf0T-0KSglVQR5BImAh6LgPs",
+      "data_id": "0x5495a0a4d0fe447f:0xfb808b1e022612e4",
+      "data_cid": "18122637861540205284",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a4d0fe447f%3A0xfb808b1e022612e4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a4d0fe447f%3A0xfb808b1e022612e4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5224143,
+        "longitude": -122.65120999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf0T-0KSglVQR5BImAh6LgPs",
+      "provider_id": "/g/1tdgjzpr",
+      "rating": 4.9,
+      "reviews": 115,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental implants periodontist",
+        "Dental clinic",
+        "Emergency dental service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_implants_periodontist",
+        "dental_clinic",
+        "emergency_dental_service"
+      ],
+      "address": "1415 SE Ankeny St, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "6:30\u202fAM\u20135\u202fPM",
+        "thursday": "6:30\u202fAM\u20134\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "6:30\u202fAM\u20132:30\u202fPM",
+        "tuesday": "6:30\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 233-4871",
+      "website": "http://www.eastburndentistry.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Pediatric care",
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        }
+      ],
+      "user_review": "\"10/10 would recommend.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYHRIoFIJ1v10toJsrR99i14-FSlJLusY86XXevs2XQmF06UUGcA3DW_57QE8v2TQeEd8qv1Fk-ppSWeF-rfP2jzrbXCUI8ZvwaUELmkJy3QN5SYPzmgagM1gaHX1x-5ihyXH8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Pub3rXicHcRdboIwAADgE1VaEFaX7MEoFYgu_EgovhjW1eKkFGmt0wt6Bm9j4vfwPR-tMYP-dJyu9SZCKdHxi-YjU73hvZkwJR0xaMA00M48ytNtJesojxWJE2QRNCrRYz6bHdEUkKJL1hdd44BSbrVLM0lgUJYrNveW1d7_yEJs3W3Gw198toicwDAUFSdgPKTu3338oYsyxjt7bcpwLU_Jzcu-_aJO71I0YoNEE1H0D_xje6MR_roiCCFo3zPQvwC3qkMh"
+    },
+    {
+      "position": 10,
+      "title": "Wildwood Dental",
+      "place_id": "ChIJEVC5XQColVQRmAKV7cmILTQ",
+      "data_id": "0x5495a8005db95011:0x342d88c9ed950298",
+      "data_cid": "3759811664780001944",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a8005db95011%3A0x342d88c9ed950298&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a8005db95011%3A0x342d88c9ed950298&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5894,
+        "longitude": -122.751393
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEVC5XQColVQRmAKV7cmILTQ",
+      "provider_id": "/g/11ggndhhcz",
+      "rating": 4.9,
+      "reviews": 319,
+      "type": "Dental clinic",
+      "types": [
+        "Dental clinic",
+        "Cosmetic dentist",
+        "Dental hygienist",
+        "Emergency dental service",
+        "Teeth whitening service"
+      ],
+      "type_id": "dental_clinic",
+      "type_ids": [
+        "dental_clinic",
+        "cosmetic_dentist",
+        "dental_hygienist",
+        "emergency_dental_service",
+        "teeth_whitening_service"
+      ],
+      "address": "8225 N Lombard St Unit 103, Portland, OR 97203",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20134\u202fPM",
+        "thursday": "7\u202fAM\u20132\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20136\u202fPM",
+        "tuesday": "7\u202fAM\u20132\u202fPM"
+      },
+      "phone": "(971) 413-0761",
+      "website": "https://wildwooddentalpdx.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Quality work and kind/supportive environment from the whole team.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkVEEiGzjzkfVBjsexBpPnNr7YjZwfVm55i6T368pcLVzHWb144I_Q_pryhtxjjYnZfv0JrZAps4Qs9WMHah4bujW3RuTKW97j6AHL_SFJaJM6lKzNxL81w_KXzDTNWgPwDweco9Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ou7vRnicHcRdDoIgAADgE5k6zbKtB1s_pua0nJQvrhhKZMAEw7hhR-g2bX0P3_eDpeRiYZoddiYtY22HBoF6yKhEVE4ge5otFwYUhjCD8JgV4FFuNvedJvrRlCsi0LjiGU372YVUqimf0-ndKxxvzmFS6hDcbNfd13nN-zeWIyEXWjUvK-qrgAs3Fz44hFfs3gYCnONQxMCfES8Ik_q0ja7RwetinY7J3FZ1fNbrIgVtptYKQebnS2VblmXg_9CgP2qBRkQ"
+    },
+    {
+      "position": 11,
+      "title": "Timber Dental",
+      "place_id": "ChIJZSKmKjmnlVQRp70gjHQ0wgc",
+      "data_id": "0x5495a7392aa62265:0x7c234748c20bda7",
+      "data_cid": "559066978919169447",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a7392aa62265%3A0x7c234748c20bda7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a7392aa62265%3A0x7c234748c20bda7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.548402499999995,
+        "longitude": -122.66135539999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZSKmKjmnlVQRp70gjHQ0wgc",
+      "provider_id": "/g/1ptxqtc2q",
+      "rating": 4.7,
+      "reviews": 1382,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Emergency dental service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "emergency_dental_service"
+      ],
+      "address": "3500 NE Martin Luther King Jr Blvd, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20135\u202fPM",
+        "thursday": "8\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20134\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 765-7355",
+      "website": "https://www.timberdental.com/locations/northeast-portland/?ppclid=gmb-neportland",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services",
+            "Pediatric care",
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://book.modento.io/timber-dental-north-east/g/google-schedule-link?rwg_token=AE37R_gabifOQXwxgzD7_cwvnqLUO5pYwVqTm5YsM97YD32K_Bglcihsv6sw4JCusl2ukMMfbnEBSejBYQbImy8lNFS26fAh2g%3D%3D",
+      "user_review": "\"The most thorough consultation I\u2019ve ever had and I felt so listened to.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2XjbvThtAxWbNeTPtMU2mQc7NyUjYbYPshrK7vtgf-w_7OeqH3tWI7SBVXqms28ObTL-Lphb5dayFyIH7kKFV2_SBKEKQQEetKJdqEUxsXLH6HJrp-pSwU3oKa2Ec97RpKr0A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0fLWBnicHcRNjoIwGADQE1WwROtMMgtMMNWigvy6MrZWGgVa6DciJ_QM3sbEt3jvlwIw9tdxauVNKq2rWv5b2QvdgmxhInTjVMYiYZF1fHqI0qLG5Y0_UgX-s-A7mUawzXATC7Ibs9uRHyOrekYeUF3RcCJ72VEPijVJlnnZNRYv9jwNUWgUn13O42pcU3JnqxyfkiULWBwHEtjm0gXZ05YhndNNb5BJhszT7IwD8UMOhvWu_zdMXddF6rtA7QemtkSa"
+    },
+    {
+      "position": 12,
+      "title": "Kennedy Dental",
+      "place_id": "ChIJg6zQAJanlVQRKPgXP6NxuQc",
+      "data_id": "0x5495a79600d0ac83:0x7b971a33f17f828",
+      "data_cid": "556600974909110312",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a79600d0ac83%3A0x7b971a33f17f828&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a79600d0ac83%3A0x7b971a33f17f828&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5769799,
+        "longitude": -122.70306219999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg6zQAJanlVQRKPgXP6NxuQc",
+      "provider_id": "/g/1tcvblzg",
+      "rating": 4.9,
+      "reviews": 447,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental implants provider",
+        "Emergency dental service",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "dental_implants_provider",
+        "emergency_dental_service",
+        "teeth_whitening_service"
+      ],
+      "address": "3506 N Lombard St, Portland, OR 97217",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 4\u202fPM",
+      "hours": "Open \u00b7 Closes 4\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20134\u202fPM",
+        "thursday": "7\u202fAM\u20134\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7\u202fAM\u20134\u202fPM",
+        "tuesday": "7\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(866) 552-4346",
+      "website": "http://www.kennedydentalpdx.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Pediatric care",
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "book_online": "https://book.modento.io/kennedy-dental/g/google-schedule-link?rwg_token=AE37R_g-2w9QAKuQr6F383xSLt3mf46UA_etQZTEE-1i9v6uHVQVEqKTqDruGh6Y5ZfiRxyXomKtvjGF6N0OiK5nzXjPAiKYTw%3D%3D",
+      "user_review": "\"Exceptional level of service from a friendly and first-rate staff!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkE3lvVmPqmn-dyy3ZIhr0E9Wg9kVXtlNXHw_UZ-3bc1B9mKZej6KrpW8e6WH9XVSykF9gzGXjIo5_ZgTFyB9lLKdylSONty_X_deTOScmPpEFueTy9k30VYKsDHnFc_Y_pNyI8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Tt1UxnicHcRdboIwAADgE1VKmhlr4oNmIASDRBgUXppYmhLon7RqugvuDLvNkn0P3-_P5L11-yiSE9oIY4TkT8dXZrTn2m-YUZGwDjAHXHTMblXTLQmSr1ZVD6XBGAIa8mmFCe4EXlriZUmyN_0aALqz-IRVMfB5W6y22_Ftl2HS1mFJsfg-kzk3H3QQTRpOWF6KMcj6WvpACR15c62ZqmySPnkT8IJg2xfuM9Mpoz21Zch3h3cMIQTT_wzoP5t8RWo"
+    },
+    {
+      "position": 13,
+      "title": "Portland Modern Dentistry",
+      "place_id": "ChIJ9Zf06SanlVQRstVP_Ljos34",
+      "data_id": "0x5495a726e9f497f5:0x7eb3e8b8fc4fd5b2",
+      "data_cid": "9129896750814844338",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a726e9f497f5%3A0x7eb3e8b8fc4fd5b2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a726e9f497f5%3A0x7eb3e8b8fc4fd5b2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.560308299999996,
+        "longitude": -122.66183489999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9Zf06SanlVQRstVP_Ljos34",
+      "provider_id": "/g/11h19jvw0h",
+      "rating": 4.6,
+      "reviews": 215,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental hygienist",
+        "Oral surgeon",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_hygienist",
+        "oral_surgeon",
+        "teeth_whitening_service"
+      ],
+      "address": "5175 NE Martin Luther King Jr Blvd Ste 110, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 8\u202fAM",
+      "hours": "Closed \u00b7 Opens 8\u202fAM",
+      "operating_hours": {
+        "wednesday": "8\u202fAM\u20136\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20132\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20137\u202fPM",
+        "tuesday": "8\u202fAM\u20137\u202fPM"
+      },
+      "phone": "(503) 406-1108",
+      "website": "https://www.portlandmoderndentistry.com/?sc_cid=GBP%3AO%3AGP%3A320%3AOrganic_Search%3AGeneral%3Ana&_vsrefdom=organic_gbp&y_source=1_MTIwMzA0MzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "book_online": "https://www.PortlandModernDentistry.com/about-us/dentist-appointment/?sc_cid=GBP_reserve:O:GP:320:Organic_Search:General:na&_vsrefdom=organic_gbp_reserve&y_source=1_MTIwMzA0MzktNzE1LWxvY2F0aW9uLnJlc2VydmF0aW9uX3VybA%3D%3D&rwg_token=AE37R_iYVIJu75eo8eo5A7ADFCxWtxKV0WZJWVeMS97TSt3kZvJIIY_TxXg3ojF2D-ygoWXp18OnXmfr3gqXkdr7z-ankrarwQ%3D%3D",
+      "user_review": "\"Incredibly skilled and personable staff top to bottom.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnkZ44lx_5XS3KuRxMOBUBxZgbNhC0dhw0CaS426KVYAQu88LKzD8pkhikJK9c4L-R_UfSGc5vBQMbyahc4dGFfhWQ-eG-PLUyNvoh7x-mDH1QHbsqtthUjfk_Oz0iYcWURCsaRQA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IuM5qHicHcRNjoIwGADQE1WqVsVJZgEYIYI_LVNRNwQq8ClI0RZFbzhH8DYmvsV7_4PWjfoxjAqGvULKospald2ErHVW656QF6NoFBIKKcPy2OYvqssDIVUXj3bh0G9Zt1zb3O4ORboCBx_hgZ0kJIOxv91btDXNwH_NzKaEU7nwp4IEiMU8D10xutt0mT4TEOToznOIKMpctAn4c3WXMOnQZeb1qZeqq9bAz3kZr1_4tBcRZ45KGLV-H32MMYLvAtUfnVxE5w"
+    },
+    {
+      "position": 14,
+      "title": "Downtown Dental Associates",
+      "place_id": "ChIJ82b9qRwKlVQRleWBKfPhRU0",
+      "data_id": "0x54950a1ca9fd66f3:0x4d45e1f32981e595",
+      "data_cid": "5568104948803167637",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a1ca9fd66f3%3A0x4d45e1f32981e595&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a1ca9fd66f3%3A0x4d45e1f32981e595&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5202002,
+        "longitude": -122.68489969999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ82b9qRwKlVQRleWBKfPhRU0",
+      "provider_id": "/g/1td9_d6v",
+      "rating": 4.9,
+      "reviews": 327,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Dental clinic",
+        "Dental implants provider",
+        "Emergency dental service",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "dental_clinic",
+        "dental_implants_provider",
+        "emergency_dental_service",
+        "teeth_whitening_service"
+      ],
+      "address": "1221 SW Yamhill St #310, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 7:30\u202fAM",
+      "hours": "Opens soon \u00b7 7:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u20134:30\u202fPM",
+        "thursday": "7:30\u202fAM\u20134:30\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u20134:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(503) 227-0958",
+      "website": "https://portlandor.dental/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services",
+            "Pediatric care",
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They were awesome with our adult special needs son.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl0xv1Vi_9l4ErZYRkIS1yOgUOfBAC9e_0EbMUStBbkkRspv1P4qn2prRehBx6aualjHwiSitlatxSdksxVgAnj-NDNbE-lkVGdDr4vJ7i5FNi22b5ArjA4F0y_ncNKxbvSLaOLWQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VMUYqnicHcRRboIwAADQE1UKgy0u8aMozG0Kjk6M-yG0dqW0FtZWrEfcEXYbk72P9_fbOTfa5yBQ3cOMDwNX7GKZoYN2TLsZHc4BHy2gFtgAravd50FBP4W1aOYqzszXsZKvOLyVfF9-p2g5Zw3MyHaPXUqkrOw4hbv4R0ejqViX-sf20qp-fRVYONU6j0_S-poj3YNiVZAMKFm_nFYmnt6eRJIXIopIgkyP4hzeGk2Ld08mvGnLzeFjcQ0hhKD7nwJ9B0QjRio"
+    },
+    {
+      "position": 15,
+      "title": "Mint Dental Works",
+      "place_id": "ChIJxaUXtaOglVQRvpLKOtlHaj4",
+      "data_id": "0x5495a0a3b517a5c5:0x3e6a47d93aca92be",
+      "data_cid": "4497486176202691262",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a3b517a5c5%3A0x3e6a47d93aca92be&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a3b517a5c5%3A0x3e6a47d93aca92be&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5176289,
+        "longitude": -122.65123
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxaUXtaOglVQRvpLKOtlHaj4",
+      "provider_id": "/g/1w111xfq",
+      "rating": 4.9,
+      "reviews": 311,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental implants provider",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "dental_implants_provider",
+        "teeth_whitening_service"
+      ],
+      "address": "1401 SE Morrison St #108, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Opens soon \u00b7 7:30\u202fAM",
+      "hours": "Opens soon \u00b7 7:30\u202fAM",
+      "operating_hours": {
+        "wednesday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20134:30\u202fPM",
+        "thursday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20135\u202fPM",
+        "friday": "7:30\u201311:30\u202fAM, 12:30\u20133\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20134:30\u202fPM",
+        "tuesday": "7:30\u202fAM\u201312:30\u202fPM, 1:30\u20134:30\u202fPM"
+      },
+      "phone": "(503) 254-1323",
+      "website": "https://mintdentalworks.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services",
+            "Pediatric care",
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"They are honest and expert and I don\u2019t trust anyone else.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1WDbDaGJGCLxW6WnbsikKTp9aUVE1ElCV_w9P72afITC8ITTy19bgogEn43yvQKCWnpr6nIh-gcJdy2z4BgeZwCHSl23gVm7T9PouFNUeSj6h7_vm6ZpAQQklYRyKTKpUrohSSg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TK6CkHicHcTdboIwGADQJ6r8GRATL7QyRZYFpNDMGwNd91UtbUNRxt7QR9jbLPFcnL-nGAZjl44jRTADrUHyu-U902rgapgx3TlgLGIWWWe9P-aEdh7dtttmd9jh9x8aUtXayy0jJm6qOvESievzGOeR33ynBC9SQiYvbkFDoubB9CgyTJXpQ5UKBOzwNfm_8w3w04j3pfQDqLuIxLm-v31UvLyGIjo_uvBk1kVxk5_HKSOZqXotyhJWo-e6LhKvGVL_rSxFPQ"
+    },
+    {
+      "position": 16,
+      "title": "Family Dental Health",
+      "place_id": "ChIJxaZbEfsKlVQRSRA-z1qx76E",
+      "data_id": "0x54950afb115ba6c5:0xa1efb15acf3e1049",
+      "data_cid": "11668740163122368585",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950afb115ba6c5%3A0xa1efb15acf3e1049&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950afb115ba6c5%3A0xa1efb15acf3e1049&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4781744,
+        "longitude": -122.6727073
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxaZbEfsKlVQRSRA-z1qx76E",
+      "provider_id": "/g/1thd6cwt",
+      "rating": 4.9,
+      "reviews": 367,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental implants provider",
+        "Emergency dental service",
+        "Oral surgeon",
+        "Pediatric dentist",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_implants_provider",
+        "emergency_dental_service",
+        "oral_surgeon",
+        "pediatric_dentist",
+        "teeth_whitening_service"
+      ],
+      "address": "6333 S Macadam Ave Ste 107, Portland, OR 97239",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "7\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "7\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 977-3400",
+      "website": "https://fdhealth.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The staff are fantastic - not a contest, but Michele is the best .\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk5aJqD5gutsDyn6j2nNTv3GO5bVdpnGyFzt0AFwRa6aNg7vO4iCLCNtKj3msfjf25-oteG96BQoEkA7tXVqe3WyWOD8rEahi0FH-vYv1aL3jyuuMIQLqmxnL2BeID4QM0Fbu4JoQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Fw9A_HicHcRLDoIwFADAE1UqBfwkLkAEPwhijOiyYi2itGBfUbyhR_A2Js5ivp8CoFZjw7gXpMel5HemFXvkUgAT0MtlZfBaoVwhZbjz7WaX3Wy6bHyba1B-J5zSFPGuJWFin_bnWoRd8AbsBs8tdWjMB21iXafRNIZVSSp1KS-mjSSwcOR4qZzd3AEc9g0jWZcl_vAxo8UVB3PUHts-jUjZab1epFFTvURkemzhW-kaBydtLWU6efYxxqj4nyPxA_GhRPM"
+    },
+    {
+      "position": 17,
+      "title": "Portland City Dental",
+      "place_id": "ChIJaSh3fwahlVQRDL-PjJ84Fw4",
+      "data_id": "0x5495a1067f772869:0xe17389f8c8fbf0c",
+      "data_cid": "1015342498904522508",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1067f772869%3A0xe17389f8c8fbf0c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1067f772869%3A0xe17389f8c8fbf0c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5213782,
+        "longitude": -122.58126
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaSh3fwahlVQRDL-PjJ84Fw4",
+      "provider_id": "/g/1tywxnxn",
+      "rating": 4.9,
+      "reviews": 137,
+      "type": "Dentist",
+      "types": [
+        "Dentist",
+        "Cosmetic dentist",
+        "Dental clinic",
+        "Dental hygienist",
+        "Dental implants provider",
+        "Denture care center",
+        "Emergency dental service",
+        "Teeth whitening service"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist",
+        "cosmetic_dentist",
+        "dental_clinic",
+        "dental_hygienist",
+        "dental_implants_provider",
+        "denture_care_center",
+        "emergency_dental_service",
+        "teeth_whitening_service"
+      ],
+      "address": "138 SE 80th Ave, Portland, OR 97215",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 12:30\u202fPM",
+      "hours": "Closed \u00b7 Opens 12:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "12:30\u20134:30\u202fPM",
+        "thursday": "Closed",
+        "friday": "7\u202fAM\u20132\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "9\u202fAM\u20134\u202fPM"
+      },
+      "phone": "(503) 256-7917",
+      "website": "https://www.portlandcitydental.net/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Emergency services"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"10 out of 10 recommend.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnbEfQbzCz0fdGgw2caLDHAlPu6yVI12bWP5BsY39n-I8MLjF41AQDZwKb4ZpWOGbkRcEakLVeNAohaHdo7LXHtI6YCrc8gV4gvj66gf7XHx5d11qnfy49O-sWJ_rTG-ryrKQik8g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/siPRq3icHcThEoEwAADgJ5oaSdz5kdAilHMlf1xbtShbtpG8oUfwNu58P77vp1SqkRNNq8tBj3JO6_whc0E4UzlTPcJvGm0kIBJIzUb74BAzvChC_HbeepG5tO2T1J8juw4eZhd5sI_jYDiTyWDMgGdt_OvSgHY4P7VrbJyaeOfiak8WaeVH-dbmZYoyPvKPSHlm4ghi0cigz6tp0mJ0RK9hBuGdFZ0x3gEZr87i4ALRiXV4qSw6baGu66D8TwD7AYbcREo"
+    },
+    {
+      "position": 18,
+      "title": "Daydream Dental",
+      "place_id": "ChIJB9GIW-eglVQRBapjLpFj94M",
+      "data_id": "0x5495a0e75b88d107:0x83f763912e63aa05",
+      "data_cid": "9509178613415782917",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0e75b88d107%3A0x83f763912e63aa05&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0e75b88d107%3A0x83f763912e63aa05&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.526745899999995,
+        "longitude": -122.61257859999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB9GIW-eglVQRBapjLpFj94M",
+      "provider_id": "/g/1vcjlzbn",
+      "rating": 5,
+      "reviews": 308,
+      "type": "Dentist",
+      "types": [
+        "Dentist"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist"
+      ],
+      "address": "4901 NE Glisan St, Portland, OR 97213",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 3:30\u202fPM",
+      "hours": "Open \u00b7 Closes 3:30\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20133:30\u202fPM",
+        "thursday": "7\u202fAM\u20133:30\u202fPM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20134:30\u202fPM",
+        "tuesday": "8\u202fAM\u20134:30\u202fPM"
+      },
+      "phone": "(503) 231-1644",
+      "website": "http://www.daydreampdx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services",
+            "Pediatric care",
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "book_online": "https://flexbook.me/daydream?rwg_token=AE37R_hkKeeSzfpSC-53w7ZML6a1euEDVEo7mhMsqn8MXLs2nb0pP-mzWfhKCbYz_lWa5KSvM9lMtuvZ0ixnZHphI_4GGmUvkA%3D%3D",
+      "user_review": "\"Tammy, Sharon, and Dr. Johnson are the dream team for teeth.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljCVD0jYrA-ZgV7dwdyT07E7ZlbgzjfizCBjytUluKtqtxm5-_Kf7gvZNAFoKVtcy1o5-JX8lTNH9LRc6q6eknvKQKAI99--k_rsmsHxJmua1p7FycHHsIGkv1sUlzB-bT-3DqjQ3-VRJ3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/O5wcI3icHcTRboIwFADQL7pSQrRjyR5Qp5UaMwmi48VoxWIpFLgFhZ_c8_5myc7D-f3Jra3x3XF07k2kMVJnHWatMJXNKjsRpnRkjSAQ0AlY9BUftVokS6K-2wBSmdDb8zbEhH7SVF_lqO6PcTFXgz3ojtvGvsopnPmdyj7dBSvDEysG10whPL3peMf8bSRmzSwrqp7vebDxfYDi3GKJ7BWW3cWt6WoQjOFmXfQuHvQ4h2sM3rJRew-SKPQ-ni4hBPL_BVR_60BHcA"
+    },
+    {
+      "position": 19,
+      "title": "Alameda Dental..",
+      "place_id": "ChIJi53_FS-nlVQRnadAXBAWcgU",
+      "data_id": "0x5495a72f15ff9d8b:0x57216105c40a79d",
+      "data_cid": "392400377057683357",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a72f15ff9d8b%3A0x57216105c40a79d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a72f15ff9d8b%3A0x57216105c40a79d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5477876,
+        "longitude": -122.6406576
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi53_FS-nlVQRnadAXBAWcgU",
+      "provider_id": "/g/1tf7xf6h",
+      "rating": 5,
+      "reviews": 126,
+      "type": "Dentist",
+      "types": [
+        "Dentist"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist"
+      ],
+      "address": "2422 NE Fremont St, Portland, OR 97212",
+      "country": "United States",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "(844) 817-0343",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Pediatric care"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "user_review": "\"5-star highly recommend!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmtn1u6lEOkxtq72qLWMtU0wIZ9s0iwHmqL5Bw8ETBlF2xbLwgUFNhDDPZRncFtbJdHWIJJWDMrl6btRfsi__2UuLt28GZO8NhEEcFSRsVvavm5oPbkUAkP4A1Q1JQHsiGKlVMr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3mQBI3icHcRLDoIwFADAEyEFf2jiAgOICIookrAxUpESSiu8h_WGnsHbmDiL-X4Y4hOWus7ZeFRJWfFygLKnUmApcERlq1dP0ChooNt-Ep-zFoUxzLh7aN7Yzc0uzCJMidrmCyC18tsunK6V5Z7X3DPfRaiq1Nszx4nzRFAPi-DuZ9sgyJyo57MCkwfU16uZDiGa1iY_WHvmutQ7JXB53V7tVMZFk9pNPLGNoxEcfag3O36J-pUyCCEa-0818QOF5US-"
+    },
+    {
+      "position": 20,
+      "title": "Five Pines Dental",
+      "place_id": "ChIJOx8wsQYKlVQRZKmaXYH4eLQ",
+      "data_id": "0x54950a06b1301f3b:0xb478f8815d9aa964",
+      "data_cid": "13004417158537193828",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a06b1301f3b%3A0xb478f8815d9aa964&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a06b1301f3b%3A0xb478f8815d9aa964&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.522192,
+        "longitude": -122.676087
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOx8wsQYKlVQRZKmaXYH4eLQ",
+      "provider_id": "/g/11by_x9423",
+      "rating": 4.8,
+      "reviews": 278,
+      "type": "Dentist",
+      "types": [
+        "Dentist"
+      ],
+      "type_id": "dentist",
+      "type_ids": [
+        "dentist"
+      ],
+      "address": "555 SW Oak St Ste A, Portland, OR 97204",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 5\u202fPM",
+      "hours": "Open \u00b7 Closes 5\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u20135\u202fPM",
+        "thursday": "7\u202fAM\u20135\u202fPM",
+        "friday": "8\u202fAM\u20135\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8\u202fAM\u20135\u202fPM",
+        "tuesday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 482-2160",
+      "website": "https://www.fivepinesdental.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Cosmetic dentistry",
+            "Emergency services",
+            "Sedation dentistry"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Payment plans"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://flexbook.me/fivepines?rwg_token=AE37R_jklaKqk641hlNNvxqqMAugfHUaES1EjzJAGXBErips7Cnh1UtIWxpHbza5ITUw12kBmfn3PvbQLfx0zHcH6HAVs_ay5A%3D%3D",
+      "user_review": "\"The massage chair is the cherry on top \ud83e\udd0c\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlLmqBq7OpufuJ0cRCKNaLgNjp1BvKK7NAq-zYRXq_EL33Csz7R8LmJAKxUV_SYWOPZd-ifmy8-6oSoS9QkFe8rOrc87_PO4hoaIMCFB7rTnb1SpIYZyQeAtJImbYemCG7idwo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MeEXeHicHcRJDoIwAADAF1UgGIsmHoCIsggIbnAhUCuglBZaXHigf_A3Js5hvp9KCMYXktRU6qSktGzwwHGPaCtwKyaIEqlkHCAOuKRvonB_ajzSGR0M2HAdHBlFpuvnXunfmGI8XBf6egfGJDp32cpTVZOPMNI84uju63DM4uQUhOkF1Ffy1sCMxjSe7-4W1vqgRxrMwmBa0dzempYB-31bKDGzk_S9w7pwbFIkmJhrWF-edPlUZFkG1X8E2h_z6kQF"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+dentist+in+Portland%2C+OR&start=20&type=search"
+  }
+}

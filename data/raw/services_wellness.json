@@ -1,0 +1,2007 @@
+{
+  "search_metadata": {
+    "id": "6a4e586530239426c3af7c34",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZzObv4z7kOWr8QdrUtoV2A/6a4e586530239426c3af7c34.json",
+    "created_at": "2026-07-08 14:02:13 UTC",
+    "processed_at": "2026-07-08 14:02:13 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/best+spa+massage+Portland%2C+OR//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/ZzObv4z7kOWr8QdrUtoV2A/6a4e586530239426c3af7c34.html",
+    "prettify_html_file": "https://serpapi.com/searches/ZzObv4z7kOWr8QdrUtoV2A/6a4e586530239426c3af7c34.prettify",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "best spa massage Portland, OR",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "best spa massage Portland, OR"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Luxe Massage & Spa ~ Portland",
+      "place_id": "ChIJ0y59NcgJlVQRyBsFs5-3nZk",
+      "data_id": "0x549509c8357d2ed3:0x999db79fb3051bc8",
+      "data_cid": "11069205355677686728",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509c8357d2ed3%3A0x999db79fb3051bc8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509c8357d2ed3%3A0x999db79fb3051bc8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5252962,
+        "longitude": -122.6946603
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0y59NcgJlVQRyBsFs5-3nZk",
+      "provider_id": "/g/11n09fqdxj",
+      "rating": 4.6,
+      "reviews": 145,
+      "type": "Massage spa",
+      "types": [
+        "Massage spa",
+        "Aromatherapy service",
+        "Day spa",
+        "Massage therapist",
+        "Reflexologist",
+        "Skin care clinic",
+        "Spa"
+      ],
+      "type_id": "massage_spa",
+      "type_ids": [
+        "massage_spa",
+        "aromatherapy_service",
+        "day_spa",
+        "massage_therapist",
+        "reflexologist",
+        "skin_care_clinic",
+        "spa"
+      ],
+      "address": "325 NW 21st Ave, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 10\u202fPM",
+      "hours": "Open \u00b7 Closes 10\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201310\u202fPM",
+        "thursday": "7\u202fAM\u201310\u202fPM",
+        "friday": "7\u202fAM\u201310\u202fPM",
+        "saturday": "7\u202fAM\u201310\u202fPM",
+        "sunday": "7\u202fAM\u201310\u202fPM",
+        "monday": "7\u202fAM\u201310\u202fPM",
+        "tuesday": "7\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 300-8755",
+      "website": "https://www.theluxemassage.com/",
+      "description": "Spa featuring relaxation and therapeutic massages, including couples sessions, hot stones, and cupping.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "outdoor_services": true
+      },
+      "user_review": "\"50 min massage and I felt like a new man with a new hope for life!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE_B3RFwSqEhJj32qmiDUUj6HDxLNnG6ghvNrPlQTgwSPguTz0EJTUb5eA8glfT1HsMta98oo2kZgaYEDzy6HgEk-FFArK23RstgRyR99PrRKXcqVXpNehdFaKU6gozFGTZm4SQadk7J0WP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QKZAe3icHcTdToMwGADQJ-roYOIw8QJDOwJKSim67cYgq18dPwXaieMld-3bmHguzu9NWTuYB8dplbcCraGVFyOnWvdW9nZV686BwaDaIOOELMubkLw_eZzOxUhUcvbcsfuKyvLsx9HPc9bvfFDf2cTaXMBcMLiIBZNElB93MtxC-ynWsXmxVbDV2m2OUB1ItFz9GEiDKA2n1PW4scCvPAjYxNN9Pb7uh0yqE63S0ge90J04dpsir07NfYLf2OO8xhgj9X-N-j-eR0dD"
+    },
+    {
+      "position": 2,
+      "title": "Kanani Pearl Spa",
+      "place_id": "ChIJTWkddP4JlVQR-yKa5wCpvNw",
+      "data_id": "0x549509fe741d694d:0xdcbca900e79a22fb",
+      "data_cid": "15905773805316481787",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509fe741d694d%3A0xdcbca900e79a22fb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509fe741d694d%3A0xdcbca900e79a22fb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5309111,
+        "longitude": -122.6825722
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTWkddP4JlVQR-yKa5wCpvNw",
+      "provider_id": "/g/1vhlxx2t",
+      "rating": 4.7,
+      "reviews": 62,
+      "type": "Day spa",
+      "types": [
+        "Day spa"
+      ],
+      "type_id": "day_spa",
+      "type_ids": [
+        "day_spa"
+      ],
+      "address": "1111 NW Marshall St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "Closed",
+        "friday": "10\u202fAM\u20135\u202fPM",
+        "saturday": "10\u202fAM\u20135\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 242-5500",
+      "website": "http://www.kananipearl.com/",
+      "description": "Relaxed day spa for facials & massage. Serene setting for facials, Hawaiian & Swedish massage, body treatments & other spa services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Every penny is worth the quality of massage here.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfsp9NxgvDBnM6DuzPHvKp7VFBozw1mMJnHXH9Te0IA70WWL8Y4e9uJ8EjJGChAHMpfp7cP21GlN0-tTNagtUtkd5YTYLoAFheRjANCKmckz_tdIr5q8XWc32WqBgbR_2kYiwe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZlHsb3icHcRdDoIgAADgE5FoP2pbD1iZWTJrlvnUighKBQrM5gU7Q7dp63v4vh9ujNJjy6p4v8ekZBVtNH0SKQwVpkdkbTGlAdFAWyjFmxKFV618_GavWSCS0azp0ui1Uu4-DGTX2nUSi-gQ-RmFS-TCPF97xYD6TezN7_FiylGUqKtySerYiwpDYDJ8YmZnysuwyIq1RCGn2zvC01VNyu5oLsvn8OEdctJ38kfAztujUxa3lk5aG0II-H8CxA8cNkQh"
+    },
+    {
+      "position": 3,
+      "title": "Spa Sass\u00e9",
+      "place_id": "ChIJH2CtWQQKlVQR3T21Rhzv1b8",
+      "data_id": "0x54950a0459ad601f:0xbfd5ef1c46b53ddd",
+      "data_cid": "13823217536008011229",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a0459ad601f%3A0xbfd5ef1c46b53ddd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a0459ad601f%3A0xbfd5ef1c46b53ddd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5198106,
+        "longitude": -122.67903489999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH2CtWQQKlVQR3T21Rhzv1b8",
+      "provider_id": "/g/1tghcvwf",
+      "rating": 4.7,
+      "reviews": 493,
+      "type": "Day spa",
+      "types": [
+        "Day spa",
+        "Medical spa"
+      ],
+      "type_id": "day_spa",
+      "type_ids": [
+        "day_spa",
+        "medical_spa"
+      ],
+      "address": "630 SW Alder St, Portland, OR 97205",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20136\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 228-8266",
+      "website": "http://www.spasasse.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna",
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Membership",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.vagaro.com/googlemap/U2FsdGVkX1~UeIXOuWcH8J~mOrJtrKB4hIAlVdBAakg=/services?rwg_token=AE37R_hFLdThithQedEDjNEUFWRIz2WiNcJ4L0mMcL6RIHBAqWzzvupuxhHfnULBfnX3aEz6GIXW0b1V39AU1J8LbRQXonIvkA%3D%3D",
+      "user_review": "\"The massage was skillful and relaxing and she has a soothing presence.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzMkZhT0KYghIJIERFFa0nZpA5Vmclnp6WaY-mXYfL9lUJh3oEFe6r_fDBAQcxG2ufe9VWIbRMF1RGrGc2ox-5dscPEz7GDKJY-uLxuyqNPy5o8vsfUyulciN2MmCDMvNdto95j5VWSq3d=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/i7mDunicHcTdboIwGADQJ6pUSJ0s2QUbPwGFIJswvFncR6FqaZG2DnxJr_c2S3Yuzu-DaT2oZ8vizFl0UnacGkVHkEJToRcge6sbFAKFlOXl2e7iBff0cmAfeFN3LE7ioAjDIxaHwSNlD1wMq-pYo_6zbrcu3yfMkUFIV-NX6796O5gi27TULav4u0jDZRGNEdhyQqRRkAf3p8jfJDUy28nM1yyfiVzfVLufDYdTZqf9m5_eskZLl5xJWb1fneblZ4kxRux_QOIPhmlHYw"
+    },
+    {
+      "position": 4,
+      "title": "Mio Zen Massage and SPA",
+      "place_id": "ChIJWbYftvwLlVQRxFEZBWyLFkg",
+      "data_id": "0x54950bfcb61fb659:0x48168b6c051951c4",
+      "data_cid": "5194492516276720068",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950bfcb61fb659%3A0x48168b6c051951c4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950bfcb61fb659%3A0x48168b6c051951c4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.460219099999996,
+        "longitude": -122.7089582
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWbYftvwLlVQRxFEZBWyLFkg",
+      "provider_id": "/g/11w1qf3db8",
+      "rating": 4.9,
+      "reviews": 433,
+      "type": "Massage spa",
+      "types": [
+        "Massage spa"
+      ],
+      "type_id": "massage_spa",
+      "type_ids": [
+        "massage_spa"
+      ],
+      "address": "9045 SW Barbur Blvd #117, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(971) 351-8366",
+      "website": "https://miozenmassage.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Membership",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Deep tissue massage felt amazing and the prices are reasonable :)\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-I6aNOGJ2v0bIUexljhmZiF7_vwG4INeVLPYO6go8Ylw245zFZYVZYHWg4BMvzwsj4GdS4b9UVzapD-GcqMkNA_R9tfqGmry7oO4Y7uuBX1Ogo7BEwd-_uvpKfR9fKJPIHxvHjwhvQJFl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3uB2QHicHcTBboIwAADQL6qg62Qs2QGyUcAJ6CJbuRCtpR0Wira0yk_u7N-Y7B3e_Y9rPahXxxH8acakZIKOil6I7DXt9YzIzmGDAkQB5QRFtjkFEUiW-yxH6cK4h2RHr6LlXfUbebWxCCYZLT8LnC-ZfMHCLuDzFFW4rHD8zWC4NpNVLUTHL3jwd-W0H94BIuf1KQvqra-bM-ouN0_mEHvjGP7Mcya98MMeQT2aYdVs_WaVFkl8NXFrudmkkXizc9d1Af-fgP4Be-9Hlw"
+    },
+    {
+      "position": 5,
+      "title": "The Dragontree Holistic Day Spa",
+      "place_id": "ChIJu25JHekJlVQRNnzgJnBMoAY",
+      "data_id": "0x549509e91d496ebb:0x6a04c7026e07c36",
+      "data_cid": "477465605073566774",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509e91d496ebb%3A0x6a04c7026e07c36&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509e91d496ebb%3A0x6a04c7026e07c36&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5352446,
+        "longitude": -122.70816629999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu25JHekJlVQRNnzgJnBMoAY",
+      "provider_id": "/g/1tgdc3g2",
+      "rating": 4.7,
+      "reviews": 272,
+      "type": "Day spa",
+      "types": [
+        "Day spa",
+        "Massage therapist"
+      ],
+      "type_id": "day_spa",
+      "type_ids": [
+        "day_spa",
+        "massage_therapist"
+      ],
+      "address": "2768 NW Thurman St, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20138:15\u202fPM",
+        "thursday": "10\u202fAM\u20138:15\u202fPM",
+        "friday": "10\u202fAM\u20138:15\u202fPM",
+        "saturday": "10\u202fAM\u20138:15\u202fPM",
+        "sunday": "10\u202fAM\u20138:15\u202fPM",
+        "monday": "10\u202fAM\u20138:15\u202fPM",
+        "tuesday": "10\u202fAM\u20138:15\u202fPM"
+      },
+      "phone": "(503) 221-4123",
+      "website": "https://thedragontree.com/pages/dragontree-spas",
+      "description": "Spa offering a variety of massages plus saunas, showers, and foot soaks.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna",
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Friendly staff, good massage, nice ambiance, good amenities and sauna.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFz8eZN8Uo1q3S7yQVsSZfCujKmw5ds25gVMHaUEsdV-6UJm0B2imUsq98TTmasd_rg2H-EZlpbY93Gc6ZyuJAGWCf6itY5ucOI_Uzgr0QckARX6YMk1ICqnDChdTRn_cO3Q6naqg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3M0zEnicHcRLroIwFADQFVUKhIomDhD_xg9KUZgQLFgU2gK3xOgO3xLczUs8g_P9K7VuYGwYdWkPuFK8LnooOqakLqQeMCUM3gBigMDwjvug8hYft0j2LlVma5-H7yCCc3L3--dWvJwcLIdHu1VG55BHiNCNwFPrISi0IzcMRQZ52nFrheZJ3dzikb1kJHn3G2958e_koWOnZ4d1Sj-8wwGrvNOVxLvKXPutnPllHp5kyg52QGTW8snLxBij8jdD8h_MfEUR"
+    },
+    {
+      "position": 6,
+      "title": "Zama Massage Therapeutic Spa",
+      "place_id": "ChIJ84D1rsuglVQRlDoBnDprWIg",
+      "data_id": "0x5495a0cbaef580f3:0x88586b3a9c013a94",
+      "data_cid": "9824720486578338452",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0cbaef580f3%3A0x88586b3a9c013a94&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0cbaef580f3%3A0x88586b3a9c013a94&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5351596,
+        "longitude": -122.6436964
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ84D1rsuglVQRlDoBnDprWIg",
+      "provider_id": "/g/1jkxbl9_g",
+      "rating": 4.7,
+      "reviews": 524,
+      "type": "Day spa",
+      "types": [
+        "Day spa",
+        "Facial spa",
+        "Massage spa",
+        "Massage therapist",
+        "Skin care clinic",
+        "Spa",
+        "Sports massage therapist",
+        "Waxing hair removal service"
+      ],
+      "type_id": "day_spa",
+      "type_ids": [
+        "day_spa",
+        "facial_spa",
+        "massage_spa",
+        "massage_therapist",
+        "skin_care_clinic",
+        "spa",
+        "sports_massage_therapist",
+        "waxing_hair_removal_service"
+      ],
+      "address": "2149 NE Broadway, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20139\u202fPM",
+        "thursday": "9\u202fAM\u20139\u202fPM",
+        "friday": "9\u202fAM\u20139\u202fPM",
+        "saturday": "9\u202fAM\u20139\u202fPM",
+        "sunday": "9\u202fAM\u20139\u202fPM",
+        "monday": "9\u202fAM\u20139\u202fPM",
+        "tuesday": "9\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 281-0278",
+      "website": "http://www.zamamassage.com/",
+      "description": "Spa offering a range of massages, facial treatments and foot treatments, plus salt-cave therapy.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Membership",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"We left feeling very relaxed, especially after our wonderful massage.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECwTqktv-u9J_HyU8xpMFRfoEzMUs0tZBMx225kxsOGIhq8SrYXmj950YiAcWDcWVgHfpoAH2nLMdG1pLriIehcsSjzhl9s08eIn_FNY_gADL4Jcf9LHEhzkmjw5n7e8y7_hY8Sg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cUA6qnicHcRLcoIwGADgE0Uiyhg600VUFBywrfiiGxZpSOSRRP4oyA09grfpjN_iez2ltQY-HKeWk5HQWtT8BrxlWlmu7IjpxhEGEAMEDv3e_lQ0WHT7a2Xv6OZv8vBxIL1JVrtCB0NyAGx_50nvul7Vw9c6kleSttm5KX0PZxfKTkt2OoqwMJqGroqTv_XYxO0l4pJBWg6y9gETHql8tc1yQZfxdMMKPw4DOVRN2XlqxsljlsuMpOKzG2OMkXzPkPoHO1tGBQ"
+    },
+    {
+      "position": 7,
+      "title": "Rose City Remedy Massage & Spa",
+      "place_id": "ChIJVTRpdQGhlVQR3ZonajVDuHM",
+      "data_id": "0x5495a10175693455:0x73b843356a279add",
+      "data_cid": "8338488606769781469",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a10175693455%3A0x73b843356a279add&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a10175693455%3A0x73b843356a279add&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.517429799999995,
+        "longitude": -122.6573901
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVTRpdQGhlVQR3ZonajVDuHM",
+      "provider_id": "/g/11ym08lcrp",
+      "rating": 5,
+      "reviews": 38,
+      "type": "Massage spa",
+      "types": [
+        "Massage spa",
+        "Day spa",
+        "Massage therapist",
+        "Wellness center"
+      ],
+      "type_id": "massage_spa",
+      "type_ids": [
+        "massage_spa",
+        "day_spa",
+        "massage_therapist",
+        "wellness_center"
+      ],
+      "address": "819 SE Morrison St Ste 314, Portland, OR 97214",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 1\u202fPM",
+      "hours": "Closed \u00b7 Opens 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "1\u20137\u202fPM",
+        "thursday": "1\u20137\u202fPM",
+        "friday": "1\u20137\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10\u202fAM\u20135\u202fPM",
+        "tuesday": "Closed"
+      },
+      "phone": "(503) 974-6002",
+      "website": "https://rosecityremedy.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"I left feeling so refreshed, relaxed, and noticeably lighter.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGodfqDI2jil3Cm434hAf7sqH7tHzmV46t9R9drzlYM12Zb4GSwsbGlWuqHMsFfEYb_gEFwbExbvbciyks--B2L5YCvyJVK_CkahIrrS2VBbqIRxd790xGxJ_CG1kqO4Lq1rnC_OcTwORbR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FSj_NXicHcTbToMwGADgJ-o4VQkmXrDKCnMTZQaDN8SWQyeFrv27wfaSXvs2Jn4X3--PsPYED44jRbDqleple4bWcDXZdrIrrkanPwHigMCJX1_ehpiqptNPmf99lAEZcYBF3IWg09Cmt7HE9zYqosbcZLX3_E-G6WEGRuXHWad72HRJxeo-2cwsWdiF8eN1AITW_u6uIpfrtnyuyfAlMmMOfrlmOiuWJozchS7bmlBv0Dneac9MpM75-5wXrHicPdd1kfifo-kPtSRHqQ"
+    },
+    {
+      "position": 8,
+      "title": "Knot Springs",
+      "place_id": "ChIJB9valqiglVQRYZgiKdVoL0I",
+      "data_id": "0x5495a0a896dadb07:0x422f68d529229861",
+      "data_cid": "4769145795136100449",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0a896dadb07%3A0x422f68d529229861&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0a896dadb07%3A0x422f68d529229861&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5234981,
+        "longitude": -122.66294359999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB9valqiglVQRYZgiKdVoL0I",
+      "provider_id": "/g/11c5b449fl",
+      "rating": 4.4,
+      "reviews": 687,
+      "type": "Spa and health club",
+      "types": [
+        "Spa and health club",
+        "Day spa",
+        "Fitness center",
+        "Gym",
+        "Massage spa",
+        "Massage therapist",
+        "Personal trainer",
+        "Physical fitness program",
+        "Skin care clinic"
+      ],
+      "type_id": "spa_and_health_club",
+      "type_ids": [
+        "spa_and_health_club",
+        "day_spa",
+        "fitness_center",
+        "gym",
+        "massage_spa",
+        "massage_therapist",
+        "personal_trainer",
+        "physical_fitness_program",
+        "skin_care_clinic"
+      ],
+      "address": "33 NE 3rd Ave Apt 365, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Open \u00b7 Closes 11\u202fPM",
+      "hours": "Open \u00b7 Closes 11\u202fPM",
+      "operating_hours": {
+        "wednesday": "7\u202fAM\u201311\u202fPM",
+        "thursday": "7\u202fAM\u201311\u202fPM",
+        "friday": "7\u202fAM\u201311\u202fPM",
+        "saturday": "7\u202fAM\u201311\u202fPM",
+        "sunday": "7\u202fAM\u201311\u202fPM",
+        "monday": "7\u202fAM\u201311\u202fPM",
+        "tuesday": "7\u202fAM\u201311\u202fPM"
+      },
+      "phone": "(503) 222-5668",
+      "website": "https://www.knotsprings.com/",
+      "description": "Upscale fitness studio & day spa. High-end health club with yoga, Pilates, TRX & HIIT classes as well as a pool/sauna area & massage.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor services",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna",
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Membership",
+            "Online scheduling",
+            "Restroom",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "outdoor_services": true,
+        "onsite_services": true
+      },
+      "user_review": "\"I left feeling rejuvenated, refreshed, and completely pampered.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6yp3n6Shkobg28gtU1tij0Pan_frM_r8N89YxZdjinptdR_rQqwo8g4hkJ1VAWAFrzKRvEfVdeUKc0ArA_JutL_71kJBIIFMy-vpZQceJk7iuKoCDgs9iBcjoWUFLqcQc-4UWKg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z0dVdHicHcTdzsEwGADgK6p1CCNxUD8LG2K-zMJJw7tqt9JW2_n57tAluBuJ5-D5vIX3xg2D4CI6La41v7DGMQtaeaZ8C_Q14MYhcMgFZLPOJJn3Xqajen9C6hNvR9znoa9qvDkqerYraqN1NNg_D2VdKePLLbXZ7aEj3hUyCXekILH9T7f32XlXsjwFTCyhSeOXtB_KZLxYxKsXuptDBiyR_apJ9WTK3aAaQ62LPF7eIAPUzYuUjx4hxhiJ34DUF2jZRmA"
+    },
+    {
+      "position": 9,
+      "title": "Blooming Moon Wellness Spa",
+      "place_id": "ChIJNcNqk3SnlVQRbTJCfX9iS1U",
+      "data_id": "0x5495a774936ac335:0x554b627f7d42326d",
+      "data_cid": "6146114416179032685",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a774936ac335%3A0x554b627f7d42326d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a774936ac335%3A0x554b627f7d42326d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.552320599999994,
+        "longitude": -122.68152479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNcNqk3SnlVQRbTJCfX9iS1U",
+      "provider_id": "/g/1tkl30fm",
+      "rating": 4.7,
+      "reviews": 253,
+      "type": "Day spa",
+      "types": [
+        "Day spa",
+        "Facial spa",
+        "Gift shop",
+        "Massage therapist",
+        "Nail salon"
+      ],
+      "type_id": "day_spa",
+      "type_ids": [
+        "day_spa",
+        "facial_spa",
+        "gift_shop",
+        "massage_therapist",
+        "nail_salon"
+      ],
+      "address": "1417 N Shaver St, Portland, OR 97227",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20138\u202fPM",
+        "friday": "10\u202fAM\u20138\u202fPM",
+        "saturday": "10\u202fAM\u20138\u202fPM",
+        "sunday": "10\u202fAM\u20138\u202fPM",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(971) 279-2757",
+      "website": "http://www.bloomingmoonspa.com/",
+      "description": "Eco-friendly day spa offering massages, body scrubs, facials, and pedicures.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "offerings": [
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Membership",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"We came in for massages and they were incredible - very personalized.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJIngtUjwbC3-QWPxOuCRTHcKvYmjTy-IHlxQv6K4WeEH7Z5h1sGGD0AgsTFPlLqlcLn--pXzsrQZmE55QijeTBTIJeA7qlPn-vBT7OlXwIlmDjpuzrlgak4khWaXyW1khBv0XGQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SLAR1HicHcRLDoIwFADAEz0pUSQxcQF-ADVKTQ3oTpumFR4FaQH1hh7B25g4i_l-lLWNmTkOqvFI1rVE0RnR8lpboe2I15UjGwPcgHGCdE_LYL1JtLSnYrgtxkCz9HnoFkcW821_rgr2giTGJ-2n20kmVrF_8ZRromhJAmnYOsXdA_lOAzT527T0Uq08j94LwUKWbETgPzDV0IfMP2A-JFgti6Z7tyiv5aRU2TV_ZW6pwp7kEZ0PLiEE1H8O-gcBIUX8"
+    },
+    {
+      "position": 10,
+      "title": "Xenana Spa and Wellness",
+      "place_id": "ChIJ9_xPgXgKlVQRK57o5ivzzyo",
+      "data_id": "0x54950a78814ffcf7:0x2acff32be6e89e2b",
+      "data_cid": "3084951639655226923",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950a78814ffcf7%3A0x2acff32be6e89e2b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950a78814ffcf7%3A0x2acff32be6e89e2b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5032723,
+        "longitude": -122.6450412
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9_xPgXgKlVQRK57o5ivzzyo",
+      "provider_id": "/g/1td768n5",
+      "rating": 4.8,
+      "reviews": 128,
+      "type": "Facial spa",
+      "types": [
+        "Facial spa",
+        "Beauty product supplier",
+        "Day spa",
+        "Massage therapist"
+      ],
+      "type_id": "facial_spa",
+      "type_ids": [
+        "facial_spa",
+        "beauty_product_supplier",
+        "day_spa",
+        "massage_therapist"
+      ],
+      "address": "2024 SE Clinton St, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20135\u202fPM",
+        "thursday": "10\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "11\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 238-6262",
+      "website": "https://xenanaspa.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Membership",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://www.mindbodyonline.com/explore/locations/zenana-center-for-well-being?rwg_token=AE37R_iQIyBs1UVWkoeYcXRXaLrPTswgneFB52WE-SYpGopvcaQ4v1AM9b4_gJl1s-5oOe40ZL2i63qi2SMm24EfkU8WO3p_GA%3D%3D",
+      "user_review": "\"75 min massage is perfect and you leave in a state of pure zen.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHJ9mW2e9UsxutOlhj1PBd7PixFPuEo4sn3AVb7DrazzrdX2fL3MpvLK9NW4LgnH67226OaMQMBzUBDKJ9sSSDvFPWHpxaE6gwhc3PUnlngeMowUnQ4O9GDI2fWzTlD1UWGM57K=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QxljkXicHcRRboMgAADQE1kVrYYl-9DQ1lWpmI6xX0cpdKNgBKvxgjvDbrOk7-P9_SrvB_cShlolG2mt1GJyYuTWeGH8htt7KAcXcBe4sCCn7qeojvDOgIDULZNvtfqOSXnJyW3Zk2lnU2eS4uMrR2O_ruPlE1ybBA-PpoYnljbSVFkOQNb2uMPlSktUH6E7n9FjT1g1LP0uk7PiCaFGGymwnanp0hYe0Bu4svVdo5iyA97m9escR1EUqOc8MP8zpkOm"
+    },
+    {
+      "position": 11,
+      "title": "Luna Wellness Spa",
+      "place_id": "ChIJ3cToE_6mlVQRvv7ydoXvKn0",
+      "data_id": "0x5495a6fe13e8c4dd:0x7d2aef8576f2febe",
+      "data_cid": "9019284560268164798",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a6fe13e8c4dd%3A0x7d2aef8576f2febe&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a6fe13e8c4dd%3A0x7d2aef8576f2febe&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5484948,
+        "longitude": -122.615771
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3cToE_6mlVQRvv7ydoXvKn0",
+      "provider_id": "/g/1ptzy_t2_",
+      "rating": 4.9,
+      "reviews": 156,
+      "type": "Massage spa",
+      "types": [
+        "Massage spa",
+        "Acupuncturist",
+        "Craniosacral therapy",
+        "Women's health clinic",
+        "Pregnancy care center",
+        "Wellness center"
+      ],
+      "type_id": "massage_spa",
+      "type_ids": [
+        "massage_spa",
+        "acupuncturist",
+        "craniosacral_therapy",
+        "obstetrics_gynecology_clinic",
+        "pregnancy_care_center",
+        "wellness_center"
+      ],
+      "address": "4605 NE Fremont St #209C, Portland, OR 97213",
+      "country": "United States",
+      "phone": "(503) 289-1390",
+      "website": "http://www.lunaspapdx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "user_review": "\"Friendly staff, clean office and great massages.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCruvB8N_78XqbfqMGixwh9I8-7vhEigJWKggmiz-k8ZytrqP2Y_V9HMNazh66aWMbAGnPaHEueNgNYhjukRcY5Ec2C3IJT5AUFGVzkuBQyyOuX7IH1npxKO-WfnQuG7BZS_DnSg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OxNZk3icHcRdEoFAAADgE63CUMx4qGRL0ypR8tJkJ7uJ7Wd3UTd0BLcx43v4vh8qRMOXinKn0xGpa3IvJC86XDNRMDHC9UMhDQeYA64YAQorA1qdfJo6yjT91F6urQ_L94suXB1oT2qXZJt4hDzKAVT6uRddG0zSLF44PsoHOp_niX8xIAtyx5YFIiilN1ntcTqz8cSautvDzDhuYDxU0gz7fidPmuuMWfP2diC5slBCzTxH2ZpFZPUaq6oK6H8M2A8UqkWM"
+    },
+    {
+      "position": 12,
+      "title": "The NOW Massage Portland Pearl District",
+      "place_id": "ChIJMU--jPgLlVQR85fiLem7hJc",
+      "data_id": "0x54950bf88cbe4f31:0x9784bbe92de297f3",
+      "data_cid": "10918058006824523763",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950bf88cbe4f31%3A0x9784bbe92de297f3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950bf88cbe4f31%3A0x9784bbe92de297f3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.524613099999996,
+        "longitude": -122.6805725
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMU--jPgLlVQR85fiLem7hJc",
+      "provider_id": "/g/11sw6mdn2y",
+      "rating": 4.8,
+      "reviews": 252,
+      "type": "Massage spa",
+      "types": [
+        "Massage spa",
+        "Massage therapist",
+        "Spa"
+      ],
+      "type_id": "massage_spa",
+      "type_ids": [
+        "massage_spa",
+        "massage_therapist",
+        "spa"
+      ],
+      "address": "903 NW Davis St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20138\u202fPM",
+        "friday": "10\u202fAM\u20138\u202fPM",
+        "saturday": "10\u202fAM\u20138\u202fPM",
+        "sunday": "10\u202fAM\u20138\u202fPM",
+        "monday": "10\u202fAM\u20138\u202fPM",
+        "tuesday": "10\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(503) 564-7082",
+      "website": "https://www.thenowmassage.com/boutique/portland-pearl-district",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Membership",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Exiting Now Massage, I felt a profound sense of relaxation and rejuvenation.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkfD1wuGhMty1nPhAaRkU_TQcH80r7o_2A_pgXVFu_OMIvdhLZm3C2MBCGeJxyvMjb6FZ2xKGbV1kF9-RqFc4lnem4n-K19gf7jb6QrQaBsAtUIqv2uV28lHv9iaKdGbP0xFjY1w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WTWqgXicHcrNboIwAADgJ6q0laiY7FA1BcdwYJSoFwK1thNokZYfH9FH2Nts8fKdvt-XtLYxS8ep5HQitBYV7wxvmVaWKzthunZEYwAzwDgk3iUlCcrbBg2dLyP7RCqWJN-Xx-yQsGAB27nOMMkacUppl31H2_4qvy71dI2j1drnn-Ozj-7FjF7wGPpFikrqgf2DMrdSvHYVCJEnbvP_kbRJvjLEHrePHncpXlRB7_3k4dUvYjjS-xkNHwOCEAL5lgH1B9rpRNw"
+    },
+    {
+      "position": 13,
+      "title": "KIVA SPA",
+      "place_id": "ChIJSai6j-UJlVQROtHLV5VSGIs",
+      "data_id": "0x549509e58fbaa849:0x8b18529557cbd13a",
+      "data_cid": "10022851772089618746",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509e58fbaa849%3A0x8b18529557cbd13a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509e58fbaa849%3A0x8b18529557cbd13a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5339064,
+        "longitude": -122.701224
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSai6j-UJlVQROtHLV5VSGIs",
+      "provider_id": "/g/11_tdvsw1",
+      "rating": 4.7,
+      "reviews": 232,
+      "type": "Spa",
+      "types": [
+        "Spa",
+        "Day spa",
+        "Facial spa",
+        "Massage spa",
+        "Reflexologist",
+        "Sauna"
+      ],
+      "type_id": "spa",
+      "type_ids": [
+        "spa",
+        "day_spa",
+        "facial_spa",
+        "massage_spa",
+        "reflexologist",
+        "sauna"
+      ],
+      "address": "2412 NW Raleigh St, Portland, OR 97210",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u20136\u202fPM",
+        "thursday": "9\u202fAM\u20136\u202fPM",
+        "friday": "9\u202fAM\u20136\u202fPM",
+        "saturday": "9\u202fAM\u20136\u202fPM",
+        "sunday": "9\u202fAM\u20136\u202fPM",
+        "monday": "9\u202fAM\u20136\u202fPM",
+        "tuesday": "9\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(971) 229-1368",
+      "website": "http://kivaspapdx.com/",
+      "description": "Mellow cafe brewing lots of teas. Relaxing cafe attached to a spa offers a broad variety of teas plus coffee, smoothies & light bites.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna",
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Membership",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://dashboard.boulevard.io/booking/businesses/56089f65-16ab-4050-abab-1a32c29ea1b3/widget?location_wl=5618fd57-3dd1-4030-8686-9b8ab3e4fd6d&rwg_token=AE37R_hIttkvTgkoWQaK-nVznZgJkRIBP2xm0DFjw_G5xFbxYLRZJc3yNargALxiVPSeTnF2hMfA341jyOOdeZoqavB0tNA0zw%3D%3D",
+      "user_review": "\"The infrared sauna and massage were great and left me so relaxed.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGqIVawS_PO00CwyQ2br7BXqCZT23J_DglM7AhlH17XiK_SJfRwNWC1muv0uqqfO778lIfQsZBXoFDU3_Ef_3sHOhL9WzWnkcoy22LoIaa5yWFcr6HuRkwkjH7DMkqRT82eoQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7dVSzXicHcTbDoIgAADQLzIRV1RbD6aVdjPtovOFGVMpSEI0Zv_XR_Q3bZ2H8_3Qtn2qqWlyag8qISpedKpoiKjbom4HRDzM6qkMogxlOod9xJyVDC65PuJDCICr-wheGzRPpZudoL3GXsV3yKHct1B62-Djuoz1PnGtR_cCnZRliNCYB2Wksnkqlt7ZxosS28oP6XaSvJOaEdFDuBVBng_7ZEmakd_FTLO7j7wdk_FpDAsRzbQFADDof2LUP5BAQ48"
+    },
+    {
+      "position": 14,
+      "title": "Yomassage Social Spa",
+      "place_id": "ChIJibfxIIULlVQRnJ3g5FdFsDw",
+      "data_id": "0x54950b8520f1b789:0x3cb04557e4e09d9c",
+      "data_cid": "4373071481981148572",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b8520f1b789%3A0x3cb04557e4e09d9c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b8520f1b789%3A0x3cb04557e4e09d9c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4630288,
+        "longitude": -122.6528305
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJibfxIIULlVQRnJ3g5FdFsDw",
+      "provider_id": "/g/11t83qtfn2",
+      "rating": 4.9,
+      "reviews": 151,
+      "type": "Massage spa",
+      "types": [
+        "Massage spa"
+      ],
+      "type_id": "massage_spa",
+      "type_ids": [
+        "massage_spa"
+      ],
+      "address": "8288 SE 13th Ave, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 1\u202fPM",
+      "hours": "Closed \u00b7 Opens 1\u202fPM",
+      "operating_hours": {
+        "wednesday": "1\u20137\u202fPM",
+        "thursday": "1\u20137\u202fPM",
+        "friday": "8:30\u202fAM\u20133\u202fPM",
+        "saturday": "8:45\u202fAM\u20133\u202fPM",
+        "sunday": "10:45\u202fAM\u20135\u202fPM",
+        "monday": "Closed",
+        "tuesday": "10:45\u202fAM\u20135\u202fPM"
+      },
+      "phone": "(503) 477-9037",
+      "website": "http://yomassagespapdx.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Membership",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Wonderful owners, a beautiful space, and a lovely massage therapist.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHA_gP79axikgkYgPjKOBZmxJB1fiotPkg9qm8T8WWYAaBYf1v3EH496BHKzj1IpViOCFDU0mLddkpCwEffKLDKeSXCnDrBclqMeNYYO93U8KNZEegspm1vt2feS0FoAgr_4MtT1A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5ccE63icHcRRboIwGADgEyHtMBss2UMLGLYqsKhz9cWY2v5gKa20U7Mb7gi7zZJ9D9_vTxeC889xPHTJDKyFQX55OQk7BjmGmbAmBucj4SMfk7Z-16QiB2ifsuO916A5tGfW0L25v1GsehtaDdnFpJt0t-PkSLnC16Ss5tkjrdj3Gb-6j77JF8UWmeXppF1-K5Viy4LJ9Wc-FhMVw2Ula86bLNmmrN6XErwz-BoelFyjhSUwHearsMHk5YYRQlH3v4jGP8_URMI"
+    },
+    {
+      "position": 15,
+      "title": "The Wine Spa",
+      "place_id": "ChIJD8zPkwKhlVQRPUhCahPAR6k",
+      "data_id": "0x5495a10293cfcc0f:0xa947c0136a42483d",
+      "data_cid": "12197929305375918141",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a10293cfcc0f%3A0xa947c0136a42483d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a10293cfcc0f%3A0xa947c0136a42483d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.535258,
+        "longitude": -122.6500289
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD8zPkwKhlVQRPUhCahPAR6k",
+      "provider_id": "/g/11y46t3x22",
+      "rating": 4.9,
+      "reviews": 129,
+      "type": "Day spa",
+      "types": [
+        "Day spa",
+        "Facial spa",
+        "Health spa",
+        "Massage spa",
+        "Spa"
+      ],
+      "type_id": "day_spa",
+      "type_ids": [
+        "day_spa",
+        "facial_spa",
+        "health_spa",
+        "massage_spa",
+        "spa"
+      ],
+      "address": "1517 NE Broadway, Portland, OR 97232",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20138\u202fPM",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "12\u20136\u202fPM",
+        "monday": "Closed",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 946-8450",
+      "website": "https://thewinespapdx.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=55f12dd4-a721-417a-a396-6f70c92a201d",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://thewinespa.zenoti.com/webstoreNew/services/37b722db-0e04-4ca8-8abd-abec2b3feb5a?merchantId=37b722db-0e04-4ca8-8abd-abec2b3feb5a&booking_source=booknow&booking_medium=google&rwg_token=AE37R_gz9PYwoPCWTfycdR-KuaJHQtFD85k1LC9vOfL63ZuUcfTylc94rvkFagkwigxGzQzVFehLrLL9fTnE4Fc5uurN2hq41A%3D%3D",
+      "user_review": "\"Friendly staff, amazing massage, and luxurious wine bath.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFBkYY9JkUFl4K6rKz-f0j-KyueXpiiIXoEIUmVB_jKQ101AulTZ71Y453OlVsOWCxOhQHMa_qqNHBynOFXGeg7x9OBTNy-8v7p6ZRnKizhOfwO2c_9o8h9STVkHGZ_OfYcIpSGly-TXM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/91zW7nicHcRLjoIwAADQE1WKHxATFzCRzzRSUWSADZk0hSK1rRZUOOTs5zYmvsX7_2N9r_TGMDhbzBopG04HTe9Eip6Kfkbk1WiUBkQDbbiHOOlc3_e6onC-u7PPl8i6ownU8ALQONBctW2Uy110vmZedUGJCU134Glpm8VytcA80_jn64VZEu5_q9stDr1RYD8PaGO_HOyl8QjWD1tZ5VGgdmK4fuI5qRy5Zs4pzbowKCtcFyRSp4CPIM3326cJIQTsMwHiDfGpRjE"
+    },
+    {
+      "position": 16,
+      "title": "The Head Spa",
+      "place_id": "ChIJAZRZjr8JlVQRTs1Jr1YOknk",
+      "data_id": "0x549509bf8e599401:0x79920e56af49cd4e",
+      "data_cid": "8760079990659861838",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x549509bf8e599401%3A0x79920e56af49cd4e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x549509bf8e599401%3A0x79920e56af49cd4e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5298285,
+        "longitude": -122.689138
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAZRZjr8JlVQRTs1Jr1YOknk",
+      "provider_id": "/g/11wg8393z_",
+      "rating": 4.8,
+      "reviews": 186,
+      "type": "Spa",
+      "types": [
+        "Spa",
+        "Beautician",
+        "Beauty salon",
+        "Hair salon",
+        "Health spa",
+        "Stylist",
+        "Hairdresser",
+        "Wellness center"
+      ],
+      "type_id": "spa",
+      "type_ids": [
+        "spa",
+        "beautician",
+        "beauty_salon",
+        "hair_salon",
+        "health_spa",
+        "stylist",
+        "unisex_hairdresser",
+        "wellness_center"
+      ],
+      "address": "1720 NW Lovejoy St, Portland, OR 97209",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20136\u202fPM",
+        "thursday": "Closed",
+        "friday": "10\u202fAM\u20136\u202fPM",
+        "saturday": "10\u202fAM\u20136\u202fPM",
+        "sunday": "10\u202fAM\u20135\u202fPM",
+        "monday": "10\u202fAM\u20136\u202fPM",
+        "tuesday": "10\u202fAM\u20136\u202fPM"
+      },
+      "phone": "(503) 896-4579",
+      "website": "https://www.theheadspaportland.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "user_review": "\"The massage really cleared my mind, and I felt super calm.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtrGkbsEikxrPBhJFX1cj5ahrcOS2LPJogo4dYsK4Y1s6OSZqFnbQ5HCbJ45QeKKicNP0mmD3udH8AqjdJugHC3yFn4WMnod-SfHyhDH1hlyf8qxkHgQtet6b_Z6_Y5dWqp1n2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-elSgXicHcRJDoIwAADAF1WoLCEmHnDBBlwgHBAvRtrSsrVAS4QX-gZ_Y-Ic5vvhWvdqYxgtt1ZMStbSSdERS6Gp0CssO4P1CmAFlOHH16TxAz2emkIdq2Ye4x0PgzvEtfPiI76l63McSiZtkqvIzqFyb-ljCESROGhfhLaT0Ciq8DU2u-5gTQR5_lCTcGJoby2BsLOLkASkJVr4AUHeLqU3zA1iiabaLZ4P95k7JBt6KNbbNzRNE_D_GIgff0JE_A"
+    },
+    {
+      "position": 17,
+      "title": "Common Ground Wellness Cooperative",
+      "place_id": "ChIJVZWVrMCglVQRVzL2G9mKO3U",
+      "data_id": "0x5495a0c0ac959555:0x753b8ad91bf63257",
+      "data_cid": "8447498191145153111",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a0c0ac959555%3A0x753b8ad91bf63257&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a0c0ac959555%3A0x753b8ad91bf63257&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.5594156,
+        "longitude": -122.63047619999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVZWVrMCglVQRVzL2G9mKO3U",
+      "provider_id": "/g/1td1jq2p",
+      "rating": 4.8,
+      "reviews": 915,
+      "type": "Spa",
+      "types": [
+        "Spa",
+        "Acupuncture clinic",
+        "Chiropractor",
+        "Massage spa",
+        "Naturopathic practitioner",
+        "Personal trainer",
+        "Physical therapist",
+        "Sauna",
+        "Wellness center"
+      ],
+      "type_id": "spa",
+      "type_ids": [
+        "spa",
+        "acupuncture_clinic",
+        "chiropractor",
+        "massage_spa",
+        "naturopathic_practitioner",
+        "personal_trainer",
+        "physiotherapist",
+        "sauna",
+        "wellness_center"
+      ],
+      "address": "5010 NE 33rd Ave, Portland, OR 97211",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u201310\u202fPM",
+        "thursday": "10\u202fAM\u201310\u202fPM",
+        "friday": "10\u202fAM\u201310\u202fPM",
+        "saturday": "10\u202fAM\u201310\u202fPM",
+        "sunday": "10\u202fAM\u201310\u202fPM",
+        "monday": "10\u202fAM\u201310\u202fPM",
+        "tuesday": "10\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 238-1065",
+      "website": "http://www.cgwc.org/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Sauna"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Discounts for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "book_online": "https://app.squareup.com/appointments/book/4m2b135jfmidik/LGH0GDJPXKEGQ/start?rwg_token=AE37R_ibjJ3uZ0qTBu3hHvvT__uoczdreA0eTtViGK17XOpvy0TULbkuypejo52ClIHsqRJEWXnnmGOVeaWxOcCBhfnWOUO-ww%3D%3D",
+      "user_review": "\"Best massage I\u2019ve had in years, and I left feeling incredible.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF25a2_kvx-zG1-cVhJl77qdmKHMN59ueRMsfQRDvSLjTLwTnzG_32zOVwzji1CPrcJqsvNVRJBj_bhLSvj_1uRKX57USDXPGKbss8gyxlQX-xIe7Yyh-yZgBvcqU_JOkV1VGyHN4GyTxDR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lNanC3icHcTBboIwAADQL6pQlOCW7KCS1QEiFGxwl2Z2XSsgiIVC-cmd9zdLfIf39yv7_q5eLauWy4VoW1HzQfEHa5ueN_2CtTdL3BVgCihrk8RptXl33C-HVnoCM4KAERnUntd938L9IXZfBo4P6ifFvs6iMo_GvJkRXTrzkYxzeYW75MGCTumY4GBb0ouMMl1SOOCwcL1T5hcJCi9KrYWZ6rQA0wf3zkYC8ym2mnUnGhwrAgky-3iFTD75-G2Etm0D-ZyB5h-8mUgM"
+    },
+    {
+      "position": 18,
+      "title": "Ya Ya Massage & Spa",
+      "place_id": "ChIJGcjrQv8LlVQRsF4aBahb1fU",
+      "data_id": "0x54950bff42ebc819:0xf5d55ba8051a5eb0",
+      "data_cid": "17714165486529961648",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950bff42ebc819%3A0xf5d55ba8051a5eb0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950bff42ebc819%3A0xf5d55ba8051a5eb0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4644663,
+        "longitude": -122.6525097
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGcjrQv8LlVQRsF4aBahb1fU",
+      "provider_id": "/g/11kpl39_ng",
+      "rating": 4.9,
+      "reviews": 38,
+      "type": "Spa",
+      "types": [
+        "Spa",
+        "Day spa",
+        "Massage therapist"
+      ],
+      "type_id": "spa",
+      "type_ids": [
+        "spa",
+        "day_spa",
+        "massage_therapist"
+      ],
+      "address": "1321 SE Tacoma St, Portland, OR 97202",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 9\u202fAM",
+      "hours": "Closed \u00b7 Opens 9\u202fAM",
+      "operating_hours": {
+        "wednesday": "9\u202fAM\u201310\u202fPM",
+        "thursday": "9\u202fAM\u201310\u202fPM",
+        "friday": "9\u202fAM\u201310\u202fPM",
+        "saturday": "9\u202fAM\u201310\u202fPM",
+        "sunday": "9\u202fAM\u201310\u202fPM",
+        "monday": "9\u202fAM\u201310\u202fPM",
+        "tuesday": "9\u202fAM\u201310\u202fPM"
+      },
+      "phone": "(503) 819-2104",
+      "website": "http://yayamassageandspa.com/",
+      "description": "Foot massage parlor offering 30-minute, 60-minute, and 90-minute sessions, with advance booking or walk-in options.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "user_review": "\"After I left I could turn my neck again and I feel just so relaxed.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7nrUc2ofUXtJWbRczffTmmvv2w11IpkZcRVesjgiMZFzFVDxUQrNNU6zFOBe07kiWJHxvoL7thGCRouWGzjCykygEVi5Poxl7VZ5wHenKSuj8xQHKLQUwbA3EI0_Q_RfpEs-s=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lozB03icHc5JDoIwAADAFwFFoxgTD6gsiqJFC4aLCU0pa0toWeSDvsHfaLzMeT7vTMpGrDWtyuYq5ZxWpBOkxZxJwqSKea3RRihYKEIzrz4sTddgLcIznqKHPEZJgKc0vdd1388GXT80ZYyDkIiC5ufYnuxwPyLY-j5aTvZlS4BR5tHRHXt-MmTm7ALeRc5U7F7li1phvrjysTLCeDG4hHm3rliN0PVOEA2JObcO4AmfQdpYv8xm0AEASvYXK-wLGnRGYw"
+    },
+    {
+      "position": 19,
+      "title": "Gentle Cloud Spa",
+      "place_id": "ChIJNbBWewILlVQRsbAm05y1Of4",
+      "data_id": "0x54950b027b56b035:0xfe39b59cd326b0b1",
+      "data_cid": "18318872644468256945",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x54950b027b56b035%3A0xfe39b59cd326b0b1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x54950b027b56b035%3A0xfe39b59cd326b0b1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.4686557,
+        "longitude": -122.70880939999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNbBWewILlVQRsbAm05y1Of4",
+      "provider_id": "/g/11w9l5k2mj",
+      "rating": 5,
+      "reviews": 186,
+      "type": "Massage spa",
+      "types": [
+        "Massage spa",
+        "Facial spa"
+      ],
+      "type_id": "massage_spa",
+      "type_ids": [
+        "massage_spa",
+        "facial_spa"
+      ],
+      "address": "7724 SW 31st Ave, Portland, OR 97219",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20138\u202fPM",
+        "friday": "10\u202fAM\u20138\u202fPM",
+        "saturday": "10\u202fAM\u20137:30\u202fPM",
+        "sunday": "10\u202fAM\u20137:30\u202fPM",
+        "monday": "10\u202fAM\u20138\u202fPM",
+        "tuesday": "10\u202fAM\u20138\u202fPM"
+      },
+      "phone": "(503) 384-2098",
+      "website": "https://gentlecloudspa.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Skincare treatments"
+          ]
+        },
+        {
+          "amenities": [
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required",
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "book_online": "https://www.mindbodyonline.com/explore/locations/gentle-cloud-spa?rwg_token=AE37R_isc_Xgzxm0pLTkQi5SHqT66Z4OO28bY0vdz1894fN2Rk2ylqRkirF2yB3Kpb0Z6_M8affvXE402c3zCVlyTGMMRqxPfg%3D%3D",
+      "user_review": "\"Incredible massage in a beautiful, clean, relaxing environment.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-Q0WYnJ_L1ba5n15BDXDnIJ1vcRO3gOtEVo1jqrpU7jL-DZZF1L3oszsmhNsrx0NE4yYxTh6uDstPm7SkdbpkrkeFJdZl395Gj6sPGqva7c0t9qb-z1wh7j7KbUmU1tt-t7NP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PS4XqXicHcRJDoIwFADQExXaIDaYuNAgRiQMKg5sjFRCw9AC_zte0DN4GxPf4n0_ErGDiWk20jJKrcumuEExCK2wUGgI3ZplB0QAAXMWh0k980hCDyflnwOWX2zF7Ll7dNXKZ3exiawywsVes6ofupRXAXGzzGOBpeENrQxheNJwMXqdnjs5vrmAccu39TXv6qEuPP-aNZZjL6sxxMv-fuGCotPn5M0ekld8nadtyhAJ8jCePhillMj_gqgfGxNEXQ"
+    },
+    {
+      "position": 20,
+      "title": "The NOW Massage Portland Hawthorne",
+      "place_id": "ChIJz8VxQaChlVQRSsXg5hehRjo",
+      "data_id": "0x5495a1a04171c5cf:0x3a46a117e6e0c54a",
+      "data_cid": "4199220826599376202",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x5495a1a04171c5cf%3A0x3a46a117e6e0c54a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x5495a1a04171c5cf%3A0x3a46a117e6e0c54a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 45.511724699999995,
+        "longitude": -122.6157231
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz8VxQaChlVQRSsXg5hehRjo",
+      "provider_id": "/g/11v5jf2mdt",
+      "rating": 4.6,
+      "reviews": 160,
+      "type": "Massage spa",
+      "types": [
+        "Massage spa",
+        "Massage therapist",
+        "Spa"
+      ],
+      "type_id": "massage_spa",
+      "type_ids": [
+        "massage_spa",
+        "massage_therapist",
+        "spa"
+      ],
+      "address": "4516 SE Hawthorne Blvd, Portland, OR 97215",
+      "country": "United States",
+      "open_state": "Closed \u00b7 Opens 10\u202fAM",
+      "hours": "Closed \u00b7 Opens 10\u202fAM",
+      "operating_hours": {
+        "wednesday": "10\u202fAM\u20139\u202fPM",
+        "thursday": "10\u202fAM\u20139\u202fPM",
+        "friday": "10\u202fAM\u20139\u202fPM",
+        "saturday": "10\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20138\u202fPM",
+        "monday": "10\u202fAM\u20139\u202fPM",
+        "tuesday": "10\u202fAM\u20139\u202fPM"
+      },
+      "phone": "(503) 755-6705",
+      "website": "https://www.thenowmassage.com/boutique/portland-hawthorne",
+      "description": "Massage spa offering custom enhancements such as cupping and deep-tissue work.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Membership",
+            "Online scheduling",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Appointments recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Beautiful massage spa, extremely relaxing atmosphere and wonderful staff!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2VCK3B30Gz7jizT3Ebot8Js2Uow08XJhHvgDd5IGIz5T6uPTaVtvkDOKh8YdCf1DRQO3kj7kWiEKGSerU6TxXEQDNUEyX4AYo5X6QTvoeOpew4rkCJLnIRj6zMPF2QKenw_Sz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gYwkJ3icHcRRboIwAADQEyGVChITPxh0DFChWhS_zIaVSrUltIL2gp5ht1my9_F-30zrTi1s-8bgpJGyudGHon0thaZCT2p5t5tOWbWylB0UG8wD5OzDDH5AEJt5ezUEoh-p_VQ5pRyBX6Xsa2iis5vEiXGJ9yjI914PPMoz5h_P4WUabXEOeTvnhyvK4h3tS488K4SjTYle1Sw4SrfyMBkkzTs6znoepiuRbFvPrItPB2dUjKedWY5TAIDF_q8t8QfO40Ou"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&q=best+spa+massage+Portland%2C+OR&start=20&type=search"
+  }
+}
