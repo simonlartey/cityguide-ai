@@ -311,7 +311,7 @@ a {
 
 .step-card,
 .category-card {
-  animation: fadeUp 0.7s ease both;
+  animation: fadeUp 0.7s ease backwards;
 }
 
 .step-card:nth-child(2),
