@@ -101,3 +101,21 @@ def create_user(data: SignupData) -> User:
         ) from error
 
     return user
+
+
+def authenticate_user(email: str, password: str) -> User | None:
+    """Return the matching user when the credentials are valid."""
+
+    normalized_email = normalize_email(email)
+
+    if not normalized_email or not password:
+        return None
+
+    user = db.session.execute(
+        db.select(User).where(User.email == normalized_email)
+    ).scalar_one_or_none()
+
+    if user is None or not user.check_password(password):
+        return None
+
+    return user

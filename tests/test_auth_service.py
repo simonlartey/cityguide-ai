@@ -4,6 +4,7 @@ from app.extensions import db
 from app.models import User
 from app.services.auth_service import (
     DuplicateEmailError,
+    authenticate_user,
     SignupData,
     SignupValidationError,
     create_user,
@@ -108,3 +109,25 @@ def test_create_user_rejects_duplicate_email(app):
         )
 
         assert user_count == 1
+
+
+def test_authenticate_user_returns_matching_user(app):
+    with app.app_context():
+        user = create_user(make_signup_data())
+
+        authenticated_user = authenticate_user(
+            "  SIMON@EXAMPLE.COM  ",
+            "secure-password-123",
+        )
+
+        assert authenticated_user == user
+
+
+def test_authenticate_user_rejects_invalid_credentials(app):
+    with app.app_context():
+        create_user(make_signup_data())
+
+        assert authenticate_user("simon@example.com", "wrong-password") is None
+        assert authenticate_user("unknown@example.com", "secure-password-123") is None
+        assert authenticate_user("", "secure-password-123") is None
+        assert authenticate_user("simon@example.com", "") is None
