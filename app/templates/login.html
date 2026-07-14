@@ -106,7 +106,19 @@
             <span></span>
           </div>
 
-          <form class="auth-form" action="#" method="post" novalidate data-auth-form="login">
+          {% if error %}
+          <div class="form-message" role="alert">
+            {{ error }}
+          </div>
+          {% endif %}
+
+          <form
+            class="auth-form"
+            action="{{ url_for('auth.login') }}"
+            method="post"
+            novalidate
+            data-auth-form="login"
+          >
             <div class="form-field">
               <label for="email">Email address</label>
 
@@ -118,6 +130,7 @@
                 inputmode="email"
                 placeholder="you@example.com"
                 required
+                value="{{ email_value }}"
               />
 
               <p class="field-error" id="email-error" aria-live="polite"></p>

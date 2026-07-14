@@ -1,22 +1,49 @@
-from flask import Blueprint, redirect, render_template, request, url_for
+from flask import (
+    Blueprint,
+    redirect,
+    render_template,
+    request,
+    session,
+    url_for,
+)
 
 from app.services.auth_service import (
     DuplicateEmailError,
     SignupData,
     SignupValidationError,
+    authenticate_user,
     create_user,
 )
 
 auth_bp = Blueprint("auth", __name__)
 
 
-@auth_bp.get("/login")
+@auth_bp.route("/login", methods=["GET", "POST"])
 def login():
     signup_success = request.args.get("signup") == "success"
+    error = ""
+    email_value = ""
+
+    if request.method == "POST":
+        email_value = request.form.get("email", "")
+        password = request.form.get("password", "")
+
+        user = authenticate_user(email_value, password)
+
+        if user is None:
+            error = "Invalid email or password."
+        else:
+            session.clear()
+            session["user_id"] = user.id
+            session.permanent = request.form.get("remember") == "on"
+
+            return redirect(url_for("main.index"))
 
     return render_template(
         "login.html",
         signup_success=signup_success,
+        error=error,
+        email_value=email_value,
     )
 
 
@@ -56,3 +83,10 @@ def signup():
         errors=errors,
         form_data=form_data,
     )
+
+
+@auth_bp.post("/logout")
+def logout():
+    session.clear()
+
+    return redirect(url_for("auth.login"))
