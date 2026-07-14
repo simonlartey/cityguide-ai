@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta
+    name="description"
+    content="Create your CityGuide AI account and start discovering local places, services, and hidden gems."
+  />
+
+  <title>Create Account — CityGuide AI</title>
+
+  <link rel="preload" as="image" href="src/images/hero_img.jpg" />
+  <link rel="stylesheet" href="src/css/auth.css" />
+</head>
+
+<body class="auth-page">
+  <header class="auth-header">
+    <a
+      href="index.html"
+      class="auth-logo"
+      aria-label="Return to the CityGuide AI homepage"
+    >
+      <span class="auth-logo-mark" aria-hidden="true">✦</span>
+      <span>CityGuide AI</span>
+    </a>
+  </header>
+
+  <main class="auth-main">
+    <section class="auth-shell" aria-labelledby="signup-title">
+      <div class="auth-visual" aria-hidden="true">
+        <div class="auth-visual-overlay"></div>
+
+        <div class="auth-visual-content">
+          <span class="auth-eyebrow">Your city, understood</span>
+
+          <h2>
+            Discover local places built around your needs.
+          </h2>
+
+          <p>
+            Save recommendations, continue conversations, and receive more
+            useful suggestions as CityGuide AI learns what matters to you.
+          </p>
+
+          <div class="auth-visual-prompt">
+            <span class="auth-visual-icon">✦</span>
+            <p>
+              “Find a quiet café with reliable Wi-Fi, outlets, and late hours.”
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="auth-panel">
+        <div class="auth-panel-content">
+          <div class="auth-heading">
+            <span class="auth-kicker">Get started</span>
+
+            <h1 id="signup-title">Create your account</h1>
+
+            <p>
+              Join CityGuide AI to save places and continue personalized
+              conversations.
+            </p>
+          </div>
+
+          <button
+            type="button"
+            class="auth-provider-button"
+            data-auth-provider="google"
+          >
+            <span class="google-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24">
+                <path
+                  fill="#4285F4"
+                  d="M21.6 12.227c0-.709-.064-1.391-.182-2.045H12v3.868h5.382a4.6 4.6 0 0 1-1.995 3.018v2.509h3.227c1.889-1.74 2.986-4.304 2.986-7.35Z"
+                />
+                <path
+                  fill="#34A853"
+                  d="M12 22c2.7 0 4.964-.895 6.614-2.423l-3.227-2.509c-.895.6-2.041.955-3.387.955-2.605 0-4.809-1.759-5.6-4.123H3.064v2.591A9.998 9.998 0 0 0 12 22Z"
+                />
+                <path
+                  fill="#FBBC05"
+                  d="M6.4 13.9A6.02 6.02 0 0 1 6.082 12c0-.659.114-1.3.318-1.9V7.509H3.064A10 10 0 0 0 2 12c0 1.614.386 3.141 1.064 4.491L6.4 13.9Z"
+                />
+                <path
+                  fill="#EA4335"
+                  d="M12 5.977c1.468 0 2.786.505 3.823 1.496l2.873-2.873C16.959 2.982 14.695 2 12 2a9.998 9.998 0 0 0-8.936 5.509L6.4 10.1c.791-2.364 2.995-4.123 5.6-4.123Z"
+                />
+              </svg>
+            </span>
+
+            <span>Continue with Google</span>
+          </button>
+
+          <div class="auth-divider" aria-hidden="true">
+            <span></span>
+            <p>or continue with email</p>
+            <span></span>
+          </div>
+
+          <form class="auth-form" action="#" method="post" novalidate data-auth-form="signup">
+            <div class="form-field">
+              <label for="display-name">Full name</label>
+
+              <input
+                type="text"
+                id="display-name"
+                name="displayName"
+                autocomplete="name"
+                placeholder="Your full name"
+                minlength="2"
+                maxlength="80"
+                required
+              />
+
+              <p
+                class="field-error"
+                id="display-name-error"
+                aria-live="polite"
+              ></p>
+            </div>
+
+            <div class="form-field">
+              <label for="email">Email address</label>
+
+              <input
+                type="email"
+                id="email"
+                name="email"
+                autocomplete="email"
+                inputmode="email"
+                placeholder="you@example.com"
+                required
+              />
+
+              <p class="field-error" id="email-error" aria-live="polite"></p>
+            </div>
+
+            <div class="form-field">
+              <label for="password">Password</label>
+
+              <div class="password-field">
+                <input
+                  type="password"
+                  id="password"
+                  name="password"
+                  autocomplete="new-password"
+                  placeholder="Create a password"
+                  minlength="8"
+                  required
+                  aria-describedby="password-requirements password-error"
+                />
+
+                <button
+                  type="button"
+                  class="password-toggle"
+                  aria-label="Show password"
+                  aria-pressed="false"
+                  data-password-toggle
+                >
+                  <svg
+                    class="password-icon password-icon-show"
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                  >
+                    <path
+                      d="M2.5 12s3.5-6 9.5-6 9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6Z"
+                    />
+                    <circle cx="12" cy="12" r="3" />
+                  </svg>
+
+                  <svg
+                    class="password-icon password-icon-hide"
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                    hidden
+                  >
+                    <path d="m3 3 18 18" />
+                    <path d="M10.6 10.7a2 2 0 0 0 2.7 2.7" />
+                    <path d="M9.9 4.2A10.8 10.8 0 0 1 12 4c6 0 9.5 6 9.5 6a16.5 16.5 0 0 1-2.2 3" />
+                    <path d="M6.2 6.2C3.8 8 2.5 10 2.5 10s3.5 6 9.5 6a9.8 9.8 0 0 0 3.7-.7" />
+                  </svg>
+                </button>
+              </div>
+
+              <p class="field-hint" id="password-requirements">
+                Use at least 8 characters with a mix of letters and numbers.
+              </p>
+
+              <p class="field-error" id="password-error" aria-live="polite"></p>
+            </div>
+
+            <div class="form-field">
+              <label for="confirm-password">Confirm password</label>
+
+              <div class="password-field">
+                <input
+                  type="password"
+                  id="confirm-password"
+                  name="confirmPassword"
+                  autocomplete="new-password"
+                  placeholder="Enter your password again"
+                  minlength="8"
+                  required
+                />
+
+                <button
+                  type="button"
+                  class="password-toggle"
+                  aria-label="Show password"
+                  aria-pressed="false"
+                  data-password-toggle
+                >
+                  <svg
+                    class="password-icon password-icon-show"
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                  >
+                    <path
+                      d="M2.5 12s3.5-6 9.5-6 9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6Z"
+                    />
+                    <circle cx="12" cy="12" r="3" />
+                  </svg>
+
+                  <svg
+                    class="password-icon password-icon-hide"
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                    hidden
+                  >
+                    <path d="m3 3 18 18" />
+                    <path d="M10.6 10.7a2 2 0 0 0 2.7 2.7" />
+                    <path d="M9.9 4.2A10.8 10.8 0 0 1 12 4c6 0 9.5 6 9.5 6a16.5 16.5 0 0 1-2.2 3" />
+                    <path d="M6.2 6.2C3.8 8 2.5 10 2.5 10s3.5 6 9.5 6a9.8 9.8 0 0 0 3.7-.7" />
+                  </svg>
+                </button>
+              </div>
+
+              <p
+                class="field-error"
+                id="confirm-password-error"
+                aria-live="polite"
+              ></p>
+            </div>
+
+            <div class="auth-form-options">
+              <label class="remember-option terms-option">
+                <input
+                  type="checkbox"
+                  id="terms"
+                  name="terms"
+                  required
+                />
+
+                <span>
+                  I agree to the
+                  <a href="terms.html">Terms of Service</a>
+                  and
+                  <a href="privacy.html">Privacy Policy</a>.
+                </span>
+              </label>
+            </div>
+
+            <p class="field-error" id="terms-error" aria-live="polite"></p>
+
+            <div
+              class="form-message"
+              role="status"
+              aria-live="polite"
+              hidden
+            ></div>
+
+            <button type="submit" class="auth-submit-button">
+              <span>Create account</span>
+            </button>
+          </form>
+
+          <p class="auth-switch">
+            Already have an account?
+            <a href="login.html">Sign in</a>
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="src/js/auth.js" defer></script>
+</body>
+</html>
