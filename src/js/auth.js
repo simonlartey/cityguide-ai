@@ -306,7 +306,7 @@ function initializeLiveValidation(form) {
           validateEmail(field);
           break;
 
-        case "password":
+        case "password": {
           validatePassword(
             field,
             form.dataset.authForm === "signup"
@@ -321,6 +321,7 @@ function initializeLiveValidation(form) {
           }
 
           break;
+        }
 
         case "confirmPassword":
           validateConfirmPassword(
@@ -363,7 +364,7 @@ function initializeLiveValidation(form) {
       }
     });
 
-    if (field.type === "checkbox") {
+    if (field.name === "terms") {
       field.addEventListener("change", () => {
         validateTerms(field);
       });

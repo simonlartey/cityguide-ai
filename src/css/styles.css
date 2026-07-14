@@ -402,7 +402,7 @@ a {
   height: 34px;
 
   color: var(--gold);
-  stroke: currentColor;
+  stroke: currentcolor;
   stroke-width: 1.8;
   fill: none;
 

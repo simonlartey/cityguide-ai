@@ -348,7 +348,7 @@ svg {
   align-items: center;
   gap: 14px;
   margin: 24px 0;
-  color: rgba(24, 19, 22, 0.44);
+  color: rgba(24, 19, 22, 0.62);
   font-size: 0.78rem;
 }
 
@@ -440,7 +440,7 @@ svg {
 }
 
 .field-hint {
-  color: rgba(24, 19, 22, 0.48);
+  color: rgba(24, 19, 22, 0.68);
   font-size: 0.76rem;
   line-height: 1.45;
 }
@@ -496,7 +496,7 @@ svg {
   width: 20px;
   height: 20px;
   fill: none;
-  stroke: currentColor;
+  stroke: currentcolor;
   stroke-width: 1.8;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -578,13 +578,13 @@ svg {
 
 .auth-legal {
   margin-top: 22px;
-  color: rgba(24, 19, 22, 0.42);
+  color: rgba(24, 19, 22, 0.62);
   text-align: center;
   font-size: 0.73rem;
 }
 
 .auth-legal a {
-  color: rgba(24, 19, 22, 0.65);
+  color: rgba(24, 19, 22, 0.78);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
