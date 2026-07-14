@@ -66,10 +66,9 @@
             </p>
           </div>
 
-          <button
-            type="button"
+          <a
+            href="{{ url_for('google.login') }}"
             class="auth-provider-button"
-            data-auth-provider="google"
           >
             <span class="google-icon" aria-hidden="true">
               <svg viewBox="0 0 24 24">
@@ -93,7 +92,7 @@
             </span>
 
             <span>Continue with Google</span>
-          </button>
+          </a>
 
           <div class="auth-divider" aria-hidden="true">
             <span></span>

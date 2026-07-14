@@ -26,9 +26,21 @@ class User(db.Model):
         nullable=False,
     )
 
-    password_hash: Mapped[str] = mapped_column(
+    google_sub: Mapped[str | None] = mapped_column(
+        String(255),
+        unique=True,
+        nullable=True,
+        index=True,
+    )
+
+    avatar_url: Mapped[str | None] = mapped_column(
+        String(500),
+        nullable=True,
+    )
+
+    password_hash: Mapped[str | None] = mapped_column(
         String(512),
-        nullable=False,
+        nullable=True,
     )
 
     created_at: Mapped[datetime] = mapped_column(
@@ -51,6 +63,9 @@ class User(db.Model):
 
     def check_password(self, password: str) -> bool:
         """Return whether a password matches the stored hash."""
+
+        if not self.password_hash:
+            return False
 
         return check_password_hash(self.password_hash, password)
 

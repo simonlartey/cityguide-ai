@@ -71,10 +71,9 @@
           </div>
           {% endif %}
 
-          <button
-            type="button"
+          <a
+            href="{{ url_for('google.login') }}"
             class="auth-provider-button"
-            data-auth-provider="google"
           >
             <span class="google-icon" aria-hidden="true">
               <svg viewBox="0 0 24 24" role="img">
@@ -98,7 +97,7 @@
             </span>
 
             <span>Continue with Google</span>
-          </button>
+          </a>
 
           <div class="auth-divider" aria-hidden="true">
             <span></span>
@@ -109,6 +108,12 @@
           {% if error %}
           <div class="form-message" role="alert">
             {{ error }}
+          </div>
+          {% endif %}
+
+          {% if oauth_error %}
+          <div class="form-message" role="alert">
+            Google sign-in could not be completed. Please try again.
           </div>
           {% endif %}
 
