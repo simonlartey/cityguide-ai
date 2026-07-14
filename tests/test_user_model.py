@@ -37,3 +37,15 @@ def test_user_can_be_persisted(app):
 
         assert saved_user.id is not None
         assert saved_user.display_name == "Simon Lartey"
+
+
+def test_user_repr(app):
+    with app.app_context():
+        user = User(
+            id=7,
+            email="simon@example.com",
+            display_name="Simon Lartey",
+            password_hash="hashed-password",
+        )
+
+        assert repr(user) == "<User id=7 email='simon@example.com'>"
