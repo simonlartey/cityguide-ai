@@ -419,6 +419,51 @@ svg {
   box-shadow: 0 0 0 4px rgba(201, 137, 43, 0.14);
 }
 
+.form-field input.is-invalid,
+.form-field input[aria-invalid="true"] {
+  border-color: var(--auth-danger);
+  box-shadow: 0 0 0 4px rgba(184, 63, 63, 0.1);
+}
+
+.form-field input.is-invalid:focus,
+.form-field input[aria-invalid="true"]:focus {
+  border-color: var(--auth-danger);
+  box-shadow: 0 0 0 4px rgba(184, 63, 63, 0.14);
+}
+
+.auth-submit-button:disabled,
+.auth-provider-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.68;
+  transform: none;
+  box-shadow: none;
+}
+
+.field-hint {
+  color: rgba(24, 19, 22, 0.48);
+  font-size: 0.76rem;
+  line-height: 1.45;
+}
+
+.terms-option {
+  align-items: flex-start;
+  line-height: 1.5;
+}
+
+.terms-option input {
+  flex: 0 0 auto;
+  margin-top: 3px;
+}
+
+.terms-option a {
+  color: var(--auth-gold-dark);
+  font-weight: 700;
+}
+
+.terms-option a:hover {
+  text-decoration: underline;
+}
+
 .password-field {
   position: relative;
 }

@@ -6,10 +6,10 @@
 
   <meta
     name="description"
-    content="Sign in to CityGuide AI and continue discovering local places, services, and hidden gems."
+    content="Create your CityGuide AI account and start discovering local places, services, and hidden gems."
   />
 
-  <title>Sign In — CityGuide AI</title>
+  <title>Create Account — CityGuide AI</title>
 
   <link rel="preload" as="image" href="src/images/hero_img.jpg" />
   <link rel="stylesheet" href="src/css/auth.css" />
@@ -28,26 +28,26 @@
   </header>
 
   <main class="auth-main">
-    <section class="auth-shell" aria-labelledby="login-title">
+    <section class="auth-shell" aria-labelledby="signup-title">
       <div class="auth-visual" aria-hidden="true">
         <div class="auth-visual-overlay"></div>
 
         <div class="auth-visual-content">
-          <span class="auth-eyebrow">Local discovery, personalized</span>
+          <span class="auth-eyebrow">Your city, understood</span>
 
           <h2>
-            Find the places that actually fit what you need.
+            Discover local places built around your needs.
           </h2>
 
           <p>
-            Discover restaurants, cultural markets, stylists, study spaces,
-            services, and hidden gems around you.
+            Save recommendations, continue conversations, and receive more
+            useful suggestions as CityGuide AI learns what matters to you.
           </p>
 
           <div class="auth-visual-prompt">
             <span class="auth-visual-icon">✦</span>
             <p>
-              “Find an affordable braider near campus who works with natural hair.”
+              “Find a quiet café with reliable Wi-Fi, outlets, and late hours.”
             </p>
           </div>
         </div>
@@ -56,12 +56,13 @@
       <div class="auth-panel">
         <div class="auth-panel-content">
           <div class="auth-heading">
-            <span class="auth-kicker">Welcome back</span>
+            <span class="auth-kicker">Get started</span>
 
-            <h1 id="login-title">Sign in to CityGuide AI</h1>
+            <h1 id="signup-title">Create your account</h1>
 
             <p>
-              Continue your conversations and discover places matched to your needs.
+              Join CityGuide AI to save places and continue personalized
+              conversations.
             </p>
           </div>
 
@@ -71,7 +72,7 @@
             data-auth-provider="google"
           >
             <span class="google-icon" aria-hidden="true">
-              <svg viewBox="0 0 24 24" role="img">
+              <svg viewBox="0 0 24 24">
                 <path
                   fill="#4285F4"
                   d="M21.6 12.227c0-.709-.064-1.391-.182-2.045H12v3.868h5.382a4.6 4.6 0 0 1-1.995 3.018v2.509h3.227c1.889-1.74 2.986-4.304 2.986-7.35Z"
@@ -100,7 +101,28 @@
             <span></span>
           </div>
 
-          <form class="auth-form" action="#" method="post" novalidate data-auth-form="login">
+          <form class="auth-form" action="#" method="post" novalidate data-auth-form="signup">
+            <div class="form-field">
+              <label for="display-name">Full name</label>
+
+              <input
+                type="text"
+                id="display-name"
+                name="displayName"
+                autocomplete="name"
+                placeholder="Your full name"
+                minlength="2"
+                maxlength="80"
+                required
+              />
+
+              <p
+                class="field-error"
+                id="display-name-error"
+                aria-live="polite"
+              ></p>
+            </div>
+
             <div class="form-field">
               <label for="email">Email address</label>
 
@@ -118,21 +140,69 @@
             </div>
 
             <div class="form-field">
-              <div class="field-label-row">
-                <label for="password">Password</label>
-
-                <a href="#" class="forgot-password-link">
-                  Forgot password?
-                </a>
-              </div>
+              <label for="password">Password</label>
 
               <div class="password-field">
                 <input
                   type="password"
                   id="password"
                   name="password"
-                  autocomplete="current-password"
-                  placeholder="Enter your password"
+                  autocomplete="new-password"
+                  placeholder="Create a password"
+                  minlength="8"
+                  required
+                  aria-describedby="password-requirements password-error"
+                />
+
+                <button
+                  type="button"
+                  class="password-toggle"
+                  aria-label="Show password"
+                  aria-pressed="false"
+                  data-password-toggle
+                >
+                  <svg
+                    class="password-icon password-icon-show"
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                  >
+                    <path
+                      d="M2.5 12s3.5-6 9.5-6 9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6Z"
+                    />
+                    <circle cx="12" cy="12" r="3" />
+                  </svg>
+
+                  <svg
+                    class="password-icon password-icon-hide"
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                    hidden
+                  >
+                    <path d="m3 3 18 18" />
+                    <path d="M10.6 10.7a2 2 0 0 0 2.7 2.7" />
+                    <path d="M9.9 4.2A10.8 10.8 0 0 1 12 4c6 0 9.5 6 9.5 6a16.5 16.5 0 0 1-2.2 3" />
+                    <path d="M6.2 6.2C3.8 8 2.5 10 2.5 10s3.5 6 9.5 6a9.8 9.8 0 0 0 3.7-.7" />
+                  </svg>
+                </button>
+              </div>
+
+              <p class="field-hint" id="password-requirements">
+                Use at least 8 characters with a mix of letters and numbers.
+              </p>
+
+              <p class="field-error" id="password-error" aria-live="polite"></p>
+            </div>
+
+            <div class="form-field">
+              <label for="confirm-password">Confirm password</label>
+
+              <div class="password-field">
+                <input
+                  type="password"
+                  id="confirm-password"
+                  name="confirmPassword"
+                  autocomplete="new-password"
+                  placeholder="Enter your password again"
                   minlength="8"
                   required
                 />
@@ -169,15 +239,32 @@
                 </button>
               </div>
 
-              <p class="field-error" id="password-error" aria-live="polite"></p>
+              <p
+                class="field-error"
+                id="confirm-password-error"
+                aria-live="polite"
+              ></p>
             </div>
 
             <div class="auth-form-options">
-              <label class="remember-option">
-                <input type="checkbox" name="remember" />
-                <span>Keep me signed in</span>
+              <label class="remember-option terms-option">
+                <input
+                  type="checkbox"
+                  id="terms"
+                  name="terms"
+                  required
+                />
+
+                <span>
+                  I agree to the
+                  <a href="#">Terms of Service</a>
+                  and
+                  <a href="#">Privacy Policy</a>.
+                </span>
               </label>
             </div>
+
+            <p class="field-error" id="terms-error" aria-live="polite"></p>
 
             <div
               class="form-message"
@@ -187,20 +274,13 @@
             ></div>
 
             <button type="submit" class="auth-submit-button">
-              <span>Sign in</span>
+              <span>Create account</span>
             </button>
           </form>
 
           <p class="auth-switch">
-            Don’t have an account?
-            <a href="signup.html">Create one</a>
-          </p>
-
-          <p class="auth-legal">
-            By continuing, you agree to the
-            <a href="#">Terms of Service</a>
-            and
-            <a href="#">Privacy Policy</a>.
+            Already have an account?
+            <a href="login.html">Sign in</a>
           </p>
         </div>
       </div>
