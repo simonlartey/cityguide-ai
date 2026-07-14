@@ -101,7 +101,13 @@
             <span></span>
           </div>
 
-          <form class="auth-form" action="#" method="post" novalidate data-auth-form="signup">
+          <form
+            class="auth-form"
+            action="{{ url_for('auth.signup') }}"
+            method="post"
+            novalidate
+            data-auth-form="signup"
+          >
             <div class="form-field">
               <label for="display-name">Full name</label>
 
@@ -114,13 +120,14 @@
                 minlength="2"
                 maxlength="80"
                 required
+                value="{{ form_data.get('displayName', '') }}"
               />
 
               <p
                 class="field-error"
                 id="display-name-error"
                 aria-live="polite"
-              ></p>
+              >{{ errors.get('displayName', '') }}</p>
             </div>
 
             <div class="form-field">
@@ -134,9 +141,12 @@
                 inputmode="email"
                 placeholder="you@example.com"
                 required
+                value="{{ form_data.get('email', '') }}"
               />
 
-              <p class="field-error" id="email-error" aria-live="polite"></p>
+              <p class="field-error" id="email-error" aria-live="polite">
+                {{ errors.get('email', '') }}
+              </p>
             </div>
 
             <div class="form-field">
@@ -190,7 +200,9 @@
                 Use at least 8 characters with a mix of letters and numbers.
               </p>
 
-              <p class="field-error" id="password-error" aria-live="polite"></p>
+              <p class="field-error" id="password-error" aria-live="polite">
+                {{ errors.get('password', '') }}
+              </p>
             </div>
 
             <div class="form-field">
@@ -243,7 +255,7 @@
                 class="field-error"
                 id="confirm-password-error"
                 aria-live="polite"
-              ></p>
+              >{{ errors.get('confirmPassword', '') }}</p>
             </div>
 
             <div class="auth-form-options">
@@ -263,8 +275,9 @@
                 </span>
               </label>
             </div>
-
-            <p class="field-error" id="terms-error" aria-live="polite"></p>
+            <p class="field-error" id="terms-error" aria-live="polite">
+              {{ errors.get('terms', '') }}
+            </p>
 
             <div
               class="form-message"
