@@ -65,6 +65,12 @@
             </p>
           </div>
 
+          {% if signup_success %}
+          <div class="form-message" role="status" aria-live="polite">
+            Your account is ready. Sign in to continue.
+          </div>
+          {% endif %}
+
           <button
             type="button"
             class="auth-provider-button"

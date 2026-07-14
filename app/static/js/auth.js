@@ -378,11 +378,12 @@ function initializeAuthForms() {
   forms.forEach((form) => {
     initializeLiveValidation(form);
 
-    form.addEventListener("submit", async (event) => {
-      event.preventDefault();
+    form.addEventListener("submit", (event) => {
       clearFormMessage(form);
 
       if (!validateForm(form)) {
+        event.preventDefault();
+
         const firstInvalidField = form.querySelector(
           '[aria-invalid="true"]'
         );
@@ -392,19 +393,6 @@ function initializeAuthForms() {
       }
 
       setSubmittingState(form, true);
-
-      try {
-        await new Promise((resolve) => {
-          window.setTimeout(resolve, 500);
-        });
-
-        showFormMessage(
-          form,
-          "The authentication backend is not connected yet."
-        );
-      } finally {
-        setSubmittingState(form, false);
-      }
     });
   });
 }
