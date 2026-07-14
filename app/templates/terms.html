@@ -11,13 +11,13 @@
 
   <title>Terms of Service — CityGuide AI</title>
 
-  <link rel="stylesheet" href="src/css/legal.css" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/legal.css') }}" />
 </head>
 
 <body>
   <header class="legal-header">
     <a
-      href="index.html"
+      href="{{ url_for('main.index') }}"
       class="legal-logo"
       aria-label="Return to the CityGuide AI homepage"
     >
@@ -243,11 +243,11 @@
       </section>
 
       <div class="legal-actions">
-        <a href="signup.html" class="legal-primary-link">
+        <a href="{{ url_for('auth.signup') }}" class="legal-primary-link">
           Return to account creation
         </a>
 
-        <a href="privacy.html" class="legal-secondary-link">
+        <a href="{{ url_for('main.privacy') }}" class="legal-secondary-link">
           Read the Privacy Policy
         </a>
       </div>

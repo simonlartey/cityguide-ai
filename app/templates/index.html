@@ -4,14 +4,14 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>CityGuide AI — Your Local Expert</title>
-  <link rel="preload" as="image" href="src/images/hero_img.jpg" />
-  <link rel="stylesheet" href="src/css/styles.css" />
+  <link rel="preload" as="image" href="{{ url_for('static', filename='images/hero_img.jpg') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
 </head>
 
 <body>
   <nav class="navbar">
     <div class="container nav-inner">
-      <a href="#" class="logo">
+      <a href="{{ url_for('main.index') }}" class="logo">
         <span class="logo-mark">✦</span>
         <span>CityGuide AI</span>
       </a>
@@ -22,7 +22,7 @@
       </ul>
 
       <div class="nav-actions">
-        <a href="login.html" class="nav-cta">Start Exploring</a>
+        <a href="{{ url_for('auth.signup') }}" class="nav-cta">Start Exploring</a>
       </div>
     </div>
   </nav>
@@ -47,7 +47,7 @@
           </p>
 
           <div class="hero-actions">
-            <a href="login.html" class="btn btn-primary">Start Exploring</a>
+            <a href="{{ url_for('auth.signup') }}" class="btn btn-primary">Start Exploring</a>
           </div>
         </div>
       </div>
@@ -203,6 +203,6 @@
   </footer>
 
   <script defer src="https://unpkg.com/lucide@1.24.0"></script>
-  <script defer src="src/js/app.js"></script>
+  <script defer src="{{ url_for('static', filename='js/app.js') }}"></script>
 </body>
 </html>
