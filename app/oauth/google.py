@@ -1,6 +1,7 @@
 from flask import current_app, redirect, session, url_for
 from flask_dance.consumer import oauth_authorized, oauth_error
 from flask_dance.contrib.google import make_google_blueprint
+from requests import RequestException
 
 from app.services.auth_service import create_or_link_google_user
 
@@ -30,7 +31,18 @@ def create_google_blueprint():
                 url_for("auth.login", oauth_error="missing_token")
             )
 
-        response = blueprint.session.get(GOOGLE_USERINFO_URL)
+        try:
+            response = blueprint.session.get(
+                GOOGLE_USERINFO_URL,
+                timeout=10,
+            )
+        except RequestException:
+            current_app.logger.exception(
+                "Failed to contact Google userinfo endpoint."
+            )
+            return redirect(
+                url_for("auth.login", oauth_error="network")
+            )
 
         if not response.ok:
             current_app.logger.warning(

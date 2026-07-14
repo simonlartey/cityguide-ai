@@ -2,6 +2,7 @@ from unittest.mock import Mock
 
 from flask import session
 from flask_dance.consumer import oauth_authorized, oauth_error
+from requests import RequestException
 
 from app.extensions import db
 from app.models import User
@@ -100,6 +101,24 @@ def test_google_callback_handles_profile_request_failure(app):
 
     assert result.status_code == 302
     assert "oauth_error=profile_request" in result.headers["Location"]
+
+
+def test_google_callback_handles_network_failure(app):
+    google_blueprint = get_google_blueprint(app)
+    google_blueprint.session.get = Mock(side_effect=RequestException())
+
+    with app.test_request_context("/login/google/authorized"):
+        results = oauth_authorized.send(
+            google_blueprint,
+            token={"access_token": "token"},
+        )
+
+        assert results
+
+        result = results[0][1]
+
+    assert result.status_code == 302
+    assert "oauth_error=network" in result.headers["Location"]
 
 
 def test_google_callback_handles_invalid_profile(app):
