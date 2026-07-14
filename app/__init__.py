@@ -1,6 +1,6 @@
 from flask import Flask
 
-from app.extensions import db
+from app.extensions import db, migrate
 from config import Config
 
 
@@ -11,6 +11,7 @@ def create_app(config_class=Config):
     app.config.from_object(config_class)
 
     db.init_app(app)
+    migrate.init_app(app, db)
 
     from app import models  # noqa: F401
     from app.routes.auth import auth_bp
