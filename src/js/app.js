@@ -1,27 +1,27 @@
-const chatInput = document.querySelector(".chat-input input");
-const chatButton = document.querySelector(".chat-input button");
-const chatBody = document.querySelector(".chat-body");
+const hydrateIcons = () => {
+	if (window.lucide) {
+		lucide.createIcons();
+	}
+};
 
-function addMessage(text, type) {
-  const message = document.createElement("div");
-  message.classList.add("msg", type);
-  message.textContent = text;
-  chatBody.appendChild(message);
+if (typeof window.requestIdleCallback === "function") {
+	window.requestIdleCallback(hydrateIcons);
+} else {
+	window.setTimeout(hydrateIcons, 0);
 }
 
-chatButton.addEventListener("click", () => {
-  const userMessage = chatInput.value.trim();
+const miniChat = document.querySelector(".mini-chat");
 
-  if (!userMessage) return;
+if (miniChat) {
+	const observer = new IntersectionObserver(
+		([entry]) => {
+			if (entry.isIntersecting) {
+				miniChat.classList.add("animate-chat");
+				observer.unobserve(miniChat);
+			}
+		},
+		{ threshold: 0.35 }
+	);
 
-  addMessage(userMessage, "msg-user");
-
-  chatInput.value = "";
-
-  setTimeout(() => {
-    addMessage(
-      "Thanks! In the final version, our AI will return personalized local recommendations here.",
-      "msg-bot"
-    );
-  }, 600);
-});
+	observer.observe(miniChat);
+}
