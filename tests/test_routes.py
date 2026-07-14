@@ -12,6 +12,7 @@ from app.models import User
         ("/signup", b"Create your account"),
         ("/terms", b"Terms of Service"),
         ("/privacy", b"Privacy Policy"),
+        ("/dashboard", b"Dashboard"),
     ],
 )
 def test_page_routes_return_success(client, path, expected_text):
@@ -89,9 +90,11 @@ def test_signup_rejects_duplicate_email(client, app):
     [
         "/static/css/styles.css",
         "/static/css/auth.css",
+        "/static/css/dashboard.css",
         "/static/css/legal.css",
         "/static/js/app.js",
         "/static/js/auth.js",
+        "/static/js/dashboard.js",
         "/static/images/hero_img.jpg",
     ],
 )

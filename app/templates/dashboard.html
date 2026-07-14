@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <meta
+    name="description"
+    content="CityGuide AI local discovery dashboard."
+  />
+
+  <title>Dashboard — CityGuide AI</title>
+
+  <link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='css/dashboard.css') }}"
+  />
+</head>
+
+<body>
+  <div class="dashboard-shell">
+    <aside
+      class="dashboard-sidebar"
+      aria-label="Primary navigation"
+    >
+      <header class="sidebar-header">
+        <a
+          href="{{ url_for('main.index') }}"
+          class="dashboard-brand"
+          aria-label="CityGuide AI home"
+        >
+          <span
+            class="dashboard-brand-mark"
+            aria-hidden="true"
+          >
+            ✦
+          </span>
+
+          <span>CityGuide AI</span>
+        </a>
+
+        <button
+          type="button"
+          class="icon-button sidebar-collapse-button"
+          aria-label="Collapse sidebar"
+          disabled
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="chevrons-left"
+          ></span>
+        </button>
+      </header>
+
+      <button
+        type="button"
+        class="new-chat-button"
+      >
+        <span
+          aria-hidden="true"
+          data-lucide="plus"
+        ></span>
+
+        <span>New Chat</span>
+      </button>
+
+      <nav class="sidebar-navigation">
+        <a
+          href="{{ url_for('main.dashboard') }}"
+          class="sidebar-link sidebar-link--active"
+          aria-current="page"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="house"
+          ></span>
+
+          <span>Home</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="heart"
+          ></span>
+
+          <span>Saved Places</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="clock-3"
+          ></span>
+
+          <span>Recent</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="folder"
+          ></span>
+
+          <span>Collections</span>
+        </a>
+      </nav>
+
+      <section
+        class="sidebar-section recent-chats"
+        aria-labelledby="recent-chats-title"
+      >
+        <h2 id="recent-chats-title">
+          Recent chats
+        </h2>
+
+        <div class="recent-chat-list">
+          <button
+            type="button"
+            class="recent-chat-item"
+          >
+            <span>Best brunch spots</span>
+            <time datetime="2026-07-14">Today</time>
+          </button>
+
+          <button
+            type="button"
+            class="recent-chat-item recent-chat-item--active"
+          >
+            <span>Barbers for textured hair</span>
+            <time datetime="2026-07-14">Today</time>
+          </button>
+
+          <button
+            type="button"
+            class="recent-chat-item"
+          >
+            <span>Coffee shops with Wi-Fi</span>
+            <time datetime="2026-07-13">Yesterday</time>
+          </button>
+
+          <button
+            type="button"
+            class="recent-chat-item"
+          >
+            <span>Late night food</span>
+            <time datetime="2026-07-12">2 days ago</time>
+          </button>
+        </div>
+      </section>
+
+      <footer class="sidebar-footer">
+        <div class="sidebar-profile">
+          <div
+            class="profile-avatar"
+            aria-hidden="true"
+          >
+            SL
+          </div>
+
+          <div class="profile-copy">
+            <strong>Simon L.</strong>
+            <span>Portland, ME</span>
+          </div>
+
+          <button
+            type="button"
+            class="icon-button"
+            aria-label="Open profile menu"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="chevron-down"
+            ></span>
+          </button>
+        </div>
+      </footer>
+    </aside>
+
+    <main class="dashboard-workspace">
+      <header class="workspace-header">
+        <button
+          type="button"
+          class="location-selector"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="map-pin"
+          ></span>
+
+          <span>Portland, ME</span>
+
+          <span
+            aria-hidden="true"
+            data-lucide="chevron-down"
+          ></span>
+        </button>
+
+        <div class="workspace-actions">
+          <button
+            type="button"
+            class="icon-button"
+            aria-label="View conversation history"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="history"
+            ></span>
+          </button>
+
+          <button
+            type="button"
+            class="icon-button"
+            aria-label="Share conversation"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="share-2"
+            ></span>
+          </button>
+        </div>
+      </header>
+
+      <section
+        class="conversation-panel"
+        aria-labelledby="conversation-title"
+      >
+        <h1
+          id="conversation-title"
+          class="sr-only"
+        >
+          CityGuide AI conversation
+        </h1>
+
+        <div class="conversation-placeholder">
+          <span
+            class="conversation-placeholder-icon"
+            aria-hidden="true"
+          >
+            ✦
+          </span>
+
+          <p>
+            The conversation and recommendation experience
+            will be added in the next dashboard milestone.
+          </p>
+        </div>
+      </section>
+
+      <footer class="chat-composer-shell">
+        <div class="chat-composer">
+          <button
+            type="button"
+            class="icon-button composer-attachment-button"
+            aria-label="Attach a file"
+            disabled
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="paperclip"
+            ></span>
+          </button>
+
+          <label
+            class="sr-only"
+            for="dashboard-query"
+          >
+            Ask anything about your city
+          </label>
+
+          <input
+            id="dashboard-query"
+            name="query"
+            type="text"
+            placeholder="Ask anything about your city..."
+            autocomplete="off"
+          />
+
+          <button
+            type="button"
+            class="composer-send-button"
+            aria-label="Send message"
+            disabled
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="send"
+            ></span>
+          </button>
+        </div>
+
+        <p class="composer-disclaimer">
+          CityGuide AI can make mistakes. Check important information.
+        </p>
+      </footer>
+    </main>
+
+    <aside
+      class="dashboard-inspector"
+      aria-label="Map and place details"
+    >
+      <header class="inspector-header">
+        <div
+          class="inspector-tabs"
+          role="tablist"
+          aria-label="Recommendation views"
+        >
+          <button
+            type="button"
+            role="tab"
+            aria-selected="false"
+            disabled
+          >
+            Results
+          </button>
+
+          <button
+            type="button"
+            role="tab"
+            aria-selected="true"
+            class="inspector-tab--active"
+          >
+            Map
+          </button>
+        </div>
+
+        <button
+          type="button"
+          class="icon-button"
+          aria-label="Expand details panel"
+          disabled
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="maximize"
+          ></span>
+        </button>
+      </header>
+
+      <div class="inspector-placeholder">
+        <span
+          aria-hidden="true"
+          data-lucide="map"
+        ></span>
+
+        <h2>Map and place details</h2>
+
+        <p>
+          Selected recommendations will appear here once the
+          results experience is implemented.
+        </p>
+      </div>
+    </aside>
+  </div>
+
+  <script
+    defer
+    src="https://unpkg.com/lucide@1.24.0"
+  ></script>
+
+  <script
+    defer
+    src="{{ url_for('static', filename='js/dashboard.js') }}"
+  ></script>
+</body>
+</html>
