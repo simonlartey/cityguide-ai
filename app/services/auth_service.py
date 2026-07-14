@@ -119,3 +119,58 @@ def authenticate_user(email: str, password: str) -> User | None:
         return None
 
     return user
+
+
+def create_or_link_google_user(
+    *,
+    google_sub: str,
+    email: str,
+    email_verified: bool,
+    display_name: str,
+    avatar_url: str | None,
+) -> User:
+    """Create or update a user authenticated through Google."""
+
+    if not google_sub:
+        raise ValueError("Google profile is missing a subject identifier.")
+
+    normalized_email = normalize_email(email)
+
+    if not normalized_email or not email_verified:
+        raise ValueError("Google did not provide a verified email address.")
+
+    user = db.session.execute(
+        db.select(User).where(User.google_sub == google_sub)
+    ).scalar_one_or_none()
+
+    if user is None:
+        user = db.session.execute(
+            db.select(User).where(User.email == normalized_email)
+        ).scalar_one_or_none()
+
+    if user is None:
+        user = User(
+            email=normalized_email,
+            display_name=display_name.strip() or normalized_email,
+            password_hash=None,
+            google_sub=google_sub,
+            avatar_url=avatar_url,
+        )
+        db.session.add(user)
+    else:
+        if user.google_sub not in (None, google_sub):
+            raise ValueError(
+                "That email address is linked to another Google account."
+            )
+
+        user.google_sub = google_sub
+
+        if display_name.strip():
+            user.display_name = display_name.strip()
+
+        if avatar_url:
+            user.avatar_url = avatar_url
+
+    db.session.commit()
+
+    return user

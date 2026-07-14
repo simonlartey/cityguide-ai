@@ -21,6 +21,7 @@ auth_bp = Blueprint("auth", __name__)
 @auth_bp.route("/login", methods=["GET", "POST"])
 def login():
     signup_success = request.args.get("signup") == "success"
+    oauth_error = request.args.get("oauth_error")
     error = ""
     email_value = ""
 
@@ -44,6 +45,7 @@ def login():
         signup_success=signup_success,
         error=error,
         email_value=email_value,
+        oauth_error=oauth_error,
     )
 
 
