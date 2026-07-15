@@ -5,6 +5,9 @@ const SELECTORS = {
   sidebarShell: "#dashboard-shell",
   sidebarToggle: "[data-sidebar-toggle]",
   sidebarToggleIcon: "[data-sidebar-toggle-icon]",
+  inspectorTab: "[data-inspector-tab]",
+  inspectorPanel: "[data-inspector-panel]",
+  placeResult: "[data-place-result]",
 };
 
 const PLACES = {
@@ -152,6 +155,15 @@ const selectPlace = (placeId) => {
       );
     });
 
+  document
+    .querySelectorAll(SELECTORS.placeResult)
+    .forEach((result) => {
+      result.classList.toggle(
+        "inspector-result-item--active",
+        result.dataset.placeResult === placeId
+      );
+    });
+
   updatePlaceDetails(placeId);
 };
 
@@ -184,6 +196,45 @@ const initializeMapMarkers = () => {
     .forEach((marker) => {
       marker.addEventListener("click", () => {
         selectPlace(marker.dataset.placeMarker);
+      });
+    });
+};
+
+const activateInspectorTab = (tabName) => {
+  document
+    .querySelectorAll(SELECTORS.inspectorTab)
+    .forEach((tab) => {
+      const isActive = tab.dataset.inspectorTab === tabName;
+
+      tab.classList.toggle("inspector-tab--active", isActive);
+      tab.setAttribute("aria-selected", String(isActive));
+      tab.tabIndex = isActive ? 0 : -1;
+    });
+
+  document
+    .querySelectorAll(SELECTORS.inspectorPanel)
+    .forEach((panel) => {
+      panel.hidden = panel.dataset.inspectorPanel !== tabName;
+    });
+};
+
+const initializeInspectorTabs = () => {
+  document
+    .querySelectorAll(SELECTORS.inspectorTab)
+    .forEach((tab) => {
+      tab.addEventListener("click", () => {
+        activateInspectorTab(tab.dataset.inspectorTab);
+      });
+    });
+};
+
+const initializeInspectorResults = () => {
+  document
+    .querySelectorAll(SELECTORS.placeResult)
+    .forEach((result) => {
+      result.addEventListener("click", () => {
+        selectPlace(result.dataset.placeResult);
+        activateInspectorTab("map");
       });
     });
 };
@@ -235,6 +286,9 @@ const initializeDashboard = () => {
   initializeFilterChips();
   initializeRecommendationCards();
   initializeMapMarkers();
+  initializeInspectorTabs();
+  initializeInspectorResults();
+  activateInspectorTab("map");
   initializeSidebarToggle();
 };
 

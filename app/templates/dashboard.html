@@ -770,18 +770,23 @@
         >
           <button
             type="button"
+            id="inspector-results-tab"
             role="tab"
             aria-selected="false"
-            disabled
+            aria-controls="inspector-results-panel"
+            data-inspector-tab="results"
           >
             Results
           </button>
 
           <button
             type="button"
+            id="inspector-map-tab"
             role="tab"
             aria-selected="true"
             class="inspector-tab--active"
+            aria-controls="inspector-map-panel"
+            data-inspector-tab="map"
           >
             Map
           </button>
@@ -800,155 +805,204 @@
         </button>
       </header>
 
-      <div class="map-preview" aria-label="Map preview">
-        <div class="map-grid" aria-hidden="true"></div>
+      <div
+        id="inspector-results-panel"
+        data-inspector-panel
+        data-inspector-panel="results"
+        role="tabpanel"
+        aria-labelledby="inspector-results-tab"
+        hidden
+      >
+        <section class="inspector-results-list" aria-label="Recommended businesses">
+          <button type="button" class="inspector-result-item inspector-result-item--active" data-place-result="portland-fade-studio">
+            <span class="inspector-result-rank">1</span>
 
-        <span class="map-label map-label--old-port">Old Port</span>
-        <span class="map-label map-label--downtown">Downtown</span>
-
-        <span class="map-location-dot" aria-hidden="true"></span>
-
-        <button
-          type="button"
-          class="map-marker map-marker--one map-marker--active"
-          data-place-marker="portland-fade-studio"
-          aria-label="Portland Fade Studio"
-        >
-          <span>1</span>
-        </button>
-
-        <button
-          type="button"
-          class="map-marker map-marker--two"
-          data-place-marker="crown-and-co"
-          aria-label="Crown & Co. Barbershop"
-        >
-          <span>2</span>
-        </button>
-
-        <button
-          type="button"
-          class="map-marker map-marker--three"
-          data-place-marker="elevate-cuts"
-          aria-label="Elevate Cuts"
-        >
-          <span>3</span>
-        </button>
-      </div>
-
-      <article class="place-details-card">
-        <div class="place-hero place-hero--one" data-place-hero>
-          <button
-            type="button"
-            class="place-save-button"
-            aria-label="Save Portland Fade Studio"
-          >
-            <span
-              aria-hidden="true"
-              data-lucide="heart"
-            ></span>
+            <span class="inspector-result-copy">
+              <span class="inspector-result-name">Portland Fade Studio</span>
+              <span class="inspector-result-meta">4.9 · 0.4 mi · $$</span>
+            </span>
           </button>
 
-          <div class="place-gallery-strip" aria-hidden="true">
-            <span></span>
-            <span></span>
-            <span></span>
-            <span class="place-gallery-more">+12</span>
-          </div>
+          <button type="button" class="inspector-result-item" data-place-result="crown-and-co">
+            <span class="inspector-result-rank">2</span>
+
+            <span class="inspector-result-copy">
+              <span class="inspector-result-name">Crown &amp; Co. Barbershop</span>
+              <span class="inspector-result-meta">4.8 · 0.7 mi · $$</span>
+            </span>
+          </button>
+
+          <button type="button" class="inspector-result-item" data-place-result="elevate-cuts">
+            <span class="inspector-result-rank">3</span>
+
+            <span class="inspector-result-copy">
+              <span class="inspector-result-name">Elevate Cuts</span>
+              <span class="inspector-result-meta">4.7 · 1.1 mi · $</span>
+            </span>
+          </button>
+        </section>
+      </div>
+
+      <div
+        id="inspector-map-panel"
+        data-inspector-panel
+        data-inspector-panel="map"
+        role="tabpanel"
+        aria-labelledby="inspector-map-tab"
+      >
+        <div
+          class="map-preview"
+          aria-label="Map preview"
+        >
+          <div class="map-grid" aria-hidden="true"></div>
+
+          <span class="map-label map-label--old-port">Old Port</span>
+          <span class="map-label map-label--downtown">Downtown</span>
+
+          <span class="map-location-dot" aria-hidden="true"></span>
+
+          <button
+            type="button"
+            class="map-marker map-marker--one map-marker--active"
+            data-place-marker="portland-fade-studio"
+            aria-label="Portland Fade Studio"
+          >
+            <span>1</span>
+          </button>
+
+          <button
+            type="button"
+            class="map-marker map-marker--two"
+            data-place-marker="crown-and-co"
+            aria-label="Crown & Co. Barbershop"
+          >
+            <span>2</span>
+          </button>
+
+          <button
+            type="button"
+            class="map-marker map-marker--three"
+            data-place-marker="elevate-cuts"
+            aria-label="Elevate Cuts"
+          >
+            <span>3</span>
+          </button>
         </div>
 
-        <div class="place-details-content">
-          <div class="place-details-heading">
-            <h2 data-place-name>Portland Fade Studio</h2>
-
-            <div class="place-details-meta">
-              <span class="rating">
-                <span aria-hidden="true">★</span>
-                <span data-place-rating>4.9 (527 reviews)</span>
-              </span>
-
-              <span aria-hidden="true">·</span>
-              <span data-place-distance>0.4 mi</span>
-
-              <span aria-hidden="true">·</span>
-              <span data-place-price>$$</span>
-
-              <span class="availability-pill" data-place-status>Open now</span>
-            </div>
-          </div>
-
-          <div class="place-primary-actions">
-            <button type="button" class="place-primary-action">
-              <span
-                aria-hidden="true"
-                data-lucide="navigation"
-              ></span>
-              Directions
-            </button>
-
-            <button type="button">
-              <span
-                aria-hidden="true"
-                data-lucide="phone"
-              ></span>
-              Call
-            </button>
-
-            <button type="button">
-              <span
-                aria-hidden="true"
-                data-lucide="globe-2"
-              ></span>
-              Website
-            </button>
-
-            <button type="button">
+        <article class="place-details-card">
+          <div class="place-hero place-hero--one" data-place-hero>
+            <button
+              type="button"
+              class="place-save-button"
+              aria-label="Save Portland Fade Studio"
+            >
               <span
                 aria-hidden="true"
                 data-lucide="heart"
               ></span>
-              Save
             </button>
+
+            <div class="place-gallery-strip" aria-hidden="true">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span class="place-gallery-more">+12</span>
+            </div>
           </div>
 
-          <section class="place-match-reasons" aria-labelledby="place-match-reasons-title">
-            <h3 id="place-match-reasons-title">Why this matches your request</h3>
+          <div class="place-details-content">
+            <div class="place-details-heading">
+              <h2 data-place-name>Portland Fade Studio</h2>
 
-            <ul data-place-reasons>
-              <li>
-                <span aria-hidden="true" data-lucide="check"></span>
-                Specializes in textured hair and modern fades
-              </li>
-              <li>
-                <span aria-hidden="true" data-lucide="check"></span>
-                Highly rated by customers with similar hair types
-              </li>
-              <li>
-                <span aria-hidden="true" data-lucide="check"></span>
-                Affordable pricing
-              </li>
-              <li>
-                <span aria-hidden="true" data-lucide="check"></span>
-                Close to your location
-              </li>
-            </ul>
-          </section>
+              <div class="place-details-meta">
+                <span class="rating">
+                  <span aria-hidden="true">★</span>
+                  <span data-place-rating>4.9 (527 reviews)</span>
+                </span>
 
-          <section class="place-detail-list" aria-labelledby="place-detail-list-title">
-            <h3 id="place-detail-list-title">Details</h3>
+                <span aria-hidden="true">·</span>
+                <span data-place-distance>0.4 mi</span>
 
-            <p>
-              <span aria-hidden="true" data-lucide="map-pin"></span>
-              <span data-place-address>123 Congress St, Portland, ME 04101</span>
-            </p>
+                <span aria-hidden="true">·</span>
+                <span data-place-price>$$</span>
 
-            <p>
-              <span aria-hidden="true" data-lucide="clock-3"></span>
-              <span data-place-hours>Open today: 9:00 AM – 7:00 PM</span>
-            </p>
-          </section>
-        </div>
-      </article>
+                <span class="availability-pill" data-place-status>Open now</span>
+              </div>
+            </div>
+
+            <div class="place-primary-actions">
+              <button type="button" class="place-primary-action">
+                <span
+                  aria-hidden="true"
+                  data-lucide="navigation"
+                ></span>
+                Directions
+              </button>
+
+              <button type="button">
+                <span
+                  aria-hidden="true"
+                  data-lucide="phone"
+                ></span>
+                Call
+              </button>
+
+              <button type="button">
+                <span
+                  aria-hidden="true"
+                  data-lucide="globe-2"
+                ></span>
+                Website
+              </button>
+
+              <button type="button">
+                <span
+                  aria-hidden="true"
+                  data-lucide="heart"
+                ></span>
+                Save
+              </button>
+            </div>
+
+            <section class="place-match-reasons" aria-labelledby="place-match-reasons-title">
+              <h3 id="place-match-reasons-title">Why this matches your request</h3>
+
+              <ul data-place-reasons>
+                <li>
+                  <span aria-hidden="true" data-lucide="check"></span>
+                  Specializes in textured hair and modern fades
+                </li>
+                <li>
+                  <span aria-hidden="true" data-lucide="check"></span>
+                  Highly rated by customers with similar hair types
+                </li>
+                <li>
+                  <span aria-hidden="true" data-lucide="check"></span>
+                  Affordable pricing
+                </li>
+                <li>
+                  <span aria-hidden="true" data-lucide="check"></span>
+                  Close to your location
+                </li>
+              </ul>
+            </section>
+
+            <section class="place-detail-list" aria-labelledby="place-detail-list-title">
+              <h3 id="place-detail-list-title">Details</h3>
+
+              <p>
+                <span aria-hidden="true" data-lucide="map-pin"></span>
+                <span data-place-address>123 Congress St, Portland, ME 04101</span>
+              </p>
+
+              <p>
+                <span aria-hidden="true" data-lucide="clock-3"></span>
+                <span data-place-hours>Open today: 9:00 AM – 7:00 PM</span>
+              </p>
+            </section>
+          </div>
+        </article>
+      </div>
     </aside>
   </div>
 

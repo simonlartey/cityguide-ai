@@ -1360,6 +1360,70 @@ svg {
   color: var(--dashboard-muted);
 }
 
+[data-inspector-panel][hidden] {
+  display: none;
+}
+
+.inspector-results-list {
+  display: grid;
+  gap: 10px;
+  padding: 18px;
+}
+
+.inspector-result-item {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: 12px;
+  min-height: 72px;
+  padding: 12px;
+  color: var(--dashboard-text);
+  background: var(--dashboard-surface-raised);
+  border: 1px solid var(--dashboard-border);
+  border-radius: 12px;
+  text-align: left;
+}
+
+.inspector-result-item:hover,
+.inspector-result-item--active {
+  border-color: rgba(201, 137, 43, 0.38);
+  background: var(--dashboard-accent-soft);
+}
+
+.inspector-result-rank {
+  display: grid;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  color: white;
+  background: var(--dashboard-accent);
+  border-radius: 50%;
+  font-size: 0.76rem;
+  font-weight: 800;
+}
+
+.inspector-result-copy {
+  min-width: 0;
+}
+
+.inspector-result-name,
+.inspector-result-meta {
+  display: block;
+}
+
+.inspector-result-name {
+  overflow: hidden;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.inspector-result-meta {
+  margin-top: 5px;
+  color: var(--dashboard-muted);
+  font-size: 0.72rem;
+}
+
 @media (max-width: 1260px) {
   :root {
     --sidebar-width: 250px;
