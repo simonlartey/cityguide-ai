@@ -751,7 +751,11 @@
       </section>
 
       <footer class="chat-composer-shell">
-        <div class="chat-composer">
+        <form
+          id="dashboard-search-form"
+          class="chat-composer"
+          novalidate
+        >
           <button
             type="button"
             class="icon-button composer-attachment-button"
@@ -761,6 +765,7 @@
             <span
               aria-hidden="true"
               data-lucide="paperclip"
+
             ></span>
           </button>
 
@@ -777,10 +782,14 @@
             type="text"
             placeholder="Ask anything about your city..."
             autocomplete="off"
+            maxlength="500"
+            required
+            aria-describedby="dashboard-search-status"
           />
 
           <button
-            type="button"
+            id="dashboard-search-submit"
+            type="submit"
             class="composer-send-button"
             aria-label="Send message"
             disabled
@@ -790,7 +799,17 @@
               data-lucide="send"
             ></span>
           </button>
-        </div>
+        </form>
+
+        <p
+          id="dashboard-search-status"
+          class="sr-only"
+          role="status"
+          aria-live="polite"
+          aria-atomic="true"
+        >
+          Ready to search.
+        </p>
 
         <p class="composer-disclaimer">
           CityGuide AI can make mistakes. Check important information.
