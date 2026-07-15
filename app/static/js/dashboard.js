@@ -2,6 +2,7 @@ const SELECTORS = {
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   placeMarker: "[data-place-marker]",
+  placeSaveButton: "[data-place-save-button]",
   sidebarShell: "#dashboard-shell",
   sidebarToggle: "[data-sidebar-toggle]",
   sidebarToggleIcon: "[data-sidebar-toggle-icon]",
@@ -99,6 +100,16 @@ const updatePlaceDetails = (placeId) => {
 
   document.querySelector("[data-place-name]").textContent =
     place.name;
+
+  document
+    .querySelectorAll(SELECTORS.placeSaveButton)
+    .forEach((button) => {
+      button.setAttribute(
+        "aria-label",
+        `Save ${place.name}`
+      );
+    });
+
   document.querySelector("[data-place-rating]").textContent =
     place.rating;
   document.querySelector("[data-place-distance]").textContent =
