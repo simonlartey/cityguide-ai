@@ -5,6 +5,8 @@ const SELECTORS = {
   sidebarShell: "#dashboard-shell",
   sidebarToggle: "[data-sidebar-toggle]",
   sidebarToggleIcon: "[data-sidebar-toggle-icon]",
+  mobileSidebarToggle: "[data-mobile-sidebar-toggle]",
+  sidebarBackdrop: "[data-sidebar-backdrop]",
   inspectorTab: "[data-inspector-tab]",
   inspectorPanel: "[data-inspector-panel]",
   placeResult: "[data-place-result]",
@@ -254,8 +256,8 @@ const initializeSidebarToggle = () => {
     return;
   }
 
-  toggle.addEventListener("click", () => {
-    const isCollapsed = shell.classList.toggle(
+  const syncSidebarToggleState = () => {
+    const isCollapsed = shell.classList.contains(
       "dashboard-shell--sidebar-collapsed"
     );
 
@@ -279,6 +281,95 @@ const initializeSidebarToggle = () => {
     );
 
     hydrateDashboardIcons();
+  };
+
+  toggle.addEventListener("click", () => {
+    shell.classList.toggle(
+      "dashboard-shell--sidebar-collapsed"
+    );
+
+    syncSidebarToggleState();
+  });
+
+  syncSidebarToggleState();
+};
+
+const setMobileSidebarOpen = (isOpen) => {
+  const shell = document.querySelector(
+    SELECTORS.sidebarShell
+  );
+  const toggle = document.querySelector(
+    SELECTORS.mobileSidebarToggle
+  );
+  const backdrop = document.querySelector(
+    SELECTORS.sidebarBackdrop
+  );
+
+  if (!shell || !toggle || !backdrop) {
+    return;
+  }
+
+  shell.classList.toggle(
+    "dashboard-shell--mobile-sidebar-open",
+    isOpen
+  );
+
+  toggle.setAttribute(
+    "aria-expanded",
+    String(isOpen)
+  );
+
+  toggle.setAttribute(
+    "aria-label",
+    isOpen
+      ? "Close navigation"
+      : "Open navigation"
+  );
+
+  backdrop.hidden = !isOpen;
+
+  document.body.style.overflow = isOpen
+    ? "hidden"
+    : "";
+};
+
+const initializeMobileSidebar = () => {
+  const shell = document.querySelector(
+    SELECTORS.sidebarShell
+  );
+  const toggle = document.querySelector(
+    SELECTORS.mobileSidebarToggle
+  );
+  const backdrop = document.querySelector(
+    SELECTORS.sidebarBackdrop
+  );
+
+  if (!shell || !toggle || !backdrop) {
+    return;
+  }
+
+  toggle.addEventListener("click", () => {
+    const isOpen = shell.classList.contains(
+      "dashboard-shell--mobile-sidebar-open"
+    );
+
+    setMobileSidebarOpen(!isOpen);
+  });
+
+  backdrop.addEventListener("click", () => {
+    setMobileSidebarOpen(false);
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (
+      event.key === "Escape" &&
+      shell.classList.contains(
+        "dashboard-shell--mobile-sidebar-open"
+      )
+    ) {
+      setMobileSidebarOpen(false);
+      toggle.focus();
+    }
   });
 };
 
@@ -290,6 +381,7 @@ const initializeDashboard = () => {
   initializeInspectorResults();
   activateInspectorTab("map");
   initializeSidebarToggle();
+  initializeMobileSidebar();
 };
 
 document.addEventListener("DOMContentLoaded", initializeDashboard);

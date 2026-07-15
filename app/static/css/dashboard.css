@@ -373,6 +373,23 @@ svg {
   padding: 0 28px;
 }
 
+.mobile-sidebar-button {
+  display: none;
+}
+
+.dashboard-sidebar-backdrop {
+  position: fixed;
+  z-index: 80;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.58);
+  border: 0;
+  backdrop-filter: blur(3px);
+}
+
+.dashboard-sidebar-backdrop[hidden] {
+  display: none;
+}
+
 .location-selector {
   display: inline-flex;
   min-height: 42px;
@@ -1495,7 +1512,91 @@ svg {
   }
 
   .dashboard-sidebar {
+    position: fixed;
+    z-index: 90;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    width: min(290px, 86vw);
+    padding: 22px;
+    transform: translateX(-105%);
+    transition: transform 220ms ease;
+    box-shadow: 28px 0 70px rgba(0, 0, 0, 0.42);
+  }
+
+  .dashboard-shell--mobile-sidebar-open
+    .dashboard-sidebar {
+    transform: translateX(0);
+  }
+
+  .mobile-sidebar-button {
+    display: inline-grid;
+  }
+
+  .sidebar-collapse-button {
     display: none;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .dashboard-sidebar {
+    width: min(290px, 86vw);
+    padding: 22px;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .dashboard-brand-text,
+  .dashboard-shell--sidebar-collapsed
+    .new-chat-label,
+  .dashboard-shell--sidebar-collapsed
+    .sidebar-link-label,
+  .dashboard-shell--sidebar-collapsed
+    .profile-copy,
+  .dashboard-shell--sidebar-collapsed
+    .sidebar-profile
+    > .icon-button {
+    display: initial;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .recent-chats {
+    display: block;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .sidebar-header {
+    display: flex;
+    justify-items: initial;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .new-chat-button {
+    width: 100%;
+    justify-content: flex-start;
+    align-self: stretch;
+    padding: 0 18px;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .sidebar-navigation {
+    justify-items: stretch;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .sidebar-link {
+    width: 100%;
+    justify-content: flex-start;
+    padding: 0 14px;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .sidebar-footer {
+    display: block;
+  }
+
+  .dashboard-shell--sidebar-collapsed
+    .sidebar-profile {
+    justify-content: flex-start;
   }
 
   .dashboard-workspace {

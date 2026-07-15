@@ -199,8 +199,30 @@
       </footer>
     </aside>
 
+    <button
+      type="button"
+      class="dashboard-sidebar-backdrop"
+      data-sidebar-backdrop
+      aria-label="Close menu"
+      hidden
+    ></button>
+
     <main class="dashboard-workspace">
       <header class="workspace-header">
+        <button
+          type="button"
+          class="icon-button mobile-sidebar-button"
+          data-mobile-sidebar-toggle
+          aria-label="Open menu"
+          aria-expanded="false"
+        >
+          <span
+            aria-hidden="true"
+            data-mobile-sidebar-toggle-icon
+            data-lucide="menu"
+          ></span>
+        </button>
+
         <button
           type="button"
           class="location-selector"
