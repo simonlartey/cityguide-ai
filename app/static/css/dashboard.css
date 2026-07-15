@@ -1467,6 +1467,95 @@ svg {
   font-size: 0.72rem;
 }
 
+.dashboard-shell {
+  transition: grid-template-columns 220ms ease;
+}
+
+.dashboard-sidebar {
+  overflow: hidden;
+  transition:
+    padding 220ms ease,
+    width 220ms ease;
+}
+
+.dashboard-shell--sidebar-collapsed {
+  --sidebar-width: 84px;
+}
+
+.dashboard-shell--sidebar-collapsed .dashboard-sidebar {
+  padding-inline: 14px;
+}
+
+.dashboard-shell--sidebar-collapsed .sidebar-header {
+  display: grid;
+  justify-items: center;
+  gap: 10px;
+}
+
+.dashboard-shell--sidebar-collapsed .dashboard-brand {
+  justify-content: center;
+}
+
+.dashboard-shell--sidebar-collapsed .dashboard-brand-text,
+.dashboard-shell--sidebar-collapsed .new-chat-label,
+.dashboard-shell--sidebar-collapsed .sidebar-link-label,
+.dashboard-shell--sidebar-collapsed .recent-chats,
+.dashboard-shell--sidebar-collapsed .profile-copy,
+.dashboard-shell--sidebar-collapsed
+  .sidebar-profile
+  > .icon-button {
+  display: none;
+}
+
+.dashboard-shell--sidebar-collapsed .sidebar-collapse-button {
+  width: 40px;
+  height: 40px;
+}
+
+.dashboard-shell--sidebar-collapsed .new-chat-button {
+  width: 48px;
+  min-height: 48px;
+  justify-content: center;
+  align-self: center;
+  padding: 0;
+  border-radius: 14px;
+}
+
+.dashboard-shell--sidebar-collapsed .new-chat-button svg {
+  width: 20px;
+  height: 20px;
+}
+
+.dashboard-shell--sidebar-collapsed .sidebar-navigation {
+  justify-items: center;
+}
+
+.dashboard-shell--sidebar-collapsed .sidebar-link {
+  width: 48px;
+  min-height: 48px;
+  justify-content: center;
+  padding: 0;
+}
+
+.dashboard-shell--sidebar-collapsed .sidebar-link--active {
+  box-shadow:
+    inset 3px 0 0 var(--dashboard-accent);
+}
+
+.dashboard-shell--sidebar-collapsed .sidebar-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.dashboard-shell--sidebar-collapsed .sidebar-profile {
+  justify-content: center;
+}
+
+.dashboard-shell--sidebar-collapsed .profile-avatar {
+  width: 42px;
+  height: 42px;
+}
+
 @media (max-width: 1260px) {
   :root {
     --sidebar-width: 250px;
@@ -1701,93 +1790,4 @@ svg {
     width: 38px;
     height: 38px;
   }
-}
-
-.dashboard-shell {
-  transition: grid-template-columns 220ms ease;
-}
-
-.dashboard-sidebar {
-  overflow: hidden;
-  transition:
-    padding 220ms ease,
-    width 220ms ease;
-}
-
-.dashboard-shell--sidebar-collapsed {
-  --sidebar-width: 84px;
-}
-
-.dashboard-shell--sidebar-collapsed .dashboard-sidebar {
-  padding-inline: 14px;
-}
-
-.dashboard-shell--sidebar-collapsed .sidebar-header {
-  display: grid;
-  justify-items: center;
-  gap: 10px;
-}
-
-.dashboard-shell--sidebar-collapsed .dashboard-brand {
-  justify-content: center;
-}
-
-.dashboard-shell--sidebar-collapsed .dashboard-brand-text,
-.dashboard-shell--sidebar-collapsed .new-chat-label,
-.dashboard-shell--sidebar-collapsed .sidebar-link-label,
-.dashboard-shell--sidebar-collapsed .recent-chats,
-.dashboard-shell--sidebar-collapsed .profile-copy,
-.dashboard-shell--sidebar-collapsed
-  .sidebar-profile
-  > .icon-button {
-  display: none;
-}
-
-.dashboard-shell--sidebar-collapsed .sidebar-collapse-button {
-  width: 40px;
-  height: 40px;
-}
-
-.dashboard-shell--sidebar-collapsed .new-chat-button {
-  width: 48px;
-  min-height: 48px;
-  justify-content: center;
-  align-self: center;
-  padding: 0;
-  border-radius: 14px;
-}
-
-.dashboard-shell--sidebar-collapsed .new-chat-button svg {
-  width: 20px;
-  height: 20px;
-}
-
-.dashboard-shell--sidebar-collapsed .sidebar-navigation {
-  justify-items: center;
-}
-
-.dashboard-shell--sidebar-collapsed .sidebar-link {
-  width: 48px;
-  min-height: 48px;
-  justify-content: center;
-  padding: 0;
-}
-
-.dashboard-shell--sidebar-collapsed .sidebar-link--active {
-  box-shadow:
-    inset 3px 0 0 var(--dashboard-accent);
-}
-
-.dashboard-shell--sidebar-collapsed .sidebar-footer {
-  display: flex;
-  justify-content: center;
-}
-
-.dashboard-shell--sidebar-collapsed .sidebar-profile {
-  justify-content: center;
-}
-
-.dashboard-shell--sidebar-collapsed .profile-avatar {
-  width: 42px;
-  height: 42px;
 }
