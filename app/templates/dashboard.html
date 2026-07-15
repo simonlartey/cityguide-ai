@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <meta
+    name="description"
+    content="CityGuide AI local discovery dashboard."
+  />
+
+  <title>Dashboard — CityGuide AI</title>
+
+  <link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='css/dashboard.css') }}"
+  />
+</head>
+
+<body>
+  <div
+    id="dashboard-shell"
+    class="dashboard-shell"
+  >
+    <aside
+      id="dashboard-sidebar"
+      class="dashboard-sidebar"
+      aria-label="Primary navigation"
+    >
+      <header class="sidebar-header">
+        <a
+          href="{{ url_for('main.index') }}"
+          class="dashboard-brand"
+          aria-label="CityGuide AI home"
+        >
+          <span
+            class="dashboard-brand-mark"
+            aria-hidden="true"
+          >
+            ✦
+          </span>
+
+          <span class="dashboard-brand-text">CityGuide AI</span>
+        </a>
+
+        <button
+          type="button"
+          id="sidebar-toggle"
+          data-sidebar-toggle
+          class="icon-button sidebar-collapse-button"
+          aria-label="Collapse sidebar"
+          aria-expanded="true"
+        >
+          <span
+            id="sidebar-toggle-icon"
+            data-sidebar-toggle-icon
+            aria-hidden="true"
+            data-lucide="chevrons-left"
+          ></span>
+        </button>
+      </header>
+
+      <button
+        type="button"
+        class="new-chat-button"
+        aria-label="New Chat"
+      >
+        <span
+          aria-hidden="true"
+          data-lucide="plus"
+        ></span>
+
+        <span class="new-chat-label">New Chat</span>
+      </button>
+
+      <nav class="sidebar-navigation">
+        <a
+          href="{{ url_for('main.dashboard') }}"
+          class="sidebar-link sidebar-link--active nav-link"
+          aria-label="Home"
+          aria-current="page"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="house"
+          ></span>
+
+            <span class="sidebar-link-label">Home</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link nav-link"
+          aria-label="Saved Places"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="heart"
+          ></span>
+
+            <span class="sidebar-link-label">Saved Places</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link nav-link"
+          aria-label="Recent"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="clock-3"
+          ></span>
+
+            <span class="sidebar-link-label">Recent</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link nav-link"
+          aria-label="Collections"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="folder"
+          ></span>
+
+            <span class="sidebar-link-label">Collections</span>
+        </a>
+      </nav>
+
+      <section
+        class="sidebar-section recent-chats"
+        aria-labelledby="recent-chats-title"
+      >
+        <h2 id="recent-chats-title">
+          <span class="section-title">
+          Recent chats
+          </span>
+        </h2>
+
+        <div class="recent-chat-list">
+          <button
+            type="button"
+            class="recent-chat-item recent-chat"
+          >
+            <span class="chat-title">Best brunch spots</span>
+            <time class="chat-time" datetime="2026-07-14">Today</time>
+          </button>
+
+          <button
+            type="button"
+            class="recent-chat-item recent-chat recent-chat-item--active"
+          >
+            <span class="chat-title">Barbers for textured hair</span>
+            <time class="chat-time" datetime="2026-07-14">Today</time>
+          </button>
+
+          <button
+            type="button"
+            class="recent-chat-item recent-chat"
+          >
+            <span class="chat-title">Coffee shops with Wi-Fi</span>
+            <time class="chat-time" datetime="2026-07-13">Yesterday</time>
+          </button>
+
+          <button
+            type="button"
+            class="recent-chat-item recent-chat"
+          >
+            <span class="chat-title">Late night food</span>
+            <time class="chat-time" datetime="2026-07-12">2 days ago</time>
+          </button>
+        </div>
+      </section>
+
+      <footer class="sidebar-footer">
+        <div class="sidebar-profile">
+          <div
+            class="profile-avatar"
+            aria-hidden="true"
+          >
+            SL
+          </div>
+
+          <div class="profile-copy profile-details">
+            <strong>Simon L.</strong>
+            <span>Portland, ME</span>
+          </div>
+
+          <button
+            type="button"
+            class="icon-button"
+            aria-label="Open profile menu"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="chevron-down"
+            ></span>
+          </button>
+        </div>
+      </footer>
+    </aside>
+
+    <button
+      type="button"
+      class="dashboard-sidebar-backdrop"
+      data-sidebar-backdrop
+      aria-label="Close menu"
+      hidden
+    ></button>
+
+    <main class="dashboard-workspace">
+      <header class="workspace-header">
+        <button
+          type="button"
+          class="icon-button mobile-sidebar-button"
+          data-mobile-sidebar-toggle
+          aria-label="Open menu"
+          aria-expanded="false"
+        >
+          <span
+            aria-hidden="true"
+            data-mobile-sidebar-toggle-icon
+            data-lucide="menu"
+          ></span>
+        </button>
+
+        <button
+          type="button"
+          class="location-selector"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="map-pin"
+          ></span>
+
+          <span>Portland, ME</span>
+
+          <span
+            aria-hidden="true"
+            data-lucide="chevron-down"
+          ></span>
+        </button>
+
+        <div class="workspace-actions">
+          <button
+            type="button"
+            class="icon-button"
+            aria-label="View conversation history"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="history"
+            ></span>
+          </button>
+
+          <button
+            type="button"
+            class="icon-button"
+            aria-label="Share conversation"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="share-2"
+            ></span>
+          </button>
+
+          <button
+            type="button"
+            class="icon-button mobile-inspector-button"
+            data-mobile-inspector-toggle
+            aria-label="Open inspector"
+            aria-controls="dashboard-inspector"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="panel-right-open"
+            ></span>
+          </button>
+        </div>
+      </header>
+
+      <section
+        class="conversation-panel"
+        aria-labelledby="conversation-title"
+      >
+        <h1
+          id="conversation-title"
+          class="sr-only"
+        >
+          CityGuide AI conversation and recommendations
+        </h1>
+
+        <div class="conversation-content">
+          <div class="message-row message-row--user">
+            <article class="message-bubble message-bubble--user">
+              <p>
+                I need a barber for textured hair in Portland.
+                Somewhere affordable and highly rated.
+              </p>
+
+              <time datetime="2026-07-14T10:32:00">
+                10:32 AM
+              </time>
+            </article>
+
+            <div
+              class="message-avatar message-avatar--user"
+              aria-label="Simon Lartey"
+            >
+              SL
+            </div>
+          </div>
+
+          <div class="message-row message-row--assistant">
+            <div
+              class="message-avatar message-avatar--assistant"
+              aria-hidden="true"
+            >
+              ✦
+            </div>
+
+            <article class="message-bubble message-bubble--assistant">
+              <p>
+                Got it! I found 5 highly rated barbers that specialize
+                in textured hair in Portland. Here are my top picks based
+                on reviews, price, distance, and availability.
+              </p>
+
+              <time datetime="2026-07-14T10:33:00">
+                10:33 AM
+              </time>
+            </article>
+          </div>
+
+          <section
+            class="search-progress"
+            aria-labelledby="search-progress-title"
+          >
+            <div class="search-progress-heading">
+              <h2 id="search-progress-title">
+                Searching local businesses...
+              </h2>
+
+              <span class="search-progress-status">
+                Complete
+              </span>
+            </div>
+
+            <ul class="search-progress-list">
+              <li>
+                <span
+                  class="progress-check"
+                  aria-hidden="true"
+                  data-lucide="check"
+                ></span>
+                <span>Analyzing reviews</span>
+              </li>
+
+              <li>
+                <span
+                  class="progress-check"
+                  aria-hidden="true"
+                  data-lucide="check"
+                ></span>
+                <span>Checking availability</span>
+              </li>
+
+              <li>
+                <span
+                  class="progress-check"
+                  aria-hidden="true"
+                  data-lucide="check"
+                ></span>
+                <span>Comparing prices</span>
+              </li>
+
+              <li>
+                <span
+                  class="progress-check"
+                  aria-hidden="true"
+                  data-lucide="check"
+                ></span>
+                <span>Ranking results</span>
+              </li>
+            </ul>
+          </section>
+
+          <div
+            class="result-filters"
+            role="toolbar"
+            aria-label="Recommendation filters"
+          >
+            <button
+              type="button"
+              class="filter-chip filter-chip--active"
+              aria-pressed="true"
+              data-filter="all"
+            >
+              All
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="budget"
+            >
+              $
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="moderate"
+            >
+              $$
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="premium"
+            >
+              $$$
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="open"
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="clock-3"
+              ></span>
+              Open Now
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="rated"
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="badge-check"
+              ></span>
+              Highly Rated
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="nearby"
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="footprints"
+              ></span>
+              Walking Distance
+            </button>
+
+            <button
+              type="button"
+              class="filter-settings-button"
+              aria-label="Open advanced filters"
+              disabled
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="sliders-horizontal"
+              ></span>
+            </button>
+          </div>
+
+          <section
+            class="recommendation-list"
+            aria-label="Recommended businesses"
+          >
+            <article
+              class="recommendation-card recommendation-card--selected"
+              data-recommendation-card
+              data-place-id="portland-fade-studio"
+              tabindex="0"
+            >
+              <div class="recommendation-image recommendation-image--one">
+                <span class="recommendation-rank">1</span>
+
+                <span
+                  class="recommendation-image-label"
+                  aria-hidden="true"
+                >
+                  Portland barber studio
+                </span>
+              </div>
+
+              <div class="recommendation-copy">
+                <div class="recommendation-heading">
+                  <div>
+                    <h2>Portland Fade Studio</h2>
+
+                    <div class="recommendation-meta">
+                      <span class="rating">
+                        <span aria-hidden="true">★</span>
+                        4.9 (527)
+                      </span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>0.4 mi</span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>$$</span>
+
+                      <span class="availability-pill">Open now</span>
+                    </div>
+                  </div>
+
+                  <button
+                    type="button"
+                    class="save-place-button"
+                    aria-label="Save Portland Fade Studio"
+                  >
+                    <span
+                      aria-hidden="true"
+                      data-lucide="heart"
+                    ></span>
+                  </button>
+                </div>
+
+                <p class="recommendation-description">
+                  Specializes in fades, tapers, and textured styles.
+                  Known for attention to detail and great vibes.
+                </p>
+
+                <span class="recommendation-tag">
+                  Great for textured hair
+                </span>
+              </div>
+
+              <div class="recommendation-actions">
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="navigation"
+                  ></span>
+                  Directions
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="phone"
+                  ></span>
+                  Call
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="globe-2"
+                  ></span>
+                  Website
+                </button>
+              </div>
+            </article>
+
+            <article
+              class="recommendation-card"
+              data-recommendation-card
+              data-place-id="crown-and-co"
+              tabindex="0"
+            >
+              <div class="recommendation-image recommendation-image--two">
+                <span class="recommendation-rank">2</span>
+
+                <span
+                  class="recommendation-image-label"
+                  aria-hidden="true"
+                >
+                  Modern local barbershop
+                </span>
+              </div>
+
+              <div class="recommendation-copy">
+                <div class="recommendation-heading">
+                  <div>
+                    <h2>Crown &amp; Co. Barbershop</h2>
+
+                    <div class="recommendation-meta">
+                      <span class="rating">
+                        <span aria-hidden="true">★</span>
+                        4.8 (319)
+                      </span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>0.7 mi</span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>$$</span>
+
+                      <span class="availability-pill">Open now</span>
+                    </div>
+                  </div>
+
+                  <button
+                    type="button"
+                    class="save-place-button"
+                    aria-label="Save Crown and Company Barbershop"
+                  >
+                    <span
+                      aria-hidden="true"
+                      data-lucide="heart"
+                    ></span>
+                  </button>
+                </div>
+
+                <p class="recommendation-description">
+                  Clean cuts and expert stylists. Friendly staff and
+                  student discounts available.
+                </p>
+
+                <span class="recommendation-tag">
+                  Student friendly
+                </span>
+              </div>
+
+              <div class="recommendation-actions">
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="navigation"
+                  ></span>
+                  Directions
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="phone"
+                  ></span>
+                  Call
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="globe-2"
+                  ></span>
+                  Website
+                </button>
+              </div>
+            </article>
+
+            <article
+              class="recommendation-card"
+              data-recommendation-card
+              data-place-id="elevate-cuts"
+              tabindex="0"
+            >
+              <div class="recommendation-image recommendation-image--three">
+                <span class="recommendation-rank">3</span>
+
+                <span
+                  class="recommendation-image-label"
+                  aria-hidden="true"
+                >
+                  Affordable neighborhood barber
+                </span>
+              </div>
+
+              <div class="recommendation-copy">
+                <div class="recommendation-heading">
+                  <div>
+                    <h2>Elevate Cuts</h2>
+
+                    <div class="recommendation-meta">
+                      <span class="rating">
+                        <span aria-hidden="true">★</span>
+                        4.7 (214)
+                      </span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>1.1 mi</span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>$</span>
+
+                      <span class="availability-pill">Open now</span>
+                    </div>
+                  </div>
+
+                  <button
+                    type="button"
+                    class="save-place-button"
+                    aria-label="Save Elevate Cuts"
+                  >
+                    <span
+                      aria-hidden="true"
+                      data-lucide="heart"
+                    ></span>
+                  </button>
+                </div>
+
+                <p class="recommendation-description">
+                  Affordable and precise. Great for curls, coils,
+                  and waves.
+                </p>
+
+                <span class="recommendation-tag">
+                  Budget friendly
+                </span>
+              </div>
+
+              <div class="recommendation-actions">
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="navigation"
+                  ></span>
+                  Directions
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="phone"
+                  ></span>
+                  Call
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="globe-2"
+                  ></span>
+                  Website
+                </button>
+              </div>
+            </article>
+          </section>
+        </div>
+      </section>
+
+      <footer class="chat-composer-shell">
+        <div class="chat-composer">
+          <button
+            type="button"
+            class="icon-button composer-attachment-button"
+            aria-label="Attach a file"
+            disabled
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="paperclip"
+            ></span>
+          </button>
+
+          <label
+            class="sr-only"
+            for="dashboard-query"
+          >
+            Ask anything about your city
+          </label>
+
+          <input
+            id="dashboard-query"
+            name="query"
+            type="text"
+            placeholder="Ask anything about your city..."
+            autocomplete="off"
+          />
+
+          <button
+            type="button"
+            class="composer-send-button"
+            aria-label="Send message"
+            disabled
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="send"
+            ></span>
+          </button>
+        </div>
+
+        <p class="composer-disclaimer">
+          CityGuide AI can make mistakes. Check important information.
+        </p>
+      </footer>
+    </main>
+
+    <aside
+      id="dashboard-inspector"
+      class="dashboard-inspector place-inspector"
+      aria-label="Map and place details"
+    >
+      <header class="inspector-header">
+        <div
+          class="inspector-tabs"
+          role="tablist"
+          aria-label="Recommendation views"
+        >
+          <button
+            type="button"
+            id="inspector-results-tab"
+            role="tab"
+            aria-selected="false"
+            aria-controls="inspector-results-panel"
+            data-inspector-tab="results"
+          >
+            Results
+          </button>
+
+          <button
+            type="button"
+            id="inspector-map-tab"
+            role="tab"
+            aria-selected="true"
+            class="inspector-tab--active"
+            aria-controls="inspector-map-panel"
+            data-inspector-tab="map"
+          >
+            Map
+          </button>
+        </div>
+
+        <button
+          type="button"
+          class="icon-button mobile-inspector-close-button"
+          data-mobile-inspector-close
+          aria-label="Close details panel"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="x"
+          ></span>
+        </button>
+      </header>
+
+      <div
+        id="inspector-results-panel"
+        data-inspector-panel="results"
+        role="tabpanel"
+        aria-labelledby="inspector-results-tab"
+        hidden
+      >
+        <section class="inspector-results-list" aria-label="Recommended businesses">
+          <button type="button" class="inspector-result-item inspector-result-item--active" data-place-result="portland-fade-studio">
+            <span class="inspector-result-rank">1</span>
+
+            <span class="inspector-result-copy">
+              <span class="inspector-result-name">Portland Fade Studio</span>
+              <span class="inspector-result-meta">4.9 · 0.4 mi · $$</span>
+            </span>
+          </button>
+
+          <button type="button" class="inspector-result-item" data-place-result="crown-and-co">
+            <span class="inspector-result-rank">2</span>
+
+            <span class="inspector-result-copy">
+              <span class="inspector-result-name">Crown &amp; Co. Barbershop</span>
+              <span class="inspector-result-meta">4.8 · 0.7 mi · $$</span>
+            </span>
+          </button>
+
+          <button type="button" class="inspector-result-item" data-place-result="elevate-cuts">
+            <span class="inspector-result-rank">3</span>
+
+            <span class="inspector-result-copy">
+              <span class="inspector-result-name">Elevate Cuts</span>
+              <span class="inspector-result-meta">4.7 · 1.1 mi · $</span>
+            </span>
+          </button>
+        </section>
+      </div>
+
+      <div
+        id="inspector-map-panel"
+        data-inspector-panel="map"
+        role="tabpanel"
+        aria-labelledby="inspector-map-tab"
+      >
+        <div
+          class="map-preview"
+          aria-label="Map preview"
+        >
+          <div class="map-grid" aria-hidden="true"></div>
+
+          <span class="map-label map-label--old-port">Old Port</span>
+          <span class="map-label map-label--downtown">Downtown</span>
+
+          <span class="map-location-dot" aria-hidden="true"></span>
+
+          <button
+            type="button"
+            class="map-marker map-marker--one map-marker--active"
+            data-place-marker="portland-fade-studio"
+            aria-label="Portland Fade Studio"
+          >
+            <span>1</span>
+          </button>
+
+          <button
+            type="button"
+            class="map-marker map-marker--two"
+            data-place-marker="crown-and-co"
+            aria-label="Crown & Co. Barbershop"
+          >
+            <span>2</span>
+          </button>
+
+          <button
+            type="button"
+            class="map-marker map-marker--three"
+            data-place-marker="elevate-cuts"
+            aria-label="Elevate Cuts"
+          >
+            <span>3</span>
+          </button>
+        </div>
+
+        <article class="place-details-card">
+          <div class="place-hero place-hero--one" data-place-hero>
+            <button
+              type="button"
+              class="place-save-button"
+              data-place-save-button
+              aria-label="Save Portland Fade Studio"
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="heart"
+              ></span>
+            </button>
+
+            <div class="place-gallery-strip" aria-hidden="true">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span class="place-gallery-more">+12</span>
+            </div>
+          </div>
+
+          <div class="place-details-content">
+            <div class="place-details-heading">
+              <h2 data-place-name>Portland Fade Studio</h2>
+
+              <div class="place-details-meta">
+                <span class="rating">
+                  <span aria-hidden="true">★</span>
+                  <span data-place-rating>4.9 (527 reviews)</span>
+                </span>
+
+                <span aria-hidden="true">·</span>
+                <span data-place-distance>0.4 mi</span>
+
+                <span aria-hidden="true">·</span>
+                <span data-place-price>$$</span>
+
+                <span class="availability-pill" data-place-status>Open now</span>
+              </div>
+            </div>
+
+            <div class="place-primary-actions">
+              <button type="button" class="place-primary-action">
+                <span
+                  aria-hidden="true"
+                  data-lucide="navigation"
+                ></span>
+                Directions
+              </button>
+
+              <button type="button">
+                <span
+                  aria-hidden="true"
+                  data-lucide="phone"
+                ></span>
+                Call
+              </button>
+
+              <button type="button">
+                <span
+                  aria-hidden="true"
+                  data-lucide="globe-2"
+                ></span>
+                Website
+              </button>
+
+              <button type="button">
+                <span
+                  aria-hidden="true"
+                  data-lucide="heart"
+                ></span>
+                Save
+              </button>
+            </div>
+
+            <section class="place-match-reasons" aria-labelledby="place-match-reasons-title">
+              <h3 id="place-match-reasons-title">Why this matches your request</h3>
+
+              <ul data-place-reasons>
+                <li>
+                  <span aria-hidden="true" data-lucide="check"></span>
+                  Specializes in textured hair and modern fades
+                </li>
+                <li>
+                  <span aria-hidden="true" data-lucide="check"></span>
+                  Highly rated by customers with similar hair types
+                </li>
+                <li>
+                  <span aria-hidden="true" data-lucide="check"></span>
+                  Affordable pricing
+                </li>
+                <li>
+                  <span aria-hidden="true" data-lucide="check"></span>
+                  Close to your location
+                </li>
+              </ul>
+            </section>
+
+            <section class="place-detail-list" aria-labelledby="place-detail-list-title">
+              <h3 id="place-detail-list-title">Details</h3>
+
+              <p>
+                <span aria-hidden="true" data-lucide="map-pin"></span>
+                <span data-place-address>123 Congress St, Portland, ME 04101</span>
+              </p>
+
+              <p>
+                <span aria-hidden="true" data-lucide="clock-3"></span>
+                <span data-place-hours>Open today: 9:00 AM – 7:00 PM</span>
+              </p>
+            </section>
+          </div>
+        </article>
+      </div>
+    </aside>
+
+    <button
+      type="button"
+      class="dashboard-inspector-backdrop"
+      data-inspector-backdrop
+      aria-label="Close details panel"
+      hidden
+    ></button>
+  </div>
+
+  <script
+    defer
+    src="https://unpkg.com/lucide@1.24.0"
+  ></script>
+
+  <script
+    defer
+    src="{{ url_for('static', filename='js/dashboard.js') }}"
+  ></script>
+</body>
+</html>

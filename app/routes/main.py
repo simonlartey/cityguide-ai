@@ -16,3 +16,8 @@ def terms():
 @main_bp.get("/privacy")
 def privacy():
     return render_template("privacy.html")
+
+
+@main_bp.get("/dashboard")
+def dashboard():
+    return render_template("dashboard.html")
