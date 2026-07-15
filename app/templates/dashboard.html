@@ -262,6 +262,19 @@
               data-lucide="share-2"
             ></span>
           </button>
+
+          <button
+            type="button"
+            class="icon-button mobile-inspector-button"
+            data-mobile-inspector-toggle
+            aria-label="Open inspector"
+            aria-controls="dashboard-inspector"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="panel-right-open"
+            ></span>
+          </button>
         </div>
       </header>
 
@@ -781,6 +794,7 @@
     </main>
 
     <aside
+      id="dashboard-inspector"
       class="dashboard-inspector place-inspector"
       aria-label="Map and place details"
     >
@@ -816,13 +830,13 @@
 
         <button
           type="button"
-          class="icon-button"
-          aria-label="Expand details panel"
-          disabled
+          class="icon-button mobile-inspector-close-button"
+          data-mobile-inspector-close
+          aria-label="Close details panel"
         >
           <span
             aria-hidden="true"
-            data-lucide="maximize"
+            data-lucide="x"
           ></span>
         </button>
       </header>
@@ -1024,6 +1038,14 @@
         </article>
       </div>
     </aside>
+
+    <button
+      type="button"
+      class="dashboard-inspector-backdrop"
+      data-inspector-backdrop
+      aria-label="Close details panel"
+      hidden
+    ></button>
   </div>
 
   <script

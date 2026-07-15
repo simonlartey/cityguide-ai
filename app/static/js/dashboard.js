@@ -10,6 +10,9 @@ const SELECTORS = {
   inspectorTab: "[data-inspector-tab]",
   inspectorPanel: "[data-inspector-panel]",
   placeResult: "[data-place-result]",
+  mobileInspectorToggle: "[data-mobile-inspector-toggle]",
+  mobileInspectorClose: "[data-mobile-inspector-close]",
+  inspectorBackdrop: "[data-inspector-backdrop]",
 };
 
 const PLACES = {
@@ -294,6 +297,28 @@ const initializeSidebarToggle = () => {
   syncSidebarToggleState();
 };
 
+const updateBodyScrollLock = () => {
+  const shell = document.querySelector(
+    SELECTORS.sidebarShell
+  );
+
+  if (!shell) {
+    return;
+  }
+
+  const hasOpenOverlay =
+    shell.classList.contains(
+      "dashboard-shell--mobile-sidebar-open"
+    ) ||
+    shell.classList.contains(
+      "dashboard-shell--mobile-inspector-open"
+    );
+
+  document.body.style.overflow = hasOpenOverlay
+    ? "hidden"
+    : "";
+};
+
 const setMobileSidebarOpen = (isOpen) => {
   const shell = document.querySelector(
     SELECTORS.sidebarShell
@@ -328,9 +353,48 @@ const setMobileSidebarOpen = (isOpen) => {
 
   backdrop.hidden = !isOpen;
 
-  document.body.style.overflow = isOpen
-    ? "hidden"
-    : "";
+  updateBodyScrollLock();
+};
+
+const setMobileInspectorOpen = (isOpen) => {
+  const shell = document.querySelector(
+    SELECTORS.sidebarShell
+  );
+  const toggle = document.querySelector(
+    SELECTORS.mobileInspectorToggle
+  );
+  const backdrop = document.querySelector(
+    SELECTORS.inspectorBackdrop
+  );
+
+  if (!shell || !toggle || !backdrop) {
+    return;
+  }
+
+  if (isOpen) {
+    setMobileSidebarOpen(false);
+  }
+
+  shell.classList.toggle(
+    "dashboard-shell--mobile-inspector-open",
+    isOpen
+  );
+
+  toggle.setAttribute(
+    "aria-expanded",
+    String(isOpen)
+  );
+
+  toggle.setAttribute(
+    "aria-label",
+    isOpen
+      ? "Close map and place details"
+      : "Open map and place details"
+  );
+
+  backdrop.hidden = !isOpen;
+
+  updateBodyScrollLock();
 };
 
 const initializeMobileSidebar = () => {
@@ -373,6 +437,71 @@ const initializeMobileSidebar = () => {
   });
 };
 
+const initializeMobileInspector = () => {
+  const shell = document.querySelector(
+    SELECTORS.sidebarShell
+  );
+  const toggle = document.querySelector(
+    SELECTORS.mobileInspectorToggle
+  );
+  const closeButton = document.querySelector(
+    SELECTORS.mobileInspectorClose
+  );
+  const backdrop = document.querySelector(
+    SELECTORS.inspectorBackdrop
+  );
+
+  if (
+    !shell ||
+    !toggle ||
+    !closeButton ||
+    !backdrop
+  ) {
+    return;
+  }
+
+  toggle.addEventListener("click", () => {
+    const isOpen = shell.classList.contains(
+      "dashboard-shell--mobile-inspector-open"
+    );
+
+    setMobileInspectorOpen(!isOpen);
+  });
+
+  closeButton.addEventListener("click", () => {
+    setMobileInspectorOpen(false);
+    toggle.focus();
+  });
+
+  backdrop.addEventListener("click", () => {
+    setMobileInspectorOpen(false);
+    toggle.focus();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (
+      event.key === "Escape" &&
+      shell.classList.contains(
+        "dashboard-shell--mobile-inspector-open"
+      )
+    ) {
+      setMobileInspectorOpen(false);
+      toggle.focus();
+    }
+  });
+
+  window.addEventListener("resize", () => {
+    if (
+      window.innerWidth > 900 &&
+      shell.classList.contains(
+        "dashboard-shell--mobile-inspector-open"
+      )
+    ) {
+      setMobileInspectorOpen(false);
+    }
+  });
+};
+
 const initializeDashboard = () => {
   initializeFilterChips();
   initializeRecommendationCards();
@@ -382,6 +511,7 @@ const initializeDashboard = () => {
   activateInspectorTab("map");
   initializeSidebarToggle();
   initializeMobileSidebar();
+  initializeMobileInspector();
 };
 
 document.addEventListener("DOMContentLoaded", initializeDashboard);

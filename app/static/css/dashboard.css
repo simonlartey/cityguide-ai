@@ -390,6 +390,29 @@ svg {
   display: none;
 }
 
+.dashboard-inspector .place-inspector,
+.dashboard-inspector > [data-inspector-panel] {
+  min-height: 0;
+}
+
+.mobile-inspector-button,
+.mobile-inspector-close-button {
+  display: none;
+}
+
+.dashboard-inspector-backdrop {
+  position: fixed;
+  z-index: 80;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.58);
+  border: 0;
+  backdrop-filter: blur(5px);
+}
+
+.dashboard-inspector-backdrop[hidden] {
+  display: none;
+}
+
 .location-selector {
   display: inline-flex;
   min-height: 42px;
@@ -459,10 +482,13 @@ svg {
 .chat-composer input {
   width: 100%;
   min-width: 0;
+  overflow: hidden;
   color: var(--dashboard-text);
   background: transparent;
   border: 0;
   outline: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .chat-composer input::placeholder {
@@ -1472,6 +1498,36 @@ svg {
   }
 
   .dashboard-inspector {
+    position: fixed;
+    z-index: 90;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    display: grid;
+    width: min(420px, 88vw);
+    min-width: 0;
+    height: 100dvh;
+    overflow: hidden;
+    border-left: 1px solid var(--dashboard-border);
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    box-shadow: -28px 0 70px rgba(0, 0, 0, 0.42);
+    transform: translateX(100%);
+    transition: transform 220ms ease;
+  }
+
+  .dashboard-shell--mobile-inspector-open
+    .dashboard-inspector {
+    transform: translateX(0);
+  }
+
+  .mobile-inspector-button,
+  .mobile-inspector-close-button {
+    display: inline-grid;
+  }
+
+  .dashboard-shell--mobile-inspector-open
+    .mobile-inspector-button {
     display: none;
   }
 }
@@ -1611,6 +1667,42 @@ svg {
     padding-left: 18px;
   }
 }
+
+@media (max-width: 480px) {
+  .workspace-header {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    gap: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+
+  .location-selector {
+    min-width: 0;
+    justify-self: start;
+    gap: 6px;
+    padding-inline: 4px;
+    white-space: nowrap;
+  }
+
+  .location-selector span:nth-child(2) {
+    max-width: 126px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .workspace-actions {
+    gap: 0;
+  }
+
+  .workspace-actions .icon-button,
+  .mobile-sidebar-button {
+    width: 38px;
+    height: 38px;
+  }
+}
+
 .dashboard-shell {
   transition: grid-template-columns 220ms ease;
 }
