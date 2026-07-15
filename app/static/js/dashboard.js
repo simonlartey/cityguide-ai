@@ -196,6 +196,10 @@ const initializeRecommendationCards = () => {
       });
 
       card.addEventListener("keydown", (event) => {
+        if (event.target.closest("button, a, input, select, textarea")) {
+          return;
+        }
+
         if (event.key !== "Enter" && event.key !== " ") {
           return;
         }
