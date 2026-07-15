@@ -2,6 +2,9 @@ const SELECTORS = {
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   placeMarker: "[data-place-marker]",
+  sidebarShell: "#dashboard-shell",
+  sidebarToggle: "[data-sidebar-toggle]",
+  sidebarToggleIcon: "[data-sidebar-toggle-icon]",
 };
 
 const PLACES = {
@@ -185,10 +188,54 @@ const initializeMapMarkers = () => {
     });
 };
 
+const initializeSidebarToggle = () => {
+  const shell = document.querySelector(
+    SELECTORS.sidebarShell
+  );
+  const toggle = document.querySelector(
+    SELECTORS.sidebarToggle
+  );
+  const icon = document.querySelector(
+    SELECTORS.sidebarToggleIcon
+  );
+
+  if (!shell || !toggle || !icon) {
+    return;
+  }
+
+  toggle.addEventListener("click", () => {
+    const isCollapsed = shell.classList.toggle(
+      "dashboard-shell--sidebar-collapsed"
+    );
+
+    toggle.setAttribute(
+      "aria-label",
+      isCollapsed
+        ? "Expand sidebar"
+        : "Collapse sidebar"
+    );
+
+    toggle.setAttribute(
+      "aria-expanded",
+      String(!isCollapsed)
+    );
+
+    icon.setAttribute(
+      "data-lucide",
+      isCollapsed
+        ? "chevrons-right"
+        : "chevrons-left"
+    );
+
+    hydrateDashboardIcons();
+  });
+};
+
 const initializeDashboard = () => {
   initializeFilterChips();
   initializeRecommendationCards();
   initializeMapMarkers();
+  initializeSidebarToggle();
 };
 
 document.addEventListener("DOMContentLoaded", initializeDashboard);

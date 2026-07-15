@@ -21,8 +21,12 @@
 </head>
 
 <body>
-  <div class="dashboard-shell">
+  <div
+    id="dashboard-shell"
+    class="dashboard-shell"
+  >
     <aside
+      id="dashboard-sidebar"
       class="dashboard-sidebar"
       aria-label="Primary navigation"
     >
@@ -39,16 +43,20 @@
             ✦
           </span>
 
-          <span>CityGuide AI</span>
+          <span class="dashboard-brand-text">CityGuide AI</span>
         </a>
 
         <button
           type="button"
+          id="sidebar-toggle"
+          data-sidebar-toggle
           class="icon-button sidebar-collapse-button"
           aria-label="Collapse sidebar"
-          disabled
+          aria-expanded="true"
         >
           <span
+            id="sidebar-toggle-icon"
+            data-sidebar-toggle-icon
             aria-hidden="true"
             data-lucide="chevrons-left"
           ></span>
@@ -64,13 +72,13 @@
           data-lucide="plus"
         ></span>
 
-        <span>New Chat</span>
+        <span class="new-chat-label">New Chat</span>
       </button>
 
       <nav class="sidebar-navigation">
         <a
           href="{{ url_for('main.dashboard') }}"
-          class="sidebar-link sidebar-link--active"
+          class="sidebar-link sidebar-link--active nav-link"
           aria-current="page"
         >
           <span
@@ -78,43 +86,43 @@
             data-lucide="house"
           ></span>
 
-          <span>Home</span>
+            <span class="sidebar-link-label">Home</span>
         </a>
 
         <a
           href="#"
-          class="sidebar-link"
+          class="sidebar-link nav-link"
         >
           <span
             aria-hidden="true"
             data-lucide="heart"
           ></span>
 
-          <span>Saved Places</span>
+            <span class="sidebar-link-label">Saved Places</span>
         </a>
 
         <a
           href="#"
-          class="sidebar-link"
+          class="sidebar-link nav-link"
         >
           <span
             aria-hidden="true"
             data-lucide="clock-3"
           ></span>
 
-          <span>Recent</span>
+            <span class="sidebar-link-label">Recent</span>
         </a>
 
         <a
           href="#"
-          class="sidebar-link"
+          class="sidebar-link nav-link"
         >
           <span
             aria-hidden="true"
             data-lucide="folder"
           ></span>
 
-          <span>Collections</span>
+            <span class="sidebar-link-label">Collections</span>
         </a>
       </nav>
 
@@ -123,40 +131,42 @@
         aria-labelledby="recent-chats-title"
       >
         <h2 id="recent-chats-title">
+          <span class="section-title">
           Recent chats
+          </span>
         </h2>
 
         <div class="recent-chat-list">
           <button
             type="button"
-            class="recent-chat-item"
+            class="recent-chat-item recent-chat"
           >
-            <span>Best brunch spots</span>
-            <time datetime="2026-07-14">Today</time>
+            <span class="chat-title">Best brunch spots</span>
+            <time class="chat-time" datetime="2026-07-14">Today</time>
           </button>
 
           <button
             type="button"
-            class="recent-chat-item recent-chat-item--active"
+            class="recent-chat-item recent-chat recent-chat-item--active"
           >
-            <span>Barbers for textured hair</span>
-            <time datetime="2026-07-14">Today</time>
+            <span class="chat-title">Barbers for textured hair</span>
+            <time class="chat-time" datetime="2026-07-14">Today</time>
           </button>
 
           <button
             type="button"
-            class="recent-chat-item"
+            class="recent-chat-item recent-chat"
           >
-            <span>Coffee shops with Wi-Fi</span>
-            <time datetime="2026-07-13">Yesterday</time>
+            <span class="chat-title">Coffee shops with Wi-Fi</span>
+            <time class="chat-time" datetime="2026-07-13">Yesterday</time>
           </button>
 
           <button
             type="button"
-            class="recent-chat-item"
+            class="recent-chat-item recent-chat"
           >
-            <span>Late night food</span>
-            <time datetime="2026-07-12">2 days ago</time>
+            <span class="chat-title">Late night food</span>
+            <time class="chat-time" datetime="2026-07-12">2 days ago</time>
           </button>
         </div>
       </section>
@@ -170,7 +180,7 @@
             SL
           </div>
 
-          <div class="profile-copy">
+          <div class="profile-copy profile-details">
             <strong>Simon L.</strong>
             <span>Portland, ME</span>
           </div>
