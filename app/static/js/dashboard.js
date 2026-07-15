@@ -1,6 +1,58 @@
 const SELECTORS = {
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
+  placeMarker: "[data-place-marker]",
+};
+
+const PLACES = {
+  "portland-fade-studio": {
+    name: "Portland Fade Studio",
+    rating: "4.9 (527 reviews)",
+    distance: "0.4 mi",
+    price: "$$",
+    status: "Open now",
+    address: "123 Congress St, Portland, ME 04101",
+    hours: "Open today: 9:00 AM – 7:00 PM",
+    heroClass: "place-hero--one",
+    reasons: [
+      "Specializes in textured hair and modern fades",
+      "Highly rated by customers with similar hair types",
+      "Affordable pricing",
+      "Close to your location",
+    ],
+  },
+  "crown-and-co": {
+    name: "Crown & Co. Barbershop",
+    rating: "4.8 (319 reviews)",
+    distance: "0.7 mi",
+    price: "$$",
+    status: "Open now",
+    address: "75 Middle St, Portland, ME 04101",
+    hours: "Open today: 10:00 AM – 8:00 PM",
+    heroClass: "place-hero--two",
+    reasons: [
+      "Experienced with curls, coils, and textured styles",
+      "Offers student discounts",
+      "Strong customer service ratings",
+      "Convenient downtown location",
+    ],
+  },
+  "elevate-cuts": {
+    name: "Elevate Cuts",
+    rating: "4.7 (214 reviews)",
+    distance: "1.1 mi",
+    price: "$",
+    status: "Open now",
+    address: "210 Forest Ave, Portland, ME 04101",
+    hours: "Open today: 8:30 AM – 6:30 PM",
+    heroClass: "place-hero--three",
+    reasons: [
+      "Budget-friendly pricing",
+      "Strong experience with curls and waves",
+      "Fast appointment availability",
+      "Good option for students",
+    ],
+  },
 };
 
 const hydrateDashboardIcons = () => {
@@ -27,47 +79,116 @@ const initializeFilterChips = () => {
   });
 };
 
-const selectRecommendationCard = (selectedCard) => {
-  const cards = document.querySelectorAll(
-    SELECTORS.recommendationCard
+const updatePlaceDetails = (placeId) => {
+  const place = PLACES[placeId];
+
+  if (!place) {
+    return;
+  }
+
+  document.querySelector("[data-place-name]").textContent =
+    place.name;
+  document.querySelector("[data-place-rating]").textContent =
+    place.rating;
+  document.querySelector("[data-place-distance]").textContent =
+    place.distance;
+  document.querySelector("[data-place-price]").textContent =
+    place.price;
+  document.querySelector("[data-place-status]").textContent =
+    place.status;
+  document.querySelector("[data-place-address]").textContent =
+    place.address;
+  document.querySelector("[data-place-hours]").textContent =
+    place.hours;
+
+  const hero = document.querySelector("[data-place-hero]");
+
+  hero.classList.remove(
+    "place-hero--one",
+    "place-hero--two",
+    "place-hero--three"
+  );
+  hero.classList.add(place.heroClass);
+
+  const reasons = document.querySelector("[data-place-reasons]");
+
+  reasons.replaceChildren(
+    ...place.reasons.map((reason) => {
+      const listItem = document.createElement("li");
+      const icon = document.createElement("span");
+      const text = document.createTextNode(reason);
+
+      icon.setAttribute("aria-hidden", "true");
+      icon.setAttribute("data-lucide", "check");
+
+      listItem.append(icon, text);
+
+      return listItem;
+    })
   );
 
-  cards.forEach((card) => {
-    card.classList.toggle(
-      "recommendation-card--selected",
-      card === selectedCard
-    );
-  });
+  hydrateDashboardIcons();
+};
+
+const selectPlace = (placeId) => {
+  document
+    .querySelectorAll(SELECTORS.recommendationCard)
+    .forEach((card) => {
+      card.classList.toggle(
+        "recommendation-card--selected",
+        card.dataset.placeId === placeId
+      );
+    });
+
+  document
+    .querySelectorAll(SELECTORS.placeMarker)
+    .forEach((marker) => {
+      marker.classList.toggle(
+        "map-marker--active",
+        marker.dataset.placeMarker === placeId
+      );
+    });
+
+  updatePlaceDetails(placeId);
 };
 
 const initializeRecommendationCards = () => {
-  const cards = document.querySelectorAll(
-    SELECTORS.recommendationCard
-  );
+  document
+    .querySelectorAll(SELECTORS.recommendationCard)
+    .forEach((card) => {
+      card.addEventListener("click", (event) => {
+        if (event.target.closest("button, a")) {
+          return;
+        }
 
-  cards.forEach((card) => {
-    card.addEventListener("click", (event) => {
-      if (event.target.closest("button, a")) {
-        return;
-      }
+        selectPlace(card.dataset.placeId);
+      });
 
-      selectRecommendationCard(card);
+      card.addEventListener("keydown", (event) => {
+        if (event.key !== "Enter" && event.key !== " ") {
+          return;
+        }
+
+        event.preventDefault();
+        selectPlace(card.dataset.placeId);
+      });
     });
+};
 
-    card.addEventListener("keydown", (event) => {
-      if (event.key !== "Enter" && event.key !== " ") {
-        return;
-      }
-
-      event.preventDefault();
-      selectRecommendationCard(card);
+const initializeMapMarkers = () => {
+  document
+    .querySelectorAll(SELECTORS.placeMarker)
+    .forEach((marker) => {
+      marker.addEventListener("click", () => {
+        selectPlace(marker.dataset.placeMarker);
+      });
     });
-  });
 };
 
 const initializeDashboard = () => {
   initializeFilterChips();
   initializeRecommendationCards();
+  initializeMapMarkers();
 };
 
 document.addEventListener("DOMContentLoaded", initializeDashboard);

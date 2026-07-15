@@ -439,6 +439,7 @@
             <article
               class="recommendation-card recommendation-card--selected"
               data-recommendation-card
+              data-place-id="portland-fade-studio"
               tabindex="0"
             >
               <div class="recommendation-image recommendation-image--one">
@@ -525,6 +526,7 @@
             <article
               class="recommendation-card"
               data-recommendation-card
+              data-place-id="crown-and-co"
               tabindex="0"
             >
               <div class="recommendation-image recommendation-image--two">
@@ -611,6 +613,7 @@
             <article
               class="recommendation-card"
               data-recommendation-card
+              data-place-id="elevate-cuts"
               tabindex="0"
             >
               <div class="recommendation-image recommendation-image--three">
@@ -746,7 +749,7 @@
     </main>
 
     <aside
-      class="dashboard-inspector"
+      class="dashboard-inspector place-inspector"
       aria-label="Map and place details"
     >
       <header class="inspector-header">
@@ -787,19 +790,155 @@
         </button>
       </header>
 
-      <div class="inspector-placeholder">
-        <span
-          aria-hidden="true"
-          data-lucide="map"
-        ></span>
+      <div class="map-preview" aria-label="Map preview">
+        <div class="map-grid" aria-hidden="true"></div>
 
-        <h2>Map and place details</h2>
+        <span class="map-label map-label--old-port">Old Port</span>
+        <span class="map-label map-label--downtown">Downtown</span>
 
-        <p>
-          Selected recommendations will appear here once the
-          results experience is implemented.
-        </p>
+        <span class="map-location-dot" aria-hidden="true"></span>
+
+        <button
+          type="button"
+          class="map-marker map-marker--one map-marker--active"
+          data-place-marker="portland-fade-studio"
+          aria-label="Portland Fade Studio"
+        >
+          <span>1</span>
+        </button>
+
+        <button
+          type="button"
+          class="map-marker map-marker--two"
+          data-place-marker="crown-and-co"
+          aria-label="Crown & Co. Barbershop"
+        >
+          <span>2</span>
+        </button>
+
+        <button
+          type="button"
+          class="map-marker map-marker--three"
+          data-place-marker="elevate-cuts"
+          aria-label="Elevate Cuts"
+        >
+          <span>3</span>
+        </button>
       </div>
+
+      <article class="place-details-card">
+        <div class="place-hero place-hero--one" data-place-hero>
+          <button
+            type="button"
+            class="place-save-button"
+            aria-label="Save Portland Fade Studio"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="heart"
+            ></span>
+          </button>
+
+          <div class="place-gallery-strip" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span class="place-gallery-more">+12</span>
+          </div>
+        </div>
+
+        <div class="place-details-content">
+          <div class="place-details-heading">
+            <h2 data-place-name>Portland Fade Studio</h2>
+
+            <div class="place-details-meta">
+              <span class="rating">
+                <span aria-hidden="true">★</span>
+                <span data-place-rating>4.9 (527 reviews)</span>
+              </span>
+
+              <span aria-hidden="true">·</span>
+              <span data-place-distance>0.4 mi</span>
+
+              <span aria-hidden="true">·</span>
+              <span data-place-price>$$</span>
+
+              <span class="availability-pill" data-place-status>Open now</span>
+            </div>
+          </div>
+
+          <div class="place-primary-actions">
+            <button type="button" class="place-primary-action">
+              <span
+                aria-hidden="true"
+                data-lucide="navigation"
+              ></span>
+              Directions
+            </button>
+
+            <button type="button">
+              <span
+                aria-hidden="true"
+                data-lucide="phone"
+              ></span>
+              Call
+            </button>
+
+            <button type="button">
+              <span
+                aria-hidden="true"
+                data-lucide="globe-2"
+              ></span>
+              Website
+            </button>
+
+            <button type="button">
+              <span
+                aria-hidden="true"
+                data-lucide="heart"
+              ></span>
+              Save
+            </button>
+          </div>
+
+          <section class="place-match-reasons" aria-labelledby="place-match-reasons-title">
+            <h3 id="place-match-reasons-title">Why this matches your request</h3>
+
+            <ul data-place-reasons>
+              <li>
+                <span aria-hidden="true" data-lucide="check"></span>
+                Specializes in textured hair and modern fades
+              </li>
+              <li>
+                <span aria-hidden="true" data-lucide="check"></span>
+                Highly rated by customers with similar hair types
+              </li>
+              <li>
+                <span aria-hidden="true" data-lucide="check"></span>
+                Affordable pricing
+              </li>
+              <li>
+                <span aria-hidden="true" data-lucide="check"></span>
+                Close to your location
+              </li>
+            </ul>
+          </section>
+
+          <section class="place-detail-list" aria-labelledby="place-detail-list-title">
+            <h3 id="place-detail-list-title">Details</h3>
+
+            <p>
+              <span aria-hidden="true" data-lucide="map-pin"></span>
+              <span data-place-address>123 Congress St, Portland, ME 04101</span>
+            </p>
+
+            <p>
+              <span aria-hidden="true" data-lucide="clock-3"></span>
+              <span data-place-hours>Open today: 9:00 AM – 7:00 PM</span>
+            </p>
+          </section>
+        </div>
+      </article>
     </aside>
   </div>
 
