@@ -239,13 +239,59 @@ const activateInspectorTab = (tabName) => {
 };
 
 const initializeInspectorTabs = () => {
-  document
-    .querySelectorAll(SELECTORS.inspectorTab)
-    .forEach((tab) => {
-      tab.addEventListener("click", () => {
-        activateInspectorTab(tab.dataset.inspectorTab);
-      });
+  const tabs = Array.from(
+    document.querySelectorAll(
+      SELECTORS.inspectorTab
+    )
+  );
+
+  tabs.forEach((tab, index) => {
+    tab.addEventListener("click", () => {
+      activateInspectorTab(
+        tab.dataset.inspectorTab
+      );
     });
+
+    tab.addEventListener("keydown", (event) => {
+      if (
+        event.key !== "ArrowLeft" &&
+        event.key !== "ArrowRight" &&
+        event.key !== "Home" &&
+        event.key !== "End"
+      ) {
+        return;
+      }
+
+      event.preventDefault();
+
+      let nextIndex = index;
+
+      if (event.key === "ArrowRight") {
+        nextIndex = (index + 1) % tabs.length;
+      }
+
+      if (event.key === "ArrowLeft") {
+        nextIndex =
+          (index - 1 + tabs.length) %
+          tabs.length;
+      }
+
+      if (event.key === "Home") {
+        nextIndex = 0;
+      }
+
+      if (event.key === "End") {
+        nextIndex = tabs.length - 1;
+      }
+
+      const nextTab = tabs[nextIndex];
+
+      activateInspectorTab(
+        nextTab.dataset.inspectorTab
+      );
+      nextTab.focus();
+    });
+  });
 };
 
 const initializeInspectorResults = () => {
