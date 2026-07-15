@@ -16,6 +16,10 @@ const SELECTORS = {
   mobileInspectorToggle: "[data-mobile-inspector-toggle]",
   mobileInspectorClose: "[data-mobile-inspector-close]",
   inspectorBackdrop: "[data-inspector-backdrop]",
+  searchForm: "#dashboard-search-form",
+  searchInput: "#dashboard-query",
+  searchSubmit: "#dashboard-search-submit",
+  searchStatus: "#dashboard-search-status",
 };
 
 const PLACES = {
@@ -736,6 +740,108 @@ const initializeMobileInspector = () => {
   });
 };
 
+const searchPlaces = async (query) => {
+  const response = await fetch("/api/v1/search", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      query,
+      location: {
+        latitude: 43.6591,
+        longitude: -70.2568,
+      },
+    }),
+  });
+
+  const data = await response.json();
+
+  if (!response.ok) {
+    const message =
+      data.error?.message ||
+      "CityGuide could not complete your search.";
+
+    throw new Error(message);
+  }
+
+  return data;
+};
+
+const initializeDashboardSearch = () => {
+  const form = document.querySelector(
+    SELECTORS.searchForm
+  );
+
+  const input = document.querySelector(
+    SELECTORS.searchInput
+  );
+
+  const submitButton = document.querySelector(
+    SELECTORS.searchSubmit
+  );
+
+  const status = document.querySelector(
+    SELECTORS.searchStatus
+  );
+
+  if (!form || !input || !submitButton || !status) {
+    return;
+  }
+
+  const updateSubmitState = () => {
+    submitButton.disabled =
+      input.value.trim().length === 0;
+  };
+
+  input.addEventListener("input", updateSubmitState);
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    const query = input.value.trim();
+
+    if (!query) {
+      status.textContent =
+        "Please enter a search query.";
+      updateSubmitState();
+      input.focus();
+      return;
+    }
+
+    input.disabled = true;
+    submitButton.disabled = true;
+    status.textContent =
+      "Searching for local businesses.";
+
+    try {
+      const searchResponse = await searchPlaces(query);
+
+      status.textContent =
+        `Search complete. Found ` +
+        `${searchResponse.result_count} results.`;
+
+      console.log(
+        "CityGuide search response:",
+        searchResponse
+      );
+    } catch (error) {
+      status.textContent =
+        error instanceof Error
+          ? error.message
+          : "CityGuide could not complete your search.";
+
+      console.error("CityGuide search failed:", error);
+    } finally {
+      input.disabled = false;
+      updateSubmitState();
+      input.focus();
+    }
+  });
+
+  updateSubmitState();
+};
+
 const initializeDashboard = () => {
   initializeFilterChips();
   initializeRecommendationCards();
@@ -746,6 +852,7 @@ const initializeDashboard = () => {
   initializeSidebarToggle();
   initializeMobileSidebar();
   initializeMobileInspector();
+  initializeDashboardSearch();
   syncMobileDrawerAccessibility();
 };
 
