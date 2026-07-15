@@ -1,6 +1,7 @@
 const SELECTORS = {
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
+  recommendationList: ".recommendation-list",
   placeMarker: "[data-place-marker]",
   placeSaveButton: "[data-place-save-button]",
   sidebarShell: "#dashboard-shell",
@@ -25,13 +26,21 @@ const SELECTORS = {
 const PLACES = {
   "portland-fade-studio": {
     name: "Portland Fade Studio",
-    rating: "4.9 (527 reviews)",
+    rating: "4.9",
+    review_count: 527,
     distance: "0.4 mi",
+    distance_miles: 0.4,
     price: "$$",
+    price_level: 2,
     status: "Open now",
+    open_now: true,
     address: "123 Congress St, Portland, ME 04101",
     hours: "Open today: 9:00 AM – 7:00 PM",
     heroClass: "place-hero--one",
+    description:
+      "Specializes in fades, tapers, and textured styles. Known for attention to detail and great vibes.",
+    category: "Great for textured hair",
+    tags: ["Great for textured hair"],
     reasons: [
       "Specializes in textured hair and modern fades",
       "Highly rated by customers with similar hair types",
@@ -41,13 +50,21 @@ const PLACES = {
   },
   "crown-and-co": {
     name: "Crown & Co. Barbershop",
-    rating: "4.8 (319 reviews)",
+    rating: "4.8",
+    review_count: 319,
     distance: "0.7 mi",
+    distance_miles: 0.7,
     price: "$$",
+    price_level: 2,
     status: "Open now",
+    open_now: true,
     address: "75 Middle St, Portland, ME 04101",
     hours: "Open today: 10:00 AM – 8:00 PM",
     heroClass: "place-hero--two",
+    description:
+      "Clean cuts and expert stylists. Friendly staff and student discounts available.",
+    category: "Student friendly",
+    tags: ["Student friendly"],
     reasons: [
       "Experienced with curls, coils, and textured styles",
       "Offers student discounts",
@@ -57,13 +74,21 @@ const PLACES = {
   },
   "elevate-cuts": {
     name: "Elevate Cuts",
-    rating: "4.7 (214 reviews)",
+    rating: "4.7",
+    review_count: 214,
     distance: "1.1 mi",
+    distance_miles: 1.1,
     price: "$",
+    price_level: 1,
     status: "Open now",
+    open_now: true,
     address: "210 Forest Ave, Portland, ME 04101",
     hours: "Open today: 8:30 AM – 6:30 PM",
     heroClass: "place-hero--three",
+    description:
+      "Affordable and precise. Great for curls, coils, and waves.",
+    category: "Budget friendly",
+    tags: ["Budget friendly"],
     reasons: [
       "Budget-friendly pricing",
       "Strong experience with curls and waves",
@@ -77,6 +102,177 @@ const hydrateDashboardIcons = () => {
   if (window.lucide) {
     window.lucide.createIcons();
   }
+};
+
+const formatPriceLevel = (priceLevel) => {
+  if (!Number.isInteger(priceLevel) || priceLevel < 1) {
+    return "";
+  }
+
+  return "$".repeat(priceLevel);
+};
+
+const getRecommendationImageClass = (index) => {
+  const imageClasses = [
+    "recommendation-image--one",
+    "recommendation-image--two",
+    "recommendation-image--three",
+  ];
+
+  return imageClasses[index % imageClasses.length];
+};
+
+const createRecommendationCard = (place, index) => {
+  const card = document.createElement("article");
+
+  card.className = "recommendation-card";
+  card.dataset.recommendationCard = "";
+  card.dataset.placeId = place.id;
+  card.tabIndex = 0;
+
+  if (index === 0) {
+    card.classList.add("recommendation-card--selected");
+  }
+
+  const image = document.createElement("div");
+  image.className =
+    `recommendation-image ${getRecommendationImageClass(index)}`;
+
+  const rank = document.createElement("span");
+  rank.className = "recommendation-rank";
+  rank.textContent = String(index + 1);
+
+  const imageLabel = document.createElement("span");
+  imageLabel.className = "recommendation-image-label";
+  imageLabel.setAttribute("aria-hidden", "true");
+  imageLabel.textContent = `${place.name} preview`;
+
+  image.append(rank, imageLabel);
+
+  const copy = document.createElement("div");
+  copy.className = "recommendation-copy";
+
+  const heading = document.createElement("div");
+  heading.className = "recommendation-heading";
+
+  const headingCopy = document.createElement("div");
+
+  const name = document.createElement("h2");
+  name.textContent = place.name;
+
+  const meta = document.createElement("div");
+  meta.className = "recommendation-meta";
+
+  const rating = document.createElement("span");
+  rating.className = "rating";
+  rating.textContent =
+    `★ ${place.rating} (${place.review_count})`;
+
+  const distance = document.createElement("span");
+  distance.textContent = `${place.distance_miles} mi`;
+
+  const price = document.createElement("span");
+  price.textContent = formatPriceLevel(
+    place.price_level
+  );
+
+  const availability = document.createElement("span");
+  availability.className = "availability-pill";
+  availability.textContent = place.open_now
+    ? "Open now"
+    : "Closed";
+
+  const separators = Array.from(
+    { length: 3 },
+    () => {
+      const separator = document.createElement("span");
+      separator.setAttribute("aria-hidden", "true");
+      separator.textContent = "·";
+      return separator;
+    }
+  );
+
+  meta.append(
+    rating,
+    separators[0],
+    distance,
+    separators[1],
+    price,
+    separators[2],
+    availability
+  );
+
+  headingCopy.append(name, meta);
+
+  const saveButton = document.createElement("button");
+  saveButton.type = "button";
+  saveButton.className = "save-place-button";
+  saveButton.setAttribute(
+    "aria-label",
+    `Save ${place.name}`
+  );
+  saveButton.setAttribute(
+    "data-place-save-button",
+    ""
+  );
+
+  const saveIcon = document.createElement("span");
+  saveIcon.setAttribute("aria-hidden", "true");
+  saveIcon.setAttribute("data-lucide", "heart");
+
+  saveButton.append(saveIcon);
+  heading.append(headingCopy, saveButton);
+
+  const description = document.createElement("p");
+  description.className = "recommendation-description";
+  description.textContent = place.description;
+
+  const tag = document.createElement("span");
+  tag.className = "recommendation-tag";
+  tag.textContent =
+    place.tags?.[0] || place.category;
+
+  copy.append(heading, description, tag);
+
+  const actions = document.createElement("div");
+  actions.className = "recommendation-actions";
+
+  [
+    ["navigation", "Directions"],
+    ["phone", "Call"],
+    ["globe-2", "Website"],
+  ].forEach(([iconName, label]) => {
+    const button = document.createElement("button");
+    button.type = "button";
+
+    const icon = document.createElement("span");
+    icon.setAttribute("aria-hidden", "true");
+    icon.setAttribute("data-lucide", iconName);
+
+    button.append(icon, document.createTextNode(label));
+    actions.append(button);
+  });
+
+  card.append(image, copy, actions);
+
+  return card;
+};
+
+const renderRecommendationCards = (places) => {
+  const recommendationList = document.querySelector(
+    SELECTORS.recommendationList
+  );
+
+  if (!recommendationList) {
+    return;
+  }
+
+  recommendationList.replaceChildren(
+    ...places.map(createRecommendationCard)
+  );
+
+  initializeRecommendationCards();
+  hydrateDashboardIcons();
 };
 
 const initializeFilterChips = () => {
@@ -107,6 +303,17 @@ const updatePlaceDetails = (placeId) => {
   document.querySelector("[data-place-name]").textContent =
     place.name;
 
+  const ratingLabel =
+    Number.isInteger(place.review_count)
+      ? `${place.rating} (${place.review_count} reviews)`
+      : place.rating;
+  const distanceLabel =
+    place.distance ?? `${place.distance_miles} mi`;
+  const priceLabel =
+    place.price ?? formatPriceLevel(place.price_level);
+  const statusLabel =
+    place.status ?? (place.open_now ? "Open now" : "Closed");
+
   document
     .querySelectorAll(SELECTORS.placeSaveButton)
     .forEach((button) => {
@@ -117,13 +324,13 @@ const updatePlaceDetails = (placeId) => {
     });
 
   document.querySelector("[data-place-rating]").textContent =
-    place.rating;
+    ratingLabel;
   document.querySelector("[data-place-distance]").textContent =
-    place.distance;
+    distanceLabel;
   document.querySelector("[data-place-price]").textContent =
-    place.price;
+    priceLabel;
   document.querySelector("[data-place-status]").textContent =
-    place.status;
+    statusLabel;
   document.querySelector("[data-place-address]").textContent =
     place.address;
   document.querySelector("[data-place-hours]").textContent =
@@ -820,6 +1027,10 @@ const initializeDashboardSearch = () => {
       status.textContent =
         `Search complete. Found ` +
         `${searchResponse.result_count} results.`;
+
+      renderRecommendationCards(
+        searchResponse.results
+      );
 
       console.log(
         "CityGuide search response:",
