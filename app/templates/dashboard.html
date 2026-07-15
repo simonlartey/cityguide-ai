@@ -241,21 +241,459 @@
           id="conversation-title"
           class="sr-only"
         >
-          CityGuide AI conversation
+          CityGuide AI conversation and recommendations
         </h1>
 
-        <div class="conversation-placeholder">
-          <span
-            class="conversation-placeholder-icon"
-            aria-hidden="true"
-          >
-            ✦
-          </span>
+        <div class="conversation-content">
+          <div class="message-row message-row--user">
+            <article class="message-bubble message-bubble--user">
+              <p>
+                I need a barber for textured hair in Portland.
+                Somewhere affordable and highly rated.
+              </p>
 
-          <p>
-            The conversation and recommendation experience
-            will be added in the next dashboard milestone.
-          </p>
+              <time datetime="2026-07-14T10:32:00">
+                10:32 AM
+              </time>
+            </article>
+
+            <div
+              class="message-avatar message-avatar--user"
+              aria-label="Simon Lartey"
+            >
+              SL
+            </div>
+          </div>
+
+          <div class="message-row message-row--assistant">
+            <div
+              class="message-avatar message-avatar--assistant"
+              aria-hidden="true"
+            >
+              ✦
+            </div>
+
+            <article class="message-bubble message-bubble--assistant">
+              <p>
+                Got it! I found 5 highly rated barbers that specialize
+                in textured hair in Portland. Here are my top picks based
+                on reviews, price, distance, and availability.
+              </p>
+
+              <time datetime="2026-07-14T10:33:00">
+                10:33 AM
+              </time>
+            </article>
+          </div>
+
+          <section
+            class="search-progress"
+            aria-labelledby="search-progress-title"
+          >
+            <div class="search-progress-heading">
+              <h2 id="search-progress-title">
+                Searching local businesses...
+              </h2>
+
+              <span class="search-progress-status">
+                Complete
+              </span>
+            </div>
+
+            <ul class="search-progress-list">
+              <li>
+                <span
+                  class="progress-check"
+                  aria-hidden="true"
+                  data-lucide="check"
+                ></span>
+                <span>Analyzing reviews</span>
+              </li>
+
+              <li>
+                <span
+                  class="progress-check"
+                  aria-hidden="true"
+                  data-lucide="check"
+                ></span>
+                <span>Checking availability</span>
+              </li>
+
+              <li>
+                <span
+                  class="progress-check"
+                  aria-hidden="true"
+                  data-lucide="check"
+                ></span>
+                <span>Comparing prices</span>
+              </li>
+
+              <li>
+                <span
+                  class="progress-check"
+                  aria-hidden="true"
+                  data-lucide="check"
+                ></span>
+                <span>Ranking results</span>
+              </li>
+            </ul>
+          </section>
+
+          <div
+            class="result-filters"
+            role="toolbar"
+            aria-label="Recommendation filters"
+          >
+            <button
+              type="button"
+              class="filter-chip filter-chip--active"
+              aria-pressed="true"
+              data-filter="all"
+            >
+              All
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="budget"
+            >
+              $
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="moderate"
+            >
+              $$
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="premium"
+            >
+              $$$
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="open"
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="clock-3"
+              ></span>
+              Open Now
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="rated"
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="badge-check"
+              ></span>
+              Highly Rated
+            </button>
+
+            <button
+              type="button"
+              class="filter-chip"
+              aria-pressed="false"
+              data-filter="nearby"
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="footprints"
+              ></span>
+              Walking Distance
+            </button>
+
+            <button
+              type="button"
+              class="filter-settings-button"
+              aria-label="Open advanced filters"
+              disabled
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="sliders-horizontal"
+              ></span>
+            </button>
+          </div>
+
+          <section
+            class="recommendation-list"
+            aria-label="Recommended businesses"
+          >
+            <article
+              class="recommendation-card recommendation-card--selected"
+              data-recommendation-card
+              tabindex="0"
+            >
+              <div class="recommendation-image recommendation-image--one">
+                <span class="recommendation-rank">1</span>
+
+                <span
+                  class="recommendation-image-label"
+                  aria-hidden="true"
+                >
+                  Portland barber studio
+                </span>
+              </div>
+
+              <div class="recommendation-copy">
+                <div class="recommendation-heading">
+                  <div>
+                    <h2>Portland Fade Studio</h2>
+
+                    <div class="recommendation-meta">
+                      <span class="rating">
+                        <span aria-hidden="true">★</span>
+                        4.9 (527)
+                      </span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>0.4 mi</span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>$$</span>
+
+                      <span class="availability-pill">Open now</span>
+                    </div>
+                  </div>
+
+                  <button
+                    type="button"
+                    class="save-place-button"
+                    aria-label="Save Portland Fade Studio"
+                  >
+                    <span
+                      aria-hidden="true"
+                      data-lucide="heart"
+                    ></span>
+                  </button>
+                </div>
+
+                <p class="recommendation-description">
+                  Specializes in fades, tapers, and textured styles.
+                  Known for attention to detail and great vibes.
+                </p>
+
+                <span class="recommendation-tag">
+                  Great for textured hair
+                </span>
+              </div>
+
+              <div class="recommendation-actions">
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="navigation"
+                  ></span>
+                  Directions
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="phone"
+                  ></span>
+                  Call
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="globe-2"
+                  ></span>
+                  Website
+                </button>
+              </div>
+            </article>
+
+            <article
+              class="recommendation-card"
+              data-recommendation-card
+              tabindex="0"
+            >
+              <div class="recommendation-image recommendation-image--two">
+                <span class="recommendation-rank">2</span>
+
+                <span
+                  class="recommendation-image-label"
+                  aria-hidden="true"
+                >
+                  Modern local barbershop
+                </span>
+              </div>
+
+              <div class="recommendation-copy">
+                <div class="recommendation-heading">
+                  <div>
+                    <h2>Crown &amp; Co. Barbershop</h2>
+
+                    <div class="recommendation-meta">
+                      <span class="rating">
+                        <span aria-hidden="true">★</span>
+                        4.8 (319)
+                      </span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>0.7 mi</span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>$$</span>
+
+                      <span class="availability-pill">Open now</span>
+                    </div>
+                  </div>
+
+                  <button
+                    type="button"
+                    class="save-place-button"
+                    aria-label="Save Crown and Company Barbershop"
+                  >
+                    <span
+                      aria-hidden="true"
+                      data-lucide="heart"
+                    ></span>
+                  </button>
+                </div>
+
+                <p class="recommendation-description">
+                  Clean cuts and expert stylists. Friendly staff and
+                  student discounts available.
+                </p>
+
+                <span class="recommendation-tag">
+                  Student friendly
+                </span>
+              </div>
+
+              <div class="recommendation-actions">
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="navigation"
+                  ></span>
+                  Directions
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="phone"
+                  ></span>
+                  Call
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="globe-2"
+                  ></span>
+                  Website
+                </button>
+              </div>
+            </article>
+
+            <article
+              class="recommendation-card"
+              data-recommendation-card
+              tabindex="0"
+            >
+              <div class="recommendation-image recommendation-image--three">
+                <span class="recommendation-rank">3</span>
+
+                <span
+                  class="recommendation-image-label"
+                  aria-hidden="true"
+                >
+                  Affordable neighborhood barber
+                </span>
+              </div>
+
+              <div class="recommendation-copy">
+                <div class="recommendation-heading">
+                  <div>
+                    <h2>Elevate Cuts</h2>
+
+                    <div class="recommendation-meta">
+                      <span class="rating">
+                        <span aria-hidden="true">★</span>
+                        4.7 (214)
+                      </span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>1.1 mi</span>
+
+                      <span aria-hidden="true">·</span>
+                      <span>$</span>
+
+                      <span class="availability-pill">Open now</span>
+                    </div>
+                  </div>
+
+                  <button
+                    type="button"
+                    class="save-place-button"
+                    aria-label="Save Elevate Cuts"
+                  >
+                    <span
+                      aria-hidden="true"
+                      data-lucide="heart"
+                    ></span>
+                  </button>
+                </div>
+
+                <p class="recommendation-description">
+                  Affordable and precise. Great for curls, coils,
+                  and waves.
+                </p>
+
+                <span class="recommendation-tag">
+                  Budget friendly
+                </span>
+              </div>
+
+              <div class="recommendation-actions">
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="navigation"
+                  ></span>
+                  Directions
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="phone"
+                  ></span>
+                  Call
+                </button>
+
+                <button type="button">
+                  <span
+                    aria-hidden="true"
+                    data-lucide="globe-2"
+                  ></span>
+                  Website
+                </button>
+              </div>
+            </article>
+          </section>
         </div>
       </section>
 
