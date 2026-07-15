@@ -435,6 +435,17 @@ const initializeMobileSidebar = () => {
       toggle.focus();
     }
   });
+
+  window.addEventListener("resize", () => {
+    if (
+      window.innerWidth > 760 &&
+      shell.classList.contains(
+        "dashboard-shell--mobile-sidebar-open"
+      )
+    ) {
+      setMobileSidebarOpen(false);
+    }
+  });
 };
 
 const initializeMobileInspector = () => {
