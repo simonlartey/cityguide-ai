@@ -4,6 +4,8 @@ const SELECTORS = {
   placeMarker: "[data-place-marker]",
   placeSaveButton: "[data-place-save-button]",
   sidebarShell: "#dashboard-shell",
+  dashboardSidebar: "#dashboard-sidebar",
+  dashboardInspector: "#dashboard-inspector",
   sidebarToggle: "[data-sidebar-toggle]",
   sidebarToggleIcon: "[data-sidebar-toggle-icon]",
   mobileSidebarToggle: "[data-mobile-sidebar-toggle]",
@@ -358,6 +360,113 @@ const initializeSidebarToggle = () => {
   syncSidebarToggleState();
 };
 
+const FOCUSABLE_SELECTOR = [
+  "a[href]",
+  "button:not([disabled])",
+  "input:not([disabled])",
+  "select:not([disabled])",
+  "textarea:not([disabled])",
+  "[tabindex]:not([tabindex='-1'])",
+].join(",");
+
+const getFocusableElements = (container) =>
+  Array.from(
+    container.querySelectorAll(FOCUSABLE_SELECTOR)
+  ).filter(
+    (element) =>
+      !element.closest(
+        "[hidden], [aria-hidden='true'], [inert]"
+      )
+  );
+
+const trapFocusWithin = (event, container) => {
+  if (event.key !== "Tab") {
+    return;
+  }
+
+  const focusableElements =
+    getFocusableElements(container);
+
+  if (focusableElements.length === 0) {
+    event.preventDefault();
+    return;
+  }
+
+  const firstElement = focusableElements[0];
+  const lastElement =
+    focusableElements[
+      focusableElements.length - 1
+    ];
+
+  if (
+    event.shiftKey &&
+    document.activeElement === firstElement
+  ) {
+    event.preventDefault();
+    lastElement.focus();
+    return;
+  }
+
+  if (
+    !event.shiftKey &&
+    document.activeElement === lastElement
+  ) {
+    event.preventDefault();
+    firstElement.focus();
+  }
+};
+
+const setDrawerAccessibility = (
+  drawer,
+  isAvailable
+) => {
+  drawer.inert = !isAvailable;
+
+  if (isAvailable) {
+    drawer.removeAttribute("aria-hidden");
+    return;
+  }
+
+  drawer.setAttribute("aria-hidden", "true");
+};
+
+const syncMobileDrawerAccessibility = () => {
+  const shell = document.querySelector(
+    SELECTORS.sidebarShell
+  );
+  const sidebar = document.querySelector(
+    SELECTORS.dashboardSidebar
+  );
+  const inspector = document.querySelector(
+    SELECTORS.dashboardInspector
+  );
+
+  if (!shell || !sidebar || !inspector) {
+    return;
+  }
+
+  const sidebarIsMobile =
+    window.innerWidth <= 760;
+  const inspectorIsMobile =
+    window.innerWidth <= 900;
+
+  setDrawerAccessibility(
+    sidebar,
+    !sidebarIsMobile ||
+      shell.classList.contains(
+        "dashboard-shell--mobile-sidebar-open"
+      )
+  );
+
+  setDrawerAccessibility(
+    inspector,
+    !inspectorIsMobile ||
+      shell.classList.contains(
+        "dashboard-shell--mobile-inspector-open"
+      )
+  );
+};
+
 const updateBodyScrollLock = () => {
   const shell = document.querySelector(
     SELECTORS.sidebarShell
@@ -380,9 +489,12 @@ const updateBodyScrollLock = () => {
     : "";
 };
 
-const setMobileSidebarOpen = (isOpen) => {
+const setMobileSidebarOpen = (isOpen, restoreFocus = false) => {
   const shell = document.querySelector(
     SELECTORS.sidebarShell
+  );
+  const sidebar = document.querySelector(
+    SELECTORS.dashboardSidebar
   );
   const toggle = document.querySelector(
     SELECTORS.mobileSidebarToggle
@@ -391,7 +503,7 @@ const setMobileSidebarOpen = (isOpen) => {
     SELECTORS.sidebarBackdrop
   );
 
-  if (!shell || !toggle || !backdrop) {
+  if (!shell || !sidebar || !toggle || !backdrop) {
     return;
   }
 
@@ -414,12 +526,26 @@ const setMobileSidebarOpen = (isOpen) => {
 
   backdrop.hidden = !isOpen;
 
+  syncMobileDrawerAccessibility();
+
+  if (isOpen) {
+    const firstFocusable =
+      getFocusableElements(sidebar)[0];
+
+    firstFocusable?.focus();
+  } else if (restoreFocus) {
+    toggle.focus();
+  }
+
   updateBodyScrollLock();
 };
 
-const setMobileInspectorOpen = (isOpen) => {
+const setMobileInspectorOpen = (isOpen, restoreFocus = false) => {
   const shell = document.querySelector(
     SELECTORS.sidebarShell
+  );
+  const inspector = document.querySelector(
+    SELECTORS.dashboardInspector
   );
   const toggle = document.querySelector(
     SELECTORS.mobileInspectorToggle
@@ -427,8 +553,11 @@ const setMobileInspectorOpen = (isOpen) => {
   const backdrop = document.querySelector(
     SELECTORS.inspectorBackdrop
   );
+  const closeButton = document.querySelector(
+    SELECTORS.mobileInspectorClose
+  );
 
-  if (!shell || !toggle || !backdrop) {
+  if (!shell || !inspector || !toggle || !backdrop) {
     return;
   }
 
@@ -455,12 +584,23 @@ const setMobileInspectorOpen = (isOpen) => {
 
   backdrop.hidden = !isOpen;
 
+  syncMobileDrawerAccessibility();
+
+  if (isOpen) {
+    closeButton?.focus();
+  } else if (restoreFocus) {
+    toggle.focus();
+  }
+
   updateBodyScrollLock();
 };
 
 const initializeMobileSidebar = () => {
   const shell = document.querySelector(
     SELECTORS.sidebarShell
+  );
+  const drawer = document.querySelector(
+    SELECTORS.dashboardSidebar
   );
   const toggle = document.querySelector(
     SELECTORS.mobileSidebarToggle
@@ -469,7 +609,7 @@ const initializeMobileSidebar = () => {
     SELECTORS.sidebarBackdrop
   );
 
-  if (!shell || !toggle || !backdrop) {
+  if (!shell || !drawer || !toggle || !backdrop) {
     return;
   }
 
@@ -482,18 +622,26 @@ const initializeMobileSidebar = () => {
   });
 
   backdrop.addEventListener("click", () => {
-    setMobileSidebarOpen(false);
+    setMobileSidebarOpen(false, true);
   });
 
   document.addEventListener("keydown", (event) => {
+    if (
+      event.key === "Tab" &&
+      shell.classList.contains(
+        "dashboard-shell--mobile-sidebar-open"
+      )
+    ) {
+      trapFocusWithin(event, drawer);
+    }
+
     if (
       event.key === "Escape" &&
       shell.classList.contains(
         "dashboard-shell--mobile-sidebar-open"
       )
     ) {
-      setMobileSidebarOpen(false);
-      toggle.focus();
+      setMobileSidebarOpen(false, true);
     }
   });
 
@@ -506,12 +654,17 @@ const initializeMobileSidebar = () => {
     ) {
       setMobileSidebarOpen(false);
     }
+
+    syncMobileDrawerAccessibility();
   });
 };
 
 const initializeMobileInspector = () => {
   const shell = document.querySelector(
     SELECTORS.sidebarShell
+  );
+  const drawer = document.querySelector(
+    SELECTORS.dashboardInspector
   );
   const toggle = document.querySelector(
     SELECTORS.mobileInspectorToggle
@@ -525,6 +678,7 @@ const initializeMobileInspector = () => {
 
   if (
     !shell ||
+    !drawer ||
     !toggle ||
     !closeButton ||
     !backdrop
@@ -541,24 +695,30 @@ const initializeMobileInspector = () => {
   });
 
   closeButton.addEventListener("click", () => {
-    setMobileInspectorOpen(false);
-    toggle.focus();
+    setMobileInspectorOpen(false, true);
   });
 
   backdrop.addEventListener("click", () => {
-    setMobileInspectorOpen(false);
-    toggle.focus();
+    setMobileInspectorOpen(false, true);
   });
 
   document.addEventListener("keydown", (event) => {
+    if (
+      event.key === "Tab" &&
+      shell.classList.contains(
+        "dashboard-shell--mobile-inspector-open"
+      )
+    ) {
+      trapFocusWithin(event, drawer);
+    }
+
     if (
       event.key === "Escape" &&
       shell.classList.contains(
         "dashboard-shell--mobile-inspector-open"
       )
     ) {
-      setMobileInspectorOpen(false);
-      toggle.focus();
+      setMobileInspectorOpen(false, true);
     }
   });
 
@@ -571,6 +731,8 @@ const initializeMobileInspector = () => {
     ) {
       setMobileInspectorOpen(false);
     }
+
+    syncMobileDrawerAccessibility();
   });
 };
 
@@ -584,6 +746,7 @@ const initializeDashboard = () => {
   initializeSidebarToggle();
   initializeMobileSidebar();
   initializeMobileInspector();
+  syncMobileDrawerAccessibility();
 };
 
 document.addEventListener("DOMContentLoaded", initializeDashboard);
