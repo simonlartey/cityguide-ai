@@ -1,5 +1,6 @@
-from typing import Any
+from datetime import datetime, timedelta, timezone
 from math import asin, cos, radians, sin, sqrt
+from typing import Any
 
 import requests
 
@@ -23,6 +24,7 @@ class GooglePlacesProvider(PlacesProvider):
             "places.priceLevel",
             "places.currentOpeningHours.openNow",
             "places.regularOpeningHours.weekdayDescriptions",
+            "places.utcOffsetMinutes",
             "places.nationalPhoneNumber",
             "places.websiteUri",
             "places.googleMapsUri",
@@ -138,10 +140,11 @@ class GooglePlacesProvider(PlacesProvider):
             [],
         )
 
-        hours = (
-            weekday_descriptions[0]
-            if weekday_descriptions
-            else "Hours unavailable"
+        hours = self._get_current_day_hours(
+            weekday_descriptions=weekday_descriptions,
+            utc_offset_minutes=place.get(
+                "utcOffsetMinutes"
+            ),
         )
 
         rating = place.get("rating")
@@ -236,6 +239,40 @@ class GooglePlacesProvider(PlacesProvider):
             earth_radius_miles * central_angle,
             1,
         )
+
+    @staticmethod
+    def _get_current_day_hours(
+        weekday_descriptions: list[str],
+        utc_offset_minutes: int | None,
+        current_utc_time: datetime | None = None,
+    ) -> str:
+        if not weekday_descriptions:
+            return "Hours unavailable"
+
+        if utc_offset_minutes is None:
+            return weekday_descriptions[0]
+
+        utc_time = current_utc_time or datetime.now(
+            timezone.utc
+        )
+
+        place_time = utc_time + timedelta(
+            minutes=utc_offset_minutes
+        )
+
+        current_day_name = place_time.strftime("%A")
+
+        for description in weekday_descriptions:
+            day_name, separator, _ = description.partition(":")
+
+            if (
+                separator
+                and day_name.strip().casefold()
+                == current_day_name.casefold()
+            ):
+                return description
+
+        return "Hours unavailable"
 
     @staticmethod
     def _build_description(

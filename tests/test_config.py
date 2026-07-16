@@ -6,6 +6,11 @@ import config
 def reload_config(monkeypatch, **environment):
     """Reload configuration after applying environment variables."""
 
+    monkeypatch.setattr(
+        "dotenv.load_dotenv",
+        lambda *args, **kwargs: False,
+    )
+
     variable_names = (
         "PLACES_PROVIDER",
         "PLACES_API_KEY",

@@ -1,4 +1,5 @@
-from unittest.mock import Mock
+from datetime import datetime, timezone
+from unittest.mock import Mock, patch
 
 import pytest
 import requests
@@ -52,6 +53,7 @@ def test_google_provider_searches_and_normalizes_results(
                 "currentOpeningHours": {
                     "openNow": True,
                 },
+                "utcOffsetMinutes": -240,
                 "regularOpeningHours": {
                     "weekdayDescriptions": [
                         "Monday: 9:00 AM – 6:00 PM",
@@ -65,11 +67,23 @@ def test_google_provider_searches_and_normalizes_results(
     }
     session.post.return_value = response
 
-    results = provider.search(
-        "barbers for textured hair",
-        latitude=43.6591,
-        longitude=-70.2568,
-    )
+    with patch(
+        "app.providers.places.google_provider.datetime"
+    ) as mock_datetime:
+        mock_datetime.now.return_value = datetime(
+            2026,
+            7,
+            13,
+            14,
+            0,
+            tzinfo=timezone.utc,
+        )
+
+        results = provider.search(
+            "barbers for textured hair",
+            latitude=43.6591,
+            longitude=-70.2568,
+        )
 
     assert results == [
         {
@@ -121,6 +135,68 @@ def test_google_provider_searches_and_normalizes_results(
             "radius": 10000.0,
         }
     }
+
+
+def test_current_day_hours_returns_first_day_without_offset():
+    hours = GooglePlacesProvider._get_current_day_hours(
+        weekday_descriptions=[
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+        ],
+        utc_offset_minutes=None,
+    )
+
+    assert hours == "Monday: 9:00 AM – 5:00 PM"
+
+
+def test_current_day_hours_uses_place_local_weekday():
+    current_utc_time = datetime(
+        2026,
+        7,
+        16,
+        14,
+        0,
+        tzinfo=timezone.utc,
+    )
+
+    hours = GooglePlacesProvider._get_current_day_hours(
+        weekday_descriptions=[
+            "Sunday: Closed",
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 10:00 AM – 7:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: Closed",
+        ],
+        utc_offset_minutes=-240,
+        current_utc_time=current_utc_time,
+    )
+
+    assert hours == "Thursday: 10:00 AM – 7:00 PM"
+
+
+def test_current_day_hours_handles_nonstandard_day_order():
+    current_utc_time = datetime(
+        2026,
+        7,
+        16,
+        14,
+        0,
+        tzinfo=timezone.utc,
+    )
+
+    hours = GooglePlacesProvider._get_current_day_hours(
+        weekday_descriptions=[
+            "Saturday: Closed",
+            "Thursday: 10:00 AM – 7:00 PM",
+            "Monday: 9:00 AM – 5:00 PM",
+        ],
+        utc_offset_minutes=-240,
+        current_utc_time=current_utc_time,
+    )
+
+    assert hours == "Thursday: 10:00 AM – 7:00 PM"
 
 
 def test_google_provider_matches_dashboard_place_schema(
