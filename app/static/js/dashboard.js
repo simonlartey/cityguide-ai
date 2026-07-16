@@ -35,6 +35,7 @@ const INITIAL_SEARCH_QUERY =
   "Affordable barber for textured hair";
 
 let PLACES = {};
+let latestSearchRequestId = 0;
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
@@ -1092,6 +1093,7 @@ const loadInitialDashboardResults = async () => {
   const status = document.querySelector(
     SELECTORS.searchStatus
   );
+  const requestId = ++latestSearchRequestId;
 
   let searchSucceeded = false;
 
@@ -1106,6 +1108,10 @@ const loadInitialDashboardResults = async () => {
     const searchResponse = await searchPlaces(
       INITIAL_SEARCH_QUERY
     );
+
+    if (requestId !== latestSearchRequestId) {
+      return;
+    }
 
     applySearchResults(searchResponse.results);
 
@@ -1125,6 +1131,10 @@ const loadInitialDashboardResults = async () => {
         `Loaded ${searchResponse.result_count} initial results.`;
     }
   } catch (error) {
+    if (requestId !== latestSearchRequestId) {
+      return;
+    }
+
     if (status) {
       status.textContent =
         "The initial recommendations could not be loaded.";
@@ -1144,6 +1154,10 @@ const loadInitialDashboardResults = async () => {
       error
     );
   } finally {
+    if (requestId !== latestSearchRequestId) {
+      return;
+    }
+
     if (searchSucceeded) {
       setSearchLoadingState(false);
     } else {
@@ -1303,6 +1317,8 @@ const initializeDashboardSearch = () => {
       return;
     }
 
+    const requestId = ++latestSearchRequestId;
+
     input.disabled = true;
     submitButton.disabled = true;
     setSearchLoadingState(true);
@@ -1312,6 +1328,10 @@ const initializeDashboardSearch = () => {
 
     try {
       const searchResponse = await searchPlaces(query);
+
+      if (requestId !== latestSearchRequestId) {
+        return;
+      }
 
       if (searchResponse.results.length === 0) {
         clearSearchResults();
@@ -1339,6 +1359,10 @@ const initializeDashboardSearch = () => {
         searchResponse
       );
     } catch (error) {
+      if (requestId !== latestSearchRequestId) {
+        return;
+      }
+
       const message =
         error instanceof Error
           ? error.message
@@ -1354,6 +1378,10 @@ const initializeDashboardSearch = () => {
 
       console.error("CityGuide search failed:", error);
     } finally {
+      if (requestId !== latestSearchRequestId) {
+        return;
+      }
+
       setSearchLoadingState(false);
       input.disabled = false;
       updateSubmitState();
