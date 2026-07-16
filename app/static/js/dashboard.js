@@ -14,6 +14,7 @@ const SELECTORS = {
   inspectorTab: "[data-inspector-tab]",
   inspectorPanel: "[data-inspector-panel]",
   placeResult: "[data-place-result]",
+  inspectorResultsList: ".inspector-results-list",
   mobileInspectorToggle: "[data-mobile-inspector-toggle]",
   mobileInspectorClose: "[data-mobile-inspector-close]",
   inspectorBackdrop: "[data-inspector-backdrop]",
@@ -281,6 +282,42 @@ const createRecommendationCard = (place, index) => {
   return card;
 };
 
+const createInspectorResult = (place, index) => {
+  const result = document.createElement("button");
+
+  result.type = "button";
+  result.className = "inspector-result-item";
+  result.dataset.placeResult = place.id;
+
+  if (index === 0) {
+    result.classList.add("inspector-result-item--active");
+  }
+
+  const rank = document.createElement("span");
+  rank.className = "inspector-result-rank";
+  rank.textContent = String(index + 1);
+
+  const copy = document.createElement("span");
+  copy.className = "inspector-result-copy";
+
+  const name = document.createElement("span");
+  name.className = "inspector-result-name";
+  name.textContent = place.name;
+
+  const meta = document.createElement("span");
+  meta.className = "inspector-result-meta";
+  meta.textContent = [
+    place.rating,
+    `${place.distance_miles} mi`,
+    formatPriceLevel(place.price_level),
+  ].join(" · ");
+
+  copy.append(name, meta);
+  result.append(rank, copy);
+
+  return result;
+};
+
 const renderRecommendationCards = (places) => {
   const recommendationList = document.querySelector(
     SELECTORS.recommendationList
@@ -296,6 +333,22 @@ const renderRecommendationCards = (places) => {
 
   initializeRecommendationCards();
   hydrateDashboardIcons();
+};
+
+const renderInspectorResults = (places) => {
+  const resultsList = document.querySelector(
+    SELECTORS.inspectorResultsList
+  );
+
+  if (!resultsList) {
+    return;
+  }
+
+  resultsList.replaceChildren(
+    ...places.map(createInspectorResult)
+  );
+
+  initializeInspectorResults();
 };
 
 const initializeFilterChips = () => {
@@ -1054,6 +1107,10 @@ const initializeDashboardSearch = () => {
       updateCurrentPlaces(searchResponse.results);
 
       renderRecommendationCards(
+        searchResponse.results
+      );
+
+      renderInspectorResults(
         searchResponse.results
       );
 
