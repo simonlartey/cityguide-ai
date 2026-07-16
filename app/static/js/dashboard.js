@@ -1065,6 +1065,16 @@ const loadInitialDashboardResults = async () => {
     );
 
     applySearchResults(searchResponse.results);
+
+    if (searchResponse.results.length === 0) {
+      showResultsState({
+        title: "No matching places found",
+        message:
+          "Try changing your search or using fewer filters.",
+      });
+    } else {
+      hideResultsState();
+    }
     searchSucceeded = true;
 
     if (status) {
