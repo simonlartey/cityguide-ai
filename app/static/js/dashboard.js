@@ -170,6 +170,20 @@ const updateConversationMessage = (
   scrollConversationToLatest();
 };
 
+const buildSearchResultMessage = (
+  query,
+  resultCount
+) => {
+  const resultLabel =
+    resultCount === 1 ? "place" : "places";
+
+  return (
+    `I found ${resultCount} ${resultLabel} matching ` +
+    `“${query}” near Portland. Here are the local ` +
+    "options I found."
+  );
+};
+
 const formatPriceLevel = (priceLevel) => {
   if (!Number.isInteger(priceLevel) || priceLevel < 1) {
     return "";
@@ -1397,10 +1411,26 @@ const initializeDashboardSearch = () => {
 
     const requestId = ++latestSearchRequestId;
 
+    appendConversationMessage({
+      role: "user",
+      text: query,
+    });
+
+    const pendingAssistantMessage =
+      appendConversationMessage({
+        role: "assistant",
+        text: "Searching for local places...",
+        pending: true,
+      });
+
+    input.value = "";
+
     input.disabled = true;
     submitButton.disabled = true;
+
     setSearchLoadingState(true);
     hideResultsState();
+
     status.textContent =
       "Searching for local businesses.";
 
@@ -1413,6 +1443,12 @@ const initializeDashboardSearch = () => {
 
       if (searchResponse.results.length === 0) {
         clearSearchResults();
+
+        updateConversationMessage(
+          pendingAssistantMessage,
+          "I couldn’t find matching places for that request. " +
+            "Try changing the wording or broadening your search."
+        );
 
         showResultsState({
           title: "No matching places found",
@@ -1432,6 +1468,14 @@ const initializeDashboardSearch = () => {
 
       applySearchResults(searchResponse.results);
 
+      updateConversationMessage(
+        pendingAssistantMessage,
+        buildSearchResultMessage(
+          query,
+          searchResponse.result_count
+        )
+      );
+
       console.log(
         "CityGuide search response:",
         searchResponse
@@ -1447,6 +1491,12 @@ const initializeDashboardSearch = () => {
           : "CityGuide could not complete your search.";
 
       status.textContent = message;
+
+      updateConversationMessage(
+        pendingAssistantMessage,
+        "I couldn’t load local recommendations right now. " +
+          "Please try again."
+      );
 
       showResultsState({
         title: "We could not complete your search",
