@@ -75,23 +75,32 @@ def test_google_provider_searches_and_normalizes_results(
         {
             "id": "place-123",
             "name": "Portland Fade Studio",
-            "rating": 4.8,
-            "review_count": 240,
-            "distance_miles": None,
-            "price_level": "$$",
+            "category": "Local business",
             "address": "123 Congress St",
             "latitude": 43.657,
             "longitude": -70.258,
-            "is_open": True,
-            "status": "Open now",
-            "hours": "Monday: 9:00 AM – 6:00 PM",
-            "phone": "(207) 555-0100",
-            "website": "https://example.com",
-            "maps_url": "https://maps.google.com/example",
-            "reasons": [
+            "rating": 4.8,
+            "review_count": 240,
+            "distance_miles": None,
+            "price_level": 2,
+            "open_now": True,
+            "hours_text": "Monday: 9:00 AM – 6:00 PM",
+            "description": (
+                "Portland Fade Studio is rated 4.8 based on "
+                "240 Google reviews."
+            ),
+            "tags": [
+                "Highly rated",
+                "Moderate price",
+                "Open now",
+            ],
+            "match_reasons": [
                 "Rated 4.8 from 240 reviews",
                 "Price level: $$",
             ],
+            "phone": "(207) 555-0100",
+            "website": "https://example.com",
+            "maps_url": "https://maps.google.com/example",
         }
     ]
 
@@ -112,6 +121,53 @@ def test_google_provider_searches_and_normalizes_results(
             "radius": 10000.0,
         }
     }
+
+
+def test_google_provider_matches_dashboard_place_schema(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "places": [
+            {
+                "id": "place-123",
+                "displayName": {
+                    "text": "Test Place",
+                },
+                "location": {
+                    "latitude": 43.65,
+                    "longitude": -70.25,
+                },
+            }
+        ]
+    }
+    session.post.return_value = response
+
+    place = provider.search("test place")[0]
+
+    expected_fields = {
+        "id",
+        "name",
+        "category",
+        "address",
+        "latitude",
+        "longitude",
+        "rating",
+        "review_count",
+        "distance_miles",
+        "price_level",
+        "open_now",
+        "hours_text",
+        "description",
+        "tags",
+        "match_reasons",
+        "phone",
+        "website",
+        "maps_url",
+    }
+
+    assert set(place) == expected_fields
 
 
 def test_google_provider_returns_empty_list(

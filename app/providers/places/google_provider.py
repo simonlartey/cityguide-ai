@@ -29,11 +29,11 @@ class GooglePlacesProvider(PlacesProvider):
     )
 
     PRICE_LEVELS = {
-        "PRICE_LEVEL_FREE": "$",
-        "PRICE_LEVEL_INEXPENSIVE": "$",
-        "PRICE_LEVEL_MODERATE": "$$",
-        "PRICE_LEVEL_EXPENSIVE": "$$$",
-        "PRICE_LEVEL_VERY_EXPENSIVE": "$$$$",
+        "PRICE_LEVEL_FREE": 1,
+        "PRICE_LEVEL_INEXPENSIVE": 1,
+        "PRICE_LEVEL_MODERATE": 2,
+        "PRICE_LEVEL_EXPENSIVE": 3,
+        "PRICE_LEVEL_VERY_EXPENSIVE": 4,
     }
 
     def __init__(
@@ -130,10 +130,6 @@ class GooglePlacesProvider(PlacesProvider):
 
         rating = place.get("rating")
         review_count = place.get("userRatingCount", 0)
-        price_level = self.PRICE_LEVELS.get(
-            place.get("priceLevel"),
-            "Price unavailable",
-        )
         is_open = opening_hours.get("openNow")
 
         return {
@@ -142,44 +138,91 @@ class GooglePlacesProvider(PlacesProvider):
                 "text",
                 "Unnamed place",
             ),
-            "rating": rating,
-            "review_count": review_count,
-            "distance_miles": None,
-            "price_level": price_level,
+            "category": "Local business",
             "address": place.get(
                 "formattedAddress",
                 "Address unavailable",
             ),
             "latitude": location.get("latitude"),
             "longitude": location.get("longitude"),
-            "is_open": is_open,
-            "status": self._format_status(is_open),
-            "hours": hours,
+            "rating": rating,
+            "review_count": review_count,
+            "distance_miles": None,
+            "price_level": self._normalize_price_level(
+                place.get("priceLevel")
+            ),
+            "open_now": is_open,
+            "hours_text": hours,
+            "description": self._build_description(
+                name=display_name.get(
+                    "text",
+                    "This business",
+                ),
+                rating=rating,
+                review_count=review_count,
+            ),
+            "tags": self._build_tags(
+                rating=rating,
+                price_level=place.get("priceLevel"),
+                is_open=is_open,
+            ),
+            "match_reasons": self._build_reasons(
+                rating=rating,
+                review_count=review_count,
+                price_level=place.get("priceLevel"),
+            ),
             "phone": place.get("nationalPhoneNumber"),
             "website": place.get("websiteUri"),
             "maps_url": place.get("googleMapsUri"),
-            "reasons": self._build_reasons(
-                rating=rating,
-                review_count=review_count,
-                price_level=price_level,
-            ),
         }
 
     @staticmethod
-    def _format_status(is_open: bool | None) -> str:
-        if is_open is True:
-            return "Open now"
-
-        if is_open is False:
-            return "Closed"
-
-        return "Hours unavailable"
-
-    @staticmethod
-    def _build_reasons(
+    def _build_description(
+        name: str,
         rating: float | None,
         review_count: int,
-        price_level: str,
+    ) -> str:
+        if rating is not None:
+            return (
+                f"{name} is rated {rating} based on "
+                f"{review_count} Google reviews."
+            )
+
+        return f"{name} matches your local search."
+
+    @classmethod
+    def _build_tags(
+        cls,
+        rating: float | None,
+        price_level: str | None,
+        is_open: bool | None,
+    ) -> list[str]:
+        tags = []
+
+        if rating is not None and rating >= 4.5:
+            tags.append("Highly rated")
+
+        normalized_price = cls._normalize_price_level(price_level)
+
+        if normalized_price == 1:
+            tags.append("Affordable")
+        elif normalized_price == 2:
+            tags.append("Moderate price")
+
+        if is_open is True:
+            tags.append("Open now")
+
+        if not tags:
+            tags.append("Local business")
+
+        return tags
+
+    @classmethod
+    def _build_reasons(
+        cls,
+        rating: float | None,
+        review_count: int,
+        price_level: str | None,
     ) -> list[str]:
         reasons = []
 
@@ -188,9 +231,13 @@ class GooglePlacesProvider(PlacesProvider):
                 f"Rated {rating} from {review_count} reviews"
             )
 
-        if price_level != "Price unavailable":
+        normalized_price = cls._normalize_price_level(
+            price_level
+        )
+
+        if normalized_price is not None:
             reasons.append(
-                f"Price level: {price_level}"
+                f"Price level: {'$' * normalized_price}"
             )
 
         if not reasons:
@@ -199,3 +246,10 @@ class GooglePlacesProvider(PlacesProvider):
             )
 
         return reasons
+
+    @classmethod
+    def _normalize_price_level(
+        cls,
+        price_level: str | None,
+    ) -> int | None:
+        return cls.PRICE_LEVELS.get(price_level)
