@@ -1,5 +1,6 @@
 from flask import Blueprint, current_app, jsonify, request
 
+from app.providers.places.errors import PlacesProviderError
 from app.schemas.search import SearchRequest, SearchValidationError
 from app.services.search_service import SearchService
 
@@ -42,6 +43,23 @@ def search_places():
     places_provider = current_app.extensions["places_provider"]
 
     service = SearchService(places_provider)
-    response = service.search(search_request)
+
+    try:
+        response = service.search(search_request)
+    except PlacesProviderError:
+        current_app.logger.exception(
+            "Places provider failed during search."
+        )
+
+        return jsonify(
+            {
+                "error": {
+                    "code": "places_provider_unavailable",
+                    "message": (
+                        "Local recommendations are temporarily unavailable."
+                    ),
+                }
+            }
+        ), 503
 
     return jsonify(response), 200
