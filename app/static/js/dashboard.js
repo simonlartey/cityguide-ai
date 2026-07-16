@@ -31,80 +31,10 @@ const SELECTORS = {
   resultsStateMessage: "[data-results-state-message]",
 };
 
-let PLACES = {
-  "portland-fade-studio": {
-    name: "Portland Fade Studio",
-    rating: "4.9",
-    review_count: 527,
-    distance: "0.4 mi",
-    distance_miles: 0.4,
-    price: "$$",
-    price_level: 2,
-    status: "Open now",
-    open_now: true,
-    address: "123 Congress St, Portland, ME 04101",
-    hours: "Open today: 9:00 AM – 7:00 PM",
-    heroClass: "place-hero--one",
-    description:
-      "Specializes in fades, tapers, and textured styles. Known for attention to detail and great vibes.",
-    category: "Great for textured hair",
-    tags: ["Great for textured hair"],
-    reasons: [
-      "Specializes in textured hair and modern fades",
-      "Highly rated by customers with similar hair types",
-      "Affordable pricing",
-      "Close to your location",
-    ],
-  },
-  "crown-and-co": {
-    name: "Crown & Co. Barbershop",
-    rating: "4.8",
-    review_count: 319,
-    distance: "0.7 mi",
-    distance_miles: 0.7,
-    price: "$$",
-    price_level: 2,
-    status: "Open now",
-    open_now: true,
-    address: "75 Middle St, Portland, ME 04101",
-    hours: "Open today: 10:00 AM – 8:00 PM",
-    heroClass: "place-hero--two",
-    description:
-      "Clean cuts and expert stylists. Friendly staff and student discounts available.",
-    category: "Student friendly",
-    tags: ["Student friendly"],
-    reasons: [
-      "Experienced with curls, coils, and textured styles",
-      "Offers student discounts",
-      "Strong customer service ratings",
-      "Convenient downtown location",
-    ],
-  },
-  "elevate-cuts": {
-    name: "Elevate Cuts",
-    rating: "4.7",
-    review_count: 214,
-    distance: "1.1 mi",
-    distance_miles: 1.1,
-    price: "$",
-    price_level: 1,
-    status: "Open now",
-    open_now: true,
-    address: "210 Forest Ave, Portland, ME 04101",
-    hours: "Open today: 8:30 AM – 6:30 PM",
-    heroClass: "place-hero--three",
-    description:
-      "Affordable and precise. Great for curls, coils, and waves.",
-    category: "Budget friendly",
-    tags: ["Budget friendly"],
-    reasons: [
-      "Budget-friendly pricing",
-      "Strong experience with curls and waves",
-      "Fast appointment availability",
-      "Good option for students",
-    ],
-  },
-};
+const INITIAL_SEARCH_QUERY =
+  "Affordable barber for textured hair";
+
+let PLACES = {};
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
@@ -1109,6 +1039,35 @@ const searchPlaces = async (query) => {
   return data;
 };
 
+const loadInitialDashboardResults = async () => {
+  const status = document.querySelector(
+    SELECTORS.searchStatus
+  );
+
+  try {
+    const searchResponse = await searchPlaces(
+      INITIAL_SEARCH_QUERY
+    );
+
+    applySearchResults(searchResponse.results);
+
+    if (status) {
+      status.textContent =
+        `Loaded ${searchResponse.result_count} initial results.`;
+    }
+  } catch (error) {
+    if (status) {
+      status.textContent =
+        "The initial recommendations could not be loaded.";
+    }
+
+    console.error(
+      "CityGuide initial search failed:",
+      error
+    );
+  }
+};
+
 const setSearchLoadingState = (isLoading) => {
   const progress = document.querySelector(
     SELECTORS.searchProgress
@@ -1311,6 +1270,7 @@ const initializeDashboard = () => {
   initializeMobileSidebar();
   initializeMobileInspector();
   initializeDashboardSearch();
+  loadInitialDashboardResults();
   syncMobileDrawerAccessibility();
 };
 
