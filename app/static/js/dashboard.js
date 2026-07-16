@@ -91,7 +91,8 @@ const getRecommendationImageClass = (index) => {
 
 const normalizePlaceForDashboard = (place, index) => ({
   ...place,
-  rating: formatRating(place.rating),
+  rating: place.rating,
+  ratingLabel: formatRating(place.rating),
   distance: formatDistance(place.distance_miles),
   price:
     formatPriceLevel(place.price_level) ||
@@ -159,12 +160,17 @@ const createRecommendationCard = (place, index) => {
 
   const rating = document.createElement("span");
   rating.className = "rating";
-  const ratingText = formatRating(place.rating);
+  if (typeof place.rating === "number") {
+    const reviewCount =
+      Number.isInteger(place.review_count)
+        ? ` (${place.review_count})`
+        : "";
 
-  rating.textContent =
-    Number.isInteger(place.review_count)
-      ? `★ ${ratingText} (${place.review_count})`
-      : `★ ${ratingText}`;
+    rating.textContent =
+      `★ ${place.rating}${reviewCount}`;
+  } else {
+    rating.textContent = "Not rated";
+  }
 
   const distance = document.createElement("span");
   distance.textContent = formatDistance(place.distance_miles);
@@ -403,9 +409,11 @@ const updatePlaceDetails = (placeId) => {
     place.name;
 
   const ratingLabel =
-    Number.isInteger(place.review_count)
-      ? `${place.rating} (${place.review_count} reviews)`
-      : place.rating;
+    typeof place.rating === "number"
+      ? Number.isInteger(place.review_count)
+        ? `${place.rating} (${place.review_count} reviews)`
+        : String(place.rating)
+      : "Not rated";
   const distanceLabel =
     place.distance ||
     formatDistance(place.distance_miles);
