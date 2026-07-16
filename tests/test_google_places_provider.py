@@ -81,7 +81,7 @@ def test_google_provider_searches_and_normalizes_results(
             "longitude": -70.258,
             "rating": 4.8,
             "review_count": 240,
-            "distance_miles": None,
+            "distance_miles": 0.2,
             "price_level": 2,
             "open_now": True,
             "hours_text": "Monday: 9:00 AM – 6:00 PM",
@@ -179,6 +179,58 @@ def test_google_provider_returns_empty_list(
     session.post.return_value = response
 
     assert provider.search("unknown place") == []
+
+
+def test_google_provider_returns_no_distance_without_origin(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "places": [
+            {
+                "id": "place-123",
+                "displayName": {
+                    "text": "Test Place",
+                },
+                "location": {
+                    "latitude": 43.65,
+                    "longitude": -70.25,
+                },
+            }
+        ]
+    }
+    session.post.return_value = response
+
+    place = provider.search("test place")[0]
+
+    assert place["distance_miles"] is None
+
+
+def test_google_provider_returns_no_distance_without_place_coordinates(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "places": [
+            {
+                "id": "place-123",
+                "displayName": {
+                    "text": "Test Place",
+                },
+            }
+        ]
+    }
+    session.post.return_value = response
+
+    place = provider.search(
+        "test place",
+        latitude=43.6591,
+        longitude=-70.2568,
+    )[0]
+
+    assert place["distance_miles"] is None
 
 
 def test_google_provider_handles_request_failure(

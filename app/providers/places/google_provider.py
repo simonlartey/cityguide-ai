@@ -1,4 +1,5 @@
 from typing import Any
+from math import asin, cos, radians, sin, sqrt
 
 import requests
 
@@ -103,7 +104,11 @@ class GooglePlacesProvider(PlacesProvider):
             )
 
         return [
-            self._normalize_place(place)
+            self._normalize_place(
+                place,
+                origin_latitude=latitude,
+                origin_longitude=longitude,
+            )
             for place in places
             if isinstance(place, dict)
         ]
@@ -111,11 +116,22 @@ class GooglePlacesProvider(PlacesProvider):
     def _normalize_place(
         self,
         place: dict[str, Any],
+        origin_latitude: float | None = None,
+        origin_longitude: float | None = None,
     ) -> dict[str, Any]:
         location = place.get("location") or {}
         display_name = place.get("displayName") or {}
         opening_hours = place.get("currentOpeningHours") or {}
         regular_hours = place.get("regularOpeningHours") or {}
+        place_latitude = location.get("latitude")
+        place_longitude = location.get("longitude")
+
+        distance_miles = self._calculate_distance_miles(
+            origin_latitude=origin_latitude,
+            origin_longitude=origin_longitude,
+            destination_latitude=place_latitude,
+            destination_longitude=place_longitude,
+        )
 
         weekday_descriptions = regular_hours.get(
             "weekdayDescriptions",
@@ -143,11 +159,11 @@ class GooglePlacesProvider(PlacesProvider):
                 "formattedAddress",
                 "Address unavailable",
             ),
-            "latitude": location.get("latitude"),
-            "longitude": location.get("longitude"),
+            "latitude": place_latitude,
+            "longitude": place_longitude,
             "rating": rating,
             "review_count": review_count,
-            "distance_miles": None,
+            "distance_miles": distance_miles,
             "price_level": self._normalize_price_level(
                 place.get("priceLevel")
             ),
@@ -175,6 +191,51 @@ class GooglePlacesProvider(PlacesProvider):
             "website": place.get("websiteUri"),
             "maps_url": place.get("googleMapsUri"),
         }
+
+    @staticmethod
+    def _calculate_distance_miles(
+        origin_latitude: float | None,
+        origin_longitude: float | None,
+        destination_latitude: float | None,
+        destination_longitude: float | None,
+    ) -> float | None:
+        coordinates = (
+            origin_latitude,
+            origin_longitude,
+            destination_latitude,
+            destination_longitude,
+        )
+
+        if any(coordinate is None for coordinate in coordinates):
+            return None
+
+        earth_radius_miles = 3958.8
+
+        origin_latitude_radians = radians(origin_latitude)
+        destination_latitude_radians = radians(destination_latitude)
+
+        latitude_difference = radians(
+            destination_latitude - origin_latitude
+        )
+        longitude_difference = radians(
+            destination_longitude - origin_longitude
+        )
+
+        haversine_value = (
+            sin(latitude_difference / 2) ** 2
+            + cos(origin_latitude_radians)
+            * cos(destination_latitude_radians)
+            * sin(longitude_difference / 2) ** 2
+        )
+
+        central_angle = 2 * asin(
+            sqrt(haversine_value)
+        )
+
+        return round(
+            earth_radius_miles * central_angle,
+            1,
+        )
 
     @staticmethod
     def _build_description(
