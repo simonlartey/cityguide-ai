@@ -1306,6 +1306,26 @@ const setSearchLoadingState = (isLoading) => {
     : "Complete";
 };
 
+const setSearchErrorState = () => {
+  const progress = document.querySelector(
+    SELECTORS.searchProgress
+  );
+  const title = document.querySelector(
+    SELECTORS.searchProgressTitle
+  );
+  const progressStatus = document.querySelector(
+    SELECTORS.searchProgressStatus
+  );
+
+  if (!progress || !title || !progressStatus) {
+    return;
+  }
+
+  progress.setAttribute("aria-busy", "false");
+  title.textContent = "Local business search unavailable";
+  progressStatus.textContent = "Error";
+};
+
 const hideResultsState = () => {
   const state = document.querySelector(
     SELECTORS.resultsState
@@ -1434,6 +1454,8 @@ const initializeDashboardSearch = () => {
     status.textContent =
       "Searching for local businesses.";
 
+    let searchFailed = false;
+
     try {
       const searchResponse = await searchPlaces(query);
 
@@ -1485,6 +1507,10 @@ const initializeDashboardSearch = () => {
         return;
       }
 
+      clearSearchResults();
+
+      searchFailed = true;
+
       const message =
         error instanceof Error
           ? error.message
@@ -1510,7 +1536,11 @@ const initializeDashboardSearch = () => {
         return;
       }
 
-      setSearchLoadingState(false);
+      if (searchFailed) {
+        setSearchErrorState();
+      } else {
+        setSearchLoadingState(false);
+      }
       input.disabled = false;
       updateSubmitState();
       input.focus();
