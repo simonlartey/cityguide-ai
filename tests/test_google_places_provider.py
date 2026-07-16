@@ -146,7 +146,27 @@ def test_current_day_hours_returns_first_day_without_offset():
         utc_offset_minutes=None,
     )
 
-    assert hours == "Monday: 9:00 AM – 5:00 PM"
+    assert hours == "Hours unavailable"
+
+
+@pytest.mark.parametrize(
+    "response_data",
+    [None, [], "invalid", 42],
+)
+def test_google_provider_rejects_non_object_response(
+    provider,
+    session,
+    response_data,
+):
+    response = Mock()
+    response.json.return_value = response_data
+    session.post.return_value = response
+
+    with pytest.raises(
+        PlacesProviderError,
+        match="invalid response",
+    ):
+        provider.search("coffee")
 
 
 def test_current_day_hours_uses_place_local_weekday():

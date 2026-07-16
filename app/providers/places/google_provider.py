@@ -98,6 +98,11 @@ class GooglePlacesProvider(PlacesProvider):
                 "Google Places returned an invalid response."
             ) from error
 
+        if not isinstance(response_data, dict):
+            raise PlacesProviderError(
+                "Google Places returned an invalid response."
+            )
+
         places = response_data.get("places", [])
 
         if not isinstance(places, list):
@@ -250,7 +255,7 @@ class GooglePlacesProvider(PlacesProvider):
             return "Hours unavailable"
 
         if utc_offset_minutes is None:
-            return weekday_descriptions[0]
+            return "Hours unavailable"
 
         utc_time = current_utc_time or datetime.now(
             timezone.utc
