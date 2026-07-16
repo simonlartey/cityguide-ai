@@ -2,6 +2,7 @@ const SELECTORS = {
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   recommendationList: ".recommendation-list",
+  mapPreview: ".map-preview",
   placeMarker: "[data-place-marker]",
   placeSaveButton: "[data-place-save-button]",
   sidebarShell: "#dashboard-shell",
@@ -349,6 +350,57 @@ const renderInspectorResults = (places) => {
   );
 
   initializeInspectorResults();
+};
+
+const getMapMarkerClass = (index) => {
+  const markerClasses = [
+    "map-marker--one",
+    "map-marker--two",
+    "map-marker--three",
+  ];
+
+  return markerClasses[index % markerClasses.length];
+};
+
+const createMapMarker = (place, index) => {
+  const marker = document.createElement("button");
+
+  marker.type = "button";
+  marker.className =
+    `map-marker ${getMapMarkerClass(index)}`;
+  marker.dataset.placeMarker = place.id;
+  marker.setAttribute("aria-label", place.name);
+
+  if (index === 0) {
+    marker.classList.add("map-marker--active");
+  }
+
+  const rank = document.createElement("span");
+  rank.textContent = String(index + 1);
+
+  marker.append(rank);
+
+  return marker;
+};
+
+const renderMapMarkers = (places) => {
+  const mapPreview = document.querySelector(
+    SELECTORS.mapPreview
+  );
+
+  if (!mapPreview) {
+    return;
+  }
+
+  mapPreview
+    .querySelectorAll(SELECTORS.placeMarker)
+    .forEach((marker) => marker.remove());
+
+  mapPreview.append(
+    ...places.map(createMapMarker)
+  );
+
+  initializeMapMarkers();
 };
 
 const initializeFilterChips = () => {
@@ -1111,6 +1163,10 @@ const initializeDashboardSearch = () => {
       );
 
       renderInspectorResults(
+        searchResponse.results
+      );
+
+      renderMapMarkers(
         searchResponse.results
       );
 
