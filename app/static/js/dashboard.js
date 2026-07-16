@@ -1044,12 +1044,22 @@ const loadInitialDashboardResults = async () => {
     SELECTORS.searchStatus
   );
 
+  let searchSucceeded = false;
+
+  setSearchLoadingState(true);
+
+  if (status) {
+    status.textContent =
+      "Loading initial recommendations.";
+  }
+
   try {
     const searchResponse = await searchPlaces(
       INITIAL_SEARCH_QUERY
     );
 
     applySearchResults(searchResponse.results);
+    searchSucceeded = true;
 
     if (status) {
       status.textContent =
@@ -1061,10 +1071,44 @@ const loadInitialDashboardResults = async () => {
         "The initial recommendations could not be loaded.";
     }
 
+    showResultsState({
+      title: "Recommendations unavailable",
+      message:
+        error instanceof Error
+          ? error.message
+          : "Please refresh the page and try again.",
+      isError: true,
+    });
+
     console.error(
       "CityGuide initial search failed:",
       error
     );
+  } finally {
+    if (searchSucceeded) {
+      setSearchLoadingState(false);
+    } else {
+      const progress = document.querySelector(
+        SELECTORS.searchProgress
+      );
+      const title = document.querySelector(
+        SELECTORS.searchProgressTitle
+      );
+      const progressStatus = document.querySelector(
+        SELECTORS.searchProgressStatus
+      );
+
+      progress?.setAttribute("aria-busy", "false");
+
+      if (title) {
+        title.textContent =
+          "Local business search unavailable";
+      }
+
+      if (progressStatus) {
+        progressStatus.textContent = "Error";
+      }
+    }
   }
 };
 
