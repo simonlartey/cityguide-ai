@@ -26,6 +26,9 @@ const SELECTORS = {
   searchProgress: ".search-progress",
   searchProgressTitle: "#search-progress-title",
   searchProgressStatus: ".search-progress-status",
+  resultsState: "#dashboard-results-state",
+  resultsStateTitle: "[data-results-state-title]",
+  resultsStateMessage: "[data-results-state-message]",
 };
 
 let PLACES = {
@@ -1135,6 +1138,57 @@ const setSearchLoadingState = (isLoading) => {
     : "Complete";
 };
 
+const hideResultsState = () => {
+  const state = document.querySelector(
+    SELECTORS.resultsState
+  );
+
+  if (state) {
+    state.hidden = true;
+    state.classList.remove(
+      "dashboard-results-state--error"
+    );
+  }
+};
+
+const showResultsState = ({
+  title,
+  message,
+  isError = false,
+}) => {
+  const state = document.querySelector(
+    SELECTORS.resultsState
+  );
+  const titleElement = document.querySelector(
+    SELECTORS.resultsStateTitle
+  );
+  const messageElement = document.querySelector(
+    SELECTORS.resultsStateMessage
+  );
+
+  if (!state || !titleElement || !messageElement) {
+    return;
+  }
+
+  titleElement.textContent = title;
+  messageElement.textContent = message;
+
+  state.classList.toggle(
+    "dashboard-results-state--error",
+    isError
+  );
+
+  state.hidden = false;
+  hydrateDashboardIcons();
+};
+
+const clearSearchResults = () => {
+  updateCurrentPlaces([]);
+  renderRecommendationCards([]);
+  renderInspectorResults([]);
+  renderMapMarkers([]);
+};
+
 const initializeDashboardSearch = () => {
   const form = document.querySelector(
     SELECTORS.searchForm
@@ -1179,11 +1233,27 @@ const initializeDashboardSearch = () => {
     input.disabled = true;
     submitButton.disabled = true;
     setSearchLoadingState(true);
+    hideResultsState();
     status.textContent =
       "Searching for local businesses.";
 
     try {
       const searchResponse = await searchPlaces(query);
+
+      if (searchResponse.results.length === 0) {
+        clearSearchResults();
+
+        showResultsState({
+          title: "No matching places found",
+          message:
+            "Try changing your wording, increasing the distance, or removing one preference.",
+        });
+
+        status.textContent =
+          "Search complete. No matching places found.";
+
+        return;
+      }
 
       status.textContent =
         `Search complete. Found ` +
@@ -1212,10 +1282,18 @@ const initializeDashboardSearch = () => {
         searchResponse
       );
     } catch (error) {
-      status.textContent =
+      const message =
         error instanceof Error
           ? error.message
           : "CityGuide could not complete your search.";
+
+      status.textContent = message;
+
+      showResultsState({
+        title: "We could not complete your search",
+        message,
+        isError: true,
+      });
 
       console.error("CityGuide search failed:", error);
     } finally {

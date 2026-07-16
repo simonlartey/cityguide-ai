@@ -733,6 +733,42 @@ svg {
   color: var(--dashboard-accent);
 }
 
+.dashboard-results-state {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.875rem;
+  padding: 1rem 1.125rem;
+  border: 1px solid var(--dashboard-border);
+  border-radius: 1rem;
+  background: var(--dashboard-surface);
+}
+
+.dashboard-results-state[hidden] {
+  display: none;
+}
+
+.dashboard-results-state-icon {
+  flex-shrink: 0;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-top: 0.125rem;
+}
+
+.dashboard-results-state h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.dashboard-results-state p {
+  margin: 0.35rem 0 0;
+  color: var(--dashboard-muted);
+  line-height: 1.5;
+}
+
+.dashboard-results-state--error {
+  border-color: #dc6b6b;
+}
+
 .result-filters {
   display: flex;
   align-items: center;

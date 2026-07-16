@@ -483,6 +483,26 @@
           </div>
 
           <section
+            id="dashboard-results-state"
+            class="dashboard-results-state"
+            role="status"
+            aria-live="polite"
+            aria-atomic="true"
+            hidden
+          >
+            <span
+              class="dashboard-results-state-icon"
+              aria-hidden="true"
+              data-lucide="info"
+            ></span>
+
+            <div>
+              <h2 data-results-state-title></h2>
+              <p data-results-state-message></p>
+            </div>
+          </section>
+
+          <section
             class="recommendation-list"
             aria-label="Recommended businesses"
           >
