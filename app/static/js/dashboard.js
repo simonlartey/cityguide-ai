@@ -51,6 +51,34 @@ const formatPriceLevel = (priceLevel) => {
   return "$".repeat(priceLevel);
 };
 
+const formatRating = (rating) => {
+  if (typeof rating !== "number") {
+    return "Not rated";
+  }
+
+  return String(rating);
+};
+
+const formatDistance = (distanceMiles) => {
+  if (typeof distanceMiles !== "number") {
+    return "Distance unavailable";
+  }
+
+  return `${distanceMiles} mi`;
+};
+
+const formatOpenStatus = (openNow) => {
+  if (openNow === true) {
+    return "Open now";
+  }
+
+  if (openNow === false) {
+    return "Closed";
+  }
+
+  return "Hours unavailable";
+};
+
 const getRecommendationImageClass = (index) => {
   const imageClasses = [
     "recommendation-image--one",
@@ -63,16 +91,21 @@ const getRecommendationImageClass = (index) => {
 
 const normalizePlaceForDashboard = (place, index) => ({
   ...place,
-  rating: String(place.rating),
-  distance: `${place.distance_miles} mi`,
-  price: formatPriceLevel(place.price_level),
-  status: place.open_now ? "Open now" : "Closed",
-  hours: place.hours_text,
+  rating: place.rating,
+  ratingLabel: formatRating(place.rating),
+  distance: formatDistance(place.distance_miles),
+  price:
+    formatPriceLevel(place.price_level) ||
+    "Price unavailable",
+  status: formatOpenStatus(place.open_now),
+  hours: place.hours_text || "Hours unavailable",
   heroClass: getRecommendationImageClass(index).replace(
     "recommendation-image",
     "place-hero"
   ),
-  reasons: place.match_reasons || [],
+  reasons: Array.isArray(place.match_reasons)
+    ? place.match_reasons
+    : [],
 });
 
 const updateCurrentPlaces = (places) => {
@@ -127,22 +160,29 @@ const createRecommendationCard = (place, index) => {
 
   const rating = document.createElement("span");
   rating.className = "rating";
-  rating.textContent =
-    `★ ${place.rating} (${place.review_count})`;
+  if (typeof place.rating === "number") {
+    const reviewCount =
+      Number.isInteger(place.review_count)
+        ? ` (${place.review_count})`
+        : "";
+
+    rating.textContent =
+      `★ ${place.rating}${reviewCount}`;
+  } else {
+    rating.textContent = "Not rated";
+  }
 
   const distance = document.createElement("span");
-  distance.textContent = `${place.distance_miles} mi`;
+  distance.textContent = formatDistance(place.distance_miles);
 
   const price = document.createElement("span");
-  price.textContent = formatPriceLevel(
-    place.price_level
-  );
+  price.textContent =
+    formatPriceLevel(place.price_level) ||
+    "Price unavailable";
 
   const availability = document.createElement("span");
   availability.className = "availability-pill";
-  availability.textContent = place.open_now
-    ? "Open now"
-    : "Closed";
+  availability.textContent = formatOpenStatus(place.open_now);
 
   const separators = Array.from(
     { length: 3 },
@@ -245,9 +285,9 @@ const createInspectorResult = (place, index) => {
   const meta = document.createElement("span");
   meta.className = "inspector-result-meta";
   meta.textContent = [
-    place.rating,
-    `${place.distance_miles} mi`,
-    formatPriceLevel(place.price_level),
+    formatRating(place.rating),
+    formatDistance(place.distance_miles),
+    formatPriceLevel(place.price_level) || "Price unavailable",
   ].join(" · ");
 
   copy.append(name, meta);
@@ -369,15 +409,21 @@ const updatePlaceDetails = (placeId) => {
     place.name;
 
   const ratingLabel =
-    Number.isInteger(place.review_count)
-      ? `${place.rating} (${place.review_count} reviews)`
-      : place.rating;
+    typeof place.rating === "number"
+      ? Number.isInteger(place.review_count)
+        ? `${place.rating} (${place.review_count} reviews)`
+        : String(place.rating)
+      : "Not rated";
   const distanceLabel =
-    place.distance ?? `${place.distance_miles} mi`;
+    place.distance ||
+    formatDistance(place.distance_miles);
   const priceLabel =
-    place.price ?? formatPriceLevel(place.price_level);
+    place.price ||
+    formatPriceLevel(place.price_level) ||
+    "Price unavailable";
   const statusLabel =
-    place.status ?? (place.open_now ? "Open now" : "Closed");
+    place.status ||
+    formatOpenStatus(place.open_now);
 
   document
     .querySelectorAll(SELECTORS.placeSaveButton)

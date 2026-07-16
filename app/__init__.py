@@ -1,6 +1,7 @@
 from flask import Flask
 
 from app.extensions import db, migrate
+from app.providers.places.factory import create_places_provider
 from config import Config
 
 
@@ -9,6 +10,10 @@ def create_app(config_class=Config):
 
     app = Flask(__name__)
     app.config.from_object(config_class)
+
+    app.extensions["places_provider"] = create_places_provider(
+        app.config
+    )
 
     db.init_app(app)
     migrate.init_app(app, db)

@@ -1,3 +1,8 @@
+from unittest.mock import Mock
+
+from app.providers.places.errors import PlacesProviderError
+
+
 def test_search_api_returns_results(client):
     response = client.post(
         "/api/v1/search",
@@ -108,3 +113,65 @@ def test_search_api_rejects_invalid_location(client):
     assert response.get_json()["error"]["message"] == (
         "Latitude must be between -90 and 90."
     )
+
+
+def test_search_api_handles_provider_failure(
+    app,
+    client,
+):
+    provider = Mock()
+    provider.search.side_effect = PlacesProviderError(
+        "Google Places search failed."
+    )
+
+    app.extensions["places_provider"] = provider
+
+    response = client.post(
+        "/api/v1/search",
+        json={
+            "query": "Coffee shops",
+        },
+    )
+
+    assert response.status_code == 503
+    assert response.get_json() == {
+        "error": {
+            "code": "places_provider_unavailable",
+            "message": (
+                "Local recommendations are temporarily unavailable."
+            ),
+        }
+    }
+
+    provider.search.assert_called_once_with(
+        query="Coffee shops",
+        latitude=None,
+        longitude=None,
+    )
+
+
+def test_search_api_does_not_hide_unexpected_errors(
+    app,
+    client,
+):
+    provider = Mock()
+    provider.search.side_effect = RuntimeError(
+        "Unexpected programming error"
+    )
+
+    app.extensions["places_provider"] = provider
+
+    try:
+        client.post(
+            "/api/v1/search",
+            json={
+                "query": "Coffee shops",
+            },
+        )
+    except RuntimeError as error:
+        assert str(error) == "Unexpected programming error"
+    else:
+        raise AssertionError(
+            "Unexpected errors should not be converted "
+            "into provider availability responses."
+        )

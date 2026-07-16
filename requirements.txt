@@ -5,3 +5,4 @@ Flask-Migrate==4.1.0
 pytest==8.4.1
 pytest-cov==6.2.1
 python-dotenv==1.1.1
+requests==2.34.2

@@ -25,6 +25,22 @@ class Config:
         "GOOGLE_OAUTH_CLIENT_SECRET",
     )
 
+    PLACES_PROVIDER = os.environ.get(
+        "PLACES_PROVIDER",
+        "mock",
+    ).strip().lower()
+
+    PLACES_API_KEY = os.environ.get(
+        "PLACES_API_KEY",
+    )
+
+    PLACES_REQUEST_TIMEOUT_SECONDS = float(
+        os.environ.get(
+            "PLACES_REQUEST_TIMEOUT_SECONDS",
+            "10",
+        )
+    )
+
     SQLALCHEMY_DATABASE_URI = os.environ.get(
         "DATABASE_URL",
         f"sqlite:///{BASE_DIR / 'cityguide.db'}",
