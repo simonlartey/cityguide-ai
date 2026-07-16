@@ -1,6 +1,5 @@
-from flask import Blueprint, jsonify, request
+from flask import Blueprint, current_app, jsonify, request
 
-from app.providers.places.mock_provider import MockPlacesProvider
 from app.schemas.search import SearchRequest, SearchValidationError
 from app.services.search_service import SearchService
 
@@ -40,7 +39,9 @@ def search_places():
             }
         ), 400
 
-    service = SearchService(MockPlacesProvider())
+    places_provider = current_app.extensions["places_provider"]
+
+    service = SearchService(places_provider)
     response = service.search(search_request)
 
     return jsonify(response), 200
