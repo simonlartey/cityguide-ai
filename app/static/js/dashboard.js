@@ -41,6 +41,135 @@ const hydrateDashboardIcons = () => {
   }
 };
 
+const formatMessageTime = (date = new Date()) =>
+  new Intl.DateTimeFormat("en-US", {
+    hour: "numeric",
+    minute: "2-digit",
+  }).format(date);
+
+const createMessageAvatar = (role) => {
+  const avatar = document.createElement("div");
+
+  avatar.className =
+    `message-avatar message-avatar--${role}`;
+
+  if (role === "user") {
+    avatar.textContent = "SL";
+    avatar.setAttribute("aria-label", "Simon Lartey");
+  } else {
+    avatar.textContent = "✦";
+    avatar.setAttribute("aria-hidden", "true");
+  }
+
+  return avatar;
+};
+
+const createConversationMessage = ({
+  role,
+  text,
+  pending = false,
+}) => {
+  const row = document.createElement("div");
+
+  row.className =
+    `message-row message-row--${role}`;
+
+  const bubble = document.createElement("article");
+
+  bubble.className =
+    `message-bubble message-bubble--${role}`;
+
+  const message = document.createElement("p");
+  message.textContent = text;
+
+  const time = document.createElement("time");
+  const now = new Date();
+
+  time.dateTime = now.toISOString();
+  time.textContent = formatMessageTime(now);
+
+  bubble.append(message, time);
+
+  if (pending) {
+    bubble.dataset.pendingMessage = "";
+    bubble.setAttribute("aria-busy", "true");
+  }
+
+  const avatar = createMessageAvatar(role);
+
+  if (role === "user") {
+    row.append(bubble, avatar);
+  } else {
+    row.append(avatar, bubble);
+  }
+
+  return {
+    row,
+    bubble,
+    message,
+  };
+};
+
+const scrollConversationToLatest = () => {
+  const conversation = document.querySelector(
+    SELECTORS.conversation
+  );
+
+  if (!conversation) {
+    return;
+  }
+
+  conversation.lastElementChild?.scrollIntoView({
+    behavior: "smooth",
+    block: "nearest",
+  });
+};
+
+const appendConversationMessage = ({
+  role,
+  text,
+  pending = false,
+}) => {
+  const conversation = document.querySelector(
+    SELECTORS.conversation
+  );
+
+  if (!conversation) {
+    return null;
+  }
+
+  const renderedMessage = createConversationMessage({
+    role,
+    text,
+    pending,
+  });
+
+  conversation.append(renderedMessage.row);
+  scrollConversationToLatest();
+
+  return renderedMessage;
+};
+
+const updateConversationMessage = (
+  renderedMessage,
+  text
+) => {
+  if (!renderedMessage) {
+    return;
+  }
+
+  renderedMessage.message.textContent = text;
+  renderedMessage.bubble.removeAttribute(
+    "data-pending-message"
+  );
+  renderedMessage.bubble.setAttribute(
+    "aria-busy",
+    "false"
+  );
+
+  scrollConversationToLatest();
+};
+
 const formatPriceLevel = (priceLevel) => {
   if (!Number.isInteger(priceLevel) || priceLevel < 1) {
     return "";
@@ -1341,7 +1470,17 @@ const initializeDashboardSearch = () => {
   updateSubmitState();
 };
 
+const initializeConversation = () => {
+  appendConversationMessage({
+    role: "assistant",
+    text:
+      "Hi! Tell me what kind of place, service, food, or activity " +
+      "you are looking for in Portland.",
+  });
+};
+
 const initializeDashboard = () => {
+  initializeConversation();
   initializeFilterChips();
   initializeRecommendationCards();
   initializeMapMarkers();
