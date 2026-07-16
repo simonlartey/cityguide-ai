@@ -1,4 +1,5 @@
 const SELECTORS = {
+  conversation: "#dashboard-conversation",
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   recommendationList: ".recommendation-list",
@@ -30,9 +31,6 @@ const SELECTORS = {
   resultsStateTitle: "[data-results-state-title]",
   resultsStateMessage: "[data-results-state-message]",
 };
-
-const INITIAL_SEARCH_QUERY =
-  "Affordable barber for textured hair";
 
 let PLACES = {};
 let latestSearchRequestId = 0;
@@ -1135,101 +1133,6 @@ const searchPlaces = async (query) => {
   return data;
 };
 
-const loadInitialDashboardResults = async () => {
-  const status = document.querySelector(
-    SELECTORS.searchStatus
-  );
-  const requestId = ++latestSearchRequestId;
-
-  let searchSucceeded = false;
-
-  setSearchLoadingState(true);
-
-  if (status) {
-    status.textContent =
-      "Loading initial recommendations.";
-  }
-
-  try {
-    const searchResponse = await searchPlaces(
-      INITIAL_SEARCH_QUERY
-    );
-
-    if (requestId !== latestSearchRequestId) {
-      return;
-    }
-
-    applySearchResults(searchResponse.results);
-
-    if (searchResponse.results.length === 0) {
-      showResultsState({
-        title: "No matching places found",
-        message:
-          "Try changing your search or using fewer filters.",
-      });
-    } else {
-      hideResultsState();
-    }
-    searchSucceeded = true;
-
-    if (status) {
-      status.textContent =
-        `Loaded ${searchResponse.result_count} initial results.`;
-    }
-  } catch (error) {
-    if (requestId !== latestSearchRequestId) {
-      return;
-    }
-
-    if (status) {
-      status.textContent =
-        "The initial recommendations could not be loaded.";
-    }
-
-    showResultsState({
-      title: "Recommendations unavailable",
-      message:
-        error instanceof Error
-          ? error.message
-          : "Please refresh the page and try again.",
-      isError: true,
-    });
-
-    console.error(
-      "CityGuide initial search failed:",
-      error
-    );
-  } finally {
-    if (requestId !== latestSearchRequestId) {
-      return;
-    }
-
-    if (searchSucceeded) {
-      setSearchLoadingState(false);
-    } else {
-      const progress = document.querySelector(
-        SELECTORS.searchProgress
-      );
-      const title = document.querySelector(
-        SELECTORS.searchProgressTitle
-      );
-      const progressStatus = document.querySelector(
-        SELECTORS.searchProgressStatus
-      );
-
-      progress?.setAttribute("aria-busy", "false");
-
-      if (title) {
-        title.textContent =
-          "Local business search unavailable";
-      }
-
-      if (progressStatus) {
-        progressStatus.textContent = "Error";
-      }
-    }
-  }
-};
 
 const setSearchLoadingState = (isLoading) => {
   const progress = document.querySelector(
@@ -1449,7 +1352,6 @@ const initializeDashboard = () => {
   initializeMobileSidebar();
   initializeMobileInspector();
   initializeDashboardSearch();
-  loadInitialDashboardResults();
   syncMobileDrawerAccessibility();
 };
 

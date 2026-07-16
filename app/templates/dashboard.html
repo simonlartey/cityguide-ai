@@ -295,58 +295,41 @@
         </h1>
 
         <div class="conversation-content">
-          <div class="message-row message-row--user">
-            <article class="message-bubble message-bubble--user">
-              <p>
-                I need a barber for textured hair in Portland.
-                Somewhere affordable and highly rated.
-              </p>
+          <div
+            id="dashboard-conversation"
+            class="conversation-messages"
+            aria-live="polite"
+            aria-relevant="additions text"
+          >
+            <div class="message-row message-row--assistant">
+              <div
+                class="message-avatar message-avatar--assistant"
+                aria-hidden="true"
+              >
+                ✦
+              </div>
 
-              <time datetime="2026-07-14T10:32:00">
-                10:32 AM
-              </time>
-            </article>
-
-            <div
-              class="message-avatar message-avatar--user"
-              aria-label="Simon Lartey"
-            >
-              SL
+              <article class="message-bubble message-bubble--assistant">
+                <p>
+                  Hi! Tell me what kind of place, service, food, or activity
+                  you are looking for in Portland.
+                </p>
+              </article>
             </div>
-          </div>
-
-          <div class="message-row message-row--assistant">
-            <div
-              class="message-avatar message-avatar--assistant"
-              aria-hidden="true"
-            >
-              ✦
-            </div>
-
-            <article class="message-bubble message-bubble--assistant">
-              <p>
-                Got it! I’m searching for highly rated barbers that
-                specialize in textured hair in Portland. I’ll compare
-                reviews, price, distance, and availability.
-              </p>
-
-              <time datetime="2026-07-14T10:33:00">
-                10:33 AM
-              </time>
-            </article>
           </div>
 
           <section
             class="search-progress"
             aria-labelledby="search-progress-title"
+            aria-busy="false"
           >
             <div class="search-progress-heading">
               <h2 id="search-progress-title">
-                Searching local businesses...
+                Ready for a local search
               </h2>
 
               <span class="search-progress-status">
-                Complete
+                Ready
               </span>
             </div>
 
@@ -532,14 +515,14 @@
             class="sr-only"
             for="dashboard-query"
           >
-            Ask anything about your city
+            Search for local places and services
           </label>
 
           <input
             id="dashboard-query"
             name="query"
             type="text"
-            placeholder="Ask anything about your city..."
+            placeholder="Ask for places, services, food, or things to do nearby..."
             autocomplete="off"
             maxlength="500"
             required
@@ -674,13 +657,13 @@
               <span></span>
               <span></span>
               <span></span>
-              <span class="place-gallery-more">+12</span>
+              <span class="place-gallery-more"></span>
             </div>
           </div>
 
           <div class="place-details-content">
             <div class="place-details-heading">
-              <h2 data-place-name>Loading recommendations...</h2>
+              <h2 data-place-name>No place selected</h2>
 
               <div class="place-details-meta">
                 <span class="rating">
@@ -694,7 +677,7 @@
                 <span aria-hidden="true">·</span>
                 <span data-place-price>Price unavailable</span>
 
-                <span class="availability-pill" data-place-status>Loading</span>
+                <span class="availability-pill" data-place-status>Unavailable</span>
               </div>
             </div>
 
