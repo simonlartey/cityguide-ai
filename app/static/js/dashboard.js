@@ -429,6 +429,49 @@ const updatePlaceDetails = (placeId) => {
   hydrateDashboardIcons();
 };
 
+const clearSelectedPlaceDetails = () => {
+  const name = document.querySelector("[data-place-name]");
+  const rating = document.querySelector("[data-place-rating]");
+  const distance = document.querySelector("[data-place-distance]");
+  const price = document.querySelector("[data-place-price]");
+  const status = document.querySelector("[data-place-status]");
+  const address = document.querySelector("[data-place-address]");
+  const hours = document.querySelector("[data-place-hours]");
+  const reasons = document.querySelector("[data-place-reasons]");
+
+  if (name) {
+    name.textContent = "No place selected";
+  }
+
+  if (rating) {
+    rating.textContent = "Rating unavailable";
+  }
+
+  if (distance) {
+    distance.textContent = "Distance unavailable";
+  }
+
+  if (price) {
+    price.textContent = "Price unavailable";
+  }
+
+  if (status) {
+    status.textContent = "Unavailable";
+  }
+
+  if (address) {
+    address.textContent = "Address unavailable";
+  }
+
+  if (hours) {
+    hours.textContent = "Hours unavailable";
+  }
+
+  if (reasons) {
+    reasons.replaceChildren();
+  }
+};
+
 const selectPlace = (placeId) => {
   document
     .querySelectorAll(SELECTORS.recommendationCard)
@@ -1210,6 +1253,8 @@ const applySearchResults = (places) => {
 
   if (places.length > 0) {
     selectPlace(places[0].id);
+  } else {
+    clearSelectedPlaceDetails();
   }
 };
 
