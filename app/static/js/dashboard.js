@@ -27,6 +27,7 @@ const SELECTORS = {
   searchProgress: ".search-progress",
   searchProgressTitle: "#search-progress-title",
   searchProgressStatus: ".search-progress-status",
+  searchProgressItems: ".search-progress-list li",
   resultsState: "#dashboard-results-state",
   resultsStateTitle: "[data-results-state-title]",
   resultsStateMessage: "[data-results-state-message]",
@@ -1304,6 +1305,18 @@ const setSearchLoadingState = (isLoading) => {
   progressStatus.textContent = isLoading
     ? "Searching"
     : "Complete";
+
+  setSearchProgressItemsState(
+    isLoading ? "active" : "complete"
+  );
+};
+
+const setSearchProgressItemsState = (state) => {
+  document
+    .querySelectorAll(SELECTORS.searchProgressItems)
+    .forEach((item) => {
+      item.dataset.progressState = state;
+    });
 };
 
 const setSearchErrorState = () => {
@@ -1324,6 +1337,7 @@ const setSearchErrorState = () => {
   progress.setAttribute("aria-busy", "false");
   title.textContent = "Local business search unavailable";
   progressStatus.textContent = "Error";
+  setSearchProgressItemsState("error");
 };
 
 const hideResultsState = () => {
@@ -1561,6 +1575,7 @@ const initializeConversation = () => {
 
 const initializeDashboard = () => {
   initializeConversation();
+  setSearchProgressItemsState("ready");
   initializeFilterChips();
   initializeRecommendationCards();
   initializeMapMarkers();
