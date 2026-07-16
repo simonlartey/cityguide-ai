@@ -23,6 +23,9 @@ const SELECTORS = {
   searchInput: "#dashboard-query",
   searchSubmit: "#dashboard-search-submit",
   searchStatus: "#dashboard-search-status",
+  searchProgress: ".search-progress",
+  searchProgressTitle: "#search-progress-title",
+  searchProgressStatus: ".search-progress-status",
 };
 
 let PLACES = {
@@ -1103,6 +1106,35 @@ const searchPlaces = async (query) => {
   return data;
 };
 
+const setSearchLoadingState = (isLoading) => {
+  const progress = document.querySelector(
+    SELECTORS.searchProgress
+  );
+  const title = document.querySelector(
+    SELECTORS.searchProgressTitle
+  );
+  const progressStatus = document.querySelector(
+    SELECTORS.searchProgressStatus
+  );
+
+  if (!progress || !title || !progressStatus) {
+    return;
+  }
+
+  progress.setAttribute(
+    "aria-busy",
+    String(isLoading)
+  );
+
+  title.textContent = isLoading
+    ? "Searching local businesses..."
+    : "Local business search complete";
+
+  progressStatus.textContent = isLoading
+    ? "Searching"
+    : "Complete";
+};
+
 const initializeDashboardSearch = () => {
   const form = document.querySelector(
     SELECTORS.searchForm
@@ -1146,6 +1178,7 @@ const initializeDashboardSearch = () => {
 
     input.disabled = true;
     submitButton.disabled = true;
+    setSearchLoadingState(true);
     status.textContent =
       "Searching for local businesses.";
 
@@ -1186,6 +1219,7 @@ const initializeDashboardSearch = () => {
 
       console.error("CityGuide search failed:", error);
     } finally {
+      setSearchLoadingState(false);
       input.disabled = false;
       updateSubmitState();
       input.focus();
