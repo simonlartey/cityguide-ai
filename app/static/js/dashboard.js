@@ -1182,11 +1182,20 @@ const showResultsState = ({
   hydrateDashboardIcons();
 };
 
+const applySearchResults = (places) => {
+  updateCurrentPlaces(places);
+
+  renderRecommendationCards(places);
+  renderInspectorResults(places);
+  renderMapMarkers(places);
+
+  if (places.length > 0) {
+    selectPlace(places[0].id);
+  }
+};
+
 const clearSearchResults = () => {
-  updateCurrentPlaces([]);
-  renderRecommendationCards([]);
-  renderInspectorResults([]);
-  renderMapMarkers([]);
+  applySearchResults([]);
 };
 
 const initializeDashboardSearch = () => {
@@ -1259,23 +1268,7 @@ const initializeDashboardSearch = () => {
         `Search complete. Found ` +
         `${searchResponse.result_count} results.`;
 
-      updateCurrentPlaces(searchResponse.results);
-
-      renderRecommendationCards(
-        searchResponse.results
-      );
-
-      renderInspectorResults(
-        searchResponse.results
-      );
-
-      renderMapMarkers(
-        searchResponse.results
-      );
-
-      if (searchResponse.results.length > 0) {
-        selectPlace(searchResponse.results[0].id);
-      }
+      applySearchResults(searchResponse.results);
 
       console.log(
         "CityGuide search response:",
