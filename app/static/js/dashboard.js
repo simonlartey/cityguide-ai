@@ -23,7 +23,7 @@ const SELECTORS = {
   searchStatus: "#dashboard-search-status",
 };
 
-const PLACES = {
+let PLACES = {
   "portland-fade-studio": {
     name: "Portland Fade Studio",
     rating: "4.9",
@@ -120,6 +120,29 @@ const getRecommendationImageClass = (index) => {
   ];
 
   return imageClasses[index % imageClasses.length];
+};
+
+const normalizePlaceForDashboard = (place, index) => ({
+  ...place,
+  rating: String(place.rating),
+  distance: `${place.distance_miles} mi`,
+  price: formatPriceLevel(place.price_level),
+  status: place.open_now ? "Open now" : "Closed",
+  hours: place.hours_text,
+  heroClass: getRecommendationImageClass(index).replace(
+    "recommendation-image",
+    "place-hero"
+  ),
+  reasons: place.match_reasons || [],
+});
+
+const updateCurrentPlaces = (places) => {
+  PLACES = Object.fromEntries(
+    places.map((place, index) => [
+      place.id,
+      normalizePlaceForDashboard(place, index),
+    ])
+  );
 };
 
 const createRecommendationCard = (place, index) => {
@@ -332,9 +355,9 @@ const updatePlaceDetails = (placeId) => {
   document.querySelector("[data-place-status]").textContent =
     statusLabel;
   document.querySelector("[data-place-address]").textContent =
-    place.address;
+    place.address || "Address unavailable";
   document.querySelector("[data-place-hours]").textContent =
-    place.hours;
+    place.hours || "Hours unavailable";
 
   const hero = document.querySelector("[data-place-hero]");
 
@@ -348,7 +371,7 @@ const updatePlaceDetails = (placeId) => {
   const reasons = document.querySelector("[data-place-reasons]");
 
   reasons.replaceChildren(
-    ...place.reasons.map((reason) => {
+    ...(place.reasons || []).map((reason) => {
       const listItem = document.createElement("li");
       const icon = document.createElement("span");
       const text = document.createTextNode(reason);
@@ -1028,9 +1051,15 @@ const initializeDashboardSearch = () => {
         `Search complete. Found ` +
         `${searchResponse.result_count} results.`;
 
+      updateCurrentPlaces(searchResponse.results);
+
       renderRecommendationCards(
         searchResponse.results
       );
+
+      if (searchResponse.results.length > 0) {
+        selectPlace(searchResponse.results[0].id);
+      }
 
       console.log(
         "CityGuide search response:",
