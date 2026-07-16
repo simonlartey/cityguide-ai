@@ -1,6 +1,8 @@
 const SELECTORS = {
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
+  recommendationList: ".recommendation-list",
+  mapPreview: ".map-preview",
   placeMarker: "[data-place-marker]",
   placeSaveButton: "[data-place-save-button]",
   sidebarShell: "#dashboard-shell",
@@ -13,66 +15,329 @@ const SELECTORS = {
   inspectorTab: "[data-inspector-tab]",
   inspectorPanel: "[data-inspector-panel]",
   placeResult: "[data-place-result]",
+  inspectorResultsList: ".inspector-results-list",
   mobileInspectorToggle: "[data-mobile-inspector-toggle]",
   mobileInspectorClose: "[data-mobile-inspector-close]",
   inspectorBackdrop: "[data-inspector-backdrop]",
+  searchForm: "#dashboard-search-form",
+  searchInput: "#dashboard-query",
+  searchSubmit: "#dashboard-search-submit",
+  searchStatus: "#dashboard-search-status",
+  searchProgress: ".search-progress",
+  searchProgressTitle: "#search-progress-title",
+  searchProgressStatus: ".search-progress-status",
+  resultsState: "#dashboard-results-state",
+  resultsStateTitle: "[data-results-state-title]",
+  resultsStateMessage: "[data-results-state-message]",
 };
 
-const PLACES = {
-  "portland-fade-studio": {
-    name: "Portland Fade Studio",
-    rating: "4.9 (527 reviews)",
-    distance: "0.4 mi",
-    price: "$$",
-    status: "Open now",
-    address: "123 Congress St, Portland, ME 04101",
-    hours: "Open today: 9:00 AM – 7:00 PM",
-    heroClass: "place-hero--one",
-    reasons: [
-      "Specializes in textured hair and modern fades",
-      "Highly rated by customers with similar hair types",
-      "Affordable pricing",
-      "Close to your location",
-    ],
-  },
-  "crown-and-co": {
-    name: "Crown & Co. Barbershop",
-    rating: "4.8 (319 reviews)",
-    distance: "0.7 mi",
-    price: "$$",
-    status: "Open now",
-    address: "75 Middle St, Portland, ME 04101",
-    hours: "Open today: 10:00 AM – 8:00 PM",
-    heroClass: "place-hero--two",
-    reasons: [
-      "Experienced with curls, coils, and textured styles",
-      "Offers student discounts",
-      "Strong customer service ratings",
-      "Convenient downtown location",
-    ],
-  },
-  "elevate-cuts": {
-    name: "Elevate Cuts",
-    rating: "4.7 (214 reviews)",
-    distance: "1.1 mi",
-    price: "$",
-    status: "Open now",
-    address: "210 Forest Ave, Portland, ME 04101",
-    hours: "Open today: 8:30 AM – 6:30 PM",
-    heroClass: "place-hero--three",
-    reasons: [
-      "Budget-friendly pricing",
-      "Strong experience with curls and waves",
-      "Fast appointment availability",
-      "Good option for students",
-    ],
-  },
-};
+const INITIAL_SEARCH_QUERY =
+  "Affordable barber for textured hair";
+
+let PLACES = {};
+let latestSearchRequestId = 0;
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
     window.lucide.createIcons();
   }
+};
+
+const formatPriceLevel = (priceLevel) => {
+  if (!Number.isInteger(priceLevel) || priceLevel < 1) {
+    return "";
+  }
+
+  return "$".repeat(priceLevel);
+};
+
+const getRecommendationImageClass = (index) => {
+  const imageClasses = [
+    "recommendation-image--one",
+    "recommendation-image--two",
+    "recommendation-image--three",
+  ];
+
+  return imageClasses[index % imageClasses.length];
+};
+
+const normalizePlaceForDashboard = (place, index) => ({
+  ...place,
+  rating: String(place.rating),
+  distance: `${place.distance_miles} mi`,
+  price: formatPriceLevel(place.price_level),
+  status: place.open_now ? "Open now" : "Closed",
+  hours: place.hours_text,
+  heroClass: getRecommendationImageClass(index).replace(
+    "recommendation-image",
+    "place-hero"
+  ),
+  reasons: place.match_reasons || [],
+});
+
+const updateCurrentPlaces = (places) => {
+  PLACES = Object.fromEntries(
+    places.map((place, index) => [
+      place.id,
+      normalizePlaceForDashboard(place, index),
+    ])
+  );
+};
+
+const createRecommendationCard = (place, index) => {
+  const card = document.createElement("article");
+
+  card.className = "recommendation-card";
+  card.dataset.recommendationCard = "";
+  card.dataset.placeId = place.id;
+  card.tabIndex = 0;
+
+  if (index === 0) {
+    card.classList.add("recommendation-card--selected");
+  }
+
+  const image = document.createElement("div");
+  image.className =
+    `recommendation-image ${getRecommendationImageClass(index)}`;
+
+  const rank = document.createElement("span");
+  rank.className = "recommendation-rank";
+  rank.textContent = String(index + 1);
+
+  const imageLabel = document.createElement("span");
+  imageLabel.className = "recommendation-image-label";
+  imageLabel.setAttribute("aria-hidden", "true");
+  imageLabel.textContent = `${place.name} preview`;
+
+  image.append(rank, imageLabel);
+
+  const copy = document.createElement("div");
+  copy.className = "recommendation-copy";
+
+  const heading = document.createElement("div");
+  heading.className = "recommendation-heading";
+
+  const headingCopy = document.createElement("div");
+
+  const name = document.createElement("h2");
+  name.textContent = place.name;
+
+  const meta = document.createElement("div");
+  meta.className = "recommendation-meta";
+
+  const rating = document.createElement("span");
+  rating.className = "rating";
+  rating.textContent =
+    `★ ${place.rating} (${place.review_count})`;
+
+  const distance = document.createElement("span");
+  distance.textContent = `${place.distance_miles} mi`;
+
+  const price = document.createElement("span");
+  price.textContent = formatPriceLevel(
+    place.price_level
+  );
+
+  const availability = document.createElement("span");
+  availability.className = "availability-pill";
+  availability.textContent = place.open_now
+    ? "Open now"
+    : "Closed";
+
+  const separators = Array.from(
+    { length: 3 },
+    () => {
+      const separator = document.createElement("span");
+      separator.setAttribute("aria-hidden", "true");
+      separator.textContent = "·";
+      return separator;
+    }
+  );
+
+  meta.append(
+    rating,
+    separators[0],
+    distance,
+    separators[1],
+    price,
+    separators[2],
+    availability
+  );
+
+  headingCopy.append(name, meta);
+
+  const saveButton = document.createElement("button");
+  saveButton.type = "button";
+  saveButton.className = "save-place-button";
+  saveButton.setAttribute(
+    "aria-label",
+    `Save ${place.name}`
+  );
+  saveButton.setAttribute(
+    "data-place-save-button",
+    ""
+  );
+
+  const saveIcon = document.createElement("span");
+  saveIcon.setAttribute("aria-hidden", "true");
+  saveIcon.setAttribute("data-lucide", "heart");
+
+  saveButton.append(saveIcon);
+  heading.append(headingCopy, saveButton);
+
+  const description = document.createElement("p");
+  description.className = "recommendation-description";
+  description.textContent = place.description;
+
+  const tag = document.createElement("span");
+  tag.className = "recommendation-tag";
+  tag.textContent =
+    place.tags?.[0] || place.category;
+
+  copy.append(heading, description, tag);
+
+  const actions = document.createElement("div");
+  actions.className = "recommendation-actions";
+
+  [
+    ["navigation", "Directions"],
+    ["phone", "Call"],
+    ["globe-2", "Website"],
+  ].forEach(([iconName, label]) => {
+    const button = document.createElement("button");
+    button.type = "button";
+
+    const icon = document.createElement("span");
+    icon.setAttribute("aria-hidden", "true");
+    icon.setAttribute("data-lucide", iconName);
+
+    button.append(icon, document.createTextNode(label));
+    actions.append(button);
+  });
+
+  card.append(image, copy, actions);
+
+  return card;
+};
+
+const createInspectorResult = (place, index) => {
+  const result = document.createElement("button");
+
+  result.type = "button";
+  result.className = "inspector-result-item";
+  result.dataset.placeResult = place.id;
+
+  if (index === 0) {
+    result.classList.add("inspector-result-item--active");
+  }
+
+  const rank = document.createElement("span");
+  rank.className = "inspector-result-rank";
+  rank.textContent = String(index + 1);
+
+  const copy = document.createElement("span");
+  copy.className = "inspector-result-copy";
+
+  const name = document.createElement("span");
+  name.className = "inspector-result-name";
+  name.textContent = place.name;
+
+  const meta = document.createElement("span");
+  meta.className = "inspector-result-meta";
+  meta.textContent = [
+    place.rating,
+    `${place.distance_miles} mi`,
+    formatPriceLevel(place.price_level),
+  ].join(" · ");
+
+  copy.append(name, meta);
+  result.append(rank, copy);
+
+  return result;
+};
+
+const renderRecommendationCards = (places) => {
+  const recommendationList = document.querySelector(
+    SELECTORS.recommendationList
+  );
+
+  if (!recommendationList) {
+    return;
+  }
+
+  recommendationList.replaceChildren(
+    ...places.map(createRecommendationCard)
+  );
+
+  initializeRecommendationCards();
+  hydrateDashboardIcons();
+};
+
+const renderInspectorResults = (places) => {
+  const resultsList = document.querySelector(
+    SELECTORS.inspectorResultsList
+  );
+
+  if (!resultsList) {
+    return;
+  }
+
+  resultsList.replaceChildren(
+    ...places.map(createInspectorResult)
+  );
+
+  initializeInspectorResults();
+};
+
+const getMapMarkerClass = (index) => {
+  const markerClasses = [
+    "map-marker--one",
+    "map-marker--two",
+    "map-marker--three",
+  ];
+
+  return markerClasses[index % markerClasses.length];
+};
+
+const createMapMarker = (place, index) => {
+  const marker = document.createElement("button");
+
+  marker.type = "button";
+  marker.className =
+    `map-marker ${getMapMarkerClass(index)}`;
+  marker.dataset.placeMarker = place.id;
+  marker.setAttribute("aria-label", place.name);
+
+  if (index === 0) {
+    marker.classList.add("map-marker--active");
+  }
+
+  const rank = document.createElement("span");
+  rank.textContent = String(index + 1);
+
+  marker.append(rank);
+
+  return marker;
+};
+
+const renderMapMarkers = (places) => {
+  const mapPreview = document.querySelector(
+    SELECTORS.mapPreview
+  );
+
+  if (!mapPreview) {
+    return;
+  }
+
+  mapPreview
+    .querySelectorAll(SELECTORS.placeMarker)
+    .forEach((marker) => marker.remove());
+
+  mapPreview.append(
+    ...places.map(createMapMarker)
+  );
+
+  initializeMapMarkers();
 };
 
 const initializeFilterChips = () => {
@@ -103,6 +368,17 @@ const updatePlaceDetails = (placeId) => {
   document.querySelector("[data-place-name]").textContent =
     place.name;
 
+  const ratingLabel =
+    Number.isInteger(place.review_count)
+      ? `${place.rating} (${place.review_count} reviews)`
+      : place.rating;
+  const distanceLabel =
+    place.distance ?? `${place.distance_miles} mi`;
+  const priceLabel =
+    place.price ?? formatPriceLevel(place.price_level);
+  const statusLabel =
+    place.status ?? (place.open_now ? "Open now" : "Closed");
+
   document
     .querySelectorAll(SELECTORS.placeSaveButton)
     .forEach((button) => {
@@ -113,17 +389,17 @@ const updatePlaceDetails = (placeId) => {
     });
 
   document.querySelector("[data-place-rating]").textContent =
-    place.rating;
+    ratingLabel;
   document.querySelector("[data-place-distance]").textContent =
-    place.distance;
+    distanceLabel;
   document.querySelector("[data-place-price]").textContent =
-    place.price;
+    priceLabel;
   document.querySelector("[data-place-status]").textContent =
-    place.status;
+    statusLabel;
   document.querySelector("[data-place-address]").textContent =
-    place.address;
+    place.address || "Address unavailable";
   document.querySelector("[data-place-hours]").textContent =
-    place.hours;
+    place.hours || "Hours unavailable";
 
   const hero = document.querySelector("[data-place-hero]");
 
@@ -137,7 +413,7 @@ const updatePlaceDetails = (placeId) => {
   const reasons = document.querySelector("[data-place-reasons]");
 
   reasons.replaceChildren(
-    ...place.reasons.map((reason) => {
+    ...(place.reasons || []).map((reason) => {
       const listItem = document.createElement("li");
       const icon = document.createElement("span");
       const text = document.createTextNode(reason);
@@ -152,6 +428,49 @@ const updatePlaceDetails = (placeId) => {
   );
 
   hydrateDashboardIcons();
+};
+
+const clearSelectedPlaceDetails = () => {
+  const name = document.querySelector("[data-place-name]");
+  const rating = document.querySelector("[data-place-rating]");
+  const distance = document.querySelector("[data-place-distance]");
+  const price = document.querySelector("[data-place-price]");
+  const status = document.querySelector("[data-place-status]");
+  const address = document.querySelector("[data-place-address]");
+  const hours = document.querySelector("[data-place-hours]");
+  const reasons = document.querySelector("[data-place-reasons]");
+
+  if (name) {
+    name.textContent = "No place selected";
+  }
+
+  if (rating) {
+    rating.textContent = "Rating unavailable";
+  }
+
+  if (distance) {
+    distance.textContent = "Distance unavailable";
+  }
+
+  if (price) {
+    price.textContent = "Price unavailable";
+  }
+
+  if (status) {
+    status.textContent = "Unavailable";
+  }
+
+  if (address) {
+    address.textContent = "Address unavailable";
+  }
+
+  if (hours) {
+    hours.textContent = "Hours unavailable";
+  }
+
+  if (reasons) {
+    reasons.replaceChildren();
+  }
 };
 
 const selectPlace = (placeId) => {
@@ -736,6 +1055,343 @@ const initializeMobileInspector = () => {
   });
 };
 
+const searchPlaces = async (query) => {
+  const response = await fetch("/api/v1/search", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      query,
+      location: {
+        latitude: 43.6591,
+        longitude: -70.2568,
+      },
+    }),
+  });
+
+  let data = {};
+
+  try {
+    data = await response.json();
+  } catch {
+    data = {};
+  }
+
+  if (!response.ok) {
+    const message =
+      data.error?.message ||
+      "CityGuide could not complete your search.";
+
+    throw new Error(message);
+  }
+
+  return data;
+};
+
+const loadInitialDashboardResults = async () => {
+  const status = document.querySelector(
+    SELECTORS.searchStatus
+  );
+  const requestId = ++latestSearchRequestId;
+
+  let searchSucceeded = false;
+
+  setSearchLoadingState(true);
+
+  if (status) {
+    status.textContent =
+      "Loading initial recommendations.";
+  }
+
+  try {
+    const searchResponse = await searchPlaces(
+      INITIAL_SEARCH_QUERY
+    );
+
+    if (requestId !== latestSearchRequestId) {
+      return;
+    }
+
+    applySearchResults(searchResponse.results);
+
+    if (searchResponse.results.length === 0) {
+      showResultsState({
+        title: "No matching places found",
+        message:
+          "Try changing your search or using fewer filters.",
+      });
+    } else {
+      hideResultsState();
+    }
+    searchSucceeded = true;
+
+    if (status) {
+      status.textContent =
+        `Loaded ${searchResponse.result_count} initial results.`;
+    }
+  } catch (error) {
+    if (requestId !== latestSearchRequestId) {
+      return;
+    }
+
+    if (status) {
+      status.textContent =
+        "The initial recommendations could not be loaded.";
+    }
+
+    showResultsState({
+      title: "Recommendations unavailable",
+      message:
+        error instanceof Error
+          ? error.message
+          : "Please refresh the page and try again.",
+      isError: true,
+    });
+
+    console.error(
+      "CityGuide initial search failed:",
+      error
+    );
+  } finally {
+    if (requestId !== latestSearchRequestId) {
+      return;
+    }
+
+    if (searchSucceeded) {
+      setSearchLoadingState(false);
+    } else {
+      const progress = document.querySelector(
+        SELECTORS.searchProgress
+      );
+      const title = document.querySelector(
+        SELECTORS.searchProgressTitle
+      );
+      const progressStatus = document.querySelector(
+        SELECTORS.searchProgressStatus
+      );
+
+      progress?.setAttribute("aria-busy", "false");
+
+      if (title) {
+        title.textContent =
+          "Local business search unavailable";
+      }
+
+      if (progressStatus) {
+        progressStatus.textContent = "Error";
+      }
+    }
+  }
+};
+
+const setSearchLoadingState = (isLoading) => {
+  const progress = document.querySelector(
+    SELECTORS.searchProgress
+  );
+  const title = document.querySelector(
+    SELECTORS.searchProgressTitle
+  );
+  const progressStatus = document.querySelector(
+    SELECTORS.searchProgressStatus
+  );
+
+  if (!progress || !title || !progressStatus) {
+    return;
+  }
+
+  progress.setAttribute(
+    "aria-busy",
+    String(isLoading)
+  );
+
+  title.textContent = isLoading
+    ? "Searching local businesses..."
+    : "Local business search complete";
+
+  progressStatus.textContent = isLoading
+    ? "Searching"
+    : "Complete";
+};
+
+const hideResultsState = () => {
+  const state = document.querySelector(
+    SELECTORS.resultsState
+  );
+
+  if (state) {
+    state.hidden = true;
+    state.classList.remove(
+      "dashboard-results-state--error"
+    );
+  }
+};
+
+const showResultsState = ({
+  title,
+  message,
+  isError = false,
+}) => {
+  const state = document.querySelector(
+    SELECTORS.resultsState
+  );
+  const titleElement = document.querySelector(
+    SELECTORS.resultsStateTitle
+  );
+  const messageElement = document.querySelector(
+    SELECTORS.resultsStateMessage
+  );
+
+  if (!state || !titleElement || !messageElement) {
+    return;
+  }
+
+  titleElement.textContent = title;
+  messageElement.textContent = message;
+
+  state.classList.toggle(
+    "dashboard-results-state--error",
+    isError
+  );
+
+  state.hidden = false;
+  hydrateDashboardIcons();
+};
+
+const applySearchResults = (places) => {
+  updateCurrentPlaces(places);
+
+  renderRecommendationCards(places);
+  renderInspectorResults(places);
+  renderMapMarkers(places);
+
+  if (places.length > 0) {
+    selectPlace(places[0].id);
+  } else {
+    clearSelectedPlaceDetails();
+  }
+};
+
+const clearSearchResults = () => {
+  applySearchResults([]);
+};
+
+const initializeDashboardSearch = () => {
+  const form = document.querySelector(
+    SELECTORS.searchForm
+  );
+
+  const input = document.querySelector(
+    SELECTORS.searchInput
+  );
+
+  const submitButton = document.querySelector(
+    SELECTORS.searchSubmit
+  );
+
+  const status = document.querySelector(
+    SELECTORS.searchStatus
+  );
+
+  if (!form || !input || !submitButton || !status) {
+    return;
+  }
+
+  const updateSubmitState = () => {
+    submitButton.disabled =
+      input.value.trim().length === 0;
+  };
+
+  input.addEventListener("input", updateSubmitState);
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    const query = input.value.trim();
+
+    if (!query) {
+      status.textContent =
+        "Please enter a search query.";
+      updateSubmitState();
+      input.focus();
+      return;
+    }
+
+    const requestId = ++latestSearchRequestId;
+
+    input.disabled = true;
+    submitButton.disabled = true;
+    setSearchLoadingState(true);
+    hideResultsState();
+    status.textContent =
+      "Searching for local businesses.";
+
+    try {
+      const searchResponse = await searchPlaces(query);
+
+      if (requestId !== latestSearchRequestId) {
+        return;
+      }
+
+      if (searchResponse.results.length === 0) {
+        clearSearchResults();
+
+        showResultsState({
+          title: "No matching places found",
+          message:
+            "Try changing your wording, increasing the distance, or removing one preference.",
+        });
+
+        status.textContent =
+          "Search complete. No matching places found.";
+
+        return;
+      }
+
+      status.textContent =
+        `Search complete. Found ` +
+        `${searchResponse.result_count} results.`;
+
+      applySearchResults(searchResponse.results);
+
+      console.log(
+        "CityGuide search response:",
+        searchResponse
+      );
+    } catch (error) {
+      if (requestId !== latestSearchRequestId) {
+        return;
+      }
+
+      const message =
+        error instanceof Error
+          ? error.message
+          : "CityGuide could not complete your search.";
+
+      status.textContent = message;
+
+      showResultsState({
+        title: "We could not complete your search",
+        message,
+        isError: true,
+      });
+
+      console.error("CityGuide search failed:", error);
+    } finally {
+      if (requestId !== latestSearchRequestId) {
+        return;
+      }
+
+      setSearchLoadingState(false);
+      input.disabled = false;
+      updateSubmitState();
+      input.focus();
+    }
+  });
+
+  updateSubmitState();
+};
+
 const initializeDashboard = () => {
   initializeFilterChips();
   initializeRecommendationCards();
@@ -746,6 +1402,8 @@ const initializeDashboard = () => {
   initializeSidebarToggle();
   initializeMobileSidebar();
   initializeMobileInspector();
+  initializeDashboardSearch();
+  loadInitialDashboardResults();
   syncMobileDrawerAccessibility();
 };
 
