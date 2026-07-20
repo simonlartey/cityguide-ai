@@ -62,6 +62,32 @@ def test_google_provider_searches_and_normalizes_results(
                 "nationalPhoneNumber": "(207) 555-0100",
                 "websiteUri": "https://example.com",
                 "googleMapsUri": "https://maps.google.com/example",
+                "photos": [
+                    {
+                        "name": (
+                            "places/place-123/photos/"
+                            "photo-reference-1"
+                        ),
+                        "widthPx": 1600,
+                        "heightPx": 900,
+                        "authorAttributions": [
+                            {
+                                "displayName": "Example Photographer",
+                                "uri": "https://example.com/profile",
+                                "photoUri": "https://example.com/avatar.jpg",
+                            }
+                        ],
+                    },
+                    {
+                        "name": (
+                            "places/place-123/photos/"
+                            "photo-reference-2"
+                        ),
+                        "widthPx": 1200,
+                        "heightPx": 800,
+                        "authorAttributions": [],
+                    },
+                ],
             }
         ]
     }
@@ -115,6 +141,32 @@ def test_google_provider_searches_and_normalizes_results(
             "phone": "(207) 555-0100",
             "website": "https://example.com",
             "maps_url": "https://maps.google.com/example",
+            "photos": [
+                {
+                    "name": (
+                        "places/place-123/photos/"
+                        "photo-reference-1"
+                    ),
+                    "width": 1600,
+                    "height": 900,
+                    "author_attributions": [
+                        {
+                            "displayName": "Example Photographer",
+                            "uri": "https://example.com/profile",
+                            "photoUri": "https://example.com/avatar.jpg",
+                        }
+                    ],
+                },
+                {
+                    "name": (
+                        "places/place-123/photos/"
+                        "photo-reference-2"
+                    ),
+                    "width": 1200,
+                    "height": 800,
+                    "author_attributions": [],
+                },
+            ],
         }
     ]
 
@@ -135,6 +187,7 @@ def test_google_provider_searches_and_normalizes_results(
             "radius": 10000.0,
         }
     }
+    assert "places.photos" in request.kwargs["headers"]["X-Goog-FieldMask"]
 
 
 def test_current_day_hours_returns_first_day_without_offset():
@@ -261,9 +314,163 @@ def test_google_provider_matches_dashboard_place_schema(
         "phone",
         "website",
         "maps_url",
+        "photos",
     }
 
     assert set(place) == expected_fields
+
+
+def test_google_provider_returns_empty_photos_when_missing(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "places": [
+            {
+                "id": "place-123",
+                "displayName": {
+                    "text": "Test Place",
+                },
+            }
+        ]
+    }
+    session.post.return_value = response
+
+    place = provider.search("test place")[0]
+
+    assert place["photos"] == []
+
+
+def test_google_provider_ignores_malformed_photos(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "places": [
+            {
+                "id": "place-123",
+                "displayName": {
+                    "text": "Test Place",
+                },
+                "photos": [
+                    None,
+                    "invalid",
+                    {},
+                    {
+                        "name": "",
+                    },
+                    {
+                        "name": (
+                            "places/place-123/photos/"
+                            "valid-photo"
+                        ),
+                        "widthPx": "not-an-integer",
+                        "heightPx": 800,
+                        "authorAttributions": "invalid",
+                    },
+                ],
+            }
+        ]
+    }
+    session.post.return_value = response
+
+    place = provider.search("test place")[0]
+
+    assert place["photos"] == [
+        {
+            "name": (
+                "places/place-123/photos/"
+                "valid-photo"
+            ),
+            "width": None,
+            "height": 800,
+            "author_attributions": [],
+        }
+    ]
+
+
+def test_google_provider_limits_and_normalizes_photos():
+    photos = GooglePlacesProvider._normalize_photos(
+        [
+            {
+                "name": "places/1/photos/1",
+                "widthPx": 100,
+                "heightPx": 200,
+                "authorAttributions": [
+                    {
+                        "displayName": "One",
+                    }
+                ],
+            },
+            {"name": ""},
+            "invalid",
+            {
+                "name": "places/1/photos/2",
+                "widthPx": 300,
+                "heightPx": 400,
+                "authorAttributions": [],
+            },
+            {
+                "name": "places/1/photos/3",
+                "widthPx": 500,
+                "heightPx": 600,
+            },
+            {
+                "name": "places/1/photos/4",
+                "widthPx": 700,
+                "heightPx": 800,
+            },
+            {
+                "name": "places/1/photos/5",
+                "widthPx": 900,
+                "heightPx": 1000,
+            },
+            {
+                "name": "places/1/photos/6",
+                "widthPx": 1100,
+                "heightPx": 1200,
+            },
+        ]
+    )
+
+    assert photos == [
+        {
+            "name": "places/1/photos/1",
+            "width": 100,
+            "height": 200,
+            "author_attributions": [
+                {
+                    "displayName": "One",
+                }
+            ],
+        },
+        {
+            "name": "places/1/photos/2",
+            "width": 300,
+            "height": 400,
+            "author_attributions": [],
+        },
+        {
+            "name": "places/1/photos/3",
+            "width": 500,
+            "height": 600,
+            "author_attributions": [],
+        },
+        {
+            "name": "places/1/photos/4",
+            "width": 700,
+            "height": 800,
+            "author_attributions": [],
+        },
+        {
+            "name": "places/1/photos/5",
+            "width": 900,
+            "height": 1000,
+            "author_attributions": [],
+        },
+    ]
 
 
 def test_google_provider_returns_empty_list(
