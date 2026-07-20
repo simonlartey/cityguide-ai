@@ -83,13 +83,18 @@ const createConversationMessage = ({
   const message = document.createElement("p");
   message.textContent = text;
 
+  // Add a visually hidden sender label for screen readers
+  const sender = document.createElement("span");
+  sender.className = "sr-only";
+  sender.textContent = role === "user" ? "You:" : "CityGuide AI:";
+
   const time = document.createElement("time");
   const now = new Date();
 
   time.dateTime = now.toISOString();
   time.textContent = formatMessageTime(now);
 
-  bubble.append(message, time);
+  bubble.append(sender, message, time);
 
   if (pending) {
     bubble.dataset.pendingMessage = "";
@@ -1243,12 +1248,13 @@ const initializeMobileInspector = () => {
   });
 };
 
-const searchPlaces = async (query) => {
+const searchPlaces = async (query, { signal } = {}) => {
   const response = await fetch("/api/v1/search", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
     },
+    signal,
     body: JSON.stringify({
       query,
       location: {
@@ -1470,8 +1476,16 @@ const initializeDashboardSearch = () => {
 
     let searchFailed = false;
 
+    const controller = new AbortController();
+    const timeoutId = window.setTimeout(
+      () => controller.abort(),
+      15000
+    );
+
     try {
-      const searchResponse = await searchPlaces(query);
+      const searchResponse = await searchPlaces(query, {
+        signal: controller.signal,
+      });
 
       if (requestId !== latestSearchRequestId) {
         return;
@@ -1525,17 +1539,24 @@ const initializeDashboardSearch = () => {
 
       searchFailed = true;
 
-      const message =
-        error instanceof Error
-          ? error.message
-          : "CityGuide could not complete your search.";
+      const requestTimedOut =
+        error instanceof Error &&
+        error.name === "AbortError";
+
+      const message = requestTimedOut
+        ? "The search took too long. Please try again."
+        : error instanceof Error
+        ? error.message
+        : "CityGuide could not complete your search.";
 
       status.textContent = message;
 
       updateConversationMessage(
         pendingAssistantMessage,
-        "I couldn’t load local recommendations right now. " +
-          "Please try again."
+        requestTimedOut
+          ? "The local search took too long. Please try again."
+          : "I couldn’t load local recommendations right now. " +
+              "Please try again."
       );
 
       showResultsState({
@@ -1546,6 +1567,8 @@ const initializeDashboardSearch = () => {
 
       console.error("CityGuide search failed:", error);
     } finally {
+      window.clearTimeout(timeoutId);
+
       if (requestId !== latestSearchRequestId) {
         return;
       }
