@@ -1,4 +1,5 @@
 const SELECTORS = {
+  conversation: "#dashboard-conversation",
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   recommendationList: ".recommendation-list",
@@ -26,13 +27,11 @@ const SELECTORS = {
   searchProgress: ".search-progress",
   searchProgressTitle: "#search-progress-title",
   searchProgressStatus: ".search-progress-status",
+  searchProgressItems: ".search-progress-list li",
   resultsState: "#dashboard-results-state",
   resultsStateTitle: "[data-results-state-title]",
   resultsStateMessage: "[data-results-state-message]",
 };
-
-const INITIAL_SEARCH_QUERY =
-  "Affordable barber for textured hair";
 
 let PLACES = {};
 let latestSearchRequestId = 0;
@@ -41,6 +40,154 @@ const hydrateDashboardIcons = () => {
   if (window.lucide) {
     window.lucide.createIcons();
   }
+};
+
+const formatMessageTime = (date = new Date()) =>
+  new Intl.DateTimeFormat("en-US", {
+    hour: "numeric",
+    minute: "2-digit",
+  }).format(date);
+
+const createMessageAvatar = (role) => {
+  const avatar = document.createElement("div");
+
+  avatar.className =
+    `message-avatar message-avatar--${role}`;
+
+  if (role === "user") {
+    avatar.textContent = "SL";
+    avatar.setAttribute("aria-label", "Simon Lartey");
+  } else {
+    avatar.textContent = "✦";
+    avatar.setAttribute("aria-hidden", "true");
+  }
+
+  return avatar;
+};
+
+const createConversationMessage = ({
+  role,
+  text,
+  pending = false,
+}) => {
+  const row = document.createElement("div");
+
+  row.className =
+    `message-row message-row--${role}`;
+
+  const bubble = document.createElement("article");
+
+  bubble.className =
+    `message-bubble message-bubble--${role}`;
+
+  const message = document.createElement("p");
+  message.textContent = text;
+
+  // Add a visually hidden sender label for screen readers
+  const sender = document.createElement("span");
+  sender.className = "sr-only";
+  sender.textContent = role === "user" ? "You:" : "CityGuide AI:";
+
+  const time = document.createElement("time");
+  const now = new Date();
+
+  time.dateTime = now.toISOString();
+  time.textContent = formatMessageTime(now);
+
+  bubble.append(sender, message, time);
+
+  if (pending) {
+    bubble.dataset.pendingMessage = "";
+    bubble.setAttribute("aria-busy", "true");
+  }
+
+  const avatar = createMessageAvatar(role);
+
+  if (role === "user") {
+    row.append(bubble, avatar);
+  } else {
+    row.append(avatar, bubble);
+  }
+
+  return {
+    row,
+    bubble,
+    message,
+  };
+};
+
+const scrollConversationToLatest = () => {
+  const conversation = document.querySelector(
+    SELECTORS.conversation
+  );
+
+  if (!conversation) {
+    return;
+  }
+
+  conversation.lastElementChild?.scrollIntoView({
+    behavior: "smooth",
+    block: "nearest",
+  });
+};
+
+const appendConversationMessage = ({
+  role,
+  text,
+  pending = false,
+}) => {
+  const conversation = document.querySelector(
+    SELECTORS.conversation
+  );
+
+  if (!conversation) {
+    return null;
+  }
+
+  const renderedMessage = createConversationMessage({
+    role,
+    text,
+    pending,
+  });
+
+  conversation.append(renderedMessage.row);
+  scrollConversationToLatest();
+
+  return renderedMessage;
+};
+
+const updateConversationMessage = (
+  renderedMessage,
+  text
+) => {
+  if (!renderedMessage) {
+    return;
+  }
+
+  renderedMessage.message.textContent = text;
+  renderedMessage.bubble.removeAttribute(
+    "data-pending-message"
+  );
+  renderedMessage.bubble.setAttribute(
+    "aria-busy",
+    "false"
+  );
+
+  scrollConversationToLatest();
+};
+
+const buildSearchResultMessage = (
+  query,
+  resultCount
+) => {
+  const resultLabel =
+    resultCount === 1 ? "place" : "places";
+
+  return (
+    `I found ${resultCount} ${resultLabel} matching ` +
+    `“${query}” near Portland. Here are the local ` +
+    "options I found."
+  );
 };
 
 const formatPriceLevel = (priceLevel) => {
@@ -1101,12 +1248,13 @@ const initializeMobileInspector = () => {
   });
 };
 
-const searchPlaces = async (query) => {
+const searchPlaces = async (query, { signal } = {}) => {
   const response = await fetch("/api/v1/search", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
     },
+    signal,
     body: JSON.stringify({
       query,
       location: {
@@ -1135,101 +1283,6 @@ const searchPlaces = async (query) => {
   return data;
 };
 
-const loadInitialDashboardResults = async () => {
-  const status = document.querySelector(
-    SELECTORS.searchStatus
-  );
-  const requestId = ++latestSearchRequestId;
-
-  let searchSucceeded = false;
-
-  setSearchLoadingState(true);
-
-  if (status) {
-    status.textContent =
-      "Loading initial recommendations.";
-  }
-
-  try {
-    const searchResponse = await searchPlaces(
-      INITIAL_SEARCH_QUERY
-    );
-
-    if (requestId !== latestSearchRequestId) {
-      return;
-    }
-
-    applySearchResults(searchResponse.results);
-
-    if (searchResponse.results.length === 0) {
-      showResultsState({
-        title: "No matching places found",
-        message:
-          "Try changing your search or using fewer filters.",
-      });
-    } else {
-      hideResultsState();
-    }
-    searchSucceeded = true;
-
-    if (status) {
-      status.textContent =
-        `Loaded ${searchResponse.result_count} initial results.`;
-    }
-  } catch (error) {
-    if (requestId !== latestSearchRequestId) {
-      return;
-    }
-
-    if (status) {
-      status.textContent =
-        "The initial recommendations could not be loaded.";
-    }
-
-    showResultsState({
-      title: "Recommendations unavailable",
-      message:
-        error instanceof Error
-          ? error.message
-          : "Please refresh the page and try again.",
-      isError: true,
-    });
-
-    console.error(
-      "CityGuide initial search failed:",
-      error
-    );
-  } finally {
-    if (requestId !== latestSearchRequestId) {
-      return;
-    }
-
-    if (searchSucceeded) {
-      setSearchLoadingState(false);
-    } else {
-      const progress = document.querySelector(
-        SELECTORS.searchProgress
-      );
-      const title = document.querySelector(
-        SELECTORS.searchProgressTitle
-      );
-      const progressStatus = document.querySelector(
-        SELECTORS.searchProgressStatus
-      );
-
-      progress?.setAttribute("aria-busy", "false");
-
-      if (title) {
-        title.textContent =
-          "Local business search unavailable";
-      }
-
-      if (progressStatus) {
-        progressStatus.textContent = "Error";
-      }
-    }
-  }
-};
 
 const setSearchLoadingState = (isLoading) => {
   const progress = document.querySelector(
@@ -1258,6 +1311,39 @@ const setSearchLoadingState = (isLoading) => {
   progressStatus.textContent = isLoading
     ? "Searching"
     : "Complete";
+
+  setSearchProgressItemsState(
+    isLoading ? "active" : "complete"
+  );
+};
+
+const setSearchProgressItemsState = (state) => {
+  document
+    .querySelectorAll(SELECTORS.searchProgressItems)
+    .forEach((item) => {
+      item.dataset.progressState = state;
+    });
+};
+
+const setSearchErrorState = () => {
+  const progress = document.querySelector(
+    SELECTORS.searchProgress
+  );
+  const title = document.querySelector(
+    SELECTORS.searchProgressTitle
+  );
+  const progressStatus = document.querySelector(
+    SELECTORS.searchProgressStatus
+  );
+
+  if (!progress || !title || !progressStatus) {
+    return;
+  }
+
+  progress.setAttribute("aria-busy", "false");
+  title.textContent = "Local business search unavailable";
+  progressStatus.textContent = "Error";
+  setSearchProgressItemsState("error");
 };
 
 const hideResultsState = () => {
@@ -1365,15 +1451,41 @@ const initializeDashboardSearch = () => {
 
     const requestId = ++latestSearchRequestId;
 
+    appendConversationMessage({
+      role: "user",
+      text: query,
+    });
+
+    const pendingAssistantMessage =
+      appendConversationMessage({
+        role: "assistant",
+        text: "Searching for local places...",
+        pending: true,
+      });
+
+    input.value = "";
+
     input.disabled = true;
     submitButton.disabled = true;
+
     setSearchLoadingState(true);
     hideResultsState();
+
     status.textContent =
       "Searching for local businesses.";
 
+    let searchFailed = false;
+
+    const controller = new AbortController();
+    const timeoutId = window.setTimeout(
+      () => controller.abort(),
+      15000
+    );
+
     try {
-      const searchResponse = await searchPlaces(query);
+      const searchResponse = await searchPlaces(query, {
+        signal: controller.signal,
+      });
 
       if (requestId !== latestSearchRequestId) {
         return;
@@ -1381,6 +1493,12 @@ const initializeDashboardSearch = () => {
 
       if (searchResponse.results.length === 0) {
         clearSearchResults();
+
+        updateConversationMessage(
+          pendingAssistantMessage,
+          "I couldn’t find matching places for that request. " +
+            "Try changing the wording or broadening your search."
+        );
 
         showResultsState({
           title: "No matching places found",
@@ -1400,6 +1518,14 @@ const initializeDashboardSearch = () => {
 
       applySearchResults(searchResponse.results);
 
+      updateConversationMessage(
+        pendingAssistantMessage,
+        buildSearchResultMessage(
+          query,
+          searchResponse.result_count
+        )
+      );
+
       console.log(
         "CityGuide search response:",
         searchResponse
@@ -1409,12 +1535,29 @@ const initializeDashboardSearch = () => {
         return;
       }
 
-      const message =
-        error instanceof Error
-          ? error.message
-          : "CityGuide could not complete your search.";
+      clearSearchResults();
+
+      searchFailed = true;
+
+      const requestTimedOut =
+        error instanceof Error &&
+        error.name === "AbortError";
+
+      const message = requestTimedOut
+        ? "The search took too long. Please try again."
+        : error instanceof Error
+        ? error.message
+        : "CityGuide could not complete your search.";
 
       status.textContent = message;
+
+      updateConversationMessage(
+        pendingAssistantMessage,
+        requestTimedOut
+          ? "The local search took too long. Please try again."
+          : "I couldn’t load local recommendations right now. " +
+              "Please try again."
+      );
 
       showResultsState({
         title: "We could not complete your search",
@@ -1424,11 +1567,17 @@ const initializeDashboardSearch = () => {
 
       console.error("CityGuide search failed:", error);
     } finally {
+      window.clearTimeout(timeoutId);
+
       if (requestId !== latestSearchRequestId) {
         return;
       }
 
-      setSearchLoadingState(false);
+      if (searchFailed) {
+        setSearchErrorState();
+      } else {
+        setSearchLoadingState(false);
+      }
       input.disabled = false;
       updateSubmitState();
       input.focus();
@@ -1438,7 +1587,18 @@ const initializeDashboardSearch = () => {
   updateSubmitState();
 };
 
+const initializeConversation = () => {
+  appendConversationMessage({
+    role: "assistant",
+    text:
+      "Hi! Tell me what kind of place, service, food, or activity " +
+      "you are looking for in Portland.",
+  });
+};
+
 const initializeDashboard = () => {
+  initializeConversation();
+  setSearchProgressItemsState("ready");
   initializeFilterChips();
   initializeRecommendationCards();
   initializeMapMarkers();
@@ -1449,7 +1609,6 @@ const initializeDashboard = () => {
   initializeMobileSidebar();
   initializeMobileInspector();
   initializeDashboardSearch();
-  loadInitialDashboardResults();
   syncMobileDrawerAccessibility();
 };
 

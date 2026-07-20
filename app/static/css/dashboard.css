@@ -727,6 +727,22 @@ svg {
   font-size: 0.76rem;
 }
 
+.search-progress-list li[data-progress-state="ready"] {
+  opacity: 0.65;
+}
+
+.search-progress-list li[data-progress-state="active"] {
+  opacity: 1;
+}
+
+.search-progress-list li[data-progress-state="complete"] {
+  opacity: 1;
+}
+
+.search-progress-list li[data-progress-state="error"] {
+  opacity: 0.55;
+}
+
 .progress-check {
   width: 16px;
   height: 16px;
