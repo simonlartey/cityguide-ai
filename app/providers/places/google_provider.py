@@ -21,6 +21,9 @@ class GooglePlacesProvider(PlacesProvider):
             "places.displayName",
             "places.formattedAddress",
             "places.location",
+            "places.primaryType",
+            "places.primaryTypeDisplayName",
+            "places.types",
             "places.rating",
             "places.userRatingCount",
             "places.priceLevel",
@@ -202,6 +205,9 @@ class GooglePlacesProvider(PlacesProvider):
         display_name = place.get("displayName") or {}
         opening_hours = place.get("currentOpeningHours") or {}
         regular_hours = place.get("regularOpeningHours") or {}
+        primary_type_display_name = (
+            place.get("primaryTypeDisplayName") or {}
+        )
         place_latitude = location.get("latitude")
         place_longitude = location.get("longitude")
 
@@ -234,7 +240,14 @@ class GooglePlacesProvider(PlacesProvider):
                 "text",
                 "Unnamed place",
             ),
-            "category": "Local business",
+            "category": primary_type_display_name.get(
+                "text",
+                "Local business",
+            ),
+            "primary_type": place.get("primaryType"),
+            "types": self._normalize_types(
+                place.get("types")
+            ),
             "address": place.get(
                 "formattedAddress",
                 "Address unavailable",
@@ -327,6 +340,18 @@ class GooglePlacesProvider(PlacesProvider):
                 break
 
         return normalized_photos
+
+    @staticmethod
+    def _normalize_types(types: object) -> list[str]:
+        if not isinstance(types, list):
+            return []
+
+        return [
+            place_type
+            for place_type in types
+            if isinstance(place_type, str)
+            and place_type.strip()
+        ]
 
     @staticmethod
     def _is_valid_photo_name(photo_name: object) -> bool:

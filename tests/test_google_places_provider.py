@@ -42,6 +42,15 @@ def test_google_provider_searches_and_normalizes_results(
                 "displayName": {
                     "text": "Portland Fade Studio",
                 },
+                "primaryType": "barber_shop",
+                "primaryTypeDisplayName": {
+                    "text": "Barber shop",
+                },
+                "types": [
+                    "barber_shop",
+                    "hair_care",
+                    "point_of_interest",
+                ],
                 "formattedAddress": "123 Congress St",
                 "location": {
                     "latitude": 43.657,
@@ -115,7 +124,13 @@ def test_google_provider_searches_and_normalizes_results(
         {
             "id": "place-123",
             "name": "Portland Fade Studio",
-            "category": "Local business",
+            "category": "Barber shop",
+            "primary_type": "barber_shop",
+            "types": [
+                "barber_shop",
+                "hair_care",
+                "point_of_interest",
+            ],
             "address": "123 Congress St",
             "latitude": 43.657,
             "longitude": -70.258,
@@ -299,6 +314,8 @@ def test_google_provider_matches_dashboard_place_schema(
         "id",
         "name",
         "category",
+        "primary_type",
+        "types",
         "address",
         "latitude",
         "longitude",
@@ -471,6 +488,29 @@ def test_google_provider_limits_and_normalizes_photos():
             "author_attributions": [],
         },
     ]
+
+
+def test_google_provider_ignores_invalid_place_types():
+    provider = GooglePlacesProvider(
+        api_key="test-key"
+    )
+
+    place = provider._normalize_place(
+        {
+            "id": "test-place",
+            "displayName": {
+                "text": "Test Place",
+            },
+            "types": [
+                "restaurant",
+                None,
+                42,
+                "",
+            ],
+        }
+    )
+
+    assert place["types"] == ["restaurant"]
 
 
 def test_google_provider_resolves_photo_url(
