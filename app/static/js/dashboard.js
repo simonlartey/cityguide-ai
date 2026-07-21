@@ -5,8 +5,6 @@ const SELECTORS = {
   recommendationList: ".recommendation-list",
   mapContainer: "[data-map-container]",
   mapState: "[data-map-state]",
-  mapPreview: ".map-preview",
-  placeMarker: "[data-place-marker]",
   placeSaveButton: "[data-place-save-button]",
   sidebarShell: "#dashboard-shell",
   dashboardSidebar: "#dashboard-sidebar",
@@ -49,6 +47,8 @@ let PLACES = {};
 let latestSearchRequestId = 0;
 let dashboardMap = null;
 let mapsLibraryPromise = null;
+let placeMapMarkers = new Map();
+let selectedMapPlaceId = null;
 let latestHeroPhotoRequestId = 0;
 
 const hydrateDashboardIcons = () => {
@@ -217,6 +217,55 @@ const initializeInteractiveMap = async () => {
 
     return null;
   }
+};
+
+const getPlaceCoordinates = (place) => {
+  const latitude = Number(place?.latitude);
+  const longitude = Number(place?.longitude);
+
+  if (
+    !Number.isFinite(latitude) ||
+    !Number.isFinite(longitude)
+  ) {
+    return null;
+  }
+
+  return {
+    lat: latitude,
+    lng: longitude,
+  };
+};
+
+const clearMapMarkers = () => {
+  placeMapMarkers.forEach(({ marker }) => {
+    marker.map = null;
+  });
+
+  placeMapMarkers.clear();
+  selectedMapPlaceId = null;
+};
+
+const updateSelectedMapMarker = (placeId) => {
+  selectedMapPlaceId = placeId;
+
+  placeMapMarkers.forEach(
+    ({ marker, pin }, markerPlaceId) => {
+      const isSelected =
+        markerPlaceId === placeId;
+
+      pin.background = isSelected
+        ? "#d88a22"
+        : "#16252d";
+
+      pin.borderColor = isSelected
+        ? "#f7b84b"
+        : "#d88a22";
+
+      pin.glyphColor = "#ffffff";
+
+      marker.zIndex = isSelected ? 1000 : 1;
+    }
+  );
 };
 
 const formatMessageTime = (date = new Date()) =>
@@ -893,55 +942,78 @@ const renderInspectorResults = (places) => {
   initializeInspectorResults();
 };
 
-const getMapMarkerClass = (index) => {
-  const markerClasses = [
-    "map-marker--one",
-    "map-marker--two",
-    "map-marker--three",
-  ];
+const renderMapMarkers = async (places) => {
+  const map = await initializeInteractiveMap();
 
-  return markerClasses[index % markerClasses.length];
-};
-
-const createMapMarker = (place, index) => {
-  const marker = document.createElement("button");
-
-  marker.type = "button";
-  marker.className =
-    `map-marker ${getMapMarkerClass(index)}`;
-  marker.dataset.placeMarker = place.id;
-  marker.setAttribute("aria-label", place.name);
-
-  if (index === 0) {
-    marker.classList.add("map-marker--active");
-  }
-
-  const rank = document.createElement("span");
-  rank.textContent = String(index + 1);
-
-  marker.append(rank);
-
-  return marker;
-};
-
-const renderMapMarkers = (places) => {
-  const mapPreview = document.querySelector(
-    SELECTORS.mapPreview
-  );
-
-  if (!mapPreview) {
+  if (!map) {
     return;
   }
 
-  mapPreview
-    .querySelectorAll(SELECTORS.placeMarker)
-    .forEach((marker) => marker.remove());
+  clearMapMarkers();
 
-  mapPreview.append(
-    ...places.map(createMapMarker)
-  );
+  const validPlaces = places
+    .filter((place) => getPlaceCoordinates(place))
+    .filter((place) => {
+      const distance = Number(place.distance_miles);
 
-  initializeMapMarkers();
+      return (
+        !Number.isFinite(distance) ||
+        distance <= 25
+      );
+    });
+
+  if (validPlaces.length === 0) {
+    return;
+  }
+
+  const { AdvancedMarkerElement, PinElement } =
+    await window.google.maps.importLibrary(
+      "marker"
+    );
+
+  const bounds =
+    new window.google.maps.LatLngBounds();
+
+  validPlaces.forEach((place, index) => {
+    const position = getPlaceCoordinates(place);
+
+    const pin = new PinElement({
+      glyph: String(index + 1),
+      background: "#16252d",
+      borderColor: "#d88a22",
+      glyphColor: "#ffffff",
+      scale: 1.05,
+    });
+
+    const marker = new AdvancedMarkerElement({
+      map,
+      position,
+      title: place.name,
+      content: pin.element,
+      gmpClickable: true,
+    });
+
+    marker.addListener("click", () => {
+      selectPlace(place.id);
+    });
+
+    placeMapMarkers.set(place.id, {
+      marker,
+      pin,
+      position,
+    });
+
+    bounds.extend(position);
+  });
+
+  if (validPlaces.length === 1) {
+    map.setCenter(
+      getPlaceCoordinates(validPlaces[0])
+    );
+    map.setZoom(15);
+  } else {
+    map.fitBounds(bounds, 48);
+  }
 };
 
 const initializeFilterChips = () => {
@@ -1370,15 +1442,6 @@ const selectPlace = (placeId) => {
     });
 
   document
-    .querySelectorAll(SELECTORS.placeMarker)
-    .forEach((marker) => {
-      marker.classList.toggle(
-        "map-marker--active",
-        marker.dataset.placeMarker === placeId
-      );
-    });
-
-  document
     .querySelectorAll(SELECTORS.placeResult)
     .forEach((result) => {
       result.classList.toggle(
@@ -1386,6 +1449,17 @@ const selectPlace = (placeId) => {
         result.dataset.placeResult === placeId
       );
     });
+
+  updateSelectedMapMarker(placeId);
+
+  const selectedMarker =
+    placeMapMarkers.get(placeId);
+
+  if (selectedMarker && dashboardMap) {
+    dashboardMap.panTo(
+      selectedMarker.position
+    );
+  }
 
   updatePlaceDetails(placeId);
 };
@@ -1413,16 +1487,6 @@ const initializeRecommendationCards = () => {
 
         event.preventDefault();
         selectPlace(card.dataset.placeId);
-      });
-    });
-};
-
-const initializeMapMarkers = () => {
-  document
-    .querySelectorAll(SELECTORS.placeMarker)
-    .forEach((marker) => {
-      marker.addEventListener("click", () => {
-        selectPlace(marker.dataset.placeMarker);
       });
     });
 };
@@ -2089,13 +2153,15 @@ const applySearchResults = (places) => {
 
   renderRecommendationCards(normalizedPlaces);
   renderInspectorResults(normalizedPlaces);
-  renderMapMarkers(normalizedPlaces);
 
   if (normalizedPlaces.length > 0) {
-    void initializeInteractiveMap();
-
-    selectPlace(normalizedPlaces[0].id);
+    void renderMapMarkers(
+      normalizedPlaces
+    ).then(() => {
+      selectPlace(normalizedPlaces[0].id);
+    });
   } else {
+    clearMapMarkers();
     clearSelectedPlaceDetails();
   }
 };
@@ -2297,7 +2363,6 @@ const initializeDashboard = () => {
   setSearchProgressItemsState("ready");
   initializeFilterChips();
   initializeRecommendationCards();
-  initializeMapMarkers();
   initializeInspectorTabs();
   initializeInspectorResults();
   activateInspectorTab("map");
