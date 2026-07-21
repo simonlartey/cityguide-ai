@@ -6,6 +6,7 @@ from app.providers.places.mock_provider import MockPlacesProvider
 from app.repositories.in_memory_search_session import (
     InMemorySearchSessionRepository,
 )
+from app.services.conversation_manager import ConversationManager
 from tests.conftest import TestConfig
 
 
@@ -40,4 +41,13 @@ def test_create_app_registers_search_session_repository():
     assert isinstance(
         app.extensions["search_session_repository"],
         InMemorySearchSessionRepository,
+    )
+
+
+def test_create_app_registers_conversation_manager():
+    app = create_app(MockProviderConfig)
+
+    assert isinstance(
+        app.extensions["conversation_manager"],
+        ConversationManager,
     )
