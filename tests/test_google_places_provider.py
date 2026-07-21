@@ -473,6 +473,141 @@ def test_google_provider_limits_and_normalizes_photos():
     ]
 
 
+def test_google_provider_resolves_photo_url(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "photoUri": "https://images.example.com/photo.jpg",
+    }
+    session.get.return_value = response
+
+    photo_url = provider.get_photo_url(
+        "places/place-123/photos/photo-456",
+        max_width=1200,
+    )
+
+    assert photo_url == (
+        "https://images.example.com/photo.jpg"
+    )
+
+    session.get.assert_called_once_with(
+        (
+            "https://places.googleapis.com/v1/"
+            "places/place-123/photos/photo-456/media"
+        ),
+        params={
+            "key": provider.api_key,
+            "maxWidthPx": 1200,
+            "skipHttpRedirect": "true",
+        },
+        timeout=provider.timeout_seconds,
+    )
+
+
+@pytest.mark.parametrize(
+    "photo_name",
+    [
+        "",
+        "invalid",
+        "places/place-123",
+        "places//photos/photo-456",
+        "places/place-123/images/photo-456",
+        "places/place-123/photos/",
+        "places/place-123/photos/photo-456/media",
+    ],
+)
+def test_google_provider_rejects_invalid_photo_names(
+    provider,
+    photo_name,
+):
+    with pytest.raises(
+        ValueError,
+        match="Invalid Google Places photo name",
+    ):
+        provider.get_photo_url(photo_name)
+
+
+@pytest.mark.parametrize(
+    "max_width",
+    [0, 4801, -1, "800", None],
+)
+def test_google_provider_rejects_invalid_photo_width(
+    provider,
+    max_width,
+):
+    with pytest.raises(
+        ValueError,
+        match="Photo width must be between 1 and 4800 pixels",
+    ):
+        provider.get_photo_url(
+            "places/place-123/photos/photo-reference-1",
+            max_width=max_width,
+        )
+
+
+def test_google_provider_handles_photo_request_failure(
+    provider,
+    session,
+):
+    session.get.side_effect = requests.RequestException(
+        "request failed"
+    )
+
+    with pytest.raises(
+        PlacesProviderError,
+        match="photo request failed",
+    ):
+        provider.get_photo_url(
+            "places/place-123/photos/photo-456"
+        )
+
+
+def test_google_provider_rejects_missing_photo_uri(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {}
+    session.get.return_value = response
+
+    with pytest.raises(
+        PlacesProviderError,
+        match="invalid photo data",
+    ):
+        provider.get_photo_url("places/place-123/photos/photo-456")
+
+
+@pytest.mark.parametrize(
+    "photo_uri",
+    [
+        "http://images.example.com/photo.jpg",
+        "javascript:alert(1)",
+        "/relative/photo.jpg",
+        "not-a-url",
+    ],
+)
+def test_google_provider_rejects_unsafe_photo_uri(
+    provider,
+    session,
+    photo_uri,
+):
+    response = Mock()
+    response.json.return_value = {
+        "photoUri": photo_uri,
+    }
+    session.get.return_value = response
+
+    with pytest.raises(
+        PlacesProviderError,
+        match="invalid photo data",
+    ):
+        provider.get_photo_url(
+            "places/place-123/photos/photo-456"
+        )
+
+
 def test_google_provider_returns_empty_list(
     provider,
     session,

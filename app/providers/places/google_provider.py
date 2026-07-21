@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta, timezone
 from math import asin, cos, radians, sin, sqrt
 from typing import Any
+from urllib.parse import urlparse
 
 import requests
 
@@ -12,6 +13,7 @@ class GooglePlacesProvider(PlacesProvider):
     """Search Google Places and normalize results for CityGuide."""
 
     SEARCH_URL = "https://places.googleapis.com/v1/places:searchText"
+    PHOTO_BASE_URL = "https://places.googleapis.com/v1"
 
     FIELD_MASK = ",".join(
         (
@@ -120,6 +122,67 @@ class GooglePlacesProvider(PlacesProvider):
             for place in places
             if isinstance(place, dict)
         ]
+
+    def get_photo_url(
+        self,
+        photo_name: str,
+        max_width: int = 800,
+    ) -> str:
+        if not self._is_valid_photo_name(photo_name):
+            raise ValueError("Invalid Google Places photo name.")
+
+        if not isinstance(max_width, int) or not 1 <= max_width <= 4800:
+            raise ValueError(
+                "Photo width must be between 1 and 4800 pixels."
+            )
+
+        media_url = f"{self.PHOTO_BASE_URL}/{photo_name}/media"
+
+        try:
+            response = self.session.get(
+                media_url,
+                params={
+                    "key": self.api_key,
+                    "maxWidthPx": max_width,
+                    "skipHttpRedirect": "true",
+                },
+                timeout=self.timeout_seconds,
+            )
+            response.raise_for_status()
+        except requests.RequestException as error:
+            raise PlacesProviderError(
+                "Google Places photo request failed."
+            ) from error
+
+        try:
+            response_data = response.json()
+        except ValueError as error:
+            raise PlacesProviderError(
+                "Google Places returned invalid photo data."
+            ) from error
+
+        photo_uri = (
+            response_data.get("photoUri")
+            if isinstance(response_data, dict)
+            else None
+        )
+
+        if not isinstance(photo_uri, str) or not photo_uri.strip():
+            raise PlacesProviderError(
+                "Google Places returned invalid photo data."
+            )
+
+        parsed_photo_uri = urlparse(photo_uri)
+
+        if (
+            parsed_photo_uri.scheme != "https"
+            or not parsed_photo_uri.netloc
+        ):
+            raise PlacesProviderError(
+                "Google Places returned invalid photo data."
+            )
+
+        return photo_uri
 
     def _normalize_place(
         self,
@@ -256,6 +319,21 @@ class GooglePlacesProvider(PlacesProvider):
                 break
 
         return normalized_photos
+
+    @staticmethod
+    def _is_valid_photo_name(photo_name: object) -> bool:
+        if not isinstance(photo_name, str):
+            return False
+
+        parts = photo_name.strip().split("/")
+
+        return (
+            len(parts) == 4
+            and parts[0] == "places"
+            and bool(parts[1])
+            and parts[2] == "photos"
+            and bool(parts[3])
+        )
 
     @staticmethod
     def _calculate_distance_miles(
