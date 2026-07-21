@@ -1,4 +1,4 @@
-from flask import Blueprint, render_template
+from flask import Blueprint, current_app, render_template
 
 main_bp = Blueprint("main", __name__)
 
@@ -20,4 +20,12 @@ def privacy():
 
 @main_bp.get("/dashboard")
 def dashboard():
-    return render_template("dashboard.html")
+    return render_template(
+        "dashboard.html",
+        maps_javascript_api_key=current_app.config.get(
+            "MAPS_JAVASCRIPT_API_KEY"
+        ),
+        google_map_id=current_app.config.get(
+            "GOOGLE_MAP_ID"
+        ),
+    )

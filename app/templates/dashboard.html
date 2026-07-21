@@ -589,14 +589,16 @@
         <div
           class="map-preview"
           aria-label="Map preview"
+          data-map-container
+          data-maps-api-key="{{ maps_javascript_api_key or '' }}"
+          data-map-id="{{ google_map_id or '' }}"
         >
-          <div class="map-grid" aria-hidden="true"></div>
-
-          <span class="map-label map-label--old-port">Old Port</span>
-          <span class="map-label map-label--downtown">Downtown</span>
-
-          <span class="map-location-dot" aria-hidden="true"></span>
-
+          <div
+            class="map-loading-state"
+            data-map-state
+          >
+            <p>Map will appear after a local search.</p>
+          </div>
         </div>
 
         <article class="place-details-card">
@@ -654,29 +656,39 @@
             </div>
 
             <div class="place-primary-actions">
-              <button type="button" class="place-primary-action">
+              <a
+                class="place-primary-action"
+                data-place-directions-action
+                aria-disabled="true"
+              >
                 <span
                   aria-hidden="true"
                   data-lucide="navigation"
                 ></span>
                 Directions
-              </button>
+              </a>
 
-              <button type="button">
+              <a
+                data-place-call-action
+                aria-disabled="true"
+              >
                 <span
                   aria-hidden="true"
                   data-lucide="phone"
                 ></span>
                 Call
-              </button>
+              </a>
 
-              <button type="button">
+              <a
+                data-place-website-action
+                aria-disabled="true"
+              >
                 <span
                   aria-hidden="true"
                   data-lucide="globe-2"
                 ></span>
                 Website
-              </button>
+              </a>
 
               <button type="button">
                 <span

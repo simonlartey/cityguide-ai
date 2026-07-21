@@ -3,8 +3,8 @@ const SELECTORS = {
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   recommendationList: ".recommendation-list",
-  mapPreview: ".map-preview",
-  placeMarker: "[data-place-marker]",
+  mapContainer: "[data-map-container]",
+  mapState: "[data-map-state]",
   placeSaveButton: "[data-place-save-button]",
   sidebarShell: "#dashboard-shell",
   dashboardSidebar: "#dashboard-sidebar",
@@ -35,16 +35,243 @@ const SELECTORS = {
   placeGallery: "[data-place-gallery]",
   placePhotoAttribution:
     "[data-place-photo-attribution]",
+  placeDirectionsAction:
+    "[data-place-directions-action]",
+  placeCallAction:
+    "[data-place-call-action]",
+  placeWebsiteAction:
+    "[data-place-website-action]",
 };
 
 let PLACES = {};
 let latestSearchRequestId = 0;
+let dashboardMap = null;
+let mapsLibraryPromise = null;
+let placeMapMarkers = new Map();
+let selectedMapPlaceId = null;
 let latestHeroPhotoRequestId = 0;
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
     window.lucide.createIcons();
   }
+};
+
+const loadGoogleMapsLibrary = () => {
+  if (mapsLibraryPromise) {
+    return mapsLibraryPromise;
+  }
+
+  const container = document.querySelector(
+    SELECTORS.mapContainer
+  );
+
+  const apiKey =
+    container?.dataset.mapsApiKey?.trim();
+
+  if (!container || !apiKey) {
+    return Promise.reject(
+      new Error("Google Maps is not configured.")
+    );
+  }
+
+  if (window.google?.maps?.importLibrary) {
+    mapsLibraryPromise = Promise.resolve(
+      window.google.maps
+    );
+
+    return mapsLibraryPromise;
+  }
+
+  mapsLibraryPromise = new Promise(
+    (resolve, reject) => {
+      const callbackName =
+        "__cityGuideGoogleMapsLoaded";
+
+      const script = document.createElement("script");
+
+      const params = new URLSearchParams({
+        key: apiKey,
+        callback: callbackName,
+        loading: "async",
+        v: "weekly",
+      });
+
+      window[callbackName] = () => {
+        delete window[callbackName];
+
+        if (!window.google?.maps?.importLibrary) {
+          mapsLibraryPromise = null;
+
+          reject(
+            new Error(
+              "Google Maps loaded without the expected API."
+            )
+          );
+
+          return;
+        }
+
+        resolve(window.google.maps);
+      };
+
+      script.src =
+        "https://maps.googleapis.com/maps/api/js?" +
+        params.toString();
+
+      script.async = true;
+      script.defer = true;
+
+      script.addEventListener("error", () => {
+        delete window[callbackName];
+        mapsLibraryPromise = null;
+        script.remove();
+
+        reject(
+          new Error("Google Maps could not load.")
+        );
+      });
+
+      document.head.append(script);
+    }
+  );
+
+  return mapsLibraryPromise;
+};
+
+const initializeInteractiveMap = async () => {
+  const container = document.querySelector(
+    SELECTORS.mapContainer
+  );
+
+  const state = document.querySelector(
+    SELECTORS.mapState
+  );
+
+  if (!container) {
+    return null;
+  }
+
+  if (dashboardMap) {
+    return dashboardMap;
+  }
+
+  if (state) {
+    state.textContent =
+      "Loading interactive map...";
+    state.classList.remove(
+      "map-loading-state--error"
+    );
+  }
+
+  try {
+    await loadGoogleMapsLibrary();
+
+    const { Map } =
+      await window.google.maps.importLibrary(
+        "maps"
+      );
+
+    const { ColorScheme } =
+      await window.google.maps.importLibrary(
+        "core"
+      );
+
+    const mapOptions = {
+      center: {
+        lat: 43.6591,
+        lng: -70.2568,
+      },
+      zoom: 13,
+      colorScheme: ColorScheme.DARK,
+      disableDefaultUI: true,
+      zoomControl: true,
+      clickableIcons: false,
+    };
+
+    const mapId =
+      container.dataset.mapId?.trim();
+
+    if (mapId) {
+      mapOptions.mapId = mapId;
+    }
+
+    dashboardMap = new Map(
+      container,
+      mapOptions
+    );
+
+    state?.remove();
+
+    return dashboardMap;
+  } catch (error) {
+    mapsLibraryPromise = null;
+
+    if (state) {
+      state.textContent =
+        "The interactive map is temporarily unavailable.";
+
+      state.classList.add(
+        "map-loading-state--error"
+      );
+    }
+
+    console.error(
+      "CityGuide map failed to load:",
+      error
+    );
+
+    return null;
+  }
+};
+
+const getPlaceCoordinates = (place) => {
+  const latitude = Number(place?.latitude);
+  const longitude = Number(place?.longitude);
+
+  if (
+    !Number.isFinite(latitude) ||
+    !Number.isFinite(longitude)
+  ) {
+    return null;
+  }
+
+  return {
+    lat: latitude,
+    lng: longitude,
+  };
+};
+
+const clearMapMarkers = () => {
+  placeMapMarkers.forEach(({ marker }) => {
+    marker.map = null;
+  });
+
+  placeMapMarkers.clear();
+  selectedMapPlaceId = null;
+};
+
+const updateSelectedMapMarker = (placeId) => {
+  selectedMapPlaceId = placeId;
+
+  placeMapMarkers.forEach(
+    ({ marker, pin }, markerPlaceId) => {
+      const isSelected =
+        markerPlaceId === placeId;
+
+      pin.background = isSelected
+        ? "#d88a22"
+        : "#16252d";
+
+      pin.borderColor = isSelected
+        ? "#f7b84b"
+        : "#d88a22";
+
+      pin.glyphColor = "#ffffff";
+
+      marker.zIndex = isSelected ? 1000 : 1;
+    }
+  );
 };
 
 const formatMessageTime = (date = new Date()) =>
@@ -229,6 +456,151 @@ const formatOpenStatus = (openNow) => {
   }
 
   return "Hours unavailable";
+};
+
+const buildDirectionsUrl = (place) => {
+  if (
+    typeof place.maps_url === "string" &&
+    place.maps_url.trim()
+  ) {
+    return place.maps_url;
+  }
+
+  if (
+    typeof place.latitude === "number" &&
+    typeof place.longitude === "number"
+  ) {
+    const destination =
+      `${place.latitude},${place.longitude}`;
+
+    return (
+      "https://www.google.com/maps/dir/?" +
+      new URLSearchParams({
+        api: "1",
+        destination,
+      }).toString()
+    );
+  }
+
+  return null;
+};
+
+const buildPhoneUrl = (phone) => {
+  if (typeof phone !== "string" || !phone.trim()) {
+    return null;
+  }
+
+  const normalizedPhone = phone.replace(
+    /[^\d+]/g,
+    ""
+  );
+
+  return normalizedPhone
+    ? `tel:${normalizedPhone}`
+    : null;
+};
+
+const buildWebsiteUrl = (website) => {
+  if (typeof website !== "string" || !website.trim()) {
+    return null;
+  }
+
+  try {
+    const url = new URL(website);
+
+    return ["http:", "https:"].includes(url.protocol)
+      ? url.toString()
+      : null;
+  } catch {
+    return null;
+  }
+};
+
+const createPlaceAction = ({
+  iconName,
+  label,
+  url,
+}) => {
+  if (!url) {
+    const button = document.createElement("button");
+
+    button.type = "button";
+    button.disabled = true;
+    button.setAttribute(
+      "aria-label",
+      `${label} unavailable`
+    );
+
+    const icon = document.createElement("span");
+    icon.setAttribute("aria-hidden", "true");
+    icon.setAttribute("data-lucide", iconName);
+
+    button.append(
+      icon,
+      document.createTextNode(label)
+    );
+
+    return button;
+  }
+
+  const link = document.createElement("a");
+
+  link.href = url;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.setAttribute("aria-label", label);
+
+  if (url.startsWith("tel:")) {
+    link.removeAttribute("target");
+    link.removeAttribute("rel");
+  }
+
+  const icon = document.createElement("span");
+  icon.setAttribute("aria-hidden", "true");
+  icon.setAttribute("data-lucide", iconName);
+
+  link.append(
+    icon,
+    document.createTextNode(label)
+  );
+
+  return link;
+};
+
+const updatePlaceAction = (
+  element,
+  {
+    url,
+    label,
+    openInNewTab = true,
+  }
+) => {
+  if (!element) {
+    return;
+  }
+
+  element.setAttribute("aria-label", label);
+
+  if (!url) {
+    element.removeAttribute("href");
+    element.removeAttribute("target");
+    element.removeAttribute("rel");
+    element.setAttribute("aria-disabled", "true");
+    element.tabIndex = -1;
+    return;
+  }
+
+  element.href = url;
+  element.removeAttribute("aria-disabled");
+  element.tabIndex = 0;
+
+  if (openInNewTab) {
+    element.target = "_blank";
+    element.rel = "noopener noreferrer";
+  } else {
+    element.removeAttribute("target");
+    element.removeAttribute("rel");
+  }
 };
 
 const buildPlacePhotoUrl = (
@@ -484,21 +856,23 @@ const createRecommendationCard = (place, index) => {
   const actions = document.createElement("div");
   actions.className = "recommendation-actions";
 
-  [
-    ["navigation", "Directions"],
-    ["phone", "Call"],
-    ["globe-2", "Website"],
-  ].forEach(([iconName, label]) => {
-    const button = document.createElement("button");
-    button.type = "button";
-
-    const icon = document.createElement("span");
-    icon.setAttribute("aria-hidden", "true");
-    icon.setAttribute("data-lucide", iconName);
-
-    button.append(icon, document.createTextNode(label));
-    actions.append(button);
-  });
+  actions.append(
+    createPlaceAction({
+      iconName: "navigation",
+      label: `Directions to ${place.name}`,
+      url: buildDirectionsUrl(place),
+    }),
+    createPlaceAction({
+      iconName: "phone",
+      label: `Call ${place.name}`,
+      url: buildPhoneUrl(place.phone),
+    }),
+    createPlaceAction({
+      iconName: "globe-2",
+      label: `Visit ${place.name} website`,
+      url: buildWebsiteUrl(place.website),
+    })
+  );
 
   card.append(image, copy, actions);
 
@@ -574,55 +948,78 @@ const renderInspectorResults = (places) => {
   initializeInspectorResults();
 };
 
-const getMapMarkerClass = (index) => {
-  const markerClasses = [
-    "map-marker--one",
-    "map-marker--two",
-    "map-marker--three",
-  ];
+const renderMapMarkers = async (places) => {
+  const map = await initializeInteractiveMap();
 
-  return markerClasses[index % markerClasses.length];
-};
-
-const createMapMarker = (place, index) => {
-  const marker = document.createElement("button");
-
-  marker.type = "button";
-  marker.className =
-    `map-marker ${getMapMarkerClass(index)}`;
-  marker.dataset.placeMarker = place.id;
-  marker.setAttribute("aria-label", place.name);
-
-  if (index === 0) {
-    marker.classList.add("map-marker--active");
-  }
-
-  const rank = document.createElement("span");
-  rank.textContent = String(index + 1);
-
-  marker.append(rank);
-
-  return marker;
-};
-
-const renderMapMarkers = (places) => {
-  const mapPreview = document.querySelector(
-    SELECTORS.mapPreview
-  );
-
-  if (!mapPreview) {
+  if (!map) {
     return;
   }
 
-  mapPreview
-    .querySelectorAll(SELECTORS.placeMarker)
-    .forEach((marker) => marker.remove());
+  clearMapMarkers();
 
-  mapPreview.append(
-    ...places.map(createMapMarker)
-  );
+  const validPlaces = places
+    .filter((place) => getPlaceCoordinates(place))
+    .filter((place) => {
+      const distance = Number(place.distance_miles);
 
-  initializeMapMarkers();
+      return (
+        !Number.isFinite(distance) ||
+        distance <= 25
+      );
+    });
+
+  if (validPlaces.length === 0) {
+    return;
+  }
+
+  const { AdvancedMarkerElement, PinElement } =
+    await window.google.maps.importLibrary(
+      "marker"
+    );
+
+  const bounds =
+    new window.google.maps.LatLngBounds();
+
+  validPlaces.forEach((place, index) => {
+    const position = getPlaceCoordinates(place);
+
+    const pin = new PinElement({
+      glyph: String(index + 1),
+      background: "#16252d",
+      borderColor: "#d88a22",
+      glyphColor: "#ffffff",
+      scale: 1.05,
+    });
+
+    const marker = new AdvancedMarkerElement({
+      map,
+      position,
+      title: place.name,
+      content: pin.element,
+      gmpClickable: true,
+    });
+
+    marker.addListener("click", () => {
+      selectPlace(place.id);
+    });
+
+    placeMapMarkers.set(place.id, {
+      marker,
+      pin,
+      position,
+    });
+
+    bounds.extend(position);
+  });
+
+  if (validPlaces.length === 1) {
+    map.setCenter(
+      getPlaceCoordinates(validPlaces[0])
+    );
+    map.setZoom(15);
+  } else {
+    map.fitBounds(bounds, 48);
+  }
 };
 
 const initializeFilterChips = () => {
@@ -869,6 +1266,37 @@ const updatePlaceDetails = (placeId) => {
   document.querySelector("[data-place-hours]").textContent =
     place.hours || "Hours unavailable";
 
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeDirectionsAction
+    ),
+    {
+      url: buildDirectionsUrl(place),
+      label: `Get directions to ${place.name}`,
+    }
+  );
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeCallAction
+    ),
+    {
+      url: buildPhoneUrl(place.phone),
+      label: `Call ${place.name}`,
+      openInNewTab: false,
+    }
+  );
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeWebsiteAction
+    ),
+    {
+      url: buildWebsiteUrl(place.website),
+      label: `Visit ${place.name} website`,
+    }
+  );
+
   const hero = document.querySelector(
     SELECTORS.placeHero
   );
@@ -976,6 +1404,37 @@ const clearSelectedPlaceDetails = () => {
     attribution.textContent = "";
     attribution.hidden = true;
   }
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeDirectionsAction
+    ),
+    {
+      url: null,
+      label: "Directions unavailable",
+    }
+  );
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeCallAction
+    ),
+    {
+      url: null,
+      label: "Phone number unavailable",
+      openInNewTab: false,
+    }
+  );
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeWebsiteAction
+    ),
+    {
+      url: null,
+      label: "Website unavailable",
+    }
+  );
 };
 
 const selectPlace = (placeId) => {
@@ -989,15 +1448,6 @@ const selectPlace = (placeId) => {
     });
 
   document
-    .querySelectorAll(SELECTORS.placeMarker)
-    .forEach((marker) => {
-      marker.classList.toggle(
-        "map-marker--active",
-        marker.dataset.placeMarker === placeId
-      );
-    });
-
-  document
     .querySelectorAll(SELECTORS.placeResult)
     .forEach((result) => {
       result.classList.toggle(
@@ -1005,6 +1455,17 @@ const selectPlace = (placeId) => {
         result.dataset.placeResult === placeId
       );
     });
+
+  updateSelectedMapMarker(placeId);
+
+  const selectedMarker =
+    placeMapMarkers.get(placeId);
+
+  if (selectedMarker && dashboardMap) {
+    dashboardMap.panTo(
+      selectedMarker.position
+    );
+  }
 
   updatePlaceDetails(placeId);
 };
@@ -1032,16 +1493,6 @@ const initializeRecommendationCards = () => {
 
         event.preventDefault();
         selectPlace(card.dataset.placeId);
-      });
-    });
-};
-
-const initializeMapMarkers = () => {
-  document
-    .querySelectorAll(SELECTORS.placeMarker)
-    .forEach((marker) => {
-      marker.addEventListener("click", () => {
-        selectPlace(marker.dataset.placeMarker);
       });
     });
 };
@@ -1708,11 +2159,15 @@ const applySearchResults = (places) => {
 
   renderRecommendationCards(normalizedPlaces);
   renderInspectorResults(normalizedPlaces);
-  renderMapMarkers(normalizedPlaces);
 
   if (normalizedPlaces.length > 0) {
-    selectPlace(normalizedPlaces[0].id);
+    void renderMapMarkers(
+      normalizedPlaces
+    ).then(() => {
+      selectPlace(normalizedPlaces[0].id);
+    });
   } else {
+    clearMapMarkers();
     clearSelectedPlaceDetails();
   }
 };
@@ -1914,7 +2369,6 @@ const initializeDashboard = () => {
   setSearchProgressItemsState("ready");
   initializeFilterChips();
   initializeRecommendationCards();
-  initializeMapMarkers();
   initializeInspectorTabs();
   initializeInspectorResults();
   activateInspectorTab("map");
