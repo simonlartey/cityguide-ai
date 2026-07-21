@@ -79,6 +79,33 @@ def search_places():
     return jsonify(response), 200
 
 
+@search_api_bp.get("/search/<session_id>")
+def get_search_session(session_id: str):
+    """Return a previous search conversation session."""
+
+    conversation_manager = current_app.extensions[
+        "conversation_manager"
+    ]
+
+    session = conversation_manager.get_session_details(
+        session_id
+    )
+
+    if session is None:
+        return jsonify(
+            {
+                "error": {
+                    "code": "search_session_not_found",
+                    "message": (
+                        "The requested search session does not exist."
+                    ),
+                }
+            }
+        ), 404
+
+    return jsonify(session), 200
+
+
 @search_api_bp.get("/place-photo")
 def get_place_photo():
     """Resolve a Google Places photo without exposing the API key."""

@@ -391,3 +391,62 @@ def test_search_api_uses_assistant_intent_for_places(
         latitude=None,
         longitude=None,
     )
+
+
+def test_get_search_session_returns_session(
+    app,
+    client,
+):
+    conversation_manager = app.extensions[
+        "conversation_manager"
+    ]
+
+    session = conversation_manager.start_session(
+        original_query="Find a quiet cafe",
+        intent=SearchIntent(
+            original_query="Find a quiet cafe",
+            search_query="quiet cafe",
+        ),
+        places=[],
+        ranked_places=[],
+        assistant_response=(
+            "Campus Cafe is a good option."
+        ),
+    )
+
+    response = client.get(
+        f"/api/v1/search/{session.session_id}"
+    )
+
+    assert response.status_code == 200
+
+    data = response.get_json()
+
+    assert data["session_id"] == session.session_id
+
+    assert data["conversation_history"] == [
+        {
+            "role": "user",
+            "content": "Find a quiet cafe",
+        },
+        {
+            "role": "assistant",
+            "content": (
+                "Campus Cafe is a good option."
+            ),
+        },
+    ]
+
+
+def test_get_search_session_returns_404_for_missing_session(
+    client,
+):
+    response = client.get(
+        "/api/v1/search/missing-session"
+    )
+
+    assert response.status_code == 404
+
+    assert response.get_json()["error"]["code"] == (
+        "search_session_not_found"
+    )
