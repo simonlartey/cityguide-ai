@@ -31,6 +31,10 @@ const SELECTORS = {
   resultsState: "#dashboard-results-state",
   resultsStateTitle: "[data-results-state-title]",
   resultsStateMessage: "[data-results-state-message]",
+  placeHero: "[data-place-hero]",
+  placeGallery: "[data-place-gallery]",
+  placePhotoAttribution:
+    "[data-place-photo-attribution]",
 };
 
 let PLACES = {};
@@ -247,6 +251,22 @@ const buildPlacePhotoUrl = (
   return `/api/v1/place-photo?${params.toString()}`;
 };
 
+const getPhotoAttributionNames = (photo) => {
+  const attributions = photo?.author_attributions;
+
+  if (!Array.isArray(attributions)) {
+    return [];
+  }
+
+  return attributions
+    .map((attribution) => attribution?.displayName)
+    .filter(
+      (name) =>
+        typeof name === "string" &&
+        name.trim().length > 0
+    );
+};
+
 const getRecommendationImageClass = (index) => {
   const imageClasses = [
     "recommendation-image--one",
@@ -272,6 +292,7 @@ const normalizePlaceForDashboard = (place, index) => ({
     place.photos.length > 0
       ? place.photos[0]
       : null,
+  photos: Array.isArray(place.photos) ? place.photos : [],
   heroClass: getRecommendationImageClass(index).replace(
     "recommendation-image",
     "place-hero"
@@ -621,6 +642,146 @@ const initializeFilterChips = () => {
   });
 };
 
+const createPlaceGalleryThumbnail = (
+  place,
+  photo,
+  index
+) => {
+  const thumbnail = document.createElement("button");
+
+  thumbnail.type = "button";
+  thumbnail.className = "place-gallery-thumbnail";
+  thumbnail.setAttribute(
+    "aria-label",
+    `View photo ${index + 1} of ${place.name}`
+  );
+
+  const photoUrl = buildPlacePhotoUrl(photo, 400);
+
+  if (!photoUrl) {
+    thumbnail.disabled = true;
+    return thumbnail;
+  }
+
+  const image = document.createElement("img");
+
+  image.src = photoUrl;
+  image.alt = "";
+  image.loading = "lazy";
+  image.decoding = "async";
+
+  image.addEventListener("error", () => {
+    thumbnail.remove();
+  });
+
+  thumbnail.append(image);
+
+  thumbnail.addEventListener("click", () => {
+    updateSelectedPlacePhoto(
+      place,
+      photo,
+      index
+    );
+  });
+
+  return thumbnail;
+};
+
+const updateSelectedPlacePhoto = (
+  place,
+  photo,
+  activeIndex = 0
+) => {
+  const hero = document.querySelector(
+    SELECTORS.placeHero
+  );
+  const heroPhoto = hero?.querySelector(
+    "[data-place-hero-photo]"
+  );
+  const attribution = document.querySelector(
+    SELECTORS.placePhotoAttribution
+  );
+
+  if (!hero || !heroPhoto || !attribution) {
+    return;
+  }
+
+  const photoUrl = buildPlacePhotoUrl(photo, 1600);
+
+  hero
+    .querySelectorAll(".place-gallery-thumbnail")
+    .forEach((thumbnail, index) => {
+      thumbnail.classList.toggle(
+        "place-gallery-thumbnail--active",
+        index === activeIndex
+      );
+    });
+
+  if (!photoUrl) {
+    heroPhoto.hidden = true;
+    heroPhoto.removeAttribute("src");
+    hero.classList.remove("place-hero--has-photo");
+    attribution.hidden = true;
+    attribution.textContent = "";
+    return;
+  }
+
+  heroPhoto.src = photoUrl;
+  heroPhoto.alt = `${place.name} location`;
+  heroPhoto.hidden = false;
+  hero.classList.add("place-hero--has-photo");
+
+  const attributionNames =
+    getPhotoAttributionNames(photo);
+
+  if (attributionNames.length > 0) {
+    attribution.textContent =
+      `Photo: ${attributionNames.join(", ")}`;
+    attribution.hidden = false;
+  } else {
+    attribution.textContent = "";
+    attribution.hidden = true;
+  }
+
+  heroPhoto.onerror = () => {
+    heroPhoto.hidden = true;
+    heroPhoto.removeAttribute("src");
+    hero.classList.remove("place-hero--has-photo");
+    attribution.hidden = true;
+    attribution.textContent = "";
+  };
+};
+
+const renderSelectedPlacePhotos = (place) => {
+  const gallery = document.querySelector(
+    SELECTORS.placeGallery
+  );
+
+  if (!gallery) {
+    return;
+  }
+
+  const photos = place.photos.slice(0, 4);
+
+  gallery.replaceChildren(
+    ...photos.map((photo, index) =>
+      createPlaceGalleryThumbnail(
+        place,
+        photo,
+        index
+      )
+    )
+  );
+
+  gallery.hidden = photos.length === 0;
+
+  updateSelectedPlacePhoto(
+    place,
+    photos[0] || null,
+    0
+  );
+};
+
 const updatePlaceDetails = (placeId) => {
   const place = PLACES[placeId];
 
@@ -670,14 +831,20 @@ const updatePlaceDetails = (placeId) => {
   document.querySelector("[data-place-hours]").textContent =
     place.hours || "Hours unavailable";
 
-  const hero = document.querySelector("[data-place-hero]");
-
-  hero.classList.remove(
-    "place-hero--one",
-    "place-hero--two",
-    "place-hero--three"
+  const hero = document.querySelector(
+    SELECTORS.placeHero
   );
-  hero.classList.add(place.heroClass);
+
+  if (hero) {
+    hero.classList.remove(
+      "place-hero--one",
+      "place-hero--two",
+      "place-hero--three"
+    );
+    hero.classList.add(place.heroClass);
+  }
+
+  renderSelectedPlacePhotos(place);
 
   const reasons = document.querySelector("[data-place-reasons]");
 
@@ -708,6 +875,18 @@ const clearSelectedPlaceDetails = () => {
   const address = document.querySelector("[data-place-address]");
   const hours = document.querySelector("[data-place-hours]");
   const reasons = document.querySelector("[data-place-reasons]");
+  const hero = document.querySelector(
+    SELECTORS.placeHero
+  );
+  const heroPhoto = hero?.querySelector(
+    "[data-place-hero-photo]"
+  );
+  const gallery = document.querySelector(
+    SELECTORS.placeGallery
+  );
+  const attribution = document.querySelector(
+    SELECTORS.placePhotoAttribution
+  );
 
   if (name) {
     name.textContent = "No place selected";
@@ -739,6 +918,23 @@ const clearSelectedPlaceDetails = () => {
 
   if (reasons) {
     reasons.replaceChildren();
+  }
+
+  if (hero && heroPhoto) {
+    hero.classList.remove("place-hero--has-photo");
+    heroPhoto.hidden = true;
+    heroPhoto.removeAttribute("src");
+    heroPhoto.alt = "";
+  }
+
+  if (gallery) {
+    gallery.replaceChildren();
+    gallery.hidden = true;
+  }
+
+  if (attribution) {
+    attribution.textContent = "";
+    attribution.hidden = true;
   }
 };
 
