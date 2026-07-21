@@ -904,6 +904,18 @@ svg {
   isolation: isolate;
 }
 
+.recommendation-photo {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.recommendation-image--has-photo .recommendation-image-label {
+  display: none;
+}
+
 .recommendation-image::before,
 .recommendation-image::after {
   content: "";
@@ -967,6 +979,11 @@ svg {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.28);
   font-size: 0.78rem;
   font-weight: 800;
+}
+
+.recommendation-rank,
+.recommendation-image-label {
+  z-index: 1;
 }
 
 .recommendation-image-label {

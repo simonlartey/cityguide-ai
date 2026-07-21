@@ -226,6 +226,27 @@ const formatOpenStatus = (openNow) => {
   return "Hours unavailable";
 };
 
+const buildPlacePhotoUrl = (
+  photo,
+  width = 800
+) => {
+  const photoName = photo?.name;
+
+  if (
+    typeof photoName !== "string" ||
+    photoName.trim().length === 0
+  ) {
+    return null;
+  }
+
+  const params = new URLSearchParams({
+    name: photoName,
+    width: String(width),
+  });
+
+  return `/api/v1/place-photo?${params.toString()}`;
+};
+
 const getRecommendationImageClass = (index) => {
   const imageClasses = [
     "recommendation-image--one",
@@ -246,6 +267,11 @@ const normalizePlaceForDashboard = (place, index) => ({
     "Price unavailable",
   status: formatOpenStatus(place.open_now),
   hours: place.hours_text || "Hours unavailable",
+  primaryPhoto:
+    Array.isArray(place.photos) &&
+    place.photos.length > 0
+      ? place.photos[0]
+      : null,
   heroClass: getRecommendationImageClass(index).replace(
     "recommendation-image",
     "place-hero"
@@ -256,12 +282,18 @@ const normalizePlaceForDashboard = (place, index) => ({
 });
 
 const updateCurrentPlaces = (places) => {
+  const normalizedPlaces = places.map(
+    normalizePlaceForDashboard
+  );
+
   PLACES = Object.fromEntries(
-    places.map((place, index) => [
+    normalizedPlaces.map((place) => [
       place.id,
-      normalizePlaceForDashboard(place, index),
+      place,
     ])
   );
+
+  return normalizedPlaces;
 };
 
 const createRecommendationCard = (place, index) => {
@@ -279,6 +311,50 @@ const createRecommendationCard = (place, index) => {
   const image = document.createElement("div");
   image.className =
     `recommendation-image ${getRecommendationImageClass(index)}`;
+
+  const photoUrl = buildPlacePhotoUrl(
+    place.primaryPhoto,
+    800
+  );
+
+  if (photoUrl) {
+    const photo = document.createElement("img");
+    const authorAttributions =
+      place.primaryPhoto?.author_attributions;
+
+    photo.className = "recommendation-photo";
+    photo.src = photoUrl;
+    photo.alt = `${place.name} location`;
+    photo.loading = "lazy";
+    photo.decoding = "async";
+
+    if (
+      Array.isArray(authorAttributions) &&
+      authorAttributions.length > 0
+    ) {
+      const names = authorAttributions
+        .map((attribution) => attribution?.displayName)
+        .filter(Boolean);
+
+      if (names.length > 0) {
+        photo.dataset.photoAttribution =
+          names.join(", ");
+      }
+    }
+
+    photo.addEventListener("error", () => {
+      photo.remove();
+
+      image.classList.remove(
+        "recommendation-image--has-photo"
+      );
+    });
+
+    image.classList.add(
+      "recommendation-image--has-photo"
+    );
+    image.append(photo);
+  }
 
   const rank = document.createElement("span");
   rank.className = "recommendation-rank";
@@ -1391,14 +1467,15 @@ const showResultsState = ({
 };
 
 const applySearchResults = (places) => {
-  updateCurrentPlaces(places);
+  const normalizedPlaces =
+    updateCurrentPlaces(places);
 
-  renderRecommendationCards(places);
-  renderInspectorResults(places);
-  renderMapMarkers(places);
+  renderRecommendationCards(normalizedPlaces);
+  renderInspectorResults(normalizedPlaces);
+  renderMapMarkers(normalizedPlaces);
 
-  if (places.length > 0) {
-    selectPlace(places[0].id);
+  if (normalizedPlaces.length > 0) {
+    selectPlace(normalizedPlaces[0].id);
   } else {
     clearSelectedPlaceDetails();
   }
