@@ -30,6 +30,11 @@ class Config:
         "mock",
     ).strip().lower()
 
+    ASSISTANT_PROVIDER = os.environ.get(
+        "ASSISTANT_PROVIDER",
+        "fake",
+    ).strip().lower()
+
     PLACES_API_KEY = os.environ.get(
         "PLACES_API_KEY",
     )
