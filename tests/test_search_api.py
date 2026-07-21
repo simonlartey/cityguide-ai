@@ -1,5 +1,7 @@
 from unittest.mock import Mock
+from uuid import UUID
 
+from app.models.conversation_message import MessageRole
 from app.models.search_intent import SearchIntent
 from app.providers.places.errors import PlacesProviderError
 
@@ -23,7 +25,45 @@ def test_search_api_returns_results(client):
     assert data["query"] == "Affordable barber for textured hair"
     assert data["result_count"] == 3
     assert len(data["results"]) == 3
-    assert data["search_id"].startswith("search_")
+    assert str(UUID(data["search_id"])) == data["search_id"]
+
+
+def test_search_api_creates_conversation_session(
+    app,
+    client,
+):
+    response = client.post(
+        "/api/v1/search",
+        json={
+            "query": "Affordable barber for textured hair",
+        },
+    )
+
+    assert response.status_code == 200
+
+    data = response.get_json()
+
+    session_id = data["search_id"]
+
+    repository = app.extensions[
+        "search_session_repository"
+    ]
+
+    session = repository.get(session_id)
+
+    assert session is not None
+
+    assert len(session.conversation_history) == 2
+
+    assert (
+        session.conversation_history[0].role
+        == MessageRole.USER
+    )
+
+    assert (
+        session.conversation_history[1].role
+        == MessageRole.ASSISTANT
+    )
 
 
 def test_search_api_returns_normalized_place_fields(client):

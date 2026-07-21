@@ -48,10 +48,14 @@ def search_places():
 
     places_provider = current_app.extensions["places_provider"]
     assistant_provider = current_app.extensions["assistant_provider"]
+    conversation_manager = current_app.extensions[
+        "conversation_manager"
+    ]
 
     service = SearchService(
         places_provider=places_provider,
         assistant_provider=assistant_provider,
+        conversation_manager=conversation_manager,
     )
 
     try:
