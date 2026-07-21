@@ -589,8 +589,14 @@
         <div
           class="map-preview"
           aria-label="Map preview"
+          data-map-container
+          data-maps-api-key="{{ maps_javascript_api_key or '' }}"
+          data-map-id="{{ google_map_id or '' }}"
         >
-          <div class="map-loading-state">
+          <div
+            class="map-loading-state"
+            data-map-state
+          >
             <p>Map will appear after a local search.</p>
           </div>
         </div>

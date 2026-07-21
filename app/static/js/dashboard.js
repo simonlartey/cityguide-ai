@@ -3,6 +3,8 @@ const SELECTORS = {
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   recommendationList: ".recommendation-list",
+  mapContainer: "[data-map-container]",
+  mapState: "[data-map-state]",
   mapPreview: ".map-preview",
   placeMarker: "[data-place-marker]",
   placeSaveButton: "[data-place-save-button]",
@@ -45,11 +47,175 @@ const SELECTORS = {
 
 let PLACES = {};
 let latestSearchRequestId = 0;
+let dashboardMap = null;
+let mapsLibraryPromise = null;
 let latestHeroPhotoRequestId = 0;
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
     window.lucide.createIcons();
+  }
+};
+
+const loadGoogleMapsLibrary = () => {
+  if (mapsLibraryPromise) {
+    return mapsLibraryPromise;
+  }
+
+  const container = document.querySelector(
+    SELECTORS.mapContainer
+  );
+
+  const apiKey =
+    container?.dataset.mapsApiKey?.trim();
+
+  if (!container || !apiKey) {
+    return Promise.reject(
+      new Error("Google Maps is not configured.")
+    );
+  }
+
+  if (window.google?.maps?.importLibrary) {
+    mapsLibraryPromise = Promise.resolve(
+      window.google.maps
+    );
+
+    return mapsLibraryPromise;
+  }
+
+  mapsLibraryPromise = new Promise(
+    (resolve, reject) => {
+      const callbackName =
+        "__cityGuideGoogleMapsLoaded";
+
+      const script = document.createElement("script");
+
+      const params = new URLSearchParams({
+        key: apiKey,
+        callback: callbackName,
+        loading: "async",
+        v: "weekly",
+      });
+
+      window[callbackName] = () => {
+        delete window[callbackName];
+
+        if (!window.google?.maps?.importLibrary) {
+          mapsLibraryPromise = null;
+
+          reject(
+            new Error(
+              "Google Maps loaded without the expected API."
+            )
+          );
+
+          return;
+        }
+
+        resolve(window.google.maps);
+      };
+
+      script.src =
+        "https://maps.googleapis.com/maps/api/js?" +
+        params.toString();
+
+      script.async = true;
+      script.defer = true;
+
+      script.addEventListener("error", () => {
+        delete window[callbackName];
+        mapsLibraryPromise = null;
+        script.remove();
+
+        reject(
+          new Error("Google Maps could not load.")
+        );
+      });
+
+      document.head.append(script);
+    }
+  );
+
+  return mapsLibraryPromise;
+};
+
+const initializeInteractiveMap = async () => {
+  const container = document.querySelector(
+    SELECTORS.mapContainer
+  );
+
+  const state = document.querySelector(
+    SELECTORS.mapState
+  );
+
+  if (!container) {
+    return null;
+  }
+
+  if (dashboardMap) {
+    return dashboardMap;
+  }
+
+  if (state) {
+    state.textContent =
+      "Loading interactive map...";
+    state.classList.remove(
+      "map-loading-state--error"
+    );
+  }
+
+  try {
+    await loadGoogleMapsLibrary();
+
+    const { Map } =
+      await window.google.maps.importLibrary(
+        "maps"
+      );
+
+    const mapOptions = {
+      center: {
+        lat: 43.6591,
+        lng: -70.2568,
+      },
+      zoom: 13,
+      disableDefaultUI: true,
+      zoomControl: true,
+      clickableIcons: false,
+    };
+
+    const mapId =
+      container.dataset.mapId?.trim();
+
+    if (mapId) {
+      mapOptions.mapId = mapId;
+    }
+
+    dashboardMap = new Map(
+      container,
+      mapOptions
+    );
+
+    state?.remove();
+
+    return dashboardMap;
+  } catch (error) {
+    mapsLibraryPromise = null;
+
+    if (state) {
+      state.textContent =
+        "The interactive map is temporarily unavailable.";
+
+      state.classList.add(
+        "map-loading-state--error"
+      );
+    }
+
+    console.error(
+      "CityGuide map failed to load:",
+      error
+    );
+
+    return null;
   }
 };
 
@@ -1926,6 +2092,8 @@ const applySearchResults = (places) => {
   renderMapMarkers(normalizedPlaces);
 
   if (normalizedPlaces.length > 0) {
+    void initializeInteractiveMap();
+
     selectPlace(normalizedPlaces[0].id);
   } else {
     clearSelectedPlaceDetails();
