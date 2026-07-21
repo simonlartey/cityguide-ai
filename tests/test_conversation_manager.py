@@ -115,3 +115,57 @@ def test_start_session_records_assistant_response():
             content="Campus Cafe is the best option.",
         ),
     ]
+
+
+def test_get_session_details_returns_serialized_session():
+    repository = InMemorySearchSessionRepository()
+
+    manager = ConversationManager(repository)
+
+    session = manager.start_session(
+        original_query="Find a quiet cafe",
+        intent=create_intent(),
+        places=[
+            {
+                "id": "cafe-1",
+                "name": "Campus Cafe",
+            }
+        ],
+        ranked_places=[
+            {
+                "id": "cafe-1",
+                "name": "Campus Cafe",
+            }
+        ],
+        assistant_response="Campus Cafe is the best option.",
+    )
+
+    details = manager.get_session_details(
+        session.session_id
+    )
+
+    assert details["session_id"] == session.session_id
+
+    assert details["query"] == (
+        "Find a quiet cafe"
+    )
+
+    assert details["conversation_history"] == [
+        {
+            "role": "user",
+            "content": "Find a quiet cafe",
+        },
+        {
+            "role": "assistant",
+            "content": (
+                "Campus Cafe is the best option."
+            ),
+        },
+    ]
+
+    assert details["results"] == [
+        {
+            "id": "cafe-1",
+            "name": "Campus Cafe",
+        }
+    ]
