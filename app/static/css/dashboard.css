@@ -1149,6 +1149,28 @@ svg {
   border-bottom: 1px solid var(--dashboard-border);
 }
 
+.map-loading-state {
+  position: absolute;
+  z-index: 2;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  color: var(--dashboard-muted);
+  text-align: center;
+  background:
+    linear-gradient(
+      135deg,
+      #0b1820,
+      #071118 65%,
+      #0d2026
+    );
+}
+
+.map-loading-state--error {
+  color: #f0b2a8;
+}
+
 .map-grid {
   position: absolute;
   inset: -40px;
