@@ -23,3 +23,13 @@ class AssistantProvider(ABC):
     ) -> str:
         """Generate a grounded response using retrieved place results."""
         raise NotImplementedError
+
+    @abstractmethod
+    def continue_conversation(
+        self,
+        history: list[dict],
+        message: str,
+        places: list[dict],
+    ) -> str:
+        """Generate a response using previous conversation context."""
+        raise NotImplementedError

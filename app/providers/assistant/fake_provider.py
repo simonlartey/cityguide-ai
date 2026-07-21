@@ -47,3 +47,21 @@ class FakeAssistantProvider(AssistantProvider):
             f"I found {len(place_names)} options: "
             f"{', '.join(place_names)}."
         )
+
+    def continue_conversation(
+        self,
+        history: list[dict],
+        message: str,
+        places: list[dict],
+    ) -> str:
+        place_names = [
+            place.get("name")
+            for place in places
+            if place.get("name")
+        ]
+
+        return (
+            f"You asked: {message}. "
+            "I can help compare these options: "
+            f"{', '.join(place_names)}."
+        )

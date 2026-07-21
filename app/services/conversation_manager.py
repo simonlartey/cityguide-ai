@@ -50,3 +50,78 @@ class ConversationManager:
         session_id: str,
     ) -> SearchSession | None:
         return self.session_repository.get(session_id)
+
+    def continue_session(
+        self,
+        session_id: str,
+        user_message: str,
+        assistant_response: str,
+    ) -> SearchSession | None:
+        session = self.get_session(session_id)
+
+        if session is None:
+            return None
+
+        session.add_message(
+            role=MessageRole.USER,
+            content=user_message,
+        )
+
+        session.add_message(
+            role=MessageRole.ASSISTANT,
+            content=assistant_response,
+        )
+
+        self.session_repository.save(session)
+
+        return session
+
+    def get_conversation_history(
+        self,
+        session_id: str,
+    ) -> list[dict[str, str]] | None:
+        session = self.get_session(session_id)
+
+        if session is None:
+            return None
+
+        return [
+            {
+                "role": message.role.value,
+                "content": message.content,
+            }
+            for message in session.conversation_history
+        ]
+
+    def get_session_details(
+        self,
+        session_id: str,
+    ) -> dict[str, Any] | None:
+        session = self.get_session(session_id)
+
+        if session is None:
+            return None
+
+        return {
+            "session_id": session.session_id,
+            "query": session.original_query,
+            "intent": {
+                "search_query": session.intent.search_query,
+                "category": session.intent.category,
+                "cuisine": session.intent.cuisine,
+                "price_levels": session.intent.price_levels,
+                "preferences": session.intent.preferences,
+                "max_distance_meters": (
+                    session.intent.max_distance_meters
+                ),
+                "open_now": session.intent.open_now,
+            },
+            "conversation_history": [
+                {
+                    "role": message.role.value,
+                    "content": message.content,
+                }
+                for message in session.conversation_history
+            ],
+            "results": session.ranked_places,
+        }
