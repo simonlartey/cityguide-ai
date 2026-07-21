@@ -81,7 +81,10 @@ class SearchService:
         query: str,
     ) -> SearchIntent:
         if self.assistant_provider is not None:
-            return self.assistant_provider.parse_search_intent(query)
+            try:
+                return self.assistant_provider.parse_search_intent(query)
+            except Exception:
+                pass
 
         return SearchIntent(
             original_query=query,
@@ -96,7 +99,10 @@ class SearchService:
         if self.assistant_provider is None:
             return None
 
-        return self.assistant_provider.generate_search_response(
-            query=query,
-            places=places,
-        )
+        try:
+            return self.assistant_provider.generate_search_response(
+                query=query,
+                places=places,
+            )
+        except Exception:
+            return None

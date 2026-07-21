@@ -278,6 +278,43 @@ def test_search_service_uses_intent_search_query_for_places():
     assert response["query"] == "Find somewhere quiet to study"
 
 
+def test_search_service_falls_back_when_assistant_intent_fails():
+    class BrokenAssistantProvider:
+        def parse_search_intent(self, query):
+            raise Exception("AI unavailable")
+
+        def generate_search_response(self, query, places):
+            return None
+
+    service = SearchService(
+        places_provider=RecordingPlacesProvider(),
+        assistant_provider=BrokenAssistantProvider(),
+    )
+
+    response = service.search(
+        SearchRequest(query="quiet cafe")
+    )
+
+    assert response["query"] == "quiet cafe"
+
+
+def test_search_service_returns_results_when_response_generation_fails():
+    class BrokenAssistantProvider(RecordingAssistantProvider):
+        def generate_search_response(self, query, places):
+            raise Exception("AI unavailable")
+
+    service = SearchService(
+        places_provider=RecordingPlacesProvider(),
+        assistant_provider=BrokenAssistantProvider(),
+    )
+
+    response = service.search(
+        SearchRequest(query="coffee")
+    )
+
+    assert response["assistant_response"] is None
+
+
 def test_search_service_generates_response_from_ranked_places():
     places_provider = StaticPlacesProvider(
         [
