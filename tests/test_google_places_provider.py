@@ -62,6 +62,32 @@ def test_google_provider_searches_and_normalizes_results(
                 "nationalPhoneNumber": "(207) 555-0100",
                 "websiteUri": "https://example.com",
                 "googleMapsUri": "https://maps.google.com/example",
+                "photos": [
+                    {
+                        "name": (
+                            "places/place-123/photos/"
+                            "photo-reference-1"
+                        ),
+                        "widthPx": 1600,
+                        "heightPx": 900,
+                        "authorAttributions": [
+                            {
+                                "displayName": "Example Photographer",
+                                "uri": "https://example.com/profile",
+                                "photoUri": "https://example.com/avatar.jpg",
+                            }
+                        ],
+                    },
+                    {
+                        "name": (
+                            "places/place-123/photos/"
+                            "photo-reference-2"
+                        ),
+                        "widthPx": 1200,
+                        "heightPx": 800,
+                        "authorAttributions": [],
+                    },
+                ],
             }
         ]
     }
@@ -115,6 +141,32 @@ def test_google_provider_searches_and_normalizes_results(
             "phone": "(207) 555-0100",
             "website": "https://example.com",
             "maps_url": "https://maps.google.com/example",
+            "photos": [
+                {
+                    "name": (
+                        "places/place-123/photos/"
+                        "photo-reference-1"
+                    ),
+                    "width": 1600,
+                    "height": 900,
+                    "author_attributions": [
+                        {
+                            "displayName": "Example Photographer",
+                            "uri": "https://example.com/profile",
+                            "photoUri": "https://example.com/avatar.jpg",
+                        }
+                    ],
+                },
+                {
+                    "name": (
+                        "places/place-123/photos/"
+                        "photo-reference-2"
+                    ),
+                    "width": 1200,
+                    "height": 800,
+                    "author_attributions": [],
+                },
+            ],
         }
     ]
 
@@ -135,6 +187,7 @@ def test_google_provider_searches_and_normalizes_results(
             "radius": 10000.0,
         }
     }
+    assert "places.photos" in request.kwargs["headers"]["X-Goog-FieldMask"]
 
 
 def test_current_day_hours_returns_first_day_without_offset():
@@ -261,9 +314,327 @@ def test_google_provider_matches_dashboard_place_schema(
         "phone",
         "website",
         "maps_url",
+        "photos",
     }
 
     assert set(place) == expected_fields
+
+
+def test_google_provider_returns_empty_photos_when_missing(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "places": [
+            {
+                "id": "place-123",
+                "displayName": {
+                    "text": "Test Place",
+                },
+            }
+        ]
+    }
+    session.post.return_value = response
+
+    place = provider.search("test place")[0]
+
+    assert place["photos"] == []
+
+
+def test_google_provider_ignores_malformed_photos(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "places": [
+            {
+                "id": "place-123",
+                "displayName": {
+                    "text": "Test Place",
+                },
+                "photos": [
+                    None,
+                    "invalid",
+                    {},
+                    {
+                        "name": "",
+                    },
+                    {
+                        "name": (
+                            "places/place-123/photos/"
+                            "valid-photo"
+                        ),
+                        "widthPx": "not-an-integer",
+                        "heightPx": 800,
+                        "authorAttributions": "invalid",
+                    },
+                ],
+            }
+        ]
+    }
+    session.post.return_value = response
+
+    place = provider.search("test place")[0]
+
+    assert place["photos"] == [
+        {
+            "name": (
+                "places/place-123/photos/"
+                "valid-photo"
+            ),
+            "width": None,
+            "height": 800,
+            "author_attributions": [],
+        }
+    ]
+
+
+def test_google_provider_limits_and_normalizes_photos():
+    photos = GooglePlacesProvider._normalize_photos(
+        [
+            {
+                "name": "places/1/photos/1",
+                "widthPx": 100,
+                "heightPx": 200,
+                "authorAttributions": [
+                    {
+                        "displayName": "One",
+                    }
+                ],
+            },
+            {"name": ""},
+            "invalid",
+            {
+                "name": "places/1/photos/2",
+                "widthPx": 300,
+                "heightPx": 400,
+                "authorAttributions": [],
+            },
+            {
+                "name": "places/1/photos/3",
+                "widthPx": 500,
+                "heightPx": 600,
+            },
+            {
+                "name": "places/1/photos/4",
+                "widthPx": 700,
+                "heightPx": 800,
+            },
+            {
+                "name": "places/1/photos/5",
+                "widthPx": 900,
+                "heightPx": 1000,
+            },
+            {
+                "name": "places/1/photos/6",
+                "widthPx": 1100,
+                "heightPx": 1200,
+            },
+        ]
+    )
+
+    assert photos == [
+        {
+            "name": "places/1/photos/1",
+            "width": 100,
+            "height": 200,
+            "author_attributions": [
+                {
+                    "displayName": "One",
+                }
+            ],
+        },
+        {
+            "name": "places/1/photos/2",
+            "width": 300,
+            "height": 400,
+            "author_attributions": [],
+        },
+        {
+            "name": "places/1/photos/3",
+            "width": 500,
+            "height": 600,
+            "author_attributions": [],
+        },
+        {
+            "name": "places/1/photos/4",
+            "width": 700,
+            "height": 800,
+            "author_attributions": [],
+        },
+        {
+            "name": "places/1/photos/5",
+            "width": 900,
+            "height": 1000,
+            "author_attributions": [],
+        },
+    ]
+
+
+def test_google_provider_resolves_photo_url(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "photoUri": "https://images.example.com/photo.jpg",
+    }
+    session.get.return_value = response
+
+    photo_url = provider.get_photo_url(
+        "places/place-123/photos/photo-456",
+        max_width=1200,
+    )
+
+    assert photo_url == (
+        "https://images.example.com/photo.jpg"
+    )
+
+    session.get.assert_called_once_with(
+        (
+            "https://places.googleapis.com/v1/"
+            "places/place-123/photos/photo-456/media"
+        ),
+        params={
+            "key": provider.api_key,
+            "maxWidthPx": 1200,
+            "skipHttpRedirect": "true",
+        },
+        timeout=provider.timeout_seconds,
+    )
+
+
+def test_google_provider_encodes_photo_name_segments(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "photoUri": "https://images.example.com/photo.jpg",
+    }
+    session.get.return_value = response
+
+    provider.get_photo_url(
+        "places/place#123/photos/photo?456",
+        max_width=800,
+    )
+
+    session.get.assert_called_once_with(
+        (
+            "https://places.googleapis.com/v1/"
+            "places/place%23123/photos/photo%3F456/media"
+        ),
+        params={
+            "key": provider.api_key,
+            "maxWidthPx": 800,
+            "skipHttpRedirect": "true",
+        },
+        timeout=provider.timeout_seconds,
+    )
+
+
+@pytest.mark.parametrize(
+    "photo_name",
+    [
+        "",
+        "invalid",
+        "places/place-123",
+        "places//photos/photo-456",
+        "places/place-123/images/photo-456",
+        "places/place-123/photos/",
+        "places/place-123/photos/photo-456/media",
+    ],
+)
+def test_google_provider_rejects_invalid_photo_names(
+    provider,
+    photo_name,
+):
+    with pytest.raises(
+        ValueError,
+        match="Invalid Google Places photo name",
+    ):
+        provider.get_photo_url(photo_name)
+
+
+@pytest.mark.parametrize(
+    "max_width",
+    [0, 4801, -1, "800", None],
+)
+def test_google_provider_rejects_invalid_photo_width(
+    provider,
+    max_width,
+):
+    with pytest.raises(
+        ValueError,
+        match="Photo width must be between 1 and 4800 pixels",
+    ):
+        provider.get_photo_url(
+            "places/place-123/photos/photo-reference-1",
+            max_width=max_width,
+        )
+
+
+def test_google_provider_handles_photo_request_failure(
+    provider,
+    session,
+):
+    session.get.side_effect = requests.RequestException(
+        "request failed"
+    )
+
+    with pytest.raises(
+        PlacesProviderError,
+        match="photo request failed",
+    ):
+        provider.get_photo_url(
+            "places/place-123/photos/photo-456"
+        )
+
+
+def test_google_provider_rejects_missing_photo_uri(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {}
+    session.get.return_value = response
+
+    with pytest.raises(
+        PlacesProviderError,
+        match="invalid photo data",
+    ):
+        provider.get_photo_url("places/place-123/photos/photo-456")
+
+
+@pytest.mark.parametrize(
+    "photo_uri",
+    [
+        "http://images.example.com/photo.jpg",
+        "javascript:alert(1)",
+        "/relative/photo.jpg",
+        "not-a-url",
+    ],
+)
+def test_google_provider_rejects_unsafe_photo_uri(
+    provider,
+    session,
+    photo_uri,
+):
+    response = Mock()
+    response.json.return_value = {
+        "photoUri": photo_uri,
+    }
+    session.get.return_value = response
+
+    with pytest.raises(
+        PlacesProviderError,
+        match="invalid photo data",
+    ):
+        provider.get_photo_url(
+            "places/place-123/photos/photo-456"
+        )
 
 
 def test_google_provider_returns_empty_list(

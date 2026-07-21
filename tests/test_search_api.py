@@ -175,3 +175,129 @@ def test_search_api_does_not_hide_unexpected_errors(
             "Unexpected errors should not be converted "
             "into provider availability responses."
         )
+
+
+def test_place_photo_redirects_to_resolved_url(
+    app,
+    client,
+):
+    provider = Mock()
+    provider.get_photo_url.return_value = (
+        "https://images.example.com/photo.jpg"
+    )
+
+    app.extensions["places_provider"] = provider
+
+    response = client.get(
+        "/api/v1/place-photo",
+        query_string={
+            "name": "places/place-123/photos/photo-456",
+            "width": "1200",
+        },
+    )
+
+    assert response.status_code == 302
+    assert response.headers["Location"] == (
+        "https://images.example.com/photo.jpg"
+    )
+    provider.get_photo_url.assert_called_once_with(
+        "places/place-123/photos/photo-456",
+        max_width=1200,
+    )
+
+
+def test_place_photo_rejects_invalid_width(client):
+    response = client.get(
+        "/api/v1/place-photo",
+        query_string={
+            "name": "places/place-123/photos/photo-456",
+            "width": "wide",
+        },
+    )
+
+    assert response.status_code == 400
+    assert response.get_json() == {
+        "error": {
+            "code": "invalid_photo_request",
+            "message": "Photo width must be an integer.",
+        }
+    }
+
+
+def test_place_photo_route_rejects_unavailable_provider(
+    app,
+    client,
+):
+    app.extensions["places_provider"] = Mock(spec=[])
+
+    response = client.get(
+        "/api/v1/place-photo",
+        query_string={
+            "name": "places/place-123/photos/photo-456",
+        },
+    )
+
+    assert response.status_code == 503
+    assert response.get_json() == {
+        "error": {
+            "code": "place_photos_unavailable",
+            "message": (
+                "Place photos are unavailable for "
+                "the configured provider."
+            ),
+        }
+    }
+
+
+def test_place_photo_route_handles_provider_validation_error(
+    app,
+    client,
+):
+    provider = Mock()
+    provider.get_photo_url.side_effect = ValueError(
+        "Invalid Google Places photo name."
+    )
+
+    app.extensions["places_provider"] = provider
+
+    response = client.get(
+        "/api/v1/place-photo",
+        query_string={
+            "name": "bad-name",
+        },
+    )
+
+    assert response.status_code == 400
+    assert response.get_json() == {
+        "error": {
+            "code": "invalid_photo_request",
+            "message": "Invalid Google Places photo name.",
+        }
+    }
+
+
+def test_place_photo_handles_provider_failure(
+    app,
+    client,
+):
+    provider = Mock()
+    provider.get_photo_url.side_effect = PlacesProviderError("photo failed")
+
+    app.extensions["places_provider"] = provider
+
+    response = client.get(
+        "/api/v1/place-photo",
+        query_string={
+            "name": "places/place-123/photos/photo-456",
+        },
+    )
+
+    assert response.status_code == 503
+    assert response.get_json() == {
+        "error": {
+            "code": "place_photo_unavailable",
+            "message": (
+                "This place photo is temporarily unavailable."
+            ),
+        }
+    }

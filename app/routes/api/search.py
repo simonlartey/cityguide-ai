@@ -1,4 +1,10 @@
-from flask import Blueprint, current_app, jsonify, request
+from flask import (
+    Blueprint,
+    current_app,
+    jsonify,
+    redirect,
+    request,
+)
 
 from app.providers.places.errors import PlacesProviderError
 from app.schemas.search import SearchRequest, SearchValidationError
@@ -63,3 +69,77 @@ def search_places():
         ), 503
 
     return jsonify(response), 200
+
+
+@search_api_bp.get("/place-photo")
+def get_place_photo():
+    """Resolve a Google Places photo without exposing the API key."""
+
+    photo_name = request.args.get("name", "").strip()
+    width_value = request.args.get("width", "800")
+
+    try:
+        max_width = int(width_value)
+    except ValueError:
+        return jsonify(
+            {
+                "error": {
+                    "code": "invalid_photo_request",
+                    "message": "Photo width must be an integer.",
+                }
+            }
+        ), 400
+
+    places_provider = current_app.extensions["places_provider"]
+
+    get_photo_url = getattr(
+        places_provider,
+        "get_photo_url",
+        None,
+    )
+
+    if not callable(get_photo_url):
+        return jsonify(
+            {
+                "error": {
+                    "code": "place_photos_unavailable",
+                    "message": (
+                        "Place photos are unavailable for "
+                        "the configured provider."
+                    ),
+                }
+            }
+        ), 503
+
+    try:
+        photo_url = get_photo_url(
+            photo_name,
+            max_width=max_width,
+        )
+    except ValueError as error:
+        return jsonify(
+            {
+                "error": {
+                    "code": "invalid_photo_request",
+                    "message": str(error),
+                }
+            }
+        ), 400
+    except PlacesProviderError:
+        current_app.logger.exception(
+            "Places provider failed while loading a photo."
+        )
+
+        return jsonify(
+            {
+                "error": {
+                    "code": "place_photo_unavailable",
+                    "message": (
+                        "This place photo is temporarily "
+                        "unavailable."
+                    ),
+                }
+            }
+        ), 503
+
+    return redirect(photo_url, code=302)

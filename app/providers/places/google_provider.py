@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta, timezone
 from math import asin, cos, radians, sin, sqrt
 from typing import Any
+from urllib.parse import quote, urlparse
 
 import requests
 
@@ -12,6 +13,7 @@ class GooglePlacesProvider(PlacesProvider):
     """Search Google Places and normalize results for CityGuide."""
 
     SEARCH_URL = "https://places.googleapis.com/v1/places:searchText"
+    PHOTO_BASE_URL = "https://places.googleapis.com/v1"
 
     FIELD_MASK = ",".join(
         (
@@ -28,6 +30,7 @@ class GooglePlacesProvider(PlacesProvider):
             "places.nationalPhoneNumber",
             "places.websiteUri",
             "places.googleMapsUri",
+            "places.photos",
         )
     )
 
@@ -120,6 +123,75 @@ class GooglePlacesProvider(PlacesProvider):
             if isinstance(place, dict)
         ]
 
+    def get_photo_url(
+        self,
+        photo_name: str,
+        max_width: int = 800,
+    ) -> str:
+        if not self._is_valid_photo_name(photo_name):
+            raise ValueError("Invalid Google Places photo name.")
+
+        if not isinstance(max_width, int) or not 1 <= max_width <= 4800:
+            raise ValueError(
+                "Photo width must be between 1 and 4800 pixels."
+            )
+
+        encoded_photo_name = "/".join(
+            quote(segment, safe="")
+            for segment in photo_name.split("/")
+        )
+
+        media_url = (
+            f"{self.PHOTO_BASE_URL}/"
+            f"{encoded_photo_name}/media"
+        )
+
+        try:
+            response = self.session.get(
+                media_url,
+                params={
+                    "key": self.api_key,
+                    "maxWidthPx": max_width,
+                    "skipHttpRedirect": "true",
+                },
+                timeout=self.timeout_seconds,
+            )
+            response.raise_for_status()
+        except requests.RequestException as error:
+            raise PlacesProviderError(
+                "Google Places photo request failed."
+            ) from error
+
+        try:
+            response_data = response.json()
+        except ValueError as error:
+            raise PlacesProviderError(
+                "Google Places returned invalid photo data."
+            ) from error
+
+        photo_uri = (
+            response_data.get("photoUri")
+            if isinstance(response_data, dict)
+            else None
+        )
+
+        if not isinstance(photo_uri, str) or not photo_uri.strip():
+            raise PlacesProviderError(
+                "Google Places returned invalid photo data."
+            )
+
+        parsed_photo_uri = urlparse(photo_uri)
+
+        if (
+            parsed_photo_uri.scheme != "https"
+            or not parsed_photo_uri.netloc
+        ):
+            raise PlacesProviderError(
+                "Google Places returned invalid photo data."
+            )
+
+        return photo_uri
+
     def _normalize_place(
         self,
         place: dict[str, Any],
@@ -198,7 +270,78 @@ class GooglePlacesProvider(PlacesProvider):
             "phone": place.get("nationalPhoneNumber"),
             "website": place.get("websiteUri"),
             "maps_url": place.get("googleMapsUri"),
+            "photos": self._normalize_photos(place.get("photos")),
         }
+
+    @staticmethod
+    def _normalize_photos(
+        photos: object,
+        limit: int = 5,
+    ) -> list[dict[str, Any]]:
+        if not isinstance(photos, list):
+            return []
+
+        normalized_photos = []
+
+        for photo in photos:
+            if not isinstance(photo, dict):
+                continue
+
+            name = photo.get("name")
+
+            if not isinstance(name, str) or not name.strip():
+                continue
+
+            width = photo.get("widthPx")
+            height = photo.get("heightPx")
+            author_attributions = photo.get(
+                "authorAttributions",
+                [],
+            )
+
+            normalized_photos.append(
+                {
+                    "name": name,
+                    "width": (
+                        width
+                        if isinstance(width, int)
+                        else None
+                    ),
+                    "height": (
+                        height
+                        if isinstance(height, int)
+                        else None
+                    ),
+                    "author_attributions": (
+                        author_attributions
+                        if isinstance(
+                            author_attributions,
+                            list,
+                        )
+                        else []
+                    ),
+                }
+            )
+
+            if len(normalized_photos) >= limit:
+                break
+
+        return normalized_photos
+
+    @staticmethod
+    def _is_valid_photo_name(photo_name: object) -> bool:
+        if not isinstance(photo_name, str):
+            return False
+
+        parts = photo_name.strip().split("/")
+
+        return (
+            len(parts) == 4
+            and parts[0] == "places"
+            and bool(parts[1])
+            and parts[2] == "photos"
+            and bool(parts[3])
+        )
 
     @staticmethod
     def _calculate_distance_miles(

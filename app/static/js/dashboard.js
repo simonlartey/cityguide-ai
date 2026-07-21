@@ -31,10 +31,15 @@ const SELECTORS = {
   resultsState: "#dashboard-results-state",
   resultsStateTitle: "[data-results-state-title]",
   resultsStateMessage: "[data-results-state-message]",
+  placeHero: "[data-place-hero]",
+  placeGallery: "[data-place-gallery]",
+  placePhotoAttribution:
+    "[data-place-photo-attribution]",
 };
 
 let PLACES = {};
 let latestSearchRequestId = 0;
+let latestHeroPhotoRequestId = 0;
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
@@ -226,6 +231,43 @@ const formatOpenStatus = (openNow) => {
   return "Hours unavailable";
 };
 
+const buildPlacePhotoUrl = (
+  photo,
+  width = 800
+) => {
+  const photoName = photo?.name;
+
+  if (
+    typeof photoName !== "string" ||
+    photoName.trim().length === 0
+  ) {
+    return null;
+  }
+
+  const params = new URLSearchParams({
+    name: photoName,
+    width: String(width),
+  });
+
+  return `/api/v1/place-photo?${params.toString()}`;
+};
+
+const getPhotoAttributionNames = (photo) => {
+  const attributions = photo?.author_attributions;
+
+  if (!Array.isArray(attributions)) {
+    return [];
+  }
+
+  return attributions
+    .map((attribution) => attribution?.displayName)
+    .filter(
+      (name) =>
+        typeof name === "string" &&
+        name.trim().length > 0
+    );
+};
+
 const getRecommendationImageClass = (index) => {
   const imageClasses = [
     "recommendation-image--one",
@@ -246,6 +288,12 @@ const normalizePlaceForDashboard = (place, index) => ({
     "Price unavailable",
   status: formatOpenStatus(place.open_now),
   hours: place.hours_text || "Hours unavailable",
+  primaryPhoto:
+    Array.isArray(place.photos) &&
+    place.photos.length > 0
+      ? place.photos[0]
+      : null,
+  photos: Array.isArray(place.photos) ? place.photos : [],
   heroClass: getRecommendationImageClass(index).replace(
     "recommendation-image",
     "place-hero"
@@ -256,12 +304,18 @@ const normalizePlaceForDashboard = (place, index) => ({
 });
 
 const updateCurrentPlaces = (places) => {
+  const normalizedPlaces = places.map(
+    normalizePlaceForDashboard
+  );
+
   PLACES = Object.fromEntries(
-    places.map((place, index) => [
+    normalizedPlaces.map((place) => [
       place.id,
-      normalizePlaceForDashboard(place, index),
+      place,
     ])
   );
+
+  return normalizedPlaces;
 };
 
 const createRecommendationCard = (place, index) => {
@@ -279,6 +333,50 @@ const createRecommendationCard = (place, index) => {
   const image = document.createElement("div");
   image.className =
     `recommendation-image ${getRecommendationImageClass(index)}`;
+
+  const photoUrl = buildPlacePhotoUrl(
+    place.primaryPhoto,
+    800
+  );
+
+  if (photoUrl) {
+    const photo = document.createElement("img");
+    const authorAttributions =
+      place.primaryPhoto?.author_attributions;
+
+    photo.className = "recommendation-photo";
+    photo.src = photoUrl;
+    photo.alt = `${place.name} location`;
+    photo.loading = "lazy";
+    photo.decoding = "async";
+
+    if (
+      Array.isArray(authorAttributions) &&
+      authorAttributions.length > 0
+    ) {
+      const names = authorAttributions
+        .map((attribution) => attribution?.displayName)
+        .filter(Boolean);
+
+      if (names.length > 0) {
+        photo.dataset.photoAttribution =
+          names.join(", ");
+      }
+    }
+
+    photo.addEventListener("error", () => {
+      photo.remove();
+
+      image.classList.remove(
+        "recommendation-image--has-photo"
+      );
+    });
+
+    image.classList.add(
+      "recommendation-image--has-photo"
+    );
+    image.append(photo);
+  }
 
   const rank = document.createElement("span");
   rank.className = "recommendation-rank";
@@ -545,6 +643,183 @@ const initializeFilterChips = () => {
   });
 };
 
+const createPlaceGalleryThumbnail = (
+  place,
+  photo,
+  index
+) => {
+  const thumbnail = document.createElement("button");
+
+  thumbnail.type = "button";
+  thumbnail.className = "place-gallery-thumbnail";
+  thumbnail.setAttribute(
+    "aria-label",
+    `View photo ${index + 1} of ${place.name}`
+  );
+
+  const photoUrl = buildPlacePhotoUrl(photo, 400);
+
+  if (!photoUrl) {
+    thumbnail.disabled = true;
+    return thumbnail;
+  }
+
+  const image = document.createElement("img");
+
+  image.src = photoUrl;
+  image.alt = "";
+  image.loading = "lazy";
+  image.decoding = "async";
+
+  image.addEventListener("error", () => {
+    const wasActive = thumbnail.classList.contains(
+      "place-gallery-thumbnail--active"
+    );
+
+    thumbnail.remove();
+
+    if (wasActive) {
+      const nextThumbnail = document.querySelector(
+        ".place-gallery-thumbnail"
+      );
+
+      nextThumbnail?.click();
+    }
+  });
+
+  thumbnail.append(image);
+
+  thumbnail.addEventListener("click", () => {
+    updateSelectedPlacePhoto(
+      place,
+      photo,
+      index
+    );
+  });
+
+  return thumbnail;
+};
+
+const updateSelectedPlacePhoto = (
+  place,
+  photo,
+  activeIndex = 0
+) => {
+  const requestId = ++latestHeroPhotoRequestId;
+  const hero = document.querySelector(
+    SELECTORS.placeHero
+  );
+  const heroPhoto = hero?.querySelector(
+    "[data-place-hero-photo]"
+  );
+  const attribution = document.querySelector(
+    SELECTORS.placePhotoAttribution
+  );
+
+  if (!hero || !heroPhoto || !attribution) {
+    return;
+  }
+
+  const photoUrl = buildPlacePhotoUrl(photo, 1600);
+
+  hero
+    .querySelectorAll(".place-gallery-thumbnail")
+    .forEach((thumbnail, index) => {
+      thumbnail.classList.toggle(
+        "place-gallery-thumbnail--active",
+        index === activeIndex
+      );
+    });
+
+  if (!photoUrl) {
+    if (requestId !== latestHeroPhotoRequestId) {
+      return;
+    }
+
+    heroPhoto.hidden = true;
+    heroPhoto.removeAttribute("src");
+    heroPhoto.alt = "";
+    hero.classList.remove("place-hero--has-photo");
+    attribution.hidden = true;
+    attribution.textContent = "";
+    return;
+  }
+
+  heroPhoto.hidden = true;
+  heroPhoto.alt = `${place.name} location`;
+  heroPhoto.src = photoUrl;
+
+  const attributionNames =
+    getPhotoAttributionNames(photo);
+
+  if (attributionNames.length > 0) {
+    attribution.textContent =
+      `Photo: ${attributionNames.join(", ")}`;
+    attribution.hidden = false;
+  } else {
+    attribution.textContent = "";
+    attribution.hidden = true;
+  }
+
+  heroPhoto.onload = () => {
+    if (requestId !== latestHeroPhotoRequestId) {
+      return;
+    }
+
+    heroPhoto.hidden = false;
+    hero.classList.add("place-hero--has-photo");
+  };
+
+  heroPhoto.onerror = () => {
+    if (requestId !== latestHeroPhotoRequestId) {
+      return;
+    }
+
+    heroPhoto.hidden = true;
+    heroPhoto.removeAttribute("src");
+    heroPhoto.alt = "";
+    hero.classList.remove("place-hero--has-photo");
+    attribution.hidden = true;
+    attribution.textContent = "";
+  };
+};
+
+const renderSelectedPlacePhotos = (place) => {
+  const gallery = document.querySelector(
+    SELECTORS.placeGallery
+  );
+
+  if (!gallery) {
+    return;
+  }
+
+  const photos = place.photos
+    .filter(
+      (photo) =>
+        typeof photo?.name === "string" &&
+        photo.name.trim().length > 0
+    )
+    .slice(0, 4);
+
+  gallery.replaceChildren(
+    ...photos.map((photo, index) =>
+      createPlaceGalleryThumbnail(
+        place,
+        photo,
+        index
+      )
+    )
+  );
+
+  gallery.hidden = photos.length === 0;
+
+  updateSelectedPlacePhoto(
+    place,
+    photos[0] || null,
+    0
+  );
+};
+
 const updatePlaceDetails = (placeId) => {
   const place = PLACES[placeId];
 
@@ -594,14 +869,20 @@ const updatePlaceDetails = (placeId) => {
   document.querySelector("[data-place-hours]").textContent =
     place.hours || "Hours unavailable";
 
-  const hero = document.querySelector("[data-place-hero]");
-
-  hero.classList.remove(
-    "place-hero--one",
-    "place-hero--two",
-    "place-hero--three"
+  const hero = document.querySelector(
+    SELECTORS.placeHero
   );
-  hero.classList.add(place.heroClass);
+
+  if (hero) {
+    hero.classList.remove(
+      "place-hero--one",
+      "place-hero--two",
+      "place-hero--three"
+    );
+    hero.classList.add(place.heroClass);
+  }
+
+  renderSelectedPlacePhotos(place);
 
   const reasons = document.querySelector("[data-place-reasons]");
 
@@ -624,6 +905,8 @@ const updatePlaceDetails = (placeId) => {
 };
 
 const clearSelectedPlaceDetails = () => {
+  latestHeroPhotoRequestId += 1;
+
   const name = document.querySelector("[data-place-name]");
   const rating = document.querySelector("[data-place-rating]");
   const distance = document.querySelector("[data-place-distance]");
@@ -632,6 +915,18 @@ const clearSelectedPlaceDetails = () => {
   const address = document.querySelector("[data-place-address]");
   const hours = document.querySelector("[data-place-hours]");
   const reasons = document.querySelector("[data-place-reasons]");
+  const hero = document.querySelector(
+    SELECTORS.placeHero
+  );
+  const heroPhoto = hero?.querySelector(
+    "[data-place-hero-photo]"
+  );
+  const gallery = document.querySelector(
+    SELECTORS.placeGallery
+  );
+  const attribution = document.querySelector(
+    SELECTORS.placePhotoAttribution
+  );
 
   if (name) {
     name.textContent = "No place selected";
@@ -663,6 +958,23 @@ const clearSelectedPlaceDetails = () => {
 
   if (reasons) {
     reasons.replaceChildren();
+  }
+
+  if (hero && heroPhoto) {
+    hero.classList.remove("place-hero--has-photo");
+    heroPhoto.hidden = true;
+    heroPhoto.removeAttribute("src");
+    heroPhoto.alt = "";
+  }
+
+  if (gallery) {
+    gallery.replaceChildren();
+    gallery.hidden = true;
+  }
+
+  if (attribution) {
+    attribution.textContent = "";
+    attribution.hidden = true;
   }
 };
 
@@ -1391,14 +1703,15 @@ const showResultsState = ({
 };
 
 const applySearchResults = (places) => {
-  updateCurrentPlaces(places);
+  const normalizedPlaces =
+    updateCurrentPlaces(places);
 
-  renderRecommendationCards(places);
-  renderInspectorResults(places);
-  renderMapMarkers(places);
+  renderRecommendationCards(normalizedPlaces);
+  renderInspectorResults(normalizedPlaces);
+  renderMapMarkers(normalizedPlaces);
 
-  if (places.length > 0) {
-    selectPlace(places[0].id);
+  if (normalizedPlaces.length > 0) {
+    selectPlace(normalizedPlaces[0].id);
   } else {
     clearSelectedPlaceDetails();
   }

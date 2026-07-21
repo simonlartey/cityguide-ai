@@ -601,6 +601,13 @@
 
         <article class="place-details-card">
           <div class="place-hero place-hero--one" data-place-hero>
+            <img
+              class="place-hero-photo"
+              data-place-hero-photo
+              alt=""
+              hidden
+            />
+
             <button
               type="button"
               class="place-save-button"
@@ -613,12 +620,17 @@
               ></span>
             </button>
 
-            <div class="place-gallery-strip" aria-hidden="true">
-              <span></span>
-              <span></span>
-              <span></span>
-              <span class="place-gallery-more"></span>
-            </div>
+            <p
+              class="place-photo-attribution"
+              data-place-photo-attribution
+              hidden
+            ></p>
+
+            <div
+              class="place-gallery-strip"
+              data-place-gallery
+              hidden
+            ></div>
           </div>
 
           <div class="place-details-content">
