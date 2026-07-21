@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta, timezone
 from math import asin, cos, radians, sin, sqrt
 from typing import Any
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse
 
 import requests
 
@@ -136,7 +136,15 @@ class GooglePlacesProvider(PlacesProvider):
                 "Photo width must be between 1 and 4800 pixels."
             )
 
-        media_url = f"{self.PHOTO_BASE_URL}/{photo_name}/media"
+        encoded_photo_name = "/".join(
+            quote(segment, safe="")
+            for segment in photo_name.split("/")
+        )
+
+        media_url = (
+            f"{self.PHOTO_BASE_URL}/"
+            f"{encoded_photo_name}/media"
+        )
 
         try:
             response = self.session.get(

@@ -506,6 +506,35 @@ def test_google_provider_resolves_photo_url(
     )
 
 
+def test_google_provider_encodes_photo_name_segments(
+    provider,
+    session,
+):
+    response = Mock()
+    response.json.return_value = {
+        "photoUri": "https://images.example.com/photo.jpg",
+    }
+    session.get.return_value = response
+
+    provider.get_photo_url(
+        "places/place#123/photos/photo?456",
+        max_width=800,
+    )
+
+    session.get.assert_called_once_with(
+        (
+            "https://places.googleapis.com/v1/"
+            "places/place%23123/photos/photo%3F456/media"
+        ),
+        params={
+            "key": provider.api_key,
+            "maxWidthPx": 800,
+            "skipHttpRedirect": "true",
+        },
+        timeout=provider.timeout_seconds,
+    )
+
+
 @pytest.mark.parametrize(
     "photo_name",
     [
