@@ -172,12 +172,18 @@ const initializeInteractiveMap = async () => {
         "maps"
       );
 
+    const { ColorScheme } =
+      await window.google.maps.importLibrary(
+        "core"
+      );
+
     const mapOptions = {
       center: {
         lat: 43.6591,
         lng: -70.2568,
       },
       zoom: 13,
+      colorScheme: ColorScheme.DARK,
       disableDefaultUI: true,
       zoomControl: true,
       clickableIcons: false,
