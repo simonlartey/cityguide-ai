@@ -1,3 +1,4 @@
+from app.models.search_intent import SearchIntent
 from app.schemas.search import SearchLocation, SearchRequest
 from app.services.search_service import SearchService
 
@@ -41,6 +42,31 @@ class StaticPlacesProvider:
         longitude: float | None = None,
     ) -> list[dict]:
         return self.places
+
+
+class RecordingAssistantProvider:
+    """Test assistant provider that records and rewrites query intent."""
+
+    def __init__(self):
+        self.received_query = None
+
+    def parse_search_intent(
+        self,
+        query: str,
+    ) -> SearchIntent:
+        self.received_query = query
+
+        return SearchIntent(
+            original_query=query,
+            search_query="quiet cafe",
+        )
+
+    def generate_search_response(
+        self,
+        query: str,
+        places: list[dict],
+    ) -> str:
+        raise NotImplementedError
 
 
 def test_search_service_returns_expected_response():
@@ -197,3 +223,38 @@ def test_search_service_reports_count_after_ranking():
     )
 
     assert response["result_count"] == 2
+
+
+def test_search_service_parses_query_with_assistant_provider():
+    places_provider = RecordingPlacesProvider()
+    assistant_provider = RecordingAssistantProvider()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+    )
+
+    service.search(
+        SearchRequest(query="Find somewhere quiet to study")
+    )
+
+    assert assistant_provider.received_query == (
+        "Find somewhere quiet to study"
+    )
+
+
+def test_search_service_uses_intent_search_query_for_places():
+    places_provider = RecordingPlacesProvider()
+    assistant_provider = RecordingAssistantProvider()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+    )
+
+    response = service.search(
+        SearchRequest(query="Find somewhere quiet to study")
+    )
+
+    assert places_provider.received_query == "quiet cafe"
+    assert response["query"] == "Find somewhere quiet to study"
