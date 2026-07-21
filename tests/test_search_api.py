@@ -1,5 +1,8 @@
 from unittest.mock import Mock
+from uuid import UUID
 
+from app.models.conversation_message import MessageRole
+from app.models.search_intent import SearchIntent
 from app.providers.places.errors import PlacesProviderError
 
 
@@ -22,7 +25,45 @@ def test_search_api_returns_results(client):
     assert data["query"] == "Affordable barber for textured hair"
     assert data["result_count"] == 3
     assert len(data["results"]) == 3
-    assert data["search_id"].startswith("search_")
+    assert str(UUID(data["search_id"])) == data["search_id"]
+
+
+def test_search_api_creates_conversation_session(
+    app,
+    client,
+):
+    response = client.post(
+        "/api/v1/search",
+        json={
+            "query": "Affordable barber for textured hair",
+        },
+    )
+
+    assert response.status_code == 200
+
+    data = response.get_json()
+
+    session_id = data["search_id"]
+
+    repository = app.extensions[
+        "search_session_repository"
+    ]
+
+    session = repository.get(session_id)
+
+    assert session is not None
+
+    assert len(session.conversation_history) == 2
+
+    assert (
+        session.conversation_history[0].role
+        == MessageRole.USER
+    )
+
+    assert (
+        session.conversation_history[1].role
+        == MessageRole.ASSISTANT
+    )
 
 
 def test_search_api_returns_normalized_place_fields(client):
@@ -301,3 +342,52 @@ def test_place_photo_handles_provider_failure(
             ),
         }
     }
+
+
+def test_search_api_uses_assistant_intent_for_places(
+    app,
+    client,
+):
+    assistant_provider = Mock()
+    assistant_provider.parse_search_intent.return_value = SearchIntent(
+        original_query="Find somewhere quiet to study",
+        search_query="quiet cafe",
+    )
+    assistant_provider.generate_search_response.return_value = (
+        "I found no matching places."
+    )
+
+    places_provider = Mock()
+    places_provider.search.return_value = []
+
+    app.extensions["assistant_provider"] = assistant_provider
+    app.extensions["places_provider"] = places_provider
+
+    response = client.post(
+        "/api/v1/search",
+        json={
+            "query": "Find somewhere quiet to study",
+        },
+    )
+
+    assert response.status_code == 200
+    assert response.get_json()["query"] == (
+        "Find somewhere quiet to study"
+    )
+    assert response.get_json()["assistant_response"] == (
+        "I found no matching places."
+    )
+
+    assistant_provider.parse_search_intent.assert_called_once_with(
+        "Find somewhere quiet to study"
+    )
+    assistant_provider.generate_search_response.assert_called_once_with(
+        query="Find somewhere quiet to study",
+        places=[],
+    )
+
+    places_provider.search.assert_called_once_with(
+        query="quiet cafe",
+        latitude=None,
+        longitude=None,
+    )

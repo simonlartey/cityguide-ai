@@ -13,6 +13,7 @@ def reload_config(monkeypatch, **environment):
 
     variable_names = (
         "PLACES_PROVIDER",
+        "ASSISTANT_PROVIDER",
         "PLACES_API_KEY",
         "PLACES_REQUEST_TIMEOUT_SECONDS",
     )
@@ -43,3 +44,18 @@ def test_places_configuration_reads_environment(monkeypatch):
     assert config_class.PLACES_PROVIDER == "live"
     assert config_class.PLACES_API_KEY == "test-api-key"
     assert config_class.PLACES_REQUEST_TIMEOUT_SECONDS == 5.5
+
+
+def test_assistant_provider_defaults_to_fake(monkeypatch):
+    config_class = reload_config(monkeypatch)
+
+    assert config_class.ASSISTANT_PROVIDER == "fake"
+
+
+def test_assistant_provider_reads_environment(monkeypatch):
+    config_class = reload_config(
+        monkeypatch,
+        ASSISTANT_PROVIDER="FAKE",
+    )
+
+    assert config_class.ASSISTANT_PROVIDER == "fake"

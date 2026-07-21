@@ -1,7 +1,12 @@
 from flask import Flask
 
 from app.extensions import db, migrate
+from app.providers.assistant.factory import create_assistant_provider
 from app.providers.places.factory import create_places_provider
+from app.repositories.in_memory_search_session import (
+    InMemorySearchSessionRepository,
+)
+from app.services.conversation_manager import ConversationManager
 from config import Config
 
 
@@ -10,6 +15,20 @@ def create_app(config_class=Config):
 
     app = Flask(__name__)
     app.config.from_object(config_class)
+
+    app.extensions[
+        "search_session_repository"
+    ] = InMemorySearchSessionRepository()
+
+    app.extensions[
+        "conversation_manager"
+    ] = ConversationManager(
+        app.extensions["search_session_repository"]
+    )
+
+    app.extensions["assistant_provider"] = create_assistant_provider(
+        app.config
+    )
 
     app.extensions["places_provider"] = create_places_provider(
         app.config

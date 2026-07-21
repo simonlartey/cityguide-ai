@@ -1,3 +1,4 @@
+from app.models.search_intent import SearchIntent
 from app.schemas.search import SearchLocation, SearchRequest
 from app.services.search_service import SearchService
 
@@ -41,6 +42,49 @@ class StaticPlacesProvider:
         longitude: float | None = None,
     ) -> list[dict]:
         return self.places
+
+
+class RecordingAssistantProvider:
+    """Test assistant provider that records and rewrites query intent."""
+
+    def __init__(self):
+        self.received_query = None
+        self.response_query = None
+        self.response_places = None
+
+    def parse_search_intent(
+        self,
+        query: str,
+    ) -> SearchIntent:
+        self.received_query = query
+
+        return SearchIntent(
+            original_query=query,
+            search_query="quiet cafe",
+        )
+
+    def generate_search_response(
+        self,
+        query: str,
+        places: list[dict],
+    ) -> str:
+        self.response_query = query
+        self.response_places = places
+
+        return "Campus Cafe is the strongest match."
+
+
+class RecordingConversationManager:
+    def __init__(self):
+        self.arguments = None
+
+    def start_session(self, **kwargs):
+        self.arguments = kwargs
+
+        class Session:
+            session_id = "session-123"
+
+        return Session()
 
 
 def test_search_service_returns_expected_response():
@@ -197,3 +241,169 @@ def test_search_service_reports_count_after_ranking():
     )
 
     assert response["result_count"] == 2
+
+
+def test_search_service_parses_query_with_assistant_provider():
+    places_provider = RecordingPlacesProvider()
+    assistant_provider = RecordingAssistantProvider()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+    )
+
+    service.search(
+        SearchRequest(query="Find somewhere quiet to study")
+    )
+
+    assert assistant_provider.received_query == (
+        "Find somewhere quiet to study"
+    )
+
+
+def test_search_service_uses_intent_search_query_for_places():
+    places_provider = RecordingPlacesProvider()
+    assistant_provider = RecordingAssistantProvider()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+    )
+
+    response = service.search(
+        SearchRequest(query="Find somewhere quiet to study")
+    )
+
+    assert places_provider.received_query == "quiet cafe"
+    assert response["query"] == "Find somewhere quiet to study"
+
+
+def test_search_service_falls_back_when_assistant_intent_fails():
+    class BrokenAssistantProvider:
+        def parse_search_intent(self, query):
+            raise Exception("AI unavailable")
+
+        def generate_search_response(self, query, places):
+            return None
+
+    service = SearchService(
+        places_provider=RecordingPlacesProvider(),
+        assistant_provider=BrokenAssistantProvider(),
+    )
+
+    response = service.search(
+        SearchRequest(query="quiet cafe")
+    )
+
+    assert response["query"] == "quiet cafe"
+
+
+def test_search_service_returns_results_when_response_generation_fails():
+    class BrokenAssistantProvider(RecordingAssistantProvider):
+        def generate_search_response(self, query, places):
+            raise Exception("AI unavailable")
+
+    service = SearchService(
+        places_provider=RecordingPlacesProvider(),
+        assistant_provider=BrokenAssistantProvider(),
+    )
+
+    response = service.search(
+        SearchRequest(query="coffee")
+    )
+
+    assert response["assistant_response"] is None
+
+
+def test_search_service_generates_response_from_ranked_places():
+    places_provider = StaticPlacesProvider(
+        [
+            {
+                "id": "popular-grill",
+                "name": "Popular Downtown Grill",
+                "category": "Restaurant",
+                "primary_type": "restaurant",
+                "types": [
+                    "restaurant",
+                    "food",
+                ],
+            },
+            {
+                "id": "lagos-kitchen",
+                "name": "Lagos Kitchen",
+                "category": "African restaurant",
+                "primary_type": "african_restaurant",
+                "types": [
+                    "african_restaurant",
+                    "restaurant",
+                    "food",
+                ],
+            },
+        ]
+    )
+    assistant_provider = RecordingAssistantProvider()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+    )
+
+    response = service.search(
+        SearchRequest(query="African restaurant near me")
+    )
+
+    assert assistant_provider.response_query == (
+        "African restaurant near me"
+    )
+    assert [
+        place["id"]
+        for place in assistant_provider.response_places
+    ] == [
+        "lagos-kitchen",
+        "popular-grill",
+    ]
+    assert response["assistant_response"] == (
+        "Campus Cafe is the strongest match."
+    )
+
+
+def test_search_service_returns_no_assistant_response_without_provider():
+    service = SearchService(
+        RecordingPlacesProvider()
+    )
+
+    response = service.search(
+        SearchRequest(query="Coffee")
+    )
+
+    assert response["assistant_response"] is None
+
+
+def test_search_service_creates_conversation_session():
+    places_provider = RecordingPlacesProvider()
+    assistant_provider = RecordingAssistantProvider()
+    conversation_manager = RecordingConversationManager()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+        conversation_manager=conversation_manager,
+    )
+
+    response = service.search(
+        SearchRequest(
+            query="Find somewhere quiet to study"
+        )
+    )
+
+    assert response["search_id"] == "session-123"
+
+    assert (
+        conversation_manager.arguments["original_query"]
+        == "Find somewhere quiet to study"
+    )
+
+    assert (
+        conversation_manager.arguments["assistant_response"]
+        == "Campus Cafe is the strongest match."
+    )

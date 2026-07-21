@@ -47,8 +47,16 @@ def search_places():
         ), 400
 
     places_provider = current_app.extensions["places_provider"]
+    assistant_provider = current_app.extensions["assistant_provider"]
+    conversation_manager = current_app.extensions[
+        "conversation_manager"
+    ]
 
-    service = SearchService(places_provider)
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+        conversation_manager=conversation_manager,
+    )
 
     try:
         response = service.search(search_request)
