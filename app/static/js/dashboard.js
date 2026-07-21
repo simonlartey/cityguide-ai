@@ -35,6 +35,12 @@ const SELECTORS = {
   placeGallery: "[data-place-gallery]",
   placePhotoAttribution:
     "[data-place-photo-attribution]",
+  placeDirectionsAction:
+    "[data-place-directions-action]",
+  placeCallAction:
+    "[data-place-call-action]",
+  placeWebsiteAction:
+    "[data-place-website-action]",
 };
 
 let PLACES = {};
@@ -229,6 +235,151 @@ const formatOpenStatus = (openNow) => {
   }
 
   return "Hours unavailable";
+};
+
+const buildDirectionsUrl = (place) => {
+  if (
+    typeof place.maps_url === "string" &&
+    place.maps_url.trim()
+  ) {
+    return place.maps_url;
+  }
+
+  if (
+    typeof place.latitude === "number" &&
+    typeof place.longitude === "number"
+  ) {
+    const destination =
+      `${place.latitude},${place.longitude}`;
+
+    return (
+      "https://www.google.com/maps/dir/?" +
+      new URLSearchParams({
+        api: "1",
+        destination,
+      }).toString()
+    );
+  }
+
+  return null;
+};
+
+const buildPhoneUrl = (phone) => {
+  if (typeof phone !== "string" || !phone.trim()) {
+    return null;
+  }
+
+  const normalizedPhone = phone.replace(
+    /[^\d+]/g,
+    ""
+  );
+
+  return normalizedPhone
+    ? `tel:${normalizedPhone}`
+    : null;
+};
+
+const buildWebsiteUrl = (website) => {
+  if (typeof website !== "string" || !website.trim()) {
+    return null;
+  }
+
+  try {
+    const url = new URL(website);
+
+    return ["http:", "https:"].includes(url.protocol)
+      ? url.toString()
+      : null;
+  } catch {
+    return null;
+  }
+};
+
+const createPlaceAction = ({
+  iconName,
+  label,
+  url,
+}) => {
+  if (!url) {
+    const button = document.createElement("button");
+
+    button.type = "button";
+    button.disabled = true;
+    button.setAttribute(
+      "aria-label",
+      `${label} unavailable`
+    );
+
+    const icon = document.createElement("span");
+    icon.setAttribute("aria-hidden", "true");
+    icon.setAttribute("data-lucide", iconName);
+
+    button.append(
+      icon,
+      document.createTextNode(label)
+    );
+
+    return button;
+  }
+
+  const link = document.createElement("a");
+
+  link.href = url;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.setAttribute("aria-label", label);
+
+  if (url.startsWith("tel:")) {
+    link.removeAttribute("target");
+    link.removeAttribute("rel");
+  }
+
+  const icon = document.createElement("span");
+  icon.setAttribute("aria-hidden", "true");
+  icon.setAttribute("data-lucide", iconName);
+
+  link.append(
+    icon,
+    document.createTextNode(label)
+  );
+
+  return link;
+};
+
+const updatePlaceAction = (
+  element,
+  {
+    url,
+    label,
+    openInNewTab = true,
+  }
+) => {
+  if (!element) {
+    return;
+  }
+
+  element.setAttribute("aria-label", label);
+
+  if (!url) {
+    element.removeAttribute("href");
+    element.removeAttribute("target");
+    element.removeAttribute("rel");
+    element.setAttribute("aria-disabled", "true");
+    element.tabIndex = -1;
+    return;
+  }
+
+  element.href = url;
+  element.removeAttribute("aria-disabled");
+  element.tabIndex = 0;
+
+  if (openInNewTab) {
+    element.target = "_blank";
+    element.rel = "noopener noreferrer";
+  } else {
+    element.removeAttribute("target");
+    element.removeAttribute("rel");
+  }
 };
 
 const buildPlacePhotoUrl = (
@@ -484,21 +635,23 @@ const createRecommendationCard = (place, index) => {
   const actions = document.createElement("div");
   actions.className = "recommendation-actions";
 
-  [
-    ["navigation", "Directions"],
-    ["phone", "Call"],
-    ["globe-2", "Website"],
-  ].forEach(([iconName, label]) => {
-    const button = document.createElement("button");
-    button.type = "button";
-
-    const icon = document.createElement("span");
-    icon.setAttribute("aria-hidden", "true");
-    icon.setAttribute("data-lucide", iconName);
-
-    button.append(icon, document.createTextNode(label));
-    actions.append(button);
-  });
+  actions.append(
+    createPlaceAction({
+      iconName: "navigation",
+      label: `Directions to ${place.name}`,
+      url: buildDirectionsUrl(place),
+    }),
+    createPlaceAction({
+      iconName: "phone",
+      label: `Call ${place.name}`,
+      url: buildPhoneUrl(place.phone),
+    }),
+    createPlaceAction({
+      iconName: "globe-2",
+      label: `Visit ${place.name} website`,
+      url: buildWebsiteUrl(place.website),
+    })
+  );
 
   card.append(image, copy, actions);
 
@@ -869,6 +1022,37 @@ const updatePlaceDetails = (placeId) => {
   document.querySelector("[data-place-hours]").textContent =
     place.hours || "Hours unavailable";
 
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeDirectionsAction
+    ),
+    {
+      url: buildDirectionsUrl(place),
+      label: `Get directions to ${place.name}`,
+    }
+  );
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeCallAction
+    ),
+    {
+      url: buildPhoneUrl(place.phone),
+      label: `Call ${place.name}`,
+      openInNewTab: false,
+    }
+  );
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeWebsiteAction
+    ),
+    {
+      url: buildWebsiteUrl(place.website),
+      label: `Visit ${place.name} website`,
+    }
+  );
+
   const hero = document.querySelector(
     SELECTORS.placeHero
   );
@@ -976,6 +1160,37 @@ const clearSelectedPlaceDetails = () => {
     attribution.textContent = "";
     attribution.hidden = true;
   }
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeDirectionsAction
+    ),
+    {
+      url: null,
+      label: "Directions unavailable",
+    }
+  );
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeCallAction
+    ),
+    {
+      url: null,
+      label: "Phone number unavailable",
+      openInNewTab: false,
+    }
+  );
+
+  updatePlaceAction(
+    document.querySelector(
+      SELECTORS.placeWebsiteAction
+    ),
+    {
+      url: null,
+      label: "Website unavailable",
+    }
+  );
 };
 
 const selectPlace = (placeId) => {

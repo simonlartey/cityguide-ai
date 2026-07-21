@@ -654,29 +654,39 @@
             </div>
 
             <div class="place-primary-actions">
-              <button type="button" class="place-primary-action">
+              <a
+                class="place-primary-action"
+                data-place-directions-action
+                aria-disabled="true"
+              >
                 <span
                   aria-hidden="true"
                   data-lucide="navigation"
                 ></span>
                 Directions
-              </button>
+              </a>
 
-              <button type="button">
+              <a
+                data-place-call-action
+                aria-disabled="true"
+              >
                 <span
                   aria-hidden="true"
                   data-lucide="phone"
                 ></span>
                 Call
-              </button>
+              </a>
 
-              <button type="button">
+              <a
+                data-place-website-action
+                aria-disabled="true"
+              >
                 <span
                   aria-hidden="true"
                   data-lucide="globe-2"
                 ></span>
                 Website
-              </button>
+              </a>
 
               <button type="button">
                 <span

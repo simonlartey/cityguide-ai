@@ -1084,7 +1084,8 @@ svg {
   gap: 7px;
 }
 
-.recommendation-actions button {
+.recommendation-actions button,
+.recommendation-actions a {
   display: inline-flex;
   min-height: 36px;
   align-items: center;
@@ -1101,10 +1102,21 @@ svg {
     background-color 160ms ease;
 }
 
-.recommendation-actions button:hover {
+.recommendation-actions button:hover,
+.recommendation-actions a:hover {
   color: white;
   background: var(--dashboard-accent-soft);
   border-color: rgba(201, 137, 43, 0.27);
+}
+
+.recommendation-actions button:disabled,
+.recommendation-actions a[aria-disabled="true"] {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.recommendation-actions a[aria-disabled="true"] {
+  pointer-events: none;
 }
 
 .recommendation-actions svg {
@@ -1450,7 +1462,8 @@ svg {
   margin-top: 18px;
 }
 
-.place-primary-actions button {
+.place-primary-actions button,
+.place-primary-actions a {
   display: inline-flex;
   min-height: 39px;
   align-items: center;
@@ -1473,6 +1486,11 @@ svg {
       var(--dashboard-accent)
     );
   border-color: transparent;
+}
+
+.place-primary-actions a[aria-disabled="true"] {
+  opacity: 0.45;
+  pointer-events: none;
 }
 
 .place-match-reasons,
@@ -1770,7 +1788,8 @@ svg {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .recommendation-actions button {
+  .recommendation-actions button,
+  .recommendation-actions a {
     justify-content: center;
   }
 
