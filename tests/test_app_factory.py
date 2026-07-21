@@ -3,6 +3,9 @@ from app.providers.assistant.fake_provider import (
     FakeAssistantProvider,
 )
 from app.providers.places.mock_provider import MockPlacesProvider
+from app.repositories.in_memory_search_session import (
+    InMemorySearchSessionRepository,
+)
 from tests.conftest import TestConfig
 
 
@@ -28,4 +31,13 @@ def test_create_app_registers_configured_assistant_provider():
     assert isinstance(
         app.extensions["assistant_provider"],
         FakeAssistantProvider,
+    )
+
+
+def test_create_app_registers_search_session_repository():
+    app = create_app(MockProviderConfig)
+
+    assert isinstance(
+        app.extensions["search_session_repository"],
+        InMemorySearchSessionRepository,
     )
