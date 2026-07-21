@@ -23,6 +23,43 @@ class PlaceRelevanceRanker:
         "with",
     }
 
+    QUERY_SYNONYM_GROUPS = (
+        {
+            "affordable",
+            "budget",
+            "cheap",
+            "inexpensive",
+        },
+        {
+            "barber",
+            "barbershop",
+            "fade",
+            "hair",
+        },
+        {
+            "cafe",
+            "coffee",
+            "coffeehouse",
+        },
+        {
+            "grocery",
+            "groceries",
+            "market",
+            "supermarket",
+        },
+        {
+            "peaceful",
+            "quiet",
+            "study",
+            "workspace",
+        },
+        {
+            "dining",
+            "food",
+            "restaurant",
+        },
+    )
+
     def rank(
         self,
         query: str,
@@ -30,7 +67,7 @@ class PlaceRelevanceRanker:
     ) -> list[dict]:
         """Return places ordered from most to least relevant."""
 
-        query_terms = self._tokenize(query)
+        query_terms = self._query_terms(query)
 
         return sorted(
             places,
@@ -47,7 +84,7 @@ class PlaceRelevanceRanker:
     ) -> int:
         """Calculate a deterministic relevance score for one place."""
 
-        query_terms = self._tokenize(query)
+        query_terms = self._query_terms(query)
 
         if not query_terms:
             return 0
@@ -134,6 +171,16 @@ class PlaceRelevanceRanker:
             terms.update(self._tokenize(value))
 
         return terms
+
+    def _query_terms(self, query: object) -> set[str]:
+        terms = self._tokenize(query)
+        expanded_terms = set(terms)
+
+        for synonym_group in self.QUERY_SYNONYM_GROUPS:
+            if terms & synonym_group:
+                expanded_terms.update(synonym_group)
+
+        return expanded_terms
 
     def _tokenize(self, value: object) -> set[str]:
         if not isinstance(value, str):
