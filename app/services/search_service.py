@@ -4,6 +4,7 @@ from app.models.search_intent import SearchIntent
 from app.providers.assistant.base import AssistantProvider
 from app.providers.places.base import PlacesProvider
 from app.schemas.search import SearchRequest
+from app.services.conversation_manager import ConversationManager
 from app.services.place_relevance_ranker import (
     PlaceRelevanceRanker,
 )
@@ -16,10 +17,12 @@ class SearchService:
         self,
         places_provider: PlacesProvider,
         assistant_provider: AssistantProvider | None = None,
+        conversation_manager: ConversationManager | None = None,
         relevance_ranker: PlaceRelevanceRanker | None = None,
     ):
         self.places_provider = places_provider
         self.assistant_provider = assistant_provider
+        self.conversation_manager = conversation_manager
         self.relevance_ranker = (
             relevance_ranker or PlaceRelevanceRanker()
         )
@@ -50,8 +53,23 @@ class SearchService:
             places=ranked_results,
         )
 
+        session = None
+
+        if self.conversation_manager is not None:
+            session = self.conversation_manager.start_session(
+                original_query=search_request.query,
+                intent=intent,
+                places=results,
+                ranked_places=ranked_results,
+                assistant_response=assistant_response,
+            )
+
         return {
-            "search_id": f"search_{uuid4().hex}",
+            "search_id": (
+                session.session_id
+                if session is not None
+                else f"search_{uuid4().hex}"
+            ),
             "query": search_request.query,
             "result_count": len(ranked_results),
             "results": ranked_results,

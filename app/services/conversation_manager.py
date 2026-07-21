@@ -21,6 +21,7 @@ class ConversationManager:
         intent: SearchIntent,
         places: list[dict[str, Any]],
         ranked_places: list[dict[str, Any]],
+        assistant_response: str | None = None,
     ) -> SearchSession:
         session = SearchSession(
             original_query=original_query,
@@ -33,6 +34,12 @@ class ConversationManager:
             role=MessageRole.USER,
             content=original_query,
         )
+
+        if assistant_response:
+            session.add_message(
+                role=MessageRole.ASSISTANT,
+                content=assistant_response,
+            )
 
         self.session_repository.save(session)
 

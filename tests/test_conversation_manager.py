@@ -90,3 +90,28 @@ def test_get_session_returns_none_for_unknown_id():
     )
 
     assert manager.get_session("missing-session") is None
+
+
+def test_start_session_records_assistant_response():
+    manager = ConversationManager(
+        InMemorySearchSessionRepository()
+    )
+
+    session = manager.start_session(
+        original_query="Find a quiet cafe",
+        intent=create_intent(),
+        places=[],
+        ranked_places=[],
+        assistant_response="Campus Cafe is the best option.",
+    )
+
+    assert session.conversation_history == [
+        ConversationMessage(
+            role=MessageRole.USER,
+            content="Find a quiet cafe",
+        ),
+        ConversationMessage(
+            role=MessageRole.ASSISTANT,
+            content="Campus Cafe is the best option.",
+        ),
+    ]

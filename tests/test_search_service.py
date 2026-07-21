@@ -74,6 +74,19 @@ class RecordingAssistantProvider:
         return "Campus Cafe is the strongest match."
 
 
+class RecordingConversationManager:
+    def __init__(self):
+        self.arguments = None
+
+    def start_session(self, **kwargs):
+        self.arguments = kwargs
+
+        class Session:
+            session_id = "session-123"
+
+        return Session()
+
+
 def test_search_service_returns_expected_response():
     provider = RecordingPlacesProvider()
     service = SearchService(provider)
@@ -327,3 +340,33 @@ def test_search_service_returns_no_assistant_response_without_provider():
     )
 
     assert response["assistant_response"] is None
+
+
+def test_search_service_creates_conversation_session():
+    places_provider = RecordingPlacesProvider()
+    assistant_provider = RecordingAssistantProvider()
+    conversation_manager = RecordingConversationManager()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+        conversation_manager=conversation_manager,
+    )
+
+    response = service.search(
+        SearchRequest(
+            query="Find somewhere quiet to study"
+        )
+    )
+
+    assert response["search_id"] == "session-123"
+
+    assert (
+        conversation_manager.arguments["original_query"]
+        == "Find somewhere quiet to study"
+    )
+
+    assert (
+        conversation_manager.arguments["assistant_response"]
+        == "Campus Cafe is the strongest match."
+    )
