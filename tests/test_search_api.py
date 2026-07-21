@@ -1,5 +1,6 @@
 from unittest.mock import Mock
 
+from app.models.search_intent import SearchIntent
 from app.providers.places.errors import PlacesProviderError
 
 
@@ -301,3 +302,42 @@ def test_place_photo_handles_provider_failure(
             ),
         }
     }
+
+
+def test_search_api_uses_assistant_intent_for_places(
+    app,
+    client,
+):
+    assistant_provider = Mock()
+    assistant_provider.parse_search_intent.return_value = SearchIntent(
+        original_query="Find somewhere quiet to study",
+        search_query="quiet cafe",
+    )
+
+    places_provider = Mock()
+    places_provider.search.return_value = []
+
+    app.extensions["assistant_provider"] = assistant_provider
+    app.extensions["places_provider"] = places_provider
+
+    response = client.post(
+        "/api/v1/search",
+        json={
+            "query": "Find somewhere quiet to study",
+        },
+    )
+
+    assert response.status_code == 200
+    assert response.get_json()["query"] == (
+        "Find somewhere quiet to study"
+    )
+
+    assistant_provider.parse_search_intent.assert_called_once_with(
+        "Find somewhere quiet to study"
+    )
+
+    places_provider.search.assert_called_once_with(
+        query="quiet cafe",
+        latitude=None,
+        longitude=None,
+    )
