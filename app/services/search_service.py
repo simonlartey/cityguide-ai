@@ -45,11 +45,17 @@ class SearchService:
             places=results,
         )
 
+        assistant_response = self._generate_search_response(
+            query=search_request.query,
+            places=ranked_results,
+        )
+
         return {
             "search_id": f"search_{uuid4().hex}",
             "query": search_request.query,
             "result_count": len(ranked_results),
             "results": ranked_results,
+            "assistant_response": assistant_response,
         }
 
     def _parse_search_intent(
@@ -62,4 +68,17 @@ class SearchService:
         return SearchIntent(
             original_query=query,
             search_query=query,
+        )
+
+    def _generate_search_response(
+        self,
+        query: str,
+        places: list[dict],
+    ) -> str | None:
+        if self.assistant_provider is None:
+            return None
+
+        return self.assistant_provider.generate_search_response(
+            query=query,
+            places=places,
         )

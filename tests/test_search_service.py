@@ -49,6 +49,8 @@ class RecordingAssistantProvider:
 
     def __init__(self):
         self.received_query = None
+        self.response_query = None
+        self.response_places = None
 
     def parse_search_intent(
         self,
@@ -66,7 +68,10 @@ class RecordingAssistantProvider:
         query: str,
         places: list[dict],
     ) -> str:
-        raise NotImplementedError
+        self.response_query = query
+        self.response_places = places
+
+        return "Campus Cafe is the strongest match."
 
 
 def test_search_service_returns_expected_response():
@@ -258,3 +263,67 @@ def test_search_service_uses_intent_search_query_for_places():
 
     assert places_provider.received_query == "quiet cafe"
     assert response["query"] == "Find somewhere quiet to study"
+
+
+def test_search_service_generates_response_from_ranked_places():
+    places_provider = StaticPlacesProvider(
+        [
+            {
+                "id": "popular-grill",
+                "name": "Popular Downtown Grill",
+                "category": "Restaurant",
+                "primary_type": "restaurant",
+                "types": [
+                    "restaurant",
+                    "food",
+                ],
+            },
+            {
+                "id": "lagos-kitchen",
+                "name": "Lagos Kitchen",
+                "category": "African restaurant",
+                "primary_type": "african_restaurant",
+                "types": [
+                    "african_restaurant",
+                    "restaurant",
+                    "food",
+                ],
+            },
+        ]
+    )
+    assistant_provider = RecordingAssistantProvider()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+    )
+
+    response = service.search(
+        SearchRequest(query="African restaurant near me")
+    )
+
+    assert assistant_provider.response_query == (
+        "African restaurant near me"
+    )
+    assert [
+        place["id"]
+        for place in assistant_provider.response_places
+    ] == [
+        "lagos-kitchen",
+        "popular-grill",
+    ]
+    assert response["assistant_response"] == (
+        "Campus Cafe is the strongest match."
+    )
+
+
+def test_search_service_returns_no_assistant_response_without_provider():
+    service = SearchService(
+        RecordingPlacesProvider()
+    )
+
+    response = service.search(
+        SearchRequest(query="Coffee")
+    )
+
+    assert response["assistant_response"] is None

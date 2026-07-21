@@ -313,6 +313,9 @@ def test_search_api_uses_assistant_intent_for_places(
         original_query="Find somewhere quiet to study",
         search_query="quiet cafe",
     )
+    assistant_provider.generate_search_response.return_value = (
+        "I found no matching places."
+    )
 
     places_provider = Mock()
     places_provider.search.return_value = []
@@ -331,9 +334,16 @@ def test_search_api_uses_assistant_intent_for_places(
     assert response.get_json()["query"] == (
         "Find somewhere quiet to study"
     )
+    assert response.get_json()["assistant_response"] == (
+        "I found no matching places."
+    )
 
     assistant_provider.parse_search_intent.assert_called_once_with(
         "Find somewhere quiet to study"
+    )
+    assistant_provider.generate_search_response.assert_called_once_with(
+        query="Find somewhere quiet to study",
+        places=[],
     )
 
     places_provider.search.assert_called_once_with(
