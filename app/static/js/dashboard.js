@@ -39,6 +39,7 @@ const SELECTORS = {
 
 let PLACES = {};
 let latestSearchRequestId = 0;
+let latestHeroPhotoRequestId = 0;
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
@@ -671,7 +672,19 @@ const createPlaceGalleryThumbnail = (
   image.decoding = "async";
 
   image.addEventListener("error", () => {
+    const wasActive = thumbnail.classList.contains(
+      "place-gallery-thumbnail--active"
+    );
+
     thumbnail.remove();
+
+    if (wasActive) {
+      const nextThumbnail = document.querySelector(
+        ".place-gallery-thumbnail"
+      );
+
+      nextThumbnail?.click();
+    }
   });
 
   thumbnail.append(image);
@@ -692,6 +705,7 @@ const updateSelectedPlacePhoto = (
   photo,
   activeIndex = 0
 ) => {
+  const requestId = ++latestHeroPhotoRequestId;
   const hero = document.querySelector(
     SELECTORS.placeHero
   );
@@ -718,18 +732,22 @@ const updateSelectedPlacePhoto = (
     });
 
   if (!photoUrl) {
+    if (requestId !== latestHeroPhotoRequestId) {
+      return;
+    }
+
     heroPhoto.hidden = true;
     heroPhoto.removeAttribute("src");
+    heroPhoto.alt = "";
     hero.classList.remove("place-hero--has-photo");
     attribution.hidden = true;
     attribution.textContent = "";
     return;
   }
 
-  heroPhoto.src = photoUrl;
+  heroPhoto.hidden = true;
   heroPhoto.alt = `${place.name} location`;
-  heroPhoto.hidden = false;
-  hero.classList.add("place-hero--has-photo");
+  heroPhoto.src = photoUrl;
 
   const attributionNames =
     getPhotoAttributionNames(photo);
@@ -743,9 +761,23 @@ const updateSelectedPlacePhoto = (
     attribution.hidden = true;
   }
 
+  heroPhoto.onload = () => {
+    if (requestId !== latestHeroPhotoRequestId) {
+      return;
+    }
+
+    heroPhoto.hidden = false;
+    hero.classList.add("place-hero--has-photo");
+  };
+
   heroPhoto.onerror = () => {
+    if (requestId !== latestHeroPhotoRequestId) {
+      return;
+    }
+
     heroPhoto.hidden = true;
     heroPhoto.removeAttribute("src");
+    heroPhoto.alt = "";
     hero.classList.remove("place-hero--has-photo");
     attribution.hidden = true;
     attribution.textContent = "";
@@ -761,7 +793,13 @@ const renderSelectedPlacePhotos = (place) => {
     return;
   }
 
-  const photos = place.photos.slice(0, 4);
+  const photos = place.photos
+    .filter(
+      (photo) =>
+        typeof photo?.name === "string" &&
+        photo.name.trim().length > 0
+    )
+    .slice(0, 4);
 
   gallery.replaceChildren(
     ...photos.map((photo, index) =>
@@ -867,6 +905,8 @@ const updatePlaceDetails = (placeId) => {
 };
 
 const clearSelectedPlaceDetails = () => {
+  latestHeroPhotoRequestId += 1;
+
   const name = document.querySelector("[data-place-name]");
   const rating = document.querySelector("[data-place-rating]");
   const distance = document.querySelector("[data-place-distance]");
