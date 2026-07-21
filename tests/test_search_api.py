@@ -450,3 +450,77 @@ def test_get_search_session_returns_404_for_missing_session(
     assert response.get_json()["error"]["code"] == (
         "search_session_not_found"
     )
+
+
+def test_continue_search_returns_response(
+    app,
+    client,
+):
+    search_response = client.post(
+        "/api/v1/search",
+        json={
+            "query": "Affordable barber for textured hair",
+        },
+    )
+
+    assert search_response.status_code == 200
+
+    session_id = search_response.get_json()["search_id"]
+
+    response = client.post(
+        f"/api/v1/search/{session_id}/continue",
+        json={
+            "message": "Which one is cheaper?",
+        },
+    )
+
+    assert response.status_code == 200
+
+    data = response.get_json()
+
+    assert data["session_id"] == session_id
+    assert data["response"].startswith(
+        "You asked: Which one is cheaper?. "
+    )
+    assert "I can help compare these options:" in data[
+        "response"
+    ]
+
+    repository = app.extensions[
+        "search_session_repository"
+    ]
+
+    session = repository.get(session_id)
+    assert session is not None
+    assert len(session.conversation_history) == 4
+
+
+def test_continue_search_requires_message(
+    app,
+    client,
+):
+    conversation_manager = app.extensions[
+        "conversation_manager"
+    ]
+
+    session = conversation_manager.start_session(
+        original_query="Find a quiet cafe",
+        intent=SearchIntent(
+            original_query="Find a quiet cafe",
+            search_query="quiet cafe",
+        ),
+        places=[],
+        ranked_places=[],
+        assistant_response="Campus Cafe is a good option.",
+    )
+
+    response = client.post(
+        f"/api/v1/search/{session.session_id}/continue",
+        json={},
+    )
+
+    assert response.status_code == 400
+
+    assert response.get_json()["error"]["code"] == (
+        "invalid_message"
+    )

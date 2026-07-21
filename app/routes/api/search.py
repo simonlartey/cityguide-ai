@@ -106,6 +106,72 @@ def get_search_session(session_id: str):
     return jsonify(session), 200
 
 
+@search_api_bp.post("/search/<session_id>/continue")
+def continue_search(session_id: str):
+    """Continue an existing search conversation."""
+
+    conversation_manager = current_app.extensions[
+        "conversation_manager"
+    ]
+
+    assistant_provider = current_app.extensions[
+        "assistant_provider"
+    ]
+
+    data = request.get_json(silent=True) or {}
+
+    message = data.get("message")
+
+    if not isinstance(message, str) or not message.strip():
+        return jsonify(
+            {
+                "error": {
+                    "code": "invalid_message",
+                    "message": (
+                        "Conversation message must be a non-empty string."
+                    ),
+                }
+            }
+        ), 400
+
+    session = conversation_manager.get_session(
+        session_id
+    )
+
+    if session is None:
+        return jsonify(
+            {
+                "error": {
+                    "code": "search_session_not_found",
+                    "message": "Session does not exist.",
+                }
+            }
+        ), 404
+
+    history = conversation_manager.get_conversation_history(
+        session_id
+    ) or []
+
+    response = assistant_provider.continue_conversation(
+        history=history,
+        message=message,
+        places=session.ranked_places,
+    )
+
+    conversation_manager.continue_session(
+        session_id=session_id,
+        user_message=message,
+        assistant_response=response,
+    )
+
+    return jsonify(
+        {
+            "session_id": session_id,
+            "response": response,
+        }
+    ), 200
+
+
 @search_api_bp.get("/place-photo")
 def get_place_photo():
     """Resolve a Google Places photo without exposing the API key."""

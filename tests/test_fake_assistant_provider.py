@@ -86,3 +86,33 @@ def test_generate_response_handles_missing_names():
     assert response == (
         "I found 2 matching places, but their names are unavailable."
     )
+
+
+def test_continue_conversation_returns_follow_up_response():
+    provider = FakeAssistantProvider()
+
+    response = provider.continue_conversation(
+        history=[
+            {
+                "role": "user",
+                "content": "Find a quiet cafe",
+            },
+            {
+                "role": "assistant",
+                "content": "Campus Cafe is the best option.",
+            },
+        ],
+        message="Which one is cheaper?",
+        places=[
+            {
+                "id": "place-1",
+                "name": "Campus Cafe",
+            }
+        ],
+    )
+
+    assert response == (
+        "You asked: Which one is cheaper?. "
+        "I can help compare these options: "
+        "Campus Cafe."
+    )

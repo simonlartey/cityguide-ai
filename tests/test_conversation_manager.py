@@ -169,3 +169,85 @@ def test_get_session_details_returns_serialized_session():
             "name": "Campus Cafe",
         }
     ]
+
+
+def test_continue_session_adds_messages():
+    repository = InMemorySearchSessionRepository()
+    manager = ConversationManager(repository)
+
+    session = manager.start_session(
+        original_query="Find a quiet cafe",
+        intent=create_intent(),
+        places=[],
+        ranked_places=[],
+        assistant_response="Campus Cafe is the best option.",
+    )
+
+    assert [
+        message.role
+        for message in session.conversation_history
+    ] == [
+        MessageRole.USER,
+        MessageRole.ASSISTANT,
+    ]
+
+    updated_session = manager.continue_session(
+        session_id=session.session_id,
+        user_message="Which one is cheaper?",
+        assistant_response="Campus Cafe is typically cheaper.",
+    )
+
+    assert updated_session is not None
+
+    assert [
+        message.role
+        for message in updated_session.conversation_history
+    ] == [
+        MessageRole.USER,
+        MessageRole.ASSISTANT,
+        MessageRole.USER,
+        MessageRole.ASSISTANT,
+    ]
+
+
+def test_get_conversation_history_returns_serialized_messages():
+    manager = ConversationManager(
+        InMemorySearchSessionRepository()
+    )
+
+    session = manager.start_session(
+        original_query="Find a quiet cafe",
+        intent=create_intent(),
+        places=[],
+        ranked_places=[],
+        assistant_response="Campus Cafe is the best option.",
+    )
+
+    manager.continue_session(
+        session_id=session.session_id,
+        user_message="Which one is cheaper?",
+        assistant_response="Campus Cafe is typically cheaper.",
+    )
+
+    history = manager.get_conversation_history(
+        session.session_id
+    )
+
+    assert history == [
+        {
+            "role": "user",
+            "content": "Find a quiet cafe",
+        },
+        {
+            "role": "assistant",
+            "content": "Campus Cafe is the best option.",
+        },
+        {
+            "role": "user",
+            "content": "Which one is cheaper?",
+        },
+        {
+            "role": "assistant",
+            "content": "Campus Cafe is typically cheaper.",
+        },
+    ]
