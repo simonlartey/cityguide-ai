@@ -34,6 +34,14 @@ class Config:
         "PLACES_API_KEY",
     )
 
+    MAPS_JAVASCRIPT_API_KEY = os.environ.get(
+        "MAPS_JAVASCRIPT_API_KEY",
+    )
+
+    GOOGLE_MAP_ID = os.environ.get(
+        "GOOGLE_MAP_ID",
+    )
+
     PLACES_REQUEST_TIMEOUT_SECONDS = float(
         os.environ.get(
             "PLACES_REQUEST_TIMEOUT_SECONDS",
