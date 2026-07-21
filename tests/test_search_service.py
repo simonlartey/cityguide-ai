@@ -28,6 +28,21 @@ class RecordingPlacesProvider:
         ]
 
 
+class StaticPlacesProvider:
+    """Return a predefined collection of places."""
+
+    def __init__(self, places: list[dict]):
+        self.places = places
+
+    def search(
+        self,
+        query: str,
+        latitude: float | None = None,
+        longitude: float | None = None,
+    ) -> list[dict]:
+        return self.places
+
+
 def test_search_service_returns_expected_response():
     provider = RecordingPlacesProvider()
     service = SearchService(provider)
@@ -111,3 +126,74 @@ def test_search_service_generates_unique_search_ids():
     )
 
     assert first_response["search_id"] != second_response["search_id"]
+
+
+def test_search_service_returns_results_in_relevance_order():
+    provider = StaticPlacesProvider(
+        [
+            {
+                "id": "popular-grill",
+                "name": "Popular Downtown Grill",
+                "category": "Restaurant",
+                "primary_type": "restaurant",
+                "types": [
+                    "restaurant",
+                    "food",
+                ],
+                "rating": 4.9,
+                "review_count": 2400,
+                "distance_miles": 0.2,
+            },
+            {
+                "id": "lagos-kitchen",
+                "name": "Lagos Kitchen",
+                "category": "African restaurant",
+                "primary_type": "african_restaurant",
+                "types": [
+                    "african_restaurant",
+                    "restaurant",
+                    "food",
+                ],
+                "rating": 4.5,
+                "review_count": 180,
+                "distance_miles": 1.3,
+            },
+        ]
+    )
+    service = SearchService(provider)
+
+    response = service.search(
+        SearchRequest(
+            query="African restaurant near me"
+        )
+    )
+
+    assert [
+        place["id"]
+        for place in response["results"]
+    ] == [
+        "lagos-kitchen",
+        "popular-grill",
+    ]
+
+
+def test_search_service_reports_count_after_ranking():
+    provider = StaticPlacesProvider(
+        [
+            {
+                "id": "first-place",
+                "name": "First Place",
+            },
+            {
+                "id": "second-place",
+                "name": "Second Place",
+            },
+        ]
+    )
+    service = SearchService(provider)
+
+    response = service.search(
+        SearchRequest(query="restaurant")
+    )
+
+    assert response["result_count"] == 2
