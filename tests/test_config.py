@@ -14,6 +14,8 @@ def reload_config(monkeypatch, **environment):
     variable_names = (
         "PLACES_PROVIDER",
         "ASSISTANT_PROVIDER",
+        "OPENAI_API_KEY",
+        "ASSISTANT_MODEL",
         "PLACES_API_KEY",
         "PLACES_REQUEST_TIMEOUT_SECONDS",
     )
@@ -59,3 +61,21 @@ def test_assistant_provider_reads_environment(monkeypatch):
     )
 
     assert config_class.ASSISTANT_PROVIDER == "fake"
+
+
+def test_openai_configuration_defaults_to_none(monkeypatch):
+    config_class = reload_config(monkeypatch)
+
+    assert config_class.OPENAI_API_KEY is None
+    assert config_class.ASSISTANT_MODEL is None
+
+
+def test_openai_configuration_reads_environment(monkeypatch):
+    config_class = reload_config(
+        monkeypatch,
+        OPENAI_API_KEY="test-openai-key",
+        ASSISTANT_MODEL="test-model",
+    )
+
+    assert config_class.OPENAI_API_KEY == "test-openai-key"
+    assert config_class.ASSISTANT_MODEL == "test-model"
