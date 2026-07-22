@@ -58,11 +58,74 @@ const DEFAULT_LOCATION = Object.freeze({
   longitude: -70.2568,
 });
 
+const LOCATION_STORAGE_KEY =
+  "cityguide:selected-location";
+
 const SEARCH_TIMEOUT_MILLISECONDS = 30000;
 
-let selectedLocation = {
-  ...DEFAULT_LOCATION,
+const isValidStoredLocation = (location) =>
+  typeof location?.label === "string" &&
+  location.label.trim().length > 0 &&
+  Number.isFinite(location.latitude) &&
+  Number.isFinite(location.longitude) &&
+  location.latitude >= -90 &&
+  location.latitude <= 90 &&
+  location.longitude >= -180 &&
+  location.longitude <= 180;
+
+const loadStoredLocation = () => {
+  try {
+    const storedValue = window.localStorage.getItem(
+      LOCATION_STORAGE_KEY
+    );
+
+    if (!storedValue) {
+      return null;
+    }
+
+    const parsedLocation = JSON.parse(storedValue);
+
+    if (!isValidStoredLocation(parsedLocation)) {
+      window.localStorage.removeItem(
+        LOCATION_STORAGE_KEY
+      );
+
+      return null;
+    }
+
+    return {
+      label: parsedLocation.label.trim(),
+      latitude: parsedLocation.latitude,
+      longitude: parsedLocation.longitude,
+    };
+  } catch (error) {
+    console.warn(
+      "CityGuide could not restore the saved location:",
+      error
+    );
+
+    return null;
+  }
 };
+
+const saveSelectedLocation = (location) => {
+  try {
+    window.localStorage.setItem(
+      LOCATION_STORAGE_KEY,
+      JSON.stringify(location)
+    );
+  } catch (error) {
+    console.warn(
+      "CityGuide could not save the selected location:",
+      error
+    );
+  }
+};
+
+let selectedLocation =
+  loadStoredLocation() || {
+    ...DEFAULT_LOCATION,
+  };
 
 let PLACES = {};
 let latestSearchRequestId = 0;
@@ -126,6 +189,7 @@ const setSelectedLocation = ({
     longitude,
   };
 
+  saveSelectedLocation(selectedLocation);
   updateLocationLabels();
 
   if (dashboardMap) {

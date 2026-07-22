@@ -385,3 +385,38 @@ def test_dashboard_routes_followups_through_active_session(client):
         "data-new-chat-button"
         in html
     )
+
+
+def test_dashboard_persists_selected_location(client):
+    response = client.get(
+        "/static/js/dashboard.js"
+    )
+
+    assert response.status_code == 200
+
+    javascript = response.get_data(
+        as_text=True
+    )
+
+    assert (
+        'LOCATION_STORAGE_KEY =\n'
+        '  "cityguide:selected-location"'
+        in javascript
+    )
+
+    assert "window.localStorage.getItem" in javascript
+    assert "window.localStorage.setItem" in javascript
+    assert "window.localStorage.removeItem" in javascript
+    assert "loadStoredLocation" in javascript
+    assert "saveSelectedLocation" in javascript
+    assert "isValidStoredLocation" in javascript
+
+    assert (
+        "loadStoredLocation() ||"
+        in javascript
+    )
+
+    assert (
+        "saveSelectedLocation(selectedLocation)"
+        in javascript
+    )
