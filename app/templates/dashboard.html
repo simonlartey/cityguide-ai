@@ -647,11 +647,17 @@
               class="place-save-button"
               data-place-save-button
               aria-label="Save selected place"
+              aria-pressed="false"
+              disabled
             >
               <span
                 aria-hidden="true"
                 data-lucide="heart"
               ></span>
+
+              <span class="sr-only" data-place-save-label>
+                Save
+              </span>
             </button>
 
             <p
@@ -722,12 +728,20 @@
                 Website
               </a>
 
-              <button type="button">
+              <button
+                type="button"
+                class="place-primary-action"
+                data-place-save-button
+                aria-label="Save selected place"
+                aria-pressed="false"
+                disabled
+              >
                 <span
                   aria-hidden="true"
                   data-lucide="heart"
                 ></span>
-                Save
+
+                <span data-place-save-label>Save</span>
               </button>
             </div>
 

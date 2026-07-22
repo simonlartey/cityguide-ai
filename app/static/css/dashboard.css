@@ -1099,6 +1099,19 @@ svg {
   background: var(--dashboard-accent-soft);
 }
 
+.place-save-control--saved {
+  color: var(--dashboard-accent);
+}
+
+.place-save-control--saved svg {
+  fill: currentColor;
+}
+
+[data-place-save-button]:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
 .recommendation-description {
   max-width: 520px;
   margin-top: 13px;

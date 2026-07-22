@@ -61,6 +61,9 @@ const DEFAULT_LOCATION = Object.freeze({
 const LOCATION_STORAGE_KEY =
   "cityguide:selected-location";
 
+const SAVED_PLACES_STORAGE_KEY =
+  "cityguide:saved-place-ids";
+
 const SEARCH_TIMEOUT_MILLISECONDS = 30000;
 
 const isValidStoredLocation = (location) =>
@@ -120,6 +123,145 @@ const saveSelectedLocation = (location) => {
       error
     );
   }
+};
+
+const loadSavedPlaceIds = () => {
+  try {
+    const storedValue = window.localStorage.getItem(
+      SAVED_PLACES_STORAGE_KEY
+    );
+
+    if (!storedValue) {
+      return new Set();
+    }
+
+    const parsedValue = JSON.parse(storedValue);
+
+    if (!Array.isArray(parsedValue)) {
+      window.localStorage.removeItem(
+        SAVED_PLACES_STORAGE_KEY
+      );
+
+      return new Set();
+    }
+
+    return new Set(
+      parsedValue.filter(
+        (placeId) =>
+          typeof placeId === "string" &&
+          placeId.trim().length > 0
+      )
+    );
+  } catch (error) {
+    console.warn(
+      "CityGuide could not restore saved places:",
+      error
+    );
+
+    return new Set();
+  }
+};
+
+const persistSavedPlaceIds = (savedPlaceIds) => {
+  try {
+    window.localStorage.setItem(
+      SAVED_PLACES_STORAGE_KEY,
+      JSON.stringify(Array.from(savedPlaceIds))
+    );
+  } catch (error) {
+    console.warn(
+      "CityGuide could not save places:",
+      error
+    );
+  }
+};
+
+const isPlaceSaved = (placeId) =>
+  loadSavedPlaceIds().has(placeId);
+
+const updateSavedPlaceButtons = (placeId) => {
+  if (!placeId) {
+    return;
+  }
+
+  const place = PLACES[placeId];
+  const saved = isPlaceSaved(placeId);
+  const placeName = place?.name || "place";
+
+  document
+    .querySelectorAll(SELECTORS.placeSaveButton)
+    .forEach((button) => {
+      if (button.dataset.placeId !== placeId) {
+        return;
+      }
+
+      button.classList.toggle(
+        "place-save-control--saved",
+        saved
+      );
+
+      button.setAttribute(
+        "aria-pressed",
+        String(saved)
+      );
+
+      button.setAttribute(
+        "aria-label",
+        saved
+          ? `Remove ${placeName} from saved places`
+          : `Save ${placeName}`
+      );
+
+      const label = button.querySelector(
+        "[data-place-save-label]"
+      );
+
+      if (label) {
+        label.textContent = saved ? "Saved" : "Save";
+      }
+    });
+};
+
+const toggleSavedPlace = (placeId) => {
+  if (!placeId) {
+    return false;
+  }
+
+  const savedPlaceIds = loadSavedPlaceIds();
+  let saved;
+
+  if (savedPlaceIds.has(placeId)) {
+    savedPlaceIds.delete(placeId);
+    saved = false;
+  } else {
+    savedPlaceIds.add(placeId);
+    saved = true;
+  }
+
+  persistSavedPlaceIds(savedPlaceIds);
+  updateSavedPlaceButtons(placeId);
+
+  return saved;
+};
+
+const initializeSavedPlaces = () => {
+  document.addEventListener("click", (event) => {
+    const button = event.target.closest(
+      SELECTORS.placeSaveButton
+    );
+
+    if (!button || button.disabled) {
+      return;
+    }
+
+    const placeId = button.dataset.placeId;
+
+    if (!placeId) {
+      return;
+    }
+
+    toggleSavedPlace(placeId);
+  });
 };
 
 let selectedLocation =
@@ -1102,9 +1244,14 @@ const createRecommendationCard = (place, index) => {
   const saveButton = document.createElement("button");
   saveButton.type = "button";
   saveButton.className = "save-place-button";
+  saveButton.dataset.placeId = place.id;
   saveButton.setAttribute(
     "aria-label",
     `Save ${place.name}`
+  );
+  saveButton.setAttribute(
+    "aria-pressed",
+    "false"
   );
   saveButton.setAttribute(
     "data-place-save-button",
@@ -1206,6 +1353,10 @@ const renderRecommendationCards = (places) => {
   recommendationList.replaceChildren(
     ...places.map(createRecommendationCard)
   );
+
+  places.forEach((place) => {
+    updateSavedPlaceButtons(place.id);
+  });
 
   initializeRecommendationCards();
   hydrateDashboardIcons();
@@ -1527,13 +1678,15 @@ const updatePlaceDetails = (placeId) => {
     formatOpenStatus(place.open_now);
 
   document
-    .querySelectorAll(SELECTORS.placeSaveButton)
+    .querySelectorAll(
+      ".place-details-card [data-place-save-button]"
+    )
     .forEach((button) => {
-      button.setAttribute(
-        "aria-label",
-        `Save ${place.name}`
-      );
+      button.dataset.placeId = place.id;
+      button.disabled = false;
     });
+
+  updateSavedPlaceButtons(place.id);
 
   document.querySelector("[data-place-rating]").textContent =
     ratingLabel;
@@ -1669,6 +1822,34 @@ const clearSelectedPlaceDetails = () => {
   if (reasons) {
     reasons.replaceChildren();
   }
+
+  document
+    .querySelectorAll(
+      ".place-details-card [data-place-save-button]"
+    )
+    .forEach((button) => {
+      delete button.dataset.placeId;
+      button.disabled = true;
+      button.classList.remove(
+        "place-save-control--saved"
+      );
+      button.setAttribute(
+        "aria-pressed",
+        "false"
+      );
+      button.setAttribute(
+        "aria-label",
+        "Save selected place"
+      );
+
+      const label = button.querySelector(
+        "[data-place-save-label]"
+      );
+
+      if (label) {
+        label.textContent = "Save";
+      }
+    });
 
   if (hero && heroPhoto) {
     hero.classList.remove("place-hero--has-photo");
@@ -3050,6 +3231,7 @@ const initializeDashboard = () => {
   setSearchProgressItemsState("ready");
   initializeFilterChips();
   initializeRecommendationCards();
+  initializeSavedPlaces();
   initializeInspectorTabs();
   initializeInspectorResults();
   activateInspectorTab("map");

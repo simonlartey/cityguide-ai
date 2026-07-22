@@ -563,3 +563,46 @@ def test_dashboard_uses_discovery_focused_sidebar(client):
     assert 'data-lucide="badge-percent"' in html
     assert 'data-lucide="users"' in html
     assert 'data-lucide="history"' in html
+
+
+def test_dashboard_supports_local_saved_places(client):
+    dashboard_response = client.get("/dashboard")
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+    stylesheet_response = client.get(
+        "/static/css/dashboard.css"
+    )
+
+    assert dashboard_response.status_code == 200
+    assert javascript_response.status_code == 200
+    assert stylesheet_response.status_code == 200
+
+    html = dashboard_response.get_data(as_text=True)
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+    stylesheet = stylesheet_response.get_data(
+        as_text=True
+    )
+
+    assert html.count("data-place-save-button") == 2
+    assert 'data-place-save-label' in html
+    assert 'aria-pressed="false"' in html
+
+    assert (
+        '"cityguide:saved-place-ids"'
+        in javascript
+    )
+    assert "loadSavedPlaceIds" in javascript
+    assert "persistSavedPlaceIds" in javascript
+    assert "toggleSavedPlace" in javascript
+    assert "updateSavedPlaceButtons" in javascript
+    assert "initializeSavedPlaces" in javascript
+    assert "button.dataset.placeId = place.id" in javascript
+
+    assert (
+        ".place-save-control--saved"
+        in stylesheet
+    )
+    assert "fill: currentColor;" in stylesheet
