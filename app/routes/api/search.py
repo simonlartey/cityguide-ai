@@ -110,15 +110,20 @@ def get_search_session(session_id: str):
 def continue_search(session_id: str):
     """Continue an existing search conversation."""
 
-    conversation_manager = current_app.extensions[
-        "conversation_manager"
-    ]
+    if not request.is_json:
+        return jsonify(
+            {
+                "error": {
+                    "code": "invalid_content_type",
+                    "message": "Request body must use application/json.",
+                }
+            }
+        ), 415
 
-    assistant_provider = current_app.extensions[
-        "assistant_provider"
-    ]
+    data = request.get_json(silent=True)
 
-    data = request.get_json(silent=True) or {}
+    if not isinstance(data, dict):
+        data = {}
 
     message = data.get("message")
 
@@ -133,6 +138,16 @@ def continue_search(session_id: str):
                 }
             }
         ), 400
+
+    message = message.strip()
+
+    conversation_manager = current_app.extensions[
+        "conversation_manager"
+    ]
+
+    assistant_provider = current_app.extensions[
+        "assistant_provider"
+    ]
 
     session = conversation_manager.get_session(
         session_id
@@ -152,11 +167,27 @@ def continue_search(session_id: str):
         session_id
     ) or []
 
-    response = assistant_provider.continue_conversation(
-        history=history,
-        message=message,
-        places=session.ranked_places,
-    )
+    try:
+        response = assistant_provider.continue_conversation(
+            history=history,
+            message=message,
+            places=session.ranked_places,
+        )
+    except Exception:
+        current_app.logger.exception(
+            "Assistant provider failed while continuing conversation."
+        )
+
+        return jsonify(
+            {
+                "error": {
+                    "code": "assistant_provider_unavailable",
+                    "message": (
+                        "The search assistant is temporarily unavailable."
+                    ),
+                }
+            }
+        ), 503
 
     conversation_manager.continue_session(
         session_id=session_id,

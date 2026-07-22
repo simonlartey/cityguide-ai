@@ -35,6 +35,14 @@ class Config:
         "fake",
     ).strip().lower()
 
+    OPENAI_API_KEY = os.environ.get(
+        "OPENAI_API_KEY",
+    )
+
+    ASSISTANT_MODEL = os.environ.get(
+        "ASSISTANT_MODEL",
+    )
+
     PLACES_API_KEY = os.environ.get(
         "PLACES_API_KEY",
     )
