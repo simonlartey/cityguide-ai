@@ -1489,19 +1489,18 @@ svg {
 }
 
 .place-gallery-strip {
-  position: absolute;
-  z-index: 3;
-  right: 18px;
-  bottom: 14px;
-  left: 18px;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 5px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+  padding: 10px 12px 12px;
+  background: var(--dashboard-surface);
+  border-bottom: 1px solid var(--dashboard-border);
 }
 
 .place-gallery-thumbnail {
   position: relative;
-  min-height: 43px;
+  aspect-ratio: 4 / 3;
+  min-height: 0;
   padding: 0;
   overflow: hidden;
   background: rgba(7, 17, 23, 0.8);
@@ -1517,7 +1516,8 @@ svg {
 
 .place-gallery-thumbnail--active {
   border-color: var(--dashboard-accent);
-  box-shadow: 0 0 0 1px var(--dashboard-accent);
+  box-shadow:
+    0 0 0 2px var(--dashboard-accent-soft);
 }
 
 .place-photo-attribution {
@@ -1908,6 +1908,10 @@ svg {
   .recommendation-actions button,
   .recommendation-actions a {
     justify-content: center;
+  }
+
+  .place-gallery-strip {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
   .dashboard-shell {

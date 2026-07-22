@@ -466,3 +466,68 @@ def test_dashboard_uses_compact_place_action_labels(client):
         "  display: grid;"
         in stylesheet
     )
+
+
+def test_dashboard_places_photo_thumbnails_below_hero(client):
+    dashboard_response = client.get(
+        "/dashboard"
+    )
+
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+
+    stylesheet_response = client.get(
+        "/static/css/dashboard.css"
+    )
+
+    assert dashboard_response.status_code == 200
+    assert javascript_response.status_code == 200
+    assert stylesheet_response.status_code == 200
+
+    html = dashboard_response.get_data(
+        as_text=True
+    )
+
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+
+    stylesheet = stylesheet_response.get_data(
+        as_text=True
+    )
+
+    hero_position = html.index(
+        'class="place-hero place-hero--one"'
+    )
+
+    gallery_position = html.index(
+        'class="place-gallery-strip"'
+    )
+
+    details_position = html.index(
+        'class="place-details-content"'
+    )
+
+    assert hero_position < gallery_position
+    assert gallery_position < details_position
+
+    assert ".slice(0, 5)" in javascript
+    assert "SELECTORS.placeGallery" in javascript
+
+    assert (
+        "grid-template-columns: repeat(5, minmax(0, 1fr));"
+        in stylesheet
+    )
+
+    assert "aspect-ratio: 4 / 3;" in stylesheet
+
+    assert (
+        "0 0 0 2px var(--dashboard-accent-soft);"
+        in stylesheet
+    )
+
+    assert (
+        "grid-template-columns: repeat(4, minmax(0, 1fr));"
+        in stylesheet
+    )

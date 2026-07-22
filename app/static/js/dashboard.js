@@ -1391,6 +1391,9 @@ const updateSelectedPlacePhoto = (
   const attribution = document.querySelector(
     SELECTORS.placePhotoAttribution
   );
+  const gallery = document.querySelector(
+    SELECTORS.placeGallery
+  );
 
   if (!hero || !heroPhoto || !attribution) {
     return;
@@ -1398,8 +1401,8 @@ const updateSelectedPlacePhoto = (
 
   const photoUrl = buildPlacePhotoUrl(photo, 1600);
 
-  hero
-    .querySelectorAll(".place-gallery-thumbnail")
+  gallery
+    ?.querySelectorAll(".place-gallery-thumbnail")
     .forEach((thumbnail, index) => {
       thumbnail.classList.toggle(
         "place-gallery-thumbnail--active",
@@ -1475,7 +1478,7 @@ const renderSelectedPlacePhotos = (place) => {
         typeof photo?.name === "string" &&
         photo.name.trim().length > 0
     )
-    .slice(0, 4);
+    .slice(0, 5);
 
   gallery.replaceChildren(
     ...photos.map((photo, index) =>
