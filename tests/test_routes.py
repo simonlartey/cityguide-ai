@@ -292,6 +292,16 @@ def test_dashboard_supports_current_location_detection(client):
     )
 
     assert (
+        "SEARCH_TIMEOUT_MILLISECONDS = 30000"
+        in javascript
+    )
+
+    assert (
+        "Your next search will use this area."
+        in javascript
+    )
+
+    assert (
         "data-current-location-button"
         in html
     )

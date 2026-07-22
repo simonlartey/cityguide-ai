@@ -57,6 +57,8 @@ const DEFAULT_LOCATION = Object.freeze({
   longitude: -70.2568,
 });
 
+const SEARCH_TIMEOUT_MILLISECONDS = 30000;
+
 let selectedLocation = {
   ...DEFAULT_LOCATION,
 };
@@ -2428,7 +2430,7 @@ const initializeDashboardSearch = () => {
     const controller = new AbortController();
     const timeoutId = window.setTimeout(
       () => controller.abort(),
-      15000
+      SEARCH_TIMEOUT_MILLISECONDS
     );
 
     try {
@@ -2656,6 +2658,13 @@ const initializeLocationSelector = () => {
             status.textContent =
               `Search location changed to ${label}.`;
 
+            appendConversationMessage({
+              role: "assistant",
+              text:
+                `Search location changed to ${label}. ` +
+                "Your next search will use this area.",
+            });
+
             setPanelOpen(false);
           } catch (error) {
             const fallbackLabel =
@@ -2672,6 +2681,13 @@ const initializeLocationSelector = () => {
             status.textContent =
               "Your current coordinates were found, but the " +
               "location name could not be determined.";
+
+            appendConversationMessage({
+              role: "assistant",
+              text:
+                `Search location changed to ${fallbackLabel}. ` +
+                "Your next search will use this area.",
+            });
 
             setPanelOpen(false);
 
@@ -2751,6 +2767,13 @@ const initializeLocationSelector = () => {
 
             status.textContent =
               `Search location changed to ${label}.`;
+
+            appendConversationMessage({
+              role: "assistant",
+              text:
+                `Search location changed to ${label}. ` +
+                "Your next search will use this area.",
+            });
 
             clearSearchResults();
             setPanelOpen(false);
