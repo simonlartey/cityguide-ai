@@ -23,6 +23,16 @@ class PlaceRelevanceRanker:
         "with",
     }
 
+    PROXIMITY_PATTERNS = (
+        r"\bnear me\b",
+        r"\bnearby\b",
+        r"\bclose to me\b",
+        r"\bclosest\b",
+        r"\bwalking distance\b",
+        r"\bwalkable\b",
+        r"\bwithin walking distance\b",
+    )
+
     QUERY_SYNONYM_GROUPS = (
         {
             "affordable",
@@ -64,16 +74,22 @@ class PlaceRelevanceRanker:
         self,
         query: str,
         places: Iterable[dict],
+        original_query: str | None = None,
     ) -> list[dict]:
         """Return places ordered from most to least relevant."""
 
         query_terms = self._query_terms(query)
+        proximity_query = original_query or query
+        prioritize_proximity = self._prioritizes_proximity(
+            proximity_query
+        )
 
         return sorted(
             places,
             key=lambda place: self._sort_key(
                 place,
                 query_terms,
+                prioritize_proximity,
             ),
         )
 
@@ -112,6 +128,7 @@ class PlaceRelevanceRanker:
         self,
         place: dict,
         query_terms: set[str],
+        prioritize_proximity: bool,
     ) -> tuple:
         relevance_score = self._score_terms(
             query_terms,
@@ -127,12 +144,68 @@ class PlaceRelevanceRanker:
             place.get("distance_miles")
         )
 
+        distance_tier = self._distance_tier(
+            distance,
+            prioritize_proximity=prioritize_proximity,
+        )
+
+        if prioritize_proximity:
+            return (
+                -relevance_score,
+                distance,
+                -rating,
+                -review_count,
+                str(place.get("name", "")).lower(),
+            )
+
         return (
             -relevance_score,
+            distance_tier,
             -rating,
             -review_count,
             distance,
             str(place.get("name", "")).lower(),
+        )
+
+    @classmethod
+    def _distance_tier(
+        cls,
+        distance: float,
+        *,
+        prioritize_proximity: bool,
+    ) -> int:
+        """Group comparable places into practical distance bands."""
+
+        if distance == float("inf"):
+            return 5
+
+        thresholds = (
+            (1.0, 2.0, 5.0, 10.0)
+            if prioritize_proximity
+            else (2.0, 5.0, 10.0, 25.0)
+        )
+
+        for tier, maximum_distance in enumerate(
+            thresholds
+        ):
+            if distance <= maximum_distance:
+                return tier
+
+        return 4
+
+    @classmethod
+    def _prioritizes_proximity(
+        cls,
+        query: object,
+    ) -> bool:
+        if not isinstance(query, str):
+            return False
+
+        normalized_query = query.lower()
+
+        return any(
+            re.search(pattern, normalized_query)
+            for pattern in cls.PROXIMITY_PATTERNS
         )
 
     def _score_terms(

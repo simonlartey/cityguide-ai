@@ -221,6 +221,60 @@ def test_search_service_returns_results_in_relevance_order():
     ]
 
 
+def test_search_service_passes_original_query_to_ranker():
+    class RecordingRanker:
+        def __init__(self):
+            self.arguments = None
+
+        def rank(
+            self,
+            *,
+            query,
+            places,
+            original_query=None,
+        ):
+            self.arguments = {
+                "query": query,
+                "places": places,
+                "original_query": original_query,
+            }
+            return list(places)
+
+    places_provider = StaticPlacesProvider(
+        [
+            {
+                "id": "campus-cafe",
+                "name": "Campus Cafe",
+            }
+        ]
+    )
+    assistant_provider = RecordingAssistantProvider()
+    ranker = RecordingRanker()
+
+    service = SearchService(
+        places_provider=places_provider,
+        assistant_provider=assistant_provider,
+        relevance_ranker=ranker,
+    )
+
+    search_request = SearchRequest(
+        query="Find a cafe near me"
+    )
+
+    service.search(search_request)
+
+    assert ranker.arguments == {
+        "query": "quiet cafe",
+        "places": [
+            {
+                "id": "campus-cafe",
+                "name": "Campus Cafe",
+            }
+        ],
+        "original_query": search_request.query,
+    }
+
+
 def test_search_service_reports_count_after_ranking():
     provider = StaticPlacesProvider(
         [
