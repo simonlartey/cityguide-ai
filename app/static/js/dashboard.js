@@ -1,5 +1,6 @@
 const SELECTORS = {
   conversation: "#dashboard-conversation",
+  locationLabel: "[data-current-location-label]",
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   recommendationList: ".recommendation-list",
@@ -43,6 +44,16 @@ const SELECTORS = {
     "[data-place-website-action]",
 };
 
+const DEFAULT_LOCATION = Object.freeze({
+  label: "Portland, ME",
+  latitude: 43.6591,
+  longitude: -70.2568,
+});
+
+let selectedLocation = {
+  ...DEFAULT_LOCATION,
+};
+
 let PLACES = {};
 let latestSearchRequestId = 0;
 let dashboardMap = null;
@@ -50,6 +61,14 @@ let mapsLibraryPromise = null;
 let placeMapMarkers = new Map();
 let selectedMapPlaceId = null;
 let latestHeroPhotoRequestId = 0;
+
+const updateLocationLabels = () => {
+  document
+    .querySelectorAll(SELECTORS.locationLabel)
+    .forEach((element) => {
+      element.textContent = selectedLocation.label;
+    });
+};
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
@@ -179,8 +198,8 @@ const initializeInteractiveMap = async () => {
 
     const mapOptions = {
       center: {
-        lat: 43.6591,
-        lng: -70.2568,
+        lat: selectedLocation.latitude,
+        lng: selectedLocation.longitude,
       },
       zoom: 13,
       colorScheme: ColorScheme.DARK,
@@ -417,8 +436,8 @@ const buildSearchResultMessage = (
 
   return (
     `I found ${resultCount} ${resultLabel} matching ` +
-    `“${query}” near Portland. Here are the local ` +
-    "options I found."
+    `“${query}” near ${selectedLocation.label}. ` +
+    "Here are the local options I found."
   );
 };
 
@@ -2021,8 +2040,8 @@ const searchPlaces = async (query, { signal } = {}) => {
     body: JSON.stringify({
       query,
       location: {
-        latitude: 43.6591,
-        longitude: -70.2568,
+        latitude: selectedLocation.latitude,
+        longitude: selectedLocation.longitude,
       },
     }),
   });
@@ -2366,11 +2385,12 @@ const initializeConversation = () => {
     role: "assistant",
     text:
       "Hi! Tell me what kind of place, service, food, or activity " +
-      "you are looking for in Portland.",
+      `you are looking for near ${selectedLocation.label}.`,
   });
 };
 
 const initializeDashboard = () => {
+  updateLocationLabels();
   initializeConversation();
   setSearchProgressItemsState("ready");
   initializeFilterChips();

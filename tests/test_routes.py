@@ -124,3 +124,46 @@ def test_dashboard_javascript_uses_assistant_response(client):
         "assistantResponse ||"
         in javascript
     )
+
+
+def test_dashboard_centralizes_selected_location(client):
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+
+    template_response = client.get(
+        "/dashboard"
+    )
+
+    assert javascript_response.status_code == 200
+    assert template_response.status_code == 200
+
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+
+    html = template_response.get_data(
+        as_text=True
+    )
+
+    assert "const DEFAULT_LOCATION" in javascript
+
+    assert (
+        "selectedLocation.latitude"
+        in javascript
+    )
+
+    assert (
+        "selectedLocation.longitude"
+        in javascript
+    )
+
+    assert (
+        "selectedLocation.label"
+        in javascript
+    )
+
+    assert (
+        "data-current-location-label"
+        in html
+    )
