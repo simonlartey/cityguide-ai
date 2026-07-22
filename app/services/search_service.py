@@ -46,6 +46,7 @@ class SearchService:
         ranked_results = self.relevance_ranker.rank(
             query=intent.search_query,
             places=results,
+            original_query=search_request.query,
         )
 
         assistant_response = self._generate_search_response(

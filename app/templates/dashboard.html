@@ -66,35 +66,38 @@
       <button
         type="button"
         class="new-chat-button"
-        aria-label="New Chat"
+        data-new-chat-button
+        aria-label="New Search"
       >
         <span
           aria-hidden="true"
           data-lucide="plus"
         ></span>
 
-        <span class="new-chat-label">New Chat</span>
+        <span class="new-chat-label">New Search</span>
       </button>
 
       <nav class="sidebar-navigation">
         <a
           href="{{ url_for('main.dashboard') }}"
           class="sidebar-link sidebar-link--active nav-link"
-          aria-label="Home"
+          aria-label="Explore"
           aria-current="page"
+          data-dashboard-navigation="explore"
         >
           <span
             aria-hidden="true"
-            data-lucide="house"
+            data-lucide="compass"
           ></span>
 
-            <span class="sidebar-link-label">Home</span>
+            <span class="sidebar-link-label">Explore</span>
         </a>
 
         <a
-          href="#"
+          href="#saved-places"
           class="sidebar-link nav-link"
           aria-label="Saved Places"
+          data-dashboard-navigation="saved"
         >
           <span
             aria-hidden="true"
@@ -107,74 +110,55 @@
         <a
           href="#"
           class="sidebar-link nav-link"
-          aria-label="Recent"
+          aria-label="Categories"
         >
           <span
             aria-hidden="true"
-            data-lucide="clock-3"
+            data-lucide="layout-grid"
           ></span>
 
-            <span class="sidebar-link-label">Recent</span>
+            <span class="sidebar-link-label">Categories</span>
         </a>
 
         <a
           href="#"
           class="sidebar-link nav-link"
-          aria-label="Collections"
+          aria-label="Student Deals"
         >
           <span
             aria-hidden="true"
-            data-lucide="folder"
+            data-lucide="badge-percent"
           ></span>
 
-            <span class="sidebar-link-label">Collections</span>
+            <span class="sidebar-link-label">Student Deals</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link nav-link"
+          aria-label="Community Picks"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="users"
+          ></span>
+
+            <span class="sidebar-link-label">Community Picks</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link nav-link"
+          aria-label="History"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="history"
+          ></span>
+
+            <span class="sidebar-link-label">History</span>
         </a>
       </nav>
-
-      <section
-        class="sidebar-section recent-chats"
-        aria-labelledby="recent-chats-title"
-      >
-        <h2 id="recent-chats-title">
-          <span class="section-title">
-          Recent chats
-          </span>
-        </h2>
-
-        <div class="recent-chat-list">
-          <button
-            type="button"
-            class="recent-chat-item recent-chat"
-          >
-            <span class="chat-title">Best brunch spots</span>
-            <time class="chat-time" datetime="2026-07-14">Today</time>
-          </button>
-
-          <button
-            type="button"
-            class="recent-chat-item recent-chat recent-chat-item--active"
-          >
-            <span class="chat-title">Barbers for textured hair</span>
-            <time class="chat-time" datetime="2026-07-14">Today</time>
-          </button>
-
-          <button
-            type="button"
-            class="recent-chat-item recent-chat"
-          >
-            <span class="chat-title">Coffee shops with Wi-Fi</span>
-            <time class="chat-time" datetime="2026-07-13">Yesterday</time>
-          </button>
-
-          <button
-            type="button"
-            class="recent-chat-item recent-chat"
-          >
-            <span class="chat-title">Late night food</span>
-            <time class="chat-time" datetime="2026-07-12">2 days ago</time>
-          </button>
-        </div>
-      </section>
 
       <footer class="sidebar-footer">
         <div class="sidebar-profile">
@@ -228,22 +212,72 @@
           ></span>
         </button>
 
-        <button
-          type="button"
-          class="location-selector"
-        >
-          <span
-            aria-hidden="true"
-            data-lucide="map-pin"
-          ></span>
+        <div class="location-control">
+          <button
+            type="button"
+            class="location-selector"
+            data-location-selector
+            aria-expanded="false"
+            aria-controls="dashboard-location-panel"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="map-pin"
+            ></span>
 
-          <span>Portland, ME</span>
+            <span data-current-location-label>Portland, ME</span>
 
-          <span
-            aria-hidden="true"
-            data-lucide="chevron-down"
-          ></span>
-        </button>
+            <span
+              aria-hidden="true"
+              data-lucide="chevron-down"
+            ></span>
+          </button>
+
+          <section
+            id="dashboard-location-panel"
+            class="location-panel"
+            data-location-panel
+            aria-label="Choose a search location"
+            hidden
+          >
+            <div class="location-panel-heading">
+              <strong>Search location</strong>
+
+              <span>
+                Choose the city or area where you want to explore.
+              </span>
+            </div>
+
+            <button
+              type="button"
+              class="current-location-button"
+              data-current-location-button
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="locate-fixed"
+              ></span>
+
+              Use my current location
+            </button>
+
+            <div class="location-panel-divider">
+              or search manually
+            </div>
+
+            <div
+              class="location-autocomplete"
+              data-location-autocomplete
+            ></div>
+
+            <p
+              class="location-status"
+              data-location-status
+              role="status"
+              aria-live="polite"
+            ></p>
+          </section>
+        </div>
 
         <div class="workspace-actions">
           <button
@@ -286,6 +320,7 @@
       <section
         class="conversation-panel"
         aria-labelledby="conversation-title"
+        data-dashboard-view="explore"
       >
         <h1
           id="conversation-title"
@@ -452,7 +487,77 @@
         </div>
       </section>
 
-      <footer class="chat-composer-shell">
+      <section
+        class="saved-places-view"
+        data-dashboard-view="saved"
+        aria-labelledby="saved-places-title"
+        hidden
+      >
+        <div class="saved-places-content">
+          <header class="saved-places-heading">
+            <div>
+              <span class="saved-places-eyebrow">
+                Your collection
+              </span>
+
+              <h1 id="saved-places-title">
+                Saved Places
+              </h1>
+
+              <p>
+                Keep your favorite local discoveries together
+                and return to them anytime.
+              </p>
+            </div>
+
+            <button
+              type="button"
+              class="saved-places-explore-button"
+              data-saved-places-explore
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="compass"
+              ></span>
+
+              Explore places
+            </button>
+          </header>
+
+          <section
+            class="saved-places-empty"
+            data-saved-places-empty
+            aria-labelledby="saved-places-empty-title"
+          >
+            <span
+              class="saved-places-empty-icon"
+              aria-hidden="true"
+              data-lucide="heart"
+            ></span>
+
+            <h2 id="saved-places-empty-title">
+              No saved places yet
+            </h2>
+
+            <p>
+              Save a place from your search results and it
+              will appear here.
+            </p>
+          </section>
+
+          <section
+            class="saved-places-list"
+            data-saved-places-list
+            aria-label="Saved businesses"
+            hidden
+          ></section>
+        </div>
+      </section>
+
+      <footer
+        class="chat-composer-shell"
+        data-dashboard-view="explore"
+      >
         <form
           id="dashboard-search-form"
           class="chat-composer"
@@ -615,11 +720,17 @@
               class="place-save-button"
               data-place-save-button
               aria-label="Save selected place"
+              aria-pressed="false"
+              disabled
             >
               <span
                 aria-hidden="true"
                 data-lucide="heart"
               ></span>
+
+              <span class="sr-only" data-place-save-label>
+                Save
+              </span>
             </button>
 
             <p
@@ -627,13 +738,13 @@
               data-place-photo-attribution
               hidden
             ></p>
-
-            <div
-              class="place-gallery-strip"
-              data-place-gallery
-              hidden
-            ></div>
           </div>
+
+          <div
+            class="place-gallery-strip"
+            data-place-gallery
+            hidden
+          ></div>
 
           <div class="place-details-content">
             <div class="place-details-heading">
@@ -690,12 +801,20 @@
                 Website
               </a>
 
-              <button type="button">
+              <button
+                type="button"
+                class="place-primary-action"
+                data-place-save-button
+                aria-label="Save selected place"
+                aria-pressed="false"
+                disabled
+              >
                 <span
                   aria-hidden="true"
                   data-lucide="heart"
                 ></span>
-                Save
+
+                <span data-place-save-label>Save</span>
               </button>
             </div>
 

@@ -1,5 +1,13 @@
 const SELECTORS = {
   conversation: "#dashboard-conversation",
+  locationLabel: "[data-current-location-label]",
+  locationSelector: "[data-location-selector]",
+  locationPanel: "[data-location-panel]",
+  currentLocationButton:
+    "[data-current-location-button]",
+  locationAutocomplete:
+    "[data-location-autocomplete]",
+  locationStatus: "[data-location-status]",
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   recommendationList: ".recommendation-list",
@@ -23,6 +31,7 @@ const SELECTORS = {
   searchForm: "#dashboard-search-form",
   searchInput: "#dashboard-query",
   searchSubmit: "#dashboard-search-submit",
+  newChatButton: "[data-new-chat-button]",
   searchStatus: "#dashboard-search-status",
   searchProgress: ".search-progress",
   searchProgressTitle: "#search-progress-title",
@@ -41,15 +50,546 @@ const SELECTORS = {
     "[data-place-call-action]",
   placeWebsiteAction:
     "[data-place-website-action]",
+  dashboardView: "[data-dashboard-view]",
+  dashboardNavigation:
+    "[data-dashboard-navigation]",
+  savedPlacesList:
+    "[data-saved-places-list]",
+  savedPlacesEmpty:
+    "[data-saved-places-empty]",
+  savedPlacesExplore:
+    "[data-saved-places-explore]",
 };
 
+const DEFAULT_LOCATION = Object.freeze({
+  label: "Portland, ME",
+  latitude: 43.6591,
+  longitude: -70.2568,
+});
+
+const LOCATION_STORAGE_KEY =
+  "cityguide:selected-location";
+
+const SAVED_PLACES_STORAGE_KEY =
+  "cityguide:saved-place-ids";
+
+const SAVED_PLACE_RECORDS_STORAGE_KEY =
+  "cityguide:saved-places";
+
+const SEARCH_TIMEOUT_MILLISECONDS = 30000;
+
+const isValidStoredLocation = (location) =>
+  typeof location?.label === "string" &&
+  location.label.trim().length > 0 &&
+  Number.isFinite(location.latitude) &&
+  Number.isFinite(location.longitude) &&
+  location.latitude >= -90 &&
+  location.latitude <= 90 &&
+  location.longitude >= -180 &&
+  location.longitude <= 180;
+
+const loadStoredLocation = () => {
+  try {
+    const storedValue = window.localStorage.getItem(
+      LOCATION_STORAGE_KEY
+    );
+
+    if (!storedValue) {
+      return null;
+    }
+
+    const parsedLocation = JSON.parse(storedValue);
+
+    if (!isValidStoredLocation(parsedLocation)) {
+      window.localStorage.removeItem(
+        LOCATION_STORAGE_KEY
+      );
+
+      return null;
+    }
+
+    return {
+      label: parsedLocation.label.trim(),
+      latitude: parsedLocation.latitude,
+      longitude: parsedLocation.longitude,
+    };
+  } catch (error) {
+    console.warn(
+      "CityGuide could not restore the saved location:",
+      error
+    );
+
+    return null;
+  }
+};
+
+const saveSelectedLocation = (location) => {
+  try {
+    window.localStorage.setItem(
+      LOCATION_STORAGE_KEY,
+      JSON.stringify(location)
+    );
+  } catch (error) {
+    console.warn(
+      "CityGuide could not save the selected location:",
+      error
+    );
+  }
+};
+
+const loadSavedPlaceIds = () => {
+  try {
+    const storedValue = window.localStorage.getItem(
+      SAVED_PLACES_STORAGE_KEY
+    );
+
+    if (!storedValue) {
+      return new Set();
+    }
+
+    const parsedValue = JSON.parse(storedValue);
+
+    if (!Array.isArray(parsedValue)) {
+      window.localStorage.removeItem(
+        SAVED_PLACES_STORAGE_KEY
+      );
+
+      return new Set();
+    }
+
+    return new Set(
+      parsedValue.filter(
+        (placeId) =>
+          typeof placeId === "string" &&
+          placeId.trim().length > 0
+      )
+    );
+  } catch (error) {
+    console.warn(
+      "CityGuide could not restore saved places:",
+      error
+    );
+
+    return new Set();
+  }
+};
+
+const persistSavedPlaceIds = (savedPlaceIds) => {
+  try {
+    window.localStorage.setItem(
+      SAVED_PLACES_STORAGE_KEY,
+      JSON.stringify(Array.from(savedPlaceIds))
+    );
+  } catch (error) {
+    console.warn(
+      "CityGuide could not save places:",
+      error
+    );
+  }
+};
+
+const loadSavedPlaceRecords = () => {
+  try {
+    const storedValue = window.localStorage.getItem(
+      SAVED_PLACE_RECORDS_STORAGE_KEY
+    );
+
+    if (!storedValue) {
+      return {};
+    }
+
+    const parsedValue = JSON.parse(storedValue);
+
+    if (
+      !parsedValue ||
+      typeof parsedValue !== "object" ||
+      Array.isArray(parsedValue)
+    ) {
+      window.localStorage.removeItem(
+        SAVED_PLACE_RECORDS_STORAGE_KEY
+      );
+
+      return {};
+    }
+
+    return parsedValue;
+  } catch (error) {
+    console.warn(
+      "CityGuide could not restore saved place details:",
+      error
+    );
+
+    return {};
+  }
+};
+
+const persistSavedPlaceRecords = (records) => {
+  try {
+    window.localStorage.setItem(
+      SAVED_PLACE_RECORDS_STORAGE_KEY,
+      JSON.stringify(records)
+    );
+  } catch (error) {
+    console.warn(
+      "CityGuide could not save place details:",
+      error
+    );
+  }
+};
+
+const createSavedPlaceRecord = (place) => ({
+  id: place.id,
+  name: place.name,
+  description: place.description,
+  category: place.category,
+  tags: Array.isArray(place.tags)
+    ? place.tags
+    : [],
+  rating: place.rating,
+  review_count: place.review_count,
+  distance_miles: place.distance_miles,
+  price_level: place.price_level,
+  open_now: place.open_now,
+  address: place.address,
+  phone: place.phone,
+  website: place.website,
+  hours_text: place.hours_text,
+  photos: Array.isArray(place.photos)
+    ? place.photos
+    : [],
+  match_reasons: Array.isArray(place.match_reasons)
+    ? place.match_reasons
+    : [],
+  latitude: place.latitude,
+  longitude: place.longitude,
+});
+
+const persistSavedPlaceRecord = (place) => {
+  if (!place?.id) {
+    return;
+  }
+
+  const records = loadSavedPlaceRecords();
+
+  records[place.id] =
+    createSavedPlaceRecord(place);
+
+  persistSavedPlaceRecords(records);
+};
+
+const removeSavedPlaceRecord = (placeId) => {
+  const records = loadSavedPlaceRecords();
+
+  if (!(placeId in records)) {
+    return;
+  }
+
+  delete records[placeId];
+
+  persistSavedPlaceRecords(records);
+};
+
+const isPlaceSaved = (placeId) =>
+  loadSavedPlaceIds().has(placeId);
+
+const updateSavedPlaceButtons = (placeId) => {
+  if (!placeId) {
+    return;
+  }
+
+  const place = PLACES[placeId];
+  const saved = isPlaceSaved(placeId);
+  const placeName = place?.name || "place";
+
+  document
+    .querySelectorAll(SELECTORS.placeSaveButton)
+    .forEach((button) => {
+      if (button.dataset.placeId !== placeId) {
+        return;
+      }
+
+      button.classList.toggle(
+        "place-save-control--saved",
+        saved
+      );
+
+      button.setAttribute(
+        "aria-pressed",
+        String(saved)
+      );
+
+      button.setAttribute(
+        "aria-label",
+        saved
+          ? `Remove ${placeName} from saved places`
+          : `Save ${placeName}`
+      );
+
+      const label = button.querySelector(
+        "[data-place-save-label]"
+      );
+
+      if (label) {
+        label.textContent = saved ? "Saved" : "Save";
+      }
+    });
+};
+
+const toggleSavedPlace = (placeId) => {
+  if (!placeId) {
+    return false;
+  }
+
+  const savedPlaceIds = loadSavedPlaceIds();
+  let saved;
+
+  if (savedPlaceIds.has(placeId)) {
+    savedPlaceIds.delete(placeId);
+    removeSavedPlaceRecord(placeId);
+    saved = false;
+  } else {
+    const place = PLACES[placeId];
+
+    if (!place) {
+      return false;
+    }
+
+    savedPlaceIds.add(placeId);
+    persistSavedPlaceRecord(place);
+    saved = true;
+  }
+
+  persistSavedPlaceIds(savedPlaceIds);
+  updateSavedPlaceButtons(placeId);
+
+  if (activeDashboardView === "saved") {
+    renderSavedPlacesView();
+  }
+
+  return saved;
+};
+
+const initializeSavedPlaces = () => {
+  document.addEventListener("click", (event) => {
+    const button = event.target.closest(
+      SELECTORS.placeSaveButton
+    );
+
+    if (!button || button.disabled) {
+      return;
+    }
+
+    const placeId = button.dataset.placeId;
+
+    if (!placeId) {
+      return;
+    }
+
+    toggleSavedPlace(placeId);
+  });
+};
+
+let selectedLocation =
+  loadStoredLocation() || {
+    ...DEFAULT_LOCATION,
+  };
+
 let PLACES = {};
+let activeDashboardView = "explore";
 let latestSearchRequestId = 0;
+let activeSearchSessionId = null;
 let dashboardMap = null;
 let mapsLibraryPromise = null;
 let placeMapMarkers = new Map();
 let selectedMapPlaceId = null;
 let latestHeroPhotoRequestId = 0;
+
+const updateLocationLabels = () => {
+  document
+    .querySelectorAll(SELECTORS.locationLabel)
+    .forEach((element) => {
+      element.textContent = selectedLocation.label;
+    });
+};
+
+const resetSearchComposer = () => {
+  const input = document.querySelector(
+    SELECTORS.searchInput
+  );
+
+  const submitButton = document.querySelector(
+    SELECTORS.searchSubmit
+  );
+
+  if (input) {
+    input.disabled = false;
+    input.value = "";
+  }
+
+  if (submitButton) {
+    submitButton.disabled = true;
+  }
+};
+
+const setSelectedLocation = ({
+  label,
+  latitude,
+  longitude,
+}) => {
+  if (
+    typeof label !== "string" ||
+    !label.trim() ||
+    !Number.isFinite(latitude) ||
+    !Number.isFinite(longitude)
+  ) {
+    throw new TypeError(
+      "A valid location label and coordinates are required."
+    );
+  }
+
+  activeSearchSessionId = null;
+  latestSearchRequestId += 1;
+  resetSearchComposer();
+
+  selectedLocation = {
+    label: label.trim(),
+    latitude,
+    longitude,
+  };
+
+  saveSelectedLocation(selectedLocation);
+  updateLocationLabels();
+
+  if (dashboardMap) {
+    dashboardMap.setCenter({
+      lat: latitude,
+      lng: longitude,
+    });
+
+    dashboardMap.setZoom(13);
+  }
+};
+
+const getAddressComponent = (
+  addressComponents,
+  type,
+  nameField = "long_name"
+) => {
+  if (!Array.isArray(addressComponents)) {
+    return null;
+  }
+
+  const component = addressComponents.find(
+    (item) =>
+      Array.isArray(item?.types) &&
+      item.types.includes(type)
+  );
+
+  const value = component?.[nameField];
+
+  if (
+    typeof value !== "string" ||
+    !value.trim()
+  ) {
+    return null;
+  }
+
+  return value.trim();
+};
+
+const getLocationLabel = async ({
+  latitude,
+  longitude,
+}) => {
+  const { Geocoder } =
+    await window.google.maps.importLibrary(
+      "geocoding"
+    );
+
+  const geocoder = new Geocoder();
+
+  const { results } = await geocoder.geocode({
+    location: {
+      lat: latitude,
+      lng: longitude,
+    },
+  });
+
+  const result = results?.[0];
+  const addressComponents =
+    result?.address_components;
+
+  const city =
+    getAddressComponent(
+      addressComponents,
+      "locality"
+    ) ||
+    getAddressComponent(
+      addressComponents,
+      "postal_town"
+    ) ||
+    getAddressComponent(
+      addressComponents,
+      "administrative_area_level_2"
+    );
+
+  const state =
+    getAddressComponent(
+      addressComponents,
+      "administrative_area_level_1",
+      "short_name"
+    ) ||
+    getAddressComponent(
+      addressComponents,
+      "administrative_area_level_1"
+    );
+
+  if (city && state) {
+    return `${city}, ${state}`;
+  }
+
+  if (city) {
+    return city;
+  }
+
+  if (state) {
+    return state;
+  }
+
+  if (
+    typeof result?.formatted_address === "string" &&
+    result.formatted_address.trim()
+  ) {
+    return result.formatted_address.trim();
+  }
+
+  return `${latitude.toFixed(4)}, ${longitude.toFixed(4)}`;
+};
+
+const getGeolocationErrorMessage = (error) => {
+  if (error?.code === 1) {
+    return (
+      "Location permission was denied. " +
+      "Choose a location manually instead."
+    );
+  }
+
+  if (error?.code === 2) {
+    return (
+      "Your current location could not be determined. " +
+      "Choose a location manually instead."
+    );
+  }
+
+  if (error?.code === 3) {
+    return (
+      "Finding your current location took too long. " +
+      "Please try again."
+    );
+  }
+
+  return "CityGuide could not access your current location.";
+};
 
 const hydrateDashboardIcons = () => {
   if (window.lucide) {
@@ -179,8 +719,8 @@ const initializeInteractiveMap = async () => {
 
     const mapOptions = {
       center: {
-        lat: 43.6591,
-        lng: -70.2568,
+        lat: selectedLocation.latitude,
+        lng: selectedLocation.longitude,
       },
       zoom: 13,
       colorScheme: ColorScheme.DARK,
@@ -417,8 +957,8 @@ const buildSearchResultMessage = (
 
   return (
     `I found ${resultCount} ${resultLabel} matching ` +
-    `“${query}” near Portland. Here are the local ` +
-    "options I found."
+    `“${query}” near ${selectedLocation.label}. ` +
+    "Here are the local options I found."
   );
 };
 
@@ -519,6 +1059,7 @@ const buildWebsiteUrl = (website) => {
 const createPlaceAction = ({
   iconName,
   label,
+  ariaLabel = label,
   url,
 }) => {
   if (!url) {
@@ -528,7 +1069,7 @@ const createPlaceAction = ({
     button.disabled = true;
     button.setAttribute(
       "aria-label",
-      `${label} unavailable`
+      `${ariaLabel} unavailable`
     );
 
     const icon = document.createElement("span");
@@ -548,7 +1089,10 @@ const createPlaceAction = ({
   link.href = url;
   link.target = "_blank";
   link.rel = "noopener noreferrer";
-  link.setAttribute("aria-label", label);
+  link.setAttribute(
+    "aria-label",
+    ariaLabel
+  );
 
   if (url.startsWith("tel:")) {
     link.removeAttribute("target");
@@ -686,6 +1230,14 @@ const updateCurrentPlaces = (places) => {
       place,
     ])
   );
+
+  const savedPlaceIds = loadSavedPlaceIds();
+
+  normalizedPlaces.forEach((place) => {
+    if (savedPlaceIds.has(place.id)) {
+      persistSavedPlaceRecord(place);
+    }
+  });
 
   return normalizedPlaces;
 };
@@ -826,9 +1378,14 @@ const createRecommendationCard = (place, index) => {
   const saveButton = document.createElement("button");
   saveButton.type = "button";
   saveButton.className = "save-place-button";
+  saveButton.dataset.placeId = place.id;
   saveButton.setAttribute(
     "aria-label",
     `Save ${place.name}`
+  );
+  saveButton.setAttribute(
+    "aria-pressed",
+    "false"
   );
   saveButton.setAttribute(
     "data-place-save-button",
@@ -859,17 +1416,20 @@ const createRecommendationCard = (place, index) => {
   actions.append(
     createPlaceAction({
       iconName: "navigation",
-      label: `Directions to ${place.name}`,
+      label: "Directions",
+      ariaLabel: `Get directions to ${place.name}`,
       url: buildDirectionsUrl(place),
     }),
     createPlaceAction({
       iconName: "phone",
-      label: `Call ${place.name}`,
+      label: "Call",
+      ariaLabel: `Call ${place.name}`,
       url: buildPhoneUrl(place.phone),
     }),
     createPlaceAction({
       iconName: "globe-2",
-      label: `Visit ${place.name} website`,
+      label: "Website",
+      ariaLabel: `Visit ${place.name} website`,
       url: buildWebsiteUrl(place.website),
     })
   );
@@ -915,6 +1475,155 @@ const createInspectorResult = (place, index) => {
   return result;
 };
 
+const createSavedPlaceCard = (place, index) => {
+  const card = createRecommendationCard(
+    place,
+    index
+  );
+
+  card.classList.remove(
+    "recommendation-card--selected"
+  );
+
+  card.removeAttribute(
+    "data-recommendation-card"
+  );
+
+  card.removeAttribute("tabindex");
+
+  return card;
+};
+
+const getSavedPlaces = () => {
+  const savedPlaceIds = loadSavedPlaceIds();
+  const records = loadSavedPlaceRecords();
+
+  return Array.from(savedPlaceIds)
+    .map((placeId, index) => {
+      const record =
+        records[placeId] || PLACES[placeId];
+
+      return record
+        ? normalizePlaceForDashboard(
+            record,
+            index
+          )
+        : null;
+    })
+    .filter(Boolean);
+};
+
+const renderSavedPlacesView = () => {
+  const list = document.querySelector(
+    SELECTORS.savedPlacesList
+  );
+
+  const emptyState = document.querySelector(
+    SELECTORS.savedPlacesEmpty
+  );
+
+  if (!list || !emptyState) {
+    return;
+  }
+
+  const places = getSavedPlaces();
+
+  list.replaceChildren(
+    ...places.map(createSavedPlaceCard)
+  );
+
+  list.hidden = places.length === 0;
+  emptyState.hidden = places.length > 0;
+
+  places.forEach((place) => {
+    updateSavedPlaceButtons(place.id);
+  });
+
+  hydrateDashboardIcons();
+};
+
+const setDashboardView = (viewName) => {
+  const isSavedView = viewName === "saved";
+
+  activeDashboardView = isSavedView
+    ? "saved"
+    : "explore";
+
+  document
+    .querySelectorAll(SELECTORS.dashboardView)
+    .forEach((view) => {
+      view.hidden =
+        view.dataset.dashboardView !==
+        activeDashboardView;
+    });
+
+  document
+    .querySelectorAll(
+      SELECTORS.dashboardNavigation
+    )
+    .forEach((link) => {
+      const isActive =
+        link.dataset.dashboardNavigation ===
+        activeDashboardView;
+
+      link.classList.toggle(
+        "sidebar-link--active",
+        isActive
+      );
+
+      if (isActive) {
+        link.setAttribute(
+          "aria-current",
+          "page"
+        );
+      } else {
+        link.removeAttribute("aria-current");
+      }
+    });
+
+  document
+    .querySelector(SELECTORS.sidebarShell)
+    ?.classList.toggle(
+      "dashboard-shell--saved-view",
+      isSavedView
+    );
+
+  if (isSavedView) {
+    renderSavedPlacesView();
+  }
+};
+
+const initializeDashboardNavigation = () => {
+  document
+    .querySelectorAll(
+      SELECTORS.dashboardNavigation
+    )
+    .forEach((link) => {
+      link.addEventListener(
+        "click",
+        (event) => {
+          event.preventDefault();
+
+          setDashboardView(
+            link.dataset.dashboardNavigation
+          );
+        }
+      );
+    });
+
+  document
+    .querySelector(
+      SELECTORS.savedPlacesExplore
+    )
+    ?.addEventListener("click", () => {
+      setDashboardView("explore");
+
+      document
+        .querySelector(SELECTORS.searchInput)
+        ?.focus();
+    });
+};
+
 const renderRecommendationCards = (places) => {
   const recommendationList = document.querySelector(
     SELECTORS.recommendationList
@@ -927,6 +1636,10 @@ const renderRecommendationCards = (places) => {
   recommendationList.replaceChildren(
     ...places.map(createRecommendationCard)
   );
+
+  places.forEach((place) => {
+    updateSavedPlaceButtons(place.id);
+  });
 
   initializeRecommendationCards();
   hydrateDashboardIcons();
@@ -1112,6 +1825,9 @@ const updateSelectedPlacePhoto = (
   const attribution = document.querySelector(
     SELECTORS.placePhotoAttribution
   );
+  const gallery = document.querySelector(
+    SELECTORS.placeGallery
+  );
 
   if (!hero || !heroPhoto || !attribution) {
     return;
@@ -1119,8 +1835,8 @@ const updateSelectedPlacePhoto = (
 
   const photoUrl = buildPlacePhotoUrl(photo, 1600);
 
-  hero
-    .querySelectorAll(".place-gallery-thumbnail")
+  gallery
+    ?.querySelectorAll(".place-gallery-thumbnail")
     .forEach((thumbnail, index) => {
       thumbnail.classList.toggle(
         "place-gallery-thumbnail--active",
@@ -1196,7 +1912,7 @@ const renderSelectedPlacePhotos = (place) => {
         typeof photo?.name === "string" &&
         photo.name.trim().length > 0
     )
-    .slice(0, 4);
+    .slice(0, 5);
 
   gallery.replaceChildren(
     ...photos.map((photo, index) =>
@@ -1245,13 +1961,15 @@ const updatePlaceDetails = (placeId) => {
     formatOpenStatus(place.open_now);
 
   document
-    .querySelectorAll(SELECTORS.placeSaveButton)
+    .querySelectorAll(
+      ".place-details-card [data-place-save-button]"
+    )
     .forEach((button) => {
-      button.setAttribute(
-        "aria-label",
-        `Save ${place.name}`
-      );
+      button.dataset.placeId = place.id;
+      button.disabled = false;
     });
+
+  updateSavedPlaceButtons(place.id);
 
   document.querySelector("[data-place-rating]").textContent =
     ratingLabel;
@@ -1387,6 +2105,34 @@ const clearSelectedPlaceDetails = () => {
   if (reasons) {
     reasons.replaceChildren();
   }
+
+  document
+    .querySelectorAll(
+      ".place-details-card [data-place-save-button]"
+    )
+    .forEach((button) => {
+      delete button.dataset.placeId;
+      button.disabled = true;
+      button.classList.remove(
+        "place-save-control--saved"
+      );
+      button.setAttribute(
+        "aria-pressed",
+        "false"
+      );
+      button.setAttribute(
+        "aria-label",
+        "Save selected place"
+      );
+
+      const label = button.querySelector(
+        "[data-place-save-label]"
+      );
+
+      if (label) {
+        label.textContent = "Save";
+      }
+    });
 
   if (hero && heroPhoto) {
     hero.classList.remove("place-hero--has-photo");
@@ -2021,8 +2767,8 @@ const searchPlaces = async (query, { signal } = {}) => {
     body: JSON.stringify({
       query,
       location: {
-        latitude: 43.6591,
-        longitude: -70.2568,
+        latitude: selectedLocation.latitude,
+        longitude: selectedLocation.longitude,
       },
     }),
   });
@@ -2041,6 +2787,47 @@ const searchPlaces = async (query, { signal } = {}) => {
       "CityGuide could not complete your search.";
 
     throw new Error(message);
+  }
+
+  return data;
+};
+
+const continueSearchConversation = async (
+  sessionId,
+  message,
+  { signal } = {}
+) => {
+  const response = await fetch(
+    `/api/v1/search/${encodeURIComponent(sessionId)}/continue`,
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      signal,
+      body: JSON.stringify({
+        message,
+      }),
+    }
+  );
+
+  let data = {};
+
+  try {
+    data = await response.json();
+  } catch {
+    data = {};
+  }
+
+  if (!response.ok) {
+    const error = new Error(
+      data.error?.message ||
+        "CityGuide could not continue the conversation."
+    );
+
+    error.status = response.status;
+
+    throw error;
   }
 
   return data;
@@ -2218,6 +3005,9 @@ const initializeDashboardSearch = () => {
     }
 
     const requestId = ++latestSearchRequestId;
+    const isFollowUp =
+      typeof activeSearchSessionId === "string" &&
+      activeSearchSessionId.length > 0;
 
     appendConversationMessage({
       role: "user",
@@ -2227,7 +3017,9 @@ const initializeDashboardSearch = () => {
     const pendingAssistantMessage =
       appendConversationMessage({
         role: "assistant",
-        text: "Searching for local places...",
+        text: isFollowUp
+          ? "Reviewing your current results..."
+          : "Searching for local places...",
         pending: true,
       });
 
@@ -2236,21 +3028,51 @@ const initializeDashboardSearch = () => {
     input.disabled = true;
     submitButton.disabled = true;
 
-    setSearchLoadingState(true);
-    hideResultsState();
+    if (isFollowUp) {
+      status.textContent =
+        "Continuing the current conversation.";
+    } else {
+      setSearchLoadingState(true);
+      hideResultsState();
 
-    status.textContent =
-      "Searching for local businesses.";
+      status.textContent =
+        "Searching for local businesses.";
+    }
 
     let searchFailed = false;
 
     const controller = new AbortController();
     const timeoutId = window.setTimeout(
       () => controller.abort(),
-      15000
+      SEARCH_TIMEOUT_MILLISECONDS
     );
 
     try {
+      if (isFollowUp) {
+        const continuationResponse =
+          await continueSearchConversation(
+            activeSearchSessionId,
+            query,
+            {
+              signal: controller.signal,
+            }
+          );
+
+        if (requestId !== latestSearchRequestId) {
+          return;
+        }
+
+        updateConversationMessage(
+          pendingAssistantMessage,
+          continuationResponse.response
+        );
+
+        status.textContent =
+          "Conversation continued.";
+
+        return;
+      }
+
       const searchResponse = await searchPlaces(query, {
         signal: controller.signal,
       });
@@ -2258,6 +3080,11 @@ const initializeDashboardSearch = () => {
       if (requestId !== latestSearchRequestId) {
         return;
       }
+
+      activeSearchSessionId =
+        typeof searchResponse.search_id === "string"
+          ? searchResponse.search_id
+          : null;
 
       if (searchResponse.results.length === 0) {
         clearSearchResults();
@@ -2286,12 +3113,18 @@ const initializeDashboardSearch = () => {
 
       applySearchResults(searchResponse.results);
 
+      const assistantResponse =
+        typeof searchResponse.assistant_response === "string"
+          ? searchResponse.assistant_response.trim()
+          : "";
+
       updateConversationMessage(
         pendingAssistantMessage,
-        buildSearchResultMessage(
-          query,
-          searchResponse.result_count
-        )
+        assistantResponse ||
+          buildSearchResultMessage(
+            query,
+            searchResponse.result_count
+          )
       );
 
       console.log(
@@ -2303,9 +3136,19 @@ const initializeDashboardSearch = () => {
         return;
       }
 
-      clearSearchResults();
+      if (!isFollowUp) {
+        clearSearchResults();
+      }
 
       searchFailed = true;
+
+      if (
+        isFollowUp &&
+        error instanceof Error &&
+        error.status === 404
+      ) {
+        activeSearchSessionId = null;
+      }
 
       const requestTimedOut =
         error instanceof Error &&
@@ -2322,16 +3165,23 @@ const initializeDashboardSearch = () => {
       updateConversationMessage(
         pendingAssistantMessage,
         requestTimedOut
-          ? "The local search took too long. Please try again."
+          ? isFollowUp
+            ? "The follow-up took too long. Please try again."
+            : "The local search took too long. Please try again."
+          : isFollowUp
+          ? "I couldn’t continue this conversation right now. " +
+            "Please try again."
           : "I couldn’t load local recommendations right now. " +
-              "Please try again."
+            "Please try again."
       );
 
-      showResultsState({
-        title: "We could not complete your search",
-        message,
-        isError: true,
-      });
+      if (!isFollowUp) {
+        showResultsState({
+          title: "We could not complete your search",
+          message,
+          isError: true,
+        });
+      }
 
       console.error("CityGuide search failed:", error);
     } finally {
@@ -2341,10 +3191,12 @@ const initializeDashboardSearch = () => {
         return;
       }
 
-      if (searchFailed) {
-        setSearchErrorState();
-      } else {
-        setSearchLoadingState(false);
+      if (!isFollowUp) {
+        if (searchFailed) {
+          setSearchErrorState();
+        } else {
+          setSearchLoadingState(false);
+        }
       }
       input.disabled = false;
       updateSubmitState();
@@ -2360,21 +3212,319 @@ const initializeConversation = () => {
     role: "assistant",
     text:
       "Hi! Tell me what kind of place, service, food, or activity " +
-      "you are looking for in Portland.",
+      `you are looking for near ${selectedLocation.label}.`,
+  });
+};
+
+const initializeLocationSelector = () => {
+  const selector = document.querySelector(
+    SELECTORS.locationSelector
+  );
+
+  const panel = document.querySelector(
+    SELECTORS.locationPanel
+  );
+
+  const autocompleteContainer =
+    document.querySelector(
+      SELECTORS.locationAutocomplete
+    );
+
+  const status = document.querySelector(
+    SELECTORS.locationStatus
+  );
+
+  const currentLocationButton =
+    document.querySelector(
+      SELECTORS.currentLocationButton
+    );
+
+  if (
+    !selector ||
+    !panel ||
+    !autocompleteContainer ||
+    !status ||
+    !currentLocationButton
+  ) {
+    return;
+  }
+
+  const setPanelOpen = (isOpen) => {
+    panel.hidden = !isOpen;
+
+    selector.setAttribute(
+      "aria-expanded",
+      String(isOpen)
+    );
+  };
+
+  selector.addEventListener("click", () => {
+    setPanelOpen(panel.hidden);
+  });
+
+  document.addEventListener("click", (event) => {
+    if (
+      panel.hidden ||
+      event.target.closest(".location-control")
+    ) {
+      return;
+    }
+
+    setPanelOpen(false);
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key !== "Escape" || panel.hidden) {
+      return;
+    }
+
+    setPanelOpen(false);
+    selector.focus();
+  });
+
+  currentLocationButton.addEventListener(
+    "click",
+    () => {
+      if (!navigator.geolocation) {
+        status.textContent =
+          "Current-location detection is not supported. " +
+          "Choose a location manually instead.";
+
+        return;
+      }
+
+      currentLocationButton.disabled = true;
+      status.textContent =
+        "Finding your current location...";
+
+      navigator.geolocation.getCurrentPosition(
+        async ({ coords }) => {
+          const latitude = coords.latitude;
+          const longitude = coords.longitude;
+
+          try {
+            await loadGoogleMapsLibrary();
+
+            const label = await getLocationLabel({
+              latitude,
+              longitude,
+            });
+
+            setSelectedLocation({
+              label,
+              latitude,
+              longitude,
+            });
+
+            clearSearchResults();
+
+            status.textContent =
+              `Search location changed to ${label}.`;
+
+            appendConversationMessage({
+              role: "assistant",
+              text:
+                `Search location changed to ${label}. ` +
+                "Your next search will use this area.",
+            });
+
+            setPanelOpen(false);
+          } catch (error) {
+            const fallbackLabel =
+              `${latitude.toFixed(4)}, ${longitude.toFixed(4)}`;
+
+            setSelectedLocation({
+              label: fallbackLabel,
+              latitude,
+              longitude,
+            });
+
+            clearSearchResults();
+
+            status.textContent =
+              "Your current coordinates were found, but the " +
+              "location name could not be determined.";
+
+            appendConversationMessage({
+              role: "assistant",
+              text:
+                `Search location changed to ${fallbackLabel}. ` +
+                "Your next search will use this area.",
+            });
+
+            setPanelOpen(false);
+
+            console.error(
+              "CityGuide reverse geocoding failed:",
+              error
+            );
+          } finally {
+            currentLocationButton.disabled = false;
+          }
+        },
+        (error) => {
+          currentLocationButton.disabled = false;
+          status.textContent =
+            getGeolocationErrorMessage(error);
+
+          console.error(
+            "CityGuide geolocation failed:",
+            error
+          );
+        },
+        {
+          enableHighAccuracy: false,
+          timeout: 10000,
+          maximumAge: 300000,
+        }
+      );
+    }
+  );
+
+  void loadGoogleMapsLibrary()
+    .then(async () => {
+      const { PlaceAutocompleteElement } =
+        await window.google.maps.importLibrary(
+          "places"
+        );
+
+      const autocomplete =
+        new PlaceAutocompleteElement();
+
+      autocomplete.placeholder =
+        "Search for a city or area";
+
+      autocomplete.addEventListener(
+        "gmp-select",
+        async ({ placePrediction }) => {
+          status.textContent =
+            "Updating search location...";
+
+          try {
+            const place =
+              placePrediction.toPlace();
+
+            await place.fetchFields({
+              fields: [
+                "displayName",
+                "formattedAddress",
+                "location",
+              ],
+            });
+
+            const latitude =
+              place.location?.lat();
+
+            const longitude =
+              place.location?.lng();
+
+            const label =
+              place.formattedAddress ||
+              place.displayName;
+
+            setSelectedLocation({
+              label,
+              latitude,
+              longitude,
+            });
+
+            status.textContent =
+              `Search location changed to ${label}.`;
+
+            appendConversationMessage({
+              role: "assistant",
+              text:
+                `Search location changed to ${label}. ` +
+                "Your next search will use this area.",
+            });
+
+            clearSearchResults();
+            setPanelOpen(false);
+          } catch (error) {
+            status.textContent =
+              "CityGuide could not use that location.";
+
+            console.error(
+              "CityGuide location selection failed:",
+              error
+            );
+          }
+        }
+      );
+
+      autocompleteContainer.replaceChildren(
+        autocomplete
+      );
+    })
+    .catch((error) => {
+      status.textContent =
+        "Location search is temporarily unavailable.";
+
+      console.error(
+        "CityGuide location autocomplete failed:",
+        error
+      );
+    });
+};
+
+const initializeNewChat = () => {
+  const button = document.querySelector(
+    SELECTORS.newChatButton
+  );
+
+  const conversation = document.querySelector(
+    SELECTORS.conversation
+  );
+
+  if (!button || !conversation) {
+    return;
+  }
+
+  button.addEventListener("click", () => {
+    setDashboardView("explore");
+
+    activeSearchSessionId = null;
+    latestSearchRequestId += 1;
+
+    clearSearchResults();
+    conversation.replaceChildren();
+
+    initializeConversation();
+    setSearchProgressItemsState("ready");
+
+    const status = document.querySelector(
+      SELECTORS.searchStatus
+    );
+
+    if (status) {
+      status.textContent =
+        "Ready for a new local search.";
+    }
+
+    resetSearchComposer();
+
+    document
+      .querySelector(SELECTORS.searchInput)
+      ?.focus();
   });
 };
 
 const initializeDashboard = () => {
+  updateLocationLabels();
+  initializeLocationSelector();
   initializeConversation();
   setSearchProgressItemsState("ready");
   initializeFilterChips();
   initializeRecommendationCards();
+  initializeSavedPlaces();
+  initializeDashboardNavigation();
   initializeInspectorTabs();
   initializeInspectorResults();
   activateInspectorTab("map");
   initializeSidebarToggle();
   initializeMobileSidebar();
   initializeMobileInspector();
+  initializeNewChat();
   initializeDashboardSearch();
   syncMobileDrawerAccessibility();
 };

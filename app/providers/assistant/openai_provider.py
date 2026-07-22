@@ -7,6 +7,23 @@ from app.models.search_intent import SearchIntent
 from app.providers.assistant.base import AssistantProvider
 
 
+ASSISTANT_PLACE_FIELDS = (
+    "id",
+    "name",
+    "category",
+    "address",
+    "rating",
+    "review_count",
+    "price_level",
+    "open_now",
+    "distance_miles",
+    "hours_text",
+    "description",
+    "tags",
+    "match_reasons",
+)
+
+
 class OpenAIAssistantProvider(AssistantProvider):
     """OpenAI-backed assistant provider for grounded place search."""
 
@@ -100,6 +117,23 @@ class OpenAIAssistantProvider(AssistantProvider):
             ),
         )
 
+    @staticmethod
+    def _grounding_instructions() -> str:
+        return (
+            "Use only facts explicitly present in the supplied place "
+            "results. Never infer an attribute from a place category, "
+            "business name, rating, popularity, or price. In particular, "
+            "do not infer quietness, noise level, study suitability, "
+            "Wi-Fi, electrical outlets, atmosphere, safety, "
+            "accessibility, official hotel star classification, or any "
+            "other missing amenity or quality. A Google review rating is "
+            "not an official hotel star classification. If a requested "
+            "constraint cannot be verified from the supplied fields, say "
+            "so clearly. Recommend no more than four places unless the "
+            "user explicitly requests more. Be concise and do not repeat "
+            "phone numbers, websites, map links, or raw metadata."
+        )
+
     def generate_search_response(
         self,
         query: str,
@@ -112,19 +146,20 @@ class OpenAIAssistantProvider(AssistantProvider):
                 "I could not find any places matching your request."
             )
 
+        place_context = self._build_place_context(
+            places
+        )
+
         response = self.client.responses.create(
             model=self.model,
             instructions=(
-                "Answer the user's local-search request using only the "
-                "supplied place results. Do not invent places, ratings, "
-                "prices, addresses, opening hours, distances, or other "
-                "facts. If the supplied data does not answer part of the "
-                "request, say that clearly."
+                "Answer the user's local-search request. "
+                f"{self._grounding_instructions()}"
             ),
             input=(
                 f"User request:\n{query}\n\n"
                 "Retrieved place results:\n"
-                f"{json.dumps(places, ensure_ascii=False)}"
+                f"{json.dumps(place_context, ensure_ascii=False)}"
             ),
         )
 
@@ -138,24 +173,80 @@ class OpenAIAssistantProvider(AssistantProvider):
     ) -> str:
         """Continue a conversation using existing grounded results."""
 
+        place_context = self._build_place_context(
+            places
+        )
+
         response = self.client.responses.create(
             model=self.model,
             instructions=(
-                "Continue the local-search conversation using only the "
-                "supplied conversation history and place results. "
-                "Do not invent place facts. If the requested information "
-                "is unavailable in the supplied data, say so clearly."
+                "Continue the current local-search conversation using "
+                "the existing result set. Do not perform or imply a new "
+                "place search. "
+                f"{self._grounding_instructions()}"
             ),
             input=(
                 "Conversation history:\n"
                 f"{json.dumps(history, ensure_ascii=False)}\n\n"
                 "Retrieved place results:\n"
-                f"{json.dumps(places, ensure_ascii=False)}\n\n"
+                f"{json.dumps(place_context, ensure_ascii=False)}\n\n"
                 f"Latest user message:\n{message}"
             ),
         )
 
         return self._extract_output_text(response)
+
+    @classmethod
+    def _build_place_context(
+        cls,
+        places: list[dict[str, Any]],
+    ) -> list[dict[str, Any]]:
+        """Return only factual fields needed by the assistant."""
+
+        return [
+            cls._compact_place(place)
+            for place in places
+            if isinstance(place, dict)
+        ]
+
+    @staticmethod
+    def _compact_place(
+        place: dict[str, Any],
+    ) -> dict[str, Any]:
+        """Remove fields that are unnecessary for assistant reasoning."""
+
+        compact_place = {}
+
+        for field in ASSISTANT_PLACE_FIELDS:
+            value = place.get(field)
+
+            if value is None:
+                continue
+
+            if isinstance(value, str):
+                normalized_value = value.strip()
+
+                if not normalized_value:
+                    continue
+
+                compact_place[field] = normalized_value
+                continue
+
+            if isinstance(value, (list, tuple)):
+                normalized_items = [
+                    item.strip()
+                    for item in value
+                    if isinstance(item, str) and item.strip()
+                ]
+
+                if normalized_items:
+                    compact_place[field] = normalized_items
+
+                continue
+
+            compact_place[field] = value
+
+        return compact_place
 
     @staticmethod
     def _extract_output_text(response: Any) -> str:

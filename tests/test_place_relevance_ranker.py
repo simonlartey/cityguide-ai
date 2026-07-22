@@ -112,7 +112,7 @@ def test_ranker_uses_review_count_after_rating():
     assert ranked[0]["name"] == "Cafe Two"
 
 
-def test_ranker_uses_distance_after_quality_tiebreakers():
+def test_ranker_prioritizes_nearby_places_before_rating():
     ranker = PlaceRelevanceRanker()
 
     places = [
@@ -121,9 +121,9 @@ def test_ranker_uses_distance_after_quality_tiebreakers():
             "category": "Cafe",
             "primary_type": "cafe",
             "types": ["cafe"],
-            "rating": 4.5,
-            "review_count": 100,
-            "distance_miles": 2.0,
+            "rating": 4.9,
+            "review_count": 1000,
+            "distance_miles": 47.3,
         },
         {
             "name": "Near Cafe",
@@ -132,13 +132,139 @@ def test_ranker_uses_distance_after_quality_tiebreakers():
             "types": ["cafe"],
             "rating": 4.5,
             "review_count": 100,
-            "distance_miles": 0.4,
+            "distance_miles": 1.7,
+        },
+    ]
+
+    ranked = ranker.rank(
+        "cafe",
+        places,
+    )
+
+    assert ranked[0]["name"] == "Near Cafe"
+
+
+def test_ranker_uses_rating_within_same_distance_tier():
+    ranker = PlaceRelevanceRanker()
+
+    places = [
+        {
+            "name": "Lower Rated Cafe",
+            "category": "Cafe",
+            "primary_type": "cafe",
+            "types": ["cafe"],
+            "rating": 4.4,
+            "review_count": 300,
+            "distance_miles": 0.6,
+        },
+        {
+            "name": "Higher Rated Cafe",
+            "category": "Cafe",
+            "primary_type": "cafe",
+            "types": ["cafe"],
+            "rating": 4.8,
+            "review_count": 100,
+            "distance_miles": 0.8,
         },
     ]
 
     ranked = ranker.rank("cafe", places)
 
-    assert ranked[0]["name"] == "Near Cafe"
+    assert ranked[0]["name"] == "Higher Rated Cafe"
+
+
+def test_ranker_uses_exact_distance_for_near_me_queries():
+    ranker = PlaceRelevanceRanker()
+
+    places = [
+        {
+            "name": "Higher Rated Cafe",
+            "category": "Cafe",
+            "primary_type": "cafe",
+            "types": ["cafe"],
+            "rating": 4.9,
+            "review_count": 900,
+            "distance_miles": 2.0,
+        },
+        {
+            "name": "Closest Cafe",
+            "category": "Cafe",
+            "primary_type": "cafe",
+            "types": ["cafe"],
+            "rating": 4.3,
+            "review_count": 100,
+            "distance_miles": 1.7,
+        },
+    ]
+
+    ranked = ranker.rank(
+        "cafe",
+        places,
+        original_query="Find a cafe near me",
+    )
+
+    assert ranked[0]["name"] == "Closest Cafe"
+
+
+def test_ranker_uses_quality_within_distance_tier_for_normal_search():
+    ranker = PlaceRelevanceRanker()
+
+    places = [
+        {
+            "name": "Higher Rated Cafe",
+            "category": "Cafe",
+            "primary_type": "cafe",
+            "types": ["cafe"],
+            "rating": 4.9,
+            "review_count": 900,
+            "distance_miles": 2.0,
+        },
+        {
+            "name": "Closer Cafe",
+            "category": "Cafe",
+            "primary_type": "cafe",
+            "types": ["cafe"],
+            "rating": 4.3,
+            "review_count": 100,
+            "distance_miles": 1.7,
+        },
+    ]
+
+    ranked = ranker.rank(
+        "cafe",
+        places,
+    )
+
+    assert ranked[0]["name"] == "Higher Rated Cafe"
+
+
+def test_ranker_places_unknown_distance_after_known_distance():
+    ranker = PlaceRelevanceRanker()
+
+    places = [
+        {
+            "name": "Unknown Distance Cafe",
+            "category": "Cafe",
+            "primary_type": "cafe",
+            "types": ["cafe"],
+            "rating": 5.0,
+            "review_count": 1000,
+            "distance_miles": None,
+        },
+        {
+            "name": "Known Distance Cafe",
+            "category": "Cafe",
+            "primary_type": "cafe",
+            "types": ["cafe"],
+            "rating": 4.2,
+            "review_count": 50,
+            "distance_miles": 2.0,
+        },
+    ]
+
+    ranked = ranker.rank("cafe", places)
+
+    assert ranked[0]["name"] == "Known Distance Cafe"
 
 
 def test_ranker_handles_missing_and_malformed_metadata():
