@@ -131,7 +131,7 @@ def test_parse_search_intent_normalizes_invalid_field_types():
     assert intent.open_now is None
 
 
-def test_generate_search_response_uses_grounded_places():
+def test_generate_search_response_uses_compact_grounded_places():
     provider, client = build_provider(
         "Campus Cafe is the strongest match."
     )
@@ -140,8 +140,20 @@ def test_generate_search_response_uses_grounded_places():
         query="Find a quiet cafe",
         places=[
             {
+                "id": "campus-cafe",
                 "name": "Campus Cafe",
                 "rating": 4.7,
+                "review_count": 210,
+                "price_level": 1,
+                "distance_miles": 0.4,
+                "photos": [
+                    {
+                        "name": "places/photo-reference",
+                    }
+                ],
+                "phone": "(555) 010-1000",
+                "website": "https://example.com",
+                "maps_url": "https://maps.example.com",
             }
         ],
     )
@@ -149,10 +161,29 @@ def test_generate_search_response_uses_grounded_places():
     assert response == "Campus Cafe is the strongest match."
 
     call = client.responses.create.call_args.kwargs
+    assistant_input = call["input"]
+    instructions = call["instructions"]
 
     assert call["model"] == "test-model"
-    assert "Campus Cafe" in call["input"]
-    assert "Do not invent" in call["instructions"]
+    assert "campus-cafe" in assistant_input
+    assert "Campus Cafe" in assistant_input
+    assert '"rating": 4.7' in assistant_input
+    assert '"distance_miles": 0.4' in assistant_input
+
+    assert "photos" not in assistant_input
+    assert "photo-reference" not in assistant_input
+    assert "phone" not in assistant_input
+    assert "(555) 010-1000" not in assistant_input
+    assert "website" not in assistant_input
+    assert "https://example.com" not in assistant_input
+    assert "maps_url" not in assistant_input
+
+    assert "Never infer" in instructions
+    assert "quietness" in instructions
+    assert "study suitability" in instructions
+    assert "Wi-Fi" in instructions
+    assert "official hotel star classification" in instructions
+    assert "no more than four places" in instructions
 
 
 def test_generate_search_response_handles_no_places_without_api_call():
@@ -191,8 +222,11 @@ def test_continue_conversation_uses_history_and_places():
         message="Which one has the higher rating?",
         places=[
             {
+                "id": "campus-cafe",
                 "name": "Campus Cafe",
                 "rating": 4.7,
+                "phone": "(555) 010-1000",
+                "photos": [{"name": "private-photo-data"}],
             }
         ],
     )
@@ -204,6 +238,54 @@ def test_continue_conversation_uses_history_and_places():
     assert "Find quiet cafes" in call["input"]
     assert "Which one has the higher rating?" in call["input"]
     assert "Campus Cafe" in call["input"]
+    assert "campus-cafe" in call["input"]
+    assert "(555) 010-1000" not in call["input"]
+    assert "private-photo-data" not in call["input"]
+
+    assert (
+        "existing result set"
+        in call["instructions"]
+    )
+
+    assert (
+        "Do not perform or imply a new place search"
+        in call["instructions"]
+    )
+
+    assert "Never infer" in call["instructions"]
+
+
+def test_build_place_context_removes_unnecessary_fields():
+    provider, _ = build_provider("Unused response")
+
+    context = provider._build_place_context(
+        [
+            {
+                "id": "campus-cafe",
+                "name": " Campus Cafe ",
+                "rating": 4.7,
+                "open_now": False,
+                "price_level": 0,
+                "description": "   ",
+                "tags": [" cafe ", "", 123],
+                "phone": "(555) 010-1000",
+                "website": "https://example.com",
+                "maps_url": "https://maps.example.com",
+                "photos": [{"name": "photo-reference"}],
+            }
+        ]
+    )
+
+    assert context == [
+        {
+            "id": "campus-cafe",
+            "name": "Campus Cafe",
+            "rating": 4.7,
+            "price_level": 0,
+            "open_now": False,
+            "tags": ["cafe"],
+        }
+    ]
 
 
 def test_provider_rejects_empty_output_text():
