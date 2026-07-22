@@ -111,6 +111,33 @@ const setSelectedLocation = ({
   }
 };
 
+const getAddressComponent = (
+  addressComponents,
+  type,
+  nameField = "long_name"
+) => {
+  if (!Array.isArray(addressComponents)) {
+    return null;
+  }
+
+  const component = addressComponents.find(
+    (item) =>
+      Array.isArray(item?.types) &&
+      item.types.includes(type)
+  );
+
+  const value = component?.[nameField];
+
+  if (
+    typeof value !== "string" ||
+    !value.trim()
+  ) {
+    return null;
+  }
+
+  return value.trim();
+};
+
 const getLocationLabel = async ({
   latitude,
   longitude,
@@ -130,6 +157,45 @@ const getLocationLabel = async ({
   });
 
   const result = results?.[0];
+  const addressComponents =
+    result?.address_components;
+
+  const city =
+    getAddressComponent(
+      addressComponents,
+      "locality"
+    ) ||
+    getAddressComponent(
+      addressComponents,
+      "postal_town"
+    ) ||
+    getAddressComponent(
+      addressComponents,
+      "administrative_area_level_2"
+    );
+
+  const state =
+    getAddressComponent(
+      addressComponents,
+      "administrative_area_level_1",
+      "short_name"
+    ) ||
+    getAddressComponent(
+      addressComponents,
+      "administrative_area_level_1"
+    );
+
+  if (city && state) {
+    return `${city}, ${state}`;
+  }
+
+  if (city) {
+    return city;
+  }
+
+  if (state) {
+    return state;
+  }
 
   if (
     typeof result?.formatted_address === "string" &&

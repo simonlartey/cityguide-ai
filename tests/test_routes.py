@@ -264,6 +264,21 @@ def test_dashboard_supports_current_location_detection(client):
 
     assert "getLocationLabel" in javascript
     assert "getGeolocationErrorMessage" in javascript
+    assert "getAddressComponent" in javascript
+    assert '"locality"' in javascript
+    assert '"postal_town"' in javascript
+
+    assert (
+        '"administrative_area_level_2"'
+        in javascript
+    )
+
+    assert (
+        '"administrative_area_level_1"'
+        in javascript
+    )
+
+    assert '"short_name"' in javascript
     assert "fallbackLabel" in javascript
 
     assert (
