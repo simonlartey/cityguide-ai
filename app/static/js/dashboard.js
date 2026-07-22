@@ -1,6 +1,11 @@
 const SELECTORS = {
   conversation: "#dashboard-conversation",
   locationLabel: "[data-current-location-label]",
+  locationSelector: "[data-location-selector]",
+  locationPanel: "[data-location-panel]",
+  locationAutocomplete:
+    "[data-location-autocomplete]",
+  locationStatus: "[data-location-status]",
   filterChip: "[data-filter]",
   recommendationCard: "[data-recommendation-card]",
   recommendationList: ".recommendation-list",
@@ -68,6 +73,40 @@ const updateLocationLabels = () => {
     .forEach((element) => {
       element.textContent = selectedLocation.label;
     });
+};
+
+const setSelectedLocation = ({
+  label,
+  latitude,
+  longitude,
+}) => {
+  if (
+    typeof label !== "string" ||
+    !label.trim() ||
+    !Number.isFinite(latitude) ||
+    !Number.isFinite(longitude)
+  ) {
+    throw new TypeError(
+      "A valid location label and coordinates are required."
+    );
+  }
+
+  selectedLocation = {
+    label: label.trim(),
+    latitude,
+    longitude,
+  };
+
+  updateLocationLabels();
+
+  if (dashboardMap) {
+    dashboardMap.setCenter({
+      lat: latitude,
+      lng: longitude,
+    });
+
+    dashboardMap.setZoom(13);
+  }
 };
 
 const hydrateDashboardIcons = () => {
@@ -2389,8 +2428,148 @@ const initializeConversation = () => {
   });
 };
 
+const initializeLocationSelector = () => {
+  const selector = document.querySelector(
+    SELECTORS.locationSelector
+  );
+
+  const panel = document.querySelector(
+    SELECTORS.locationPanel
+  );
+
+  const autocompleteContainer =
+    document.querySelector(
+      SELECTORS.locationAutocomplete
+    );
+
+  const status = document.querySelector(
+    SELECTORS.locationStatus
+  );
+
+  if (
+    !selector ||
+    !panel ||
+    !autocompleteContainer ||
+    !status
+  ) {
+    return;
+  }
+
+  const setPanelOpen = (isOpen) => {
+    panel.hidden = !isOpen;
+
+    selector.setAttribute(
+      "aria-expanded",
+      String(isOpen)
+    );
+  };
+
+  selector.addEventListener("click", () => {
+    setPanelOpen(panel.hidden);
+  });
+
+  document.addEventListener("click", (event) => {
+    if (
+      panel.hidden ||
+      event.target.closest(".location-control")
+    ) {
+      return;
+    }
+
+    setPanelOpen(false);
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key !== "Escape" || panel.hidden) {
+      return;
+    }
+
+    setPanelOpen(false);
+    selector.focus();
+  });
+
+  void loadGoogleMapsLibrary()
+    .then(async () => {
+      const { PlaceAutocompleteElement } =
+        await window.google.maps.importLibrary(
+          "places"
+        );
+
+      const autocomplete =
+        new PlaceAutocompleteElement();
+
+      autocomplete.placeholder =
+        "Search for a city or area";
+
+      autocomplete.addEventListener(
+        "gmp-select",
+        async ({ placePrediction }) => {
+          status.textContent =
+            "Updating search location...";
+
+          try {
+            const place =
+              placePrediction.toPlace();
+
+            await place.fetchFields({
+              fields: [
+                "displayName",
+                "formattedAddress",
+                "location",
+              ],
+            });
+
+            const latitude =
+              place.location?.lat();
+
+            const longitude =
+              place.location?.lng();
+
+            const label =
+              place.formattedAddress ||
+              place.displayName;
+
+            setSelectedLocation({
+              label,
+              latitude,
+              longitude,
+            });
+
+            status.textContent =
+              `Search location changed to ${label}.`;
+
+            clearSearchResults();
+            setPanelOpen(false);
+          } catch (error) {
+            status.textContent =
+              "CityGuide could not use that location.";
+
+            console.error(
+              "CityGuide location selection failed:",
+              error
+            );
+          }
+        }
+      );
+
+      autocompleteContainer.replaceChildren(
+        autocomplete
+      );
+    })
+    .catch((error) => {
+      status.textContent =
+        "Location search is temporarily unavailable.";
+
+      console.error(
+        "CityGuide location autocomplete failed:",
+        error
+      );
+    });
+};
+
 const initializeDashboard = () => {
   updateLocationLabels();
+  initializeLocationSelector();
   initializeConversation();
   setSearchProgressItemsState("ready");
   initializeFilterChips();

@@ -429,6 +429,57 @@ svg {
   color: var(--dashboard-accent);
 }
 
+.location-control {
+  position: relative;
+}
+
+.location-panel {
+  position: absolute;
+  z-index: 1200;
+  top: calc(100% + 10px);
+  left: 0;
+  width: min(360px, calc(100vw - 32px));
+  padding: 16px;
+  background: var(--dashboard-surface-raised);
+  border: 1px solid var(--dashboard-border);
+  border-radius: var(--dashboard-radius-md);
+  box-shadow: var(--dashboard-shadow);
+}
+
+.location-panel[hidden] {
+  display: none;
+}
+
+.location-panel-heading {
+  display: grid;
+  gap: 4px;
+  margin-bottom: 14px;
+}
+
+.location-panel-heading strong {
+  font-size: 0.95rem;
+}
+
+.location-panel-heading span,
+.location-status {
+  color: var(--dashboard-muted);
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.location-autocomplete {
+  min-height: 48px;
+}
+
+.location-autocomplete gmp-place-autocomplete {
+  width: 100%;
+}
+
+.location-status {
+  min-height: 1.25rem;
+  margin-top: 10px;
+}
+
 .workspace-actions {
   display: flex;
   align-items: center;

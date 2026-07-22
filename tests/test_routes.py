@@ -167,3 +167,58 @@ def test_dashboard_centralizes_selected_location(client):
         "data-current-location-label"
         in html
     )
+
+
+def test_dashboard_supports_manual_location_selection(client):
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+
+    dashboard_response = client.get(
+        "/dashboard"
+    )
+
+    stylesheet_response = client.get(
+        "/static/css/dashboard.css"
+    )
+
+    assert javascript_response.status_code == 200
+    assert dashboard_response.status_code == 200
+    assert stylesheet_response.status_code == 200
+
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+
+    html = dashboard_response.get_data(
+        as_text=True
+    )
+
+    stylesheet = stylesheet_response.get_data(
+        as_text=True
+    )
+
+    assert "PlaceAutocompleteElement" in javascript
+    assert '"gmp-select"' in javascript
+    assert "setSelectedLocation" in javascript
+    assert "data-location-selector" in html
+    assert "data-location-panel" in html
+    assert "data-location-autocomplete" in html
+    assert ".location-panel" in stylesheet
+    assert 'aria-expanded="false"' in html
+
+    assert (
+        'aria-controls="dashboard-location-panel"'
+        in html
+    )
+
+    assert 'id="dashboard-location-panel"' in html
+
+    assert (
+        'aria-label="Choose a search location"'
+        in html
+    )
+
+    assert 'role="status"' in html
+
+    assert 'aria-live="polite"' in html

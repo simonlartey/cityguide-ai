@@ -228,22 +228,55 @@
           ></span>
         </button>
 
-        <button
-          type="button"
-          class="location-selector"
-        >
-          <span
-            aria-hidden="true"
-            data-lucide="map-pin"
-          ></span>
+        <div class="location-control">
+          <button
+            type="button"
+            class="location-selector"
+            data-location-selector
+            aria-expanded="false"
+            aria-controls="dashboard-location-panel"
+          >
+            <span
+              aria-hidden="true"
+              data-lucide="map-pin"
+            ></span>
 
-          <span data-current-location-label>Portland, ME</span>
+            <span data-current-location-label>Portland, ME</span>
 
-          <span
-            aria-hidden="true"
-            data-lucide="chevron-down"
-          ></span>
-        </button>
+            <span
+              aria-hidden="true"
+              data-lucide="chevron-down"
+            ></span>
+          </button>
+
+          <section
+            id="dashboard-location-panel"
+            class="location-panel"
+            data-location-panel
+            aria-label="Choose a search location"
+            hidden
+          >
+            <div class="location-panel-heading">
+              <strong>Search location</strong>
+
+              <span>
+                Choose the city or area where you want to explore.
+              </span>
+            </div>
+
+            <div
+              class="location-autocomplete"
+              data-location-autocomplete
+            ></div>
+
+            <p
+              class="location-status"
+              data-location-status
+              role="status"
+              aria-live="polite"
+            ></p>
+          </section>
+        </div>
 
         <div class="workspace-actions">
           <button
