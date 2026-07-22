@@ -102,3 +102,25 @@ def test_static_assets_are_served(client, path):
     response = client.get(path)
 
     assert response.status_code == 200
+
+
+def test_dashboard_javascript_uses_assistant_response(client):
+    response = client.get(
+        "/static/js/dashboard.js"
+    )
+
+    assert response.status_code == 200
+
+    javascript = response.get_data(
+        as_text=True
+    )
+
+    assert (
+        "searchResponse.assistant_response"
+        in javascript
+    )
+
+    assert (
+        "assistantResponse ||"
+        in javascript
+    )

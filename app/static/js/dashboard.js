@@ -2286,12 +2286,18 @@ const initializeDashboardSearch = () => {
 
       applySearchResults(searchResponse.results);
 
+      const assistantResponse =
+        typeof searchResponse.assistant_response === "string"
+          ? searchResponse.assistant_response.trim()
+          : "";
+
       updateConversationMessage(
         pendingAssistantMessage,
-        buildSearchResultMessage(
-          query,
-          searchResponse.result_count
-        )
+        assistantResponse ||
+          buildSearchResultMessage(
+            query,
+            searchResponse.result_count
+          )
       );
 
       console.log(
