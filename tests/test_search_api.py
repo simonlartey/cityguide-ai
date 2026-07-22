@@ -524,3 +524,72 @@ def test_continue_search_requires_message(
     assert response.get_json()["error"]["code"] == (
         "invalid_message"
     )
+
+
+def test_continue_search_rejects_non_json_request(client):
+    response = client.post(
+        "/api/v1/search/session-123/continue",
+        data="message=Which one is cheaper?",
+        content_type="application/x-www-form-urlencoded",
+    )
+
+    assert response.status_code == 415
+
+    assert response.get_json() == {
+        "error": {
+            "code": "invalid_content_type",
+            "message": "Request body must use application/json.",
+        }
+    }
+
+
+def test_continue_search_handles_assistant_failure(
+    app,
+    client,
+):
+    initial_response = client.post(
+        "/api/v1/search",
+        json={
+            "query": "Find quiet cafes",
+        },
+    )
+
+    assert initial_response.status_code == 200
+
+    session_id = initial_response.get_json()["search_id"]
+
+    assistant_provider = Mock()
+    assistant_provider.continue_conversation.side_effect = (
+        RuntimeError("Assistant API failed.")
+    )
+
+    app.extensions["assistant_provider"] = assistant_provider
+
+    response = client.post(
+        f"/api/v1/search/{session_id}/continue",
+        json={
+            "message": "Which one has the highest rating?",
+        },
+    )
+
+    assert response.status_code == 503
+
+    assert response.get_json() == {
+        "error": {
+            "code": "assistant_provider_unavailable",
+            "message": (
+                "The search assistant is temporarily unavailable."
+            ),
+        }
+    }
+
+    repository = app.extensions[
+        "search_session_repository"
+    ]
+
+    session = repository.get(session_id)
+
+    assert session is not None
+    assert len(session.conversation_history) == 2
+
+    assistant_provider.continue_conversation.assert_called_once()
