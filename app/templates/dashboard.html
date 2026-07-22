@@ -67,29 +67,29 @@
         type="button"
         class="new-chat-button"
         data-new-chat-button
-        aria-label="New Chat"
+        aria-label="New Search"
       >
         <span
           aria-hidden="true"
           data-lucide="plus"
         ></span>
 
-        <span class="new-chat-label">New Chat</span>
+        <span class="new-chat-label">New Search</span>
       </button>
 
       <nav class="sidebar-navigation">
         <a
           href="{{ url_for('main.dashboard') }}"
           class="sidebar-link sidebar-link--active nav-link"
-          aria-label="Home"
+          aria-label="Explore"
           aria-current="page"
         >
           <span
             aria-hidden="true"
-            data-lucide="house"
+            data-lucide="compass"
           ></span>
 
-            <span class="sidebar-link-label">Home</span>
+            <span class="sidebar-link-label">Explore</span>
         </a>
 
         <a
@@ -108,74 +108,55 @@
         <a
           href="#"
           class="sidebar-link nav-link"
-          aria-label="Recent"
+          aria-label="Categories"
         >
           <span
             aria-hidden="true"
-            data-lucide="clock-3"
+            data-lucide="layout-grid"
           ></span>
 
-            <span class="sidebar-link-label">Recent</span>
+            <span class="sidebar-link-label">Categories</span>
         </a>
 
         <a
           href="#"
           class="sidebar-link nav-link"
-          aria-label="Collections"
+          aria-label="Student Deals"
         >
           <span
             aria-hidden="true"
-            data-lucide="folder"
+            data-lucide="badge-percent"
           ></span>
 
-            <span class="sidebar-link-label">Collections</span>
+            <span class="sidebar-link-label">Student Deals</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link nav-link"
+          aria-label="Community Picks"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="users"
+          ></span>
+
+            <span class="sidebar-link-label">Community Picks</span>
+        </a>
+
+        <a
+          href="#"
+          class="sidebar-link nav-link"
+          aria-label="History"
+        >
+          <span
+            aria-hidden="true"
+            data-lucide="history"
+          ></span>
+
+            <span class="sidebar-link-label">History</span>
         </a>
       </nav>
-
-      <section
-        class="sidebar-section recent-chats"
-        aria-labelledby="recent-chats-title"
-      >
-        <h2 id="recent-chats-title">
-          <span class="section-title">
-          Recent chats
-          </span>
-        </h2>
-
-        <div class="recent-chat-list">
-          <button
-            type="button"
-            class="recent-chat-item recent-chat"
-          >
-            <span class="chat-title">Best brunch spots</span>
-            <time class="chat-time" datetime="2026-07-14">Today</time>
-          </button>
-
-          <button
-            type="button"
-            class="recent-chat-item recent-chat recent-chat-item--active"
-          >
-            <span class="chat-title">Barbers for textured hair</span>
-            <time class="chat-time" datetime="2026-07-14">Today</time>
-          </button>
-
-          <button
-            type="button"
-            class="recent-chat-item recent-chat"
-          >
-            <span class="chat-title">Coffee shops with Wi-Fi</span>
-            <time class="chat-time" datetime="2026-07-13">Yesterday</time>
-          </button>
-
-          <button
-            type="button"
-            class="recent-chat-item recent-chat"
-          >
-            <span class="chat-title">Late night food</span>
-            <time class="chat-time" datetime="2026-07-12">2 days ago</time>
-          </button>
-        </div>
-      </section>
 
       <footer class="sidebar-footer">
         <div class="sidebar-profile">

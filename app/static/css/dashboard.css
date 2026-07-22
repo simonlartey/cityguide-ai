@@ -260,61 +260,6 @@ svg {
   box-shadow: inset 3px 0 0 var(--dashboard-accent);
 }
 
-.sidebar-section {
-  min-height: 0;
-  margin-top: 30px;
-}
-
-.sidebar-section h2 {
-  margin-bottom: 12px;
-  color: var(--dashboard-muted);
-  font-size: 0.74rem;
-  font-weight: 750;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.recent-chat-list {
-  display: grid;
-  gap: 3px;
-}
-
-.recent-chat-item {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  min-height: 42px;
-  align-items: center;
-  gap: 10px;
-  padding: 0 10px;
-  overflow: hidden;
-  color: #d5ddda;
-  background: transparent;
-  border: 0;
-  border-radius: 10px;
-  text-align: left;
-}
-
-.recent-chat-item span {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.recent-chat-item time {
-  color: var(--dashboard-subtle);
-  font-size: 0.76rem;
-}
-
-.recent-chat-item:hover,
-.recent-chat-item--active {
-  color: white;
-  background: rgba(255, 255, 255, 0.045);
-}
-
-.recent-chat-item--active {
-  box-shadow: inset 3px 0 0 var(--dashboard-accent);
-}
-
 .sidebar-footer {
   margin-top: auto;
   padding-top: 20px;
@@ -1756,7 +1701,6 @@ svg {
 .dashboard-shell--sidebar-collapsed .dashboard-brand-text,
 .dashboard-shell--sidebar-collapsed .new-chat-label,
 .dashboard-shell--sidebar-collapsed .sidebar-link-label,
-.dashboard-shell--sidebar-collapsed .recent-chats,
 .dashboard-shell--sidebar-collapsed .profile-copy,
 .dashboard-shell--sidebar-collapsed
   .sidebar-profile
@@ -1963,11 +1907,6 @@ svg {
     .sidebar-profile
     > .icon-button {
     display: initial;
-  }
-
-  .dashboard-shell--sidebar-collapsed
-    .recent-chats {
-    display: block;
   }
 
   .dashboard-shell--sidebar-collapsed

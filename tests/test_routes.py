@@ -531,3 +531,35 @@ def test_dashboard_places_photo_thumbnails_below_hero(client):
         "grid-template-columns: repeat(4, minmax(0, 1fr));"
         in stylesheet
     )
+
+
+def test_dashboard_uses_discovery_focused_sidebar(client):
+    response = client.get("/dashboard")
+
+    assert response.status_code == 200
+
+    html = response.get_data(as_text=True)
+
+    expected_labels = [
+        "New Search",
+        "Explore",
+        "Saved Places",
+        "Categories",
+        "Student Deals",
+        "Community Picks",
+        "History",
+    ]
+
+    for label in expected_labels:
+        assert label in html
+
+    assert "New Chat" not in html
+    assert "Recent chats" not in html
+    assert ">Home<" not in html
+    assert ">Recent<" not in html
+    assert ">Collections<" not in html
+    assert 'data-lucide="compass"' in html
+    assert 'data-lucide="layout-grid"' in html
+    assert 'data-lucide="badge-percent"' in html
+    assert 'data-lucide="users"' in html
+    assert 'data-lucide="history"' in html
