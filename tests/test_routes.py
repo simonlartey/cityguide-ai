@@ -315,3 +315,73 @@ def test_dashboard_supports_current_location_detection(client):
         ".current-location-button"
         in stylesheet
     )
+
+
+def test_dashboard_routes_followups_through_active_session(client):
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+
+    dashboard_response = client.get(
+        "/dashboard"
+    )
+
+    assert javascript_response.status_code == 200
+    assert dashboard_response.status_code == 200
+
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+
+    html = dashboard_response.get_data(
+        as_text=True
+    )
+
+    assert "activeSearchSessionId" in javascript
+
+    assert (
+        "searchResponse.search_id"
+        in javascript
+    )
+
+    assert (
+        "continueSearchConversation"
+        in javascript
+    )
+
+    assert (
+        "/continue"
+        in javascript
+    )
+
+    assert (
+        "continuationResponse.response"
+        in javascript
+    )
+
+    assert (
+        "Reviewing your current results..."
+        in javascript
+    )
+
+    assert (
+        "latestSearchRequestId += 1"
+        in javascript
+    )
+
+    assert (
+        "input.disabled = false"
+        in javascript
+    )
+
+    assert (
+        "submitButton.disabled = true"
+        in javascript
+    )
+
+    assert "resetSearchComposer" in javascript
+
+    assert (
+        "data-new-chat-button"
+        in html
+    )

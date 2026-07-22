@@ -31,6 +31,7 @@ const SELECTORS = {
   searchForm: "#dashboard-search-form",
   searchInput: "#dashboard-query",
   searchSubmit: "#dashboard-search-submit",
+  newChatButton: "[data-new-chat-button]",
   searchStatus: "#dashboard-search-status",
   searchProgress: ".search-progress",
   searchProgressTitle: "#search-progress-title",
@@ -65,6 +66,7 @@ let selectedLocation = {
 
 let PLACES = {};
 let latestSearchRequestId = 0;
+let activeSearchSessionId = null;
 let dashboardMap = null;
 let mapsLibraryPromise = null;
 let placeMapMarkers = new Map();
@@ -77,6 +79,25 @@ const updateLocationLabels = () => {
     .forEach((element) => {
       element.textContent = selectedLocation.label;
     });
+};
+
+const resetSearchComposer = () => {
+  const input = document.querySelector(
+    SELECTORS.searchInput
+  );
+
+  const submitButton = document.querySelector(
+    SELECTORS.searchSubmit
+  );
+
+  if (input) {
+    input.disabled = false;
+    input.value = "";
+  }
+
+  if (submitButton) {
+    submitButton.disabled = true;
+  }
 };
 
 const setSelectedLocation = ({
@@ -94,6 +115,10 @@ const setSelectedLocation = ({
       "A valid location label and coordinates are required."
     );
   }
+
+  activeSearchSessionId = null;
+  latestSearchRequestId += 1;
+  resetSearchComposer();
 
   selectedLocation = {
     label: label.trim(),
@@ -2229,6 +2254,47 @@ const searchPlaces = async (query, { signal } = {}) => {
   return data;
 };
 
+const continueSearchConversation = async (
+  sessionId,
+  message,
+  { signal } = {}
+) => {
+  const response = await fetch(
+    `/api/v1/search/${encodeURIComponent(sessionId)}/continue`,
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      signal,
+      body: JSON.stringify({
+        message,
+      }),
+    }
+  );
+
+  let data = {};
+
+  try {
+    data = await response.json();
+  } catch {
+    data = {};
+  }
+
+  if (!response.ok) {
+    const error = new Error(
+      data.error?.message ||
+        "CityGuide could not continue the conversation."
+    );
+
+    error.status = response.status;
+
+    throw error;
+  }
+
+  return data;
+};
+
 
 const setSearchLoadingState = (isLoading) => {
   const progress = document.querySelector(
@@ -2401,6 +2467,9 @@ const initializeDashboardSearch = () => {
     }
 
     const requestId = ++latestSearchRequestId;
+    const isFollowUp =
+      typeof activeSearchSessionId === "string" &&
+      activeSearchSessionId.length > 0;
 
     appendConversationMessage({
       role: "user",
@@ -2410,7 +2479,9 @@ const initializeDashboardSearch = () => {
     const pendingAssistantMessage =
       appendConversationMessage({
         role: "assistant",
-        text: "Searching for local places...",
+        text: isFollowUp
+          ? "Reviewing your current results..."
+          : "Searching for local places...",
         pending: true,
       });
 
@@ -2419,11 +2490,16 @@ const initializeDashboardSearch = () => {
     input.disabled = true;
     submitButton.disabled = true;
 
-    setSearchLoadingState(true);
-    hideResultsState();
+    if (isFollowUp) {
+      status.textContent =
+        "Continuing the current conversation.";
+    } else {
+      setSearchLoadingState(true);
+      hideResultsState();
 
-    status.textContent =
-      "Searching for local businesses.";
+      status.textContent =
+        "Searching for local businesses.";
+    }
 
     let searchFailed = false;
 
@@ -2434,6 +2510,31 @@ const initializeDashboardSearch = () => {
     );
 
     try {
+      if (isFollowUp) {
+        const continuationResponse =
+          await continueSearchConversation(
+            activeSearchSessionId,
+            query,
+            {
+              signal: controller.signal,
+            }
+          );
+
+        if (requestId !== latestSearchRequestId) {
+          return;
+        }
+
+        updateConversationMessage(
+          pendingAssistantMessage,
+          continuationResponse.response
+        );
+
+        status.textContent =
+          "Conversation continued.";
+
+        return;
+      }
+
       const searchResponse = await searchPlaces(query, {
         signal: controller.signal,
       });
@@ -2441,6 +2542,11 @@ const initializeDashboardSearch = () => {
       if (requestId !== latestSearchRequestId) {
         return;
       }
+
+      activeSearchSessionId =
+        typeof searchResponse.search_id === "string"
+          ? searchResponse.search_id
+          : null;
 
       if (searchResponse.results.length === 0) {
         clearSearchResults();
@@ -2492,9 +2598,19 @@ const initializeDashboardSearch = () => {
         return;
       }
 
-      clearSearchResults();
+      if (!isFollowUp) {
+        clearSearchResults();
+      }
 
       searchFailed = true;
+
+      if (
+        isFollowUp &&
+        error instanceof Error &&
+        error.status === 404
+      ) {
+        activeSearchSessionId = null;
+      }
 
       const requestTimedOut =
         error instanceof Error &&
@@ -2511,16 +2627,23 @@ const initializeDashboardSearch = () => {
       updateConversationMessage(
         pendingAssistantMessage,
         requestTimedOut
-          ? "The local search took too long. Please try again."
+          ? isFollowUp
+            ? "The follow-up took too long. Please try again."
+            : "The local search took too long. Please try again."
+          : isFollowUp
+          ? "I couldn’t continue this conversation right now. " +
+            "Please try again."
           : "I couldn’t load local recommendations right now. " +
-              "Please try again."
+            "Please try again."
       );
 
-      showResultsState({
-        title: "We could not complete your search",
-        message,
-        isError: true,
-      });
+      if (!isFollowUp) {
+        showResultsState({
+          title: "We could not complete your search",
+          message,
+          isError: true,
+        });
+      }
 
       console.error("CityGuide search failed:", error);
     } finally {
@@ -2530,10 +2653,12 @@ const initializeDashboardSearch = () => {
         return;
       }
 
-      if (searchFailed) {
-        setSearchErrorState();
-      } else {
-        setSearchLoadingState(false);
+      if (!isFollowUp) {
+        if (searchFailed) {
+          setSearchErrorState();
+        } else {
+          setSearchLoadingState(false);
+        }
       }
       input.disabled = false;
       updateSubmitState();
@@ -2804,6 +2929,46 @@ const initializeLocationSelector = () => {
     });
 };
 
+const initializeNewChat = () => {
+  const button = document.querySelector(
+    SELECTORS.newChatButton
+  );
+
+  const conversation = document.querySelector(
+    SELECTORS.conversation
+  );
+
+  if (!button || !conversation) {
+    return;
+  }
+
+  button.addEventListener("click", () => {
+    activeSearchSessionId = null;
+    latestSearchRequestId += 1;
+
+    clearSearchResults();
+    conversation.replaceChildren();
+
+    initializeConversation();
+    setSearchProgressItemsState("ready");
+
+    const status = document.querySelector(
+      SELECTORS.searchStatus
+    );
+
+    if (status) {
+      status.textContent =
+        "Ready for a new local search.";
+    }
+
+    resetSearchComposer();
+
+    document
+      .querySelector(SELECTORS.searchInput)
+      ?.focus();
+  });
+};
+
 const initializeDashboard = () => {
   updateLocationLabels();
   initializeLocationSelector();
@@ -2817,6 +2982,7 @@ const initializeDashboard = () => {
   initializeSidebarToggle();
   initializeMobileSidebar();
   initializeMobileInspector();
+  initializeNewChat();
   initializeDashboardSearch();
   syncMobileDrawerAccessibility();
 };
