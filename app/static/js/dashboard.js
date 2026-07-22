@@ -791,6 +791,7 @@ const buildWebsiteUrl = (website) => {
 const createPlaceAction = ({
   iconName,
   label,
+  ariaLabel = label,
   url,
 }) => {
   if (!url) {
@@ -800,7 +801,7 @@ const createPlaceAction = ({
     button.disabled = true;
     button.setAttribute(
       "aria-label",
-      `${label} unavailable`
+      `${ariaLabel} unavailable`
     );
 
     const icon = document.createElement("span");
@@ -820,7 +821,10 @@ const createPlaceAction = ({
   link.href = url;
   link.target = "_blank";
   link.rel = "noopener noreferrer";
-  link.setAttribute("aria-label", label);
+  link.setAttribute(
+    "aria-label",
+    ariaLabel
+  );
 
   if (url.startsWith("tel:")) {
     link.removeAttribute("target");
@@ -1131,17 +1135,20 @@ const createRecommendationCard = (place, index) => {
   actions.append(
     createPlaceAction({
       iconName: "navigation",
-      label: `Directions to ${place.name}`,
+      label: "Directions",
+      ariaLabel: `Get directions to ${place.name}`,
       url: buildDirectionsUrl(place),
     }),
     createPlaceAction({
       iconName: "phone",
-      label: `Call ${place.name}`,
+      label: "Call",
+      ariaLabel: `Call ${place.name}`,
       url: buildPhoneUrl(place.phone),
     }),
     createPlaceAction({
       iconName: "globe-2",
-      label: `Visit ${place.name} website`,
+      label: "Website",
+      ariaLabel: `Visit ${place.name} website`,
       url: buildWebsiteUrl(place.website),
     })
   );

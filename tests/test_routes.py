@@ -420,3 +420,49 @@ def test_dashboard_persists_selected_location(client):
         "saveSelectedLocation(selectedLocation)"
         in javascript
     )
+
+
+def test_dashboard_uses_compact_place_action_labels(client):
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+
+    stylesheet_response = client.get(
+        "/static/css/dashboard.css"
+    )
+
+    assert javascript_response.status_code == 200
+    assert stylesheet_response.status_code == 200
+
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+
+    stylesheet = stylesheet_response.get_data(
+        as_text=True
+    )
+
+    assert 'label: "Directions"' in javascript
+    assert 'label: "Call"' in javascript
+    assert 'label: "Website"' in javascript
+
+    assert (
+        "ariaLabel: `Get directions to ${place.name}`"
+        in javascript
+    )
+
+    assert (
+        "ariaLabel: `Call ${place.name}`"
+        in javascript
+    )
+
+    assert (
+        "ariaLabel: `Visit ${place.name} website`"
+        in javascript
+    )
+
+    assert (
+        ".recommendation-actions {\n"
+        "  display: grid;"
+        in stylesheet
+    )
