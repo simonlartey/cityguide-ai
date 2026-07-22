@@ -606,3 +606,57 @@ def test_dashboard_supports_local_saved_places(client):
         in stylesheet
     )
     assert "fill: currentColor;" in stylesheet
+
+
+def test_dashboard_contains_saved_places_view(client):
+    dashboard_response = client.get("/dashboard")
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+    stylesheet_response = client.get(
+        "/static/css/dashboard.css"
+    )
+
+    assert dashboard_response.status_code == 200
+    assert javascript_response.status_code == 200
+    assert stylesheet_response.status_code == 200
+
+    html = dashboard_response.get_data(as_text=True)
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+    stylesheet = stylesheet_response.get_data(
+        as_text=True
+    )
+
+    assert (
+        'data-dashboard-navigation="explore"'
+        in html
+    )
+    assert (
+        'data-dashboard-navigation="saved"'
+        in html
+    )
+    assert 'data-dashboard-view="saved"' in html
+    assert 'data-saved-places-list' in html
+    assert 'data-saved-places-empty' in html
+    assert "No saved places yet" in html
+
+    assert (
+        '"cityguide:saved-places"'
+        in javascript
+    )
+    assert "createSavedPlaceRecord" in javascript
+    assert "renderSavedPlacesView" in javascript
+    assert "setDashboardView" in javascript
+    assert (
+        "initializeDashboardNavigation"
+        in javascript
+    )
+
+    assert (
+        ".dashboard-shell--saved-view"
+        in stylesheet
+    )
+    assert ".saved-places-view" in stylesheet
+    assert ".saved-places-empty" in stylesheet

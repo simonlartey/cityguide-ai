@@ -83,6 +83,7 @@
           class="sidebar-link sidebar-link--active nav-link"
           aria-label="Explore"
           aria-current="page"
+          data-dashboard-navigation="explore"
         >
           <span
             aria-hidden="true"
@@ -93,9 +94,10 @@
         </a>
 
         <a
-          href="#"
+          href="#saved-places"
           class="sidebar-link nav-link"
           aria-label="Saved Places"
+          data-dashboard-navigation="saved"
         >
           <span
             aria-hidden="true"
@@ -318,6 +320,7 @@
       <section
         class="conversation-panel"
         aria-labelledby="conversation-title"
+        data-dashboard-view="explore"
       >
         <h1
           id="conversation-title"
@@ -484,7 +487,77 @@
         </div>
       </section>
 
-      <footer class="chat-composer-shell">
+      <section
+        class="saved-places-view"
+        data-dashboard-view="saved"
+        aria-labelledby="saved-places-title"
+        hidden
+      >
+        <div class="saved-places-content">
+          <header class="saved-places-heading">
+            <div>
+              <span class="saved-places-eyebrow">
+                Your collection
+              </span>
+
+              <h1 id="saved-places-title">
+                Saved Places
+              </h1>
+
+              <p>
+                Keep your favorite local discoveries together
+                and return to them anytime.
+              </p>
+            </div>
+
+            <button
+              type="button"
+              class="saved-places-explore-button"
+              data-saved-places-explore
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="compass"
+              ></span>
+
+              Explore places
+            </button>
+          </header>
+
+          <section
+            class="saved-places-empty"
+            data-saved-places-empty
+            aria-labelledby="saved-places-empty-title"
+          >
+            <span
+              class="saved-places-empty-icon"
+              aria-hidden="true"
+              data-lucide="heart"
+            ></span>
+
+            <h2 id="saved-places-empty-title">
+              No saved places yet
+            </h2>
+
+            <p>
+              Save a place from your search results and it
+              will appear here.
+            </p>
+          </section>
+
+          <section
+            class="saved-places-list"
+            data-saved-places-list
+            aria-label="Saved businesses"
+            hidden
+          ></section>
+        </div>
+      </section>
+
+      <footer
+        class="chat-composer-shell"
+        data-dashboard-view="explore"
+      >
         <form
           id="dashboard-search-form"
           class="chat-composer"

@@ -50,6 +50,15 @@ const SELECTORS = {
     "[data-place-call-action]",
   placeWebsiteAction:
     "[data-place-website-action]",
+  dashboardView: "[data-dashboard-view]",
+  dashboardNavigation:
+    "[data-dashboard-navigation]",
+  savedPlacesList:
+    "[data-saved-places-list]",
+  savedPlacesEmpty:
+    "[data-saved-places-empty]",
+  savedPlacesExplore:
+    "[data-saved-places-explore]",
 };
 
 const DEFAULT_LOCATION = Object.freeze({
@@ -63,6 +72,9 @@ const LOCATION_STORAGE_KEY =
 
 const SAVED_PLACES_STORAGE_KEY =
   "cityguide:saved-place-ids";
+
+const SAVED_PLACE_RECORDS_STORAGE_KEY =
+  "cityguide:saved-places";
 
 const SEARCH_TIMEOUT_MILLISECONDS = 30000;
 
@@ -176,6 +188,107 @@ const persistSavedPlaceIds = (savedPlaceIds) => {
   }
 };
 
+const loadSavedPlaceRecords = () => {
+  try {
+    const storedValue = window.localStorage.getItem(
+      SAVED_PLACE_RECORDS_STORAGE_KEY
+    );
+
+    if (!storedValue) {
+      return {};
+    }
+
+    const parsedValue = JSON.parse(storedValue);
+
+    if (
+      !parsedValue ||
+      typeof parsedValue !== "object" ||
+      Array.isArray(parsedValue)
+    ) {
+      window.localStorage.removeItem(
+        SAVED_PLACE_RECORDS_STORAGE_KEY
+      );
+
+      return {};
+    }
+
+    return parsedValue;
+  } catch (error) {
+    console.warn(
+      "CityGuide could not restore saved place details:",
+      error
+    );
+
+    return {};
+  }
+};
+
+const persistSavedPlaceRecords = (records) => {
+  try {
+    window.localStorage.setItem(
+      SAVED_PLACE_RECORDS_STORAGE_KEY,
+      JSON.stringify(records)
+    );
+  } catch (error) {
+    console.warn(
+      "CityGuide could not save place details:",
+      error
+    );
+  }
+};
+
+const createSavedPlaceRecord = (place) => ({
+  id: place.id,
+  name: place.name,
+  description: place.description,
+  category: place.category,
+  tags: Array.isArray(place.tags)
+    ? place.tags
+    : [],
+  rating: place.rating,
+  review_count: place.review_count,
+  distance_miles: place.distance_miles,
+  price_level: place.price_level,
+  open_now: place.open_now,
+  address: place.address,
+  phone: place.phone,
+  website: place.website,
+  hours_text: place.hours_text,
+  photos: Array.isArray(place.photos)
+    ? place.photos
+    : [],
+  match_reasons: Array.isArray(place.match_reasons)
+    ? place.match_reasons
+    : [],
+  latitude: place.latitude,
+  longitude: place.longitude,
+});
+
+const persistSavedPlaceRecord = (place) => {
+  if (!place?.id) {
+    return;
+  }
+
+  const records = loadSavedPlaceRecords();
+
+  records[place.id] =
+    createSavedPlaceRecord(place);
+
+  persistSavedPlaceRecords(records);
+};
+
+const removeSavedPlaceRecord = (placeId) => {
+  const records = loadSavedPlaceRecords();
+
+  if (!(placeId in records)) {
+    return;
+  }
+
+  delete records[placeId];
+
+  persistSavedPlaceRecords(records);
+};
+
 const isPlaceSaved = (placeId) =>
   loadSavedPlaceIds().has(placeId);
 
@@ -232,14 +345,26 @@ const toggleSavedPlace = (placeId) => {
 
   if (savedPlaceIds.has(placeId)) {
     savedPlaceIds.delete(placeId);
+    removeSavedPlaceRecord(placeId);
     saved = false;
   } else {
+    const place = PLACES[placeId];
+
+    if (!place) {
+      return false;
+    }
+
     savedPlaceIds.add(placeId);
+    persistSavedPlaceRecord(place);
     saved = true;
   }
 
   persistSavedPlaceIds(savedPlaceIds);
   updateSavedPlaceButtons(placeId);
+
+  if (activeDashboardView === "saved") {
+    renderSavedPlacesView();
+  }
 
   return saved;
 };
@@ -270,6 +395,7 @@ let selectedLocation =
   };
 
 let PLACES = {};
+let activeDashboardView = "explore";
 let latestSearchRequestId = 0;
 let activeSearchSessionId = null;
 let dashboardMap = null;
@@ -1105,6 +1231,14 @@ const updateCurrentPlaces = (places) => {
     ])
   );
 
+  const savedPlaceIds = loadSavedPlaceIds();
+
+  normalizedPlaces.forEach((place) => {
+    if (savedPlaceIds.has(place.id)) {
+      persistSavedPlaceRecord(place);
+    }
+  });
+
   return normalizedPlaces;
 };
 
@@ -1339,6 +1473,155 @@ const createInspectorResult = (place, index) => {
   result.append(rank, copy);
 
   return result;
+};
+
+const createSavedPlaceCard = (place, index) => {
+  const card = createRecommendationCard(
+    place,
+    index
+  );
+
+  card.classList.remove(
+    "recommendation-card--selected"
+  );
+
+  card.removeAttribute(
+    "data-recommendation-card"
+  );
+
+  card.removeAttribute("tabindex");
+
+  return card;
+};
+
+const getSavedPlaces = () => {
+  const savedPlaceIds = loadSavedPlaceIds();
+  const records = loadSavedPlaceRecords();
+
+  return Array.from(savedPlaceIds)
+    .map((placeId, index) => {
+      const record =
+        records[placeId] || PLACES[placeId];
+
+      return record
+        ? normalizePlaceForDashboard(
+            record,
+            index
+          )
+        : null;
+    })
+    .filter(Boolean);
+};
+
+const renderSavedPlacesView = () => {
+  const list = document.querySelector(
+    SELECTORS.savedPlacesList
+  );
+
+  const emptyState = document.querySelector(
+    SELECTORS.savedPlacesEmpty
+  );
+
+  if (!list || !emptyState) {
+    return;
+  }
+
+  const places = getSavedPlaces();
+
+  list.replaceChildren(
+    ...places.map(createSavedPlaceCard)
+  );
+
+  list.hidden = places.length === 0;
+  emptyState.hidden = places.length > 0;
+
+  places.forEach((place) => {
+    updateSavedPlaceButtons(place.id);
+  });
+
+  hydrateDashboardIcons();
+};
+
+const setDashboardView = (viewName) => {
+  const isSavedView = viewName === "saved";
+
+  activeDashboardView = isSavedView
+    ? "saved"
+    : "explore";
+
+  document
+    .querySelectorAll(SELECTORS.dashboardView)
+    .forEach((view) => {
+      view.hidden =
+        view.dataset.dashboardView !==
+        activeDashboardView;
+    });
+
+  document
+    .querySelectorAll(
+      SELECTORS.dashboardNavigation
+    )
+    .forEach((link) => {
+      const isActive =
+        link.dataset.dashboardNavigation ===
+        activeDashboardView;
+
+      link.classList.toggle(
+        "sidebar-link--active",
+        isActive
+      );
+
+      if (isActive) {
+        link.setAttribute(
+          "aria-current",
+          "page"
+        );
+      } else {
+        link.removeAttribute("aria-current");
+      }
+    });
+
+  document
+    .querySelector(SELECTORS.sidebarShell)
+    ?.classList.toggle(
+      "dashboard-shell--saved-view",
+      isSavedView
+    );
+
+  if (isSavedView) {
+    renderSavedPlacesView();
+  }
+};
+
+const initializeDashboardNavigation = () => {
+  document
+    .querySelectorAll(
+      SELECTORS.dashboardNavigation
+    )
+    .forEach((link) => {
+      link.addEventListener(
+        "click",
+        (event) => {
+          event.preventDefault();
+
+          setDashboardView(
+            link.dataset.dashboardNavigation
+          );
+        }
+      );
+    });
+
+  document
+    .querySelector(
+      SELECTORS.savedPlacesExplore
+    )
+    ?.addEventListener("click", () => {
+      setDashboardView("explore");
+
+      document
+        .querySelector(SELECTORS.searchInput)
+        ?.focus();
+    });
 };
 
 const renderRecommendationCards = (places) => {
@@ -3198,6 +3481,8 @@ const initializeNewChat = () => {
   }
 
   button.addEventListener("click", () => {
+    setDashboardView("explore");
+
     activeSearchSessionId = null;
     latestSearchRequestId += 1;
 
@@ -3232,6 +3517,7 @@ const initializeDashboard = () => {
   initializeFilterChips();
   initializeRecommendationCards();
   initializeSavedPlaces();
+  initializeDashboardNavigation();
   initializeInspectorTabs();
   initializeInspectorResults();
   activateInspectorTab("map");

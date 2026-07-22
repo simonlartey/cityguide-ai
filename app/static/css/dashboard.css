@@ -475,6 +475,121 @@ svg {
   gap: 4px;
 }
 
+.dashboard-shell--saved-view {
+  grid-template-columns:
+    var(--sidebar-width)
+    minmax(0, 1fr);
+}
+
+.dashboard-shell--saved-view
+  .dashboard-inspector {
+  display: none;
+}
+
+.saved-places-view {
+  min-height: 0;
+  overflow: auto;
+  padding: 42px 34px;
+}
+
+.saved-places-view[hidden] {
+  display: none;
+}
+
+.saved-places-content {
+  width: min(100%, 1120px);
+  margin: 0 auto;
+}
+
+.saved-places-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 28px;
+  margin-bottom: 30px;
+}
+
+.saved-places-eyebrow {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--dashboard-accent);
+  font-size: 0.74rem;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.saved-places-heading h1 {
+  font-size: clamp(1.8rem, 3vw, 2.5rem);
+  letter-spacing: -0.04em;
+}
+
+.saved-places-heading p {
+  max-width: 620px;
+  margin-top: 10px;
+  color: var(--dashboard-muted);
+  line-height: 1.6;
+}
+
+.saved-places-explore-button {
+  display: inline-flex;
+  min-height: 44px;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 9px;
+  padding: 0 16px;
+  color: white;
+  background: var(--dashboard-accent);
+  border: 0;
+  border-radius: 12px;
+  font-weight: 700;
+}
+
+.saved-places-explore-button:hover {
+  background: var(--dashboard-accent-dark);
+}
+
+.saved-places-empty {
+  display: grid;
+  min-height: 360px;
+  place-items: center;
+  align-content: center;
+  padding: 44px;
+  text-align: center;
+  background: var(--dashboard-surface-raised);
+  border: 1px dashed
+    rgba(201, 137, 43, 0.32);
+  border-radius: var(--dashboard-radius-lg);
+}
+
+.saved-places-empty[hidden],
+.saved-places-list[hidden] {
+  display: none;
+}
+
+.saved-places-empty-icon {
+  width: 48px;
+  height: 48px;
+  color: var(--dashboard-accent);
+}
+
+.saved-places-empty h2 {
+  margin-top: 18px;
+  font-size: 1.25rem;
+}
+
+.saved-places-empty p {
+  max-width: 420px;
+  margin-top: 9px;
+  color: var(--dashboard-muted);
+  line-height: 1.55;
+}
+
+.saved-places-list {
+  display: grid;
+  gap: 14px;
+}
+
 .conversation-panel {
   min-height: 0;
   overflow: auto;
@@ -1968,6 +2083,20 @@ svg {
   .chat-composer-shell {
     padding-right: 18px;
     padding-left: 18px;
+  }
+}
+
+@media (max-width: 700px) {
+  .saved-places-view {
+    padding: 28px 18px;
+  }
+
+  .saved-places-heading {
+    display: grid;
+  }
+
+  .saved-places-explore-button {
+    justify-self: start;
   }
 }
 
