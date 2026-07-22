@@ -222,3 +222,71 @@ def test_dashboard_supports_manual_location_selection(client):
     assert 'role="status"' in html
 
     assert 'aria-live="polite"' in html
+
+
+def test_dashboard_supports_current_location_detection(client):
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+
+    dashboard_response = client.get(
+        "/dashboard"
+    )
+
+    stylesheet_response = client.get(
+        "/static/css/dashboard.css"
+    )
+
+    assert javascript_response.status_code == 200
+    assert dashboard_response.status_code == 200
+    assert stylesheet_response.status_code == 200
+
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+
+    html = dashboard_response.get_data(
+        as_text=True
+    )
+
+    stylesheet = stylesheet_response.get_data(
+        as_text=True
+    )
+
+    assert "navigator.geolocation" in javascript
+
+    assert (
+        "navigator.geolocation.getCurrentPosition"
+        in javascript
+    )
+
+    assert '"geocoding"' in javascript
+
+    assert "getLocationLabel" in javascript
+    assert "getGeolocationErrorMessage" in javascript
+    assert "fallbackLabel" in javascript
+
+    assert (
+        "latitude.toFixed(4)"
+        in javascript
+    )
+
+    assert (
+        "longitude.toFixed(4)"
+        in javascript
+    )
+
+    assert (
+        "data-current-location-button"
+        in html
+    )
+
+    assert (
+        "Use my current location"
+        in html
+    )
+
+    assert (
+        ".current-location-button"
+        in stylesheet
+    )

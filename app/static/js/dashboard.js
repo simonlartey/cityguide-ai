@@ -3,6 +3,8 @@ const SELECTORS = {
   locationLabel: "[data-current-location-label]",
   locationSelector: "[data-location-selector]",
   locationPanel: "[data-location-panel]",
+  currentLocationButton:
+    "[data-current-location-button]",
   locationAutocomplete:
     "[data-location-autocomplete]",
   locationStatus: "[data-location-status]",
@@ -107,6 +109,61 @@ const setSelectedLocation = ({
 
     dashboardMap.setZoom(13);
   }
+};
+
+const getLocationLabel = async ({
+  latitude,
+  longitude,
+}) => {
+  const { Geocoder } =
+    await window.google.maps.importLibrary(
+      "geocoding"
+    );
+
+  const geocoder = new Geocoder();
+
+  const { results } = await geocoder.geocode({
+    location: {
+      lat: latitude,
+      lng: longitude,
+    },
+  });
+
+  const result = results?.[0];
+
+  if (
+    typeof result?.formatted_address === "string" &&
+    result.formatted_address.trim()
+  ) {
+    return result.formatted_address.trim();
+  }
+
+  return `${latitude.toFixed(4)}, ${longitude.toFixed(4)}`;
+};
+
+const getGeolocationErrorMessage = (error) => {
+  if (error?.code === 1) {
+    return (
+      "Location permission was denied. " +
+      "Choose a location manually instead."
+    );
+  }
+
+  if (error?.code === 2) {
+    return (
+      "Your current location could not be determined. " +
+      "Choose a location manually instead."
+    );
+  }
+
+  if (error?.code === 3) {
+    return (
+      "Finding your current location took too long. " +
+      "Please try again."
+    );
+  }
+
+  return "CityGuide could not access your current location.";
 };
 
 const hydrateDashboardIcons = () => {
@@ -2446,11 +2503,17 @@ const initializeLocationSelector = () => {
     SELECTORS.locationStatus
   );
 
+  const currentLocationButton =
+    document.querySelector(
+      SELECTORS.currentLocationButton
+    );
+
   if (
     !selector ||
     !panel ||
     !autocompleteContainer ||
-    !status
+    !status ||
+    !currentLocationButton
   ) {
     return;
   }
@@ -2487,6 +2550,91 @@ const initializeLocationSelector = () => {
     setPanelOpen(false);
     selector.focus();
   });
+
+  currentLocationButton.addEventListener(
+    "click",
+    () => {
+      if (!navigator.geolocation) {
+        status.textContent =
+          "Current-location detection is not supported. " +
+          "Choose a location manually instead.";
+
+        return;
+      }
+
+      currentLocationButton.disabled = true;
+      status.textContent =
+        "Finding your current location...";
+
+      navigator.geolocation.getCurrentPosition(
+        async ({ coords }) => {
+          const latitude = coords.latitude;
+          const longitude = coords.longitude;
+
+          try {
+            await loadGoogleMapsLibrary();
+
+            const label = await getLocationLabel({
+              latitude,
+              longitude,
+            });
+
+            setSelectedLocation({
+              label,
+              latitude,
+              longitude,
+            });
+
+            clearSearchResults();
+
+            status.textContent =
+              `Search location changed to ${label}.`;
+
+            setPanelOpen(false);
+          } catch (error) {
+            const fallbackLabel =
+              `${latitude.toFixed(4)}, ${longitude.toFixed(4)}`;
+
+            setSelectedLocation({
+              label: fallbackLabel,
+              latitude,
+              longitude,
+            });
+
+            clearSearchResults();
+
+            status.textContent =
+              "Your current coordinates were found, but the " +
+              "location name could not be determined.";
+
+            setPanelOpen(false);
+
+            console.error(
+              "CityGuide reverse geocoding failed:",
+              error
+            );
+          } finally {
+            currentLocationButton.disabled = false;
+          }
+        },
+        (error) => {
+          currentLocationButton.disabled = false;
+          status.textContent =
+            getGeolocationErrorMessage(error);
+
+          console.error(
+            "CityGuide geolocation failed:",
+            error
+          );
+        },
+        {
+          enableHighAccuracy: false,
+          timeout: 10000,
+          maximumAge: 300000,
+        }
+      );
+    }
+  );
 
   void loadGoogleMapsLibrary()
     .then(async () => {

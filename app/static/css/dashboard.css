@@ -460,6 +460,50 @@ svg {
   font-size: 0.95rem;
 }
 
+.current-location-button {
+  display: flex;
+  width: 100%;
+  min-height: 46px;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  padding: 0 14px;
+  color: var(--dashboard-text);
+  background: var(--dashboard-accent-soft);
+  border: 1px solid rgba(201, 137, 43, 0.28);
+  border-radius: var(--dashboard-radius-sm);
+  font-weight: 700;
+}
+
+.current-location-button:hover {
+  border-color: var(--dashboard-accent);
+}
+
+.current-location-button:disabled {
+  opacity: 0.62;
+}
+
+.current-location-button svg {
+  color: var(--dashboard-accent);
+}
+
+.location-panel-divider {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 14px 0;
+  color: var(--dashboard-muted);
+  font-size: 0.75rem;
+}
+
+.location-panel-divider::before,
+.location-panel-divider::after {
+  height: 1px;
+  flex: 1;
+  background: var(--dashboard-border);
+  content: "";
+}
+
 .location-panel-heading span,
 .location-status {
   color: var(--dashboard-muted);
