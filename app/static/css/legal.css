@@ -65,17 +65,11 @@ a {
 }
 
 .legal-logo-mark {
-  display: grid;
-  width: 32px;
-  height: 32px;
-  place-items: center;
-  color: white;
-  background: linear-gradient(
-    145deg,
-    var(--legal-gold),
-    var(--legal-gold-dark)
-  );
-  border-radius: 10px;
+  display: block;
+  width: 34px;
+  height: 34px;
+  flex: 0 0 auto;
+  object-fit: contain;
 }
 
 .legal-main {

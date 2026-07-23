@@ -7,6 +7,9 @@ from app.repositories.in_memory_search_session import (
     InMemorySearchSessionRepository,
 )
 from app.services.conversation_manager import ConversationManager
+from app.services.discovery_cache import (
+    DiscoveryCache,
+)
 from config import Config
 
 
@@ -32,6 +35,12 @@ def create_app(config_class=Config):
 
     app.extensions["places_provider"] = create_places_provider(
         app.config
+    )
+
+    app.extensions["discovery_cache"] = (
+        DiscoveryCache(
+            ttl_seconds=21_600,
+        )
     )
 
     db.init_app(app)

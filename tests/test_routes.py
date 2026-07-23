@@ -96,12 +96,38 @@ def test_signup_rejects_duplicate_email(client, app):
         "/static/js/auth.js",
         "/static/js/dashboard.js",
         "/static/images/hero_img.jpg",
+        "/static/images/cityguide-logo.svg",
+        "/static/images/cityguide-transparent.png",
     ],
 )
 def test_static_assets_are_served(client, path):
     response = client.get(path)
 
     assert response.status_code == 200
+
+
+@pytest.mark.parametrize(
+    "path",
+    [
+        "/",
+        "/login",
+        "/signup",
+        "/privacy",
+        "/terms",
+        "/dashboard",
+    ],
+)
+def test_pages_use_cityguide_logo(client, path):
+    response = client.get(path)
+
+    assert response.status_code == 200
+
+    html = response.get_data(as_text=True)
+
+    assert (
+        "images/cityguide-logo.svg"
+        in html
+    )
 
 
 def test_dashboard_javascript_uses_assistant_response(client):
@@ -660,3 +686,77 @@ def test_dashboard_contains_saved_places_view(client):
     )
     assert ".saved-places-view" in stylesheet
     assert ".saved-places-empty" in stylesheet
+
+
+def test_dashboard_contains_discovery_hub(client):
+    dashboard_response = client.get("/dashboard")
+    javascript_response = client.get(
+        "/static/js/dashboard.js"
+    )
+    stylesheet_response = client.get(
+        "/static/css/dashboard.css"
+    )
+
+    assert dashboard_response.status_code == 200
+    assert javascript_response.status_code == 200
+    assert stylesheet_response.status_code == 200
+
+    html = dashboard_response.get_data(as_text=True)
+    javascript = javascript_response.get_data(
+        as_text=True
+    )
+    stylesheet = stylesheet_response.get_data(
+        as_text=True
+    )
+
+    assert (
+        'data-dashboard-navigation="categories"'
+        in html
+    )
+    assert (
+        'data-dashboard-view="categories"'
+        in html
+    )
+    assert "data-discovery-location" in html
+    assert "data-discovery-mood-grid" in html
+    assert "data-discovery-status" in html
+    assert "data-discovery-collections" in html
+    assert "discovery-surprise-button" in html
+    assert 'id="categories-title"' in html
+    assert "Discover" in html
+    assert "Surprise me" in html
+
+    assert "DISCOVERY_MOODS" in javascript
+    assert "fetchDiscoveryCollections" in javascript
+    assert '"/api/v1/discovery"' in javascript
+    assert "createDiscoveryMood" in javascript
+    assert "createDiscoveryTile" in javascript
+    assert "createDiscoveryCollection" in javascript
+    assert "renderDiscoveryHub" in javascript
+    assert "launchDiscoverySearch" in javascript
+    assert "initializeDiscoveryHub" in javascript
+    assert "discoveryCacheKey" in javascript
+    assert "discoveryMoodPreviews" in javascript
+    assert "discovery-mood-photo" in javascript
+    assert "buildPlacePhotoUrl" in javascript
+    assert "updateDiscoveryLocation" in javascript
+    assert "message-avatar-logo" in javascript
+    assert (
+        '"/static/images/cityguide-logo.svg"'
+        in javascript
+    )
+    assert "✦" not in javascript
+
+    assert ".discovery-hero" in stylesheet
+    assert ".discovery-mood-grid" in stylesheet
+    assert ".discovery-mood" in stylesheet
+    assert ".discovery-mood-photo" in stylesheet
+    assert ".discovery-mood-overlay" in stylesheet
+    assert ".discovery-mood-title" in stylesheet
+    assert ".discovery-collections" in stylesheet
+    assert ".discovery-track" in stylesheet
+    assert ".discovery-tile" in stylesheet
+    assert ".discovery-tile-photo" in stylesheet
+    assert ".discovery-loading-state" in stylesheet
+    assert ".discovery-photo-attribution" in stylesheet
+    assert ".message-avatar-logo" in stylesheet

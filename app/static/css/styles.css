@@ -73,8 +73,11 @@ a {
 }
 
 .logo-mark {
-  color: white;
-  font-size: 1.35rem;
+  display: block;
+  width: 34px;
+  height: 34px;
+  flex: 0 0 auto;
+  object-fit: contain;
 }
 
 .nav-links {

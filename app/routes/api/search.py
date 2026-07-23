@@ -7,7 +7,9 @@ from flask import (
 )
 
 from app.providers.places.errors import PlacesProviderError
+from app.schemas.discovery import DiscoveryRequest
 from app.schemas.search import SearchRequest, SearchValidationError
+from app.services.discovery_service import DiscoveryService
 from app.services.search_service import SearchService
 
 
@@ -201,6 +203,89 @@ def continue_search(session_id: str):
             "response": response,
         }
     ), 200
+
+
+@search_api_bp.post("/discovery")
+def get_discovery_collections():
+    """Return location-aware discovery collections."""
+
+    if not request.is_json:
+        return jsonify(
+            {
+                "error": {
+                    "code": "invalid_content_type",
+                    "message": (
+                        "Request body must use application/json."
+                    ),
+                }
+            }
+        ), 415
+
+    try:
+        discovery_request = DiscoveryRequest.from_dict(
+            request.get_json(silent=True)
+        )
+    except SearchValidationError as error:
+        return jsonify(
+            {
+                "error": {
+                    "code": "invalid_discovery_request",
+                    "message": str(error),
+                }
+            }
+        ), 400
+
+    discovery_cache = current_app.extensions[
+        "discovery_cache"
+    ]
+
+    cache_key = discovery_cache.build_key(
+        discovery_request.location.latitude,
+        discovery_request.location.longitude,
+    )
+
+    cached_response = discovery_cache.get(
+        cache_key
+    )
+
+    if cached_response is not None:
+        return jsonify(cached_response), 200
+
+    places_provider = current_app.extensions[
+        "places_provider"
+    ]
+
+    service = DiscoveryService(
+        places_provider=places_provider
+    )
+
+    try:
+        response = service.discover(
+            discovery_request
+        )
+    except PlacesProviderError:
+        current_app.logger.exception(
+            "Places provider failed during discovery."
+        )
+
+        return jsonify(
+            {
+                "error": {
+                    "code": "discovery_unavailable",
+                    "message": (
+                        "Local discovery collections are "
+                        "temporarily unavailable."
+                    ),
+                }
+            }
+        ), 503
+
+    discovery_cache.set(
+        cache_key,
+        response,
+    )
+
+    return jsonify(response), 200
 
 
 @search_api_bp.get("/place-photo")

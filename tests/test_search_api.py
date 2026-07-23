@@ -218,6 +218,59 @@ def test_search_api_does_not_hide_unexpected_errors(
         )
 
 
+def test_discovery_api_returns_location_aware_sections(
+    client,
+):
+    response = client.post(
+        "/api/v1/discovery",
+        json={
+            "location": {
+                "latitude": 43.6591,
+                "longitude": -70.2568,
+            }
+        },
+    )
+
+    assert response.status_code == 200
+
+    data = response.get_json()
+
+    assert len(data["sections"]) == 3
+    assert len(data["moods"]) == 4
+    assert data["location"]["latitude"] == 43.6591
+    assert data["location"]["longitude"] == -70.2568
+    assert data["moods"][0]["id"] == "eat"
+    assert data["moods"][0]["place"]["name"]
+
+    assert data["sections"][0]["title"] == (
+        "Trending Near You"
+    )
+
+    assert data["sections"][0]["description"] == (
+        "See what is trending right now."
+    )
+
+
+def test_discovery_api_rejects_invalid_location(
+    client,
+):
+    response = client.post(
+        "/api/v1/discovery",
+        json={
+            "location": {
+                "latitude": 200,
+                "longitude": -70.2568,
+            }
+        },
+    )
+
+    assert response.status_code == 400
+
+    assert response.get_json()["error"]["code"] == (
+        "invalid_discovery_request"
+    )
+
+
 def test_place_photo_redirects_to_resolved_url(
     app,
     client,

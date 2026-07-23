@@ -11,6 +11,8 @@
 
   <title>Terms of Service — CityGuide AI</title>
 
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/cityguide-transparent.png') }}" />
+
   <link rel="stylesheet" href="{{ url_for('static', filename='css/legal.css') }}" />
 </head>
 
@@ -21,7 +23,7 @@
       class="legal-logo"
       aria-label="Return to the CityGuide AI homepage"
     >
-      <span class="legal-logo-mark" aria-hidden="true">✦</span>
+      <img class="legal-logo-mark" src="{{ url_for('static', filename='images/cityguide-logo.svg') }}" alt="" />
       <span>CityGuide AI</span>
     </a>
   </header>
