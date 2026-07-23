@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>CityGuide AI — Your Local Expert</title>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/cityguide-transparent.png') }}" />
   <link rel="preload" as="image" href="{{ url_for('static', filename='images/hero_img.jpg') }}" />
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
 </head>
@@ -12,7 +13,7 @@
   <nav class="navbar">
     <div class="container nav-inner">
       <a href="{{ url_for('main.index') }}" class="logo">
-        <span class="logo-mark">✦</span>
+        <img class="logo-mark" src="{{ url_for('static', filename='images/cityguide-logo.svg') }}" alt="" />
         <span>CityGuide AI</span>
       </a>
 

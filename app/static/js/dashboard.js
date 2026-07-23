@@ -59,6 +59,20 @@ const SELECTORS = {
     "[data-saved-places-empty]",
   savedPlacesExplore:
     "[data-saved-places-explore]",
+  discoveryLocation:
+    "[data-discovery-location]",
+  discoveryMoodGrid:
+    "[data-discovery-mood-grid]",
+  discoveryCollections:
+    "[data-discovery-collections]",
+  discoveryQuery:
+    "[data-discovery-query]",
+  discoveryStatus:
+    "[data-discovery-status]",
+  discoveryStatusTitle:
+    "[data-discovery-status-title]",
+  discoveryStatusMessage:
+    "[data-discovery-status-message]",
 };
 
 const DEFAULT_LOCATION = Object.freeze({
@@ -77,6 +91,45 @@ const SAVED_PLACE_RECORDS_STORAGE_KEY =
   "cityguide:saved-places";
 
 const SEARCH_TIMEOUT_MILLISECONDS = 30000;
+
+const DISCOVERY_MOODS = Object.freeze([
+  {
+    id: "eat",
+    title: "Eat",
+    description: "Find something worth craving.",
+    icon: "utensils",
+    query:
+      "Help me find somewhere great to eat nearby",
+    tone: "food",
+  },
+  {
+    id: "relax",
+    title: "Relax",
+    description: "Slow down somewhere comfortable.",
+    icon: "coffee",
+    query:
+      "Find relaxing cafés, parks, or peaceful places nearby",
+    tone: "relax",
+  },
+  {
+    id: "explore",
+    title: "Explore",
+    description: "See something new today.",
+    icon: "compass",
+    query:
+      "Show me interesting places and experiences to explore nearby",
+    tone: "explore",
+  },
+  {
+    id: "shop",
+    title: "Shop",
+    description: "Discover useful and unique local stores.",
+    icon: "shopping-bag",
+    query:
+      "Find interesting local shops and useful stores nearby",
+    tone: "shop",
+  },
+]);
 
 const isValidStoredLocation = (location) =>
   typeof location?.label === "string" &&
@@ -396,6 +449,10 @@ let selectedLocation =
 
 let PLACES = {};
 let activeDashboardView = "explore";
+let discoveryCacheKey = null;
+let discoveryMoodPreviews = new Map();
+let discoverySections = [];
+let discoveryRequestId = 0;
 let latestSearchRequestId = 0;
 let activeSearchSessionId = null;
 let dashboardMap = null;
@@ -459,6 +516,18 @@ const setSelectedLocation = ({
 
   saveSelectedLocation(selectedLocation);
   updateLocationLabels();
+  updateDiscoveryLocation();
+
+  discoveryCacheKey = null;
+  discoveryMoodPreviews = new Map();
+  discoverySections = [];
+  discoveryRequestId += 1;
+
+  if (activeDashboardView === "categories") {
+    void renderDiscoveryHub({
+      force: true,
+    });
+  }
 
   if (dashboardMap) {
     dashboardMap.setCenter({
@@ -828,11 +897,24 @@ const createMessageAvatar = (role) => {
 
   if (role === "user") {
     avatar.textContent = "SL";
-    avatar.setAttribute("aria-label", "Simon Lartey");
-  } else {
-    avatar.textContent = "✦";
-    avatar.setAttribute("aria-hidden", "true");
+    avatar.setAttribute(
+      "aria-label",
+      "Simon Lartey"
+    );
+
+    return avatar;
   }
+
+  const logo = document.createElement("img");
+
+  logo.className = "message-avatar-logo";
+  logo.src =
+    "/static/images/cityguide-logo.svg";
+  logo.alt = "";
+  logo.setAttribute("aria-hidden", "true");
+
+  avatar.append(logo);
+  avatar.setAttribute("aria-hidden", "true");
 
   return avatar;
 };
@@ -1542,12 +1624,559 @@ const renderSavedPlacesView = () => {
   hydrateDashboardIcons();
 };
 
-const setDashboardView = (viewName) => {
-  const isSavedView = viewName === "saved";
+const createDiscoveryIcon = (iconName) => {
+  const icon = document.createElement("span");
 
-  activeDashboardView = isSavedView
-    ? "saved"
+  icon.setAttribute("aria-hidden", "true");
+  icon.setAttribute("data-lucide", iconName);
+
+  return icon;
+};
+
+const createDiscoveryMood = (mood) => {
+  const button = document.createElement("button");
+
+  button.type = "button";
+  button.className =
+    `discovery-mood discovery-mood--${mood.tone}`;
+  button.dataset.discoveryQuery = mood.query;
+
+  button.setAttribute(
+    "aria-label",
+    `${mood.title}: ${mood.description}`
+  );
+
+  const previewPlace =
+    discoveryMoodPreviews.get(mood.id);
+
+  const primaryPhoto = Array.isArray(
+    previewPlace?.photos
+  )
+    ? previewPlace.photos[0]
+    : null;
+
+  const photoUrl = buildPlacePhotoUrl(
+    primaryPhoto,
+    800
+  );
+
+  if (photoUrl) {
+    const image = document.createElement("img");
+
+    image.className = "discovery-mood-photo";
+    image.src = photoUrl;
+    image.alt = "";
+    image.loading = "lazy";
+    image.decoding = "async";
+
+    image.addEventListener("error", () => {
+      image.remove();
+
+      button.classList.remove(
+        "discovery-mood--has-photo"
+      );
+    });
+
+    button.classList.add(
+      "discovery-mood--has-photo"
+    );
+
+    button.append(image);
+  }
+
+  const overlay = document.createElement("span");
+  overlay.className = "discovery-mood-overlay";
+  overlay.setAttribute("aria-hidden", "true");
+
+  const iconShell = document.createElement("span");
+  iconShell.className = "discovery-mood-icon";
+  iconShell.setAttribute("aria-hidden", "true");
+
+  iconShell.append(
+    createDiscoveryIcon(mood.icon)
+  );
+
+  const title = document.createElement("strong");
+  title.className = "discovery-mood-title";
+  title.textContent = mood.title;
+
+  button.append(
+    overlay,
+    iconShell,
+    title
+  );
+
+  return button;
+};
+
+const createDiscoveryTile = (place) => {
+  const button = document.createElement("button");
+
+  button.type = "button";
+  button.className = "discovery-tile";
+  button.dataset.discoveryQuery =
+    place.discovery_query ||
+    `Tell me about ${place.name}`;
+
+  button.setAttribute(
+    "aria-label",
+    `Explore ${place.name}`
+  );
+
+  const visual = document.createElement("span");
+  visual.className = "discovery-tile-visual";
+
+  const primaryPhoto = Array.isArray(place.photos)
+    ? place.photos[0]
+    : null;
+
+  const photoUrl = buildPlacePhotoUrl(
+    primaryPhoto,
+    800
+  );
+
+  if (photoUrl) {
+    const image = document.createElement("img");
+
+    image.className = "discovery-tile-photo";
+    image.src = photoUrl;
+    image.alt = `${place.name} location`;
+    image.loading = "lazy";
+    image.decoding = "async";
+
+    image.addEventListener("error", () => {
+      image.remove();
+
+      visual.classList.remove(
+        "discovery-tile-visual--has-photo"
+      );
+    });
+
+    visual.classList.add(
+      "discovery-tile-visual--has-photo"
+    );
+
+    visual.append(image);
+
+    const attributionNames =
+      getPhotoAttributionNames(primaryPhoto);
+
+    if (attributionNames.length > 0) {
+      const attribution = document.createElement(
+        "span"
+      );
+
+      attribution.className =
+        "discovery-photo-attribution";
+
+      attribution.textContent =
+        `Photo: ${attributionNames.join(", ")}`;
+
+      visual.append(attribution);
+    }
+  }
+
+  const fallbackIcon =
+    document.createElement("span");
+
+  fallbackIcon.className =
+    "discovery-tile-icon";
+
+  fallbackIcon.append(
+    createDiscoveryIcon("map-pin")
+  );
+
+  visual.append(fallbackIcon);
+
+  const content = document.createElement("span");
+  content.className = "discovery-tile-content";
+
+  const title = document.createElement("strong");
+  title.textContent = place.name;
+
+  const metadata = document.createElement("span");
+
+  metadata.textContent = [
+    place.category,
+    Number.isFinite(place.rating)
+      ? `${place.rating} ★`
+      : null,
+    Number.isFinite(place.distance_miles)
+      ? `${place.distance_miles.toFixed(1)} mi`
+      : null,
+  ]
+    .filter(Boolean)
+    .join(" · ");
+
+  content.append(title, metadata);
+
+  const arrow = createDiscoveryIcon(
+    "arrow-up-right"
+  );
+
+  arrow.classList.add(
+    "discovery-tile-arrow"
+  );
+
+  button.append(visual, content, arrow);
+
+  return button;
+};
+
+const createDiscoveryCollection = (
+  collection
+) => {
+  const section = document.createElement("section");
+
+  section.className = "discovery-collection";
+  section.setAttribute(
+    "aria-labelledby",
+    `discovery-${collection.id}-title`
+  );
+
+  const heading = document.createElement("header");
+  heading.className = "discovery-section-heading";
+
+  const headingCopy = document.createElement("div");
+
+  const title = document.createElement("h2");
+  title.id = `discovery-${collection.id}-title`;
+  title.textContent = collection.title;
+
+  const description = document.createElement("p");
+  description.className =
+    "discovery-section-description";
+  description.textContent =
+    collection.description || "";
+
+  headingCopy.append(
+    title,
+    description
+  );
+
+  heading.append(headingCopy);
+
+  const track = document.createElement("div");
+  track.className = "discovery-track";
+
+  track.replaceChildren(
+    ...collection.places.map(
+      createDiscoveryTile
+    )
+  );
+
+  section.append(heading, track);
+
+  return section;
+};
+
+const updateDiscoveryLocation = () => {
+  const location = document.querySelector(
+    SELECTORS.discoveryLocation
+  );
+
+  if (!location) {
+    return;
+  }
+
+  const locationName =
+    selectedLocation.label
+      .split(",")[0]
+      ?.trim() || "places nearby";
+
+  location.textContent = locationName;
+};
+
+const setDiscoveryStatus = ({
+  title,
+  message,
+  isError = false,
+  hidden = false,
+}) => {
+  const status = document.querySelector(
+    SELECTORS.discoveryStatus
+  );
+
+  const titleElement = document.querySelector(
+    SELECTORS.discoveryStatusTitle
+  );
+
+  const messageElement = document.querySelector(
+    SELECTORS.discoveryStatusMessage
+  );
+
+  if (
+    !status ||
+    !titleElement ||
+    !messageElement
+  ) {
+    return;
+  }
+
+  titleElement.textContent = title;
+  messageElement.textContent = message;
+
+  status.classList.toggle(
+    "discovery-loading-state--error",
+    isError
+  );
+
+  status.hidden = hidden;
+};
+
+const fetchDiscoveryCollections = async ({
+  signal,
+} = {}) => {
+  const response = await fetch(
+    "/api/v1/discovery",
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      signal,
+      body: JSON.stringify({
+        location: {
+          latitude: selectedLocation.latitude,
+          longitude: selectedLocation.longitude,
+        },
+      }),
+    }
+  );
+
+  let data = {};
+
+  try {
+    data = await response.json();
+  } catch {
+    data = {};
+  }
+
+  if (!response.ok) {
+    throw new Error(
+      data.error?.message ||
+        "CityGuide could not load local collections."
+    );
+  }
+
+  return data;
+};
+
+const renderDiscoveryHub = async ({
+  force = false,
+} = {}) => {
+  const moodGrid = document.querySelector(
+    SELECTORS.discoveryMoodGrid
+  );
+
+  const collections = document.querySelector(
+    SELECTORS.discoveryCollections
+  );
+
+  if (!moodGrid || !collections) {
+    return;
+  }
+
+  moodGrid.replaceChildren(
+    ...DISCOVERY_MOODS.map(
+      createDiscoveryMood
+    )
+  );
+
+  updateDiscoveryLocation();
+  hydrateDashboardIcons();
+
+  const locationKey = [
+    selectedLocation.latitude.toFixed(5),
+    selectedLocation.longitude.toFixed(5),
+  ].join(":");
+
+  if (
+    !force &&
+    discoveryCacheKey === locationKey &&
+    discoverySections.length > 0
+  ) {
+    collections.replaceChildren(
+      ...discoverySections.map(
+        createDiscoveryCollection
+      )
+    );
+
+    collections.hidden = false;
+
+    setDiscoveryStatus({
+      title: "",
+      message: "",
+      hidden: true,
+    });
+
+    hydrateDashboardIcons();
+    return;
+  }
+
+  const requestId = ++discoveryRequestId;
+
+  collections.hidden = true;
+
+  setDiscoveryStatus({
+    title: "Finding places near you",
+    message:
+      "CityGuide is preparing local collections.",
+  });
+
+  try {
+    const response =
+      await fetchDiscoveryCollections();
+
+    if (requestId !== discoveryRequestId) {
+      return;
+    }
+
+    discoveryCacheKey = locationKey;
+
+    discoveryMoodPreviews = new Map(
+      Array.isArray(response.moods)
+        ? response.moods
+            .filter(
+              (mood) =>
+                typeof mood?.id === "string" &&
+                mood.place
+            )
+            .map((mood) => [
+              mood.id,
+              mood.place,
+            ])
+        : []
+    );
+
+    discoverySections = Array.isArray(
+      response.sections
+    )
+      ? response.sections.filter(
+          (section) =>
+            Array.isArray(section.places) &&
+            section.places.length > 0
+        )
+      : [];
+
+    if (discoverySections.length === 0) {
+      setDiscoveryStatus({
+        title: "No collections found",
+        message:
+          "Try another location or begin with one of the mood options above.",
+      });
+
+      return;
+    }
+
+    moodGrid.replaceChildren(
+      ...DISCOVERY_MOODS.map(
+        createDiscoveryMood
+      )
+    );
+
+    collections.replaceChildren(
+      ...discoverySections.map(
+        createDiscoveryCollection
+      )
+    );
+
+    collections.hidden = false;
+
+    setDiscoveryStatus({
+      title: "",
+      message: "",
+      hidden: true,
+    });
+
+    hydrateDashboardIcons();
+  } catch (error) {
+    if (requestId !== discoveryRequestId) {
+      return;
+    }
+
+    console.error(
+      "CityGuide discovery failed:",
+      error
+    );
+
+    setDiscoveryStatus({
+      title: "Local collections unavailable",
+      message:
+        error.message ||
+        "Try again in a moment.",
+      isError: true,
+    });
+  }
+};
+
+const launchDiscoverySearch = (query) => {
+  const searchInput = document.querySelector(
+    SELECTORS.searchInput
+  );
+
+  const searchForm = document.querySelector(
+    SELECTORS.searchForm
+  );
+
+  if (!searchInput || !searchForm || !query) {
+    return;
+  }
+
+  setDashboardView("explore");
+
+  searchInput.value = query;
+
+  searchInput.dispatchEvent(
+    new Event("input", {
+      bubbles: true,
+    })
+  );
+
+  searchInput.focus();
+  searchForm.requestSubmit();
+};
+
+const initializeDiscoveryHub = () => {
+  const categoriesView = document.querySelector(
+    '[data-dashboard-view="categories"]'
+  );
+
+  if (!categoriesView) {
+    return;
+  }
+
+  categoriesView.addEventListener(
+    "click",
+    (event) => {
+      const trigger = event.target.closest(
+        SELECTORS.discoveryQuery
+      );
+
+      if (!trigger) {
+        return;
+      }
+
+      launchDiscoverySearch(
+        trigger.dataset.discoveryQuery
+      );
+    }
+  );
+};
+
+const setDashboardView = (viewName) => {
+  const supportedViews = new Set([
+    "explore",
+    "saved",
+    "categories",
+  ]);
+
+  activeDashboardView = supportedViews.has(viewName)
+    ? viewName
     : "explore";
+
+  const isContentView =
+    activeDashboardView !== "explore";
 
   document
     .querySelectorAll(SELECTORS.dashboardView)
@@ -1585,12 +2214,18 @@ const setDashboardView = (viewName) => {
     .querySelector(SELECTORS.sidebarShell)
     ?.classList.toggle(
       "dashboard-shell--saved-view",
-      isSavedView
+      isContentView
     );
 
-  if (isSavedView) {
+  if (activeDashboardView === "saved") {
     renderSavedPlacesView();
   }
+
+  if (activeDashboardView === "categories") {
+    void renderDiscoveryHub();
+  }
+
+  hydrateDashboardIcons();
 };
 
 const initializeDashboardNavigation = () => {
@@ -3518,6 +4153,7 @@ const initializeDashboard = () => {
   initializeRecommendationCards();
   initializeSavedPlaces();
   initializeDashboardNavigation();
+  initializeDiscoveryHub();
   initializeInspectorTabs();
   initializeInspectorResults();
   activateInspectorTab("map");

@@ -11,6 +11,8 @@
 
   <title>Create Account — CityGuide AI</title>
 
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/cityguide-transparent.png') }}" />
+
   <link rel="preload" as="image" href="{{ url_for('static', filename='images/hero_img.jpg') }}" />
   <link rel="stylesheet" href="{{ url_for('static', filename='css/auth.css') }}" />
 </head>
@@ -22,7 +24,7 @@
       class="auth-logo"
       aria-label="Return to the CityGuide AI homepage"
     >
-      <span class="auth-logo-mark" aria-hidden="true">✦</span>
+      <img class="auth-logo-mark" src="{{ url_for('static', filename='images/cityguide-logo.svg') }}" alt="" />
       <span>CityGuide AI</span>
     </a>
   </header>

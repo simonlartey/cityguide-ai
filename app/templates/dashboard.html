@@ -15,6 +15,12 @@
   <title>Dashboard — CityGuide AI</title>
 
   <link
+    rel="icon"
+    type="image/png"
+    href="{{ url_for('static', filename='images/cityguide-transparent.png') }}"
+  />
+
+  <link
     rel="stylesheet"
     href="{{ url_for('static', filename='css/dashboard.css') }}"
   />
@@ -36,12 +42,11 @@
           class="dashboard-brand"
           aria-label="CityGuide AI home"
         >
-          <span
+          <img
             class="dashboard-brand-mark"
-            aria-hidden="true"
-          >
-            ✦
-          </span>
+            src="{{ url_for('static', filename='images/cityguide-logo.svg') }}"
+            alt=""
+          />
 
           <span class="dashboard-brand-text">CityGuide AI</span>
         </a>
@@ -108,9 +113,10 @@
         </a>
 
         <a
-          href="#"
+          href="#categories"
           class="sidebar-link nav-link"
           aria-label="Categories"
+          data-dashboard-navigation="categories"
         >
           <span
             aria-hidden="true"
@@ -549,6 +555,74 @@
             class="saved-places-list"
             data-saved-places-list
             aria-label="Saved businesses"
+            hidden
+          ></section>
+        </div>
+      </section>
+
+      <section
+        id="categories"
+        class="categories-view"
+        data-dashboard-view="categories"
+        aria-labelledby="categories-title"
+        hidden
+      >
+        <div class="categories-content">
+          <header class="categories-heading discovery-hero">
+            <div>
+              <h1 id="categories-title">
+                Discover
+                <span data-discovery-location>
+                  Portland
+                </span>
+              </h1>
+            </div>
+
+            <button
+              type="button"
+              class="discovery-surprise-button"
+              data-discovery-query="Surprise me"
+            >
+              <span
+                aria-hidden="true"
+                data-lucide="dice-5"
+              ></span>
+
+              Surprise me
+            </button>
+          </header>
+
+          <section class="discovery-mood-section">
+            <div
+              class="discovery-mood-grid"
+              data-discovery-mood-grid
+            ></div>
+          </section>
+
+          <section
+            class="discovery-loading-state"
+            data-discovery-status
+          >
+            <span
+              class="discovery-loading-icon"
+              aria-hidden="true"
+              data-lucide="loader-circle"
+            ></span>
+
+            <div>
+              <h2 data-discovery-status-title>
+                Finding places near you
+              </h2>
+
+              <p data-discovery-status-message>
+                CityGuide is preparing local collections.
+              </p>
+            </div>
+          </section>
+
+          <section
+            class="discovery-collections"
+            data-discovery-collections
             hidden
           ></section>
         </div>
